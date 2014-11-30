@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_print_service_label">Adicionar serviço</string>
+    <string name="advanced_settings_button">Configur. da impressora</string>
+    <string name="all_printers">Todas as impressoras…</string>
+    <string name="all_printers_label">Todas as impressoras</string>
+    <string name="app_label">Sp. de impressão</string>
+    <string name="blocked_notification_title_template">A impressora bloqueou %1$s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cancelling_notification_title_template">Cancelando %1$s</string>
+    <string name="choose_print_service">Selecione o serviço de impressão</string>
+    <string name="failed_notification_title_template">Erro ao imprimir %1$s</string>
+    <string name="generating_print_job">Gerir trabalho de impressão</string>
+    <string name="install_for_print_preview">Instalar o visualizador de PDF</string>
+    <string name="label_color">Cor</string>
+    <string name="label_copies">Cópias</string>
+    <string name="label_destination">Destino</string>
+    <string name="label_orientation">Orientação</string>
+    <string name="label_pages">Páginas (%1$s)</string>
+    <string name="label_paper_size">Tamanho do papel</string>
+    <string name="no_connection_to_printer">Sem ligação com a impressora</string>
+    <string name="page_count_unknown">Páginas</string>
+    <string name="pages_range_example">Ex.: 1–5, 8, 11–13</string>
+    <string name="print_add_printer">Adicionar impressora</string>
+    <string name="print_button">Imprimir</string>
+    <string name="print_dialog">Diálogo de impressão</string>
+    <string name="print_error_default_message">Não foi possível criar o trabalho de impressão</string>
+    <string name="print_forget_printer">Esquecer impressora</string>
+    <string name="print_no_printers">Nenhuma impressora encontrada</string>
+    <string name="print_preview">Visualização de impressão</string>
+    <string name="print_search_box_hidden_utterance">Caixa de pesquisa oculta</string>
+    <string name="print_search_box_shown_utterance">Caixa de pesquisa exibida</string>
+    <string name="print_searching_for_printers">Procurando impressoras</string>
+    <string name="print_select_printer">Selecionar impressora</string>
+    <string name="printer_unavailable">%1$s – não disponível</string>
+    <string name="printing_app_crashed">A aplicação de impressão falhou</string>
+    <string name="printing_notification_title_template">Imprimindo %1$s</string>
+    <string name="reason_unknown">desconhecido</string>
+    <string name="restart">Reiniciar</string>
+    <string name="save_as_pdf">Guardar como PDF</string>
+    <string name="save_button">Guardar</string>
+    <string name="search">Pesquisar</string>
+</resources>

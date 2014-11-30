@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d músicas encontradas</item>
+        <item quantity="one">%d música encontrada</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d músicas serão transferidas</item>
+        <item quantity="one">1 música será transferida</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_Lista de reprodução">
+        <item quantity="other">%d músicas adicionadas à Lista de reprodução</item>
+        <item quantity="one">1 música adicionada à Lista de reprodução</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_Lista de reprodução">
+        <item quantity="other">%d músicas removidas da Lista de reprodução</item>
+        <item quantity="one">1 música removida da Lista de reprodução</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">1 música</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d músicas serão enviadas</item>
+        <item quantity="one">1 música será enviada</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">1 música</item>
+    </plurals>
+</resources>

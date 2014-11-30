@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>E-mail</item>
+        <item>Organização</item>
+        <item>IM</item>
+        <item>Telefone SIP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Anotação</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequeno</item>
+        <item>Padrão</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Agora pode anotar ideias e memorandos utilizando
+"</item>
+        <item>"Anexe fotos ou contatos
+"</item>
+        <item>"Risque tarefas concluídas com o dedo
+"</item>
+        <item>"E outros óptimos recursos!
+  - Sincronize com a Mi Cloud
+  - Defina memorandos
+
+Para mais informações, aceda
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

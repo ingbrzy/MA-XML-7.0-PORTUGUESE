@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Excluir %s fotos na &amp;lt;b>nuvem&amp;lt;/b>?</item>
+        <item quantity="one">Excluir %s foto na &amp;lt;b>nuvem&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Excluir %s fotos?</item>
+        <item quantity="one">Excluir %s foto?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Excluir %s vídeos na &amp;lt;b>nuvem&amp;lt;/b>?</item>
+        <item quantity="one">Excluir %s vídeo na &amp;lt;b>nuvem&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Excluir %s vídeos?</item>
+        <item quantity="one">Excluir %s vídeo?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Excluir %s fotos &amp;lt;b>locais e na nuvem&amp;lt;/b>?</item>
+        <item quantity="one">Excluir %s foto &amp;lt;b>local e na nuvem&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Excluir %s vídeos &amp;lt;b>locais e na nuvem&amp;lt;/b>?</item>
+        <item quantity="one">Excluir %s vídeo &amp;lt;b>local e na nuvem&amp;lt;/b>?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d imagens</item>
+        <item quantity="one">%1$d imagem</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+</resources>

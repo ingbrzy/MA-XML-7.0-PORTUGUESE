@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Dados de Wi-Fi</item>
+        <item>Todas as aplicações</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Navegador</item>
+        <item>Permissões</item>
+        <item>Câmara</item>
+        <item>Uso de dados</item>
+        <item>Dados do Clima</item>
+        <item>Clima</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contactos</item>
+        <item>Registro de chamadas</item>
+        <item>Mensagens</item>
+        <item>MMS</item>
+        <item>Configurações de sistema</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Disposição do ecrã inicial</item>
+        <item>Configurações do alarme</item>
+        <item>Anotações</item>
+        <item>Listas de bloqueio</item>
+        <item>Contas</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Dados</item>
+        <item>Aplicações</item>
+        <item>Aplicações e dados</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contactos</item>
+        <item>Registro de chamadas</item>
+        <item>Mensagens</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contactos</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Registro de chamadas</item>
+        <item>Mensagens</item>
+    </string-array>
+</resources>

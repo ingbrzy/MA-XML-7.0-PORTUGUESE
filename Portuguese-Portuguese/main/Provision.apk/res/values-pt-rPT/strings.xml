@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Aceitar</string>
+    <string name="congratulation_label">Parabéns disfrute agora o seu telefone :)</string>
+    <string name="congratulation_next">Começar a usar a MIUI</string>
+    <string name="disagree">Cancelar</string>
+    <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
+    <string name="ime_privacy_policy_no_network">Nenhuma ligação de rede. Verifique a Política de Privacidade para este teclado em %s</string>
+    <string name="input_method_category">Selecione o teclado prédefinido que utilizará ao escrever emails, anotações, e praticamente qualquer outra coisa. Observe que é possível instalar teclados de terceiros mais tarde.</string>
+    <string name="input_method_setting">Selecione o teclado prédefinido</string>
+    <string name="locale_picker_desc">Se desejar alterar a localização mais tarde, será necessário redefinir as configurações para os padrões de fábrica</string>
+    <string name="locale_picker_title">Seleccione a localização</string>
+    <string name="logo_congratulation">Você está pronto!</string>
+    <string name="miui_privacy_policy_no_network">Nenhuma ligação de rede. Verifique a Política de Privacidade em %s</string>
+    <string name="miui_terms_no_network">Nenhuma ligação de rede. Verifique os Termos de Serviço em %s</string>
+    <string name="multisim_settings_category">Configurações do cartão SIM</string>
+    <string name="multisim_settings_title">2 cartões SIM detectados</string>
+    <string name="network_access_warning">É necessário uma ligação de dados pra activar o dispositivo</string>
+    <string name="next">Avançar</string>
+    <string name="other_settings">Configurações adicionais</string>
+    <string name="other_settings_location">Localização</string>
+    <string name="other_settings_location_summary">Permitir que aplicações acedam á localização</string>
+    <string name="other_settings_user_experience">Programa de Experiência do Utilizador</string>
+    <string name="other_settings_user_experience_summary">Ajude a melhorar a MIUI enviando dados de uso anonimos (%s)</string>
+    <string name="other_settings_user_experience_summary1">Ver Política de Privacidade</string>
+    <string name="pref_title_data_slot">Cartão SIM preferencial para dados</string>
+    <string name="pref_title_voice_slot">Cartão SIM preferencial para voz</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="provision_inputmethod_policy_description">"Visualizar no teclado selecionado a "</string>
+    <string name="provision_inputmethod_policy_description1">Política de Privacidade</string>
+    <string name="setting_locale">Definindo a localização…</string>
+    <string name="shut_down">Desligar</string>
+    <string name="sim_card_detecting">Verificando o cartão SIM…</string>
+    <string name="sim_card_detection">Insira um cartão SIM</string>
+    <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o dispositivo.</string>
+    <string name="sim_dectection_next">Continuar</string>
+    <string name="sim_redetection">Verificar cartão SIM novamente</string>
+    <string name="summary_not_set">Não definido</string>
+    <string name="summary_sim_card">Cartão %1$d%2$s</string>
+    <string name="terms_of_service">Termos de Serviço</string>
+    <string name="terms_of_use">Termos de Serviço</string>
+    <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor, leia os Termos de Serviço e a Política de Privacidade para entender que informações colectamos, como as usamos e quais escolhas disponíveis para si
+
+Necessário aceitar o Acordo de Utilizador e a Política de Privacidade antes de iniciar o uso da MIUI."</string>
+    <string name="user_agreement">Acordo do Utilizador</string>
+    <string name="welcome">Bem vindo à</string>
+</resources>

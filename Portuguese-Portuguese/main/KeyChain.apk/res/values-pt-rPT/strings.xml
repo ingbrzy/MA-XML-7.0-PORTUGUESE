@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_button">Permitir</string>
+    <string name="app_name">Chaveiro</string>
+    <string name="deny_button">Negar</string>
+    <string name="install_new_cert_button_label">Instalar</string>
+    <string name="install_new_cert_message">Pode instalar certificados a partir de um arquivo PKCS#12 com a extensão %1$s ou %2$s armazenado externamente.</string>
+    <string name="requesting_application">A aplicação %s solicitou um certificado. A escolha de um certificado permitirá que a aplicação use esta identidade com os servidores de agora em diante.</string>
+    <string name="requesting_server">A aplicação identificou o servidor da solicitação como %s, mas só deve permitir o acesso ao certificado caso confie na aplicação.</string>
+    <string name="title_no_certs">Nenhum certificado encontrado</string>
+    <string name="title_select_cert">Escolher certificado</string>
+</resources>

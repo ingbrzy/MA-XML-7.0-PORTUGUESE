@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_backup_button_label">Fazer Cópia de segurança dos meus dados</string>
+    <string name="allow_restore_button_label">Restaurar meus dados</string>
+    <string name="backup_confirm_text">"Foi solicitada uma Cópia de segurança de todos os meus dados para um computador conectado. Permitir ?
+
+Caso não tenha solicitado a Cópia de segurança, não permita a operação solicitada."</string>
+    <string name="backup_confirm_title">Cópia de segurança completa</string>
+    <string name="backup_enc_password_optional">Se deseja encriptar os dados da Cópia de segurança na totalidade, Insira uma Palavra-passe:</string>
+    <string name="backup_enc_password_text">Digite uma Palavra-passe  para encriptar os dados da Cópia de segurança por completo. Se isso for deixado em branco, a Palavra-passe  da atual da cópia de segurança será usada:</string>
+    <string name="current_password_text">Digite sua Palavra-passe da Cópia de segurança atual:</string>
+    <string name="deny_backup_button_label">Não fazer Cópia de segurança</string>
+    <string name="deny_restore_button_label">Não restaurar</string>
+    <string name="device_encryption_backup_text">Inserir Palavra-passe de encriptação do dispositivo. Ela também será usada para encriptar o arquivo de cópia de segurança.</string>
+    <string name="device_encryption_restore_text">Inserir sua Palavra-passe de encriptação do dispositivo.</string>
+    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de todos os dados de um computador conectado.Permitir essa opção?
+
+Caso não tenha solicitado a restauração, não permita que a operação prossiga. Isso substituirá todos os dados existentes no dispositivo!"</string>
+    <string name="restore_confirm_title">Restauração completa</string>
+    <string name="restore_enc_password_text">Se os dados restaurados forem encriptados, digite a Palavra-passe:</string>
+    <string name="toast_backup_ended">A Cópia de segurança foi concluído</string>
+    <string name="toast_backup_started">Iniciando Cópia de segurança...</string>
+    <string name="toast_restore_ended">A restauração foi concluída</string>
+    <string name="toast_restore_started">Iniciando restauração...</string>
+    <string name="toast_timeout">A operação atingiu o tempo limite</string>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Feliz</item>
+        <item>Triste</item>
+        <item>Piscando</item>
+        <item>Mostrando a língua</item>
+        <item>Surpreso</item>
+        <item>Beijando</item>
+        <item>Gritando</item>
+        <item>Tranquilo</item>
+        <item>Louco por dinheiro</item>
+        <item>Falei demais</item>
+        <item>Envergonhado</item>
+        <item>Anjo</item>
+        <item>Indeciso</item>
+        <item>Chorando</item>
+        <item>Boca fechada</item>
+        <item>Rindo</item>
+        <item>Confuso</item>
+        <item>Coração</item>
+        <item>Nervoso</item>
+        <item>Piscadela</item>
+        <item>Sem expressão</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>E-mail</item>
+        <item>Organização</item>
+        <item>IM</item>
+        <item>Telefone SIP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Anotação</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Hora do recebimento</item>
+        <item>Hora do envio</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via mensagem</item>
+        <item>Via Mi Message</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via mensagem</item>
+        <item>Via Mi Message</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Sempre</item>
+        <item>Somente com o toque silencioso</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

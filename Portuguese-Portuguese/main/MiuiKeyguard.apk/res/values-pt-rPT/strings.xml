@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_lockscreen_unlock_hint_text">Deslize para cima para desbloquear</string>
+    <string name="delete">Excluir</string>
+    <string name="emergency_call_string">Emergência</string>
+    <string name="experimental_try_string">Testar</string>
+    <string name="experimental_validate">Validar</string>
+    <string name="experimental_validate_fail">Não foi possível Iniciar sessão</string>
+    <string name="experimental_validate_password">palavra-passe</string>
+    <string name="experimental_validate_progress">Iniciando sessão…</string>
+    <string name="experimental_validate_thanks">Obrigado!</string>
+    <string name="experimental_validate_username">Nome de utilizador</string>
+    <string name="experimental_validate_warning">Obrigado por ajudar a melhorar a MIUI!</string>
+    <string name="find_device_turn_off_flight_mode">Desactivar modo avião</string>
+    <string name="forget_password_string">Esqueci a palavra-passe</string>
+    <string name="incorrect_pincode">Código PIN incorreto</string>
+    <string name="incorrect_pincode_remaining_attempts">Código PIN incorreto, %d tentativas restantes</string>
+    <string name="incorrect_pukcode">Código PUK incorreto</string>
+    <string name="incorrect_pukcode_remaining_attempts">Código PUK incorreto, %d tentativas restantes</string>
+    <string name="input_password_hint_text">Digite a palavra-passe</string>
+    <string name="input_pin_code">Digite o PIN</string>
+    <string name="input_puk_code">Digite o PUK</string>
+    <string name="keyguard_torch_cover_text">Para manter a lanterna ligada, pressione o botão Ligar</string>
+    <string name="lock_screen_date">EEEE, dd/MM</string>
+    <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
+    <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
+    <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
+    <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+    <string name="lockscreen_charging_msg">Carregando</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentativa de desbloquear o telefone incorretamente %d vezes. Após mais %d tentativas sem sucesso, o telefone será restaurado aos padrões de fábrica e todos os dados do utilizador serão perdidos.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Inseriu a palavra-passe incorretamente %d vezes. Após mais %d tentativas incorretas, será necessário desbloquear o seu telefone utilizando sua conta do dispositivo.
+
+ Tente novamente em %d segundos."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone incorretamente %d vezes. O telefone será restaurado aos padrões de fábrica.</string>
+    <string name="lockscreen_glogin_checking_password">Verificando…</string>
+    <string name="lockscreen_glogin_invalid_input">Nome de utilizador ou palavra-passe inválidos.</string>
+    <string name="lockscreen_glogin_password_hint">palavra-passe</string>
+    <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
+    <string name="login_website_in_case_forget_password">Para redefinir a palavra-passe, aceder a i.mi.com</string>
+    <string name="missed_call_text">%d chamadas perdidas</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por um dispositivo Bluetooth</string>
+    <string name="open_wifi_settings">Abrir configurações de rede</string>
+    <string name="phone_locked_string">O telefone foi bloqueado</string>
+    <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
+    <string name="phone_locked_timeout_seconds_string">Tente novamente em %s segundos</string>
+    <string name="unlock_sim_string">Desbloquear SIM</string>
+    <string name="unlocking_sim_card">Desbloqueando cartão SIM</string>
+    <string name="unlockscreen_low_battery">Ligue o carregador.</string>
+    <string name="unlockscreen_recharge_completed">Bateria carregada</string>
+    <string name="unlockscreen_recharging_message">Carregando %d%%</string>
+    <string name="wrong_password">palavra-passe incorreta</string>
+</resources>

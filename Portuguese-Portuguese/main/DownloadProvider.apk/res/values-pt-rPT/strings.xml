@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gestor de Transferências</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_queue_for_wifi">Em Fila</string>
+    <string name="button_start_now">Iniciar agora</string>
+    <string name="download_error">Falha</string>
+    <string name="download_no_application_title">Não é possível abrir o arquivo</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_queued">Em fila</string>
+    <string name="download_remaining">%s restantes</string>
+    <string name="download_running">Em andamento</string>
+    <string name="download_running_percent">Em andamento, %d%%</string>
+    <string name="download_unknown_title">&lt;Sem título></string>
+    <string name="notification_download_complete">Transferençia concluída.</string>
+    <string name="notification_download_failed">Falha na Transferençia.</string>
+    <string name="notification_need_wifi_for_size">O tamanho da Transferençia requer Wi-Fi.</string>
+    <string name="notification_paused_in_background">Pausa. em segundo plano.</string>
+    <string name="permdesc_accessAllDownloads">Permite que a aplicação visualize e modifique todos as Transferençias iniciadas por uma aplicação no sistema.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que a aplicação. Realize Transferençias de arquivos na cache de Transferençias, que não podem ser excluidoas. automatico. quando o gestor. de Transferençias necessitar de mais espaço.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre Transferençiaa concluídas. aplicações maliciosas podem usar este envio para confundir outras aplicações que fazem Transferençia de arquivos.</string>
+    <string name="permdesc_downloadManager">Permite que o aplicação aceda o gestor de Transferençias e use para realizar Transferençias de arquivos. aplicações maliciosas podem usar essa acção para interromper Transferençias e aceder a informações privadas.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que a aplicação aceda a funções avançadas do gestor de Transferençias. aplicações maliciosas podem utilizar esta ação para interromper Transferençias e aceder a informações privadas.</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que a aplicação realize Transferençias de arquivos por meio do gestor de Transferençias sem exibir notificações ao utlizador.</string>
+    <string name="permdesc_seeAllExternal">Permite que a aplicação veja todos as Transferençias do cartão SD, independentemente de sua origem.</string>
+    <string name="permlab_accessAllDownloads">Aceder a todos as Transferençias do sistema</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espaço na cache de Transferençias</string>
+    <string name="permlab_downloadCompletedIntent">Enviar notificações de Transferençias.</string>
+    <string name="permlab_downloadManager">Aceder ao gestor de Transferençias.</string>
+    <string name="permlab_downloadManagerAdvanced">Funções avançadas do gestor de Transferençias.</string>
+    <string name="permlab_downloadWithoutNotification">Realizar Transferençias de arquivos sem notificação</string>
+    <string name="permlab_seeAllExternal">Ver Transferençias armaz. USB</string>
+    <string name="root_downloads">Transferençias</string>
+    <string name="wifi_recommended_body" formatted="false">A Transferençia de %s  agora reduz a vida da bateria e resulta no uso excessivo. da conexão, levando a cobr. de acordo com seu plano de dados.
+
+ Toque em %s para fazer a Transferençia quando ligado. a uma rede Wi-Fi.</string>
+    <string name="wifi_recommended_title">Colocar em fila para Transferir mais tarde?</string>
+    <string name="wifi_required_body" formatted="false">Usar o Wi-Fi para completar a Transferençia de %s . 
+
+Toque em %s  para começar a Transferençia da próxima vez que você estiver ligado a uma rede Wi-Fi."</string>
+    <string name="wifi_required_title">Transferençia muito grande para a rede da operadora</string>
+</resources>

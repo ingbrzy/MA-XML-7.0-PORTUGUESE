@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Excluir %1$d arquivos</item>
+        <item quantity="zero">Excluir %1$d arquivo</item>
+        <item quantity="one">Excluir %1$d arquivo</item>
+        <item quantity="two">Excluir %1$d arquivos</item>
+        <item quantity="few">Excluir %1$d arquivos</item>
+        <item quantity="many">Excluir %1$d arquivos</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" e %1$d pastas?"</item>
+        <item quantity="zero">" e %1$d pastas?"</item>
+        <item quantity="one">" e %1$d pasta?"</item>
+        <item quantity="two">" e %1$d pastas?"</item>
+        <item quantity="few">" e %1$d pastas?"</item>
+        <item quantity="many">" e %1$d pastas?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d itens</item>
+        <item quantity="zero">%d itens</item>
+        <item quantity="one">%d item</item>
+        <item quantity="two">%d itens</item>
+        <item quantity="few">%d itens</item>
+        <item quantity="many">%d itens</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transferência_progress">
+        <item quantity="other">%1$d arquivos restantes para transferência</item>
+        <item quantity="zero">%1$d arquivos restantes para transferência</item>
+        <item quantity="one">%1$d arquivo restante para transferência</item>
+        <item quantity="two">%1$d arquivos restantes para transferência</item>
+        <item quantity="few">%1$d arquivos restantes para transferência</item>
+        <item quantity="many">%1$d arquivos restantes para transferência</item>
+    </plurals>
+    <plurals name="ui_bar_txt_enviar_progress">
+        <item quantity="other">%1$d arquivos restantes para enviar</item>
+        <item quantity="zero">%1$d arquivos restantes para enviar</item>
+        <item quantity="one">%1$d arquivo restante para enviar</item>
+        <item quantity="two">%1$d arquivos restantes para enviar</item>
+        <item quantity="few">%1$d arquivos restantes para enviar</item>
+        <item quantity="many">%1$d arquivos restantes para enviar</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+        <item quantity="two">%1$d selecionados</item>
+        <item quantity="few">%1$d selecionados</item>
+        <item quantity="many">%1$d selecionados</item>
+    </plurals>
+</resources>

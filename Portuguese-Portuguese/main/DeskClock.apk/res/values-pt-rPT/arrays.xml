@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>O alarme tocará em menos de um minuto</item>
+        <item>O alarme tocará em %1$s</item>
+        <item>O alarme tocará em %2$s</item>
+        <item>O alarme tocará em %1$s %2$s</item>
+        <item>O alarme tocará em %3$s</item>
+        <item>O alarme tocará em %1$s e %3$s</item>
+        <item>O alarme tocará em %2$s e %3$s</item>
+        <item>O alarme tocará em %1$s , %2$s e %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ontem</item>
+        <item>Hoje</item>
+        <item>Amanhã</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Dias úteis</item>
+        <item>Segunda a sexta</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diariamente</item>
+        <item>Segunda a sexta</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarme definido para menos de um minuto a partir de agora.</item>
+        <item>Alarme definido para %1$s a partir de agora.</item>
+        <item>Alarme definido para %2$s a partir de agora.</item>
+        <item>Alarme definido para %1$s e %2$s a partir de agora.</item>
+        <item>Alarme definido para %3$s a partir de agora.</item>
+        <item>Alarme definido para %1$s e %3$s a partir de agora.</item>
+        <item>Alarme definido para %2$s e %3$s a partir de agora.</item>
+        <item>Alarme definido para %1$s, %2$s e %3$s a partir de agora.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Desativado</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nenhum</item>
+        <item>Colocar em modo de espera</item>
+        <item>Descartar</item>
+    </string-array>
+</resources>

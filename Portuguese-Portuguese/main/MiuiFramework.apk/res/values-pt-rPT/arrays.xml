@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobile_operator_display_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
+        <item>China Mobile</item>
+        <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>FarEasTone</item>
+        <item>Asia Pacific</item>
+        <item>Vibo</item>
+        <item>Chunghwa</item>
+        <item>Taiwan Mobile</item>
+        <item>Alibaba</item>
+        <item>China Mcom</item>
+        <item>SOSHARE MOBILE</item>
+    </string-array>
+    <integer-array name="vibration_recorder_minor_action">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_major_action">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>15</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>25</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>35</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>10</item>
+        <item>40</item>
+        <item>10</item>
+        <item>-3</item>
+        <item>30</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_rewind">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>-3</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+        <item>0</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="vibration_recorder_slider">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>60</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_torch_on">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>90</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>150</item>
+        <item>50</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+    <integer-array name="vibration_torch_off">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+    </integer-array>
+</resources>
