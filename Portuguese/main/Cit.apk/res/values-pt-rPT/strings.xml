@@ -4,37 +4,37 @@
     <string name="cit_OTG_plugin_check_title">OTG (detecção)</string>
     <string name="cit_OTG_plugout_check_summary">Quando um dispositivo OTG for removido, o texto \"Dispositivo USB OTG removido\" deverá ser exibido abaixo.</string>
     <string name="cit_OTG_plugout_check_title">OTG (remoção)</string>
-    <string name="cit_OTG_waiting_in">Conecte agora um dispositivo USB OTG </string>
+    <string name="cit_OTG_waiting_in">Ligue agora um dispositivo USB OTG </string>
     <string name="cit_OTG_waiting_out">Desligue agora o dispositivo USB OTG</string>
-    <string name="cit_ac_charger_in">Carregando via AC</string>
+    <string name="cit_ac_charger_in">A carregar via AC</string>
     <string name="cit_ac_charger_out">Carregador AC desligado</string>
     <string name="cit_accelermeter_sensor_check_summary">"Mova o dispositivo rapidamente em uma direção. As coordenadas X, Y e Z serão exibidas. (ao movimentar o teleauriculares: X representa movimentos da esquerda para a direita, y representa movimentos para frente e para trás e z representa movimento para cima e para baixo).
 Antes de calibrar o dispositivo, coloque-o sobre uma superfície plana."</string>
-    <string name="cit_accelermeter_sensor_check_title">Acelerômetro</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento microauriculares traseiro</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microauriculares principal</string>
+    <string name="cit_accelermeter_sensor_check_title">Acelarômetro</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento microfone traseiro</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone principal</string>
     <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Teste de funcionamento microfe traseiro
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Teste de funcionamento microfone traseiro
 
-Vire o teleauriculares de cabeça para baixo e fale ao microauriculares.Deverá ouvir sua voz pelo alto-falante"</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microauriculares principal para o dispositivo.
+Vire o telefone de cabeça para baixo e fale ao microfone.Deverá ouvir sua voz pelo alto-falante"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal para o dispositivo.
 
-Segure o teleauriculares como se estivesse em uma ligação, e em seguida fale ao microauriculares.Deverá ouvir a sua voz pelo dispositivo"</string>
+Segure o telefone como se estivesse numa ligação, e em seguida fale ao microfone.Deverá ouvir a sua voz pelo dispositivo"</string>
     <string name="cit_audio_lb_summary_phonecall">"Teste de simulação de chamada. 
 
-Segure o teleauriculares como se estivesse em uma ligação. Fale no microauriculares principal. Deverá ouvir o Funcionamento de voz no alto-falante do dispositivo. Faça este teste num ambiente silencioso"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de Funcionamento do microauriculares superior.
+Segure o telefone como se estivesse em uma ligação. Fale no microfone principal. Deverá ouvir o Funcionamento de voz no alto-falante do dispositivo. Faça este teste num ambiente silencioso"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de Funcionamento do microfone superior.
 
- Vire o teleauriculares de cabeça para baixo e fale ao microauriculares superior. Deverá ouvir sua voz pelo alto-falante"</string>
+ Vire o teleauriculares de cabeça para baixo e fale ao microfone superior. Deverá escutar a voz pelo alto-falante"</string>
     <string name="cit_audio_lb_topmic_to_speaker_title">Teste de Funcionamento do microauriculares superior</string>
     <string name="cit_audio_loopback_check_one_title">Teste de Funcionamento do microauriculares principal</string>
     <string name="cit_audio_loopback_check_summary_first">"Teste de Funcionamento do microauriculares principal.
 
 Segure o teleauriculares como se estivesse em uma ligação, e em seguida fale ao microauriculares. Deverá ouvir sua voz pelo dispositivo."</string>
-    <string name="cit_audio_loopback_check_summary_second">"Teste de Funcionamento do microauriculares secundário.
+    <string name="cit_audio_loopback_check_summary_second">"Teste de Funcionamento do microfone secundário.
 
-Vire o teleauriculares de cabeça para baixo. Fale ao microauriculares. Deverá ouvir sua voz pelo alto-falante externo."</string>
-    <string name="cit_audio_loopback_check_two_title">Teste de Funcionamento do microauriculares secundário</string>
+Vire o teleauriculares de cabeça para baixo. Fale ao microfone. Deverá ouvir sua voz pelo alto-falante externo."</string>
+    <string name="cit_audio_loopback_check_two_title">Teste de Funcionamento do microfone secundário</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de redução de ruído  ambiente</string>
     <string name="cit_audio_loopback_next">Próximo</string>
     <string name="cit_audio_loopback_previous">Voltar</string>
@@ -68,18 +68,18 @@ Segure o teleauriculares como se estivesse em uma ligação, e em seguida fale a
 2. Pressione o botão \"Voltar\" para sair da interface da câmera
 3. Haverá um rótulo caso o teste seja aprovado para indicar que o OIS foi calibrado"</string>
     <string name="cit_camera_sdcard_error">Não foi possível tirar a foto. O cartão SD está cheio.</string>
-    <string name="cit_charger_plugin_check_summary">Quando o carregador USB estiver ligado o texto \"Carregando via USB/AC\" deverá ser exibido abaixo.</string>
+    <string name="cit_charger_plugin_check_summary">Quando o carregador USB estiver ligado o texto \"A carregar por USB/AC\" deve ser exibido.</string>
     <string name="cit_charger_plugin_check_title">Carregador (ligado)</string>
-    <string name="cit_charger_plugout_check_summary">Quando o carregador USB for desligado o texto \"Carregador USB/AC desligado\" deverá ser exibido abaixo.</string>
+    <string name="cit_charger_plugout_check_summary">Quando o carregador USB for desligado o texto \"Carregador USB/AC desligado\" deve ser exibido.</string>
     <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
-    <string name="cit_charger_waiting_in">Conecte o carregador</string>
-    <string name="cit_charger_waiting_out">Desligue o carregador agora</string>
+    <string name="cit_charger_waiting_in">Ligue o carregador</string>
+    <string name="cit_charger_waiting_out">Desligue o carregador </string>
     <string name="cit_display_check_summary">Coloque um arquivo bitmap de imagem na raiz do cartão SD com o nome de \"image.bmp\". Verifique se as cores estão sendo exibidas de forma consistente por todo o ecrã. Certifique-se de que não existe nenhum ponto com brilho irregular.</string>
-    <string name="cit_display_check_title">ecrã</string>
+    <string name="cit_display_check_title">Ecrã</string>
     <string name="cit_display_continue">Toque no ecrã para iniciar o teste</string>
-    <string name="cit_exit_test_summary">Quando  sair, todos os resultados dos testes atuais serão eliminados.</string>
+    <string name="cit_exit_test_summary">Quando  sair, todos os resultados dos testes actuais serão eliminados.</string>
     <string name="cit_exit_test_title">Sair do teste</string>
-    <string name="cit_fail">Falhou</string>
+    <string name="cit_fail">Erro</string>
     <string name="cit_fm_audio_path">Configurar caminho de áudio</string>
     <string name="cit_fm_audio_path_headset">Auriculares</string>
     <string name="cit_fm_audio_path_speaker">Alto-falante</string>
@@ -120,14 +120,14 @@ Toque no ecrã para iniciar o GPS…"</string>
     <string name="cit_headset_button_rewind">Voltar</string>
     <string name="cit_headset_button_stop">Parar</string>
     <string name="cit_headset_button_unknown">Desconhecido</string>
-    <string name="cit_headset_loopback_check_summary">Conecte os auriculares ao dispositivo. Fale ao micro dos auriculares (geralmente localizado no cabo).  deverá ouvir sua voz pelos auriculares .</string>
+    <string name="cit_headset_loopback_check_summary">Ligue os auriculares ao dispositivo. Fale ao micro dos auriculares (geralmente localizado no cabo).  deverá ouvir sua voz pelos auriculares .</string>
     <string name="cit_headset_loopback_check_title">Teste de Funcionamento do micro dos auriculares </string>
-    <string name="cit_headset_plug_detect_summary">Quando os auriculares  estiverem ligados, o texto \"auriculares  detectado\" deverá surgir.</string>
+    <string name="cit_headset_plug_detect_summary">Quando os auriculares  estiverem ligados, o texto \"auriculares  detectados\" deverá surgir.</string>
     <string name="cit_headset_plug_detect_title">Detecção de auriculares  (conexão)</string>
     <string name="cit_headset_plug_finish">Auriculares  detectados</string>
-    <string name="cit_headset_plug_hint">Conecte os auricularess  agora</string>
-    <string name="cit_headset_pull_detect_summary">Quando os auriculares  estiverem desligados, o texto \"auriculares  desligado\" deverá surgir</string>
-    <string name="cit_headset_pull_detect_title">Detecção de auriculares  (desconexão)</string>
+    <string name="cit_headset_plug_hint">Ligue os auricularess  agora</string>
+    <string name="cit_headset_pull_detect_summary">Quando os auriculares  estiverem desligados, o texto \"auriculares  desligados\" deverá surgir</string>
+    <string name="cit_headset_pull_detect_title">Detecção de auriculares  (desconecção)</string>
     <string name="cit_headset_pull_finish">auriculares  desligados</string>
     <string name="cit_headset_pull_hint">Desligue os auricularess  agora</string>
     <string name="cit_hide_menu">Ocultar menu</string>
@@ -173,8 +173,8 @@ Toque no ecrã para iniciar o GPS…"</string>
     <string name="cit_power_check_title">Indicador de bateria</string>
     <string name="cit_pressure_sensor_check_summary">O valor da pressão deverá aparecer abaixo</string>
     <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-    <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado no topo do telefone, perto do alto-falante) com suas mãos, e em seguida afaste-a. Os valores exibidos no teste deverão aumentar ao afastar a mão do sensor de proximidade.
-Durante a calibração, assegure-se de que não exista nada entre o sensor e sua mão, como películas protetoras ou luvas."</string>
+    <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado no topo do telefone, perto do alto-falante) com as mãos, e em seguida afaste-a. Os valores exibidos no teste deverão aumentar ao afastar a mão do sensor de proximidade.
+Durante a calibração, assegure-se de que não existe nada entre o sensor e sua mão, como películas protetoras ou luvas."</string>
     <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
     <string name="cit_reset_check_summary">Este teste reiniciará o telefone. Todos os dados de testes anteriores serão perdidos.</string>
     <string name="cit_reset_check_title">Teste de reinicialização</string>
@@ -209,7 +209,7 @@ Após  inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na ecrã par
     <string name="cit_sim_state_ready">Cartão SIM pronto</string>
     <string name="cit_sim_state_unkown">Desconhecido</string>
     <string name="cit_start_calibration">Calibrar</string>
-    <string name="cit_stop_calibration">Parar calibração</string>
+    <string name="cit_stop_calibration">Interromper calibração</string>
     <string name="cit_tool">Ferramentas adicionais</string>
     <string name="cit_tool_bluetooth">Ferramenta de teste do Bluetooth</string>
     <string name="cit_tool_bluetooth_dut">Entrar no modo de teste do Bluetooth</string>
@@ -278,14 +278,14 @@ Após  inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na ecrã par
     <string name="cit_tool_wifi_txrx_chain_selection">Selecionar antena</string>
     <string name="cit_torch_off">Desligar luz de flash</string>
     <string name="cit_torch_on">Ligar luz de flash</string>
-    <string name="cit_touch_calib_fail">Falha na calibração de toque, tente novamente</string>
+    <string name="cit_touch_calib_fail">Erro na calibração de toque, tente novamente</string>
     <string name="cit_touch_calib_instruction">Iniciar calibração</string>
-    <string name="cit_touch_calib_pass">Calibração de toque concluída, utilize a ecrã normalmente</string>
-    <string name="cit_touch_calib_summary">O próximo passo efetuará a calibração do ecrã de toque. Pressione confirmar e após o início do teste não toque no ecrã e aguarde a mensagem de concluido</string>
+    <string name="cit_touch_calib_pass">Calibração de toque concluída, utilize o ecrã normalmente</string>
+    <string name="cit_touch_calib_summary">O próximo passo efectuará a calibração de toque do ecrã. Pressione confirmar e após o início do teste não toque no ecrã e aguarde a mensagem de concluido</string>
     <string name="cit_touch_calib_title">Calibração de toque</string>
     <string name="cit_usb_OTG_in">Dispositivo USB OTG detectado</string>
     <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>
-    <string name="cit_usb_charger_in">Carregando via USB</string>
+    <string name="cit_usb_charger_in">A carregar via USB</string>
     <string name="cit_usb_charger_out">Carregador USB desligado</string>
     <string name="cit_version_check_summary">Informações de versão do Sistema Operacional. Confirme se a informação destacada em verde está correcta.</string>
     <string name="cit_version_check_title">Verificar informação da versão</string>
@@ -303,13 +303,13 @@ Após  inserir o arquivo \"music.mp3\" na raiz do cartão SD, toque na ecrã par
     <string name="cit_vibrator_play_touch_pattern">Vibração</string>
     <string name="cit_vibrator_short">Vibração curta</string>
     <string name="cit_vibrator_show_advanced">Opções avançadas</string>
-    <string name="cit_wifi_address_check_summary">Embaixo encontra o endereço da rede Wi-Fi conectada actualmente em seu telefone. Confirme se a informação destacada em verde está correta.</string>
+    <string name="cit_wifi_address_check_summary">Embaixo encontra o endereço da rede Wi-Fi ligada actualmente em seu telefone. Confirme se a informação destacada em verde está correta.</string>
     <string name="cit_wifi_address_check_title">Endereço de Wi-Fi</string>
     <string name="cit_wifi_address_error">Não foi possível obter o endereço de Wi-Fi. Certifique-se de que o Wi-Fi está activo.</string>
     <string name="cit_wifi_ap_scan_check_summary">Abaixo encontra-se a informação de pontos de acesso detectados na área. Confirme se a informação destacada em verde está correta.</string>
     <string name="cit_wifi_ap_scan_check_title">Pesquisa de ponto de acesso Wi-Fi</string>
     <string name="cit_wifi_ap_scan_retry">Procurando novamente…</string>
-    <string name="cit_wifi_ap_scanning">Procurando…</string>
+    <string name="cit_wifi_ap_scanning">A procurar…</string>
     <string name="cit_wifi_fail_to_scan">Não foi possível procurar por redes</string>
     <string name="cit_wifi_state_refresh">Actualizar</string>
 </resources>
