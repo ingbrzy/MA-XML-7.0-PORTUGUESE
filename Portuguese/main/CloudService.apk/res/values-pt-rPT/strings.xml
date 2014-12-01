@@ -3,7 +3,7 @@
     <string name="access_denied">Acesso negado</string>
     <string name="account">Conta</string>
     <string name="activate">Activar</string>
-    <string name="activating">Activando…</string>
+    <string name="activating">A activar…</string>
     <string name="alert_notif_title_dspt">Sincronização desactivada</string>
     <string name="app_name">Mi Cloud</string>
     <string name="app_sync_off">Sincronização de aplicações desligada</string>
@@ -17,7 +17,7 @@
     <string name="buy_space_expire">O armazenamento adquirido irá expirar em %s</string>
     <string name="buy_space_expire_concat">%1$s a %2$s</string>
     <string name="buy_space_sulotion_auto_renew">Renovação automática</string>
-    <string name="buy_space_sulotion_message">Você comprará %s GB de espaço</string>
+    <string name="buy_space_sulotion_message">Comprar %s GB de espaço</string>
     <string name="buy_space_sulotion_not_auto_renew">Não renovar automaticamente</string>
     <string name="buy_space_sulotion_renew_message">Válido por %s</string>
     <string name="buy_space_sulotion_renew_title">Selecione forma de renovação</string>
@@ -33,17 +33,17 @@
     <string name="current">Actual</string>
     <string name="data_syncing">Sincronizar sempre</string>
     <string name="detail">Detalhes</string>
-    <string name="disable_find_device_error">\"Não foi possível desactivar a função Encontrar dispositivo.\" %1$s</string>
+    <string name="disable_find_device_error">\"Não foi possível desactivar a função localizar dispositivo.\" %1$s</string>
     <string name="enableAll">Sincronizar tudo</string>
-    <string name="enable_cloud_service_notification">Não ativou a Mi Cloud</string>
-    <string name="enable_find_device_error">\"Não foi possível activar a função Encontrar dispositivo.\" %1$s</string>
+    <string name="enable_cloud_service_notification">Não activou a Mi Cloud</string>
+    <string name="enable_find_device_error">\"Não foi possível activar a função localizar dispositivo.\" %1$s</string>
     <string name="enable_micloud">Iniciar sessão ou criar uma conta</string>
     <string name="enable_sync">Activar sincronização</string>
     <string name="enable_sync_dspt">Sincronização desactivada</string>
     <string name="error_data_in_transfer">A sincronização irá finalizar em %s horas.</string>
     <string name="error_data_in_transfer_title">Mi Cloud indisponível</string>
     <string name="error_forbidden">A sincronização foi desactivada devido a problemas na sua Conta Mi.</string>
-    <string name="error_network">Não foi possível conectar-se à rede</string>
+    <string name="error_network">Não foi possível ligar-se à rede</string>
     <string name="error_not_acceptable">A sincronização foi desactivada.</string>
     <string name="error_server">Erro no servidor</string>
     <string name="error_title">Não foi possível sincronizar</string>
@@ -52,16 +52,16 @@
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_disabled_notice">Pode Activar ou desactivar este recurso a qualquer momento em Mi Cloud > Configurações.</string>
     <string name="find_device_disabled_title">Encontrar dispositivo está desactivado</string>
-    <string name="find_device_disabling">Desactivando…</string>
+    <string name="find_device_disabling">A desactivar…</string>
     <string name="find_device_dspt">Localize, bloqueie ou elimine dados do dispositivo remotamente</string>
     <string name="find_device_dspt_provision">Se perder o dispositivo, pode aceder</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" para localizar, bloquear ou redefinír para as configurações de fábrica.
 
-Pode Activar ou desactivar este recurso a qualquer momento nas Configurações.
+Pode Activar ou desactivar este recurso a qualquer momento nas Definições.
 "</string>
-    <string name="find_device_enabling">Activando…</string>
+    <string name="find_device_enabling">A activar…</string>
     <string name="find_device_error_network">Verifique a ligação de dados e tente novamente.</string>
     <string name="find_device_error_server">Ocorreu um erro em nossos servidores.</string>
     <string name="find_device_noise_title">Localizar dispositivo pelo som</string>
@@ -110,7 +110,7 @@ Para corrigir isto, pode excluir alguns arquivos antigos para libertar espaço, 
     <string name="micloud_main_last_sync_time">Última sincronização</string>
     <string name="micloud_main_network_error">Não foi possível conectar-se à rede</string>
     <string name="micloud_main_stop_sync">Parar sincronização</string>
-    <string name="micloud_main_suggest_sync">Alguns itens não foram sincronizados com a Mi Cloud</string>
+    <string name="micloud_main_suggest_sync">Alguns ficheiros não foram sincronizados com a Mi Cloud</string>
     <string name="micloud_main_sync_now">Sincronizar agora</string>
     <string name="micloud_main_sync_on_wifi">Usar Wi-Fi</string>
     <string name="micloud_main_sync_stop">Parar sincronização</string>
@@ -119,8 +119,8 @@ Para corrigir isto, pode excluir alguns arquivos antigos para libertar espaço, 
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_sec_dspt">e partilhar coisas com os amigos.</string>
     <string name="micloud_space_full_influence"><u>O que acontece se eu ficar sem espaço?</u></string>
-  <string name="micloud_storage_expires_auto_renewal_sum">Precisa renovar a sua assinatura.</string>
-  <string name="micloud_storage_expires_manually_renewal_sum">Precisa renovar a sua assinatura.</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Necessita renovar a sua assinatura.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Necessita renovar a sua assinatura.</string>
   <string name="micloud_storage_expires_soon_title">O armazenamento da Mi Cloud expira em breve</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Mi Cloud expira em breve</string>
     <string name="micloud_storage_usage" formatted="false">Em uso: %s/Espaço total: %s</string>
@@ -144,9 +144,9 @@ Para corrigir isto, pode excluir alguns arquivos antigos para libertar espaço, 
     <string name="microsoft_cloud_price">Cerca de 80 RMB por ano</string>
     <string name="more_activity_in_upgrade_space">Saiba mais em <a href="http://i.mi.com">i.mi.com</a></string>
     <string name="mx_dspt">Mi Message</string>
-    <string name="mx_dspt_provision">"O Mi Message permite que troque mensagens com outros utilizadors MIUI sem a cobrança de tarifas de SMS.
+    <string name="mx_dspt_provision">"O Mi Message permite que troque mensagens com outros utilizadores MIUI sem a cobrança de taxas de SMS.
 
-Pode Activar ou desactivar este recurso a qualquer momento nas Configurações."</string>
+Pode activar ou desactivar este recurso a qualquer momento nas Definições."</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="next">Avançar</string>
     <string name="noRemind">Não lembrar novamente</string>
@@ -181,7 +181,7 @@ Pode Activar ou desactivar este recurso a qualquer momento nas Configurações."
     <string name="sync_dspt_provision2_int">mi.com/micloud</string>
     <string name="sync_dspt_provision3">".
 
-Pode Activar ou desactivar este recurso a qualquer momento nas Configurações.
+Pode Activar ou desactivar este recurso a qualquer momento nas Definições.
 "</string>
     <string name="sync_item_calllog_summary">Sincroniza o registro de chamadas efetuadas e recebidas neste dispositivo</string>
     <string name="sync_item_calllog_title">Sincronizar registro de chamadas</string>
@@ -191,14 +191,14 @@ Pode Activar ou desactivar este recurso a qualquer momento nas Configurações.
     <string name="sync_on">Ligado</string>
     <string name="sync_setting">Configurações de sincronização</string>
     <string name="sync_standard">Sincronizar arquivos pequenos</string>
-    <string name="sync_sub_1_intl_sms">A operadora poderá cobrar por 1 mensagem SMS internacional usada para Activar este serviço.</string>
-    <string name="sync_sub_1_sms">A operadora poderá cobrar por 1 mensagem SMS usada para Activar este serviço.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">A operadora poderá cobrar por 1 mensagem SMS e 1 mensagem SMS internacional usadas para Activar este serviço.</string>
-    <string name="sync_sub_2_intl_sms">A operadora poderá cobrar por 2 mensagens SMS internacionais usadas para Activar este serviço.</string>
-    <string name="sync_sub_2_sms">A operadora poderá cobrar por 2 mensagens SMS usadas para Activar este serviço.</string>
-    <string name="sync_sub_dspt">A operadora poderá cobrar por 1 mensagem SMS usada para Activar este serviço.</string>
+    <string name="sync_sub_1_intl_sms">A operadora poderá cobrar por uma mensagem SMS internacional usada para Activar este serviço.</string>
+    <string name="sync_sub_1_sms">A operadora poderá cobrar por uma mensagem SMS usada para Activar este serviço.</string>
+    <string name="sync_sub_1_sms_1_intl_sms">A operadora poderá cobrar por uma mensagem SMS e uma mensagem SMS internacional usadas para Activar este serviço.</string>
+    <string name="sync_sub_2_intl_sms">A operadora poderá cobrar por duas mensagens SMS internacionais usadas para Activar este serviço.</string>
+    <string name="sync_sub_2_sms">A operadora poderá cobrar por duas mensagens SMS usadas para Activar este serviço.</string>
+    <string name="sync_sub_dspt">A operadora poderá cobrar por uma mensagem SMS usada para Activar este serviço.</string>
     <string name="sync_sub_dspt_provision">Sincronize fotos, contatos, músicas, aplicações e mais entre todos os seus dispositivos</string>
-    <string name="sync_sub_int_dspt">A operadora poderá cobrar por 1 mensagem SMS internacional usada para Activar este serviço.</string>
+    <string name="sync_sub_int_dspt">A operadora poderá cobrar por uma mensagem SMS internacional usada para Activar este serviço.</string>
     <string name="system_sync_off">Sincronização do sistema desligada</string>
     <string name="title_reg">Criar Conta Mi</string>
     <string name="total_space_upgraded_to">Espaço total: %s</string>
