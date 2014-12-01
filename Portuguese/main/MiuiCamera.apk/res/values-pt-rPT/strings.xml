@@ -173,7 +173,7 @@
 toque no botão do disparo"</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continue movendo…</string>
     <string name="pano_how_to_use_prompt_to_move">Mova o telefone devagar</string>
-    <string name="pano_review_saving_indication_str">Salvando…</string>
+    <string name="pano_review_saving_indication_str">A guardar…</string>
     <string name="pano_too_fast_prompt">Muito rápida</string>
     <string name="path">Caminho</string>
     <string name="people">Pessoas</string>
@@ -183,7 +183,7 @@ toque no botão do disparo"</string>
     <string name="pref_audio_indicator_entry_off">Áudio desligado</string>
     <string name="pref_audio_indicator_entry_on">Áudio ligado</string>
     <string name="pref_burst_shoot_title">Disparo contínuo</string>
-    <string name="pref_camcorder_settings">Filmadora</string>
+    <string name="pref_camcorder_settings">Gravador</string>
     <string name="pref_camcorder_settings_category">Configurações da câmera</string>
     <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
     <string name="pref_camera_antibanding_entry_0">Desligado</string>
@@ -349,7 +349,7 @@ toque no botão do disparo"</string>
     <string name="pref_camera_sharpness_title">Nitidez</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade</string>
     <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
-    <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e sexo</string>
+    <string name="pref_camera_show_gender_age_entry_on">Exibir idade e sexo</string>
     <string name="pref_camera_show_gender_age_title">Reconhecimento facial</string>
     <string name="pref_camera_skinToneEnhancement_entry_auto">Aprimoramento automático</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivar</string>
@@ -457,10 +457,10 @@ toque no botão do disparo"</string>
     <string name="set_label_all_albums">Todos os álbuns</string>
     <string name="set_label_local_albums">Álbuns locais</string>
     <string name="setting_top_text">Opções</string>
-    <string name="share">Compartilhar</string>
+    <string name="share">Partilhar</string>
     <string name="show_all">Imagens e vídeos</string>
     <string name="show_images_only">Somente imagens</string>
-    <string name="show_on_map">Mostrar no mapa</string>
+    <string name="show_on_map">Exibir no mapa</string>
     <string name="show_videos_only">Somente vídeos</string>
     <string name="simple_mode_button_text_audio_capture">Fechar captura de áudio</string>
     <string name="simple_mode_button_text_color_effect">Fechar filtro</string>
@@ -516,11 +516,11 @@ toque no botão do disparo"</string>
     <string name="wifi_connect_current_connetion">Ligado à rede Wi-Fi</string>
     <string name="wifi_connect_fail">Tempo limite de ligação atingido</string>
     <string name="wifi_connect_not_found">Não foi possível ligar-se à rede Wi-Fi</string>
-    <string name="wifi_connect_success">Conectado</string>
-    <string name="wifi_connecting">Conectando…</string>
+    <string name="wifi_connect_success">Ligado</string>
+    <string name="wifi_connecting">A ligar…</string>
     <string name="wifi_details">Detalhes da rede Wi-Fi:</string>
     <string name="wifi_open_fail">Não foi possível Activar o Wi-Fi</string>
-    <string name="wifi_pwd">Palavrapasse:</string>
+    <string name="wifi_pwd">Palavra-passe:</string>
     <string name="wifi_security">Segurança:</string>
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">Antes de ligar, certifique-se de que a rede que está utilizando é segura.</string>
