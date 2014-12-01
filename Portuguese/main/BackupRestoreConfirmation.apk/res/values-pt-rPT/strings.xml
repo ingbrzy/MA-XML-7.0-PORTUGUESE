@@ -19,7 +19,7 @@ Caso não tenha solicitado a restauração, não permita que a operação prossi
     <string name="restore_confirm_title">Restauração completa</string>
     <string name="restore_enc_password_text">Se os dados restaurados forem encriptados, digite a Palavra-passe:</string>
     <string name="toast_backup_ended">A Cópia de segurança foi concluído</string>
-    <string name="toast_backup_started">Iniciando Cópia de segurança...</string>
+    <string name="toast_backup_started">A iniciar Cópia de segurança...</string>
     <string name="toast_restore_ended">A restauração foi concluída</string>
     <string name="toast_restore_started">A iniciar restauração...</string>
     <string name="toast_timeout">A operação atingiu o tempo limite</string>
