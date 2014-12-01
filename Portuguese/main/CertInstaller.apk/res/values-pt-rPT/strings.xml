@@ -30,5 +30,5 @@
     <string name="pkcs12_password_dialog_title">Extrair certificado</string>
     <string name="sdcard_not_present">Armazenam. USB não disponível.</string>
     <string name="storage_error">Não é possível salvar o certificado. Toque em OK para tentar novamente.</string>
-    <string name="unable_to_save_cert">Não foi possível salvar o certificado. O armazenamento de credenciais não está activo ou não foi inicializado corretamente.</string>
+    <string name="unable_to_save_cert">Não foi possível guardar o certificado. O armazenamento de credenciais não está activo ou não foi inicializado corretamente.</string>
 </resources>
