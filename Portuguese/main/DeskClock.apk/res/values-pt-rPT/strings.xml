@@ -2,7 +2,7 @@
 <resources>
     <string name="add_alarm">Novo alarme</string>
     <string name="alarm_alert">Toque predefinido</string>
-    <string name="alarm_alert_alert_silenced">Alarme silenciado após %d minutos.</string>
+    <string name="alarm_alert_alert_silenced">Silenciar alarme  após %d minutos.</string>
     <string name="alarm_alert_snooze_set">Em espera por %d minutos.</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
@@ -62,9 +62,9 @@
     <string name="lap_num">Volta</string>
     <string name="legal_workday">Dia útil</string>
     <string name="legal_workday_invalidate">Dados expirados (O alarme toca de Segunda a Sexta)</string>
-    <string name="legal_workday_invalidate_message">(Dados expirados, atualize-os nas Configurações)</string>
+    <string name="legal_workday_invalidate_message">(Dados expirados, actualize-os nas Configurações)</string>
     <string name="legal_workday_message">" (Alarme desligado durante feriados)"</string>
-    <string name="loading_ringtone">Carregando toque...</string>
+    <string name="loading_ringtone">A carregar toque...</string>
     <string name="menu_add_worldclock">Novo relógio</string>
     <string name="menu_desk_clock">Relógio de mesa</string>
     <string name="menu_edit_alarm">Editar alarme</string>
@@ -78,8 +78,8 @@
     <string name="revert">Reverter</string>
     <string name="set_alarm">Definir alarme</string>
     <string name="settings">Configurações</string>
-    <string name="shutdown_alarm_disable_summary">O alarme não tocará com o telefone desligado</string>
-    <string name="shutdown_alarm_enable_summary">O alarme tocará com o telefone desligado</string>
+    <string name="shutdown_alarm_disable_summary">O alarme não irá tocar com o telefone desligado</string>
+    <string name="shutdown_alarm_enable_summary">O alarme irá tocar com o telefone desligado</string>
     <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
     <string name="silent_alarm_summary">Silencioso</string>
     <string name="slider_text">Deslize para cima para silenciar</string>
