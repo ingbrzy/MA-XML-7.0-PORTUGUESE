@@ -2,7 +2,7 @@
 <resources>
     <string name="account_bind_prompt">Movendo dados do utilizador… Isto poderá levar alguns minutos.</string>
     <string name="add_task">Adicionar tarefas</string>
-    <string name="adding_upload_tasks">Adicionando tarefas…</string>
+    <string name="adding_upload_tasks">A adicionar tarefas…</string>
     <string name="already_signin_description">Já fez a verificação hoje?.</string>
     <string name="app_name">Arquivos</string>
     <string name="background">Segundo plano</string>
@@ -32,12 +32,12 @@
     <string name="category_zip">Compactados</string>
     <string name="choose_send_type">Selecione um método de envio</string>
     <string name="choose_upload_location">Envio para uma pasta KuaiPan</string>
-    <string name="clean_message">%1$s de espaço liberado.</string>
+    <string name="clean_message">%1$s de espaço libertado.</string>
     <string name="clean_title">Excluir arquivos com mais de 30 dias</string>
-    <string name="clean_trash_box">Esvaziar lixeira</string>
-    <string name="cleaning">Eliminando…</string>
+    <string name="clean_trash_box">Esvaziar lixo</string>
+    <string name="cleaning">A eliminar…</string>
     <string name="close">Fechar</string>
-    <string name="compress_fail">Falha ao compactar: um arquivo com o mesmo nome já existe.</string>
+    <string name="compress_fail">erro ao compactar: um arquivo com o mesmo nome já existe.</string>
     <string name="compress_message">Compactar para…</string>
     <string name="compress_title">Compactar</string>
     <string name="confirm">Confirmar</string>
@@ -48,12 +48,12 @@
     <string name="create_kuaipan_shortcut_pref">Colocar no ecrã Inicial</string>
     <string name="create_new_folder_desctiption">Criando pasta…</string>
     <string name="create_new_folder_failed">Não foi possível criar a pasta.</string>
-    <string name="create_share_link_description">Criando endereço…</string>
+    <string name="create_share_link_description">A criar endereço…</string>
     <string name="cution">Dicas</string>
     <string name="data_capacity">Dados %1$s</string>
     <string name="decompress_cancel">Cancelar</string>
     <string name="decompress_confirm">Extrair</string>
-    <string name="decompress_fail">Falha ao extrair: um arquivo com o mesmo nome já existe ou o arquivo está corrompido.</string>
+    <string name="decompress_fail">Erro ao extrair: um arquivo com o mesmo nome já existe ou o arquivo está corrompido.</string>
     <string name="decompress_success">Arquivo extraído</string>
     <string name="decompress_to">Extrair para…</string>
     <string name="decompress_to_here">Extrair aqui</string>
@@ -70,15 +70,15 @@
     <string name="dialog_type_video">Vídeos</string>
     <string name="directory_info_divider">" | "</string>
     <string name="directory_no_item">Vazio</string>
-    <string name="dlg_error_unmount_text">Falha ao desmontar o armazenamento USB.</string>
-    <string name="download_failed">Falha na transferência</string>
-    <string name="download_link_completed">%1$s foi partilhado via KuaiPan. Toque no endereço abaixo para aceder ao conteúdo:</string>
-    <string name="downloading">Efectuando transferência</string>
-    <string name="downloading_in_3g">Efectuando transferência com 3G…</string>
+    <string name="dlg_error_unmount_text">Erro ao desmontar o armazenamento USB.</string>
+    <string name="download_failed">Erro na transferência</string>
+    <string name="download_link_completed">%1$s foi partilhado via KuaiPan. Toque no endereço para aceder ao conteúdo:</string>
+    <string name="downloading">A efectuar transferência</string>
+    <string name="downloading_in_3g">A efectuar transferência com 3G…</string>
     <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento USB em massa.</string>
     <string name="error_filename_too_long">O nome de arquivo digitado é muito grande.</string>
     <string name="error_info_cant_send_folder">Não é possível enviar este tipo de arquivo.</string>
-    <string name="error_open_file_failed_no_app_found">Nenhuma aplicação encontrada para executar essa ação.</string>
+    <string name="error_open_file_failed_no_app_found">Nenhuma aplicação encontrada para executar essa acção.</string>
     <string name="fail_to_create_folder">Não há espaço suficiente ou a pasta já existe.</string>
     <string name="fail_to_create_folder_unknown">Não foi possível criar a pasta</string>
     <string name="fail_to_rename">Um arquivo com o mesmo nome já existe.</string>
@@ -86,7 +86,7 @@
     <string name="favorite_ringtone">Toques</string>
     <string name="favorite_screen_cap">Capturas de ecrã</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
-    <string name="file_already_downlaoded">Arquivo salvo em \"%1$s\"</string>
+    <string name="file_already_downlaoded">Arquivo guardado em \"%1$s\"</string>
     <string name="file_info_canread">Leitura:</string>
     <string name="file_info_canwrite">Gravação:</string>
     <string name="file_info_ishidden">Oculto:</string>
@@ -101,7 +101,7 @@
     <string name="folder_name_illegal">Nome de pasta inválido</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Toque&lt;/a> para ir à lixeira</string>
     <string name="ftp_account_req_notice">4 a 16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
-    <string name="ftp_anonymous_login">Iniciar sessão e anônimo</string>
+    <string name="ftp_anonymous_login">Iniciar sessão e anónimo</string>
     <string name="ftp_invalid_username_or_password">Nome de utilizador ou palavra-passe inválidos.</string>
     <string name="ftp_open_port_error">Erro abrindo a porta: verifique sua ligação com a Internet ou altere o número da porta.</string>
     <string name="ftp_password_hint">palavra-passe</string>
@@ -123,9 +123,9 @@
 "</string>
     <string name="kuaipan_tech_support">Iniciar sessão em kuaipan.cn</string>
     <string name="load_err">Não foi possível carregar</string>
-    <string name="loading">Carregando…</string>
+    <string name="loading">A carregar…</string>
     <string name="login_reg_content">Armazene arquivos e sincronize-os entre múltiplos dispositivos.</string>
-    <string name="login_reg_content0">Use o KuaiPan de qualquer lugar.</string>
+    <string name="login_reg_content0">Utilize o KuaiPan de qualquer lugar.</string>
     <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Limpeza</string>
     <string name="menu_item_ftp">FTP</string>
@@ -145,7 +145,7 @@
     <string name="my_app_desc"/>
     <string name="my_bak">Copia de segurança</string>
     <string name="my_bakup">Cópia de segurança do telefone</string>
-    <string name="my_bakup_app">aplicações</string>
+    <string name="my_bakup_app">Aplicações</string>
     <string name="my_bakup_doc">Documentos</string>
     <string name="my_bakup_music">Música</string>
     <string name="my_bakup_other">Outros</string>
@@ -156,7 +156,7 @@
     <string name="my_music">Música</string>
     <string name="my_photo">Fotos</string>
     <string name="my_video">Vídeos</string>
-    <string name="name_illegal"> necessário digitar um nome.</string>
+    <string name="name_illegal">Necessário digitar um nome.</string>
     <string name="net_lose_connected">A ligação foi perdida.</string>
     <string name="networkView_notConnected">Não foi possível conectar-se à rede</string>
     <string name="network_connect_confirm_des">Para utilizar o KuaiPan, a aplicação utilizará a ligação de rede. Permitir?</string>
@@ -184,16 +184,16 @@
     <string name="operation_compress">Compactar</string>
     <string name="operation_compressing">Compactando…</string>
     <string name="operation_copy">Copiar</string>
-    <string name="operation_copying">Copiando…</string>
-    <string name="operation_copying_detail">Copiando (%1$d/%2$d)</string>
+    <string name="operation_copying">A copiar…</string>
+    <string name="operation_copying_detail">A copiar (%1$d/%2$d)</string>
     <string name="operation_create_folder">Criar nova pasta</string>
     <string name="operation_create_folder_message">Nome da pasta</string>
-    <string name="operation_decompressing">Extraindo…</string>
+    <string name="operation_decompressing">A extrair…</string>
     <string name="operation_delete">Excluir</string>
     <string name="operation_delete_confirm_message">Excluir pasta?</string>
     <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será excluido. "</string>
-    <string name="operation_deleting">Excluindo…</string>
-    <string name="operation_deleting_detail">Excluindo (%1$d/%2$d)</string>
+    <string name="operation_deleting">A excluir…</string>
+    <string name="operation_deleting_detail">A excluir (%1$d/%2$d)</string>
     <string name="operation_download_link">Criar endereço para transferência</string>
     <string name="operation_favorite">Marcar como favorito</string>
     <string name="operation_hide_sys">Não exibir arquivos ocultos</string>
@@ -202,8 +202,8 @@
     <string name="operation_moving">Movendo…</string>
     <string name="operation_moving_detail">Movendo (%1$d/%2$d)</string>
     <string name="operation_paste">Colar</string>
-    <string name="operation_pasting">Copiando…</string>
-    <string name="operation_pause">Pausar</string>
+    <string name="operation_pasting">A copiar…</string>
+    <string name="operation_pause">Pausa</string>
     <string name="operation_pause_all">Pausar tudo</string>
     <string name="operation_refresh">Actualizar</string>
     <string name="operation_rename">Renomear</string>
@@ -219,8 +219,8 @@
     <string name="petabyteShort">PB</string>
     <string name="phone">Telefone</string>
     <string name="pull_to_signin">Deslize para baixo para efetuar a verificação.</string>
-    <string name="release_to_signin">Solte para efetuar a verificação</string>
-    <string name="rename_description">Renomeando…</string>
+    <string name="release_to_signin">Solte para ecfetuar a verificação</string>
+    <string name="rename_description">A renomear…</string>
     <string name="rename_failed">Não foi possível renomear %1$s</string>
     <string name="sd_card_available">Disponível: %1$s</string>
     <string name="sd_card_size">Cartão SD: %1$s</string>
@@ -236,10 +236,10 @@
     <string name="share_box_receive">Recebidos</string>
     <string name="share_box_send">Enviados</string>
     <string name="share_link_failed">Falha ao gerar o endereço.</string>
-    <string name="show_message"> precisa transferir este arquivo antes de o abrir.</string>
+    <string name="show_message">Necessário transferir este arquivo antes de o abrir.</string>
     <string name="sign_description">Iniciar sessão…</string>
-    <string name="signin_error">Não foi possível ligar-se ao servidor. Verifique sua ligação com a Internet.</string>
-    <string name="signin_success">" efetuou a verificação!
+    <string name="signin_error">Não foi possível ligar-se ao servidor. Verifique a ligação com a Internet.</string>
+    <string name="signin_success">" efectuou a verificação!
 Armazenamento gratuito adicionado: %1$s"</string>
     <string name="space_info">KuaiPan: %1$s disponível, %2$s no total</string>
     <string name="space_usage">Espaço utilizado</string>
