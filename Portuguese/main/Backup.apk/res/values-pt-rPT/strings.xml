@@ -3,7 +3,7 @@
     <string name="account_contact_backup_info">Conta Mi, Conta  Google e dados de Contactos</string>
     <string name="account_login">Iniciar sessão</string>
     <string name="account_summary">Cópia de segurança da Conta Google, Conta Mi, e outros dados do utilizador</string>
-    <string name="already_enable_encrypt">Encriptação ativada</string>
+    <string name="already_enable_encrypt">Encriptação activada</string>
     <string name="app_name">Cópia e restauro</string>
     <string name="auto_backup">Iniciar sessão automático</string>
     <string name="auto_backup_all_user_Aplicações">Todas as Aplicações</string>
@@ -61,8 +61,8 @@
     <string name="cloud_restore_title">Restaurar dados da Cópia de segurança</string>
     <string name="cloud_restore_window_title">Restauração na Mi Cloud</string>
     <string name="cloud_search">Pesquisando…</string>
-    <string name="compute_backup_info">Obtendo informações da Cópia de segurança</string>
-    <string name="compute_delete_contact_info">Localizando Contactos para excluir…</string>
+    <string name="compute_backup_info">A obter informações da Cópia de segurança</string>
+    <string name="compute_delete_contact_info">A localizar Contactos para excluir…</string>
     <string name="contact_title">Contactos</string>
     <string name="current_account">Olá, %s</string>
     <string name="current_sim">Cartão SIM actual</string>
@@ -85,7 +85,7 @@
     <string name="enable_encrypt_xiaomi_account">Esta Cópia de segurança foi criada por %1$s. Para restaurá-la, exclua a conta actual e inicie sessão na conta de %2$s.</string>
     <string name="every_day">Diariamente</string>
     <string name="exchange_account">Alterar conta</string>
-    <string name="fail">Falha</string>
+    <string name="fail">Erro</string>
     <string name="findlost_contact">Restaurar Contactos</string>
     <string name="findlost_contact_online">Restaurar Contactos da Mi Cloud</string>
     <string name="guarded_mode_dialog_message">Esta função não é permitida no modo Convidado.</string>
@@ -95,7 +95,7 @@
 
 2.\u0009Vá nas configurações do MiTalk e selecione \"Efetuar Cópia de segurança de Contactos para a Conta Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">Se já possui um Cópia de segurança, toque em Próximo.</string>
-    <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para fazer Cópia de segurança de Contactos entre dispositivos.</string>
+    <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para criar uma Cópia de segurança de Contactos entre dispositivos.</string>
     <string name="local_app_name">Cópia de segurança</string>
     <string name="local_backup_window_title">Dados de Cópia de segurança local</string>
     <string name="local_home_title">Cópias de segurança locais</string>
@@ -111,14 +111,14 @@
     <string name="multi_select_title">%1$s item(ns) selecionado(s)</string>
     <string name="never">Nunca</string>
     <string name="no_encrypt_password">Nenhuma palavra-passe</string>
-    <string name="no_network">Não foi possível conectar-se à rede</string>
+    <string name="no_network">Não foi possível ligar à rede</string>
     <string name="note_title">Anotações</string>
     <string name="nothing_searched">Nada encontrado</string>
-    <string name="progress_backup_hint">Efectuando Cópia de segurança</string>
-    <string name="progress_restore_hint">Restaurando…</string>
-    <string name="prompt_reading">Lendo…</string>
-    <string name="prompt_sending">Enviando…</string>
-    <string name="prompt_writing">Salvando…</string>
+    <string name="progress_backup_hint">A criar Cópia de segurança</string>
+    <string name="progress_restore_hint">A restaurar…</string>
+    <string name="prompt_reading">A ler…</string>
+    <string name="prompt_sending">A enviar…</string>
+    <string name="prompt_writing">A guardar…</string>
     <string name="read_encrypt_fail">Não foi possível ler a Cópia de segurança encriptada</string>
     <string name="refresh">actualizar</string>
     <string name="restore">Restaurar</string>
