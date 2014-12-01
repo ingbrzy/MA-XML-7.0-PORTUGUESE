@@ -204,8 +204,8 @@
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Acesso root</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Conceder acesso root a %1$s?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Ao Conceder acesso root ´s aplicações. pode causar instabilidades no dispositivo.</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança de seus dados de utilizador (contas, senhas e mensagens) pode ser comprometida.</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step4">Conceder acesso root a um aplic. poderá danificar o hardware do disp.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança de seus dados de utilizador (contas,palavras-passe e mensagens) pode ser comprometida.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step4">Conceder acesso root a uma aplic. pode danificar o hardware do disp.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda acesso root a um aplic. por sua conta e risco.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder acesso root a %1$s?</string>
     <string name="HIPS_SecurityPrompt_Reject">Negar (%d)</string>
@@ -232,5 +232,5 @@
     <string name="SysOpt_Boost_AutoStart_Group">início automático</string>
     <string name="SysOpt_Boost_Boot">Inicialização</string>
     <string name="SysOpt_Boost_Receiver">Segundo plano</string>
-    <string name="app_name">Gerenciamento de Permissões</string>
+    <string name="app_name">Gestão de Permissões</string>
 </resources>
