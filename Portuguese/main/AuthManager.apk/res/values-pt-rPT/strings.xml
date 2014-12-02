@@ -125,8 +125,8 @@
     <string name="HIPS_Perm_MMS_Desc">ver suas mensagens multimédia</string>
     <string name="HIPS_Perm_MMS_Hint">%1$s aplicações podem ver suas mensagens multimédia</string>
     <string name="HIPS_Perm_MobileNetwork">Ligação de dados</string>
-    <string name="HIPS_Perm_MobileNetwork_Desc">usar a Ligação de dados móveis para se conectar à Internet</string>
-    <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem usar a Ligação de dados móveis para se conectar à Internet</string>
+    <string name="HIPS_Perm_MobileNetwork_Desc">usar a Ligação de dados móveis para se ligar à Internet</string>
+    <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem usar a Ligação de dados móveis para se ligar à Internet</string>
     <string name="HIPS_Perm_Mobile_Connectivity">Ligação de dados</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Desc">Activar a Ligação de dados móveis</string>
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplicações podem Activar a Ligação de dados móveis</string>
@@ -183,10 +183,10 @@
     <string name="HIPS_Perm_Settings_Modify">alterar configurações do sistema</string>
     <string name="HIPS_Perm_SilenceRinger">silenciar as chamadas recebidas</string>
     <string name="HIPS_Perm_SystemAlert">Notificações pop-up</string>
-    <string name="HIPS_Perm_SystemAlert_Desc">mostrar notificações pop-up</string>
+    <string name="HIPS_Perm_SystemAlert_Desc">Exibir notificações pop-up</string>
     <string name="HIPS_Perm_SystemAlert_Hint">%1$s aplicações podem mostrar notificações pop-up</string>
     <string name="HIPS_Perm_VideoRecorder">câmera</string>
-    <string name="HIPS_Perm_VideoRecorder_Desc">Aceder a câmera</string>
+    <string name="HIPS_Perm_VideoRecorder_Desc">Aceder á câmera</string>
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem Aceder a câmera</string>
     <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Desc">usar a Ligação Wi-Fi para se conectar à Internet</string>
