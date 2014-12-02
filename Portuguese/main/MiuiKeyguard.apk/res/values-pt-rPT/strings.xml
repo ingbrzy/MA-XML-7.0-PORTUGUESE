@@ -6,8 +6,8 @@
     <string name="experimental_try_string">Testar</string>
     <string name="experimental_validate">Validar</string>
     <string name="experimental_validate_fail">Não foi possível Iniciar sessão</string>
-    <string name="experimental_validate_password">palavra-passe</string>
-    <string name="experimental_validate_progress">Iniciando sessão…</string>
+    <string name="experimental_validate_password">Palavra-passe</string>
+    <string name="experimental_validate_progress">A iniciar sessão…</string>
     <string name="experimental_validate_thanks">Obrigado!</string>
     <string name="experimental_validate_username">Nome de utilizador</string>
     <string name="experimental_validate_warning">Obrigado por ajudar a melhorar a MIUI!</string>
@@ -26,7 +26,7 @@
     <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
     <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
-    <string name="lockscreen_charging_msg">Carregando</string>
+    <string name="lockscreen_charging_msg">A carregar</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentativa de desbloquear o telefone incorretamente %d vezes. Após mais %d tentativas sem sucesso, o telefone será restaurado aos padrões de fábrica e todos os dados do utilizador serão perdidos.</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Inseriu a palavra-passe incorretamente %d vezes. Após mais %d tentativas incorretas, será necessário desbloquear o seu telefone utilizando sua conta do dispositivo.
 
