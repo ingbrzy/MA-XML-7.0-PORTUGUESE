@@ -413,7 +413,7 @@
     <string name="im">IM</string>
     <string name="label">MIUI SDK</string>
     <string name="license_host_unreachable">Não foi possível ligar-se à rede. Para mostrar agora esta informação, aceder %s.</string>
-    <string name="loading">Carregando…</string>
+    <string name="loading">A carregar…</string>
     <string name="mibi_license">Acordo do utilizador Mi Credit</string>
     <string name="midnight">AM</string>
     <string name="monday">Segunda-feira</string>
@@ -462,7 +462,7 @@
     <string name="night">PM</string>
     <string name="no_sim">Nenhum cartão SIM detectado.</string>
     <string name="noon">PM</string>
-    <string name="note">Anotações</string>
+    <string name="note">Notas</string>
     <string name="organization">Organização</string>
     <string name="perm_payment_dspt">Permitir que a aplicação pague através do Serviço de Pagamentos Mi</string>
     <string name="perm_payment_lab">Serviço de Pagamentos Mi</string>
@@ -475,13 +475,13 @@
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">S</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="select_item">Selecionar itens</string>
+    <string name="select_item">Selecionar ficheiros</string>
     <string name="send">Enviar</string>
     <string name="send_sms_for_sync_notice">A operadora poderá cobrár por uma mensagem SMS usada para Activar este serviço.</string>
     <string name="send_sms_for_sync_title">Aviso do uso de dados</string>
-    <string name="sim_changed_reactivate_int_notice">A operadora poderá cobrár por uma mensagem SMS internacional usada para Reactivar este serviço.</string>
-    <string name="sim_changed_reactivate_notice">Sua operadora poderá cobrá-lo por uma mensagem SMS usada para Reactivar este serviço.</string>
-    <string name="sim_in_airplane_mode">DesActivar modo avião.</string>
+    <string name="sim_changed_reactivate_int_notice">A operadora poderá cobrar por uma mensagem SMS internacional usada para Reactivar este serviço.</string>
+    <string name="sim_changed_reactivate_notice">A operadora poderá cobrar por uma mensagem SMS usada para Reactivar este serviço.</string>
+    <string name="sim_in_airplane_mode">Desactivar modo avião.</string>
     <string name="sim_locked">O cartão SIM está bloqueado.</string>
     <string name="sim_not_ready">O cartão SIM está em uso. Tente de novo mais tarde.</string>
     <string name="sim_unavailable">Cartão SIM indisponível.</string>
