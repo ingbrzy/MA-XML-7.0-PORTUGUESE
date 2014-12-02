@@ -27,9 +27,9 @@
     <string name="check_update_policy">Configurações</string>
     <string name="check_update_when_wifi_available">Verificar Actualizações somente em redes Wi-Fi</string>
     <string name="check_update_when_wifi_available_sum">Pesquisar Actualizações somente em Wi-Fi</string>
-    <string name="comment_invalid">Avalie esta actualização (toque nas estrelas)</string>
+    <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
     <string name="comment_publish">Enviar</string>
-    <string name="comment_sending">Enviando…</string>
+    <string name="comment_sending">A enviar…</string>
     <string name="comment_upload_failed">Erro ao enviar comentário</string>
     <string name="comment_upload_hint">Obrigado pelo comentário!</string>
     <string name="comment_upload_not_logined">Iniciar sessão na Conta Mi primeiro</string>
@@ -144,14 +144,14 @@
     <string name="test">Testar</string>
     <string name="timer_title">O dispositivo será reiniciado em %d segundos.</string>
     <string name="top_secret_build">Secreta</string>
-    <string name="unkown_error_title">Algo deu errado…</string>
+    <string name="unkown_error_title">Algo saiu errado…</string>
     <string name="unstable_build">Instável</string>
     <string name="update_comment_title">Comentário</string>
     <string name="update_downfull_no_info_sum">Não foi possível realizar a transferência. Por favor, tente Actualizar novamente.</string>
     <string name="update_downfull_no_info_title">Não foi possível realizar a transferência</string>
     <string name="update_feedback">Comentários sobre a actualização</string>
     <string name="update_feedback_end"> perdeu o período semanal de comentários</string>
-    <string name="update_feedback_end_sum"> pode participar todas as Terças.</string>
+    <string name="update_feedback_end_sum">Pode participar todas as Terças.</string>
     <string name="update_feedback_expired">"Perdeu o período semanal de comentários.
 Mas  poderá participe na próxima Terça"</string>
     <string name="update_feel">O que achou?</string>
