@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">A aplicação não está instalada no telefone.</string>
-    <string name="app_being_backup_message">Copia de segurança da aplicação sendo efectuada.</string>
+    <string name="app_being_backup_message">Copia de segurança da aplicação a ser efectuada.</string>
     <string name="application_name">Launcher do sistema</string>
     <string name="apply_as_lock_wallpaper">Aplicar</string>
     <string name="apply_as_lock_wallpaper_message">Aplicar este plano de fundo no ecrã de bloqueio?</string>
@@ -34,7 +34,7 @@
     <string name="editing_tips">Editar ecrã inicial</string>
     <string name="emptyplaylist">Toque para adicionar músicas</string>
     <string name="encryption">Criptografia</string>
-    <string name="failed_to_delete_temporary">Falha ao excluir</string>
+    <string name="failed_to_delete_temporary">Erro ao excluir</string>
     <string name="failed_to_drop">Não foi possível mover</string>
     <string name="failed_to_drop_widget_invalid">Widget inválido</string>
     <string name="failed_to_drop_widget_nospace">Não há espaço nesta ecrã</string>
@@ -53,7 +53,7 @@
     <string name="free_style_edit_tab_widget">Widgets</string>
     <string name="free_style_enter_tip">Deslize dois dedos para baixo na borda superior do ecrã para aceder o MiSpace</string>
     <string name="free_style_exit_tip">Deslize dois dedos na borda inferior do ecrã para cima para retornar ao ecrã inicial</string>
-    <string name="free_style_londing_text">Carregando…</string>
+    <string name="free_style_londing_text">A carregar…</string>
     <string name="gadget_clear_button_label">Limpeza</string>
     <string name="gadget_clock_12_label">Relógio 2x1</string>
     <string name="gadget_clock_22_label">Relógio 2x2</string>
@@ -61,7 +61,7 @@
     <string name="gadget_clock_label">Relógio</string>
     <string name="gadget_error_text">Problema ao carregar o widget</string>
     <string name="gadget_google_search_label">Pesquisa Google</string>
-    <string name="gadget_load_error">Carregando widget…</string>
+    <string name="gadget_load_error">A carregar o widget…</string>
     <string name="gadget_mtz_label">Mi Gadgets</string>
     <string name="gadget_photo_22_label">Imagem 2x2</string>
     <string name="gadget_photo_24_label">Imagem 4x2</string>
@@ -73,7 +73,7 @@
     <string name="gadget_weather_download_message">É necessário transferir o conteúdo da aplicação: %1$s (%2$s). Reinicie a aplicação quando a transferência terminar.</string>
     <string name="gadget_weather_download_start">Transferência</string>
     <string name="gadget_weather_download_title">Transferência</string>
-    <string name="gadget_weather_downloading">Transferindo o conteúdo da aplicação. Reinicie a aplicação quando o transferência terminar.</string>
+    <string name="gadget_weather_downloading">A transferir o conteúdo da aplicação. Reinicie a aplicação quando a transferência terminar.</string>
     <string name="gadget_weather_loading">Nenhum dado</string>
     <string name="gadget_weather_low_temp">Temperatura baixa</string>
     <string name="gadget_weather_theme_type">Tipo de Gadget</string>
@@ -86,11 +86,11 @@
     <string name="group_live_folders">Pastas</string>
     <string name="group_shortcuts">Atalhos</string>
     <string name="guide_install_app_msg">A aplicação não está instalada. Pesquisar e efectuar a transferência agora?</string>
-    <string name="guide_install_app_title">Instalar alicação</string>
+    <string name="guide_install_app_title">Instalar aplicação</string>
     <string name="guide_tips_editing_mode">Toque &amp; segure para mover um widget</string>
     <string name="install">Instalar</string>
-    <string name="invalid_contact_shortcut">Conctato inválido</string>
-    <string name="loading_desktop">Carregando Launcher</string>
+    <string name="invalid_contact_shortcut">Contacto inválido</string>
+    <string name="loading_desktop">A carregar Launcher</string>
     <string name="lock_screen_failed_message">Não foi possível aplicar</string>
     <string name="lock_screen_success_message">Aplicado</string>
     <string name="menu_add">Adicionar</string>
@@ -148,7 +148,7 @@
     <string name="sort_by_not_defined">Organizar automaticamente</string>
     <string name="start_activity_failed">Não foi possível iniciar o Launcher</string>
     <string name="starting_preset_app">Iniciando…</string>
-    <string name="status_downloaded">Transferido</string>
+    <string name="status_downloaded">A transferir</string>
     <string name="status_downloading">Efetuando download</string>
     <string name="status_installing">A instalar</string>
     <string name="status_paused">Em pausa</string>
@@ -166,7 +166,7 @@
     <string name="transformation_type_rotate">Girar</string>
     <string name="transformation_type_stack">Cascata</string>
     <string name="uninstall">Desinstalar</string>
-    <string name="uninstall_dialog_message">A desinstalação apagará todos os dados da aplicação.</string>
+    <string name="uninstall_dialog_message">A desinstalação eliminará todos os dados da aplicação.</string>
     <string name="uninstall_dialog_title_format">Desinstalar %s</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
     <string name="unnamed_folder_name">Pasta sem nome</string>
