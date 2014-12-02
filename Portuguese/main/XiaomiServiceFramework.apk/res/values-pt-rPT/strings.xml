@@ -55,13 +55,13 @@
     <string name="activate_status_desc_query_activation_info_downlink_sms_error">O servidor falhou ao enviar um SMS de activação para o telefone</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nenhuma informação de activação no servidor</string>
     <string name="activate_status_desc_query_activation_info_server_error">Ocorreu um erro no servidor durante a consulta da activação</string>
-    <string name="activate_status_desc_registering_sim_account">Registrando cartão SIM no servidor</string>
+    <string name="activate_status_desc_registering_sim_account">A registar cartão SIM no servidor</string>
     <string name="activate_status_desc_registering_sim_account_server_error">Ocorreu um erro no servidor ao registrar o cartão SIM</string>
-    <string name="activate_status_desc_registering_xiaomi_account">Registrando Conta Mi no servidor</string>
+    <string name="activate_status_desc_registering_xiaomi_account">A registar Conta Mi no servidor</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Ocorreu um erro no servidor ao registrar A Conta Mi</string>
-    <string name="activate_status_desc_registration">Registrando cartão SIM</string>
+    <string name="activate_status_desc_registration">A registar cartão SIM</string>
     <string name="activate_status_desc_registration_server_error">Ocorreu um erro no servidor durante o registro do cartão SIM</string>
-    <string name="activate_status_desc_request_activation_sms">Solicitando um SMS de activação do servidor para o telefone</string>
+    <string name="activate_status_desc_request_activation_sms">A solicitar um SMS de activação do servidor para o telefone</string>
     <string name="activate_status_desc_request_activation_sms_phone_error">O número de telefone digitado é inválido</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Ocorreu um erro no servidor durante o pedido da SMS de activação</string>
     <string name="activate_status_desc_sending_sms">Enviando SMS de activação para o gateway</string>
@@ -72,7 +72,7 @@
     <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber SMS de activação do servidor</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS de activação recebido com sucesso</string>
     <string name="activate_status_title_activating">Activando seu cartão SIM</string>
-    <string name="activate_status_title_activating_msim">Activando seu cartão SIM %s</string>
+    <string name="activate_status_title_activating_msim">A activar o cartão SIM %s</string>
     <string name="app_name">Estrutura de serviços Xiaomi</string>
     <string name="error_device_id_message">Algumas funções da conta e nuvem ficarão indisponíveis</string>
     <string name="error_device_id_title">Não foi possível obter o número do IMEI</string>
