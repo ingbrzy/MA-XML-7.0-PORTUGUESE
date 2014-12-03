@@ -190,10 +190,10 @@
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem Aceder a câmera</string>
     <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Desc">usar a Ligação Wi-Fi para se conectar à Internet</string>
-    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem usar a Ligação Wi-Fi para se conectar à Internet</string>
+    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem usar a Ligação Wi-Fi para se ligar à Internet</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Activar o Wi-Fi</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicações podem Activar o Wi-Fi</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicações podem activar o Wi-Fi</string>
     <string name="HIPS_Perm_Wakelock">Modo de espera</string>
     <string name="HIPS_Perm_Wakelock_Desc">impedir o modo de espera do dispositivo</string>
     <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicações podem impedir o modo de espera do dispositivo</string>
@@ -225,7 +225,7 @@
     <string name="Privacy_App_Trust_Summary_On">Perguntar quando este aplicação tentar Aceder a outras partes do sistema</string>
     <string name="Privacy_App_Uninstall">Desinstalar</string>
     <string name="Privacy_Perm_Count">%1$d permitido \"|\" %2$d negado</string>
-    <string name="Su_Enable_Dialog">%1$s está solicitando acesso root.</string>
+    <string name="Su_Enable_Dialog">%1$s está a solicitar acesso root.</string>
     <string name="Su_Package_Forbidden">%1$s não possui acesso root.</string>
     <string name="Su_Unavailable">O acesso root não está disponível na versão estável da MIUI. É necessário instalar a versão de desenvolvedor da MIUI para conceder acesso root.</string>
     <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
