@@ -4,7 +4,7 @@
     <string name="Parse_error_dlg_title">Erro de análise</string>
     <string name="allow_source_dlg_text">"%1$s deseja instalar outras aplicações.
         
-        Permitir isso agora e no futuro?"</string>
+        Permitir agora e no futuro?"</string>
     <string name="allow_source_dlg_title">Permitir nova fonte para aplicações?</string>
     <string name="app_name">Instalador do pacote</string>
     <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
@@ -12,21 +12,21 @@
     <string name="auto_startup_dialog_msg">Esta aplicação pode iniciar sem sua permissão.</string>
     <string name="caller_app">Solicitação de permissão de %1$s</string>
     <string name="cancel">Cancelar</string>
-    <string name="dlg_app_replacement_statement">"a aplicação que está instalando substituirá outras aplicações.
+    <string name="dlg_app_replacement_statement">"A aplicação que está a instalar substituirá outras aplicações.
         
         Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="dlg_app_replacement_title">Substituir aplicações</string>
     <string name="dlg_ok">OK</string>
-    <string name="dlg_sys_app_replacement_statement">"Esta é uma aplicações de sistema. Ainda deseja substituí-lo?
+    <string name="dlg_sys_app_replacement_statement">"Esta é uma aplicação de sistema. Ainda deseja substituí-la?
         
         Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="done">Concluído</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="install">Instalar</string>
-    <string name="install_confirm_question">Deseja instalar esta aplicações?</string>
+    <string name="install_confirm_question">Deseja instalar esta aplicação?</string>
     <string name="install_done">aplicações instaladas</string>
-    <string name="install_failed">Aaplicações não está instalada.</string>
-    <string name="install_failed_cpu_abi_incompatible">Esta aplicações não é compatível com a CPU deste telefone.</string>
+    <string name="install_failed">Aplicação não está instalada.</string>
+    <string name="install_failed_cpu_abi_incompatible">Esta aplicação não é compatível com a CPU deste telefone.</string>
     <string name="install_failed_file_not_found">O pacote especificado foi excluído antes da instalação ser concluída.</string>
     <string name="install_failed_inconsistent_certificates">Um pacote existente com o mesmo nome e uma assinatura conflitante já foi instalado.</string>
     <string name="install_failed_invalid_apk">Parece que o pacote está corrompido.</string>
@@ -35,7 +35,7 @@
     <string name="install_failed_system_incompatible">Esta aplicação não é compatível com a MIUI</string>
     <string name="install_failed_verify_failed">O pacote não passou pela verificação e não pode ser instalado.</string>
     <string name="install_failed_verify_timeout">O tempo limite foi atingido ao tentar verificar este pacote. Tente instalá-lo novamente mais tarde.</string>
-    <string name="installing">Instalando...</string>
+    <string name="installing">A instalar...</string>
     <string name="launch">Abrir</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
     <string name="manage_applications">Gerir aplicações</string>
@@ -79,7 +79,7 @@
     <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
     <string name="uninstall_update_text">a aplicação será substituída pela versão de fábrica.</string>
     <string name="uninstall_update_title">Desinstalar actualização</string>
-    <string name="uninstalling">Desinstalando...</string>
+    <string name="uninstalling">A desinstalar...</string>
     <string name="unknown">Desconhecido</string>
     <string name="unknown_apps_dlg_text">Por segurança, o telefone está configurado para bloquear a instalação de aplicações que não foram obtidas a partir do Android Market.</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
