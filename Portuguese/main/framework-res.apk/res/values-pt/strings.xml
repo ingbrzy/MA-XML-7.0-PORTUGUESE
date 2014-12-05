@@ -9,9 +9,9 @@
   <string name="CfMmi">Encaminhamento de chamada</string>
   <string name="ClipMmi">ID do chamador de entrada</string>
   <string name="ClirMmi">ID do chamador de saída</string>
-  <string name="CndMmi">Chamando número de entrega</string>
-  <string name="CnipMmi">Chamando número atual</string>
-  <string name="CnirMmi">Chamando número restrito</string>
+  <string name="CndMmi">A chamar número de entrega</string>
+  <string name="CnipMmi">A chamar número atual</string>
+  <string name="CnirMmi">A chamar número restrito</string>
   <string name="CwMmi">Chamada em espera</string>
   <string name="DndMmi">Não perturbe</string>
   <string name="Midnight">Meia-noite</string>
@@ -138,14 +138,14 @@ Deseja fechar?"</string>
   <string name="continue_to_enable_accessibility">Mantenha pressionado com dois dedos para Activar a acessibilidade.</string>
   <string name="copy">Copiar</string>
   <string name="copyUrl">Copiar ENDEREÇO</string>
-  <string name="create_contact_using">"Criar contato 
+  <string name="create_contact_using">"Criar contacto 
 usando %s"</string>
   <string name="cut">Recortar</string>
   <string name="data_usage_3g_limit_snoozed_title">Limite de dados 2G-3G excedido</string>
   <string name="data_usage_3g_limit_title">Dados 2G e 3G desactivados</string>
   <string name="data_usage_4g_limit_snoozed_title">Limite de dados 4G excedido</string>
   <string name="data_usage_4g_limit_title">Dados 4G desactivados</string>
-  <string name="data_usage_limit_body">Toque para Activar.</string>
+  <string name="data_usage_limit_body">Toque para activar.</string>
   <string name="data_usage_limit_snoozed_body">%s acima do limite especificado.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Limite de dados do cartão excedido</string>
   <string name="data_usage_mobile_limit_title">Dados móveis desactivados</string>
@@ -280,7 +280,7 @@ usando %s"</string>
   <string name="grant_permissions_header_text">Solicitacção de acesso</string>
   <string name="granularity_label_character">caractere</string>
   <string name="granularity_label_line">linha</string>
-  <string name="granularity_label_link">link</string>
+  <string name="granularity_label_link">endereço</string>
   <string name="granularity_label_word">palavra</string>
   <string name="hardware">Hardware</string>
   <string name="heavy_weight_notification">%1$s em execução</string>
@@ -352,9 +352,9 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="keyboardview_keycode_delete">Excluir</string>
   <string name="keyboardview_keycode_done">Concluído</string>
   <string name="keyboardview_keycode_enter">Enter</string>
-  <string name="keyboardview_keycode_mode_change">Alteracção do modo</string>
+  <string name="keyboardview_keycode_mode_change">Alteração do modo</string>
   <string name="keyboardview_keycode_shift">Shift</string>
-  <string name="keygaurd_accessibility_media_controls">Controles de mídia</string>
+  <string name="keygaurd_accessibility_media_controls">Controles de média</string>
   <string name="keyguard_accessibility_add_widget">Adicionar widget</string>
   <string name="keyguard_accessibility_camera">câmera</string>
   <string name="keyguard_accessibility_expand_lock_area">Expandir a área de desbloqueio.</string>
@@ -404,7 +404,7 @@ aceda "&lt;b&gt;google.com.br/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_password_hint">palavra-passe</string>
   <string name="kg_login_submit_button">Iniciar sessão</string>
   <string name="kg_login_too_many_attempts">Muitas tentativas de padrão</string>
-  <string name="kg_login_username_hint">Nome de utilizador (e-mail)</string>
+  <string name="kg_login_username_hint">Nome de utilizador (email)</string>
   <string name="kg_password_instructions">Digite a palavra-passe</string>
   <string name="kg_password_wrong_pin_code">Código PIN incorreto.</string>
   <string name="kg_pattern_instructions">Desenhe o prédefinido</string>
@@ -470,7 +470,7 @@ aceda "&lt;b&gt;google.pt/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_missing_sim_message_short">Sem cartão SIM</string>
   <string name="lockscreen_network_locked_message">Rede bloqueada</string>
   <string name="lockscreen_password_wrong">Tente novamente</string>
-  <string name="lockscreen_pattern_correct">Correto!</string>
+  <string name="lockscreen_pattern_correct">Correcto!</string>
   <string name="lockscreen_pattern_instructions">Desenhe o padrão para desbloquear</string>
   <string name="lockscreen_pattern_wrong">Tente novamente</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"O cartão SIM foi desactivado permanentemente.
@@ -660,7 +660,7 @@ Tente novamente em %d segundos."</string>
   <string name="permdesc_accessCoarseLocation">Permite que a aplicação aceda á localizacção aproximada por meio do sistema de posicionamento global (GPS) ou de fontes de localizacção da rede, como torres de telemovel e redes Wi-Fi. Esses serviços de localização devem estar activos e disponíveis para que sejam usados pela aplicação. A aplicação pode usar esta permissão para determinar aproximadamente onde está.</string>
   <string name="permdesc_accessContentProvidersExternally">Permite que o proprietário tenha acesso a fornecedores de conteúdo a partir da camada. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação aceda sua localizacção exacta por meio do sistema de posicionamento global (GPS) ou de fontes de localizacção da rede, como torres de telemovel e redes Wi-Fi. Esses serviços de localização devem estar activos e disponíveis para que sejam usados pela aplicação. A aplicação pode usar esta permissão para determinar onde está, além de consumir mais bateria.</string>
-  <string name="permdesc_accessLocationExtraCommands">Permite que o aplicação aceda a comandos do provedor não relacionados à localizacção. Isso pode permitir que a aplicação interfira no funcionamento do GPS ou de outras fontes de localizacção.</string>
+  <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos do provedor não relacionados à localizacção. Isso pode permitir que a aplicação interfira no funcionamento do GPS ou de outras fontes de localizacção.</string>
   <string name="permdesc_accessMockLocation">Criar fontes de localizacção simuladas para testar ou instalar um novo provedor de localizacção. Isso permite que a aplicação substitua a localizacção e/ou o estado retornado por outras fontes de localizacção, como o GPS ou provedores de localizacção.</string>
   <string name="permdesc_accessMtp">Permite acesso ao driver MTP do núcleo para implementar o protocolo USB MTP.</string>
   <string name="permdesc_accessNetworkConditions">Permite que a aplicação detecte observações nas condições da rede. Não deve ser necessário para aplicações comuns.</string>
@@ -844,7 +844,7 @@ Tente novamente em %d segundos."</string>
   <string name="permdesc_statusBarService">Permite que a aplicação seja a barra de estado.</string>
   <string name="permdesc_stopAppSwitches">Impede que o utilizador alterne para outra aplicação.</string>
   <string name="permdesc_subscribedFeedsRead">Permite que a aplicação obtenha detalhes sobre os feeds sincronizados no momento.</string>
-  <string name="permdesc_subscribedFeedsWrite">Permite que o aplicação modifique seus feeds sincronizados no momento. aplicações maliciosos podem alterar seus feeds sincronizados.</string>
+  <string name="permdesc_subscribedFeedsWrite">Permite que a aplicação modifique seus feeds sincronizados no momento. aplicações maliciosos podem alterar seus feeds sincronizados.</string>
   <string name="permdesc_systemAlertWindow">Permite que a aplicação se sobreponha visualmente a outros aplicações ou a partes da interface do utilizador. Podem interferir com o uso da interface de qualquer aplicação ou alterar o que você acha que está vendo em outros aplicações.</string>
   <string name="permdesc_temporary_enable_accessibility">Permite que uma aplicação Active temporariamente a acessibilidade no dispositivo. aplicações maliciosos podem Activar a acessibilidade sem o consentimento do utilizador.</string>
   <string name="permdesc_transmitIr">Permite que a aplicação use o transmissor infravermelho do telefone.</string>
@@ -872,7 +872,7 @@ Tente novamente em %d segundos."</string>
   <string name="permdesc_writeSyncSettings">Permite que a aplicação modifique as configurações de sincronizacção de uma conta. Por exemplo, pode ser usado para Activar a sincronizacção do aplicação People com uma conta.</string>
   <string name="permgroupdesc_accessibilityFeatures">Recursos que a tecnologia assistencial pode solicitar.</string>
   <string name="permgroupdesc_accounts">aceder as contas disponíveis.</string>
-  <string name="permgroupdesc_affectsBattery">Usar recursos que podem descarregar a bateria rapidamente.</string>
+  <string name="permgroupdesc_affectsBattery">Utilizar recursos que podem descarregar a bateria rapidamente.</string>
   <string name="permgroupdesc_appInfo">Capacidade de afectar o comportamento de outros aplicações no dispositivo.</string>
   <string name="permgroupdesc_audioSettings">Alterar as configurações de áudio.</string>
   <string name="permgroupdesc_bluetoothNetwork">Aceder dispositivos e redes por meio do Bluetooth.</string>
@@ -883,7 +883,7 @@ Tente novamente em %d segundos."</string>
   <string name="permgroupdesc_developmentTools">Recursos necessários apenas para desenvolvedores de aplicações.</string>
   <string name="permgroupdesc_deviceAlarms">Configurar o despertador.</string>
   <string name="permgroupdesc_dictionary">Ler as palavras do dicionário do utilizador.</string>
-  <string name="permgroupdesc_display">Afetar a interface do utilizador de outros aplicações.</string>
+  <string name="permgroupdesc_display">Afectar a interface do utilizador de outras aplicações.</string>
   <string name="permgroupdesc_hardwareControls">Acessa o hardware diretamente no aparelho.</string>
   <string name="permgroupdesc_location">Monitore seu local físico.</string>
   <string name="permgroupdesc_messages">Ler e gravar mensagens SMS, e-mails e outras mensagens.</string>
@@ -950,10 +950,10 @@ para a conta %s."</string>
   <string name="permlab_accessWifiState">ver ligações Wi-Fi</string>
   <string name="permlab_accessWimaxState">ligar e desligar do WiMAX</string>
   <string name="permlab_access_keyguard_secure_storage">Aceder o armazenamento seguro do bloqueio de teclado</string>
-  <string name="permlab_accountManagerService">agir como AccountManagerService</string>
+  <string name="permlab_accountManagerService">Agir como AccountManagerService</string>
   <string name="permlab_addVoicemail">adicionar correio de voz</string>
   <string name="permlab_anyCodecForPlayback">usar qualquer decodificador de mídia para reprodução</string>
-  <string name="permlab_asec_access">obter informações sobre o armazenamento interno</string>
+  <string name="permlab_asec_access">Obter informações sobre o armazenamento interno</string>
   <string name="permlab_asec_create">criar armazenamento interno</string>
   <string name="permlab_asec_destroy">destruir armazenamento interno</string>
   <string name="permlab_asec_mount_unmount">ligar/desligar armazenamento interno</string>
@@ -976,7 +976,7 @@ para a conta %s."</string>
   <string name="permlab_bindVpnService">se ligam a um serviço de VPN</string>
   <string name="permlab_bindWallpaper">sujeitar-se a um plano de fundo</string>
   <string name="permlab_bind_call_service">interagir com chamada na ecrã</string>
-  <string name="permlab_bluetooth">parear com dispositivos Bluetooth</string>
+  <string name="permlab_bluetooth">Emparelhar com dispositivos Bluetooth</string>
   <string name="permlab_bluetoothAdmin">aceder configurações de Bluetooth</string>
   <string name="permlab_bluetoothPriv">permitir pareamento via Bluetooth pelo aplicação</string>
   <string name="permlab_brick">desactivar permanentemente o telefone</string>
@@ -1002,7 +1002,7 @@ para a conta %s."</string>
   <string name="permlab_changeWifiState">ligar e desligar do Wi-Fi</string>
   <string name="permlab_changeWimaxState">Alterar estado do WiMAX</string>
   <string name="permlab_checkinProperties">aceder propriedades de verificacção</string>
-  <string name="permlab_clearAppCache">excluir todos os dados do cache do aplicação</string>
+  <string name="permlab_clearAppCache">Excluir todos os dados do cache do aplicação</string>
   <string name="permlab_clearAppUserData">excluir dados de outros aplicações</string>
   <string name="permlab_configureWifiDisplay">configurar monitores Wi-Fi</string>
   <string name="permlab_confirm_full_backup">confirmar um backup completo ou uma operacção de restauracção</string>
@@ -1021,8 +1021,8 @@ para a conta %s."</string>
   <string name="permlab_factoryTest">executar no modo de teste de fábrica</string>
   <string name="permlab_filter_events">filtrar eventos</string>
   <string name="permlab_flashlight">controlar lanterna</string>
-  <string name="permlab_forceBack">forçar encerramento do aplicação</string>
-  <string name="permlab_forceStopPackages">força o interrompimento de outros aplicações</string>
+  <string name="permlab_forceBack">forçar encerramento da aplicação</string>
+  <string name="permlab_forceStopPackages">força o interrompimento de outras aplicações</string>
   <string name="permlab_freezeScreen">congelar ecrã</string>
   <string name="permlab_getAccounts">encontrar contas no dispositivo</string>
   <string name="permlab_getAppOpsStats">recuperar estatísticas de operações de aplicações</string>
@@ -1066,7 +1066,7 @@ para a conta %s."</string>
   <string name="permlab_packageVerificationAgent">verificar pacotes</string>
   <string name="permlab_performCdmaProvisioning">iniciar a configuracção do telefone CDMA diretamente</string>
   <string name="permlab_persistentActivity">sempre executar o aplicação</string>
-  <string name="permlab_pkgUsageStats">atualizar estatísticas de uso do componente</string>
+  <string name="permlab_pkgUsageStats">actualizar estatísticas de uso do componente</string>
   <string name="permlab_processOutgoingCalls">redirecionar as chamadas efetuadas</string>
   <string name="permlab_readCalendar">ler compromissos e informações confidenciais</string>
   <string name="permlab_readCallLog">ler registro de chamadas</string>
@@ -1091,8 +1091,8 @@ para a conta %s."</string>
   <string name="permlab_receiveSms">receber mensagens de texto (SMS)</string>
   <string name="permlab_receiveWapPush">receber mensagens de texto (WAP)</string>
   <string name="permlab_recordAudio">gravar áudio</string>
-  <string name="permlab_removeTasks">parar os aplicações em execução</string>
-  <string name="permlab_reorderTasks">reordenar os aplicações em execução</string>
+  <string name="permlab_removeTasks">parar as aplicações em execução</string>
+  <string name="permlab_reorderTasks">reordenar as aplicações em execução</string>
   <string name="permlab_retrieve_window_content">recuperar conteúdo da ecrã</string>
   <string name="permlab_retrieve_window_info">recuperar informações de janelas</string>
   <string name="permlab_route_media_output">Rotear saída de mídia</string>
@@ -1125,7 +1125,7 @@ para a conta %s."</string>
   <string name="permlab_stopAppSwitches">evitar trocas de aplicação</string>
   <string name="permlab_subscribedFeedsRead">ler feeds inscritos</string>
   <string name="permlab_subscribedFeedsWrite">gravar feeds inscritos</string>
-  <string name="permlab_systemAlertWindow">sobrepor outros aplicações</string>
+  <string name="permlab_systemAlertWindow">sobrepor outras aplicações</string>
   <string name="permlab_temporary_enable_accessibility">Activar temporariamente a acessibilidade</string>
   <string name="permlab_transmitIr">transmitir infravermelhos</string>
   <string name="permlab_uninstall_shortcut">desinstalar atalhos</string>
@@ -1164,7 +1164,7 @@ para a conta %s."</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Principal</string>
   <string name="phoneTypeMms">MMS</string>
-  <string name="phoneTypeMobile">Celular</string>
+  <string name="phoneTypeMobile">Telemóvel</string>
   <string name="phoneTypeOther">Outros</string>
   <string name="phoneTypeOtherFax">Outro fax</string>
   <string name="phoneTypePager">Pager</string>
@@ -1176,9 +1176,9 @@ para a conta %s."</string>
   <string name="phoneTypeWorkPager">Pager comercial</string>
   <string name="pinpuk_attempts">"
 Tentativas Restantes :"</string>
-  <string name="policydesc_disableCamera">Impeça o uso de todas as câmeras do dispositivo.</string>
+  <string name="policydesc_disableCamera">Impedir o uso de todas as câmeras do dispositivo.</string>
   <string name="policydesc_disableKeyguardFeatures">Impede o uso de determinados recursos quando o teclado está bloqueado.</string>
-  <string name="policydesc_encryptedStorage">Exija que os dados armazenados do aplicação sejam criptografados.</string>
+  <string name="policydesc_encryptedStorage">Exija que os dados armazenados da aplicação sejam criptografados.</string>
   <string name="policydesc_expirePassword">Controle a frequência com que a palavra-passe da ecrã de bloqueio deve ser alterada.</string>
   <string name="policydesc_forceLock">Controle como e quando a ecrã é bloqueada.</string>
   <string name="policydesc_limitPassword">Controlar o tamanho e os caracteres permitidos nas palavra-passes de desbloqueio de ecrã.</string>
@@ -1391,7 +1391,7 @@ A audição em volume elevado por períodos longos pode prejudicar a audição."
   <string name="unknownName">(Desconhecido)</string>
   <string name="untitled">&lt;Sem título&gt;</string>
   <string name="upload_file">Escolher arquivo</string>
-  <string name="usb_accessory_notification_title">Conectado a um acessório USB</string>
+  <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
   <string name="usb_cd_installer_notification_title">Ligados como um instalador</string>
   <string name="usb_mtp_notification_title">Ligado como um dispositivo de mídia</string>
   <string name="usb_notification_message">Toque para obter outras opções USB.</string>
@@ -1433,7 +1433,7 @@ A audição em volume elevado por períodos longos pode prejudicar a audição."
   <string name="vpn_text">Toque para gerir a rede.</string>
   <string name="vpn_text_long">Ligado a %s. Toque para gerenciar a rede.</string>
   <string name="vpn_title">VPN activada</string>
-  <string name="vpn_title_long">A VPN está ativada por %s</string>
+  <string name="vpn_title_long">A VPN está activada por %s</string>
   <string name="wait">Aguardar</string>
   <string name="wallpaper_binding_label">Plano de fundo</string>
   <string name="webpage_unresponsive">"A página não responde.
@@ -1497,7 +1497,7 @@ Deseja fechá-la?"</string>
   <string name="week">semana</string>
   <string name="weeks">semanas</string>
   <string name="whichApplication">Complete a acção usando</string>
-  <string name="whichHomeApplication">Selecione um aplicação de ecrã inicial</string>
+  <string name="whichHomeApplication">Selecione uma aplicação de ecrã inicial</string>
   <string name="wifi_available_sign_in">Iniciar sessão na rede Wi-Fi</string>
   <string name="wifi_display_notification_connected_message">Ligado a %1$s</string>
   <string name="wifi_display_notification_connected_title">Transmitindo a ecrã</string>
@@ -1509,7 +1509,7 @@ Deseja fechá-la?"</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct activado</string>
   <string name="wifi_p2p_enter_pin_message">Digite o PIN obrigatório:</string>
   <string name="wifi_p2p_failed_message">Não foi possível iniciar o Wi-Fi Direct.</string>
-  <string name="wifi_p2p_frequency_conflict_message">O telefone desligará temporariamente da rede Wi-Fi enquanto estiver ligado a %1$s</string>
+  <string name="wifi_p2p_frequency_conflict_message">O telefone irá desligar temporariamente da rede Wi-Fi enquanto estiver ligado a %1$s</string>
   <string name="wifi_p2p_from_message">De:</string>
   <string name="wifi_p2p_invitation_sent_title">Convite enviado</string>
   <string name="wifi_p2p_invitation_to_connect_title">Convite para se ligar</string>
