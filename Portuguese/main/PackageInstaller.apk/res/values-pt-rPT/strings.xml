@@ -23,9 +23,9 @@
     <string name="done">Concluído</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="install">Instalar</string>
-    <string name="install_confirm_question">Deseja instalar esta aplicações?</string>
+    <string name="install_confirm_question">Deseja instalar esta aplicação?</string>
     <string name="install_done">aplicações instaladas</string>
-    <string name="install_failed">Aplicação não instalada.</string>
+    <string name="install_failed">Aplicações não instalada.</string>
     <string name="install_failed_cpu_abi_incompatible">Estas aplicações não são compatívéis com o porcessador deste telefone.</string>
     <string name="install_failed_file_not_found">O pacote especificado foi excluído antes da instalação ser concluída.</string>
     <string name="install_failed_inconsistent_certificates">Um pacote existente com o mesmo nome e uma assinatura conflitante já foi instalado.</string>
@@ -79,7 +79,7 @@
     <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
     <string name="uninstall_update_text">a aplicação será substituída pela versão de fábrica.</string>
     <string name="uninstall_update_title">Desinstalar actualização</string>
-    <string name="uninstalling">Desinstalando...</string>
+    <string name="uninstalling">A desinstalar...</string>
     <string name="unknown">Desconhecido</string>
     <string name="unknown_apps_dlg_text">Por segurança, o telefone está configurado para bloquear a instalação de aplicações que não foram obtidas a partir do Android Market.</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
