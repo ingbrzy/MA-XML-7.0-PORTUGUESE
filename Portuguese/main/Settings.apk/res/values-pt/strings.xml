@@ -2,8 +2,8 @@
 <resources>
     <string name="about_settings">Sobre o telefone</string>
     <string name="about_settings_summary">Ver informações legais, estado, versão do software</string>
-    <string name="accelerometer_summary_off">Alternar orientacção automaticamente ao girar o telefone</string>
-    <string name="accelerometer_summary_on">Alternar orientacção automaticamente ao girar o telefone</string>
+    <string name="accelerometer_summary_off">Alternar orientação automaticamente ao girar o telefone</string>
+    <string name="accelerometer_summary_on">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_title">Girar ecrã</string>
     <string name="accessibility_captioning_title">Legendas</string>
     <string name="accessibility_feature_state_off">Desactivado</string>
@@ -97,7 +97,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="apn_mnc">MNC</string>
     <string name="apn_name">Nome</string>
     <string name="apn_not_set">Não definido</string>
-    <string name="apn_password">palavra-passe</string>
+    <string name="apn_password">Palavra-passe</string>
     <string name="apn_protocol">Protocolo APN</string>
     <string name="apn_roaming_protocol">Protocolo de roaming do APN</string>
     <string name="apn_server">Servidor</string>
@@ -115,7 +115,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="app_install_location_summary">Alterar o local de instalacção preferido para novas aplicações</string>
     <string name="app_install_location_title">Local de instalacção preferido</string>
     <string name="app_memory_use">Uso da memória</string>
-    <string name="app_name_label">aaplicação</string>
+    <string name="app_name_label">Aplicação</string>
     <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
     <string name="app_not_found_dlg_title"/>
     <string name="app_not_supported_in_limited">Esta aplicação não é compatível com perfis restritos</string>
@@ -130,11 +130,11 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="app_special_disable_dlg_title">Excluir os dados e desactivar a aplicação?</string>
     <string name="application_info_label">Informações da aplicação</string>
     <string name="application_restrictions">Permitir aplicações e conteúdo</string>
-    <string name="application_size_label">aplicação</string>
-    <string name="applications_settings">aplicações</string>
+    <string name="application_size_label">Aplicação</string>
+    <string name="applications_settings">Aplicações</string>
     <string name="applications_settings_header">Configurações da aplicação</string>
     <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicializacção rápida</string>
-    <string name="apps_with_restrictions_header">aplicações com restrições</string>
+    <string name="apps_with_restrictions_header">Aplicações com restrições</string>
     <string name="apps_with_restrictions_settings_button">Expandir config. p/ aplicação</string>
     <string name="ask_compatibility">Perguntar ao iniciar</string>
     <string name="assisted_gps">Usar GPS associado</string>
@@ -147,16 +147,16 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="auto_launch_enable_text"> decidiu lançar esta aplicação por predefinição para algumas ações.</string>
     <string name="auto_launch_label">Iniciar por predefinição</string>
     <string name="auto_launch_label_generic">Predefinições</string>
-    <string name="auto_punctuate">Pontuacção automática</string>
+    <string name="auto_punctuate">Pontuação automática</string>
     <string name="auto_punctuate_summary">Pressione a tecla de Espaço duas vezes para inserir \".\"</string>
     <string name="auto_replace">Substituição automática</string>
     <string name="auto_replace_summary">Corrigir palavras escritas incorretamente</string>
     <string name="auto_restore_summary">Ao reinstalar uma aplicação, restaura as configurações de Cópia de segurança e dados</string>
     <string name="auto_restore_title">Restauracção automática</string>
     <string name="automatic_brightness">Brilho automático</string>
-    <string name="awake">Tempo activo do aparelho</string>
+    <string name="awake">Tempo activo do dispositivo</string>
     <string name="background_data">dados de segundo plano</string>
-    <string name="background_data_dialog_message">A desactivacção dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. algumas aplicações ainda podem usar a ligação de dados de segundo plano.</string>
+    <string name="background_data_dialog_message">A desactivacção de dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. algumas aplicações ainda podem usar a ligação de dados de segundo plano.</string>
     <string name="background_data_dialog_title">Des. dados 2º plan.?</string>
     <string name="background_data_summary">Aplic. sincronizam, enviam e recebem dados a qualquer hora</string>
     <string name="background_process_stop_description">Este é um processo de aplicação antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
@@ -218,11 +218,11 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="battery_info_power_wireless">sem fio</string>
     <string name="battery_info_scale_label">Escala da bateria:</string>
     <string name="battery_info_screen_on">Tempo activo do ecrã:</string>
-    <string name="battery_info_Estado_charging">Carregando</string>
+    <string name="battery_info_Estado_charging">A carregar</string>
     <string name="battery_info_Estado_charging_ac">(CA)</string>
     <string name="battery_info_Estado_charging_usb">(USB)</string>
     <string name="battery_info_Estado_charging_wireless">(sem fio)</string>
-    <string name="battery_info_Estado_discharging">Não está carregando</string>
+    <string name="battery_info_Estado_discharging">Não está a carregar</string>
     <string name="battery_info_Estado_full">Cheio</string>
     <string name="battery_info_Estado_label">Estado da bateria:</string>
     <string name="battery_info_Estado_not_charging">Não está carregando</string>
@@ -236,13 +236,13 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="battery_level_title">Nível da bateria</string>
     <string name="battery_since_reset">Uso da bateria desde a redefinição</string>
     <string name="battery_since_unplugged">Uso da bateria desde a desligação do aparelho</string>
-    <string name="battery_stats_charging_label">Carregando</string>
+    <string name="battery_stats_charging_label">A carregar</string>
     <string name="battery_stats_duration">%1$s desde que foi desligado</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
     <string name="battery_stats_on_battery">%1$s na bateria</string>
     <string name="battery_stats_phone_signal_label">Sinal da rede móvel</string>
-    <string name="battery_stats_screen_on_label">ecrã activo</string>
-    <string name="battery_stats_wake_lock_label">activo</string>
+    <string name="battery_stats_screen_on_label">Ecrã activo</string>
+    <string name="battery_stats_wake_lock_label">Activo</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_Estado_title">Estado da bateria</string>
     <string name="battery_sugg_apps_gps">Selecionar modo de economia de bateria</string>
@@ -274,14 +274,14 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_connected_no_headset">Ligado (sem telefone)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Ligado (sem telefone ou média)</string>
     <string name="bluetooth_connected_no_map">Ligado (sem acesso a mensagens)</string>
-    <string name="bluetooth_connecting">Conectando...</string>
+    <string name="bluetooth_connecting">A Ligar...</string>
     <string name="bluetooth_connecting_error_message">Não foi possível ligar ao %1$s.</string>
     <string name="bluetooth_connection_dialog_text">Deseja ligar-se ao \"%1$s\"?</string>
     <string name="bluetooth_connection_notif_message">Toque para ligar-se a \"%1$s\".</string>
     <string name="bluetooth_connection_permission_request">Solicitacção de ligação Bluetooth</string>
     <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Permitir transfer. de arquivo</string>
-    <string name="bluetooth_device_advanced_online_mode_summary">Conecta ao dispositivo Bluetooth</string>
+    <string name="bluetooth_device_advanced_online_mode_summary">Liga ao dispositivo Bluetooth</string>
     <string name="bluetooth_device_advanced_online_mode_title">ligar</string>
     <string name="bluetooth_device_advanced_profile_header_title">Perfis</string>
     <string name="bluetooth_device_advanced_rename_device">Renomear</string>
@@ -290,7 +290,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_device_context_connect_advanced">Opções…</string>
     <string name="bluetooth_device_context_disconnect">Desligar</string>
     <string name="bluetooth_device_context_disconnect_unpair">Desligar e cancelar emparelhamento</string>
-    <string name="bluetooth_device_context_pair_connect">emparelhar e ligar</string>
+    <string name="bluetooth_device_context_pair_connect">Emparelhar e ligar</string>
     <string name="bluetooth_device_context_unpair">Cancelar emparelhamento</string>
     <string name="bluetooth_device_details">Configurações do dispositivo</string>
     <string name="bluetooth_device_name">Nome do dispositivo</string>
@@ -304,8 +304,8 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_disconnect_pan_nap_profile">O %1$s será desligado da partil. da ligação de Internet deste telefone.</string>
     <string name="bluetooth_disconnect_pan_user_profile">O acesso à Internet por meio de %1$s será desligado.</string>
     <string name="bluetooth_disconnect_title">Desligar?</string>
-    <string name="bluetooth_disconnected">desligado</string>
-    <string name="bluetooth_disconnecting">Desligando</string>
+    <string name="bluetooth_disconnected">Desligado</string>
+    <string name="bluetooth_disconnecting">A desligar</string>
     <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Digite no dispositivo:&lt;br>&lt;b>%2$s&lt;/b>. Em seguida, pressione Voltar ou Entrar.</string>
     <string name="bluetooth_dock_settings">Configurações de suporte secretária</string>
     <string name="bluetooth_dock_settings_a2dp">Para música e média</string>
@@ -339,21 +339,21 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_notif_message">Toque para emparelhar com %1$s.</string>
     <string name="bluetooth_notif_ticker">Solicitacção de emparelhamento Bluetooth</string>
     <string name="bluetooth_notif_title">Solicitacção de emparelhamento</string>
-    <string name="bluetooth_on_time">Tempo de Activacção da rede Wi-Fi</string>
+    <string name="bluetooth_on_time">Tempo de Activação da rede Wi-Fi</string>
     <string name="bluetooth_only_visible_to_paired_devices">Visível somente para dispositivos emparelhados</string>
     <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Não está Ligado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_opp_profile_summary_use_for">Usado para transferência de arquivo</string>
-    <string name="bluetooth_pairing">Pareando…</string>
-    <string name="bluetooth_pairing_accept">emparelhar</string>
+    <string name="bluetooth_pairing">Emparelhando…</string>
+    <string name="bluetooth_pairing_accept">Emparelhar</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
-    <string name="bluetooth_pairing_device_down_error_message">Não é possível se comunicar com %1$s.</string>
+    <string name="bluetooth_pairing_device_down_error_message">Não é possível comunicar com %1$s.</string>
     <string name="bluetooth_pairing_error_message">Não foi possível emparelhar com %1$s.</string>
     <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s por causa de um PIN ou palavra-passe incorretos.</string>
     <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s.</string>
-    <string name="bluetooth_pairing_request">Solicitacção de emparelhamento Bluetooth</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Compart. ligação local de Intern. com disp.</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
+    <string name="bluetooth_pairing_request">A solicitar emparelhamento Bluetooth</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Partilha. ligação local de Intern. com disp.</string>
+    <string name="bluetooth_pan_profile_summary_use_for">Usar para aceder à Internet</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Ligado ao dispositivo para acesso à Internet</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s deseja aceder seus contatos e o histórico de chamadas. Conceder acesso a %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
@@ -379,7 +379,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_rename_device">Renomear telefone</string>
     <string name="bluetooth_scan_for_devices">Procurar dispositivos</string>
     <string name="bluetooth_search_for_devices">Procurar disposit.</string>
-    <string name="bluetooth_searching_for_devices">Pesquisando...</string>
+    <string name="bluetooth_searching_for_devices">A pesquisar...</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gerir ligações, definir o nome e detecção do dispositivo</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -392,13 +392,13 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_tethering_off_subtext">ligação de Internet não partilhada</string>
     <string name="bluetooth_tethering_overflow_error">Não é possível vincular a mais de %1$d dispositivos.</string>
     <string name="bluetooth_turning_off">Desligar o Bluetooth…</string>
-    <string name="bluetooth_turning_on">Activando Bluetooth...</string>
+    <string name="bluetooth_turning_on">A activar Bluetooth...</string>
     <string name="bluetooth_unknown"/>
     <string name="bluetooth_untether_blank">%1$s será vinculado.</string>
     <string name="bluetooth_visibility_timeout">Tempo limite de visibilidade</string>
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho do ecrã</string>
-    <string name="bt_hci_snoop_log">activar log de rastr. Bluetooth HCI</string>
+    <string name="bt_hci_snoop_log">Activar log de rastr. Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI em um arquivo</string>
     <string name="bugreport_in_power">Relat. de erros menu do b. ligar</string>
     <string name="bugreport_in_power_summary">Incluir a opção de obter um relatório de erros no menu do botão de ligar</string>
@@ -475,7 +475,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="credentials_install_gesture_prompt">Desenhe o padrão de desbloqueio</string>
     <string name="credentials_install_summary">Instalar certificados do armazenamento</string>
     <string name="credentials_not_erased">Armaz. de creden. não eliminado.</string>
-    <string name="credentials_old_password">palavra-passe atual:</string>
+    <string name="credentials_old_password">palavra-passe actual:</string>
     <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
     <string name="credentials_reset">Eliminar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
@@ -485,18 +485,18 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="credentials_title">Armazenamento de credenciais</string>
     <string name="credentials_unlock"/>
     <string name="credentials_unlock_hint">Digite a palavra-passe para o armazenamento de credenciais.</string>
-    <string name="credentials_wrong_password">palavra-passe incorreta.</string>
+    <string name="credentials_wrong_password">Palavra-passe incorreta.</string>
     <string name="crypt_keeper_button_text">Encriptar telefone</string>
     <string name="crypt_keeper_confirm_title">Encriptar?</string>
     <string name="crypt_keeper_cooldown">Tente novamente em ^1 segundos.</string>
-    <string name="crypt_keeper_desc">" pode Encriptar suas contas, configurações, aplicações transferidas e seus dados, média e outros arquivos. Após Encriptar o telefone, será necessário digitar um PIN numérico ou palavra-passe para desencriptar toda vez que  ligá-lo. Não é possível desfazer o Encriptar no telefone, excepto se realizar uma redefinição para configuracção original, eliminando todos os seus dados.
+    <string name="crypt_keeper_desc">"Pode Encriptar as contas, configurações, aplicações transferidas e seus dados, média e outros arquivos. Após Encriptar o telefone, será necessário digitar um PIN numérico ou palavra-passe para desencriptar toda vez que  ligá-lo. Não é possível desfazer o Encriptar no telefone, excepto se realizar uma redefinição para configuracção original, eliminando todos os seus dados.
 
 A Encriptação leva um hora ou mais. Deve iniciar com a bateria carregada e manter o telefone Ligado até que a Encriptação seja concluída. Se  interromper o processo de Encriptação, perderá alguns ou todos os seus dados."</string>
     <string name="crypt_keeper_dialog_need_password_message">É necessário definir um PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a Encriptação.</string>
     <string name="crypt_keeper_dialog_need_password_title">Não há PIN ou palavra-passe do ecrã de bloqueio</string>
     <string name="crypt_keeper_encrypt_summary">Exigir um PIN numérico ou palavra-passe para decodificar o telefone sempre que ligá-lo</string>
     <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
-    <string name="crypt_keeper_encrypted_summary">encriptado</string>
+    <string name="crypt_keeper_encrypted_summary">Encriptado</string>
     <string name="crypt_keeper_enter_password">Digite a palavra-passe</string>
     <string name="crypt_keeper_failed_summary">"A Encriptação foi interrompida e não pode ser concluída. Por esse motivo, os dados no telefone não podem mais ser acedidos. 
 
@@ -602,7 +602,7 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="date_time_set_date">Definir data</string>
     <string name="date_time_set_time">Definir hora</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>
-    <string name="debug_app">Selecionar aplicação de depuracção</string>
+    <string name="debug_app">Selecionar aplicação de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicações de depuracção</string>
     <string name="debug_app_set">Aplicação de depuracção: %1$s</string>
     <string name="debug_applications_category">Aplicações</string>
@@ -619,7 +619,7 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="details_subtitle">Detalhes de uso</string>
     <string name="details_title">Detalhes de uso</string>
     <string name="dev_settings_warning_message">Essas configurações são destinadas apenas para o uso de desenvolvedores. Elas podem causar a desactivacção ou mau funcionamento do dispositivo e das aplicações contidas nele.</string>
-    <string name="dev_settings_warning_title">activar as configurações de desenvolvimento?</string>
+    <string name="dev_settings_warning_title">Activar as configurações de desenvolvimento?</string>
     <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este utilizador</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="development_settings_title">Opções do desenvolvedor</string>
@@ -644,10 +644,10 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="disable_text">Desactivar</string>
     <string name="disabled">Desactivado</string>
     <string name="display_font_size_label">Tamanho da fonte:</string>
-    <string name="display_label">ecrã</string>
+    <string name="display_label">Ecrã</string>
     <string name="display_order_text">Classificar por:</string>
     <string name="display_preview_label">Visualizar:</string>
-    <string name="display_settings">ecrã</string>
+    <string name="display_settings">Ecrã</string>
     <string name="display_settings_title">ecrã</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="dlg_confirm_unmount_text">Se  desligar o armazenamento USB, algumas aplicações que estão em uso serão interrompidos e podem não estar disponíveis até  ligar o armazenamento USB novamente.</string>
@@ -673,9 +673,9 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="dtmf_tone_enable_title">Tons de toque do teclado</string>
     <string name="emergency_tone_summary">Definir comportamento durante uma chamada de emergência</string>
     <string name="emergency_tone_title">Tom de emergência</string>
-    <string name="empty_list_msg"> não tem aplicações de terceiros instaladas.</string>
-    <string name="enable_adb">Depuracção USB</string>
-    <string name="enable_adb_summary">Modo de depuracção quando o USB estiver Ligado</string>
+    <string name="empty_list_msg">Não tem aplicações de terceiros instaladas.</string>
+    <string name="enable_adb">Depuração USB</string>
+    <string name="enable_adb_summary">Modo de depuração quando o USB estiver Ligado</string>
     <string name="enable_compatibility">Dimensionar aplicação</string>
     <string name="enable_opengl_traces_title">activar rastream. OpenGL</string>
     <string name="enable_service_title">Usar %1$s?</string>
@@ -704,7 +704,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="filter_apps_all">Todos</string>
     <string name="filter_apps_disabled">Desactivados</string>
     <string name="filter_apps_onsdcard">Armazenamento USB</string>
-    <string name="filter_apps_running">Rodando</string>
+    <string name="filter_apps_running">A rodar</string>
     <string name="filter_apps_third_party">Transferidos</string>
     <string name="filter_dlg_title">Selecione as opções de filtro</string>
     <string name="finish_button_label">Concluir</string>
@@ -728,14 +728,14 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="gadget_location">localização</string>
     <string name="gadget_picker_title">Escolher o gadget</string>
     <string name="gadget_state_off">Desactivado</string>
-    <string name="gadget_state_on">activado</string>
+    <string name="gadget_state_on">Activado</string>
     <string name="gadget_state_template">%1$s %2$s</string>
-    <string name="gadget_state_turning_off">desActivando</string>
-    <string name="gadget_state_turning_on">Activando</string>
+    <string name="gadget_state_turning_off">A desactivar</string>
+    <string name="gadget_state_turning_on">A activar</string>
     <string name="gadget_sync">Sincronizacção</string>
     <string name="gadget_title">Controle de energia</string>
-    <string name="gadget_toggle_bluetooth">Actualizando configuracção Bluetooth</string>
-    <string name="gadget_toggle_wifi">Atualizando configuracção de Wi-Fi</string>
+    <string name="gadget_toggle_bluetooth">A actualizar configuracção Bluetooth</string>
+    <string name="gadget_toggle_wifi">A actualizar configuracção de Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="game_controller_settings_category">Controlador de jogos</string>
     <string name="global_change_warning">Esta configuracção afecta todos os utilizadores do telefone.</string>
@@ -793,7 +793,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s e %2$s</string>
     <string name="keep_screen_on">Permanecer activo</string>
-    <string name="keep_screen_on_summary">o ecrã nunca entrará em inactividade enquanto estiver carregando.</string>
+    <string name="keep_screen_on_summary">o ecrã nunca entrará em inactividade enquanto estiver a carregar.</string>
     <string name="kernel_version">Versão do kernel</string>
     <string name="keyboard_layout_default_label">Padrão</string>
     <string name="keyboard_layout_dialog_setup_button">Configurar os traçados do teclado</string>
@@ -813,7 +813,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="license_title">Licença</string>
     <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe da cópia de seguranças completos do Ambiente de trabalho</string>
     <string name="local_backup_password_summary_none">Ad cópias de segurança  completas no computador não estão protegidas no momento</string>
-    <string name="local_backup_password_title">palavra-passe da cópia de segurança local</string>
+    <string name="local_backup_password_title">Palavra-passe da cópia de segurança local</string>
     <string name="local_backup_password_toast_confirmation_mismatch">A nova palavra-passe e a confirmacção não coincidem.</string>
     <string name="local_backup_password_toast_success">Nova palavra-passe de cópia de segurança definida</string>
     <string name="local_backup_password_toast_validation_failure">Erro ao definir a palavra-passe da cópia de segurança</string>
@@ -824,7 +824,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="location_category_recent_location_requests">Solicit. de localiz. recentes</string>
     <string name="location_gps">Satélites de GPS</string>
     <string name="location_high_battery_use">Uso da bateria elevado</string>
-    <string name="location_loading_injected_setting">Recuperando…</string>
+    <string name="location_loading_injected_setting">A recuperar…</string>
     <string name="location_low_battery_use">Uso da bateria reduzido</string>
     <string name="location_mode_battery_saving_description">Usar Wi-Fi e redes móveis para determinar a localização</string>
     <string name="location_mode_battery_saving_title">Economia de bateria</string>
@@ -905,13 +905,13 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
     <string name="lockpattern_tutorial_continue_label">Avançar</string>
     <string name="lte_ram_dump_off">Desactivar descarga de ram do lte</string>
-    <string name="lte_ram_dump_on">activar descarga de ram do lte</string>
+    <string name="lte_ram_dump_on">Activar descarga de ram do lte</string>
     <string name="main_running_process_description">Processo principal em uso.</string>
     <string name="manage_device_admin">Administradores do dispositivo</string>
     <string name="manage_device_admin_summary">Visualizar ou desactivar administradores do dispositivo</string>
     <string name="manage_mobile_plan_title">Plano de celular</string>
     <string name="manage_notification_access">Acesso a notificações</string>
-    <string name="manage_notification_access_summary_zero">as aplicações não podem ler notificações</string>
+    <string name="manage_notification_access_summary_zero">As aplicações não podem ler notificações</string>
     <string name="manage_space_text">Gerir espaço</string>
     <string name="manageapplications_settings_summary">Gerir e remover aplicações instaladas</string>
     <string name="manageapplications_settings_title">Gerir aplicações</string>
@@ -951,10 +951,10 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="media_volume_title">média</string>
     <string name="medium_font">Médio</string>
     <string name="memory">RAM</string>
-    <string name="memory_apps_usage">aplicações (dados de aplic. e conteúdo de média)</string>
+    <string name="memory_apps_usage">Aplicações (dados de aplic. e conteúdo de média)</string>
     <string name="memory_available">Disponível</string>
     <string name="memory_available_read_only">Disponível (somente leitura)</string>
-    <string name="memory_calculating_size">Calculando...</string>
+    <string name="memory_calculating_size">A calcular...</string>
     <string name="memory_clear_cache_message">Eliminará dados em cache de todos as aplicações.</string>
     <string name="memory_clear_cache_title">Eliminar os dados em cache?</string>
     <string name="memory_dcim_usage">Imagens, vídeos</string>
@@ -977,7 +977,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="menu_proc_stats_type_cached">Em cache</string>
     <string name="menu_proc_stats_type_foreground">Primeiro plano</string>
     <string name="menu_restore">Redefinir para o predefinido</string>
-    <string name="menu_save">Salvar</string>
+    <string name="menu_save">Guardar</string>
     <string name="menu_show_system">Exibir sistema</string>
     <string name="menu_stats_last_unplugged">Quando foi desligado pela última vez para %1$s</string>
     <string name="menu_stats_refresh">Actualizar</string>
@@ -997,7 +997,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="move_app_failed_dlg_title"/>
     <string name="move_app_to_internal">Mover para telefone</string>
     <string name="move_app_to_sdcard">Mover para armaz. USB</string>
-    <string name="moving">Movendo</string>
+    <string name="moving">A mover</string>
     <string name="mtp_ptp_mode_summary">A função MTP ou PTP está Activa</string>
     <string name="musicfx_title">Efeitos sonoros</string>
     <string name="mvno_match_data">Valor de MVNO</string>
@@ -1074,7 +1074,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="print_cancelling_state_title_template">Cancelando %1$s</string>
     <string name="print_failed_state_title_template">Erro ao imprimir %1$s</string>
     <string name="print_feature_state_off">Desactivado</string>
-    <string name="print_feature_state_on">activado</string>
+    <string name="print_feature_state_on">Activado</string>
     <string name="print_job_summary">"%1$s
 %2$s"</string>
     <string name="print_menu_item_add_printer">Adicionar impressora</string>
@@ -1147,7 +1147,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="quick_launch_title">Início rápido</string>
     <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_data_connected">Ligado</string>
-    <string name="radioInfo_data_connecting">Conectando</string>
+    <string name="radioInfo_data_connecting">A ligar</string>
     <string name="radioInfo_data_disconnected">desligado</string>
     <string name="radioInfo_data_suspended">Suspenso</string>
     <string name="radioInfo_display_asu">asu</string>
@@ -1175,7 +1175,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="radio_info_call_redirect_label">Redirecionamento da chamada:</string>
     <string name="radio_info_call_Estado_label">Estado da chamada:</string>
     <string name="radio_info_cellinfo_label">CellInfo:</string>
-    <string name="radio_info_current_network_label">Rede atual:</string>
+    <string name="radio_info_current_network_label">Rede actual:</string>
     <string name="radio_info_data_attempts_label">Tentativas de dados:</string>
     <string name="radio_info_data_successes_label">Êxito dos dados:</string>
     <string name="radio_info_gprs_service_label">Serviço GPRS:</string>
@@ -1224,7 +1224,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
  
   não perderá dados de aplicações."</string>
     <string name="reset_app_preferences_title">Redefinir preferências?</string>
-    <string name="restore_default_apn">Restaurando as configurações APN padrão.</string>
+    <string name="restore_default_apn">A restaurar as configurações APN padrão.</string>
     <string name="restore_default_apn_completed">Redefinição das configurações padrão do APN concluída.</string>
     <string name="restriction_bluetooth_config_summary">Permitir modificacção dos emparelhamentos e configurações de Bluetooth</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
@@ -1246,7 +1246,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="roaming_reenable_message"> perdeu a conectividade de dados porque deixou o roaming de dados da sua rede doméstica Desactivado.</string>
     <string name="roaming_reenable_title">Permitir roaming de dados?</string>
     <string name="roaming_turn_it_on_button">activar</string>
-    <string name="roaming_warning">Quando  permite o roaming de dados, poderão ser cobradas taxas significativas de roaming!</string>
+    <string name="roaming_warning">Quando permite o roaming de dados, poderão ser cobradas taxas significativas de roaming!</string>
     <string name="roaming_warning_multiuser">"Ao permitir o roaming de dados,  poderá receber cobranças significativas de roaming.
 
 Esta configuracção afecta todos os utilizadores do telefone."</string>
@@ -1282,7 +1282,7 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="sd_eject">Desligar armaz. comp.</string>
     <string name="sd_eject_summary">Desligar armaz. USB interno</string>
     <string name="sd_ejecting_summary">Desligação em andamento</string>
-    <string name="sd_ejecting_title">Desconectando</string>
+    <string name="sd_ejecting_title">A desligar</string>
     <string name="sd_format">Eliminar armazenamento USB</string>
     <string name="sd_format_summary">Apaga todos os dados do armazenamento USB interno, como músicas e fotos</string>
     <string name="sd_insert_summary">Insira armazen. USB</string>
@@ -1306,10 +1306,10 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="search_settings">Pesquisar</string>
     <string name="search_settings_summary">Gerir configurações e histórico de pesquisa</string>
     <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
-    <string name="security_enable_widgets_title">activar widgets</string>
-    <string name="security_passwords_title">palavras-passe</string>
-    <string name="security_settings_billing_desc">esta aplicação pode cobrar dinheiro:</string>
-    <string name="security_settings_desc">esta aplicação pode aceder aos seguintes fichiro no telefone:</string>
+    <string name="security_enable_widgets_title">Activar widgets</string>
+    <string name="security_passwords_title">Palavras-passe</string>
+    <string name="security_settings_billing_desc">Esta aplicação pode cobrar dinheiro:</string>
+    <string name="security_settings_desc">Esta aplicação pode aceder aos seguintes fichiro no telefone:</string>
     <string name="security_settings_desc_multi">esta aplicação pode aceder aos ficheiros a seguir em seu telefone. Para melhorar o desempenho e reduzir o uso de memória, algumas destas permissões estão disponíveis para %1$s, pois tal aplicação é executado no mesmo processo que %2$s:</string>
     <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
     <string name="security_settings_summary">Definir Meu local, desbloqueio de ecrã, bloqueio do SIM e do armazenamento de credenciais</string>
@@ -1328,7 +1328,7 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="service_foreground_processes">%1$s utilizada</string>
     <string name="service_manage">Configurações</string>
     <string name="service_manage_description">%1$s: em uso no momento. Toque em Configurações para controlá-lo.</string>
-    <string name="service_restarting">Reiniciando</string>
+    <string name="service_restarting">A reiniciar</string>
     <string name="service_started_by_app">Iniciado pela aplicação.</string>
     <string name="service_stop">Parar</string>
     <string name="service_stop_description">Este serviço foi iniciado pela aplicação correspondente. Interrompê-lo pode provocar a erro da aplicação.</string>
@@ -1338,10 +1338,10 @@ Esta configuracção afecta todos os utilizadores do telefone."</string>
     <string name="settings_button">Configurações</string>
     <string name="settings_label">Configurações</string>
     <string name="settings_label_launcher">Config.</string>
-    <string name="settings_license_activity_loading">Carregando...</string>
+    <string name="settings_license_activity_loading">A carregar...</string>
     <string name="settings_license_activity_title">Licenças código aberto</string>
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
-    <string name="settings_safetylegal_activity_loading">Carregando...</string>
+    <string name="settings_safetylegal_activity_loading">A carregar...</string>
     <string name="settings_safetylegal_activity_title">Informações de segurança</string>
     <string name="settings_safetylegal_activity_unreachable"> não tem uma ligação de dados. Para visualizar estas informações agora, aceda %s em qualquer computador Ligado à Internet.</string>
     <string name="settings_safetylegal_title">Informações de segurança</string>
@@ -1392,7 +1392,7 @@ PIN possivelmente incorreto."</string>
     <string name="sim_reenter_new">Digitar novamente o novo PIN</string>
     <string name="skip_label">Pular</string>
     <string name="small_font">Pequeno</string>
-    <string name="sms_application_title">aplicação de SMS padrão</string>
+    <string name="sms_application_title">Aplicação de SMS padrão</string>
     <string name="sms_change_default_dialog_text" formatted="false">Usar o %s em vez do %s como aplicação de SMS?</string>
     <string name="sms_change_default_dialog_title">Alterar aplicação de SMS?</string>
     <string name="sms_change_default_no_previous_dialog_text">Usar o %s como aplicação de SMS?</string>
@@ -1410,7 +1410,7 @@ PIN possivelmente incorreto."</string>
     <string name="spellchecker_quick_settings">Configurações</string>
     <string name="spellchecker_security_warning">Este corretor ortográfico pode recolher todo o texto que  digita, incluindo dados pessoais, como palavras-passe e números de cartão de crédito. É um corretor da aplicação %1$s. Utilizar este corretor ortográfico?</string>
     <string name="spellcheckers_settings_title">Corretor ortográfico</string>
-    <string name="ssl_ca_cert_dialog_title">Monitoramento de rede</string>
+    <string name="ssl_ca_cert_dialog_title">A Monitorar rede</string>
     <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
@@ -1460,13 +1460,13 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
     <string name="sync_automatically">Sincron. autom. dos dados do aplic.</string>
     <string name="sync_calendar">Agenda</string>
     <string name="sync_contacts">Contactos</string>
-    <string name="sync_disabled">A sincronizacção está desactivada</string>
+    <string name="sync_disabled">A sincronização está desactivada</string>
     <string name="sync_enabled">A sinc. está activada</string>
     <string name="sync_error">Erro na sinc.</string>
-    <string name="sync_failed">Erro na sincronizacção</string>
+    <string name="sync_failed">Erro na sincronização</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">A sincronizar...</string>
-    <string name="sync_is_failing">A sincronizacção está enfrentando problemas no momento. Ela retornará em breve.</string>
+    <string name="sync_is_failing">A sincronização está enfrentando problemas no momento. irá retornar em breve.</string>
     <string name="sync_menu_sync_cancel">Cancelar sincronizacção</string>
     <string name="sync_menu_sync_now">Sincronizar agora</string>
     <string name="sync_one_time_sync">"Toque para sincronizar agora
@@ -1495,8 +1495,8 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="trusted_credentials">Credenciais confiáveis</string>
     <string name="trusted_credentials_disable_confirmation">Desactivar o certificado CA do sistema?</string>
     <string name="trusted_credentials_disable_label">Desactivar</string>
-    <string name="trusted_credentials_enable_confirmation">activar o certificado CA do sistema?</string>
-    <string name="trusted_credentials_enable_label">activar</string>
+    <string name="trusted_credentials_enable_confirmation">Activar o certificado CA do sistema?</string>
+    <string name="trusted_credentials_enable_label">Activar</string>
     <string name="trusted_credentials_remove_confirmation">Remover permanentemente o certificado CA do utilizador?</string>
     <string name="trusted_credentials_remove_label">Remover</string>
     <string name="trusted_credentials_summary">Exibir certificados CA de confiança</string>
@@ -1510,7 +1510,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_default_pitch_title">Frequência do som</string>
     <string name="tts_default_rate_summary">Velocidade em que o texto é falado</string>
     <string name="tts_default_rate_title">Taxa de fala</string>
-    <string name="tts_default_sample_string">Este é um exemplo de sintetizacção de voz.</string>
+    <string name="tts_default_sample_string">Este é um exemplo de sintetização de voz.</string>
     <string name="tts_default_settings_section">Configurações prédefinidas</string>
     <string name="tts_default_synth_summary">Define o mecanismo de síntese de fala a ser usado para texto falado</string>
     <string name="tts_default_synth_title">Mecanismo prédefinido</string>
@@ -1532,19 +1532,19 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="tts_install_data_title">Instalar dados de voz</string>
     <string name="tts_lang_not_selected">Idioma não selecionado</string>
     <string name="tts_notif_engine_install_message">activar novo mecanismo antes de usar.</string>
-    <string name="tts_notif_engine_install_title">Sintetizacção de voz instalada</string>
+    <string name="tts_notif_engine_install_title">Sintetização de voz instalada</string>
     <string name="tts_play_example_summary">Reproduzir uma rápida demonstracção da voz sintetizada</string>
     <string name="tts_play_example_title">Ouça um exemplo</string>
     <string name="tts_settings">Configurações da conversão de texto em voz</string>
     <string name="tts_settings_changed_demo">Suas configurações foram alteradas. Veja um exemplo de como elas ficaram.</string>
     <string name="tts_settings_title">Conversão de texto em voz</string>
-    <string name="tts_Estado_checking">Verificando…</string>
+    <string name="tts_Estado_checking">A verificar…</string>
     <string name="tts_Estado_not_supported">%1$s não é suportada</string>
     <string name="tts_Estado_ok">%1$s é totalmente suportada</string>
     <string name="tts_Estado_requires_network">%1$s requer ligação de rede</string>
     <string name="tts_Estado_title">Estado de idioma prédefinido</string>
     <string name="turn_off_radio">Desactivar o rádio</string>
-    <string name="turn_on_radio">activar o rádio</string>
+    <string name="turn_on_radio">Activar o rádio</string>
     <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
     <string name="uninstall_text">Desinstalar</string>
     <string name="unknown">Desconhecido</string>
@@ -1566,7 +1566,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="unlock_set_unlock_mode_biometric_weak">Desbloqueio facial</string>
     <string name="unlock_set_unlock_mode_none">Deslizar</string>
     <string name="unlock_set_unlock_mode_off">Nenhuma</string>
-    <string name="unlock_set_unlock_mode_password">palavra-passe</string>
+    <string name="unlock_set_unlock_mode_password">Palavra-passe</string>
     <string name="unlock_set_unlock_mode_pattern">Padrão</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_summary">Sem segurança</string>
@@ -1574,7 +1574,7 @@ Um método do Google para sincronizar dados a fim de permitir acesso aos seus co
     <string name="unlock_set_unlock_off_summary"/>
     <string name="unlock_set_unlock_off_title">Nenhuma</string>
     <string name="unlock_set_unlock_password_summary">Alta segurança</string>
-    <string name="unlock_set_unlock_password_title">palavra-passe</string>
+    <string name="unlock_set_unlock_password_title">Palavra-passe</string>
     <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pin_summary">Segurança média a alta</string>
@@ -1656,13 +1656,13 @@ Qualquer utilizador poderá aceitar permissões actualizadas de aplicações em 
     <string name="user_dict_settings_context_menu_delete_title">Excluir</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
-    <string name="user_dict_settings_empty_text"> não possui palavras no dicionário do utilizador. Adicione uma palavra tocando no botão \"Adicionar\" ou no símbolo \"+\".</string>
+    <string name="user_dict_settings_empty_text">Não possui palavras no dicionário de utilizador. Adicione uma palavra tocando no botão \"Adicionar\" ou no símbolo \"+\".</string>
     <string name="user_dict_settings_more_languages">Mais idiomas...</string>
     <string name="user_dict_settings_summary"/>
     <string name="user_dict_settings_title">Dicionário pessoal</string>
     <string name="user_image_choose_photo">Escolher foto da Galeria</string>
     <string name="user_image_take_photo">Tirar foto</string>
-    <string name="user_info_settings_title">dados do utilizador</string>
+    <string name="user_info_settings_title">Dados do utilizador</string>
     <string name="user_list_title">Utilizadores e perfis</string>
     <string name="user_need_lock_message">Antes de criar um perfil restrito, configure um bloqueio de ecrã para proteger seus aplicações e seus dados pessoais.</string>
     <string name="user_new_profile_name">Novo perfil</string>
