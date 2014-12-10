@@ -51,7 +51,7 @@
     <string name="battery_desc_apps">Bateria usada por Aplicações</string>
     <string name="battery_desc_bluetooth">Bateria usada pelo Bluetooth</string>
     <string name="battery_desc_display">Bateria usada pelo ecrã e luz de fundo</string>
-    <string name="battery_desc_other_apps">Energia consumida por outras Aplicações</string>
+    <string name="battery_desc_other_apps">Bateria consumida por outras Aplicações</string>
     <string name="battery_desc_radio">Bateria usada pelo rádio</string>
     <string name="battery_desc_standby">Bateria usada com o telefone ocioso</string>
     <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
@@ -100,7 +100,7 @@
     <string name="button_text_view">Ver</string>
     <string name="button_text_view_detail">Detalhes</string>
     <string name="button_text_view_file">Arquivo</string>
-    <string name="button_text_view_power">Ver energia</string>
+    <string name="button_text_view_power">Ver bateria</string>
     <string name="cache_check_content">%1$d Aplicações, %2$s da cache</string>
     <string name="cache_header_title">%1$d arquivos na cache ocupando %2$s de espaço</string>
     <string name="cache_sort_type_item_name">Organizar por nome</string>
@@ -117,7 +117,7 @@
     <string name="cta_settings">Permitir ligação com a Internet</string>
     <string name="deepclean_cache_header_left">Arquivos em cache: %d</string>
     <string name="delete">Excluir</string>
-    <string name="descx_cleanuping_item">Optimizando %s</string>
+    <string name="descx_cleanuping_item">A optimizar %s</string>
     <string name="descx_finish_cleanup_cache">Optimização de cache finalizada</string>
     <string name="descx_finish_cleanup_memory">Optimização de memória finalizada</string>
     <string name="descx_finish_cleanup_system">Optimização da protecção do sistema finalizada</string>
@@ -126,7 +126,7 @@
     <string name="descx_finish_scan_system">Verificação da protecção do sistema finalizada</string>
     <string name="descx_quick_scan_cancel">Verificação cancelada</string>
     <string name="descx_quick_scan_done">Verificação concluída</string>
-    <string name="descx_scanning_item">Verificando %s</string>
+    <string name="descx_scanning_item">A verificar %s</string>
     <string name="descx_start_cleanup_cache">Iniciar a optimização da cache</string>
     <string name="descx_start_cleanup_memory">Iniciar optimização da memória</string>
     <string name="descx_start_cleanup_system">Iniciar optimização da proteção do sistema</string>
@@ -136,7 +136,7 @@
     <string name="details_subtitle">Detalhes de uso</string>
     <string name="dialog_msg_auto_start_declare">Alguns Aplicações de segurança poderão indicar incorretamente que a MIUI os impediu de serem iniciados. Para verificar as permissões que foram concedidas a Aplicações individuais, vá até Configurações > Aplicações.</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Iniciar transferência e desinstalar as Aplicações selecionadas?</string>
-    <string name="dialog_msg_check_all">Confirme a seleção de %1$s pastas contendo %2$d itens</string>
+    <string name="dialog_msg_check_all">Confirme a selecção de %1$s pastas contendo %2$d itens</string>
     <string name="dialog_msg_load_cleanup_engine_error">O mecanismo de limpeza foi corrompido.</string>
     <string name="dialog_msg_stop_virus_scan">Interromper a verificação de vírus antes da sua conclusão?</string>
     <string name="dialog_msg_uninstall_apps">Desinstalar estas Aplicações?</string>
@@ -163,8 +163,8 @@
     <string name="empty_title_virus_list">Nenhum vírus</string>
     <string name="every_day">Todos os dias</string>
     <string name="examination_score_100">Tudo em ordem!</string>
-    <string name="examination_score_60_0">É recomendamos que optimize o seu telefone</string>
-    <string name="examination_score_80_100">Alguns itens podem ser optimizados</string>
+    <string name="examination_score_60_0">É recomendado que optimize o seu telefone</string>
+    <string name="examination_score_80_100">Alguns ficheiros podem ser optimizados</string>
     <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
     <string name="examination_score_has_virus">Oh, não! Algumas Aplicações suspeitas foram detectadas</string>
     <string name="handle_text_cache">Cache</string>
@@ -179,9 +179,9 @@
     <string name="hints_auto_start_enable_title">%d Aplicações iniciam automaticamente</string>
     <string name="hints_auto_start_warning_info">Não receberá nenhuma mensagem ao proibir o início automático</string>
     <string name="hints_cache_header_left">Arquivos em cache: %d</string>
-    <string name="hints_cleanning_text">Eliminando</string>
-    <string name="hints_finish_quick_cleanup">Terminando a limpeza</string>
-    <string name="hints_finish_quick_cleanup_title">Terminando limpeza de %s lixos</string>
+    <string name="hints_cleanning_text">A eliminar</string>
+    <string name="hints_finish_quick_cleanup">A terminar a limpeza</string>
+    <string name="hints_finish_quick_cleanup_title">A terminar limpeza de %s lixos</string>
     <string name="hints_finish_quick_scan">Verificação concluída</string>
     <string name="hints_garbage_cleanup_result_danger">Em risco</string>
     <string name="hints_garbage_cleanup_result_risk">Em risco</string>
@@ -214,14 +214,14 @@
     <string name="hints_latest_garbage_cleanup_never">Nunca limpo</string>
     <string name="hints_latest_garbage_cleanup_today">Última limpeza: Hoje</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Última limpeza: Ontem</string>
-    <string name="hints_loading_text">Carregando…</string>
+    <string name="hints_loading_text">A carregar…</string>
     <string name="hints_need_quick_scan">Verificação rápida recomendada</string>
     <string name="hints_no_info">Nenhuma informação</string>
     <string name="hints_permission_apps_count">%d Aplicações</string>
     <string name="hints_power_percent_title">bateria</string>
-    <string name="hints_quick_cleanning">Limpando…</string>
-    <string name="hints_quick_cleanuping">Optimizando…</string>
-    <string name="hints_quick_scanning">Verificando…</string>
+    <string name="hints_quick_cleanning">A eliminar…</string>
+    <string name="hints_quick_cleanuping">A optimizar…</string>
+    <string name="hints_quick_scanning">A verificar…</string>
     <string name="hints_remember_choice">Lembrar-me</string>
     <string name="hints_residual_header_left">Resíduos: %d</string>
     <string name="hints_residual_tips">%s arquivos residuais encontrados no cartão SD</string>
@@ -245,7 +245,7 @@
     <string name="hints_virus_name_title">Vírus:</string>
     <string name="hints_virus_scan_result_descx">Esta aplicação apresenta graves riscos para a segurança do telefone.</string>
     <string name="item_app_permission">Permissões de Aplicações</string>
-    <string name="item_dev_mode">Opções do desenvolvedor</string>
+    <string name="item_dev_mode">Opções de desenvolvedor</string>
     <string name="item_garbage_size_1000m">1 GB</string>
     <string name="item_garbage_size_100m">100 MB</string>
     <string name="item_garbage_size_300m">300 MB</string>
@@ -303,9 +303,9 @@
     <string name="menu_text_networkassistants_remain">%s restante</string>
     <string name="menu_text_power_manager">Energia</string>
     <string name="menu_text_power_percent">Bateria em %s</string>
-    <string name="msg_cleanup_db_update_checking">Verificando…</string>
+    <string name="msg_cleanup_db_update_checking">A verificar…</string>
     <string name="msg_cleanup_db_update_time_unknown">Actualizado em: desconhecido</string>
-    <string name="msg_update_error_code_already_running">Actualizando</string>
+    <string name="msg_update_error_code_already_running">A actualizar</string>
     <string name="msg_update_error_code_network_error">Erro de rede</string>
     <string name="msg_update_error_code_no_newer_db">Actualizado</string>
     <string name="msg_update_error_code_success">Actualização concluída</string>
@@ -324,7 +324,7 @@
     <string name="permission_action_accept">Aceitar</string>
     <string name="permission_action_prompt">Perguntar</string>
     <string name="permission_action_reject">Negar</string>
-    <string name="permission_close_permission_control_dialog_msg">Quando o Gestor de permissões está desactivado, aplicações não solicitarão permissão antes de lerem os contatos,registros de chamadas, alterem configurações do sistema, ou acederem á câmera e outros recursos do dispositivo.</string>
+    <string name="permission_close_permission_control_dialog_msg">Quando o Gestor de permissões está desactivado,  as aplicações não solicitarão permissão antes de lerem os contatos,registros de chamadas, alterem configurações do sistema, ou acederem á câmera e outros recursos do dispositivo.</string>
     <string name="permission_close_permission_control_dialog_title">Desactivar o Gestor de permissões?</string>
     <string name="permission_group_title_charges_related">Cobranças</string>
     <string name="permission_group_title_media_related">Multimédia</string>
@@ -333,7 +333,7 @@
     <string name="permission_group_title_settings_related">Configurações</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">Aplicacões não solicitarão permissão antes de lerem contatos, registros de chamadas, alterem configurações do sistema, ou acederem á câmera e outros recursos do dispositivo. Pode activar este recurso nas configurações de permissões.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">O Gestor de permissões está desactivado</string>
-    <string name="permission_send_sms_descx">enviar mensagens SMS e MMS</string>
+    <string name="permission_send_sms_descx">Enviar mensagens SMS e MMS</string>
     <string name="power_20s_enter_mode">Em %1$ds alternar perfil para %2$s</string>
     <string name="power_apply_toast">Alternado para o modo %s</string>
     <string name="power_bluetooth">Bluetooth</string>
@@ -557,8 +557,8 @@
     <string name="title_usb_no">Depuração USB activada</string>
     <string name="title_usb_yes">Depuração USB desactivada</string>
     <string name="title_virus_no">Vírus detectados</string>
-    <string name="title_virus_update_no">actualização automática para as definições de vírus desligada</string>
-    <string name="title_virus_update_yes">actualização automática para as definições de vírus ligada</string>
+    <string name="title_virus_update_no">Actualização automática para as definições de vírus desligada</string>
+    <string name="title_virus_update_yes">Actualização automática para as definições de vírus ligada</string>
     <string name="title_virus_yes">Nenhum vírus detectado</string>
     <string name="toast_add_white_list_success">" adicionado às excepções"</string>
     <string name="toast_app_no_residual_on_sdcard">A aplicação não possui ficheiros armazenados no cartão SD</string>
