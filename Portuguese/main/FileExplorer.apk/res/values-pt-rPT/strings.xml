@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_bind_prompt">Movendo dados do utilizador… Isto poderá levar alguns minutos.</string>
+    <string name="account_bind_prompt">A mover dados do utilizador… Isto poderá levar alguns minutos.</string>
     <string name="add_task">Adicionar tarefas</string>
     <string name="adding_upload_tasks">A adicionar tarefas…</string>
     <string name="already_signin_description">Já fez a verificação hoje?.</string>
@@ -16,7 +16,7 @@
     <string name="cancel">Cancelar</string>
     <string name="category">Categorias</string>
     <string name="category_all">Tudo</string>
-    <string name="category_apk">aplicações</string>
+    <string name="category_apk">Aplicações</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documentos</string>
     <string name="category_favorite">Com estrela</string>
@@ -26,7 +26,7 @@
     <string name="category_picture">Imagens</string>
     <string name="category_theme">Temas</string>
     <string name="category_type_document">Documentos</string>
-    <string name="category_type_meida">Mídia</string>
+    <string name="category_type_meida">Média</string>
     <string name="category_type_other">Outros</string>
     <string name="category_video">Vídeos</string>
     <string name="category_zip">Compactados</string>
@@ -42,11 +42,11 @@
     <string name="compress_title">Compactar</string>
     <string name="confirm">Confirmar</string>
     <string name="confirm_know">OK</string>
-    <string name="connect_network_setting_des">Lembrete de acesso à rede</string>
+    <string name="connect_network_setting_des">Aviso de acesso à rede</string>
     <string name="copy_failed">Não foi possível copiar</string>
     <string name="copy_file_to_kuaipan">Copiar arquivo para o KuaiPan</string>
     <string name="create_kuaipan_shortcut_pref">Colocar no ecrã Inicial</string>
-    <string name="create_new_folder_desctiption">Criando pasta…</string>
+    <string name="create_new_folder_desctiption">A criar pasta…</string>
     <string name="create_new_folder_failed">Não foi possível criar a pasta.</string>
     <string name="create_share_link_description">A criar endereço…</string>
     <string name="cution">Dicas</string>
@@ -170,7 +170,7 @@
     <string name="no_tasks">Nenhuma tarefa.</string>
     <string name="no_wifi">Nenhuma rede detectada</string>
     <string name="no_wifi_hint">Sem ligação</string>
-    <string name="notif_server_starting">Iniciando servidor FTP…</string>
+    <string name="notif_server_starting">A iniciar servidor FTP…</string>
     <string name="notif_title">O servidor FTP está em execução</string>
     <string name="open_changed_file_message">"O arquivo que está tentando abrir foi alterado. Por favor:
 1. Faça a transferência do arquivo novamente para actualizá-lo.
@@ -178,11 +178,11 @@
     <string name="open_changed_file_title">Alterações aplicadas.</string>
     <string name="open_file_failed">Falha ao abrir</string>
     <string name="operate_confirm_in_3g">Usar a ligação de dados móveis para transferir este arquivo grande?</string>
-    <string name="operating">Processando…</string>
+    <string name="operating">A processar…</string>
     <string name="operation_agree">Permitir e continuar</string>
     <string name="operation_cancel">Cancelar</string>
     <string name="operation_compress">Compactar</string>
-    <string name="operation_compressing">Compactando…</string>
+    <string name="operation_compressing">A compactar…</string>
     <string name="operation_copy">Copiar</string>
     <string name="operation_copying">A copiar…</string>
     <string name="operation_copying_detail">A copiar (%1$d/%2$d)</string>
@@ -199,8 +199,8 @@
     <string name="operation_hide_sys">Não exibir arquivos ocultos</string>
     <string name="operation_info">Detalhes</string>
     <string name="operation_move">Recortar</string>
-    <string name="operation_moving">Movendo…</string>
-    <string name="operation_moving_detail">Movendo (%1$d/%2$d)</string>
+    <string name="operation_moving">A mover…</string>
+    <string name="operation_moving_detail">A mover (%1$d/%2$d)</string>
     <string name="operation_paste">Colar</string>
     <string name="operation_pasting">A copiar…</string>
     <string name="operation_pause">Pausa</string>
@@ -239,7 +239,7 @@
     <string name="show_message">Necessário transferir este arquivo antes de o abrir.</string>
     <string name="sign_description">Iniciar sessão…</string>
     <string name="signin_error">Não foi possível ligar-se ao servidor. Verifique a ligação com a Internet.</string>
-    <string name="signin_success">" efectuou a verificação!
+    <string name="signin_success">"Efectuou a verificação!
 Armazenamento gratuito adicionado: %1$s"</string>
     <string name="space_info">KuaiPan: %1$s disponível, %2$s no total</string>
     <string name="space_usage">Espaço utilizado</string>
@@ -262,7 +262,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="toast_file_not_can_read">Nenhuma aplicação encontrada para executar essa acção.</string>
     <string name="tools">Ferramentas</string>
     <string name="trans_task">Transferências</string>
-    <string name="transing">Enviando</string>
+    <string name="transing">A enviar</string>
     <string name="trash_box_capacity">Lixeira %1$s</string>
     <string name="trash_box_link">Para esvaziar a lixeira, aceda <b>pan.xiaomi.com</b></string>
     <string name="trash_box_message1">Exclua arquivos desnecessários para libertar espaço.</string>
@@ -271,13 +271,13 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="ui_filechange_btn_upload">Envio de arquivos</string>
     <string name="ui_main_menu_option_sign_in">Verificação</string>
     <string name="ui_main_menu_option_task_manage">Gerenciar transferências</string>
-    <string name="ui_main_progress_txt_open_file">Efetuando transferências…</string>
+    <string name="ui_main_progress_txt_open_file">A efectuar transferências…</string>
     <string name="ui_main_toast_favorite_removed">Item removido dos favoritos</string>
     <string name="ui_main_toast_operation_failed">Não foi possível remover %1$s dos favoritos</string>
     <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
-    <string name="upload_failed">Falha no envio</string>
-    <string name="upload_file_toolarge_message">Falha ao enviar %1$d:  não pode enviar arquivos maiores do que 300MB.</string>
-    <string name="uploading">Enviando</string>
+    <string name="upload_failed">Erro no envio</string>
+    <string name="upload_file_toolarge_message">Erro ao enviar %1$d:  não pode enviar arquivos maiores do que 300MB.</string>
+    <string name="uploading">A enviar</string>
     <string name="used">Utilizado</string>
     <string name="user_guide">Conheça mais sobre o KuaiPan</string>
     <string name="user_guide_continue_use">Continuar</string>
@@ -290,10 +290,10 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="user_guide_upload_to_kuaipan">Armazene itens no KuaiPan usando seu telefone</string>
     <string name="utf8_summary">Codificação padrão do sistema de FTP</string>
     <string name="utf8_title">UTF-8</string>
-    <string name="wait_net">Aguardando a rede</string>
-    <string name="wait_sdcard">Aguardando o cartão SD…</string>
-    <string name="wait_wifi">Aguardando Wi-Fi</string>
-    <string name="waiting">Aguardando</string>
+    <string name="wait_net">A aguardar a rede</string>
+    <string name="wait_sdcard">A aguardar o cartão SD…</string>
+    <string name="wait_wifi">A aguardar Wi-Fi</string>
+    <string name="waiting">A aguardar</string>
     <string name="wangpan_root_path">Meu disco</string>
     <string name="wifi_state">Rede Wi-Fi</string>
     <string name="xiaomi_account">Conta Mi</string>
