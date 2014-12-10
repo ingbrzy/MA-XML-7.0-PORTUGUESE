@@ -13,12 +13,12 @@ Caso não tenha solicitado a Cópia de segurança, não permita a operação sol
     <string name="deny_restore_button_label">Não restaurar</string>
     <string name="device_encryption_backup_text">Inserir Palavra-passe de encriptação do dispositivo. Ela também será usada para encriptar o arquivo de cópia de segurança.</string>
     <string name="device_encryption_restore_text">Inserir sua Palavra-passe de encriptação do dispositivo.</string>
-    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de todos os dados de um computador conectado.Permitir essa opção?
+    <string name="restore_confirm_text">"Foi solicitada uma restauração completa de todos os dados de um computador ligado.Permitir essa opção?
 
 Caso não tenha solicitado a restauração, não permita que a operação prossiga. Isso substituirá todos os dados existentes no dispositivo!"</string>
     <string name="restore_confirm_title">Restauração completa</string>
     <string name="restore_enc_password_text">Se os dados restaurados forem encriptados, digite a Palavra-passe:</string>
-    <string name="toast_backup_ended">A Cópia de segurança foi concluído</string>
+    <string name="toast_backup_ended">A Cópia de segurança foi concluída</string>
     <string name="toast_backup_started">A iniciar Cópia de segurança...</string>
     <string name="toast_restore_ended">A restauração foi concluída</string>
     <string name="toast_restore_started">A iniciar restauração...</string>
