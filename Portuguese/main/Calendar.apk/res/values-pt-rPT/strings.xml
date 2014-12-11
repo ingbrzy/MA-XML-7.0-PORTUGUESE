@@ -30,7 +30,7 @@
     <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
     <string name="agenda_view">Compromissos</string>
     <string name="agenda_yesterday">ONTEM, %1$s</string>
-    <string name="alarm_label">Descartar</string>
+    <string name="alarm_label">Desfazer</string>
     <string name="alert_title">Notificações da agenda</string>
     <string name="app_label">Agenda</string>
     <string name="attendees_label">Convidados</string>
@@ -69,7 +69,7 @@
     <string name="delete_recurring_event_title">Excluir %s?</string>
     <string name="delete_this_event_title">Excluir este evento?</string>
     <string name="description_label">Descrição</string>
-    <string name="directory_searching_fmt">Pesquisando %s…</string>
+    <string name="directory_searching_fmt">A pesquisar %s…</string>
     <string name="discard_label">Cancelar</string>
     <string name="dismiss_all_label">Eliminar tudo</string>
     <string name="do_not_check">Não marcar -></string>
