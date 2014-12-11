@@ -68,7 +68,7 @@
     <string name="btn_text_cleanup_all">Eliminar</string>
     <string name="btn_text_done">Concluído</string>
     <string name="btn_text_quick_cleanup">Eliminar</string>
-    <string name="btn_text_quick_optimize">Otimizar</string>
+    <string name="btn_text_quick_optimize">Optimizar</string>
     <string name="btn_text_quick_scan">Verificar</string>
     <string name="btn_text_start_check">Verificar</string>
     <string name="btn_text_stop">Parar</string>
@@ -163,7 +163,7 @@
     <string name="empty_title_virus_list">Nenhum vírus</string>
     <string name="every_day">Todos os dias</string>
     <string name="examination_score_100">Tudo em ordem!</string>
-    <string name="examination_score_60_0">É recomendado que optimize o seu telefone</string>
+    <string name="examination_score_60_0">É recomendado que optimize o telefone</string>
     <string name="examination_score_80_100">Alguns ficheiros podem ser optimizados</string>
     <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
     <string name="examination_score_has_virus">Oh, não! Algumas Aplicações suspeitas foram detectadas</string>
@@ -541,11 +541,11 @@
     <string name="title_app_update_no">%d Aplicações possuem Actualizações pendentes</string>
     <string name="title_app_update_yes">Todos as Aplicações estão Actualizadas!</string>
     <string name="title_data_flow_no">Monitor do uso de dados desactivado</string>
-    <string name="title_data_flow_yes">Monitor do uso de dados activado</string>
+    <string name="title_data_flow_yes">Monitor do uso de dados activo</string>
     <string name="title_dev_no">Opções do desenvolvedor activadas</string>
     <string name="title_dev_yes">Opções do desenvolvedor desactivadas</string>
     <string name="title_install_virus_no">Monitor de instalações desactivado</string>
-    <string name="title_install_virus_yes">Monitor de instalações activado</string>
+    <string name="title_install_virus_yes">Monitor de instalações activo</string>
     <string name="title_miui_update_no">Actualização da MIUI encontrada: %s</string>
     <string name="title_miui_update_yes">A MIUI está Actualizada!</string>
     <string name="title_mms_no">Filtro de mensagens desactivado</string>
