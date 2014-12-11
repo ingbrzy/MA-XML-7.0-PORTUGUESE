@@ -621,14 +621,14 @@ Cc: %4$s
     <string name="outbox_no_mails">Nenhum email na Caixa de saída</string>
     <string name="parase_setup_data">A obter dados...</string>
     <string name="password_changed_prompt">Erro no inicio de sessão</string>
-    <string name="password_expire_warning_content_title">palavra-passe do ecrã de bloqueio expirando</string>
+    <string name="password_expire_warning_content_title">Palavra-passe do ecrã de bloqueio A expirar</string>
     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do ecrã de bloqueio logo, ou os dados da %s serão eliminados. Deseja mudar isso agora?</string>
     <string name="password_expire_warning_dialog_title">Palavra-passe do ecrã de bloqueio expirando</string>
     <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a palavra-passe ou PIN no ecrã de bloqueio.</string>
     <string name="password_expired_content_title">palavra-passe no ecrã de bloqueio expirada</string>
     <string name="password_expired_dialog_content_fmt">Os dados da %s estão sendo eliminados do dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do ecrã de bloqueio. Deseja mudar isso agora?</string>
     <string name="password_expired_dialog_title">palavra-passe do ecrã de bloqueio expirada</string>
-    <string name="password_expired_ticker">Sua palavra-passe ou PIN do ecrã de bloqueio expirou.</string>
+    <string name="password_expired_ticker">A palavra-passe ou PIN do ecrã de bloqueio expirou.</string>
   <string name="perference_change_pw">Alterar palavra-passe</string>
   <string name="perference_change_pw_notnull_tips">Digite sua palavra-passe</string>
   <string name="perference_change_pw_ok_tips">palavra-passe alterada</string>
@@ -677,7 +677,7 @@ Cc: %4$s
     <string name="preference_head_load_description">Transfere somente o assunto das mensagens ao usar uma ligação de dados móveis.</string>
     <string name="preference_head_load_title">Reduzir uso de dados</string>
     <string name="preference_removal_action_title">Acções de arquivar e excluir</string>
-    <string name="preference_sender_image_description">Mostrar caixa de seleção ao lado do nome na lista de conversas</string>
+    <string name="preference_sender_image_description">Exibir caixa de selecção ao lado do nome na lista de conversas</string>
     <string name="preference_sender_image_title">Imagem do remetente</string>
     <string name="preference_swipe_description">Na lista de conversas</string>
     <string name="preference_swipe_title_archive">Deslizar para arquivar</string>
@@ -713,8 +713,8 @@ Cc: %4$s
     <string name="recipient_error_dialog_title">Erro de destinatário</string>
     <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
   <string name="recipient_null_dialog_title">Alerta</string>
-    <string name="refresh">actualizar</string>
-    <string name="refreshing">Actualizando…</string>
+    <string name="refresh">Actualizar</string>
+    <string name="refreshing">A actualizar…</string>
   <string name="refreshing_done">Concluído</string>
     <string name="release_to_refresh">Solte para actualizar</string>
     <string name="remote_folders_heading">Pastas do servidor</string>
@@ -733,7 +733,7 @@ Cc: %4$s
     <string name="report_phishing">Denunciar phishing</string>
     <string name="report_spam">Denunciar spam</string>
     <string name="request_entity_large">O arquivo é muito grande</string>
-    <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desActivada durante o roaming.</string>
+    <string name="require_manual_sync_message">A sincronização em segundo plano para essa conta é desactivada durante o roaming.</string>
     <string name="respond_inline">Responder em linha</string>
     <string name="resume_draft">Editar</string>
     <string name="retry">Repetir</string>
@@ -747,7 +747,7 @@ Cc: %4$s
     <string name="search_result">Resultados: </string>
     <string name="search_results_header">Resultados</string>
     <string name="search_results_loaded">%1$d</string>
-    <string name="search_results_searching_header">Pesquisando…</string>
+    <string name="search_results_searching_header">A pesquisar…</string>
     <string name="search_title">email unificado</string>
     <string name="search_txt_size_limit_prompt">O critério de pesquisa precisa ser maior do que 3 caracteres.</string>
     <string name="search_unsupported">Não há suporte para pesquisa nesta conta.</string>
@@ -830,9 +830,9 @@ Cc: %4$s
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
     <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
     <string name="undo">Desfazer</string>
-    <string name="unread_string">conversa não lida</string>
+    <string name="unread_string">Conversa não lida</string>
     <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
-    <string name="updated_at">Última atualização: %1$s</string>
+    <string name="updated_at">Última actualização: %1$s</string>
     <string name="updated_just_now">Actualizado</string>
     <string name="validation_failed_prompt">Erro na validação, por favor reconfigure o servidor %s</string>
     <string name="veiled_address"/>
@@ -851,7 +851,7 @@ Toque em "<b>Sincronizar agora</b> para sincronizar os emails uma vez ou em <b>A
     <string name="wait_for_sync_body_txt_array_4">para finalizar a configuração do email</string>
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">Toque na notificação para finalizar a configuração.</string>
-    <string name="wait_for_sync_title">Aguardando sincronização</string>
+    <string name="wait_for_sync_title">A aguardar sincronização</string>
     <string name="widget_all_mail">Todos os emails</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Outros</string>
