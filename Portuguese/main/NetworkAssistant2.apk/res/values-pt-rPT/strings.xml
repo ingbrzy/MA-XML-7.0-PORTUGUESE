@@ -36,7 +36,7 @@
     <string name="data_usage_restricted_title">Dados em segundo plano restritos</string>
     <string name="data_usage_warning_body">Toque para ver detalhes do uso de dados.</string>
     <string name="data_usage_warning_title">Aviso do uso de dados</string>
-    <string name="datausage_ignore_app_list_count">Ignorando o uso de dados de %d aplicação</string>
+    <string name="datausage_ignore_app_list_count">A ignorar o uso de dados de %d aplicação</string>
     <string name="datausage_purchase_backto_ns">Voltar</string>
     <string name="datausage_purchase_banner_title">Oferta de recarga de %s (exclusiva)</string>
     <string name="datausage_purchase_buy">Comprar</string>
@@ -49,7 +49,7 @@
     <string name="datausage_purchase_order_failure">Erro na compra</string>
     <string name="datausage_purchase_order_failure_cause">A compra falhou porque…</string>
     <string name="datausage_purchase_order_history">Histórico</string>
-    <string name="datausage_purchase_ordering">Realizando a compra…</string>
+    <string name="datausage_purchase_ordering">A realizar a compra…</string>
     <string name="datausage_purchase_pay_captcha_hint">Digite o código de verificação recebido</string>
     <string name="datausage_purchase_pay_captcha_tips">Após receber o código de verificação, digite-o no campo acima e toque em \"Comprar\" para finalizar a compra. Observe que o código é válido apenas por 10 minutos.</string>
     <string name="datausage_purchase_pay_confirm">Comprar</string>
@@ -206,10 +206,10 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="pref_specified_adjust">Definir limite personalizado</string>
     <string name="pref_specified_traffic_settings">Configurações do limite de dados</string>
     <string name="pref_title_declaration">Aviso importante</string>
-    <string name="pref_title_mobile_traffic">Mostrar uso de dados quando bloqueado</string>
+    <string name="pref_title_mobile_traffic">Exibir uso de dados quando bloqueado</string>
     <string name="pref_title_network_diagnostics">Diagnóstico de rede</string>
-    <string name="pref_title_traffic_speed_state">Mostrar velocidade de rede</string>
-    <string name="pref_title_update_notification">Mostrar notificações de uso de dados</string>
+    <string name="pref_title_traffic_speed_state">Exibir velocidade de rede</string>
+    <string name="pref_title_update_notification">Exibir notificações de uso de dados</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">&lt;b> 1. activar o Economizador afecta minha privacidade? &lt;/b>&lt;br />&lt;br />&lt;br />Não. Os dados continuarão privados e não serão partilhados com terceiros. &lt;br />&lt;br />&lt;br />&lt;b> Por que o meu Economizador não funciona? &lt;/b>&lt;br />&lt;br /> O Economizador é acionado somente quando   está utilizando a rede de dados móveis para transferir ou enviar algum conteúdo.</string>
     <string name="pref_traffic_saving_notify_switch">Mostrar na aba de notificações</string>
@@ -252,7 +252,7 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a a operadora se o código de requisição SMS que   informou está correto.</string>
     <string name="tc_sms_report_notify_get_timeout_title">Não foi possível receber o relatório de uso de dados</string>
     <string name="tc_sms_report_receive_content">Conteúdo do SMS do relatório de uso de dados</string>
-    <string name="tc_sms_report_receive_content_null">  precisa obter um SMS para relatório de uso de dados com a operadora</string>
+    <string name="tc_sms_report_receive_content_null">Precisa obter um SMS para relatório de uso de dados com a operadora</string>
     <string name="tc_sms_report_receive_num">Número do destinatário</string>
     <string name="tc_sms_report_send_num">Telefone da operadora</string>
     <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso ao enviar um relatório quando as informações de uso de dados estiverem incorretas ou sua actualização falhar</string>
@@ -337,5 +337,5 @@ A operadora informa que   já usou %1$s de dados para horários de pico este mê
     <string name="traffic_setting_fragment_title">Configurações de estatísticas de uso</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_empty_text">Vazio</string>
-    <string name="usage_sorted_loading_text">Carregando…</string>
+    <string name="usage_sorted_loading_text">A carregar…</string>
 </resources>
