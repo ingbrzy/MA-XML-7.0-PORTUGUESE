@@ -12,8 +12,8 @@
     <string name="accessibility_reminder_showmeas">exibir-me como</string>
     <string name="accessibility_reminder_time">Duração do lembrete</string>
     <string name="accessibility_reminder_type">Tipo de lembrete</string>
-    <string name="accessibility_remove_attendee">exluir participante</string>
-    <string name="accessibility_remove_reminder">exluir lembrete</string>
+    <string name="accessibility_remove_attendee">excluir participante</string>
+    <string name="accessibility_remove_reminder">excluir lembrete</string>
     <string name="accessibility_repeats">Repetição</string>
     <string name="accessibility_sync_cal">Sincronizar agenda</string>
     <string name="account_and_calendar">Conta e agenda</string>
@@ -117,7 +117,7 @@
     <string name="hint_where">Localização</string>
     <string name="jump_date">Avançar</string>
     <string name="jump_date_full">Avançar para a data</string>
-    <string name="loading">Carregando...</string>
+    <string name="loading">A carregar...</string>
     <string name="local_calendar_display_name">Agenda local</string>
     <string name="local_owner_account_name">Conta local</string>
     <string name="lunar_date">Calendário Lunar</string>
@@ -166,7 +166,7 @@
     <string name="preferences_build_version">Versão da compilação</string>
     <string name="preferences_category_account_title">Conta</string>
     <string name="preferences_category_general_title">Geral</string>
-    <string name="preferences_clear_search_history_summary">excluir todas as pesquisas realizadas</string>
+    <string name="preferences_clear_search_history_summary">Excluir todas as pesquisas realizadas</string>
     <string name="preferences_clear_search_history_title">Eiminar histórico de pesquisa</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_default_reminder_dialog">Momento prédefinido do lembrete</string>
@@ -176,7 +176,7 @@
     <string name="preferences_home_tz_default">America/Sao_Paulo</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_reminder_title">Configurações dos lembretes</string>
-    <string name="preferences_show_week_num_title">exibir número da semana</string>
+    <string name="preferences_show_week_num_title">Exibir número da semana</string>
     <string name="preferences_title">Configurações</string>
     <string name="preferences_use_home_tz_descrip">Exibe agendas e eventos do seu fuso horário local quando viajar</string>
     <string name="preferences_use_home_tz_title">Usar hora local</string>
@@ -199,7 +199,7 @@
     <string name="rest_day_indication">: )</string>
     <string name="save_label">Concluído</string>
     <string name="saving_event">Evento guardado.</string>
-    <string name="saving_event_with_guest">As atualizações serão enviadas.</string>
+    <string name="saving_event_with_guest">As actualizações serão enviadas.</string>
     <string name="search">Pesquisar</string>
     <string name="search_history_cleared">Histórico de pesquisa eliminado.</string>
     <string name="search_title">Pesquisar minhas agendas</string>
