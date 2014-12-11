@@ -68,10 +68,10 @@
     <string name="activate_status_desc_sending_sms_fail">Não foi possível enviar SMS de activação para o gateway</string>
     <string name="activate_status_desc_sms_sent">SMS de activação enviado</string>
     <string name="activate_status_desc_wait_for_phone_service">Aguardando serviço de telefonia</string>
-    <string name="activate_status_desc_wait_for_sms">Aguardando SMS de activação do servidor</string>
+    <string name="activate_status_desc_wait_for_sms">A aguardar SMS de activação do servidor</string>
     <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber SMS de activação do servidor</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS de activação recebido com sucesso</string>
-    <string name="activate_status_title_activating">Activando seu cartão SIM</string>
+    <string name="activate_status_title_activating">A activar seu cartão SIM</string>
     <string name="activate_status_title_activating_msim">A activar o cartão SIM %s</string>
     <string name="app_name">Estrutura de serviços Xiaomi</string>
     <string name="error_device_id_message">Algumas funções da conta e nuvem ficarão indisponíveis</string>
