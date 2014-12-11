@@ -19,7 +19,7 @@
     <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio:</string>
     <string name="access_control_reset_by_account">Inicie sessão na Conta Mi para redefinir a palavra-passe</string>
     <string name="accessibility_enable">Acessibilidade</string>
-    <string name="accessibility_screen_magnification_enable">Gestos de ampliacção</string>
+    <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
     <string name="account_add">Adicionar</string>
     <string name="account_autostar_label">Gerir início automático</string>
     <string name="account_list">Tudo</string>
@@ -227,7 +227,7 @@ Activar janelas flutuantes?"</string>
     <string name="check_update">Verificar Actualizações</string>
     <string name="checking_for_updates">A procurar actualizações…</string>
     <string name="cleaner">Limpeza</string>
-    <string name="clear_activities_summary">Utilizar esta aplicacção para algumas operações por prédefinição</string>
+    <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações por prédefinição</string>
     <string name="color_calibration_none">Nactivo</string>
     <string name="color_calibration_srgb">sRGB</string>
     <string name="common_settings">Configurações rápidas</string>
@@ -269,7 +269,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="descx_finish_scan_system">Finalizar verificação de proteção do sistema</string>
     <string name="descx_quick_scan_cancel">Verificação cancelada</string>
     <string name="descx_quick_scan_done">Verificação concluída</string>
-    <string name="descx_scanning_item">Verificando %s</string>
+    <string name="descx_scanning_item">A verificar %s</string>
     <string name="descx_start_cleanup_cache">A iniciar optimização de cache</string>
     <string name="descx_start_cleanup_memory">A iniciar optimização de memória</string>
     <string name="descx_start_cleanup_system">A iniciar optimização de proteção do sistema</string>
@@ -330,7 +330,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="dndm_auto_time_turn_on_title">Activar \"Não perturbe\" automaticamente</string>
     <string name="dndm_dlg_remove_ok">Remover</string>
     <string name="dndm_dlg_remove_vip">Chamadas deste contacto serão silenciadas quando o \"Não perturbe\" estiver ligado.</string>
-    <string name="dndm_menu_add_vip_custom">Adicionar exceção</string>
+    <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
     <string name="dndm_mute_all">Chamadas e mensagens estão sendo silenciadas.</string>
     <string name="dndm_notification">Modo \"Não perturbe\" activo</string>
     <string name="dndm_open">Não perturbe</string>
@@ -356,7 +356,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="dolby_bassboost_normal">Normal</string>
     <string name="dolby_bassboost_title">Graves:</string>
     <string name="dolby_effects">Efeitos Dolby</string>
-    <string name="dolby_eq_enter_alert_msg"> Só pode utilizar o equalizador no modo Dolby Music. Activá-lo agora?</string>
+    <string name="dolby_eq_enter_alert_msg">Só pode utilizar o equalizador no modo Dolby Music. Activar agora?</string>
     <string name="dolby_eq_enter_alert_title">Activar Dolby Music</string>
     <string name="dolby_mode_movie">Vídeo</string>
     <string name="dolby_mode_music">Música</string>
@@ -444,7 +444,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="free_wifi_connect_title">Wi-Fi disponível</string>
     <string name="free_wifi_connected">ligado a uma rede Wi-Fi gratuita</string>
     <string name="free_wifi_connected_count">%1$s utilizadores ligados</string>
-    <string name="free_wifi_connected_time">Duracção: %1$s</string>
+    <string name="free_wifi_connected_time">Duração: %1$s</string>
     <string name="free_wifi_connecting">A ligar...</string>
     <string name="free_wifi_login_again">Iniciar sessão novamente</string>
     <string name="free_wifi_manage_summary">Toque para visualizar a rede %1$s.</string>
@@ -635,8 +635,8 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="manage_xiaomi_router">Configurações do Mi Router</string>
     <string name="manually_add_network">Adicionar rede</string>
     <string name="master_clear_all">Eliminar todos os dados da memória interna do telefone? Esta acção não pode ser desfeita!</string>
-    <string name="master_clear_erase_application_progress">Eliminado Aplicações…</string>
-    <string name="master_clear_personal_data">eliminar todos os seus dados pessoais? Esta acção não pode ser desfeita!</string>
+    <string name="master_clear_erase_application_progress">A eliminar Aplicações…</string>
+    <string name="master_clear_personal_data">Eliminar todos os seus dados pessoais? Esta acção não pode ser desfeita!</string>
     <string name="master_clear_personal_data_application">eliminar todos os seus dados pessoais e aplicações transferidos? Esta acção não pode ser desfeita!</string>
     <string name="master_clear_personal_data_sdcard">Eliminar todos os seus dados pessoais e conteúdo do dispositivo? Esta acção não pode ser desfeita!</string>
     <string name="media_button">Botão de média</string>
@@ -731,7 +731,7 @@ Selecione o sistema operacional:"</string>
     <string name="msd_install_download_zhushou">Já transferi o Mi Phone Manager</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Avançar</string>
-    <string name="msd_install_retry">Se o computador ainda não detectar o dispositivo, tente o seguinte:</string>
+    <string name="msd_install_retry">Se o computador não detectar o dispositivo, tente o seguinte:</string>
     <string name="msd_install_retry_connect">Reconecte o cabo USB.</string>
     <string name="msd_install_retry_reinstall">Reinstale o driver.</string>
     <string name="msd_install_retry_reinstall_mac">Primeiro, instale o Android File Transfer, e execute o software.</string>
@@ -862,7 +862,7 @@ Selecione o sistema operacional:"</string>
     <string name="power_center_low_battery_title">Perfis automáticos</string>
     <string name="power_center_on_time_summary_default">Perfis de energia com horários agendados</string>
     <string name="power_center_on_time_summary_dynamic">De %1$s a %2$s alternar para %3$s</string>
-    <string name="power_center_on_time_title">Programacção de perfis</string>
+    <string name="power_center_on_time_title">Programação de perfis</string>
     <string name="power_center_state_off">Desligado</string>
     <string name="power_center_state_on">Ligado</string>
     <string name="power_center_title">Energia</string>
@@ -884,7 +884,7 @@ Selecione o sistema operacional:"</string>
     <string name="power_consume_rank_software">aplicações</string>
     <string name="power_consume_rank_title">Uso da bateria</string>
     <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-    <string name="power_consume_total_software">aplicações: %1$d%%</string>
+    <string name="power_consume_total_software">Aplicações: %1$d%%</string>
     <string name="power_customize_giveup_change">Desfazer alterações?</string>
     <string name="power_customizer_cancel">Cancelar</string>
     <string name="power_customizer_delete">Excluir</string>
@@ -907,7 +907,7 @@ Selecione o sistema operacional:"</string>
     <string name="power_dialog_cpu_state_save">Economia de energia</string>
     <string name="power_dialog_cpu_state_save_desc">Prioriza a vida útil da bateria ao custo da performance do telefone</string>
     <string name="power_dialog_cpu_state_title">Uso da CPU</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">Erro ao excluir:  está utilizando esta configuração no momento.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">Erro ao excluir: Está a utilizar esta configuração no momento.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">"Impossível excluir: O dispositivo está configurado para alternar para esta configuração.
  necessita alterar as configurações de energia antes de excluir esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Erro ao excluir: O dispositivo está definido para alternar para esta configuração quando a bateria estiver fraca. 
@@ -1187,7 +1187,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="status_bar_settings_no_carrier">Sem nome</string>
     <string name="status_bar_settings_notification_bar">Aba de notificações</string>
     <string name="status_bar_settings_show_carrier">Exibir informacção de operadora</string>
-    <string name="status_bar_settings_show_carrier_summary">Exibindo somente na ecrã de bloqueio</string>
+    <string name="status_bar_settings_show_carrier_summary">A exibir somente no ecrã de bloqueio</string>
     <string name="status_bar_settings_show_flow_info">Exibir detalhes de consumo</string>
     <string name="status_bar_settings_show_network_speed">Exibir velocidade da ligação</string>
     <string name="status_bar_settings_show_notificationBar_notification">Exibir na aba de notificações</string>
@@ -1198,7 +1198,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="status_bar_settings_status_bar">Barra de estado</string>
     <string name="status_bar_settings_toggle_collapse_after_clicked">Recolher após toque</string>
     <string name="status_bar_settings_toggle_layout_style">Alternar estilo de atalhos</string>
-    <string name="status_bar_settings_toggle_layout_style_applying">Alterando estilo…</string>
+    <string name="status_bar_settings_toggle_layout_style_applying">A alterar estilo…</string>
     <string name="status_bar_settings_toggle_layout_style_compact">Barra</string>
     <string name="status_bar_settings_toggle_layout_style_single_page">Página</string>
     <string name="status_bar_style_settings">Notificações</string>
@@ -1287,8 +1287,8 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="unlock_change_lock_pin_title">Alterar PIN</string>
     <string name="unlock_disable_lock_pin_summary">Remover PIN</string>
     <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
-    <string name="unlock_set_enter_system_summary">Ir diretamente para a ecrã inicial ao Activar a ecrã</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">Altere ou desative o padrão, PIN ou palavra-passe</string>
+    <string name="unlock_set_enter_system_summary">Ir diretamente para o ecrã inicial ao activar o ecrã</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Altere ou desactive o padrão, PIN ou palavra-passe</string>
     <string name="unlock_set_unlock_mode_password">Palavra-passe</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_title">Nenhum</string>
@@ -1311,9 +1311,9 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="usage_type_on_time">Tempo activo</string>
     <string name="usage_type_phone">Telefone</string>
     <string name="usage_type_video">Vídeo</string>
-    <string name="usage_type_wake_lock">Mantido acordado</string>
+    <string name="usage_type_wake_lock">Manter ligado</string>
     <string name="usage_type_wifi_running">Wi-Fi em execução</string>
-    <string name="usb_host_mode_subtext">A duracção da bateria pode ser reduzida ao utilizar controles de jogo e outros periféricos pela entrada USB</string>
+    <string name="usb_host_mode_subtext">A duração da bateria pode ser reduzida ao utilizar controles de jogo e outros periféricos pela entrada USB</string>
     <string name="usb_host_mode_text">Activar modo host USB</string>
     <string name="usb_msd_driver_installer_summary">Obtenha drivers para Windows e Mac OS X</string>
     <string name="usb_msd_driver_installer_title">Disco de instalacção de Driver (MSD)</string>
@@ -1334,17 +1334,17 @@ Adicione uma palavra tocando no botão Adicionar (+)"</string>
     <string name="virus_scan">Antivírus</string>
     <string name="virus_scan_app_continue">Continuar verificacção</string>
     <string name="virus_scan_app_find_risk">%d ameaças encontradas</string>
-    <string name="virus_scan_app_finish">Verificacção concluída</string>
-    <string name="virus_scan_app_force_stop">Verificacção interrompida</string>
+    <string name="virus_scan_app_finish">Verificação concluída</string>
+    <string name="virus_scan_app_force_stop">Verificação interrompida</string>
     <string name="virus_scan_app_is_stop_scan">Interromper verificacção?</string>
     <string name="virus_scan_app_multi_engines">A verificacção poderá levar mais tempo.  está utilizando mais de um conjunto de definições.</string>
     <string name="virus_scan_app_no_risk">Nenhuma ameaça encontrada</string>
     <string name="virus_scan_app_passed">Verificado</string>
     <string name="virus_scan_app_risk">Risco(s) detectado(s)</string>
     <string name="virus_scan_app_safe_scanning">A verificar…</string>
-    <string name="virus_scan_app_scan_finish">Verificacção concluída</string>
+    <string name="virus_scan_app_scan_finish">Verificação concluída</string>
     <string name="virus_scan_app_scanning">A verificar…</string>
-    <string name="virus_scan_app_stop_scan">Parar verificacção</string>
+    <string name="virus_scan_app_stop_scan">interromper verificacção</string>
     <string name="virus_scan_app_uninstall">Remover %d</string>
     <string name="virus_scan_app_waiting">A aguardar…</string>
     <string name="virus_scanner_auto_update">Actualizar automaticamente</string>
@@ -1521,7 +1521,7 @@ Toque em "<b>Voltar</b> para ligar-se a outra rede Wi-Fi.</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado do utilizador</string>
     <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
-    <string name="wifi_wapi_certification_dont_exist">A palavra-passe da rede digitada está incorreta.</string>
+    <string name="wifi_wapi_certification_dont_exist">A palavra-passe de rede digitada está incorreta.</string>
     <string name="wifi_wapi_user_cert">Certificado do utilizador</string>
     <string name="wifi_wps_connected">ligado à rede Wi-Fi %s</string>
     <string name="wifi_wps_onstart_pbc">Pressione o botão \"Wi-Fi Protected Setup\" do router. Também pode ser designado como \"WPS\" ou conter este símbolo:</string>
