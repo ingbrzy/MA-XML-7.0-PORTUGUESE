@@ -55,7 +55,7 @@
     <string name="datausage_purchase_pay_confirm">Comprar</string>
     <string name="datausage_purchase_pay_hint">Para cancelar, ligue %s</string>
     <string name="datausage_purchase_pkglist_networkerror">Não foi possível ligar-se à rede. Verifique a ligação de dados e tente novamente.</string>
-    <string name="datausage_purchase_pkglist_nodata">"Existe um conflito entre o pacote de dados actual e o pacote que está tentando comprar.
+    <string name="datausage_purchase_pkglist_nodata">"Existe um conflito entre o pacote de dados actual e o pacote que está a tentar comprar.
  Entre em contato com sua operadora para maiores informações."</string>
     <string name="datausage_purchase_pkglist_servererror">Ops! Algo de errado aconteceu com nosso servidor.</string>
     <string name="datausage_purchase_result_failed">"Não é possível concluir a compra. Entre em contato com a operadora para maiores informações. "</string>
@@ -103,7 +103,7 @@ uma ligação de dados móveis"</string>
     <string name="main_button_normal_traffic">Pico</string>
     <string name="main_button_usage_adjust">Definir limite de dados</string>
     <string name="main_button_usage_adjust_manual">Definir limite de dados</string>
-    <string name="main_button_usage_adjusting">Alterando…</string>
+    <string name="main_button_usage_adjusting">A alterar…</string>
     <string name="main_button_usage_package_setting">Definir limite de dados</string>
     <string name="main_primary_message_traffic_cur_leisure">Uso de dados fora do pico</string>
     <string name="main_primary_message_traffic_cur_normal">Abaixo do limite de dados</string>
@@ -127,8 +127,8 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="main_toolbar_purchase">Recarregar</string>
     <string name="main_toolbar_saving">Economia de dados</string>
     <string name="main_toolbar_statistic">Estatísticas de uso</string>
-    <string name="main_traffic_overlimit_text">excedente</string>
-    <string name="main_traffic_remian_text">restante</string>
+    <string name="main_traffic_overlimit_text">Excedente</string>
+    <string name="main_traffic_remian_text">Restante</string>
     <string name="main_traffic_used">%s usado</string>
     <string name="main_traffic_used_only">%s usado</string>
     <string name="main_traffic_used_text">usado</string>
@@ -212,8 +212,8 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="pref_title_update_notification">Exibir notificações de uso de dados</string>
     <string name="pref_traffic_saving_issue">FAQ</string>
     <string name="pref_traffic_saving_issue_content">&lt;b> 1. activar o Economizador afecta minha privacidade? &lt;/b>&lt;br />&lt;br />&lt;br />Não. Os dados continuarão privados e não serão partilhados com terceiros. &lt;br />&lt;br />&lt;br />&lt;b> Por que o meu Economizador não funciona? &lt;/b>&lt;br />&lt;br /> O Economizador é acionado somente quando   está utilizando a rede de dados móveis para transferir ou enviar algum conteúdo.</string>
-    <string name="pref_traffic_saving_notify_switch">Mostrar na aba de notificações</string>
-    <string name="pref_traffic_saving_notify_switch_hint">Mostrar informações do economizador de dados na aba de notificações</string>
+    <string name="pref_traffic_saving_notify_switch">Exibir na aba de notificações</string>
+    <string name="pref_traffic_saving_notify_switch_hint">Exibir informações do economizador de dados na aba de notificações</string>
     <string name="pref_traffic_saving_switch">Reduzir o uso de dados</string>
     <string name="pref_traffic_saving_switch_hint">Usar proxy para compactar dados</string>
     <string name="pref_traffic_saving_title">Configurações do economizador</string>
@@ -244,7 +244,7 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="tc_sms_report_get_success">SMS do relatório de uso de dados da operadora recebido. Certifique-se de que ele está correto e envie-o para nós.</string>
     <string name="tc_sms_report_get_success_notify_body">Certifique-se de que o relatório está correto e envie-o para a MIUI.</string>
     <string name="tc_sms_report_get_success_notify_title">SMS do relatório de uso de dados recebido</string>
-    <string name="tc_sms_report_geting_sms">Recebendo SMS do relatório de uso de dados</string>
+    <string name="tc_sms_report_geting_sms">A receber SMS do relatório de uso de dados</string>
     <string name="tc_sms_report_notify_correction_body">Vá para a aplicação de Uso de dados na Central de segurança e tente visualizar manualmente.</string>
     <string name="tc_sms_report_notify_correction_failure_title">Não foi possível actualizar informações do uso de dados</string>
     <string name="tc_sms_report_notify_get_failure_body">Não foi possível apresentar o relatório d uso de dados. Certifique-se de que a ligação de dados está activa.</string>
@@ -262,7 +262,7 @@ Pico: %1$s%2$s restantes \"|\" %3$s usado"</string>
     <string name="tc_sms_report_upload_success">SMS do relatório de uso de dados enviado. Nós vamos resolver isso já!</string>
     <string name="tc_sms_report_upload_when_net">Obrigado pelo comentário!</string>
     <string name="tips_dialog_title">Não conhece o limite?</string>
-    <string name="tips_message">Caso não possua informações do plano de dados,   poderá obter mais informações marcando %2$s (%1$s).</string>
+    <string name="tips_message">Caso não possua informações do plano de dados, poderá obter mais informações marcando %2$s (%1$s).</string>
     <string name="traffic_config_alert_body">"A operadora informa que   já usou %s
 actualizar as informações de uso de dados?"</string>
     <string name="traffic_config_alert_body_leisure">"
