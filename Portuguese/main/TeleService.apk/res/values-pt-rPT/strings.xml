@@ -101,7 +101,7 @@
     <string name="call_recording_notification_message_sd_unmounted">Gravação interrompida: Cartão SD desmontado.</string>
     <string name="call_recording_notification_summary">Exibir notificação na barra de status quando uma chamada for gravada</string>
     <string name="call_recording_notification_title">Gravação de chamadas</string>
-    <string name="call_recording_notification_title_error">Falha na gravação de chamadas</string>
+    <string name="call_recording_notification_title_error">Erro na gravação de chamadas</string>
     <string name="call_recording_setting">Gravação de chamadas</string>
     <string name="call_remove_exception_numbers_confirm">%d números serão excluídos.</string>
     <string name="call_settings">Configurações de chamadas</string>
@@ -122,7 +122,7 @@
     <string name="card_title_MTcall_forwarding">Chamada sendo encaminhada</string>
     <string name="card_title_call_deflected">Chamada desviada</string>
     <string name="card_title_callconnectedect">Chamada recebida via ECT</string>
-    <string name="card_title_callconnectingect">Recebendo chamada via ECT</string>
+    <string name="card_title_callconnectingect">A receber chamada via ECT</string>
     <string name="card_title_calliswaiting">Chamada em espera</string>
     <string name="card_title_callonhold">Colocar em espera</string>
     <string name="card_title_callonhold_released">Chamada autorizada</string>
