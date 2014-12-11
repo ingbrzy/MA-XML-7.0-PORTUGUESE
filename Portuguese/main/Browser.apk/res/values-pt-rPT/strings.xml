@@ -10,7 +10,7 @@
     <string name="accessibility_datetime_picker_time">Hora</string>
     <string name="accessibility_time_picker_ampm">AM/PM</string>
     <string name="accessibility_time_picker_hour">Hora</string>
-    <string name="accessibility_time_picker_milli">Milissegundo</string>
+    <string name="accessibility_time_picker_milli">Milisegundo</string>
     <string name="accessibility_time_picker_minute">Minuto</string>
     <string name="accessibility_time_picker_second">Segundo</string>
     <string name="account">Conta</string>
@@ -80,7 +80,7 @@
     <string name="block_ads_title">O conteúdo pode conter anúncios</string>
     <string name="bookmark_add_group_text_header">Adicionar %1$d selecionados ao grupo</string>
     <string name="bookmark_add_to">Adicionar em</string>
-    <string name="bookmark_cannot_save_url">Este ENDEREÇO não pode ser adicionado aos favoritos.</string>
+    <string name="bookmark_cannot_save_url">Este URL não pode ser adicionado aos favoritos.</string>
     <string name="bookmark_folder_needs_title">Digite um nome para a pasta</string>
     <string name="bookmark_group_lable">Grupo</string>
     <string name="bookmark_list_view">Lista</string>
@@ -94,10 +94,10 @@
     <string name="bookmark_title_lable">Título</string>
     <string name="bookmark_to_readmodelist_not_saved">Não foi possível Guardar na lista de leitura</string>
     <string name="bookmark_to_readmodelist_saved">Guardado na lista de leitura</string>
-    <string name="bookmark_url">ENDEREÇO http://</string>
-    <string name="bookmark_url_already_exisit">Este ENDEREÇO já existe nos favoritos</string>
-    <string name="bookmark_url_lable">ENDEREÇO</string>
-    <string name="bookmark_url_not_valid">Este ENDEREÇO não é válido.</string>
+    <string name="bookmark_url">URL http://</string>
+    <string name="bookmark_url_already_exisit">Este URL já existe nos favoritos</string>
+    <string name="bookmark_url_lable">URL</string>
+    <string name="bookmark_url_not_valid">Este URL não é válido.</string>
     <string name="bookmarks">Favoritos</string>
     <string name="bookmarks_content_is_null">Nenhum favorito</string>
     <string name="bookmarks_management">Favoritos</string>
@@ -108,7 +108,7 @@
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
     <string name="browserFrameFileErrorLabel">Problema no arquivo</string>
     <string name="browserFrameFormResubmitLabel"/>
-    <string name="browserFrameFormResubmitMessage">A página que está tentando visualizar contém dados já enviados (\"POSTDATA\"). Se reenviar os dados, qualquer ação executada pelo formulário na página (como pesquisa ou compra on-line) será repetida.</string>
+    <string name="browserFrameFormResubmitMessage">A página que está a tentar visualizar contém dados já enviados (\"POSTDATA\"). Se reenviar os dados, qualquer ação executada pelo formulário na página (como pesquisa ou compra on-line) será repetida.</string>
     <string name="browserFrameNetworkErrorLabel">Problema na ligação</string>
     <string name="cancel">Cancelar</string>
     <string name="cannot_download">Somente é possível transferir de URLs \"http\" ou \"https\"</string>
@@ -118,7 +118,7 @@
     <string name="clear_history">Eliminar histórico</string>
     <string name="clear_history_group">Eliminar histórico (%s páginas)</string>
     <string name="clear_search_history">Eliminar histórico</string>
-    <string name="clip_dialog_title">Abrir ENDEREÇO copiado?</string>
+    <string name="clip_dialog_title">Abrir URL copiado?</string>
     <string name="close_all_tab_alert_message">Encerrar todas as guias?</string>
     <string name="close_all_tab_alert_title">Encerrar todas as guias</string>
     <string name="close_cloud_tab_tip">Encerrar guias na nuvem em %s?</string>
@@ -200,7 +200,7 @@
     <string name="download_dialog_file_length_nolength_error_txt">Erro na Transferência</string>
     <string name="download_dialog_file_length_nolength_txt">A transferir</string>
     <string name="download_failed">Erro ao transferir</string>
-    <string name="download_no_sdcard_dlg_msg">Para fazer a Transferência de %s, é necessário conectar o armazenamento USB.</string>
+    <string name="download_no_sdcard_dlg_msg">Para realizar a Transferência de %s, é necessário ligar o armazenamento USB.</string>
     <string name="download_no_sdcard_dlg_title">Armazenamento.USB indisponível</string>
     <string name="download_pending">A transferir</string>
     <string name="download_phone_tip">Telefone</string>
@@ -269,8 +269,8 @@
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Página inicial definida.</string>
     <string name="http">http://</string>
-    <string name="in_incognito">Está em annimo! Páginas acedidas nesta guia não surgirão no histórico de navegação.</string>
-    <string name="is_first_history_item">Este é o primeiro ficheiro de histórico</string>
+    <string name="in_incognito">Está em anonimo! Páginas acedidas nesta guia não surgirão no histórico de navegação.</string>
+    <string name="is_first_history_item">Este é o primeiro item de histórico</string>
     <string name="is_first_tab">Esta é a primeira aba</string>
     <string name="is_last_history_item">Este é o último ficheiro do histórico</string>
     <string name="is_last_tab">Esta é a última aba</string>
@@ -299,7 +299,7 @@
     <string name="menu_hv_swap">Alternar orientação</string>
     <string name="menu_nightmode">Modo noturno</string>
     <string name="menu_preferences">Configuração.</string>
-    <string name="menu_save_bandwidth_mode_close_toast">Utilizando dados normalmente</string>
+    <string name="menu_save_bandwidth_mode_close_toast">A utilizar dados normalmente</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">O navegador não utilizará a rede móvel para pré-carregar páginas ou mostrar imagens</string>
     <string name="menu_save_bandwidth_mode_open_toast">Reduzindo o uso de dados</string>
@@ -334,7 +334,7 @@
     <string name="miuichromium_error_page_title">Não foi possível carregar página</string>
     <string name="miuichromium_error_page_url">Ver endereço da página</string>
     <string name="miuichromium_error_page_wlan">Configurações de Wi-Fi</string>
-    <string name="miuichromium_save_password_message">Recordar esta palavra-passe?</string>
+    <string name="miuichromium_save_password_message">Lembrar esta palavra-passe?</string>
     <string name="miuichromium_save_password_never">Nunca</string>
     <string name="miuichromium_save_password_notnow">Agora não</string>
     <string name="miuichromium_save_password_remember">Lembrar</string>
@@ -344,7 +344,7 @@
     <string name="name">Marcador</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Ligar a esta rede</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Notificações de Wi-Fi</string>
-    <string name="network_show_wifi_setting_tip_dialog_setting_title">Se estiver utilizando a sua ligação de dados móveis, a MIUI irá notificá-lo quando uma ligação de rede Wi-Fi estiver disponível</string>
+    <string name="network_show_wifi_setting_tip_dialog_setting_title">Se estiver a utilizar a  ligação de dados móveis, a MIUI irá notificá-lo quando uma ligação de rede Wi-Fi estiver disponível</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Rede Wi-Fi aberta disponível</string>
     <string name="new_folder_name_lable">Nome do grupo</string>
     <string name="new_incognito_tab">Nova guia anônima</string>
@@ -361,19 +361,19 @@
     <string name="page_info">Informações da página</string>
     <string name="page_info_address">Endereço:</string>
     <string name="page_info_view">Visualizar informações da página</string>
-    <string name="password">palavra-passe</string>
+    <string name="password">Palavra-passe</string>
     <string name="permission_preload_label">Pré-carregar resultados</string>
     <string name="popup_window_attempt">Permitir que este site abra uma janela pop-up?</string>
     <string name="pref_accessibility_title">Acessibilidade</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Combinações comuns de letras podem ser inseridas com um toque na barra de endereços</string>
-    <string name="pref_accessibility_url_shortcut_enter_title">endereço rápido</string>
+    <string name="pref_accessibility_url_shortcut_enter_title">Endereço rápido</string>
     <string name="pref_adblock_counts">%d bloqueado(s)</string>
     <string name="pref_adblock_title">Bloqueador de anúncios</string>
     <string name="pref_autofill_enabled">Preenchimento. automático.do formulário</string>
     <string name="pref_autofill_enabled_summary">Preencher formulários da web com um único toque</string>
     <string name="pref_autofill_profile_editor">Preenchimento automático.de texto</string>
     <string name="pref_autofill_profile_editor_summary">Configurar preenchimento automático de texto em formulários da web</string>
-    <string name="pref_autologin_progress">Faça iniciar sessão nos sites do Google usando %s</string>
+    <string name="pref_autologin_progress">Iniciar sessão nos sites do Google usando %s</string>
     <string name="pref_autologin_progress_in_background">a iniciar sessão nos sites do Google utilizando %s em segundo plano</string>
     <string name="pref_autologin_title">Iniciar sessão automático do Google</string>
     <string name="pref_category_title_version">Versão</string>
@@ -608,7 +608,7 @@
     <string name="share_link">Partilhar endereço</string>
     <string name="share_page">Partilhar página</string>
     <string name="share_page_text">Gosto disto (%1$s) | %2$s</string>
-    <string name="show_check_security_url_check_tip_dialog_description">O ENDERÇO deste website será enviado aos servidores da Xiaomi para verificar a segurança. Pode desactivar este recurso a qualquer momento nas Configurações.</string>
+    <string name="show_check_security_url_check_tip_dialog_description">O URL deste website será enviado aos servidores da Xiaomi para verificar a segurança. Pode desactivar este recurso a qualquer momento nas Configurações.</string>
     <string name="show_check_security_url_check_tip_dialog_title">Segurança do ENDEREÇO</string>
     <string name="sign_in_to" formatted="false">Iniciar sessão no %s1 \"%s2\"</string>
     <string name="snapshot_failed">Não foi possível Guardar para leitura off-line.</string>
@@ -638,7 +638,7 @@
     <string name="sub_sync_item_browser_title_novel">Sincronizar livros</string>
     <string name="sub_sync_item_browser_title_novel_summary">Sincronizar livros do navegador</string>
     <string name="sub_sync_item_browser_title_webapp">Sincronizar aplicações web</string>
-    <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar aplicações web adicionados e favoritos</string>
+    <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar aplicações web adicionadas e favoritos</string>
     <string name="sync_item_browser_summary">Sincronize os dados com a nuvem para facilitar o uso do navegador em outros dispositivos</string>
     <string name="sync_item_browser_title">Sincronizar navegador</string>
     <string name="tab_bookmarks">Favoritos</string>
@@ -659,7 +659,7 @@
     <string name="ua_switcher_desktop">Ver versão para web</string>
     <string name="up_to_loading_tips">Solte para actualizar</string>
     <string name="uploads_disabled">O envio de arquivos está desactivado.</string>
-    <string name="url_copy_done">ENDEREÇO copiado para a área de transferência</string>
+    <string name="url_copy_done">URL copiado para a área de transferência</string>
     <string name="url_hint">Pesquisar ou digitar ENDEREÇO</string>
     <string name="url_opened_in_background">Abrir guia em segundo plano</string>
     <string name="url_suggest_indicator_bookmark">Favoritos/Histórico</string>
