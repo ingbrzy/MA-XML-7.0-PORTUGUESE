@@ -10,9 +10,9 @@
     <string name="AD_BLOCK_ALL">Bloquear todos</string>
     <string name="AD_COUNT">%d bloqueado(s)</string>
     <string name="AD_Info">Complemento de anúncios</string>
-    <string name="AD_Info_Hint">Adwares são usados por outrss aplicações para enviar anúncios ao dispositivo.</string>
+    <string name="AD_Info_Hint">Adwares são usados por outras aplicações para enviar anúncios ao dispositivo.</string>
     <string name="AD_NOT_BLOCK">Não bloquear</string>
-    <string name="AD_SCANNING">Verificando…</string>
+    <string name="AD_SCANNING">A verificar…</string>
     <string name="AD_SCAN_BUTTON">Verificar</string>
     <string name="AD_TITLE_COUNT">%d aplicações contêm adware</string>
     <string name="AD_TITLE_NON_COUNT">Nenhum adware detectado</string>
@@ -30,7 +30,7 @@
     <string name="SMS_ADRESS">Bloqueio de locais</string>
     <string name="SMS_BLACKLIST">Bloqueio de mensagens</string>
     <string name="SMS_DEFAULT">Bloqueio inteligente</string>
-    <string name="SMS_KEYWORDS">Bloqueio por palavra-chave</string>
+    <string name="SMS_KEYWORDS">Bloqueio por palavra-passe</string>
     <string name="SMS_MODENAME">Bloqueio predefinido</string>
     <string name="SMS_PREFIX">Bloqueio de prefixos</string>
     <string name="SMS_SERVICE">Bloqueio de serviços</string>
@@ -67,7 +67,7 @@
     <string name="dlg_add_blacklist">Bloquear este número?</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na lista de excepções.</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Atenção</string>
-    <string name="dlg_add_keyword">Adicionar palavras-chave</string>
+    <string name="dlg_add_keyword">Adicionar palavras-passe</string>
     <string name="dlg_add_manual_hint">Marque o número de telefone</string>
     <string name="dlg_add_manual_ok">Adicionar</string>
     <string name="dlg_antispam_mode_delete_message">Não pode recuperar regras personalizadas que já foram excluídas.</string>
@@ -88,8 +88,8 @@
     <string name="dlg_clear_current_sms">Excluir todos os SMS bloqueados enviados por este número?</string>
     <string name="dlg_delete_keyword">Excluir palavras-chave selecionadas?</string>
     <string name="dlg_edit_keyword">Editar palavras-chave</string>
-    <string name="dlg_import_blacklist">Adicionando à lista de bloqueio…</string>
-    <string name="dlg_import_whitelist">Adicionando à lista de excepções…</string>
+    <string name="dlg_import_blacklist">A adicionar à lista de bloqueio…</string>
+    <string name="dlg_import_whitelist">A adicionar à lista de excepções…</string>
     <string name="dlg_keyword_ok">Guardar</string>
     <string name="dlg_message_not_open_stranger_identify">Necessita activar o recurso Identificar números desconhecidos nas configurações do telefone antes de marcar ou relatar um número.</string>
     <string name="dlg_no_block">Desbloquear este número?</string>
@@ -97,10 +97,10 @@
     <string name="dlg_remove_address_blacklist">Remover este local da lista de bloqueio e restaurar as mensagens relacionadas para a caixa de entrada?</string>
     <string name="dlg_remove_address_whitelist">Remover este local da lista de excepções?</string>
     <string name="dlg_remove_blacklist">Desbloquear este número?</string>
-    <string name="dlg_remove_blacklist_ing">Removendo da lista de bloqueio…</string>
+    <string name="dlg_remove_blacklist_ing">A remover da lista de bloqueio…</string>
     <string name="dlg_remove_blacklist_ok">Desbloquear</string>
     <string name="dlg_remove_whitelist">Remover estes números da lista de excepções?</string>
-    <string name="dlg_remove_whitelist_ing">Removendo da lista de excepções…</string>
+    <string name="dlg_remove_whitelist_ing">A remover da lista de excepções…</string>
     <string name="dlg_retore">Restaurar para a caixa de mensagens?</string>
     <string name="dlg_retore_ok">Restaurar</string>
     <string name="dlg_title_not_open_stranger_identify">Active o \"Identificar números desconhecidos\"</string>
@@ -233,7 +233,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_sms_group">Mensagens</string>
     <string name="st_sub_title_customize_mode_name">Nome</string>
     <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
-    <string name="st_sum_call_wait">Se o sinal de ocupado não for o predefinido, quem estiver chamando poderá não compreendê-lo.</string>
+    <string name="st_sum_call_wait">Se o sinal de ocupado não for o predefinido, quem estiver a chamar poderá não compreendê-lo.</string>
     <string name="st_title_adblock_group">Bloqueador de anúncios</string>
     <string name="st_title_adblock_setting">Configurações do bloqueador de anúncios</string>
     <string name="st_title_addblacklist">Adicionar à lista de bloqueio</string>
@@ -243,7 +243,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_title_anticomintcall_backsound_setting">Mensagem</string>
     <string name="st_title_antispam_mode">Regras</string>
     <string name="st_title_back_sound_busy">Ocupado</string>
-    <string name="st_title_back_sound_choose">Status da lista de bloqueio</string>
+    <string name="st_title_back_sound_choose">Estado da lista de bloqueio</string>
     <string name="st_title_back_sound_closed">Telefone desligado</string>
     <string name="st_title_back_sound_none">Número de telefone inexistente</string>
     <string name="st_title_back_sound_stop">Telefone fora de serviço</string>
@@ -276,8 +276,8 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="tab_sms">SMS</string>
     <string name="tab_title">Lista de bloqueio</string>
     <string name="toast_keyword_blank">Necessita introduzir uma palavra-chave</string>
-    <string name="toast_keyword_exist">Palavra-chave adicionada</string>
-    <string name="toast_keyword_invalid">Palavra-chave inválida</string>
+    <string name="toast_keyword_exist">Palavra-passe adicionada</string>
+    <string name="toast_keyword_invalid">Palavra-passe inválida</string>
     <string name="two_address_choose_hint">%1$s, %2$s</string>
     <string name="user_define_title">Adicionar regras</string>
     <string name="whitelist_prefix_add_hint">Adic. todos os números com este prefixo às excepções</string>
