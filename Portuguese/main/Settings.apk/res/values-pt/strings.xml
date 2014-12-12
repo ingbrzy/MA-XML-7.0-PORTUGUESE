@@ -61,7 +61,7 @@ Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, 
     <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
     <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
     <string name="advanced_settings">Configurações avançadas</string>
-    <string name="advanced_settings_summary">Activa mais opções de configuracção</string>
+    <string name="advanced_settings_summary">Activa mais opções de configuração</string>
     <string name="airplane_mode">Modo avião</string>
     <string name="alarm_volume_title">Alarme</string>
     <string name="all_volume_title">Volumes</string>
@@ -73,9 +73,9 @@ Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, 
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="always_allow_bind_appwidgets_text">optou por permitir que esta aplicação crie widgets e aceda aos dados.</string>
     <string name="android_beam_disabled_summary">Indisponível porque o NFC está Desactivado</string>
-    <string name="android_beam_explained">"Quando este recurso está activado,  pode enviar o conteúdo da aplicação para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo,  pode enviar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais.
+    <string name="android_beam_explained">"Quando este recurso está activado,  pode enviar o conteúdo da aplicação para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo,  pode enviar páginas do navegador, vídeos do YouTube, contactos de pessoas e muito mais.
 
-Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar noecrã. A aplicação determina o que é enviado."</string>
+Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar no ecrã. A aplicação determina o que é enviado."</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Desactivado</string>
     <string name="android_beam_on_summary">Pronto para transmitir conteúdo de aplicações via NFC</string>
@@ -133,7 +133,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="application_size_label">Aplicação</string>
     <string name="applications_settings">Aplicações</string>
     <string name="applications_settings_header">Configurações da aplicação</string>
-    <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicializacção rápida</string>
+    <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
     <string name="apps_with_restrictions_header">Aplicações com restrições</string>
     <string name="apps_with_restrictions_settings_button">Expandir config. p/ aplicação</string>
     <string name="ask_compatibility">Perguntar ao iniciar</string>
@@ -156,7 +156,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="automatic_brightness">Brilho automático</string>
     <string name="awake">Tempo activo do dispositivo</string>
     <string name="background_data">dados de segundo plano</string>
-    <string name="background_data_dialog_message">A desactivacção de dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. algumas aplicações ainda podem usar a ligação de dados de segundo plano.</string>
+    <string name="background_data_dialog_message">A desactivação de dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. algumas aplicações ainda podem usar a ligação de dados de segundo plano.</string>
     <string name="background_data_dialog_title">Des. dados 2º plan.?</string>
     <string name="background_data_summary">Aplic. sincronizam, enviam e recebem dados a qualquer hora</string>
     <string name="background_process_stop_description">Este é um processo de aplicação antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
@@ -217,7 +217,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">sem fio</string>
     <string name="battery_info_scale_label">Escala da bateria:</string>
-    <string name="battery_info_screen_on">Tempo activo do ecrã:</string>
+    <string name="battery_info_screen_on">Tempo activo de ecrã:</string>
     <string name="battery_info_Estado_charging">A carregar</string>
     <string name="battery_info_Estado_charging_ac">(CA)</string>
     <string name="battery_info_Estado_charging_usb">(USB)</string>
