@@ -8,8 +8,8 @@
     <string name="adding_fdn_contact">A adicionar número de chamadas fixas…</string>
     <string name="additional_cdma_call_settings">Configurações de chamada CDMA adicionais</string>
     <string name="additional_gsm_call_settings">Configurações adicionais</string>
-    <string name="administrative_disable">Administrativo Desactivado</string>
-    <string name="administrative_enable">Administrativo activo</string>
+    <string name="administrative_disable">Administrador Desactivado</string>
+    <string name="administrative_enable">Administrador activo</string>
     <string name="advanced_settings">Configurações opcionais</string>
     <string name="advanced_settings_hide">▽ Toque para ocultar todos</string>
     <string name="advanced_settings_show">▷ Toque para exibir todos</string>
@@ -81,7 +81,7 @@
     <string name="call_barring_sum">Configuração de restrição de chamadas</string>
     <string name="call_description_recording">A gravar chamada…</string>
     <string name="call_forwarding_number_hint">Digite o número para encaminhar chamadas recebidas</string>
-    <string name="call_forwarding_settings">Encaminhamento de chamadas</string>
+    <string name="call_forwarding_settings">Reencaminhamento de chamadas</string>
     <string name="call_record_add_numbers">Adicionar números</string>
     <string name="call_record_auto_always">Todos os números</string>
     <string name="call_record_auto_scenario_title">Configurações de gravação automática</string>
@@ -89,11 +89,11 @@
     <string name="call_record_auto_title">Gravar automaticamente</string>
     <string name="call_record_auto_unknown_number">Números desconhecidos</string>
     <string name="call_record_auto_whitelist">Lista de utilizadores</string>
-    <string name="call_record_auto_whitelist_no_item">Adicione um número tocando no botão Adicionar (+)</string>
+    <string name="call_record_auto_whitelist_no_item">Adicione um número ao tocar no botão Adicionar (+)</string>
     <string name="call_record_auto_whitelist_summary">%d números</string>
     <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
     <string name="call_record_off_summary">Gravação automática desactivada</string>
-    <string name="call_record_on_summary">Gravação automática activada</string>
+    <string name="call_record_on_summary">Gravação automática activa</string>
     <string name="call_record_setting">Gravação de chamadas</string>
     <string name="call_record_whitelist_custom">Lista personalizada</string>
     <string name="call_recording_notification_message">Toque para ver %s.</string>
@@ -128,7 +128,7 @@
     <string name="card_title_callonhold_released">Chamada autorizada</string>
     <string name="card_title_callretrieved">Chamada recuperada</string>
     <string name="card_title_clir_suppression_rejected">Supressão de CLIR rejeitada</string>
-    <string name="card_title_conditionalCF">Encaminhamento condicional de chamadas activo</string>
+    <string name="card_title_conditionalCF">Reencaminhamento condicional de chamadas activo</string>
     <string name="card_title_cugcall">Chamada CUG</string>
     <string name="card_title_deflectedcall">Chamada desviada</string>
     <string name="card_title_forwardcheckreceived">Verificação de encaminhamento recebida</string>
@@ -136,7 +136,7 @@
     <string name="card_title_incoming_barred">Chamadas recebidas bloqueadas</string>
     <string name="card_title_multipartycall">Conferência</string>
     <string name="card_title_outgoing_barred">Chamadas efectuadas bloqueadas</string>
-    <string name="card_title_unconditionalCF">Encaminhamento incondicional de chamadas activo</string>
+    <string name="card_title_unconditionalCF">Reencaminhamento incondicional de chamadas activo</string>
     <string name="cb_sms_settings">Configurações de mensagens de Broadcast</string>
     <string name="cdma_activate_device">Activar dispositivo</string>
     <string name="cdma_display_precise_call_state_message">Se a operadora não suportar este recurso, o estado de chamadas poderá ser impreciso.</string>
@@ -178,7 +178,7 @@
     <string name="connect_disconnect_vibrate_title">Vibrar ao atender chamada</string>
     <string name="connect_disconnect_vibrate_weak">Fraco</string>
     <string name="connect_later">Não é possível se ligar-se-se a esta rede agora. Tente novamente mais tarde.</string>
-    <string name="contactAddFailed">Falha ao adicionar contacto no cartão SIM</string>
+    <string name="contactAddFailed">Erro ao adicionar contacto no cartão SIM</string>
     <string name="contactAddSuccess">Contacto adicionado ao cartão SIM com sucesso</string>
     <string name="contactScreen">Adicionar/Editar contacto do SIM</string>
     <string name="contactUpdateFailed">Erro ao actualizar contacto no cartão SIM</string>
@@ -285,7 +285,7 @@
     <string name="enter_pin_text">PIN do SIM:</string>
     <string name="entertainment_news_settings">Notícias de entretenimento</string>
     <string name="eo_disable">Oportunidades de emprego desactivadas</string>
-    <string name="eo_enable">Oportunidades de emprego activadas</string>
+    <string name="eo_enable">Oportunidades de emprego activas</string>
     <string name="error_updating_title">Erro de configuração da chamada</string>
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>
     <string name="exportAllcontatsFailed">Erro ao exportar todos os contactos para o cartão SIM</string>
@@ -309,7 +309,7 @@
     <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contacto com sua operadora se o problema persistir."</string>
     <string name="fw_get_in_vm_failed">"Não foi possível recuperar e salvar as configurações de número actual de encaminhamento.
-Mudar para o novo provedor?"</string>
+Mudar para o novo fornecedor?"</string>
     <string name="general_news_settings">Notícias gerais</string>
     <string name="general_setting">Configurações</string>
     <string name="get_pin2">Digitar PIN2</string>
@@ -394,7 +394,7 @@ Mudar para o novo provedor?"</string>
     <string name="maintenance_enable">Manutenção activada</string>
     <string name="manage_fdn_list">Lista FDN</string>
     <string name="managed_roaming_dialog_cancel_button">Não</string>
-    <string name="managed_roaming_dialog_content">Encontrada rede com serviço limitado. Deseja iniciar uma busca de redes?</string>
+    <string name="managed_roaming_dialog_content">Localizada rede com serviço limitado. Deseja iniciar uma busca de redes?</string>
     <string name="managed_roaming_dialog_ok_button">Sim</string>
     <string name="managed_roaming_title">Roaming assistido</string>
     <string name="managed_roaming_title_sub1">Roaming assistido (SIM1)</string>
