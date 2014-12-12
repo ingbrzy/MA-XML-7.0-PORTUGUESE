@@ -329,7 +329,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="ims_accounts_title">Conta IMS</string>
     <string name="ims_edit_title">Detalhes de conta IMS</string>
     <string name="ims_menu_Marcard">Desfazer</string>
-    <string name="ims_menu_save">Salvar</string>
+    <string name="ims_menu_save">Guardar</string>
     <string name="ims_service_capability">Activar/Desactivar capacidade de serviço</string>
     <string name="ims_service_capability_title">Activar/Desactivar capacidade de serviço IMS</string>
     <string name="incall_error_call_failed">Chamada não terminada.</string>
@@ -511,7 +511,7 @@ Será utilizada a rede preferida."</string>
     <string name="ota_activate">Activar</string>
     <string name="ota_call_end">Voltar</string>
     <string name="ota_failure">Erro de programação</string>
-    <string name="ota_hfa_activation_dialog_message">"O dispositivo está A activar o serviço de dados móveis.
+    <string name="ota_hfa_activation_dialog_message">"O dispositivo está a activar o serviço de dados móveis.
 
 Isto pode levar até 5 minutos."</string>
     <string name="ota_hfa_activation_title">A activar…</string>
@@ -539,10 +539,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="other_settings_category">Outros</string>
     <string name="password_changed">Palavra-passe alterada</string>
     <string name="password_title">Palavra-passe</string>
-    <string name="payphone">dispositivo público</string>
-    <string name="phoneAppLabel">dispositivo</string>
-    <string name="phoneIconLabel">dispositivo</string>
-    <string name="phone_entered_ecm_text">Modo de retorno de chamada de emergência acessado</string>
+    <string name="payphone">Dispositivo público</string>
+    <string name="phoneAppLabel">Dispositivo</string>
+    <string name="phoneIconLabel">Dispositivo</string>
+    <string name="phone_entered_ecm_text">Modo de retorno de chamada de emergência acedido</string>
     <string name="phone_in_ecm_call_notification_text">ligação de dados desactivada</string>
     <string name="phone_in_ecm_notification_title">Modo de retorno de chamada de emergência</string>
     <string name="phone_number_hint_text">Número de dispositivo.</string>
@@ -560,8 +560,8 @@ Funções relacionadas ao PIN2 serão bloqueadas após outra tentativa incorreta
     <string name="pin_failed">O PIN digitado estava incorreto.</string>
     <string name="pin_lock_warning">"
 Seu dispositivo será bloqueado automaticamente após outra tentativa incorreta"</string>
-    <string name="pin_progress_change_pin">Alterando PIN…</string>
-    <string name="pin_progress_change_pin2">Alterando PIN2…</string>
+    <string name="pin_progress_change_pin">A alterar PIN…</string>
+    <string name="pin_progress_change_pin2">a alterar PIN2…</string>
     <string name="pin_progress_set_fdn_lock">A configurar estado de bloqueio FDN…</string>
     <string name="pin_progress_set_icc_lock">A configurar estado de bloqueio ICC…</string>
     <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM…</string>
@@ -603,7 +603,7 @@ Seu dispositivo será bloqueado automaticamente após outra tentativa incorreta"
     <string name="puk_lock_warning">"
 Seu cartão SIM será apagado após outra tentativa incorreta."</string>
     <string name="puk_requested">Palavra-passe incorreta. SIM bloqueado! PUK2 solicitado.</string>
-    <string name="puk_unlock_failed">Falha na requisição do desbloqueio por PUK.</string>
+    <string name="puk_unlock_failed">Erro no pedido de desbloqueio por PUK.</string>
     <string name="puk_unlock_success">Sucesso na requisição do desbloqueio por PUK.</string>
     <string name="puk_unlocked">O seu cartão SIM foi desbloqueado. O seu dispositivo está desbloqueando…</string>
     <string name="radio_off_error">Ligue o rádio antes de ver essas configurações.</string>
@@ -615,7 +615,7 @@ Seu cartão SIM será apagado após outra tentativa incorreta."</string>
     <string name="register_automatically">Registro automático…</string>
     <string name="register_on_network">A registar na %s…</string>
     <string name="registration_done">Registrado na rede.</string>
-    <string name="registration_status_checking_status">Verificando status...</string>
+    <string name="registration_status_checking_status">A verificar estado...</string>
     <string name="registration_status_done">Chamadas recebidas.</string>
     <string name="registration_status_failed_try_later">Erro no registro da conta: (%s); uma nova tentativa será feita mais tarde</string>
     <string name="registration_status_invalid_credentials">Erro no registro da conta: nome de utilizador ou Palavra-passe incorretos.</string>
@@ -624,7 +624,7 @@ Seu cartão SIM será apagado após outra tentativa incorreta."</string>
     <string name="registration_status_not_receiving">Sem chamadas recebidas.</string>
     <string name="registration_status_not_running">erro no registro da conta.</string>
     <string name="registration_status_registering">A resgistar…</string>
-    <string name="registration_status_server_unreachable">erro no registro da conta: verifique o nome do servidor.</string>
+    <string name="registration_status_server_unreachable">Erro no registro da conta: verifique o nome do servidor.</string>
     <string name="registration_status_still_trying">A tentar…</string>
     <string name="reject_via_sms">Respostas rápidas</string>
     <string name="reject_via_sms_summary">Editar respostas rápidas predefinidas</string>
@@ -633,7 +633,7 @@ Seu cartão SIM será apagado após outra tentativa incorreta."</string>
     <string name="remove">Excluir</string>
     <string name="remove_ims_account">Remover conta</string>
     <string name="remove_sip_account">Remover conta</string>
-    <string name="removing_account">a remover a conta…</string>
+    <string name="removing_account">A remover a conta…</string>
     <string name="requesting_corporate_unlock">A solicitar desbloqueio do SIM corporativo…</string>
     <string name="requesting_nw_subset_unlock">A solicitar desbloqueio do subconjunto de rede SIM…</string>
     <string name="requesting_puk_unlock">A solicitar desbloqueio por PUK…</string>
