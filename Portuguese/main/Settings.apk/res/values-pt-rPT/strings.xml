@@ -60,7 +60,7 @@
     <string name="add_auto_startup_application">Adicionar Aplicações</string>
     <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
     <string name="adjust_3d_depth_title">Ajustar profundidade 3D para jogos</string>
-    <string name="alert_show_screensaver_when_not_charging_msg">Exibir a proteção de ecrã irá consumir mais bateria.</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">Exibir a protecção de ecrã irá consumir mais bateria.</string>
     <string name="alert_show_screensaver_when_not_charging_title">Uso da bateria</string>
     <string name="android_beam_disabled_summary">A partilha de conteúdo via NFC requer que o NFC esteja activo</string>
     <string name="android_beam_explained">"Quando este recurso está activo,  pode enviar o conteúdo da alpicação para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Exemplo,  pode enviar páginas do navegador, vídeos do YouTube, contactos de pessoas e muito mais.
@@ -83,9 +83,9 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="apn_save_msg">Guardar mudanças ao Ponto de Acesso?</string>
     <string name="app_backup">Cópia de segurança</string>
     <string name="app_feedback">Relatar erro</string>
-    <string name="app_floating_window_dlg_disable">"Desactivar as janelas flutuantes de %1$s encerrará a aplicacção.
+    <string name="app_floating_window_dlg_disable">"Desactivar as janelas flutuantes de %1$s encerrará a aplicação.
 Desactivar janelas flutuantes?"</string>
-    <string name="app_floating_window_dlg_enable">"Ao Activar as janelas flutuantes para %1$s, a aplicacção deverá ser reiniciada.  pode também interrompê-la manualmente.
+    <string name="app_floating_window_dlg_enable">"Ao Activar as janelas flutuantes para %1$s, a aplicação deverá ser reiniciada.  pode também interrompê-la manualmente.
 Activar janelas flutuantes?"</string>
     <string name="app_name_securitycenter">Segurança</string>
     <string name="app_notifications_switch_label">Notificações personalizadas</string>
@@ -98,7 +98,7 @@ Activar janelas flutuantes?"</string>
     <string name="apply_now_button_text">Actualizar</string>
     <string name="apply_update_fail">Erro na Actualização</string>
     <string name="apps_sort_type_item_size">Tamanho</string>
-    <string name="apps_sort_type_item_time">Usado com frequeência</string>
+    <string name="apps_sort_type_item_time">Usado com frequência</string>
     <string name="apps_sort_type_title">Ordenar</string>
     <string name="audio_list_loading">A carregar...</string>
     <string name="audio_profile_settings_title">Perfis de áudio</string>
@@ -140,7 +140,7 @@ Activar janelas flutuantes?"</string>
     <string name="bluetooth_unlock_change_matched_device">Selecione outro dispositivo</string>
     <string name="bluetooth_unlock_confirm_device_text">Encoste os dispositivos para desbloquear.</string>
     <string name="bluetooth_unlock_delete_device">Excluir este dispositivo</string>
-    <string name="bluetooth_unlock_delete_device_confirm_msg">Ecluir este dispositivo?</string>
+    <string name="bluetooth_unlock_delete_device_confirm_msg">Excluir este dispositivo?</string>
     <string name="bluetooth_unlock_device_matched_text">Usar este dispositivo para desbloquear.</string>
     <string name="bluetooth_unlock_no_matched_device_yet">Nenhum dispositivo detectado</string>
     <string name="bluetooth_unlock_settings_devices_title">Dispositivo</string>
@@ -212,7 +212,7 @@ Activar janelas flutuantes?"</string>
     <string name="camera_key_action_none_title">Nenhuma acção</string>
     <string name="camera_key_action_setting_title">Botão MI</string>
     <string name="camera_key_action_shortcut_call">Chamada</string>
-    <string name="camera_key_action_shortcut_home">ecrã inicial</string>
+    <string name="camera_key_action_shortcut_home">Ecrã inicial</string>
     <string name="camera_key_action_shortcut_screenshot">Captura de ecrã</string>
     <string name="camera_key_action_shortcut_search">Pesquisar</string>
     <string name="camera_key_action_shortcut_title">Atalho</string>
@@ -233,7 +233,7 @@ Activar janelas flutuantes?"</string>
     <string name="common_settings">Configurações rápidas</string>
     <string name="complete_settings">Configurações gerais</string>
     <string name="confirm_download_cancelation_dialog_message">Cancelar Transferência?</string>
-    <string name="confirm_erase">eliminar</string>
+    <string name="confirm_erase">Eliminar</string>
     <string name="connect_to_internet">ligar-se à rede</string>
     <string name="connected_wifi">Wi-Fi Ligada</string>
     <string name="credentials_configure_lock_screen_hint">Necessita configurar PIN ou palavra-passe para o ecrã de bloqueio antes de usar o armazenamento de credenciais.</string>
@@ -305,7 +305,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="dialog_title_hdmi_color_calibration">Predefinição de correção de cor</string>
     <string name="dialog_title_load_cleanup_engine_error">Erro</string>
     <string name="dialog_title_login">Iniciar sessão na Conta Mi</string>
-    <string name="dialog_title_stop_virus_scan">Parar verificacção</string>
+    <string name="dialog_title_stop_virus_scan">Interromper verificacção</string>
     <string name="dialog_title_uninstall_apps">Desinstalar</string>
     <string name="dialog_yes">Sim</string>
     <string name="dirac_control">Optimizar qualidade de áudio</string>
@@ -407,7 +407,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="erase_application_description">Eliminar aplicações transferidas</string>
     <string name="erase_data">Eliminar</string>
     <string name="erase_internal_storage">Eliminar conteúdo armazenado</string>
-    <string name="erase_internal_storage_description">eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
+    <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
     <string name="erase_optional">Conteúdo</string>
     <string name="erase_personal_data">Dados pessoais</string>
     <string name="erase_personal_data_description">Excluir as informações da Conta Mi, dados de aplicações e configurações de sistema</string>
@@ -450,7 +450,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="free_wifi_manage_summary">Toque para visualizar a rede %1$s.</string>
     <string name="free_wifi_speed_title">ligação lenta?</string>
     <string name="free_wifi_summary">Toque para ligar à rede %1$s</string>
-    <string name="free_wifi_user_agreement">Quando  utiliza o WiWide para ligar a uma rede, o número de telefone será utilizado para verificar a identidade.</string>
+    <string name="free_wifi_user_agreement">Quando utiliza o WiWide para ligar a uma rede, o número de telefone será utilizado para verificar a identidade.</string>
     <string name="free_wifi_user_agreement_allow">Aceitar</string>
     <string name="free_wifi_user_agreement_title">Termos de Uso</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -488,8 +488,8 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="hints_auto_start_warning_info"> não receberá nenhuma mensagem ao proibir o início automático</string>
     <string name="hints_cache_header_left">Arquivos em cache: %d</string>
     <string name="hints_cleanning_text">A limpar…</string>
-    <string name="hints_finish_quick_cleanup">Limpeza terminada</string>
-    <string name="hints_finish_quick_cleanup_title">Limpeza terminada de %s lixos</string>
+    <string name="hints_finish_quick_cleanup">Limpeza concluida</string>
+    <string name="hints_finish_quick_cleanup_title">Limpeza concluida de %s lixos</string>
     <string name="hints_finish_quick_scan">Verificação concluída</string>
     <string name="hints_garbage_cleanup_result_danger">Perigoso</string>
     <string name="hints_garbage_cleanup_result_risk">Arriscado</string>
@@ -855,7 +855,7 @@ Selecione o sistema operacional:"</string>
     <string name="power_center_charge_time">Carga total em %1$s</string>
     <string name="power_center_consume_rank">Uso de energia</string>
     <string name="power_center_consume_time">%1$s restante</string>
-    <string name="power_center_custom_summary_default">Configurações de optimizacção para conservar a bateria</string>
+    <string name="power_center_custom_summary_default">Configurações de optimização para conservar a bateria</string>
     <string name="power_center_custom_title">Configuração da bateria</string>
     <string name="power_center_low_battery_summary_default">Alterne modos de energia quando a bateria estiver fraca</string>
     <string name="power_center_low_battery_summary_dynamic">Quando a bateria estiver abaixo de %1$d%% alternar para %2$s</string>
@@ -1031,7 +1031,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="pref_volume_wake_summary">Pressionar os botões de volume activa a ecrã do dispositivo</string>
     <string name="pref_volume_wake_title">Ligar o ecrã com botões de volume</string>
     <string name="preferred_app_settings">Aplicações prédefinidas</string>
-    <string name="preferred_app_settings_default">prédefinida</string>
+    <string name="preferred_app_settings_default">Prédefinida</string>
     <string name="preferred_app_settings_reset">Restaurar Aplicações prédefinidas?</string>
     <string name="preferred_app_settings_reset_message">Todas as preferências de Aplicações prédefinidas serão restauradas para as predefinições da MIUI.</string>
     <string name="preferred_application_title">Preferido: %s</string>
@@ -1248,8 +1248,8 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="title_show_notification_no">Exibição na barra de estado desactivada</string>
     <string name="title_show_notification_yes">Exibição na barra de estado activada</string>
     <string name="title_system_resource">Recursos do sistema</string>
-    <string name="title_usb_no">Depuracção USB activada</string>
-    <string name="title_usb_yes">Depuracção USB desactivada</string>
+    <string name="title_usb_no">Depuração USB activada</string>
+    <string name="title_usb_yes">Depuração USB desactivada</string>
     <string name="title_virus_no">Vírus detectado</string>
     <string name="title_virus_update_no">Actualização automática do antivírus desactivada</string>
     <string name="title_virus_update_yes">Actualização automática do antivírus activada</string>
@@ -1258,7 +1258,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="toast_app_no_residual_on_sdcard">A aplicação não possui nenhum arquivo armazenado no cartão SD</string>
     <string name="toast_backup_is_running">A Cópia de segurança já está em execução. Aguarde alguns minutos e tente novamente.</string>
     <string name="toast_backup_uninstall_failed">Erro na Cópia de segurança de %d aplicações. Aguarde alguns minutos e tente novamente.</string>
-    <string name="toast_backup_uninstall_success">Cópia de segurança e desinstalacção concluídos</string>
+    <string name="toast_backup_uninstall_success">Cópia de segurança e desinstalação concluídos</string>
     <string name="toast_garbage_cleanup_success">Concluído</string>
     <string name="toast_garbage_list_empty">Tudo parece estar bem, não é necessário Eliminar!</string>
     <string name="toast_lockscreen_glogin_empty_password">Escreva a palavra-passe</string>
@@ -1316,7 +1316,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="usb_host_mode_subtext">A duração da bateria pode ser reduzida ao utilizar controles de jogo e outros periféricos pela entrada USB</string>
     <string name="usb_host_mode_text">Activar modo host USB</string>
     <string name="usb_msd_driver_installer_summary">Obtenha drivers para Windows e Mac OS X</string>
-    <string name="usb_msd_driver_installer_title">Disco de instalacção de Driver (MSD)</string>
+    <string name="usb_msd_driver_installer_title">Disco de instalação de Driver (MSD)</string>
     <string name="usb_msd_summary">Transfira arquivos através do Windows ou Mac OS X</string>
     <string name="usb_msd_title">Dispositivo de armaz. em massa</string>
     <string name="user_add_user_message_long">"Partilhe este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador terá seu próprio espaço, que poderá personalizar com as próprios aplicações, plano de fundo, etc. Os utilizadors também poderão ajustar configurações do tablet que afectam a todos, como o Wi-Fi.
@@ -1336,15 +1336,15 @@ Adicione uma palavra tocando no botão Adicionar (+)"</string>
     <string name="virus_scan_app_find_risk">%d ameaças encontradas</string>
     <string name="virus_scan_app_finish">Verificação concluída</string>
     <string name="virus_scan_app_force_stop">Verificação interrompida</string>
-    <string name="virus_scan_app_is_stop_scan">Interromper verificacção?</string>
-    <string name="virus_scan_app_multi_engines">A verificacção poderá levar mais tempo.  está utilizando mais de um conjunto de definições.</string>
+    <string name="virus_scan_app_is_stop_scan">Interromper verificação?</string>
+    <string name="virus_scan_app_multi_engines">A verificação poderá levar mais tempo.  está utilizando mais de um conjunto de definições.</string>
     <string name="virus_scan_app_no_risk">Nenhuma ameaça encontrada</string>
     <string name="virus_scan_app_passed">Verificado</string>
     <string name="virus_scan_app_risk">Risco(s) detectado(s)</string>
     <string name="virus_scan_app_safe_scanning">A verificar…</string>
     <string name="virus_scan_app_scan_finish">Verificação concluída</string>
     <string name="virus_scan_app_scanning">A verificar…</string>
-    <string name="virus_scan_app_stop_scan">interromper verificacção</string>
+    <string name="virus_scan_app_stop_scan">interromper verificação</string>
     <string name="virus_scan_app_uninstall">Remover %d</string>
     <string name="virus_scan_app_waiting">A aguardar…</string>
     <string name="virus_scanner_auto_update">Actualizar automaticamente</string>
@@ -1381,9 +1381,9 @@ Adicione uma palavra tocando no botão Adicionar (+)"</string>
     <string name="vpn_routes_hint">Ex.: 10.0.0.0/8</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_settings_password">VPN</string>
-    <string name="wallpaper_desktop">ecrã inicial</string>
+    <string name="wallpaper_desktop">Ecrã inicial</string>
     <string name="wallpaper_live">Planos de fundo animados</string>
-    <string name="wallpaper_lockscreen">ecrã de bloqueio</string>
+    <string name="wallpaper_lockscreen">Ecrã de bloqueio</string>
     <string name="welcome">Bem-vindo</string>
     <string name="wfd_available_devices">Dispositivos disponíveis</string>
     <string name="wfd_disconnect_diag_msg">Se  interromper a sessão de ecrã Wi-Fi, a ligação com %1$s será finalizada.</string>
@@ -1454,7 +1454,7 @@ Adicione uma palavra tocando no botão Adicionar (+)"</string>
     <string name="wifi_setup_description_connected">Toque em <b>Avançar</b>" para continuar a configuração.
 
 Toque em "<b>Voltar</b> para ligar-se a outra rede Wi-Fi.</string>
-    <string name="wifi_setup_eap_not_supported"> não pode configurar uma ligação Wi-Fi EAP durante a instalacção. Após a instalacção inicial, aceder a Configurações > Redes sem fio e outras.</string>
+    <string name="wifi_setup_eap_not_supported"> não pode configurar uma ligação Wi-Fi EAP durante a instalação. Após a instalação inicial, aceder a Configurações > Redes sem fio e outras.</string>
     <string name="wifi_setup_title">Configuração de Wi-Fi</string>
     <string name="wifi_setup_title_connected_network">ligado à rede Wi-Fi %s</string>
     <string name="wifi_setup_title_connecting_network">A ligar à rede Wi-Fi %s…</string>
