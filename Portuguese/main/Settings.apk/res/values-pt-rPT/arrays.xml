@@ -94,7 +94,7 @@
         <item>Sessão iniciada</item>
         <item>A finalizar sessão…</item>
         <item>Não foi possível iniciar sessão</item>
-        <item>Tempo esgotado. Repetindo…</item>
+        <item>Tempo esgotado. A repetir…</item>
         <item>Dispositivo ligado</item>
     </string-array>
     <string-array name="power_mode_entries">
@@ -134,12 +134,12 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Quente</item>
-        <item>Padrão</item>
+        <item>Prédefinido</item>
         <item>Fria</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brilhante</item>
-        <item>Padrão</item>
+        <item>Prédefinido</item>
     </string-array>
     <string-array name="perms_hips_values">
         <item>2</item>
@@ -172,7 +172,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_connect_type_entries">
         <item>Ligar-se automaticamente</item>
         <item>Ligar-se manualmente</item>
-        <item>Sempre perguntar</item>
+        <item>Perguntar sempre</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 minutos</item>
@@ -248,7 +248,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="network_speed_slow_summary">
         <item>A rede está lenta devido a um alto tráfego de dados</item>
         <item>A rede está lenta devido ao sinal fraco</item>
-        <item>Movendo…</item>
+        <item>A mover…</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Armazenamento interno</item>
