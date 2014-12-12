@@ -14,13 +14,13 @@
     <string name="download_unknown_title">&lt;Sem título></string>
     <string name="notification_download_complete">Transferençia concluída.</string>
     <string name="notification_download_failed">Erro na Transferençia.</string>
-    <string name="notification_need_wifi_for_size">O tamanho da Transferençia requer ligação Wi-Fi.</string>
+    <string name="notification_need_wifi_for_size">O tamanho da Transferençia requer uma ligação Wi-Fi.</string>
     <string name="notification_paused_in_background">Pausa. em segundo plano.</string>
     <string name="permdesc_accessAllDownloads">Permite que a aplicação visualize e modifique todas as Transferençias iniciadas por uma aplicação no sistema.</string>
     <string name="permdesc_downloadCacheNonPurgeable">Permite que a aplicação. Realize Transferençias de arquivos na cache de Transferençias, que não podem ser excluidas. automatico. quando o gestor. de Transferençias necessitar de mais espaço.</string>
     <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre Transferençiaa concluídas. aplicações maliciosas podem usar este envio para confundir outras aplicações que fazem Transferençia de arquivos.</string>
-    <string name="permdesc_downloadManager">Permite que o aplicação aceda o gestor de Transferençias e use para realizar Transferençias de arquivos. aplicações maliciosas podem usar essa acção para interromper Transferençias e aceder a informações privadas.</string>
-    <string name="permdesc_downloadManagerAdvanced">Permite que a aplicação aceda a funções avançadas do gestor de Transferençias. aplicações maliciosas podem utilizar esta ação para interromper Transferençias e aceder a informações privadas.</string>
+    <string name="permdesc_downloadManager">Permite á aplicação aceder ao gestor de Transferençias e use para realizar Transferençias de arquivos. Aplicações maliciosas podem usar essa acção para interromper Transferençias e aceder a informações privadas.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite á aplicação aceder a funções avançadas do gestor de Transferençias. Aplicações maliciosas podem utilizar esta acção para interromper Transferençias e aceder a informações privadas.</string>
     <string name="permdesc_downloadWithoutNotification">Permite que a aplicação realize Transferençias de arquivos por meio do gestor de Transferençias sem exibir notificações ao utlizador.</string>
     <string name="permdesc_seeAllExternal">Permite que a aplicação veja todos as Transferençias do cartão SD, independentemente de sua origem.</string>
     <string name="permlab_accessAllDownloads">Aceder a todas as Transferençias do sistema</string>
@@ -37,6 +37,6 @@
     <string name="wifi_recommended_title">Colocar em espera para Transferir mais tarde?</string>
     <string name="wifi_required_body" formatted="false">Usar o Wi-Fi para terminar a Transferençia de %s . 
 
-Toque em %s  para começar a Transferençia da próxima vez que você estiver ligado a uma rede Wi-Fi."</string>
+Toque em %s  para iniciar a Transferençia da próxima vez que você estiver ligado a uma rede Wi-Fi."</string>
     <string name="wifi_required_title">Transferençia muito grande para a rede da operadora</string>
 </resources>
