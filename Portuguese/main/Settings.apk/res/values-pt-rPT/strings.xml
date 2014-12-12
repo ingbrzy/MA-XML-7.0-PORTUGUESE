@@ -305,7 +305,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="dialog_title_hdmi_color_calibration">Predefinição de correção de cor</string>
     <string name="dialog_title_load_cleanup_engine_error">Erro</string>
     <string name="dialog_title_login">Iniciar sessão na Conta Mi</string>
-    <string name="dialog_title_stop_virus_scan">Interromper verificacção</string>
+    <string name="dialog_title_stop_virus_scan">Interromper verificação</string>
     <string name="dialog_title_uninstall_apps">Desinstalar</string>
     <string name="dialog_yes">Sim</string>
     <string name="dirac_control">Optimizar qualidade de áudio</string>
@@ -485,7 +485,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="hints_apps_perm_count">Permissões de %d</string>
     <string name="hints_auto_start_disable_title">Desactivar início automático de %d Aplicações</string>
     <string name="hints_auto_start_enable_title">Activar início automático de %d Aplicações</string>
-    <string name="hints_auto_start_warning_info"> não receberá nenhuma mensagem ao proibir o início automático</string>
+    <string name="hints_auto_start_warning_info">Não receberá nenhuma mensagem ao proibir o início automático</string>
     <string name="hints_cache_header_left">Arquivos em cache: %d</string>
     <string name="hints_cleanning_text">A limpar…</string>
     <string name="hints_finish_quick_cleanup">Limpeza concluida</string>
@@ -522,7 +522,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="hints_latest_garbage_cleanup_today">Última limpeza: Hoje</string>
     <string name="hints_latest_garbage_cleanup_yesterday">Última limpeza: Ontem</string>
     <string name="hints_loading_text">A carregar</string>
-    <string name="hints_need_quick_scan">Uma verificacção rápida é necessária</string>
+    <string name="hints_need_quick_scan">Uma verificação rápida é necessária</string>
     <string name="hints_no_info">Sem informações</string>
     <string name="hints_permission_apps_count">%d Aplicações</string>
     <string name="hints_power_percent_title">Energia</string>
@@ -549,7 +549,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="hints_virus_descx_title">Descrição do vírus:</string>
     <string name="hints_virus_lib_update_default_summary">Última Actualização: desconhecida</string>
     <string name="hints_virus_name_title">Nome do vírus:</string>
-    <string name="hints_virus_scan_result_descx">Esta aplicacção apresenta riscos para a segurança do telefone.</string>
+    <string name="hints_virus_scan_result_descx">Esta aplicação apresenta riscos para a segurança do telefone.</string>
     <string name="home_key">Botão Home</string>
     <string name="ime_security_warning">Este método de entrada pode colectar todo o texto que digita, incluindo dados pessoais, como palavra-passes e números de cartão de crédito. É um método da aplicacção %1$s.</string>
     <string name="incoming_call_breathing_light_color_title">Cor do LED para chamadas</string>
@@ -755,8 +755,8 @@ Selecione o sistema operacional:"</string>
     <string name="music_audio_effect_settings">Efeitos de áudio</string>
     <string name="music_dirac_mode_earbuds">Mi earbuds</string>
     <string name="music_dirac_mode_general">Geral</string>
-    <string name="music_dirac_mode_general_earbuds">Auriculares padrão</string>
-    <string name="music_dirac_mode_general_inear">In-ear padrão</string>
+    <string name="music_dirac_mode_general_earbuds">Auriculares prédefinidos</string>
+    <string name="music_dirac_mode_general_inear">In-ear prédefinidos</string>
     <string name="music_dirac_mode_in_ear">Mi in-ear</string>
     <string name="music_dirac_mode_piston_100">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
@@ -773,7 +773,7 @@ Selecione o sistema operacional:"</string>
     <string name="music_headset_calibrate_success">Configurações aplicadas</string>
     <string name="music_headset_calibrate_volume_down">Diminuir volume</string>
     <string name="music_headset_calibrate_volume_up">Aumentar volume</string>
-    <string name="music_headset_calibrate_wrong_key">Este não é o botão correto</string>
+    <string name="music_headset_calibrate_wrong_key">Este não é o botão correcto</string>
     <string name="music_headset_mode_music">Controlar música</string>
     <string name="music_headset_mode_volume">Ajuste de volume</string>
     <string name="music_headset_no_contected">Nenhum auricular ligado</string>
@@ -986,7 +986,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="power_save_low_battery_percentage_twenty">20%</string>
     <string name="power_save_low_battery_seekbar_title">Alterne modos de energia quando a bateria estiver menor que %1$d%%</string>
     <string name="power_save_low_battery_title">Perfis automáticos</string>
-    <string name="power_save_on_time_auto_save_title">Programacção de perfis</string>
+    <string name="power_save_on_time_auto_save_title">Programação de perfis</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_end_time_summary">Término</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1041,7 +1041,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="preferred_application_warning_use_system">Manter %s como prédefinidas</string>
     <string name="preferred_media_app_summary">Selecionar reprodutor de músicas</string>
     <string name="preferred_sms_settings">Esta aplicação será definida como prédefinida para ler e escrever mensagens de texto.</string>
-    <string name="preferred_sms_title">Aplicacção de mensagens prédefinida</string>
+    <string name="preferred_sms_title">Aplicação de mensagens prédefinida</string>
     <string name="preferred_sms_warning_message">Utilizar \"%1$s\" como aplicação prédefinida de mensagens poderá aumentar o uso de dados ou comprometer a segurança de dados.</string>
     <string name="preferred_sms_warning_use_system">Não utilizar</string>
     <string name="priority_storage_app_settings">Os dados serão guardados no %1$s</string>
@@ -1087,7 +1087,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="ringtone_slot_setting_title">Configurações de SIM unico</string>
     <string name="ringtone_uniform_setting_title">Configurações de SIM Duplo</string>
     <string name="risk_list_header_title">%d Aplicações suspeitas detectadas!</string>
-    <string name="root_apply_step_1">Conceder acesso root á aplicacção %s?</string>
+    <string name="root_apply_step_1">Conceder acesso root á aplicação %s?</string>
     <string name="root_apply_step_2">A concessão de permissões root a uma aplicação pode causar instabilidades no dispositivo.</string>
     <string name="root_apply_step_3">A segurança de seus dados (contas, palavra-passes e mensagens) pode ser comprometida.</string>
     <string name="root_apply_step_4">Conceda estas permissões por sua conta e risco.</string>
@@ -1218,7 +1218,7 @@ O dispositivo está definido para alternar para esta configuração quando a bat
     <string name="summary_virus_update">Actualiza as definições do antivírus automaticamente quando ligado ao Wi-Fi</string>
     <string name="symbols_not_allowed_for_password">A palavra-passe não pode conter símbolos</string>
     <string name="sync_enable">Activar sincronização automática</string>
-    <string name="sync_settings">Sincronizacção</string>
+    <string name="sync_settings">Sincronização</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Somente por Wi-Fi</string>
     <string name="system">Sistema</string>
@@ -1468,7 +1468,7 @@ Toque em "<b>Voltar</b> para ligar-se a outra rede Wi-Fi.</string>
     <string name="wifi_share_add_summary">"Quando partilha suas redes públicas,
   pode usar a rede de outros utilizadores também"</string>
     <string name="wifi_share_connect">ligar</string>
-    <string name="wifi_share_connected_summary"> está ligado a uma rede Wi-Fi pública que foi partilhada por outro utilizador</string>
+    <string name="wifi_share_connected_summary">Está ligado a uma rede Wi-Fi pública que foi partilhada por outro utilizador</string>
     <string name="wifi_share_connected_title">Wi-Fi partilhada da MIUI</string>
     <string name="wifi_share_count">Partilhou %d redes</string>
     <string name="wifi_share_current_network">Rede actual</string>
