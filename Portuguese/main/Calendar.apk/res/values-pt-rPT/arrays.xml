@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notificação</item>
-        <item>E-mail</item>
+        <item>Email</item>
         <item>SMS</item>
         <item>Alarme</item>
     </string-array>
@@ -32,9 +32,9 @@
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Local prédefenido</item>
-        <item>Sábado</item>
-        <item>Domingo</item>
-        <item>Segunda-feira</item>
+        <item>Sáb</item>
+        <item>Dom</item>
+        <item>Seg</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
