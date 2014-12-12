@@ -122,7 +122,7 @@
     <string name="account_setup_incoming_mail_adress_label">Endereço de email</string>
     <string name="account_setup_incoming_mail_domain_hint">Opcional</string>
     <string name="account_setup_incoming_mail_domain_label">Domínio</string>
-    <string name="account_setup_incoming_password_label">palavra-passe</string>
+    <string name="account_setup_incoming_password_label">Palavra-passe</string>
     <string name="account_setup_incoming_port_label">Porta</string>
     <string name="account_setup_incoming_security_label">Tipo de segurança</string>
     <string name="account_setup_incoming_security_none_label">Nenhum</string>
@@ -204,7 +204,7 @@
     <string name="always_show_images">Sempre exibir fotos deste remetente</string>
     <string name="always_show_images_toast">As imagens deste remetente serão mostradas automaticamente.</string>
     <string name="annex_size">Anexos</string>
-    <string name="app_name">email</string>
+    <string name="app_name">EMAIL</string>
     <string name="application_mime_type">aplicação/email-ls</string>
     <string name="archive">Arquivar</string>
     <string name="archived">Arquivada</string>
@@ -267,8 +267,8 @@
     <string name="change_folders_selection_dialog_title">Alterar pastas</string>
     <string name="change_sync_settings">Alterar config. de sincr.</string>
     <string name="chat_type_name">conversas</string>
-    <string name="check_setup_data">Validando configurações do servidor…</string>
-    <string name="checking_for_mail">Verificando email</string>
+    <string name="check_setup_data">A validar configurações do servidor…</string>
+    <string name="checking_for_mail">A verificar email</string>
     <string name="choosertitle_sharevia">Partilhar via</string>
     <string name="clear">Eliminar</string>
     <string name="clear_display_images_whitelist_dialog_message">Não exibir mais imagens inline de remetentes que autorizou anteriormente.</string>
@@ -284,7 +284,7 @@
     <string name="confirm">Confirmar</string>
     <string name="confirm_delete">Excluir este email?</string>
     <string name="confirm_Marcard_text">Cancelar esta mensagem?</string>
-    <string name="confirm_response">Enviando resposta…</string>
+    <string name="confirm_response">A enviar resposta…</string>
     <string name="confirm_save_message_no">Não</string>
     <string name="confirm_save_message_title">Guardar como sarcunho?</string>
     <string name="confirm_save_message_yes">Sim</string>
@@ -297,7 +297,7 @@
     <string name="contact_info_string_default">Exibir informações de contacto</string>
     <string name="contact_list_add_btn">Adicionar</string>
     <string name="contact_list_search_hint">Pesquisar contactos</string>
-    <string name="contact_list_title">contactos</string>
+    <string name="contact_list_title">Contactos</string>
     <string name="contact_select">Selecionar contactos</string>
     <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
     <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
@@ -398,7 +398,7 @@
     <string name="feedback">Enviar comentários</string>
     <string name="feedback_body">Comentários</string>
     <string name="feedback_sent">Obrigado por seus comentários</string>
-    <string name="fetching_attachment">Localizando anexo</string>
+    <string name="fetching_attachment">A localizar anexo</string>
     <string name="file_deleted_success">Arquivo excluído</string>
     <string name="file_not_found">Arquivo não encontrado</string>
     <string name="file_not_found_reDownload">Arquivo não encontrado</string>
@@ -625,9 +625,9 @@ Cc: %4$s
     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do ecrã de bloqueio logo, ou os dados da %s serão eliminados. Deseja mudar isso agora?</string>
     <string name="password_expire_warning_dialog_title">Palavra-passe do ecrã de bloqueio expirando</string>
     <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a palavra-passe ou PIN no ecrã de bloqueio.</string>
-    <string name="password_expired_content_title">palavra-passe no ecrã de bloqueio expirada</string>
+    <string name="password_expired_content_title">Palavra-passe no ecrã de bloqueio expirada</string>
     <string name="password_expired_dialog_content_fmt">Os dados da %s estão sendo eliminados do dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do ecrã de bloqueio. Deseja mudar isso agora?</string>
-    <string name="password_expired_dialog_title">palavra-passe do ecrã de bloqueio expirada</string>
+    <string name="password_expired_dialog_title">Palavra-passe do ecrã de bloqueio expirada</string>
     <string name="password_expired_ticker">A palavra-passe ou PIN do ecrã de bloqueio expirou.</string>
   <string name="perference_change_pw">Alterar palavra-passe</string>
   <string name="perference_change_pw_notnull_tips">Digite sua palavra-passe</string>
