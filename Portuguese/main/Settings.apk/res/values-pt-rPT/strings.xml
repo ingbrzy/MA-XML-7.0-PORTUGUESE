@@ -10,16 +10,16 @@
     <string name="ac_privacy_mode_title">Palavra-passe</string>
     <string name="ac_set_apps_title">Proteger Aplicações</string>
     <string name="access_control_app_entry_multiple">Executar %s</string>
-    <string name="access_control_app_entry_single">Executar app</string>
+    <string name="access_control_app_entry_single">Executar aplicação</string>
     <string name="access_control_need_password">"%s é protegido por palavra-passe
 "</string>
-    <string name="access_control_need_to_unlock">Palavra-passe requerida:</string>
+    <string name="access_control_need_to_unlock">Necessário Palavra-passe:</string>
     <string name="access_control_no_back_footer">Toque em [icon] para sair</string>
     <string name="access_control_password_title">Palavra-passe</string>
     <string name="access_control_recording_intro_header">Desenhe um padrão para desbloqueio:</string>
     <string name="access_control_reset_by_account">Inicie sessão na Conta Mi para redefinir a palavra-passe</string>
     <string name="accessibility_enable">Acessibilidade</string>
-    <string name="accessibility_screen_magnification_enable">Gestos de ampliacção</string>
+    <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
     <string name="account_add">Adicionar</string>
     <string name="account_autostar_label">Gerir início automático</string>
     <string name="account_list">Tudo</string>
@@ -106,7 +106,7 @@ Activar janelas flutuantes?"</string>
     <string name="auto_startup_count">%d Aplicações podem iniciar automaticamente</string>
     <string name="available_size">%s disponível</string>
     <string name="back_key">Botão Voltar</string>
-    <string name="backup_data_summary">Fazer Cópia de segurança de dados de aplicações, palavra-passes de redes Wi-Fi e outras configurações nos servidores do Google</string>
+    <string name="backup_data_summary">Realizar Cópia de segurança de dados de aplicações, palavra-passes de redes Wi-Fi e outras configurações nos servidores do Google</string>
     <string name="backup_erase_dialog_message">Interromper a Cópia de segurança da palavra-passes de redes Wi-Fi, favoritos, outras configurações e dados de aplicações e eliminar todas as cópias nos servidores do Google?</string>
     <string name="battery_action_wifi">Configurações de Wi-Fi</string>
     <string name="battery_desc_apps">Bateria utilizada pela aplicacção</string>
@@ -207,12 +207,12 @@ Activar janelas flutuantes?"</string>
     <string name="cache_title_empty_folder">Pasta vazia (%d)</string>
     <string name="cache_title_empty_folder2">Pasta vazia</string>
     <string name="cache_title_system_cache">Cache do sistema</string>
-    <string name="camera_key_action_app_title">Executar app</string>
+    <string name="camera_key_action_app_title">Executar aplicação</string>
     <string name="camera_key_action_category_title">Não é possível utilizar a Câmera</string>
     <string name="camera_key_action_none_title">Nenhuma acção</string>
     <string name="camera_key_action_setting_title">Botão MI</string>
     <string name="camera_key_action_shortcut_call">Chamada</string>
-    <string name="camera_key_action_shortcut_home">ecrã inicial</string>
+    <string name="camera_key_action_shortcut_home">Ecrã inicial</string>
     <string name="camera_key_action_shortcut_screenshot">Captura de ecrã</string>
     <string name="camera_key_action_shortcut_search">Pesquisar</string>
     <string name="camera_key_action_shortcut_title">Atalho</string>
@@ -431,7 +431,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_small">Pequena</string>
     <string name="font_size_summary">Alterar o tamanho da fonte do sistema operacional</string>
-    <string name="forget_wifi_message">O telefone irá parar de ligar a esta rede automaticamente.</string>
+    <string name="forget_wifi_message">O telefone irá parar de se ligar a esta rede automaticamente.</string>
     <string name="found_new_version">Actualização disponível</string>
     <string name="free_wifi_agreement_remind_never">Não Exibir novamente</string>
     <string name="free_wifi_confirm">OK</string>
@@ -1389,7 +1389,7 @@ Adicione uma palavra tocando no botão Adicionar (+)"</string>
     <string name="wfd_disconnect_diag_msg">Se  interromper a sessão de ecrã Wi-Fi, a ligação com %1$s será finalizada.</string>
     <string name="wfd_disconnect_diag_title">Desligar sessão?</string>
     <string name="wfd_disconnect_multiple_diag_message">Se  interromper a sessão de ecrã Wi-Fi, a ligação com %1$s e %2$s outros dispositivos serão finalizadas.</string>
-    <string name="wfd_enable_wifi_diag_title"> só pode utilizar o ecrã Wi-Fi quando o Wi-Fi está activo. Activá-lo agora?</string>
+    <string name="wfd_enable_wifi_diag_title">Só pode utilizar o ecrã Wi-Fi quando o Wi-Fi está activo. Activá-lo agora?</string>
     <string name="wfd_enabler_title">Activar ecrã Wi-Fi</string>
     <string name="wfd_menu_search">Pesquisar dispositivos</string>
     <string name="wfd_menu_searching">A localizar…</string>
