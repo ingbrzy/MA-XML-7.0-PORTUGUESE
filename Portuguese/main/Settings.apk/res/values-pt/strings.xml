@@ -2,17 +2,17 @@
 <resources>
     <string name="about_settings">Sobre o telefone</string>
     <string name="about_settings_summary">Ver informações legais, estado, versão do software</string>
-    <string name="accelerometer_summary_off">Alternar orientacção automaticamente ao girar o telefone</string>
-    <string name="accelerometer_summary_on">Alternar orientacção automaticamente ao girar o telefone</string>
+    <string name="accelerometer_summary_off">Alternar orientação automaticamente ao girar o telefone</string>
+    <string name="accelerometer_summary_on">Alternar orientação automaticamente ao girar o telefone</string>
     <string name="accelerometer_title">Girar ecrã</string>
     <string name="accessibility_captioning_title">Legendas</string>
     <string name="accessibility_feature_state_off">Desactivado</string>
     <string name="accessibility_feature_state_on">Activado</string>
-    <string name="accessibility_global_gesture_preference_description">"Quando este recurso está activado, pode activar rapidamente os recursos de acessibilidade em duas etapas:
+    <string name="accessibility_global_gesture_preference_description">"Quando este recurso está activo, pode activar rapidamente os recursos de acessibilidade em duas etapas:
 
 Etapa 1: pressione e segure o botão liga/desliga até ouvir um som ou sentir uma vibração.
 
-Etapa 2: toque e segure com dois dedos até ouvir a confirmacção de áudio.
+Etapa 2: toque e segure com dois dedos até ouvir a confirmação de áudio.
 
 Caso o dispositivo tenha vários utilizadores, este atalho no ecrã de bloqueio pode activar temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
     <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
@@ -31,29 +31,29 @@ Quando o zoom é aplicado, pode:
  também pode ampliar temporariamente o que estiver sob o dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, excepto no teclado e na barra de navegacção."</string>
-    <string name="accessibility_screen_magnification_title">Gestos de ampliacção</string>
+    <string name="accessibility_screen_magnification_title">Gestos de ampliacão</string>
     <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
     <string name="accessibility_service_no_apps_message">O TalkBack fornece comentários por voz para ajudar utilizadores cegos ou com visão reduzida. Deseja instalá-lo gratuitamente do Android Market?</string>
     <string name="accessibility_service_no_apps_title">Precisa de um leitor de ecrã?</string>
     <string name="accessibility_services_title">Serviços</string>
     <string name="accessibility_settings">Acessibilidade</string>
     <string name="accessibility_settings_title">Configurações de acessibilidade</string>
-    <string name="accessibility_sync_disabled">Sincronizacção desactivada</string>
-    <string name="accessibility_sync_enabled">Sincronizacção activada</string>
-    <string name="accessibility_sync_error">Erro de sincronizacção.</string>
+    <string name="accessibility_sync_disabled">Sincronização desactivada</string>
+    <string name="accessibility_sync_enabled">Sincronização activada</string>
+    <string name="accessibility_sync_error">Erro de sincronizacão.</string>
     <string name="accessibility_system_title">Sistema</string>
     <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualiz. ampliacção do ecrã em transições de aplic.</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Atualiz. ampliacão do ecrã em transições de aplic.</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Atual. autom. da ampliacção do ecrã</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title">Ampliacção do ecrã</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Ampliacão do ecrã</string>
     <string name="accessibility_toggle_speak_password_preference_title">Falar palavras-passe</string>
     <string name="account_settings">Contas</string>
-    <string name="account_sync_settings_title">Sincronizacção</string>
+    <string name="account_sync_settings_title">Sincronização</string>
     <string name="active_device_admin_msg">Administrador do dispositivo</string>
     <string name="active_input_method_subtypes">Métodos activos de entrada</string>
     <string name="activity_not_found">A aplicação não está instalada no telefone.</string>
     <string name="activity_picker_label">Selecione a actividade</string>
-    <string name="adb_keys_warning_message">Revogar o acesso à depuracção USB para todos os computadores autorizados?</string>
+    <string name="adb_keys_warning_message">Revogar o acesso à depuração USB para todos os computadores autorizados?</string>
     <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Use-a para copiar dados entre o computador e o dispositivo, instalar aplicações no dispositivo sem notificacção e ler dados de registro.</string>
     <string name="adb_warning_title">Permitir a depuração USB?</string>
     <string name="add_account_label">Adicionar conta</string>
@@ -259,7 +259,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="biometric_weak_liveliness_title">Verificação de presença viva</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio da média</string>
-    <string name="bluetooth_a2dp_profile_summary_use_for">Usar para áudio de média</string>
+    <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio de média</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avançado</string>
     <string name="bluetooth_ask_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth por %1$d segundos.</string>
     <string name="bluetooth_ask_enablement">Uma aplicação quer activar o Bluetooth.</string>
@@ -278,7 +278,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_connecting_error_message">Não foi possível ligar ao %1$s.</string>
     <string name="bluetooth_connection_dialog_text">Deseja ligar-se ao \"%1$s\"?</string>
     <string name="bluetooth_connection_notif_message">Toque para ligar-se a \"%1$s\".</string>
-    <string name="bluetooth_connection_permission_request">Solicitação de ligação Bluetooth</string>
+    <string name="bluetooth_connection_permission_request">Pedido de ligação Bluetooth</string>
     <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Permitir transfer. de arquivo</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Liga-se ao dispositivo Bluetooth</string>
@@ -596,13 +596,13 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="date_picker_title">data</string>
     <string name="date_time_24hour">Formato de 24 horas</string>
     <string name="date_time_auto">Data e hora automáticas</string>
-    <string name="date_time_auto_summaryOff">Usar horário fornecido pela rede</string>
+    <string name="date_time_auto_summaryOff">Utilizar horário fornecido pela rede</string>
     <string name="date_time_auto_summaryOn">Utilizar horário fornecido pela rede</string>
     <string name="date_time_date_format">Escolher formato de data</string>
     <string name="date_time_set_date">Definir data</string>
     <string name="date_time_set_time">Definir hora</string>
     <string name="date_time_set_timezone">Selecionar fuso horário</string>
-    <string name="debug_app">Selecionar aplicação de depuracção</string>
+    <string name="debug_app">Selecionar aplicação de depuração</string>
     <string name="debug_app_not_set">Nenhum conjunto de aplicações de depuração</string>
     <string name="debug_app_set">Aplicação de depuração: %1$s</string>
     <string name="debug_applications_category">Aplicações</string>
@@ -704,7 +704,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="filter_apps_all">Todos</string>
     <string name="filter_apps_disabled">Desactivados</string>
     <string name="filter_apps_onsdcard">Armazenamento USB</string>
-    <string name="filter_apps_running">Correndo</string>
+    <string name="filter_apps_running">A correr</string>
     <string name="filter_apps_third_party">Transferidos</string>
     <string name="filter_dlg_title">Selecione as opções de filtro</string>
     <string name="finish_button_label">Concluir</string>
@@ -1054,7 +1054,7 @@ Para Eliminar músicas, fotos e outros dados de utilizador, o "<b>armazenamento 
     <string name="pin_failed">Erro na operação de PIN do SIM.</string>
     <string name="ping_test_label">Executar teste de ping</string>
     <string name="please_select_phase2">Autenticação da Fase 2</string>
-    <string name="pointer_location">localização do ponteiro</string>
+    <string name="pointer_location">Localização do ponteiro</string>
     <string name="pointer_location_summary">Exibir dados de toque</string>
     <string name="pointer_settings_category">Mouse/trackpad</string>
     <string name="pointer_speed">Velocidade do ponteiro</string>
@@ -1352,7 +1352,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="show_cpu_usage">Exibir o uso da CPU</string>
     <string name="show_cpu_usage_summary">Sobreposição de ecrã que mostra o uso da CPU actual</string>
     <string name="show_dev_already">Não é necessário. Já é um desenvolvedor.</string>
-    <string name="show_dev_on">É agora um desenvolvedor!</string>
+    <string name="show_dev_on">Está agora em modo de  desenvolvedor!</string>
     <string name="show_hw_layers_updates">Actual. camad. de hardware</string>
     <string name="show_hw_layers_updates_summary">Piscar camadas de hardware em verde ao Actualizar</string>
     <string name="show_hw_screen_updates">Exibir atualiz. da GPU</string>
