@@ -75,7 +75,7 @@ Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, 
     <string name="android_beam_disabled_summary">Indisponível porque o NFC está Desactivado</string>
     <string name="android_beam_explained">"Quando este recurso está activado,  pode enviar o conteúdo da aplicação para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo,  pode enviar páginas do navegador, vídeos do YouTube, contatos de pessoas e muito mais.
 
-Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar noecrã. A aplicação determina o que é enviado."</string>
+Basta posicionar os dispositivos próximos (normalmente de costas um para o outro) e tocar no ecrã. A aplicação determina o que é enviado."</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Desactivado</string>
     <string name="android_beam_on_summary">Pronto para transmitir conteúdo de aplicações via NFC</string>
@@ -144,7 +144,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="auto_caps">Capitaliz. automática</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas sentenças com letra maiúscula</string>
     <string name="auto_launch_disable_text">Nenhuma predefinição definida.</string>
-    <string name="auto_launch_enable_text"> decidiu lançar esta aplicação por predefinição para algumas acções.</string>
+    <string name="auto_launch_enable_text">Decidiu lançar esta aplicação por predefinição para algumas acções.</string>
     <string name="auto_launch_label">Iniciar por predefinição</string>
     <string name="auto_launch_label_generic">Predefinições</string>
     <string name="auto_punctuate">Pontuação automática</string>
@@ -158,7 +158,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="background_data">dados de segundo plano</string>
     <string name="background_data_dialog_message">A desactivação dos dados de segundo plano estende a vida útil da bateria e diminui o uso dos dados. algumas aplicações ainda podem usar a ligação de dados de segundo plano.</string>
     <string name="background_data_dialog_title">Des. dados 2º plan.?</string>
-    <string name="background_data_summary">Aplic. sincronizam, enviam e recebem dados a qualquer hora</string>
+    <string name="background_data_summary">Aplic. Sincronizam, enviam e recebem dados a qualquer hora</string>
     <string name="background_process_stop_description">Este é um processo de aplicação antigo que ainda está em execução caso seja necessário novamente. Geralmente, não há motivo para interrompê-lo.</string>
     <string name="backup_configure_account_default_summary">Nenhuma conta está armazenando a Cópia de segurança dos dados</string>
     <string name="backup_configure_account_title">Conta de Cópia de segurança</string>
@@ -211,11 +211,11 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="battery_info_level_label">Nível da bateria:</string>
     <string name="battery_info_power_ac">CA</string>
     <string name="battery_info_power_ac_usb">CA+USB</string>
-    <string name="battery_info_power_label">Tomada de alimentacção:</string>
+    <string name="battery_info_power_label">Tomada de alimentação:</string>
     <string name="battery_info_power_unknown">Desconhecido</string>
     <string name="battery_info_power_unplugged">Desligado</string>
     <string name="battery_info_power_usb">USB</string>
-    <string name="battery_info_power_wireless">sem fio</string>
+    <string name="battery_info_power_wireless">Sem fio</string>
     <string name="battery_info_scale_label">Escala da bateria:</string>
     <string name="battery_info_screen_on">Tempo activo do ecrã:</string>
     <string name="battery_info_Estado_charging">A carregar</string>
@@ -230,13 +230,13 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="battery_info_technology_label">Tecnologia da bateria:</string>
     <string name="battery_info_temperature_label">Temperatura da bateria:</string>
     <string name="battery_info_temperature_units">° C</string>
-    <string name="battery_info_uptime">Tempo desde a inicializacção:</string>
+    <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_voltage_label">Voltagem da bateria:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_level_title">Nível da bateria</string>
     <string name="battery_since_reset">Uso da bateria desde a redefinição</string>
     <string name="battery_since_unplugged">Uso da bateria desde que desligou o Dispositivo</string>
-    <string name="battery_stats_charging_label">a carregar</string>
+    <string name="battery_stats_charging_label">A carregar</string>
     <string name="battery_stats_duration">%1$s desde que foi desligado</string>
     <string name="battery_stats_gps_on_label">GPS ligado</string>
     <string name="battery_stats_on_battery">%1$s na bateria</string>
@@ -266,7 +266,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação quer activar o Bluetooth e tornar o telefone visível para outros dispositivos por %1$d segundos.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação quer activar o Bluetooth e tornar o telefone visível para outros dispositivos.  pode alterar esta opção a qualquer momento nas configurações do Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth.  pode alterar esta opção a qualquer momento nas configurações do Bluetooth.</string>
-    <string name="bluetooth_auto_connect">ligação automática</string>
+    <string name="bluetooth_auto_connect">Ligação automática</string>
     <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se ele está exibindo a seguinte palavra-passe:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_specific_profiles_title">Ligar-se a...</string>
     <string name="bluetooth_connected">Ligado</string>
@@ -311,7 +311,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_dock_settings_a2dp">Para música e média</string>
     <string name="bluetooth_dock_settings_headset">Como Alta-voz</string>
     <string name="bluetooth_dock_settings_remember">Lembrar configurações</string>
-    <string name="bluetooth_dock_settings_title">Usar suporte secretária para áudio</string>
+    <string name="bluetooth_dock_settings_title">Utilizar suporte secretária para áudio</string>
     <string name="bluetooth_empty_list_bluetooth_off">"Para ver os dispositivos, active o Bluetooth."</string>
     <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
     <string name="bluetooth_enter_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Digite o código solicitada pelo dispositivo:</string>
@@ -343,7 +343,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_only_visible_to_paired_devices">Visível somente para dispositivos emparelhados</string>
     <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de arquivo</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Não está Ligado ao servidor de transferência de arquivo</string>
-    <string name="bluetooth_opp_profile_summary_use_for">Usado para transferência de arquivo</string>
+    <string name="bluetooth_opp_profile_summary_use_for">Utilizado para transferência de arquivo</string>
     <string name="bluetooth_pairing">A emparelhar…</string>
     <string name="bluetooth_pairing_accept">Emparelhar</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -352,10 +352,10 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_pairing_pin_error_message">Não foi possível emparelhar com %1$s por causa de um PIN ou palavra-passe incorretos.</string>
     <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s.</string>
     <string name="bluetooth_pairing_request">Solicitação de emparelhamento Bluetooth</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">Compart. ligação local de Intern. com disp.</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">Part. ligação local de Intern. com disp.</string>
     <string name="bluetooth_pan_profile_summary_use_for">Usar para acesso à Internet</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Ligado ao dispositivo para acesso à Internet</string>
-    <string name="bluetooth_pb_acceptance_dialog_text">%1$s deseja aceder seus contatos e o histórico de chamadas. Conceder acesso a %2$s?</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">%1$s deseja aceder seus contactos e o histórico de chamadas. Conceder acesso a %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
     <string name="bluetooth_permission_request">Solicitação de permissão para Bluetooth</string>
     <string name="bluetooth_phonebook_request">Solicitação de acesso à agenda telefônica</string>
@@ -475,7 +475,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="credentials_install_gesture_prompt">Desenhe o padrão de desbloqueio</string>
     <string name="credentials_install_summary">Instalar certificados do armazenamento</string>
     <string name="credentials_not_erased">Armaz. de creden. não eliminado.</string>
-    <string name="credentials_old_password">Palavra-passe atual:</string>
+    <string name="credentials_old_password">Palavra-passe actual:</string>
     <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
     <string name="credentials_reset">Eliminar credenciais</string>
     <string name="credentials_reset_hint">Remover todo o conteúdo?</string>
@@ -489,18 +489,18 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="crypt_keeper_button_text">Encriptar telefone</string>
     <string name="crypt_keeper_confirm_title">Encriptar?</string>
     <string name="crypt_keeper_cooldown">Tente novamente em ^1 segundos.</string>
-    <string name="crypt_keeper_desc">"Pode Encriptar as contas, configurações, aplicações transferidas e seus dados, média e outros arquivos. Após Encriptar o telefone, será necessário digitar um PIN numérico ou palavra-passe para desencriptar toda vez que  ligá-lo. Não é possível desfazer o Encriptar no telefone, excepto se realizar uma redefinição para configuracção original, eliminando todos os seus dados.
+    <string name="crypt_keeper_desc">"Pode Encriptar as contas, configurações, aplicações transferidas e seus dados, média e outros arquivos. Após Encriptar o telefone, será necessário digitar um PIN numérico ou palavra-passe para desencriptar toda vez que  ligá-lo. Não é possível desfazer o Encriptar no telefone, excepto se realizar uma redefinição para configuração original, a eliminar todos os seus dados.
 
 A Encriptação leva um hora ou mais. Deve iniciar com a bateria carregada e manter o telefone Ligado até que a Encriptação seja concluída. Se  interromper o processo de Encriptação, perderá alguns ou todos os seus dados."</string>
     <string name="crypt_keeper_dialog_need_password_message">É necessário definir um PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a Encriptação.</string>
     <string name="crypt_keeper_dialog_need_password_title">Não há PIN ou palavra-passe do ecrã de bloqueio</string>
     <string name="crypt_keeper_encrypt_summary">Exigir um PIN numérico ou palavra-passe para decodificar o telefone sempre que ligá-lo</string>
     <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
-    <string name="crypt_keeper_encrypted_summary">encriptado</string>
+    <string name="crypt_keeper_encrypted_summary">Encriptado</string>
     <string name="crypt_keeper_enter_password">Digite a palavra-passe</string>
     <string name="crypt_keeper_failed_summary">"A Encriptação foi interrompida e não pode ser concluída. Por esse motivo, os dados no telefone não podem mais ser acedidos. 
 
-Para continuar a usar o telefone, é necessário restaurar as configurações originais. Quando  configurar o telefone após a restauracção, poderá recuperar todos os dados que foram salvos em cópia de segurança na Conta do Google."</string>
+Para continuar a usar o telefone, é necessário restaurar as configurações originais. Quando  configurar o telefone após a restauracção, poderá recuperar todos os dados que foram guardados em cópia de segurança na Conta do Google."</string>
     <string name="crypt_keeper_failed_title">Erro na Encriptação</string>
     <string name="crypt_keeper_final_desc">A operação de Encriptação é irreversível e, se for interrompida, Perderá os dados. A Encriptação leva uma hora ou mais, e nesse período o telefone será reiniciado várias vezes.</string>
     <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente.</string>
@@ -632,7 +632,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="device_info_not_available">Não disponível</string>
     <string name="device_info_settings">Estado do telefone</string>
-    <string name="device_picker">Selector de dispositivo Bluetooth</string>
+    <string name="device_picker">Selecionador de dispositivo Bluetooth</string>
     <string name="device_Estado">Estado</string>
     <string name="device_Estado_activity_title">Estado</string>
     <string name="device_Estado_summary">Número de telefone, sinal etc.</string>
@@ -909,7 +909,7 @@ algumas aplicações podem não funcionar até que sejam actualizados por seus d
     <string name="main_running_process_description">Processo principal em uso.</string>
     <string name="manage_device_admin">Administradores do dispositivo</string>
     <string name="manage_device_admin_summary">Visualizar ou desactivar administradores do dispositivo</string>
-    <string name="manage_mobile_plan_title">Plano de celular</string>
+    <string name="manage_mobile_plan_title">Plano de telemóvel</string>
     <string name="manage_notification_access">Acesso a notificações</string>
     <string name="manage_notification_access_summary_zero">As aplicações não podem ler notificações</string>
     <string name="manage_space_text">Gerir espaço</string>
