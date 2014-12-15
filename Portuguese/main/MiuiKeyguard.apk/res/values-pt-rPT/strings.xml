@@ -44,9 +44,9 @@
     <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
     <string name="phone_locked_timeout_seconds_string">Tente novamente em %s segundos</string>
     <string name="unlock_sim_string">Desbloquear SIM</string>
-    <string name="unlocking_sim_card">Desbloqueando cartão SIM</string>
+    <string name="unlocking_sim_card">A desbloquear cartão SIM</string>
     <string name="unlockscreen_low_battery">Ligue o carregador.</string>
     <string name="unlockscreen_recharge_completed">Bateria carregada</string>
-    <string name="unlockscreen_recharging_message">Carregando %d%%</string>
+    <string name="unlockscreen_recharging_message">A carregar %d%%</string>
     <string name="wrong_password">palavra-passe incorreta</string>
 </resources>
