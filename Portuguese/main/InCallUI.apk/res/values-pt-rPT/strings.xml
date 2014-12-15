@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accept_modify_call_request_prompt">Aceitar modificacção do pedido de chamada?</string>
+    <string name="accept_modify_call_request_prompt">Aceitar modificação do pedido de chamada?</string>
     <string name="accessibility_call_muted">Chamada silenciada.</string>
     <string name="accessibility_speakerphone_enabled">Alta-voz activado.</string>
     <string name="add_fdn_contact">Adicionar número de chamadas fixas</string>
     <string name="add_sip_account">Adicionar conta</string>
     <string name="add_vm_number_str">Adicionar número</string>
-    <string name="adding_fdn_contact">Adicionando número de chamadas fixas…</string>
+    <string name="adding_fdn_contact">A adicionar número de chamadas fixas…</string>
     <string name="additional_cdma_call_settings">Configurações de chamada CDMA adicionais</string>
     <string name="additional_gsm_call_settings">Configurações adicionais</string>
     <string name="administrative_disable">Administrador desactivado</string>
@@ -32,7 +32,7 @@
     <string name="audio_mode_speaker">Alto-falante</string>
     <string name="audio_mode_wired_headset">Auriculares</string>
     <string name="auth_username_summary">Nome de utilizador usado para autenticacção</string>
-    <string name="auth_username_title">Autenticacção do nome de utilizador</string>
+    <string name="auth_username_title">Autenticação do nome de utilizador</string>
     <string name="auto_retry_mode_summary">Activar modo Repetir automaticamente</string>
     <string name="auto_retry_mode_title">Repetir automaticamente</string>
     <string name="badPin">O PIN antigo digitado não está correcto. Tente de novo.</string>
@@ -183,8 +183,8 @@
     <string name="enable_disable_national">Nacional</string>
     <string name="enable_disable_regional">Regional</string>
     <string name="enable_disable_restaurants">Restaurantes</string>
-    <string name="enable_disable_retail_directory">Diretório de varejo</string>
-    <string name="enable_disable_stock_quotes">Cotacção de ações</string>
+    <string name="enable_disable_retail_directory">Directório de lojas</string>
+    <string name="enable_disable_stock_quotes">Cotação de acções</string>
     <string name="enable_disable_technology_news">Notícias de tecnologia</string>
     <string name="enable_fdn">Activar FDN</string>
     <string name="enable_fdn_ok">Desactivar FDN</string>
@@ -197,11 +197,11 @@
     <string name="entertainment_news_settings">Notícias de entretenimento</string>
     <string name="eo_disable">Oportunidades de emprego desactivadas</string>
     <string name="eo_enable">Oportunidades de emprego activadas</string>
-    <string name="error_updating_title">Erro de configuracção da chamada</string>
+    <string name="error_updating_title">Erro de configuração da chamada</string>
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>
     <string name="fdn">Números de chamadas fixas</string>
     <string name="fdn_activation">activacção do FDN</string>
-    <string name="fdn_check_failure">A configuracção \"Números de chamada fixos\" da aplicaçao do telefone está activada. Por isso, alguns recursos relacionados a chamadas não funcionam.</string>
+    <string name="fdn_check_failure">A configuração \"Números de chamada fixos\" da aplicaçao do telefone está activada. Por isso, alguns recursos relacionados a chamadas não funcionam.</string>
     <string name="fdn_contact_added">Número de chamadas fixas adicionado.</string>
     <string name="fdn_contact_deleted">Número de chamadas fixas excluído.</string>
     <string name="fdn_contact_updated">Número de chamadas fixas actualizado.</string>
@@ -228,7 +228,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="importingSimContacts">A importar contactos do SIM</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="incall_call_type_label_sip">Chamada pela internet</string>
-    <string name="incall_error_call_failed">Chamada não completada.</string>
+    <string name="incall_error_call_failed">Chamada não terminada.</string>
     <string name="incall_error_emergency_only">Não registrado na rede.</string>
     <string name="incall_error_no_phone_number_supplied">Chamada não terminada, o número inserido é inválido.</string>
     <string name="incall_error_out_of_service">Rede móvel não disponível.</string>
@@ -248,7 +248,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="invalidPin2">Digite um PIN2 com 4 a 8 números.</string>
     <string name="invalidPuk2">Digite um PUK2 com 8 números.</string>
     <string name="ivr_menu_dialing_msg">A encaminhar…</string>
-    <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço selecionado… [Correção automática de erros activada]</string>
+    <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço selecionado… [Correcção automática de erros activada]</string>
     <string name="ivr_menu_list_sub_menu_count_format">Pressione %s</string>
     <string name="ivr_menu_list_title">Menu de voz</string>
     <string name="labelCDMAMore">Configurações de chamada CDMA</string>
@@ -264,8 +264,8 @@ Mudar para o novo fornecedor?"</string>
     <string name="label_available">Redes disponíveis</string>
     <string name="label_ndp">PIN de desbloqueio da rede SIM</string>
     <string name="label_puk2_code">Digitar o código PUK2</string>
-    <string name="lafs_disable">Programacção de voos do aeroporto local desactivada</string>
-    <string name="lafs_enable">Programacção de voos do aeroporto local activada</string>
+    <string name="lafs_disable">Programação de voos do aeroporto local desactivada</string>
+    <string name="lafs_enable">Programação de voos do aeroporto local activada</string>
     <string name="list_language_dtitle">Idiomas</string>
     <string name="list_language_summary">Selecione o idioma das notícias</string>
     <string name="list_language_title">Idioma</string>
@@ -312,7 +312,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="networks">Operadores de rede</string>
     <string name="newPin2Label">Novo PIN2</string>
     <string name="newPinLabel">Novo PIN</string>
-    <string name="no_change">Nenhuma alteracção foi feita.</string>
+    <string name="no_change">Nenhuma alteração foi feita.</string>
     <string name="no_internet_available">Antes de fazer uma chamada pela Internet, primeiro verifique a ligação com a Internet.</string>
     <string name="no_internet_available_title">Nenhuma ligação à internet</string>
     <string name="no_vm_number">Número do correio de voz ausente</string>
@@ -387,11 +387,11 @@ Mudar para o novo fornecedor?"</string>
     <string name="optional_summary">&lt;Opcional></string>
     <string name="ota_activate">Activar</string>
     <string name="ota_call_end">Voltar</string>
-    <string name="ota_failure">Falha de programação</string>
+    <string name="ota_failure">Erro de programação</string>
     <string name="ota_listen">Siga as instruções da chamada até ouvir que a activação está concluída.</string>
     <string name="ota_next">Próxima</string>
     <string name="ota_progress">Aguarde enquanto o telefone é programado.</string>
-    <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não poderá efectuar chamadas ou  ligar a redes móveis de dados (embora possa  ligar a redes Wi-Fi). Até que o telefone seja activado, receberá solicitações de activacção sempre que o ligar.</string>
+    <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não poderá realizar chamadas ou ligar a redes móveis de dados (embora possa  ligar a redes Wi-Fi). Até que o telefone seja activado, receberá solicitações de activação sempre que o ligar.</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
     <string name="ota_skip_activation_dialog_title">Ignorar activação?</string>
     <string name="ota_spc_failure">FALHAS SPC EXCEDENTES</string>
@@ -451,9 +451,9 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="proxy_address_title">Endereço do proxy de saída</string>
     <string name="puk2_requested">Palavra-passe incorreta. SIM bloqueado. PUK2 solicitado.</string>
     <string name="puk_requested">Palavra-passe incorreta. SIM bloqueado! PUK2 solicitado.</string>
-    <string name="puk_unlocked">O seu cartão SIM foi desbloqueado. O seu telefone está desbloqueando…</string>
+    <string name="puk_unlocked">O seu cartão SIM foi desbloqueado. O seu telefone está a desbloquear…</string>
     <string name="radio_off_error">Ligue o rádio antes de ver essas configurações.</string>
-    <string name="reading_settings">Lendo as configurações…</string>
+    <string name="reading_settings">A ler as configurações…</string>
     <string name="regional_disable">Notícias regionais desactivadas</string>
     <string name="regional_enable">Notícias regionais activadas</string>
     <string name="register_automatically">Registro automático…</string>
@@ -608,7 +608,7 @@ Entre em contacto com sua operadora se o problema persistir."</string>
     <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
     <string name="voicemail_number_not_set">&lt;Não definido></string>
     <string name="voicemail_provider">Serviço</string>
-    <string name="voicemail_settings">Configuracção</string>
+    <string name="voicemail_settings">Configuração</string>
     <string name="voicemail_settings_number_label">Número do correio de voz</string>
     <string name="vt_init_fail_str">"Erro ao inicializar a vídeo chamada. Reduzindo a chamada para voz.
 "</string>
