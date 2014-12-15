@@ -277,8 +277,8 @@ A operadora informa que   já usou %1$s de dados para horários de pico este mê
     <string name="traffic_config_alert_setted">Configurações aplicadas</string>
     <string name="traffic_config_alert_title">Diferença de %s</string>
     <string name="traffic_correction_failed">Impossível obter o uso de dados</string>
-    <string name="traffic_correction_start_correction">Consultando operadora…</string>
-    <string name="traffic_correction_start_correction_failed">Erro na requisição, por favor verifique as configurações da operadora</string>
+    <string name="traffic_correction_start_correction">A consultar operadora…</string>
+    <string name="traffic_correction_start_correction_failed">Erro no pedido, por favor verifique as configurações da operadora</string>
     <string name="traffic_correction_success">Limite de dados Actualizado</string>
     <string name="traffic_none">Nenhum</string>
     <string name="traffic_protection_data_usage_summary">Defina alertas de uso de dados para evitar que   exceda o pacote de dados mensal com a operadora.</string>
