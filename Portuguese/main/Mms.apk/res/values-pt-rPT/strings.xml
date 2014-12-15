@@ -18,9 +18,9 @@
     <string name="add_slide_before">Adicionar slide de introdução</string>
     <string name="add_slide_hint">Toque para criar um novo slide</string>
     <string name="add_smiley">Icone</string>
-    <string name="add_timing">Agendamento</string>
+    <string name="add_timing">Agendar</string>
     <string name="add_video">Adicionar vídeo</string>
-    <string name="adding_attachments">Aguarde enquanto os ficheiros são adicionados à apresentacção de slides.</string>
+    <string name="adding_attachments">Aguarde enquanto os ficheiros são adicionados à apresentação de slides.</string>
     <string name="adding_attachments_title">A adicionar anexos</string>
     <string name="adding_recipients">A adicionar destinatários…</string>
     <string name="alert_dlg_cancel_button">Cancelar</string>
@@ -30,13 +30,13 @@
     <string name="attach_image">Imagens</string>
     <string name="attach_record_sound">Gravar áudio</string>
     <string name="attach_record_video">Gravar vídeo</string>
-    <string name="attach_slideshow">Apresentacção de slides</string>
+    <string name="attach_slideshow">Apresentação de slides</string>
     <string name="attach_sound">Áudio</string>
     <string name="attach_subject">Assunto</string>
     <string name="attach_take_photo">Tirar foto</string>
     <string name="attach_video">Vídeo</string>
     <string name="back_to_message_list">Voltar à lista de mensagens</string>
-    <string name="batch_adding_progress_message">Adicionando…</string>
+    <string name="batch_adding_progress_message">A adicionar…</string>
     <string name="batch_delete_confirm_dialog_message">Excluir %1$s mensagens?</string>
     <string name="batch_deleting_message_progress_message">Excluindo…</string>
     <string name="batch_deleting_progress_message">Excluindo…</string>
@@ -154,7 +154,7 @@
     <string name="festival_sms_loading">A carregar…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Criado em:</string>
-    <string name="file_share_message_description">Estou partilhando arquivos consigo.</string>
+    <string name="file_share_message_description">Estou a partilhar arquivos.</string>
     <string name="file_size">Tamanho:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Tamanho:</string>
@@ -176,7 +176,7 @@
     <string name="hint_search_sms">%d mensagens</string>
     <string name="hms_add_image_progress_message">A processar, por favor aguarde…</string>
     <string name="hms_first_use_tips">Para receber mensagens de serviço, precisa estar ligado a uma rede Wi-Fi</string>
-    <string name="importing_progress_private_message">Importando mensagens…</string>
+    <string name="importing_progress_private_message">A importar mensagens…</string>
     <string name="in_sms">Mensagem</string>
     <string name="insufficient_drm_rights">Não foram detectados direitos DRM suficientes.</string>
     <string name="invalid_conversation">Conversa inválida</string>
@@ -237,7 +237,7 @@
     <string name="msglist_no_more_to_refresh">Actualizado</string>
     <string name="msglist_release_to_more">Solte pare ver mais</string>
     <string name="multimedia_message">Mensagem multimédia</string>
-    <string name="multimedia_notification">Notificacção de mensagem multimédia</string>
+    <string name="multimedia_notification">Notificação de mensagem multimédia</string>
     <string name="mx_activate_error_malformed_info">Necessita reactivar o Mi Message.</string>
     <string name="mx_activate_error_server">Não foi possível activar</string>
     <string name="mx_activate_error_sim_change">Parece que o cartão SIM foi alterado. É necessário reactivar o Mi Message.</string>
@@ -256,7 +256,7 @@
     <string name="mx_btn_enable_now">Activar</string>
     <string name="mx_count_dspt">Enviou %1$d SMS e %2$d MMS</string>
     <string name="mx_current_status">Estado: online</string>
-    <string name="mx_dspt">O Mi Message permite que envie e receba mensagens para qualquer pessoa usando a MIUI</string>
+    <string name="mx_dspt">O Mi Message permite que envie e receba mensagens para qualquer pessoa utilizando a MIUI</string>
     <string name="mx_enable">Mi Message</string>
     <string name="mx_enable_popup_msg">O Mi Message permite que envie mensagens de forma gratuita com outros utilizadores que também usam este recurso.</string>
     <string name="mx_msg">Mi Message</string>
@@ -332,7 +332,7 @@
     <string name="pref_title_mms_read_reports">Relatórios de leitura</string>
     <string name="pref_title_mms_retrieval_during_roaming">Recuperar em roaming</string>
     <string name="pref_title_notification_body_enabled">Pré-visualizacção de mensagens</string>
-    <string name="pref_title_ringtone_repeat">Repetição de notificacção</string>
+    <string name="pref_title_ringtone_repeat">Repetição de notificação</string>
     <string name="pref_title_show_recent_contacts">Exibir Contactos recentes</string>
     <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
     <string name="pref_title_system_mms_priority">Definir como prédefinida</string>
@@ -360,7 +360,7 @@
     <string name="recipient_label">"Destinatário: "</string>
     <string name="refill_now">Recarregar agora</string>
     <string name="refresh">Actualizar</string>
-    <string name="refresh_failed">Falha na actualização</string>
+    <string name="refresh_failed">Erro na actualização</string>
     <string name="refreshing">A actualizar…</string>
     <string name="remove">Remover</string>
     <string name="remove_music">Remover música</string>
@@ -484,8 +484,8 @@
     <string name="too_many_unsent_mms">Não é possível enviar a mensagem no momento. Há muitas mensagens multimédia não enviadas.</string>
     <string name="try_to_send">Tentar enviar</string>
     <string name="type_attachment">anexo</string>
-    <string name="type_audio">áudio</string>
-    <string name="type_picture">imagem</string>
+    <string name="type_audio">Áudio</string>
+    <string name="type_picture">Imagem</string>
     <string name="type_to_compose_text_enter_to_send">Escrever mensagem</string>
     <string name="type_to_compose_text_or_leave_blank">Marque a mensagem, ou deixe em branco</string>
     <string name="type_vcard">vCard</string>
