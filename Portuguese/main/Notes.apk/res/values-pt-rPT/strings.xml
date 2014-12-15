@@ -9,10 +9,10 @@
     <string name="alert_message_delete_folders_notes">Excluir %1$s pastas e %2$s anotações?</string>
     <string name="alert_message_delete_note">Excluir esta anotação?</string>
     <string name="alert_message_delete_notes">Excluir %1$s anotações?</string>
-    <string name="alert_message_edit_anyway">Se editar esta anotação, parte de seu conteúdo poderá ser perdido.</string>
-    <string name="alert_title_edit_anyway">Esta anotação possui conteúdo não suportado</string>
-    <string name="app_name">Anotações</string>
-    <string name="app_widget">Anotações</string>
+    <string name="alert_message_edit_anyway">Se editar esta nota, parte de seu conteúdo poderá ser perdido.</string>
+    <string name="alert_title_edit_anyway">Esta nota possui conteúdo não suportado</string>
+    <string name="app_name">Notas</string>
+    <string name="app_widget">Notas</string>
     <string name="attachment_camera">Câmera</string>
     <string name="attachment_contact">Contatos</string>
     <string name="attachment_gallery">Galeria</string>
@@ -67,7 +67,7 @@
     <string name="redo">Refazer</string>
     <string name="search">Anotações</string>
     <string name="search_hint">Pesquisar anotações</string>
-    <string name="search_label">Pesquisando anotações</string>
+    <string name="search_label">a pesquisar anotações</string>
     <string name="search_setting_description">Texto nas anotações</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="sina_share_fail">Erro ao enviar</string>
@@ -82,9 +82,9 @@
     <string name="sns_desc_preview_wechat">Pré-visualização de mensagem WeChat</string>
     <string name="sns_desc_preview_weibo">Pré-visualização de mensagem Weibo</string>
     <string name="sns_footer_text">Criado com o Mi Notes</string>
-    <string name="sns_hint_content">O que está pensando?</string>
+    <string name="sns_hint_content">O que está a pensar?</string>
     <string name="sns_hint_title">Assunto (Opcional)</string>
-    <string name="sns_message_building">Criando postagem…</string>
+    <string name="sns_message_building">A criar postagem…</string>
     <string name="sns_message_sending">Postando…</string>
     <string name="sns_title_edit">Editar título</string>
     <string name="sns_title_send">Enviar mensagem</string>
@@ -97,7 +97,7 @@
     <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi truncada para que ele caiba.</string>
     <string name="undo">Desfazer</string>
     <string name="unknown_source">Fonte desconhecida</string>
-    <string name="widget_content_loading">Carregando…</string>
-    <string name="widget_havenot_content">Nenhuma anotação associada foi encontrada. Toque para criar uma anotação associada. Para dimensioná-la, toque e segure em uma borda e arraste.</string>
+    <string name="widget_content_loading">A carregar…</string>
+    <string name="widget_havenot_content">Nenhuma nota associada foi encontrada. Toque para criar uma anotação associada. Para dimensioná-la, toque e segure em uma borda e arraste.</string>
     <string name="widget_under_privacy_mode">Não é possível ver anotações no modo Convidado</string>
 </resources>
