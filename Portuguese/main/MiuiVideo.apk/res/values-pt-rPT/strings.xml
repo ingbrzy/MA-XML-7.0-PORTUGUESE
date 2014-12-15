@@ -28,7 +28,7 @@
     <string name="app_name">Vídeos</string>
     <string name="app_recommendation">Recomendados</string>
     <string name="area_colon">"País: "</string>
-    <string name="authenticated_failed">erro no inicio de sessão</string>
+    <string name="authenticated_failed">Erro ao iniciar sessão</string>
     <string name="authenticating" />
     <string name="authenticating_manually">Erro na autenticação</string>
     <string name="auto_play">Reproduzir automaticamente</string>
@@ -140,7 +140,7 @@
     <string name="fullscreen_hint_auto">A entrar em ecrã total…</string>
     <string name="fullscreen_hint_horizontal">Para entrar no modo ecrã total, toque o ícone no canto superior esquerdo</string>
     <string name="fullscreen_hint_vertical">Para entrar no modo ecrã total, toque no botão abaixo</string>
-    <string name="fullscreen_to_play">ecrã total</string>
+    <string name="fullscreen_to_play">Ecrã total</string>
     <string name="funshion">Funshion</string>
     <string name="get_cert_file_failed">Não foi possível obter o certificado. Por favor, pressione o botão Voltar.</string>
     <string name="gong_count_dlna">%d DLNA</string>
@@ -194,7 +194,7 @@
     <string name="loading_video_netplay_label">A carregar… </string>
     <string name="loading_video_netplay_label_v5">A carregar… </string>
     <string name="local_count_ji">PRC %d Ep.</string>
-    <string name="login_tip_content">Ligue-se com Mi Account para sincronizar e actualizar programas que esteja assistindo.</string>
+    <string name="login_tip_content">Ligue-se com Mi Account para sincronizar e actualizar programas que está assistindo.</string>
     <string name="login_tip_title">Iniciar sessão</string>
     <string name="makeappointment">Marcar para assistir</string>
     <string name="manage">Gerir</string>
@@ -258,7 +258,7 @@
     <string name="offline_alert_title">Notificação de armazenamento</string>
     <string name="offline_alert_wifi">A utilizar a rede de dados móveis. Para economizar o tráfego de dados, as tarefas de armazenamento foram pausadas e serão retomadas ao detectarem uma ligação Wi-Fi válida.</string>
     <string name="offline_continue">Continuar</string>
-    <string name="offline_max_promote">Aguardando armazenamento. No máximo duas tarefas de armazenamento podem ser executadas ao mesmo tempo.</string>
+    <string name="offline_max_promote">A aguardar armazenamento. No máximo duas tarefas de armazenamento podem ser executadas ao mesmo tempo.</string>
     <string name="offline_media">Disponível offline</string>
     <string name="offline_media_more">Armazenar mais</string>
     <string name="offline_no_source">Nenhuma fonte de armazenamento disponível</string>
