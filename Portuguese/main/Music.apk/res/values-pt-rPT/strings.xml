@@ -21,7 +21,7 @@
     <string name="avoid_to_use_traffic_summary">Nunca usar redes móveis para transmissão de músicas</string>
     <string name="avoid_to_use_traffic_title">Transmissão de música só por Wi-Fi</string>
     <string name="baidu_music">Música Baidu</string>
-    <string name="buffering">Armazenando em memória…</string>
+    <string name="buffering">A guardar na memória…</string>
     <string name="button_add">Adicionar</string>
     <string name="cancel">Cancelar</string>
     <string name="choose_download_quality">Selecionar qualidade do transferência</string>
@@ -61,8 +61,8 @@
     <string name="download_auto_when_all_network">Usar redes móveis e Wi-Fi</string>
     <string name="download_auto_when_free_network">Usar apenas Wi-Fi</string>
     <string name="download_completed">Transferido</string>
-    <string name="download_method">transferência</string>
-    <string name="download_processing">Efetuando transferência…</string>
+    <string name="download_method">Transferência</string>
+    <string name="download_processing">A transferir…</string>
     <string name="download_while_playing_summary">Transferência automática de músicas que ouviu online</string>
     <string name="download_while_playing_title">Transferir enquanto escuta a música online</string>
     <string name="empty_page_no_album">Nenhum álbum</string>
@@ -132,7 +132,7 @@
     <string name="local_tracks_short">Música local</string>
     <string name="login_first">Antes, Inicie sessão na Conta Mi</string>
     <string name="lrc_search_failed">Não foi possível encontrar a letra da música</string>
-    <string name="lrc_searching">Pesquisando pela letra da música…</string>
+    <string name="lrc_searching">A pesquisar pela letra da música…</string>
     <string name="lyric_open_other_connect">Transferir letras utilizando a rede móvel</string>
     <string name="metered_alert">Aviso sobre o uso de dados</string>
     <string name="metered_alert_msg">O uso da ligação de dados móveis para ouvir músicas aumentará o uso de dados. Caso exceda o limite de seu pacote de dados, a operadora poderá cobrar o excedente.</string>
@@ -161,7 +161,7 @@
     <string name="ok">OK</string>
     <string name="online_music">Online</string>
     <string name="online_playlist_is_empty">A Lista de reprodução está vazia!</string>
-    <string name="order_process_fail">Não é possível autorizar a conta. Aguarde alguns minutos e tente novamete.</string>
+    <string name="order_process_fail">Não é possível autorizar a conta. Aguarde alguns minutos e tente novamente.</string>
     <string name="payment_fail">Erro no pagamento</string>
     <string name="payment_success">Pagamento concluído</string>
     <string name="period_format">%1$s-%2$s</string>
@@ -199,8 +199,8 @@
     <string name="tab_local_folder_list">Pastas</string>
     <string name="tab_local_track_list">Músicas</string>
     <string name="tab_track_list">Músicas</string>
-    <string name="take_effect_afater_restart">é preciso reiniciar a aplicação de Música para esta configuração ter efeito.</string>
-    <string name="track_list_control_download">transferência</string>
+    <string name="take_effect_afater_restart">É preciso reiniciar a aplicação de Música para esta configuração ter efeito.</string>
+    <string name="track_list_control_download">Transferência</string>
     <string name="track_list_control_edit_add_tracks">Adicionar músicas</string>
     <string name="track_list_control_edit_delete_playlist">Excluir</string>
     <string name="track_list_control_edit_rename_playlist">Renomear</string>
@@ -210,8 +210,8 @@
     <string name="track_search_title">Faixa</string>
     <string name="track_view">Faixa</string>
     <string name="trigger_to_scan_media_library_finish">actualização concluída</string>
-    <string name="trigger_to_scan_media_library_processing">Ainda actualizando…</string>
-    <string name="trigger_to_scan_media_library_start">actualizando…</string>
+    <string name="trigger_to_scan_media_library_processing">Ainda a actualizar…</string>
+    <string name="trigger_to_scan_media_library_start">A actualizar…</string>
     <string name="ultra_high_quality">Máxima</string>
     <string name="unknown_album_name">Álbum desconhecido</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
