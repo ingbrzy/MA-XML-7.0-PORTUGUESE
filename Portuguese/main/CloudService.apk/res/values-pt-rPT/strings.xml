@@ -90,31 +90,31 @@ Se trocar os cartões SIM, outro SMS será enviado para reactivar este serviço.
     <string name="internet_disconnected">Sem ligação de dados</string>
     <string name="less_flow_mode">Economia de dados</string>
     <string name="license_host_unreachable">Não foi possível conectar-se à rede. Para exibir esta informação, acesse %s.</string>
-    <string name="loading">Carregando…</string>
-    <string name="loading_hint">Carregando</string>
+    <string name="loading">A carregar…</string>
+    <string name="loading_hint">A carregar</string>
     <string name="master_alert_notif_dspt_add">%s itens para sincronizar</string>
     <string name="master_alert_notif_dspt_no">Sincronizado</string>
     <string name="master_alert_notif_title">Última sincronização há %s dias</string>
     <string name="micloud">Mi Cloud</string>
-    <string name="micloud_dspt">Use a Mi Cloud para sincronizar dados, localizar o dispositivo,</string>
-    <string name="micloud_dspt_provision">Use a Mi Cloud para sincronizar dados, localizar o dispositivo e partilhar coisas com os amigos.</string>
-    <string name="micloud_full_influence_dspt">"Todas as suas fotos, vídeos, anotações e aplicações serão salvas na nuvem. 
+    <string name="micloud_dspt">Utilize a Mi Cloud para sincronizar dados, localizar o dispositivo,</string>
+    <string name="micloud_dspt_provision">Utilize a Mi Cloud para sincronizar dados, localizar o dispositivo e partilhar coisas com os amigos.</string>
+    <string name="micloud_full_influence_dspt">"Todas as fotos, vídeos, notas e aplicações serão guardadas na nuvem. 
 
 Desta forma, se perder ou danificar o dispositivo, os dados irão manter-se seguros. 
 
-Quando a nuvem estiver cheia, os dados antigos não irão a lugar nenhum. Entretanto, qualquer novo conteúdo adicionado (ex.: fotos, vídeos, notas e aplicações) não serão guardados. 
+Quando a nuvem estiver cheia, os dados antigos irão manter-se. Entretanto, qualquer novo conteúdo adicionado (ex.: fotos, vídeos, notas e aplicações) não serão guardados. 
 
 Para corrigir isto, pode excluir alguns arquivos antigos para libertar espaço, ou comprar espaço de armazenamento adicional."</string>
     <string name="micloud_full_influence_title">Quando a Mi Cloud está cheia…</string>
     <string name="micloud_main_data_unsynced">%d itens para sincronizar</string>
     <string name="micloud_main_last_sync_time">Última sincronização</string>
-    <string name="micloud_main_network_error">Não foi possível conectar-se à rede</string>
+    <string name="micloud_main_network_error">Não foi possível ligar-se à rede</string>
     <string name="micloud_main_stop_sync">Parar sincronização</string>
     <string name="micloud_main_suggest_sync">Alguns ficheiros não foram sincronizados com a Mi Cloud</string>
     <string name="micloud_main_sync_now">Sincronizar agora</string>
     <string name="micloud_main_sync_on_wifi">Usar Wi-Fi</string>
-    <string name="micloud_main_sync_stop">Parar sincronização</string>
-    <string name="micloud_more">Saiba mais</string>
+    <string name="micloud_main_sync_stop">Interromper sincronização</string>
+    <string name="micloud_more">Saber mais</string>
     <string name="micloud_other_product_price">Preço de produtos similares:</string>
     <string name="micloud_proceed">Continuar</string>
     <string name="micloud_sec_dspt">e partilhar coisas com os amigos.</string>
