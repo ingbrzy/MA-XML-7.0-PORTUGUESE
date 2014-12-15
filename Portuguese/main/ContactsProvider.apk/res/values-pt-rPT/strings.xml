@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="call_log_provider_label">Registro de chamadas</string>
-    <string name="create_contact">Novo conctato</string>
+    <string name="create_contact">Novo contacto</string>
     <string name="edit_contact">Adicionar aos contactos</string>
     <string name="pound_search_tip">Insira um número após # para pesquisar contactos</string>
     <string name="send_sms">Enviar mensagem</string>
-    <string name="third_party_delete_contact_info">\"%s\" está a tentar excluir os contactos. Esta acção não pode ser executada por aplicações de terceiros. Para excluir contatos, utilize a aplicação de contactos nativa da MIUI.</string>
+    <string name="third_party_delete_contact_info">\"%s\" está a tentar excluir os contactos. Esta acção não pode ser executada por aplicações de terceiros. Para excluir contactos, utilize a aplicação de contactos nativa da MIUI.</string>
 </resources>
