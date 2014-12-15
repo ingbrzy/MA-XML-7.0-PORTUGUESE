@@ -7,7 +7,7 @@
     <string name="app_label">Sp. de impressão</string>
     <string name="blocked_notification_title_template">A impressora bloqueou %1$s</string>
     <string name="cancel">Cancelar</string>
-    <string name="cancelling_notification_title_template">Cancelando %1$s</string>
+    <string name="cancelling_notification_title_template">A cancelar %1$s</string>
     <string name="choose_print_service">Selecione o serviço de impressão</string>
     <string name="failed_notification_title_template">Erro ao imprimir %1$s</string>
     <string name="generating_print_job">Gerir trabalho de impressão</string>
@@ -30,7 +30,7 @@
     <string name="print_preview">Visualização de impressão</string>
     <string name="print_search_box_hidden_utterance">Caixa de pesquisa oculta</string>
     <string name="print_search_box_shown_utterance">Caixa de pesquisa exibida</string>
-    <string name="print_searching_for_printers">Procurando impressoras</string>
+    <string name="print_searching_for_printers">A localizar impressoras</string>
     <string name="print_select_printer">Selecionar impressora</string>
     <string name="printer_unavailable">%1$s – não disponível</string>
     <string name="printing_app_crashed">A aplicação de impressão falhou</string>
