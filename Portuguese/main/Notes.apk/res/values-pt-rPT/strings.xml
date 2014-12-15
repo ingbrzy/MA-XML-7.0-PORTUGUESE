@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="add_account_desc">Sincronizar suas anotações com sua Conta Mi?</string>
+    <string name="add_account_desc">Sincronizar as anotações com a Conta Mi?</string>
     <string name="alarm_bar_title">Lembrete</string>
     <string name="alert_action_edit_anyway">Continuar edição</string>
-    <string name="alert_edit_action_delete">Remover</string>
+    <string name="alert_edit_action_delete">Excluir</string>
     <string name="alert_edit_action_update">Modificar</string>
     <string name="alert_message_delete_folders">Excluir %1$s pastas?</string>
     <string name="alert_message_delete_folders_notes">Excluir %1$s pastas e %2$s anotações?</string>
@@ -11,20 +11,20 @@
     <string name="alert_message_delete_notes">Excluir %1$s anotações?</string>
     <string name="alert_message_edit_anyway">Se editar esta anotação, parte de seu conteúdo poderá ser perdido.</string>
     <string name="alert_title_edit_anyway">Esta anotação possui conteúdo não suportado</string>
-    <string name="app_name">Anotações</string>
-    <string name="app_widget">Anotações</string>
+    <string name="app_name">Notas</string>
+    <string name="app_widget">Notas</string>
     <string name="attachment_camera">Câmera</string>
     <string name="attachment_contact">Contatos</string>
     <string name="attachment_gallery">Galeria</string>
-    <string name="button_new_note">Nova anotação</string>
+    <string name="button_new_note">Nova nota</string>
     <string name="call_record_folder_name">Anotações de chamada</string>
     <string name="default_folder_name">Pasta sem nome</string>
-    <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não soarão quando o toque estiver silenciado.</string>
+    <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não soarão quando o toque estiver no silêncio.</string>
     <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
     <string name="enable_sync">Sincronizar</string>
     <string name="enable_sync_desc">Sincronizar as anotações com a Conta Mi (%1$s)?</string>
     <string name="error_contact_not_exist">O contacto não existe</string>
-    <string name="error_note_empty_for_clock">Não é possível definir memorandos para uma anotação vazia</string>
+    <string name="error_note_empty_for_clock">Não é possível definir memorandos para uma nota vazia</string>
     <string name="error_note_empty_for_send_to_desktop">Anotações vazias não podem ser enviadas para o ecrã inicial</string>
     <string name="error_note_not_exist">A anotação não existe</string>
     <string name="error_unsupport_content">Esta anotação possui conteúdo não suportado. Toque aqui para actualizar a aplicação requerida</string>
@@ -47,14 +47,14 @@
     <string name="menu_unstick">Descolar</string>
     <string name="not_now">Agora não</string>
     <string name="note_alert_expired">Expirada</string>
-    <string name="note_link_email">Enviar e-mail</string>
+    <string name="note_link_email">Enviar email</string>
     <string name="note_link_other">Abrir mapa</string>
     <string name="note_link_select">Selecionar texto</string>
     <string name="note_link_tel">Chamar</string>
     <string name="note_link_web">Navegar na web</string>
     <string name="notealert_enter">Ver</string>
     <string name="notealert_ok">Ignorar</string>
-    <string name="notelist_menu_new">Nova anotação</string>
+    <string name="notelist_menu_new">Nova nota</string>
     <string name="notelist_string_info">...</string>
     <string name="notify_alarm_title">Memorando da anotação</string>
     <string name="permdesc_accessNote">Aplicações maliciosas podem usar isto para aceder a informações pessoais.</string>
@@ -67,8 +67,8 @@
     <string name="redo">Refazer</string>
     <string name="search">Anotações</string>
     <string name="search_hint">Pesquisar anotações</string>
-    <string name="search_label">Pesquisando anotações</string>
-    <string name="search_setting_description">Texto nas anotações</string>
+    <string name="search_label">A pesquisar as notas</string>
+    <string name="search_setting_description">Texto nas notas</string>
     <string name="select_account_prompt">Sincronizar anotações</string>
     <string name="sina_share_fail">Erro ao enviar</string>
     <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
@@ -85,7 +85,7 @@
     <string name="sns_hint_content">O que está pensando?</string>
     <string name="sns_hint_title">Assunto (Opcional)</string>
     <string name="sns_message_building">Criando postagem…</string>
-    <string name="sns_message_sending">Postando…</string>
+    <string name="sns_message_sending">A postar…</string>
     <string name="sns_title_edit">Editar título</string>
     <string name="sns_title_send">Enviar mensagem</string>
     <string name="sns_toast_empty">Não é possível enviar um post vazio</string>
@@ -97,7 +97,7 @@
     <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi truncada para que ele caiba.</string>
     <string name="undo">Desfazer</string>
     <string name="unknown_source">Fonte desconhecida</string>
-    <string name="widget_content_loading">Carregando…</string>
+    <string name="widget_content_loading">A carregar…</string>
     <string name="widget_havenot_content">Nenhuma anotação associada foi encontrada. Toque para criar uma anotação associada. Para dimensioná-la, toque e segure em uma borda e arraste.</string>
     <string name="widget_under_privacy_mode">Não é possível ver anotações no modo Convidado</string>
 </resources>
