@@ -3,7 +3,7 @@
     <string name="accept">OK</string>
     <string name="activate">activar</string>
     <string name="activate_feature_call_log_sync">Sincronização de reg. de chamadas</string>
-    <string name="activate_feature_find_device">Encontrar dispositivo</string>
+    <string name="activate_feature_find_device">Localizar dispositivo</string>
     <string name="activate_feature_mms_sync">Sincronização de SMS</string>
     <string name="activate_feature_mx">Mi Message</string>
     <string name="activate_phone_failed_notif_title">Não foi possível activar o cartão SIM</string>
@@ -67,14 +67,14 @@
     <string name="activate_status_desc_sending_sms">Enviando SMS de activação para o gateway</string>
     <string name="activate_status_desc_sending_sms_fail">Não foi possível enviar SMS de activação para o gateway</string>
     <string name="activate_status_desc_sms_sent">SMS de activação enviado</string>
-    <string name="activate_status_desc_wait_for_phone_service">Aguardando serviço de telefonia</string>
+    <string name="activate_status_desc_wait_for_phone_service">A aguardar serviço de telefonia</string>
     <string name="activate_status_desc_wait_for_sms">A aguardar SMS de activação do servidor</string>
     <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber SMS de activação do servidor</string>
     <string name="activate_status_desc_wait_for_sms_success">SMS de activação recebido com sucesso</string>
     <string name="activate_status_title_activating">A activar seu cartão SIM</string>
     <string name="activate_status_title_activating_msim">A activar o cartão SIM %s</string>
     <string name="app_name">Estrutura de serviços Xiaomi</string>
-    <string name="error_device_id_message">Algumas funções da conta e nuvem ficarão indisponíveis</string>
+    <string name="error_device_id_message">Algumas funções da conta e nuvem irão ficar indisponíveis</string>
     <string name="error_device_id_title">Não foi possível obter o número do IMEI</string>
     <string name="sim_unactivated_title">Seu cartão SIM não foi activado</string>
     <string name="xmsf_activate_info">Informações de activação da Estrutura de Serviços Xiaomi</string>
