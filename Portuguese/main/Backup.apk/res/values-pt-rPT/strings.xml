@@ -13,7 +13,7 @@
     <string name="auto_backup_date">Frequência da Cópia de segurança</string>
     <string name="auto_backup_only_wifi">Somente quando ligado por Wi-Fi</string>
     <string name="auto_backup_open">Cópia de segurança automático</string>
-    <string name="auto_backup_progress">Efetuando cópia de segurança…</string>
+    <string name="auto_backup_progress">A efectuar cópia de segurança…</string>
     <string name="auto_backup_select_user_Aplicações">Selecionar Aplicações</string>
     <string name="auto_backup_selected_user_Aplicações">Aplicações selecionadas</string>
     <string name="auto_backup_setting">Configurações da Cópia de segurança automática</string>
@@ -24,7 +24,7 @@
     <string name="backup_data">Cópia de segurança de dados</string>
     <string name="backup_delete">Excluir:</string>
     <string name="backup_empty">Nenhuma Cópia de segurança</string>
-    <string name="backup_empty_info">" Faça a Cópia de segurança de seus dados, configurações e Aplicações"</string>
+    <string name="backup_empty_info">" Fazer Cópia de segurança dos seus dados, configurações e Aplicações"</string>
     <string name="backup_error">Erro na Cópia de segurança</string>
     <string name="backup_failed">Erro na Cópia de segurança</string>
     <string name="backup_file_error">Erro na Cópia de segurança</string>
@@ -36,7 +36,7 @@
     <string name="backup_progress">A efectuar Cópia de segurança</string>
     <string name="backup_recently">"  (mais recente) "</string>
     <string name="backup_report">Ver detalhes da Cópia de segurança</string>
-    <string name="backup_update">actualizar</string>
+    <string name="backup_update">Actualizar</string>
     <string name="batch_delete_backup_confirm">Excluir %d Cópia de segurança(s)?</string>
     <string name="button_backup">Cópia de segurança</string>
     <string name="button_cancel">Cancelar</string>
@@ -90,7 +90,7 @@
     <string name="findlost_contact_online">Restaurar Contactos da Mi Cloud</string>
     <string name="guarded_mode_dialog_message">Esta função não é permitida no modo Convidado.</string>
     <string name="guarded_mode_dialog_title">Está no modo Convidado</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Transferir do MiTalk e conecte-se.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Transferir do MiTalk e ligue-se.
 \u0009http://www.miliao.com
 
 2.\u0009Vá nas configurações do MiTalk e selecione \"Efetuar Cópia de segurança de Contactos para a Conta Mi\""</string>
@@ -120,7 +120,7 @@
     <string name="prompt_sending">A enviar…</string>
     <string name="prompt_writing">A guardar…</string>
     <string name="read_encrypt_fail">Não foi possível ler a Cópia de segurança encriptada</string>
-    <string name="refresh">actualizar</string>
+    <string name="refresh">Actualizar</string>
     <string name="restore">Restaurar</string>
     <string name="restore_contact">Restaurar Contactos</string>
     <string name="restore_contact_content">A restauração poderá duplicar Contactos.</string>
@@ -130,8 +130,8 @@
     <string name="restore_failed">A restauração falhou</string>
     <string name="restore_finished">Restauração concluída</string>
     <string name="restore_launcher_layout_hit">Restaura as configurações do ecrã inicial</string>
-    <string name="restore_progress">Restaurando…</string>
-    <string name="restore_report">Relatório de restauração</string>
+    <string name="restore_progress">A restaurar…</string>
+    <string name="restore_report">Relatório da restauração</string>
     <string name="restore_telephony_hit">A restauração reiniciará o Telefone.</string>
     <string name="retry">Repetir</string>
     <string name="reverse_all">Desfazer tudo</string>
@@ -166,16 +166,16 @@
     <string name="task_canceled_local">Tarefa cancelada: %s</string>
     <string name="task_cloud_backup_cancel_dialog">A Cópia de segurança não foi concluída. Cancelar mesmo assim?</string>
     <string name="task_failed">Erro</string>
-    <string name="task_failed_all_local">Falha</string>
+    <string name="task_failed_all_local">Erro</string>
     <string name="task_failed_local">Erro ao concluir: %s</string>
     <string name="task_finished">Cópia de segurança concluída</string>
-    <string name="task_local_backup_cancel_dialog">O Cópia de segurança não foi concluída. Cancelar mesmo assim?</string>
+    <string name="task_local_backup_cancel_dialog">A Cópia de segurança não foi concluída. Cancelar mesmo assim?</string>
     <string name="task_pending">A Aguardar…</string>
     <string name="task_post_running">A Processar…</string>
     <string name="task_pre_running">A Iniciar…</string>
     <string name="task_progress">Progresso</string>
     <string name="task_restore_cancel_dialog">Interromper agora poderá resultar em perda de dados.</string>
-    <string name="task_restore_cancel_progress">Cancelando…</string>
+    <string name="task_restore_cancel_progress">A cancelar…</string>
     <string name="task_restore_finished_local">Restauração concluída</string>
     <string name="task_restore_none">Nada a restaurar</string>
     <string name="task_running_backup_dialog">Cópia de segurança em progresso. Toque em OK para visualizar.</string>
