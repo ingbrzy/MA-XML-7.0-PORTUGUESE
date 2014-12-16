@@ -137,7 +137,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="menu_add">Adicionar</string>
     <string name="menu_add_into_contact">Adicionar a um contacto existente</string>
     <string name="menu_add_new_contact">Novo contacto</string>
-    <string name="menu_bl_add_contact">contactos</string>
+    <string name="menu_bl_add_contact">Contactos</string>
     <string name="menu_bl_add_manual">Adicionar</string>
     <string name="menu_bl_call_log">Exibir as chamadas bloqueadas</string>
     <string name="menu_bl_clear">Excluir lista de bloqueios</string>
@@ -199,7 +199,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_antispam_title_contactandanoy_group">Configurações</string>
     <string name="st_antispam_title_null_incoming">Números privados</string>
     <string name="st_antispam_title_service_sms">Notificações de serviços</string>
-    <string name="st_antispam_title_whitelist">excepções</string>
+    <string name="st_antispam_title_whitelist">Excepções</string>
     <string name="st_block_all">Bloquear chamadas e mensagens</string>
     <string name="st_block_mute">Bloquear chamadas e silenciar mensagens</string>
     <string name="st_block_private_call_button">Bloquear números privados</string>
@@ -212,7 +212,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_common_setting_group">Configurações de filtros</string>
     <string name="st_filter_keywords_setting_summary1">Mensagens de números desconhecidos que contenham palavras nesta lista serão bloqueadas.</string>
     <string name="st_filter_keywords_setting_summary2">"
-(Separe múltiplas palavras-chave usando uma vírgula)"</string>
+(Separe múltiplas palavras-chave utilizando uma vírgula)"</string>
     <string name="st_filter_keywords_setting_title">Definir filtro com palavras-chave</string>
     <string name="st_filter_keywords_title">Filtro com palavras-chave</string>
     <string name="st_filter_sms_button">Filtrar mensagens</string>
