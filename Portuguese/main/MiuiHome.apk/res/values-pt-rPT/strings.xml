@@ -28,7 +28,7 @@
     <string name="default_folder_title_tools">Ferramentas</string>
     <string name="edit_folder_title">Editar nome da pasta</string>
     <string name="editing_add_widget_tips">Editar widgets</string>
-    <string name="editing_mode_title_empty">Selecionar itens</string>
+    <string name="editing_mode_title_empty">Selecionar items</string>
     <string name="editing_set_transition_effect_tips">Selecionar efeito de transição de ecrã</string>
     <string name="editing_set_wallpaper_tips">Selecionar plano de fundo</string>
     <string name="editing_tips">Editar ecrã inicial</string>
@@ -175,4 +175,5 @@
     <string name="widget_favorite_contacts_style">Alterar tamanho</string>
     <string name="widget_gadget_player">Música</string>
     <string name="widget_global_search">Pesquisar</string>
+    <string name="editing_mode_enter_tip_text">Toque para editar ecrã inicial</string>
 </resources>
