@@ -31,7 +31,7 @@ Quando o zoom é aplicado, pode:
  também pode ampliar temporariamente o que estiver sob o dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, excepto no teclado e na barra de navegação."</string>
-    <string name="accessibility_screen_magnification_title">Gestos de ampliacção</string>
+    <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
     <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
     <string name="accessibility_service_no_apps_message">O TalkBack fornece comentários por voz para ajudar utilizadores cegos ou com visão reduzida. Deseja instalá-lo gratuitamente do Android Market?</string>
     <string name="accessibility_service_no_apps_title">Precisa de um leitor de ecrã?</string>
@@ -71,7 +71,7 @@ Observacção: o toque triplo para ampliar funciona em qualquer parte do ecrã, 
     <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre que %1$s crie widgets e aceda os dados</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-    <string name="always_allow_bind_appwidgets_text">optou por permitir que esta aplicação crie widgets e aceda aos dados.</string>
+    <string name="always_allow_bind_appwidgets_text">Optou por permitir que esta aplicação crie widgets e aceda aos dados.</string>
     <string name="android_beam_disabled_summary">Indisponível porque o NFC está Desactivado</string>
     <string name="android_beam_explained">"Quando este recurso está activado,  pode enviar o conteúdo da aplicação para outro dispositivo compatível com NFC, mantendo os dispositivos próximos. Por exemplo,  pode enviar páginas do navegador, vídeos do YouTube, contactos de pessoas e muito mais.
 
@@ -285,7 +285,7 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
     <string name="bluetooth_device_advanced_online_mode_title">ligar</string>
     <string name="bluetooth_device_advanced_profile_header_title">Perfis</string>
     <string name="bluetooth_device_advanced_rename_device">Renomear</string>
-    <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth pareado</string>
+    <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth emparelhado</string>
     <string name="bluetooth_device_context_connect">ligar</string>
     <string name="bluetooth_device_context_connect_advanced">Opções…</string>
     <string name="bluetooth_device_context_disconnect">Desligar</string>
