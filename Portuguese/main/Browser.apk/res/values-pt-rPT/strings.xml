@@ -373,7 +373,7 @@
     <string name="pref_autofill_enabled_summary">Preencher formulários da web com um único toque</string>
     <string name="pref_autofill_profile_editor">Preenchimento automático.de texto</string>
     <string name="pref_autofill_profile_editor_summary">Configurar preenchimento automático de texto em formulários da web</string>
-    <string name="pref_autologin_progress">Iniciar sessão nos sites do Google usando %s</string>
+    <string name="pref_autologin_progress">Iniciar sessão nos sites da Google utilizando %s</string>
     <string name="pref_autologin_progress_in_background">a iniciar sessão nos sites do Google utilizando %s em segundo plano</string>
     <string name="pref_autologin_title">Iniciar sessão automático do Google</string>
     <string name="pref_category_title_version">Versão</string>
@@ -405,7 +405,7 @@
     <string name="pref_content_search_engine">Definir motor de busca</string>
     <string name="pref_content_search_engine_summary">Escolher um motor de busca</string>
     <string name="pref_content_title">Conteúdo da página</string>
-    <string name="pref_data_preload_dialogtitle">Pré-carregando resultados de pesquisa</string>
+    <string name="pref_data_preload_dialogtitle">A pré-carregar resultados de pesquisa</string>
     <string name="pref_data_preload_summary">Permitir ao navegador pré-carregar resultados de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_title">Pré-carreg. dos resultados da pesquisa</string>
     <string name="pref_data_title">Gerir largura de banda</string>
@@ -507,7 +507,7 @@
     <string name="pref_setting_title">Configurações de página</string>
     <string name="pref_ua_mione_entry">MiOne</string>
     <string name="pref_ua_string">Seqüência de agente de Utilizador</string>
-    <string name="pref_ua_title">Gerir agente de Utilizadort</string>
+    <string name="pref_ua_title">Gerir agente de Utilizador</string>
     <string name="pref_version_summary">Versão: %s</string>
     <string name="pref_video_preload_dialogtitle">Pré-carregamento de vídeos</string>
     <string name="pref_video_preload_summary">" Permitir que navegador pré-carregue vídeos quando o servidor permitir"</string>
@@ -524,7 +524,7 @@
     <string name="profiler_no_storage_toast">Não foi possível iniciar o criador de perfil porque o armazenamento externo não está pronto</string>
     <string name="profiler_started_toast">Criador de perfil iniciado</string>
     <string name="profiler_stopped_toast">Criador de perfil finalizado. Os resultados estão em %1$s.</string>
-    <string name="progress_dialog_setting_wallpaper">Definindo papel de parede...</string>
+    <string name="progress_dialog_setting_wallpaper">Definindo o papel de parede...</string>
     <string name="qr_code_title">Código QR</string>
     <string name="quicklink_bookmark_save">Guardar em</string>
     <string name="quicklink_not_saved">Não foi possível adicionar à página inicial</string>
@@ -566,15 +566,15 @@
     <string name="router_download_exist">A transferência deste arquivo já existe</string>
     <string name="router_download_failed">Erro na transferência</string>
     <string name="router_download_success">transferência concluída</string>
-    <string name="same_bookmarks_warning">Esta página já foi salva nos favoritos</string>
+    <string name="same_bookmarks_warning">Esta página já foi guardada nos favoritos</string>
     <string name="same_folder_name_warning">Uma pasta com o mesmo nome já existe</string>
     <string name="save">OK</string>
     <string name="save_bookmark">Favorito</string>
     <string name="save_dialog_title">Guardar</string>
-    <string name="save_file_already_exist_alert_message">Um arquivocom o mesmo nome já existe, deseja substituí-lo?</string>
+    <string name="save_file_already_exist_alert_message">Um arquivo com o mesmo nome já existe, deseja substituí-lo?</string>
     <string name="save_file_already_exist_alert_title">Substituir arquivo?</string>
     <string name="save_image_failed">Não foi possível Guardar a imagem</string>
-    <string name="save_image_success">Imagem salva</string>
+    <string name="save_image_success">Imagem guardada</string>
     <string name="save_to_bookmarks">Guardar nos favoritos</string>
     <string name="save_to_camera">Guardar para a câmera</string>
     <string name="save_to_camera_failed">Não foi possível Guardar a imagem</string>
@@ -677,7 +677,7 @@
     <string name="view_certificate">Visualizar certificado</string>
     <string name="voice_sub_title">Não sabe o que dizer? Tente \"Abrir mi.com!\"</string>
     <string name="voice_title">Fale o seu comando…</string>
-    <string name="voice_title_distinguish">Processando…</string>
+    <string name="voice_title_distinguish">A processar…</string>
     <string name="voice_title_listening">A ouvir…</string>
     <string name="voice_title_please">Fale agora…</string>
     <string name="voice_title_speech_again">Não consegui entender</string>
@@ -696,7 +696,7 @@
     <string name="webapp_menu_settings">Configurações</string>
     <string name="webapp_menu_share">Partilhar</string>
     <string name="webapp_settings_title">Configurações</string>
-    <string name="webapp_splashview_loading">Carregando agora...</string>
+    <string name="webapp_splashview_loading">A carregar agora...</string>
     <string name="webapp_webapp_favortes_title">Favoritos</string>
     <string name="webpage_bookmark_title">Favoritos</string>
     <string name="webpage_history_title">Histórico</string>
