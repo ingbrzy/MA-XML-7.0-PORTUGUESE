@@ -32,7 +32,7 @@
 
  Tente novamente em %d segundos."</string>
     <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone incorretamente %d vezes. O telefone será restaurado aos padrões de fábrica.</string>
-    <string name="lockscreen_glogin_checking_password">Verificando…</string>
+    <string name="lockscreen_glogin_checking_password">A verificar…</string>
     <string name="lockscreen_glogin_invalid_input">Nome de utilizador ou palavra-passe inválidos.</string>
     <string name="lockscreen_glogin_password_hint">palavra-passe</string>
     <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
@@ -48,5 +48,5 @@
     <string name="unlockscreen_low_battery">Ligue o carregador.</string>
     <string name="unlockscreen_recharge_completed">Bateria carregada</string>
     <string name="unlockscreen_recharging_message">A carregar %d%%</string>
-    <string name="wrong_password">palavra-passe incorreta</string>
+    <string name="wrong_password">Palavra-passe incorreta</string>
 </resources>
