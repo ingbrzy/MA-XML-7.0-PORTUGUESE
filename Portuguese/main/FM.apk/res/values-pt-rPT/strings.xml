@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="FMRecording_reach_storage_threshold">Gravação interrompida: seu cartão SD está ficando sem espaço</string>
+    <string name="FMRecording_reach_storage_threshold">Gravação interrompida: espaço insufeciente no cartão SD</string>
     <string name="access_sd_fail">Não é possível aceder ao cartão SD.</string>
     <string name="alert_dialog_cancel">Cancelar</string>
     <string name="alert_dialog_ok">OK</string>
@@ -55,7 +55,7 @@
     <string name="hint_station_name">Digite o nome da estação</string>
     <string name="increase_af">Aumentar frequência</string>
     <string name="input_station">Frequência do rádio (MHz)</string>
-    <string name="label_recording">Gravando: %s</string>
+    <string name="label_recording">A gravar: %s</string>
     <string name="menu_add_list">Adicionar lista</string>
     <string name="menu_delete">Excluir</string>
     <string name="menu_edit">Editar</string>
@@ -65,7 +65,7 @@
     <string name="menu_play">Reproduzir</string>
     <string name="menu_record_list">Gravações</string>
     <string name="menu_record_start">Iniciar gravação</string>
-    <string name="menu_record_stop">Parar gravação</string>
+    <string name="menu_record_stop">Interromper gravação</string>
     <string name="menu_rename_list">Renomear lista</string>
     <string name="menu_reorder_list">Reordenar lista</string>
     <string name="menu_save_station_list">Adicionar à lista</string>
@@ -74,7 +74,7 @@
     <string name="menu_scan_start">Procurar estações</string>
     <string name="menu_scan_stop">Parar a procura</string>
     <string name="menu_settings">Configurações</string>
-    <string name="menu_sleep">Temporizador de desactivação</string>
+    <string name="menu_sleep">Temporizador de desligamento</string>
     <string name="menu_sleep_cancel">Cancelar temporizador</string>
     <string name="menu_speaker">Alternar para alto-falante</string>
     <string name="menu_stats">Estatísticas do Rádio FM</string>
@@ -103,9 +103,9 @@
     <string name="record_completed">Gravação concluída</string>
     <string name="record_error_file_removed">Gravação excluída: erro desconhecido</string>
     <string name="record_error_unknown">Gravação interrompida: erro desconhecido</string>
-    <string name="record_fail">Falha na gravação</string>
+    <string name="record_fail">Erro na gravação</string>
     <string name="record_file_format">%1$s_%2$s</string>
-    <string name="record_file_location_format">Gravação salva em \"%s\"</string>
+    <string name="record_file_location_format">Gravação guardada em \"%s\"</string>
     <string name="reduce_af">Reduzir frequência</string>
     <string name="regional_band">Bandas regionais</string>
     <string name="search_dialog_title">Procurar estações</string>
@@ -123,7 +123,7 @@
     <string name="station_edit">Editar</string>
     <string name="station_freq_format">%s MHz</string>
     <string name="station_move">Mover</string>
-    <string name="station_name_already_used">Já existe uma estação com este nome.</string>
+    <string name="station_name_already_used">Já existe uma estação com mesmo nome.</string>
     <string name="stations_list">Lista de estações</string>
     <string name="stations_list_empty">Nenhuma estação</string>
     <string name="status_recording">A gravar: %s</string>
@@ -142,8 +142,8 @@
     <string name="toast_fm_recorder_internal_error">Erro durante gravação</string>
     <string name="toast_fm_recorder_storage_full">Não é possível continuar a gravação: espaço insuficiente</string>
     <string name="toast_fm_seeking">A procurar…</string>
-    <string name="toast_fm_starting">Iniciando…</string>
-    <string name="toast_fm_stoping">Parando…</string>
+    <string name="toast_fm_starting">A iniciar…</string>
+    <string name="toast_fm_stoping">A parar…</string>
     <string name="toast_removed_from_presets">Removido das estações</string>
     <string name="toast_save_station">%s MHz foi guardado</string>
     <string name="toast_sleep_mode">O rádio será desligado em %s</string>
@@ -154,6 +154,6 @@
     <string name="turn_on_fm">Ligar Rádio FM</string>
     <string name="turn_on_speaker_phone">Activar alto-falante</string>
     <string name="txt_divider">" | "</string>
-    <string name="txt_sleep_mode">Temporizador de desativação</string>
+    <string name="txt_sleep_mode">Temporizador de desligamento</string>
     <string name="view_stations_list">Ver lista de estações</string>
 </resources>
