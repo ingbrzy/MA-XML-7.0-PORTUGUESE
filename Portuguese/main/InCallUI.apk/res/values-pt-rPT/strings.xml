@@ -76,10 +76,10 @@
     <string name="call_settings">Configurações de chamadas</string>
     <string name="call_title_redialing_with_times">A remarcar %d vezes</string>
     <string name="caller_manage_header">Chamada de conferência %s</string>
-    <string name="calling_via_template">Chamando via %s</string>
+    <string name="calling_via_template">A chamar via %s</string>
     <string name="card_title_call_ended">Chamada encerrada</string>
     <string name="card_title_conf_call">Chamada de conferência</string>
-    <string name="card_title_dialing">Marcando</string>
+    <string name="card_title_dialing">A marcar</string>
     <string name="card_title_hanging_up">A desligar</string>
     <string name="card_title_in_call">Em chamada</string>
     <string name="card_title_in_call_short">Em chamada</string>
@@ -173,7 +173,7 @@
     <string name="enable_disable_emergency_transmissão">Transmissão de emergência</string>
     <string name="enable_disable_eo">Oportunidades de emprego</string>
     <string name="enable_disable_international">Internacional</string>
-    <string name="enable_disable_lafs">Programacção de voos do aeroporto local</string>
+    <string name="enable_disable_lafs">Programação de voos do aeroporto local</string>
     <string name="enable_disable_local">Local</string>
     <string name="enable_disable_local_weather">Clima local</string>
     <string name="enable_disable_lodgings">Alojamentos</string>
@@ -200,7 +200,7 @@
     <string name="error_updating_title">Erro de configuração da chamada</string>
     <string name="exception_error">Erro de rede ou do cartão SIM.</string>
     <string name="fdn">Números de chamadas fixas</string>
-    <string name="fdn_activation">activacção do FDN</string>
+    <string name="fdn_activation">Activação do FDN</string>
     <string name="fdn_check_failure">A configuração \"Números de chamada fixos\" da aplicaçao do telefone está activada. Por isso, alguns recursos relacionados a chamadas não funcionam.</string>
     <string name="fdn_contact_added">Número de chamadas fixas adicionado.</string>
     <string name="fdn_contact_deleted">Número de chamadas fixas excluído.</string>
@@ -211,14 +211,14 @@
     <string name="fdn_invalid_number">O FDN não foi actualizado porque o número não pode exceder 20 dígitos.</string>
     <string name="fraud_call_answer">Atender</string>
     <string name="fraud_call_decline">Rejeitar</string>
-    <string name="fraud_call_waring">Cuidado: Verifique sempre a identidade do contacto durante a chamada antes de responder quaisquer perguntas que envolva suas informações pessoais.</string>
+    <string name="fraud_call_waring">Cuidado: Verifique sempre a identidade do contacto durante a chamada antes de responder a perguntas que envolva as informações pessoais.</string>
     <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
 Entre em contacto com a operadora se o problema persistir."</string>
     <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as configurações de número actual de reencaminhamento.
 Mudar para o novo fornecedor?"</string>
     <string name="general_news_settings">Notícias gerais</string>
     <string name="get_pin2">Digitar PIN2</string>
-    <string name="goPrivate">conversar em particular</string>
+    <string name="goPrivate">Conversar em particular</string>
     <string name="gsm_umts_options">Opções GSM/UMTS</string>
     <string name="hac_mode_summary">Activar compatibilidade com aparelhos auditivos</string>
     <string name="hac_mode_title">Aparelhos auditivos</string>
@@ -326,7 +326,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="not_allowed">O cartão SIM não permite uma ligação com esta rede.</string>
     <string name="not_voice_capable">Chamada de voz não compatível</string>
     <string name="notification_action_end_call">Desligar</string>
-    <string name="notification_dialing">Marcando</string>
+    <string name="notification_dialing">A marcar</string>
     <string name="notification_incoming_call">A receber chamada</string>
     <string name="notification_missedCallTicker">Chamada perdida de %s</string>
     <string name="notification_missedCallTitle">Chamada perdida</string>
@@ -349,7 +349,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="onHold">Em espera</string>
     <string name="online_check_provider_info">Identificado por %s</string>
     <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-    <string name="online_check_warning_info_by_cmb">Verifique a identidade da pessoa com quem está conversando antes de responder a perguntas sobre suas finanças pessoais.</string>
+    <string name="online_check_warning_info_by_cmb">Verifique a identidade da pessoa com quem está a conversar antes de responder a perguntas sobre finanças pessoais.</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
     <string name="onscreenAddCallText">Adicionar chamada</string>
     <string name="onscreenAddParticipant">Adicionar Participante</string>
@@ -378,7 +378,7 @@ Mudar para o novo fornecedor?"</string>
     <string name="onscreen_manage_calls_text">Gerir chamadas</string>
     <string name="onscreen_merge_calls_text">Juntar chamadas</string>
     <string name="onscreen_mute_text">Mudo</string>
-    <string name="onscreen_note_text">Anotação</string>
+    <string name="onscreen_note_text">Notas</string>
     <string name="onscreen_send_flash_text">Flash</string>
     <string name="onscreen_speaker_text">Alto-falante</string>
     <string name="onscreen_swap_calls_text">Trocar</string>
@@ -409,7 +409,7 @@ Talvez seja necessário encontrar uma área com uma cobertura melhor (próximo d
 
 Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais opções."</string>
     <string name="other_settings">Outras configurações de chamada</string>
-    <string name="password_title">palavra-passe</string>
+    <string name="password_title">Palavra-passe</string>
     <string name="pause_prompt_no">Não</string>
     <string name="pause_prompt_str">"A enviar tons
 "</string>
@@ -447,7 +447,7 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede predefinido: WCDMA</string>
     <string name="primary_account_summary_with">Conta principal. %s</string>
     <string name="private_num">Número privado</string>
-    <string name="progress_dialog_exiting_ecm">Saindo do modo de retorno de chamada de emergência</string>
+    <string name="progress_dialog_exiting_ecm">A sair do modo de retorno de chamada de emergência</string>
     <string name="proxy_address_title">Endereço do proxy de saída</string>
     <string name="puk2_requested">Palavra-passe incorreta. SIM bloqueado. PUK2 solicitado.</string>
     <string name="puk_requested">Palavra-passe incorreta. SIM bloqueado! PUK2 solicitado.</string>
@@ -473,10 +473,10 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="remove_sip_account">Remover conta</string>
     <string name="removing_account">A remover a conta…</string>
     <string name="requesting_unlock">A solicitar o desbloqueio de rede…</string>
-    <string name="respond_via_sms_canned_response_1">Não posso falar agora. Envie um SMS, por favor?</string>
+    <string name="respond_via_sms_canned_response_1">Não posso falar agora. Envia um SMS, por favor?</string>
     <string name="respond_via_sms_canned_response_2">Já te ligo de volta.</string>
-    <string name="respond_via_sms_canned_response_3">Eu ligo-te mais tarde.</string>
-    <string name="respond_via_sms_canned_response_4">Não posso falar agora. Liga depois, por favor?</string>
+    <string name="respond_via_sms_canned_response_3">Ligo-te mais tarde.</string>
+    <string name="respond_via_sms_canned_response_4">Agora não posso falar. Liga depois, por favor?</string>
     <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
     <string name="respond_via_sms_custom_message">Escreva a resposta...</string>
     <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
@@ -493,11 +493,11 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="roaming">Roaming de dados</string>
     <string name="roaming_disable">ligar a serviços de dados quando estiver em roaming</string>
     <string name="roaming_enable">ligar a serviços de dados quando estiver em roaming</string>
-    <string name="roaming_reenable_message">Perdeu a conectividade de dados porque deixou o roaming de dados da rede doméstica desactivado.</string>
+    <string name="roaming_reenable_message">Perdeu a ligação de dados porque deixou o roaming de dados da rede doméstica desactivado.</string>
     <string name="roaming_warning">Permitir roaming de dados? Isso pode causar cobranças significativas de roaming!</string>
     <string name="save">Guardar</string>
     <string name="saving_account">A guardar a conta…</string>
-    <string name="search_networks">Pesquisar redes</string>
+    <string name="search_networks">Localizar redes</string>
     <string name="selectContact">Selecionar contacto</string>
     <string name="select_automatically">Selecionar automaticamente</string>
     <string name="send_button">Enviar</string>
@@ -528,7 +528,7 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="sip_menu_marcard">Desfazer</string>
     <string name="sip_menu_save">Guardar</string>
     <string name="sip_receive_calls">Receber chamadas</string>
-    <string name="sip_receive_calls_summary">Reduz a duracção da bateria</string>
+    <string name="sip_receive_calls_summary">Reduz a duração da bateria</string>
     <string name="sip_settings">Configurações de chamada pela internet</string>
     <string name="sports_news_settings">Notícias de desporto</string>
     <string name="stk_cc_ss_to_dial_error">pedido SS alterado para pedido de chamada.</string>
@@ -552,7 +552,7 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="sum_cfu_enabled_no_number">Número indisponível</string>
     <string name="sum_cw_disabled">Durante uma chamada, avise sobre chamadas recebidas</string>
     <string name="sum_cw_enabled">Durante uma chamada, avise sobre chamadas recebidas</string>
-    <string name="sum_default_caller_id">Usar configurações padrão da operadora para Exibir o meu número em chamadas efectuadas</string>
+    <string name="sum_default_caller_id">Usar configurações prédefinidas da operadora para Exibir o meu número em chamadas efectuadas</string>
     <string name="sum_fdn">Gerir números de chamadas fixas</string>
     <string name="sum_fdn_change_pin">Alterar PIN para acesso FDN</string>
     <string name="sum_fdn_manage_list">Gerir lista de números telefônicos</string>
@@ -566,7 +566,7 @@ Tente de novo ou ligue para o serviço de atendimento ao cliente para obter mais
     <string name="suspect_info">Verifique a identidade da pessoa com quem está conversando antes de responder a perguntas sobre finanças pessoais.</string>
     <string name="technology_news_disable">Notícias de tecnologia desactivadas</string>
     <string name="technology_news_enable">Notícias de tecnologia activadas</string>
-    <string name="third_party_account_summary">No momento, esta conta é usada pela aplicação %s.</string>
+    <string name="third_party_account_summary">No momento, esta conta é utilizada pela aplicação %s.</string>
     <string name="throttle_current_usage">Uso de dados no período actual</string>
     <string name="throttle_data_rate_reduced_subtext">"Máximo de %1$s excedido
 Taxa de dados reduzida para %2$d Kb/s"</string>
