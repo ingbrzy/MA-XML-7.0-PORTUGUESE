@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_bind_prompt">A mover dados do utilizador… Isto poderá levar alguns minutos.</string>
+    <string name="account_bind_prompt">A mover dados do utilizador… Poderá levar alguns minutos.</string>
     <string name="add_task">Adicionar tarefas</string>
     <string name="adding_upload_tasks">A adicionar tarefas…</string>
     <string name="already_signin_description">Já fez a verificação hoje?.</string>
@@ -37,7 +37,7 @@
     <string name="clean_trash_box">Esvaziar lixo</string>
     <string name="cleaning">A eliminar…</string>
     <string name="close">Fechar</string>
-    <string name="compress_fail">erro ao compactar: um arquivo com o mesmo nome já existe.</string>
+    <string name="compress_fail">Erro ao compactar: um arquivo com o mesmo nome já existe.</string>
     <string name="compress_message">Compactar para…</string>
     <string name="compress_title">Compactar</string>
     <string name="confirm">Confirmar</string>
@@ -93,7 +93,7 @@
     <string name="file_info_location">Local:</string>
     <string name="file_info_modified">Modificado em:</string>
     <string name="file_info_size">Tamanho:</string>
-    <string name="file_loading">Carregando…</string>
+    <string name="file_loading">A carregar…</string>
     <string name="file_not_exist">O arquivo não existe</string>
     <string name="file_too_large">O arquivo é muito grande para ser enviado.</string>
     <string name="finished">Concluído</string>
@@ -103,8 +103,8 @@
     <string name="ftp_account_req_notice">4 a 16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
     <string name="ftp_anonymous_login">Iniciar sessão e anónimo</string>
     <string name="ftp_invalid_username_or_password">Nome de utilizador ou palavra-passe inválidos.</string>
-    <string name="ftp_open_port_error">Erro abrindo a porta: verifique sua ligação com a Internet ou altere o número da porta.</string>
-    <string name="ftp_password_hint">palavra-passe</string>
+    <string name="ftp_open_port_error">Erro ao abrir a porta: verifique sua ligação com a Internet ou altere o número da porta.</string>
+    <string name="ftp_password_hint">Palavra-passe</string>
     <string name="ftp_port_number">Número da porta</string>
     <string name="ftp_transfer_secure">Segurança</string>
     <string name="ftp_username_and_passworld">Iniciar sessão</string>
@@ -158,7 +158,7 @@
     <string name="my_video">Vídeos</string>
     <string name="name_illegal">Necessário digitar um nome.</string>
     <string name="net_lose_connected">A ligação foi perdida.</string>
-    <string name="networkView_notConnected">Não foi possível conectar-se à rede</string>
+    <string name="networkView_notConnected">Não foi possível ligar à rede</string>
     <string name="network_connect_confirm_des">Para utilizar o KuaiPan, a aplicação utilizará a ligação de rede. Permitir?</string>
     <string name="never_notify_network_connect">Não exibir novamente</string>
     <string name="new_folder_name">Pasta sem nome</string>
@@ -173,11 +173,11 @@
     <string name="notif_server_starting">A iniciar servidor FTP…</string>
     <string name="notif_title">O servidor FTP está em execução</string>
     <string name="open_changed_file_message">"O arquivo que está tentando abrir foi alterado. Por favor:
-1. Faça a transferência do arquivo novamente para actualizá-lo.
+1. Execute a transferência do arquivo novamente para actualizá-lo.
 2. Efetue o envio do arquivo na sua conta KuaiPan."</string>
     <string name="open_changed_file_title">Alterações aplicadas.</string>
-    <string name="open_file_failed">Falha ao abrir</string>
-    <string name="operate_confirm_in_3g">Usar a ligação de dados móveis para transferir este arquivo grande?</string>
+    <string name="open_file_failed">Erro ao abrir</string>
+    <string name="operate_confirm_in_3g">Utilizar a ligação de dados móveis para transferir este arquivo grande?</string>
     <string name="operating">A processar…</string>
     <string name="operation_agree">Permitir e continuar</string>
     <string name="operation_cancel">Cancelar</string>
@@ -212,7 +212,7 @@
     <string name="operation_resume_all">Iniciar tudo</string>
     <string name="operation_save">Salvar</string>
     <string name="operation_send">Enviar</string>
-    <string name="operation_show_sys">Mostrar arquivos ocultos</string>
+    <string name="operation_show_sys">Exibir arquivos ocultos</string>
     <string name="operation_unfavorite">Remover dos favoritos</string>
     <string name="pan_settting">Configurações do KuaiPan</string>
     <string name="paused">Em Pausa</string>
@@ -232,10 +232,10 @@
     <string name="server_control_advanced_settings">Configurações de FTP</string>
     <string name="server_control_charset">Codificação de transferências</string>
     <string name="server_control_settings">Configurações</string>
-    <string name="share_box">partilhado</string>
+    <string name="share_box">Partilhado</string>
     <string name="share_box_receive">Recebidos</string>
     <string name="share_box_send">Enviados</string>
-    <string name="share_link_failed">Falha ao gerar o endereço.</string>
+    <string name="share_link_failed">Erro ao gerar o endereço.</string>
     <string name="show_message">Necessário transferir este arquivo antes de o abrir.</string>
     <string name="sign_description">Iniciar sessão…</string>
     <string name="signin_error">Não foi possível ligar-se ao servidor. Verifique a ligação com a Internet.</string>
@@ -251,7 +251,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
-    <string name="storage_warning">Não foi possível aceder o armazenamento externo</string>
+    <string name="storage_warning">Não foi possível aceder ao armazenamento externo</string>
     <string name="sys_size_enable">Activar</string>
     <string name="system_alert">Lembrar</string>
     <string name="tab_category">Categorias</string>
@@ -259,7 +259,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="tab_local">Local</string>
     <string name="tab_path">Caminho</string>
     <string name="terabyteShort">TB</string>
-    <string name="toast_file_not_can_read">Nenhuma aplicação encontrada para executar essa acção.</string>
+    <string name="toast_file_not_can_read">Nenhuma aplicação encontrada para executar esta acção.</string>
     <string name="tools">Ferramentas</string>
     <string name="trans_task">Transferências</string>
     <string name="transing">A enviar</string>
@@ -279,7 +279,7 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="upload_file_toolarge_message">Erro ao enviar %1$d:  não pode enviar arquivos maiores do que 300MB.</string>
     <string name="uploading">A enviar</string>
     <string name="used">Utilizado</string>
-    <string name="user_guide">Conheça mais sobre o KuaiPan</string>
+    <string name="user_guide">Saiba mais sobre o KuaiPan</string>
     <string name="user_guide_continue_use">Continuar</string>
     <string name="user_guide_download_other_version">Envie arquivos a partir do computador</string>
     <string name="user_guide_kuaipan_copy">Copie arquivos do telefone e, em seguida, cole-os no KuaiPan</string>
