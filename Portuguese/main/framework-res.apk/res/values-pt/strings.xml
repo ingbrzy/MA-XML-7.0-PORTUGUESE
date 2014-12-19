@@ -183,7 +183,7 @@ usando %s"</string>
   <string name="description_direction_left">Para %s, deslize para a esquerda.</string>
   <string name="description_direction_right">Para %s, deslize para a direita.</string>
   <string name="description_direction_up">Para %s, deslize para cima.</string>
-  <string name="description_target_camera">câmera</string>
+  <string name="description_target_camera">Câmera</string>
   <string name="description_target_search">Pesquisar</string>
   <string name="description_target_silent">Silencioso</string>
   <string name="description_target_soundon">Som activado</string>
@@ -305,7 +305,7 @@ usando %s"</string>
   <string name="httpErrorRedirectLoop">A página contém muitos redirecionamentos do servidor.</string>
   <string name="httpErrorTimeout">O tempo limite de ligação com o servidor esgotou.</string>
   <string name="httpErrorTooManyRequests">Demasiadas solicitações a ser processadas. Tente novamente mais tarde.</string>
-  <string name="httpErrorUnsupportedAuthScheme">O esquema de autenticacção do site não é suportado.</string>
+  <string name="httpErrorUnsupportedAuthScheme">O esquema de autenticação do site não é suportado.</string>
   <string name="httpErrorUnsupportedScheme">O protocolo não é compatível.</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Personalizado</string>
@@ -342,7 +342,7 @@ usando %s"</string>
 Tem certeza de que deseja sair desta página?"</string>
   <string name="js_dialog_before_unload_negActive_button">Permanecer nesta página</string>
   <string name="js_dialog_before_unload_positive_button">Sair desta página</string>
-  <string name="js_dialog_before_unload_title">Confirmar navegacção</string>
+  <string name="js_dialog_before_unload_title">Confirmar navegação</string>
   <string name="js_dialog_title">A página em \"%s\" diz:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Ligue um auricular para ouvir as teclas da palavra-passe.</string>
@@ -354,7 +354,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="keyboardview_keycode_enter">Enter</string>
   <string name="keyboardview_keycode_mode_change">Alteração do modo</string>
   <string name="keyboardview_keycode_shift">Shift</string>
-  <string name="keygaurd_accessibility_media_controls">Controles de média</string>
+  <string name="keygaurd_accessibility_media_controls">Controles de mutimédia</string>
   <string name="keyguard_accessibility_add_widget">Adicionar widget</string>
   <string name="keyguard_accessibility_camera">Câmera</string>
   <string name="keyguard_accessibility_expand_lock_area">Expandir a área de desbloqueio.</string>
@@ -373,8 +373,8 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d de %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Widget %1$s excluído.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Vazio</string>
-  <string name="keyguard_accessibility_widget_reorder_end">Reordenacção de widgets concluída.</string>
-  <string name="keyguard_accessibility_widget_reorder_start">Reordenacção de widgets iniciada.</string>
+  <string name="keyguard_accessibility_widget_reorder_end">Reordenação de widgets concluída.</string>
+  <string name="keyguard_accessibility_widget_reorder_start">Reordenação de widgets iniciada.</string>
   <string name="keyguard_label_text">Para desbloquear, pressione Menu e, em seguida, 0.</string>
   <string name="keyguard_password_enter_password_code">Digite a palavra-passe para desbloquear</string>
   <string name="keyguard_password_enter_pin_code">Insira o código PIN</string>
@@ -507,7 +507,7 @@ Tente novamente em %d segundos."</string>
   <string name="low_memory">O armazenamento do telefone está cheio. Excluir alguns arquivos para libertar espaço.</string>
   <string name="me">Eu</string>
   <string name="media_bad_removal">O cartão SD foi removido antes de ser desconectado.</string>
-  <string name="media_checking">O armazenamento USB está sendo verificado no momento.</string>
+  <string name="media_checking">O armazenamento USB está a ser verificado no momento.</string>
   <string name="media_removed">O cartão SD foi removido.</string>
   <string name="media_route_button_content_description">Saída de média</string>
   <string name="media_route_chooser_extended_settings">Configurações</string>
@@ -661,7 +661,7 @@ Tente novamente em %d segundos."</string>
   <string name="permdesc_accessContentProvidersExternally">Permite que o proprietário tenha acesso a fornecedores de conteúdo a partir da camada. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação aceda sua localização exacta por meio do sistema de posicionamento global (GPS) ou de fontes de localização da rede, como torres de telemovel e redes Wi-Fi. Esses serviços de localização devem estar activos e disponíveis para que sejam usados pela aplicação. A aplicação pode usar esta permissão para determinar onde está, além de consumir mais bateria.</string>
   <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos do provedor não relacionados à localização. Isso pode permitir que a aplicação interfira no funcionamento do GPS ou de outras fontes de localização.</string>
-  <string name="permdesc_accessMockLocation">Criar fontes de localizacção simuladas para testar ou instalar um novo provedor de localização. Isso permite que a aplicação substitua a localização e/ou o estado retornado por outras fontes de localização, como o GPS ou fornecedores de localização.</string>
+  <string name="permdesc_accessMockLocation">Criar fontes de localização simuladas para testar ou instalar um novo provedor de localização. Isso permite que a aplicação substitua a localização e/ou o estado retornado por outras fontes de localização, como o GPS ou fornecedores de localização.</string>
   <string name="permdesc_accessMtp">Permite acesso ao driver MTP do núcleo para implementar o protocolo USB MTP.</string>
   <string name="permdesc_accessNetworkConditions">Permite que a aplicação detecte observações nas condições da rede. Não deve ser necessário para aplicações comuns.</string>
   <string name="permdesc_accessNetworkState">Permite que a aplicação aceda a informações sobre ligações de rede, como as redes existentes e ligadas.</string>
@@ -919,7 +919,7 @@ Tente novamente em %d segundos."</string>
   <string name="permgrouplab_location">Seu local</string>
   <string name="permgrouplab_messages">Suas mensagens</string>
   <string name="permgrouplab_microphone">Microfone</string>
-  <string name="permgrouplab_network">Comunicacção da rede</string>
+  <string name="permgrouplab_network">Comunicação da rede</string>
   <string name="permgrouplab_personalInfo">Suas informações pessoais</string>
   <string name="permgrouplab_phoneCalls">Chamadas telefónicas</string>
   <string name="permgrouplab_screenlock">Ecrã de bloqueio</string>
@@ -940,7 +940,7 @@ para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">localização aproximada (com base na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder fornec. de conteúdo externamente</string>
   <string name="permlab_accessFineLocation">localizacção precisa (GPS e com base na rede)</string>
-  <string name="permlab_accessLocationExtraCommands">aceder comandos extras do provedor de localizacção</string>
+  <string name="permlab_accessLocationExtraCommands">Aceder a comandos extras do fornecedor de localizacção</string>
   <string name="permlab_accessMockLocation">fontes de locais fictícios para teste</string>
   <string name="permlab_accessMtp">Implementar protocolo MTP</string>
   <string name="permlab_accessNetworkConditions">detectar observações nas condições da rede</string>
@@ -1040,12 +1040,12 @@ para a conta %s."</string>
   <string name="permlab_interactAcrossUsersFull">permissão total para interagir entre os utilizadors</string>
   <string name="permlab_internalSystemWindow">exibir janelas não autorizadas</string>
   <string name="permlab_invokeCarrierSetup">invocar o aplicação de configuracção fornecido pela operadora</string>
-  <string name="permlab_killBackgroundProcesses">fechar outros aplicações</string>
-  <string name="permlab_locationUpdates">controlar as notificações de atualizacção do local</string>
+  <string name="permlab_killBackgroundProcesses">Encerrar outras aplicações</string>
+  <string name="permlab_locationUpdates">Controlar as notificações de atualização do local</string>
   <string name="permlab_magnify_display">ampliar monitor</string>
   <string name="permlab_manageAccounts">adicionar ou remover contas</string>
   <string name="permlab_manageActivityStacks">Gerir pilhas de actividades</string>
-  <string name="permlab_manageAppTokens">Gerir tokens do aplicação</string>
+  <string name="permlab_manageAppTokens">Gerir tokens da aplicação</string>
   <string name="permlab_manageCaCertificates">Gerir credenciais confiáveis</string>
   <string name="permlab_manageDeviceAdmins">adicionar ou remover um administrador do dispositivo</string>
   <string name="permlab_manageDocs">Gerir armaz. de documentos</string>
@@ -1431,7 +1431,7 @@ A audição em volume elevado por períodos longos pode prejudicar a audição."
   <string name="vpn_lockdown_connecting">VPN sempre activa a ligar...</string>
   <string name="vpn_lockdown_error">Erro na VPN sempre activa</string>
   <string name="vpn_text">Toque para gerir a rede.</string>
-  <string name="vpn_text_long">Ligado a %s. Toque para gerenciar a rede.</string>
+  <string name="vpn_text_long">Ligado a %s. Toque para gerir a rede.</string>
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">A VPN está activada por %s</string>
   <string name="wait">Aguardar</string>
@@ -1440,7 +1440,7 @@ A audição em volume elevado por períodos longos pode prejudicar a audição."
 
 Deseja fechá-la?"</string>
   <string name="websearch">Pesquisa na web do Google</string>
-  <string name="webviewchromium_accessibility_content_view">Visualizacção da Web</string>
+  <string name="webviewchromium_accessibility_content_view">Visualização da Web</string>
   <string name="webviewchromium_accessibility_date_picker_month">Mês</string>
   <string name="webviewchromium_accessibility_date_picker_week">Semana</string>
   <string name="webviewchromium_accessibility_date_picker_year">Ano</string>
@@ -1466,7 +1466,7 @@ Deseja fechá-la?"</string>
   <string name="webviewchromium_color_picker_button_yellow">Amarelo</string>
   <string name="webviewchromium_color_picker_dialog_title">Selecionar cor</string>
   <string name="webviewchromium_color_picker_hue">Matiz</string>
-  <string name="webviewchromium_color_picker_saturation">Saturacção</string>
+  <string name="webviewchromium_color_picker_saturation">Saturação</string>
   <string name="webviewchromium_color_picker_value">Valor</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Erro ao copiar para a área de transferência</string>
   <string name="webviewchromium_date_picker_dialog_clear">Eliminar</string>
