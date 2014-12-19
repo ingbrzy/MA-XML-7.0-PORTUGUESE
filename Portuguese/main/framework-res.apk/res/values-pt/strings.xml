@@ -679,7 +679,7 @@ Tente novamente em %d segundos."</string>
   <string name="permdesc_asec_mount_unmount">Permite que a aplicação ligue/desligue o armazenamento interno.</string>
   <string name="permdesc_asec_rename">Permite que a aplicação renomeie o armazenamento interno.</string>
   <string name="permdesc_authenticateAccounts">Permite que a aplicação use os recursos do autenticador de conta do AccountManager, incluindo a criação de contas e a obtenção e definição de palavra-passes.</string>
-  <string name="permdesc_backup">Permite que a aplicação controle o backup do sistema e restaure mecanismos. Não deve ser usado em aplicações normais.</string>
+  <string name="permdesc_backup">Permite que a aplicação controle a cópia de segurança do sistema e restaure mecanismos. Não deve ser usado em aplicações normais.</string>
   <string name="permdesc_batteryStats">Permite á aplicação ler os dados de uso da bateria de baixo nível actuais. Pode fornecer ao aplicação informações detalhadas sobre os aplicações utilizadas.</string>
   <string name="permdesc_bindAccessibilityService">Permite que o proprietário use a interface de nível superior de um serviço de acessibilidade. Nunca deve ser necessário para aplicações comuns.</string>
   <string name="permdesc_bindDeviceAdmin">Permite que o proprietário envie tentativas ao administrador de um aparelho. Nunca deve ser necessário para aplicações normais.</string>
@@ -1005,7 +1005,7 @@ para a conta %s."</string>
   <string name="permlab_clearAppCache">Excluir todos os dados do cache do aplicação</string>
   <string name="permlab_clearAppUserData">Excluir dados de outros aplicações</string>
   <string name="permlab_configureWifiDisplay">Configurar monitores Wi-Fi</string>
-  <string name="permlab_confirm_full_backup">Confirmar um backup completo ou uma operacção de restauracção</string>
+  <string name="permlab_confirm_full_backup">Confirmar uma cópia de segurança completo ou uma operação de restauração</string>
   <string name="permlab_controlWifiDisplay">Controlar monitores Wi-Fi</string>
   <string name="permlab_control_keyguard">Controlar a exibição e ocultacção do bloqueio de ecrã</string>
   <string name="permlab_copyProtectedData">Copiar conteúdo</string>
