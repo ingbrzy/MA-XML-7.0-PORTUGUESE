@@ -10,7 +10,7 @@
     <string name="AD_BLOCK_ALL">Bloquear todos</string>
     <string name="AD_COUNT">%d bloqueado(s)</string>
     <string name="AD_Info">Complemento de anúncios</string>
-    <string name="AD_Info_Hint">Adwares são usados por outras aplicações para enviar anúncios ao dispositivo.</string>
+    <string name="AD_Info_Hint">Adwares são utilizados por outras aplicações para enviar anúncios ao dispositivo.</string>
     <string name="AD_NOT_BLOCK">Não bloquear</string>
     <string name="AD_SCANNING">A verificar…</string>
     <string name="AD_SCAN_BUTTON">Verificar</string>
@@ -20,7 +20,6 @@
     <string name="Call_ADRESS">Bloqueio de locais</string>
     <string name="Call_BLACKLIST">Bloqueio de chamadas</string>
     <string name="Call_DEFAULT">Lista de bloqueio inteligente</string>
-    <string name="Call_MODENAME">Bloqueio padrão</string>
     <string name="Call_PREFIX">Bloqueio de prefixos</string>
     <string name="Call_PRIVATE_CALL">Chamadas privadas</string>
     <string name="NACaddnumcontent">Marque o número de telefone</string>
@@ -31,7 +30,6 @@
     <string name="SMS_BLACKLIST">Bloqueio de mensagens</string>
     <string name="SMS_DEFAULT">Bloqueio inteligente</string>
     <string name="SMS_KEYWORDS">Bloqueio por palavra-passe</string>
-    <string name="SMS_MODENAME">Bloqueio predefinido</string>
     <string name="SMS_PREFIX">Bloqueio de prefixos</string>
     <string name="SMS_SERVICE">Bloqueio de serviços</string>
     <string name="SMSpass">Permitir mensagens</string>
@@ -59,10 +57,21 @@
     <string name="blacklist_prefix_add_hint">Bloquear todos os números que começam com este prefixo</string>
     <string name="block_message_number">SMS: %d</string>
     <string name="block_phone_number">Chamadas: %d</string>
+    <string name="button_text_delete">Eliminar</string>
     <string name="button_to_setting">Configurações</string>
     <string name="call_delete_hint">Excluir todas as chamadas bloqueadas do número selecionado?</string>
+    <string name="call_transfer_block">Bloquear reencaminhamento de chamadas</string>
+    <string name="call_transfer_block_type">Bloquear reencaminhamento de chamadas</string>
+    <string name="call_transfer_info">Bloquear chamadas encaminhadas a partir de números desconhecidos</string>
     <string name="cancle">Cancelar</string>
     <string name="close_callwait">Desactivado</string>
+    <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT NOT NULL DEFAULT NULL );</string>
+    <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL DEFAULT NULL, state TEXT NOT NULL DEFAULT NULL );</string>
+    <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 0, type INTEGER );</string>
+    <string name="create_table_report_sms">create table reportSms( id TEXT NOT NULL );</string>
+    <string name="create_table_report_sms_pending">create table reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+    <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode TEXT DEFAULT -1 );</string>
+    <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT NOT NULL DEFAULT -1, mode TEXT );</string>
     <string name="customizer_mode_user_define_name">Minhas regras</string>
     <string name="dlg_add_blacklist">Bloquear este número?</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s e %2$s outros contactos já estão na lista de excepções.</string>
@@ -129,7 +138,7 @@
     <string name="mark_meal">Entrega de alimentos</string>
     <string name="mark_meal_block">Relatado como entrega de alimentos</string>
     <string name="mark_number_info">"
-Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você estiver aguardando uma encomenda). Somente bloqueie números que não deseje receber nenhuma chamada."</string>
+Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você estiver a aguardar uma encomenda). Somente bloqueie números que não deseje receber nenhuma chamada."</string>
     <string name="mark_sell">Telemarketing</string>
     <string name="mark_sell_block">Relatado como telemarketing</string>
     <string name="marked_by_others">"%d outros Utilizadores o marcaram como "</string>
@@ -163,8 +172,15 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="note_sms_none">Vazio</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_callwait">Activado</string>
+    <string name="read_all_sms">Marcar como lidas</string>
+    <string name="report_error">"Não foi possível relatar mensagem"</string>
+    <string name="report_error_not_net">"Não é possível ligar-se à rede"</string>
+    <string name="report_only">Escolha uma mensagem para relatar</string>
+    <string name="report_sms">Relatar menssagens</string>
+    <string name="report_success">Mensagens relatadas</string>
     <string name="sim_not_ready">O cartão SIM não está pronto</string>
     <string name="sms_delete_hint">Excluir todos os SMS bloqueados enviados dos números selecionados?</string>
+    <string name="special_number_group">Bloquear números especiais</string>
     <string name="st_advanced_setting_group">Avançado</string>
     <string name="st_antispam_black_adress_add">Selecionar um local</string>
     <string name="st_antispam_bw_adress_add">Selecionar local</string>
@@ -238,7 +254,7 @@ Observe que algumas vezes estas chamadas podem ser úteis (ex.: quando você est
     <string name="st_title_adblock_setting">Configurações do bloqueador de anúncios</string>
     <string name="st_title_addblacklist">Adicionar à lista de bloqueio</string>
     <string name="st_title_addwhitelist">Adicionar à lista de excepções</string>
-    <string name="st_title_adress">Selecionar local</string>
+    <string name="st_title_adress">Adicionar localizações</string>
     <string name="st_title_adress_num">%d selecionado(s)</string>
     <string name="st_title_anticomintcall_backsound_setting">Mensagem</string>
     <string name="st_title_antispam_mode">Regras</string>
