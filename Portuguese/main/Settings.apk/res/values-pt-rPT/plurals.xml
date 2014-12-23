@@ -29,7 +29,7 @@
         <item quantity="one">A palavra passe deve conter pelo menos 1 caractere que não seja letras.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d aplicações pode ler notificações</item>
+        <item quantity="other">%d aplicações podem ler notificações</item>
         <item quantity="one">%d aplicação pode ler notificações</item>
     </plurals>
     <plurals name="wrong_pin_code">
