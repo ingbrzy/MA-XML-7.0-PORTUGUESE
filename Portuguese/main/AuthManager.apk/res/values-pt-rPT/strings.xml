@@ -58,10 +58,12 @@
     <string name="Generic_Version">Versão: %1$s</string>
     <string name="HIPS_Action_Accept">Permitir</string>
     <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>Permitir&lt;/font></string>
+    <string name="HIPS_Action_Accept_Once">Permitir uma vez</string>
     <string name="HIPS_Action_Prompt">Perguntar</string>
     <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Perguntar&lt;/font></string>
     <string name="HIPS_Action_Reject">Negar</string>
     <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Negar&lt;/font></string>
+    <string name="HIPS_Action_Reject_Once">Negar uma vez</string>
     <string name="HIPS_Group_DataPrivacy">Privacidade</string>
     <string name="HIPS_Group_Expense">Segurança</string>
     <string name="HIPS_Group_Internet">Internet</string>
@@ -74,7 +76,7 @@
     <string name="HIPS_Perm_AllowAll">Permitir tudo</string>
     <string name="HIPS_Perm_AnswerCall">Atender chamadas</string>
     <string name="HIPS_Perm_AudioRecorder">Gravador</string>
-    <string name="HIPS_Perm_AudioRecorder_Desc">Usar o gravador (inclusive em chamadas)</string>
+    <string name="HIPS_Perm_AudioRecorder_Desc">Utilizar o gravador (inclusive em chamadas)</string>
     <string name="HIPS_Perm_AudioRecorder_Hint">%1$s aplicações podem usar o gravador (inclusive em chamadas)</string>
     <string name="HIPS_Perm_AutoStart">Início automático</string>
     <string name="HIPS_Perm_AutoStart_Desc">iniciar automaticamente quando o dispositivo for ligado</string>
@@ -132,14 +134,14 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplicações podem Activar a Ligação de dados móveis</string>
     <string name="HIPS_Perm_Network_Accept">Aceitar link de %1$s?</string>
     <string name="HIPS_Perm_Network_Connect">Localização do link: %1$s</string>
-    <string name="HIPS_Perm_Network_Listen">Escutando na porta %1$s</string>
+    <string name="HIPS_Perm_Network_Listen">A escutar na porta %1$s</string>
     <string name="HIPS_Perm_Network_MobileEvent">Ligação de dados móveis</string>
     <string name="HIPS_Perm_Network_Recv">Receber dados</string>
     <string name="HIPS_Perm_Network_Send">Enviar dados</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Endereço desconhecido</string>
     <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
     <string name="HIPS_Perm_Notification">Notificações push</string>
-    <string name="HIPS_Perm_Notification_Desc">usar notificações push</string>
+    <string name="HIPS_Perm_Notification_Desc">Utilizar notificações push</string>
     <string name="HIPS_Perm_Notification_Hint">%1$s aplicações podem usar notificações push</string>
     <string name="HIPS_Perm_PhoneID">Dispositivo</string>
     <string name="HIPS_Perm_PhoneID_Desc">obter o IMEI e o IMSI do dispositivo</string>
@@ -154,15 +156,27 @@
     <string name="HIPS_Perm_ROOT_Desc">obter permissão root</string>
     <string name="HIPS_Perm_ROOT_Hint">%1$s aplicações podem obter permissão root</string>
     <string name="HIPS_Perm_ROOT_Title">obter permissão root</string>
+    <string name="HIPS_Perm_Read_Call_Log">Ler registo de chamadas</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Ler histórico de chamadas</string>
+    <string name="HIPS_Perm_Read_Call_Log_Hint">%1$s aplicações podem ler histórico de chamadas</string>
+    <string name="HIPS_Perm_Read_Contact">Ler os seus contactos</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Ler os seus contactos</string>
+    <string name="HIPS_Perm_Read_Contact_Hint">%1$s aplicações podem ler os seus contactos</string>
+    <string name="HIPS_Perm_Read_MMS">Ler mensagens MMS</string>
+    <string name="HIPS_Perm_Read_MMS_Desc">ler mensagens de multimédia</string>
+    <string name="HIPS_Perm_Read_MMS_Hint">%1$s aplicações podem ler mensagens de multimédia</string>
+    <string name="HIPS_Perm_Read_SMS">ler SMS</string>
+     <string name="HIPS_Perm_Read_SMS_Desc">Ler SMS</string>
+     <string name="HIPS_Perm_Read_SMS_Hint">%1$s aplicações podem ler SMS</string>
     <string name="HIPS_Perm_Recorder_Audio">gravar áudio</string>
     <string name="HIPS_Perm_Recorder_AudioVideo">gravar áudio e vídeo</string>
     <string name="HIPS_Perm_Recorder_Camera">tirar fotos</string>
     <string name="HIPS_Perm_Recorder_Video">gravar áudio e vídeo</string>
     <string name="HIPS_Perm_Recorder_VoiceCall">gravar chamadas</string>
     <string name="HIPS_Perm_RejectAll">Negar tudo</string>
-    <string name="HIPS_Perm_SMS">SMS</string>
+    <string name="HIPS_Perm_SMS">Escrever SMS</string>
     <string name="HIPS_Perm_SMS_Access">Aceder seus dados de SMS</string>
-    <string name="HIPS_Perm_SMS_Desc">ver mensagens de texto</string>
+    <string name="HIPS_Perm_SMS_Desc">Ver mensagens de texto</string>
     <string name="HIPS_Perm_SMS_Hint">%1$s aplicações podem ver mensagens de texto</string>
     <string name="HIPS_Perm_SendMMS">Envio de MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">enviar MMS</string>
@@ -185,10 +199,10 @@
     <string name="HIPS_Perm_SystemAlert">Notificações pop-up</string>
     <string name="HIPS_Perm_SystemAlert_Desc">mostrar notificações pop-up</string>
     <string name="HIPS_Perm_SystemAlert_Hint">%1$s aplicações podem mostrar notificações pop-up</string>
-    <string name="HIPS_Perm_VideoRecorder">câmera</string>
+    <string name="HIPS_Perm_VideoRecorder">Acesso a câmera</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">Aceder a câmera</string>
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem Aceder a câmera</string>
-    <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork">Utilize Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Desc">usar a Ligação Wi-Fi para se conectar à Internet</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem usar a Ligação Wi-Fi para se conectar à Internet</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
@@ -197,8 +211,12 @@
     <string name="HIPS_Perm_Wakelock">Modo de espera</string>
     <string name="HIPS_Perm_Wakelock_Desc">impedir o modo de espera do dispositivo</string>
     <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicações podem impedir o modo de espera do dispositivo</string>
+    <string name="HIPS_Perm_Xiaomi_Account">Conta Mi</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Desc">Aceda á sua conta Mi</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder á conta Mi</string>
     <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
+    <string name="HIPS_SecurityPrompt_Accept_Once">Permitir uma vez (%d)</string>
     <string name="HIPS_SecurityPrompt_Caption">Aviso de segurança</string>
     <string name="HIPS_SecurityPrompt_Next">Avançar</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Acesso root</string>
@@ -206,9 +224,10 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Ao Conceder acesso root ´s aplicações. pode causar instabilidades no dispositivo.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança de seus dados de utilizador (contas, senhas e mensagens) pode ser comprometida.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Conceder acesso root a um aplic. poderá danificar o hardware do disp.</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda acesso root a um aplic. por sua conta e risco.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda acesso root a um aplic. por conta e risco.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder acesso root a %1$s?</string>
     <string name="HIPS_SecurityPrompt_Reject">Negar (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Once">Negar uma vez a (%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Não perguntar novamente</string>
     <string name="HIPS_SecurityPrompt_Title">A aplicação %1$s está tentando %2$s</string>
     <string name="Privacy_AppPerm_Count">%1$d permissões</string>
@@ -225,7 +244,7 @@
     <string name="Privacy_App_Trust_Summary_On">Perguntar quando este aplicação tentar Aceder a outras partes do sistema</string>
     <string name="Privacy_App_Uninstall">Desinstalar</string>
     <string name="Privacy_Perm_Count">%1$d permitido \"|\" %2$d negado</string>
-    <string name="Su_Enable_Dialog">%1$s está solicitando acesso root.</string>
+    <string name="Su_Enable_Dialog">%1$s está a solicitar acesso root.</string>
     <string name="Su_Package_Forbidden">%1$s não possui acesso root.</string>
     <string name="Su_Unavailable">O acesso root não está disponível na versão estável da MIUI. É necessário instalar a versão de desenvolvedor da MIUI para conceder acesso root.</string>
     <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
@@ -233,4 +252,5 @@
     <string name="SysOpt_Boost_Boot">Inicialização</string>
     <string name="SysOpt_Boost_Receiver">Segundo plano</string>
     <string name="app_name">Gerenciamento de Permissões</string>
+    <string name="permisson_reject_notice_toast_text">"\"%1$s\" não tem permissão para %2$s. Pode alterar as permissões de aplicações a qualquer momento em Segurança &gt; Permissões."</string>
 </resources>
