@@ -28,6 +28,9 @@
     <string name="actionbar_share">Partilhar</string>
     <string name="actionbar_web_search">Pesquisa web</string>
     <string name="adblock_notification">%d anúncios bloqueados</string>
+    <string name="adblock_rules_restore">Desbloquear</string>
+    <string name="adblock_websites_settings_empyt_hint">"Ainda não bloqueou nenhum site."</string>
+    <string name="adblock_websites_settings_title">Sites bloqueados</string>
     <string name="add_bookmark">Adicionar favorito</string>
     <string name="add_bookmark_group">Adicionar grupo</string>
     <string name="add_folder">Adicionar pasta</string>
@@ -115,10 +118,14 @@
     <string name="choose_upload">Escolha o arquivo para envio</string>
     <string name="choosertitle_sharevia">Partilhar via</string>
     <string name="clear">Limpar</string>
-    <string name="clear_history">Limpar histórico</string>
-    <string name="clear_history_group">Limpar histórico (%s páginas)</string>
-    <string name="clear_search_history">Limpar histórico</string>
+    <string name="clear_history">Eliminar histórico</string>
+    <string name="clear_history_group">Eliminar histórico (%s páginas)</string>
+    <string name="clear_search_history">Eliminar histórico</string>
     <string name="clip_dialog_title">Abrir URL copiada?</string>
+    <string name="close_ads_choice_no">Permitir</string>
+    <string name="close_ads_choice_yes">Bloquear</string>
+    <string name="close_ads_message">"Bloquear conteúdo deste website? É possível ver os sites bloqueados em definições &gt; Avançadas &gt; Sites bloqueados."</string>
+    <string name="close_ads_title">Bloquear conteúdo?</string>
     <string name="close_all_tab_alert_message">Fechar todas as guias?</string>
     <string name="close_all_tab_alert_title">Fechar todas as guias</string>
     <string name="close_cloud_tab_tip">Fechar guias na nuvem em %s?</string>
@@ -176,6 +183,9 @@
     <string name="copy_url">Copiar endereço</string>
     <string name="create_qr_code">Código QR</string>
     <string name="create_shortcut_bookmark">Adicionar atalho à página inicial</string>
+    <string name="data_traffic_prompt_change">Utilizando a ligação de dados móveis para assistir a vídeos vai aumentar o uso de dados. Se ultrapassar limite de plano de dados, a operadora pode cobrar taxas adicionais.</string>
+    <string name="data_traffic_prompt_message">Utilizando a ligação de dados móveis para navegar vai aumentar o uso de dados. Se ultrapassar limite de uso de dados do seu plano, a operadora pode cobrar taxas adicionais.</string>
+    <string name="data_traffic_prompt_title">Aviso de utilização de dados</string>
     <string name="date_picker_dialog_clear">Limpar</string>
     <string name="date_picker_dialog_other_button_label">Outros</string>
     <string name="date_picker_dialog_set">Definir</string>
@@ -202,7 +212,7 @@
     <string name="download_failed">Falha na Transferência</string>
     <string name="download_no_sdcard_dlg_msg">Para fazer a Transferência de %s, é necessário conectar o armazenamento USB.</string>
     <string name="download_no_sdcard_dlg_title">Armazenamento.USB indisponível</string>
-    <string name="download_pending">Iniciando Transferência</string>
+    <string name="download_pending">A iniciar a transferência</string>
     <string name="download_phone_tip">Telefone</string>
     <string name="download_router_tip">Transferência para o Mi Router</string>
     <string name="download_sdcard_busy_dlg_msg">O armazenamento USB está ocupado. Para permitir Transferências, toque em Desactivar o armazenamento USB na notificação.</string>
@@ -241,6 +251,9 @@
     <string name="filename_empty_alert_message">Digite um nome para o arquivo</string>
     <string name="filename_illegal_alert_message">Um caractere inválido foi removido do nome do arquivo</string>
     <string name="find_on_page">Encontrar na página</string>
+    <string name="find_on_page_cancel">Cancelar</string>
+    <string name="find_on_page_next">Seguinte</string>
+    <string name="find_on_page_prev">Voltar</string>
     <string name="folder_name">Nome da pasta</string>
     <string name="forward">Avançar</string>
     <string name="general_set_default_browser_dialog_close_txt">Fechar</string>
@@ -269,7 +282,7 @@
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Página inicial definida.</string>
     <string name="http">http://</string>
-    <string name="in_incognito">Você está em anônimo! Páginas acessadas nesta guia não aparecerão em seu histórico de navegação.</string>
+    <string name="in_incognito">Está em anónimo! Páginas acedidas nesta guia não aparecerão em seu histórico de navegação.</string>
     <string name="is_first_history_item">Este é o primeiro item do histórico</string>
     <string name="is_first_tab">Esta é a primeira aba</string>
     <string name="is_last_history_item">Este é o último item do histórico</string>
@@ -284,6 +297,7 @@
     <string name="location">Endereço</string>
     <string name="low_memory_error">Não foi possível concluir a operação anterior por falta de memória</string>
     <string name="max_tabs_warning">Não há mais guias disponíveis</string>
+    <string name="maximum_input_alert">Entrada máxima 2048 caracteres</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_error_text_invalid_progressive_playback">Não foi possível iniciar a transmissão deste vídeo</string>
     <string name="media_player_error_text_unknown">Não foi possível reproduzir o vídeo</string>
@@ -299,7 +313,7 @@
     <string name="menu_hv_swap">Alternar orientação</string>
     <string name="menu_nightmode">Modo noturno</string>
     <string name="menu_preferences">Configuração.</string>
-    <string name="menu_save_bandwidth_mode_close_toast">Utilizando dados normalmente</string>
+    <string name="menu_save_bandwidth_mode_close_toast">A utilizar dados normalmente</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">O navegador não utilizará a rede móvel para pré-carregar páginas ou mostrar imagens</string>
     <string name="menu_save_bandwidth_mode_open_toast">Reduzindo o uso de dados</string>
@@ -361,7 +375,7 @@
     <string name="page_info">Informações da página</string>
     <string name="page_info_address">Endereço:</string>
     <string name="page_info_view">Visualizar informações da página</string>
-    <string name="password">palavra-passe</string>
+    <string name="password">Palavra-passe</string>
     <string name="permission_preload_label">Pré-carregar resultados</string>
     <string name="popup_window_attempt">Permitir que este site abra uma janela pop-up?</string>
     <string name="pref_accessibility_title">Acessibilidade</string>
@@ -373,8 +387,8 @@
     <string name="pref_autofill_enabled_summary">Preencher formulários da web com um único toque</string>
     <string name="pref_autofill_profile_editor">Preenchimento automático.de texto</string>
     <string name="pref_autofill_profile_editor_summary">Configurar preenchimento automático de texto em formulários da web</string>
-    <string name="pref_autologin_progress">Faça iniciar sessão nos sites do Google usando %s</string>
-    <string name="pref_autologin_progress_in_background">a iniciar sessão nos sites do Google utilizando %s em segundo plano</string>
+    <string name="pref_autologin_progress">Inicie sessão nos sites do Google utilizando %s</string>
+    <string name="pref_autologin_progress_in_background">A iniciar sessão nos sites do Google utilizando %s em segundo plano</string>
     <string name="pref_autologin_title">Iniciar sessão automático do Google</string>
     <string name="pref_category_title_version">Versão</string>
     <string name="pref_check_security_url_summary">"Enviar endereços de websites para os servidores da Xiaomi para validação"</string>
@@ -409,6 +423,9 @@
     <string name="pref_data_preload_summary">Permitir ao navegador pré-carregar resultados de busca de alta confiança em segundo plano</string>
     <string name="pref_data_preload_title">Pré-carreg. dos resultados da pesquisa</string>
     <string name="pref_data_title">Gerir largura de banda</string>
+    <string name="pref_data_preload_value_always">SEMPRE</string>
+    <string name="pref_data_preload_value_never">NUNCA</string>
+    <string name="pref_data_preload_value_wifi_only">SÓ_WIFI</string>
     <string name="pref_default_text_encoding">Codificação de texto</string>
     <string name="pref_default_text_encoding_dialogtitle">Codificação de texto</string>
     <string name="pref_default_zoom">Zoom prédefinido</string>
@@ -462,6 +479,8 @@
     <string name="pref_link_prefetch_dialogtitle">Pré-carregamento de página da web</string>
     <string name="pref_link_prefetch_summary">Permitir que o navegador pré-carregue páginas relacionadas em segundo plano</string>
     <string name="pref_link_prefetch_title">Pré-carregamento de página da web</string>
+    <string name="pref_link_prefetch_value_always">SEMPRE</string>
+    <string name="pref_link_prefetch_value_never">NUNCA</string>
     <string name="pref_link_prefetch_value_never_summary">Nunca pré-carregar páginas secundárias</string>
     <string name="pref_min_font_size_value">%dpt</string>
     <string name="pref_other_title">Outros</string>
@@ -506,10 +525,12 @@
     <string name="pref_set_homepage_to">Definir para</string>
     <string name="pref_setting_title">Configurações de página</string>
     <string name="pref_ua_mione_entry">MiOne</string>
-    <string name="pref_ua_string">Seqüência de agente de Utilizador</string>
+    <string name="pref_ua_string">Sequência de agente de Utilizador</string>
     <string name="pref_ua_title">Gerenciar agente de Utilizadort</string>
     <string name="pref_version_summary">Versão: %s</string>
     <string name="pref_video_preload_dialogtitle">Pré-carregamento de vídeos</string>
+    <string name="pref_video_preload_value_always">SEMPRE</string>
+    <string name="pref_video_preload_value_never">NUNCA</string>
     <string name="pref_video_preload_summary">" Permitir que navegador pré-carregue vídeos quando o servidor permitir"</string>
     <string name="pref_video_preload_title">Pré-carregar vídeos</string>
     <string name="pref_volume_key_action">Botões de volume: Voltar/Avançar página</string>
@@ -517,7 +538,7 @@
     <string name="pref_volume_key_operation">Acção dos botões de volume</string>
     <string name="pref_webapp_settings_fontsize">Tamanho da fonte</string>
     <string name="pref_webapp_settings_hidebottombar">Ocultar barra inferior</string>
-    <string name="pref_webapp_settings_savewidth">Não utilizar conexão de dados 2G/3G para transferençias de imagens</string>
+    <string name="pref_webapp_settings_savewidth">Não utilizar ligação de dados 2G/3G para transferençias de imagens</string>
     <string name="pref_zoom_on_double_tap">Zoom em toque duplo</string>
     <string name="preview">Visualizar</string>
     <string name="profiler_error_toast">Não foi possível iniciar o criador de perfil</string>
@@ -557,7 +578,7 @@
     <string name="remove_bookmark_group">Excluir grupo</string>
     <string name="remove_from_bookmarks">Remover dos favoritos</string>
     <string name="remove_history_item">Remover do histórico</string>
-    <string name="remove_snapshot">Excluir página salva</string>
+    <string name="remove_snapshot">Excluir página guardada</string>
     <string name="removed_from_bookmarks">Removido dos favoritos.</string>
     <string name="replace">Substituir</string>
     <string name="return_to_homepage">Voltar à página inicial</string>
@@ -639,10 +660,13 @@
     <string name="sub_sync_item_browser_title_novel_summary">Sincronizar livros do navegador</string>
     <string name="sub_sync_item_browser_title_webapp">Sincronizar aplicações web</string>
     <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar aplicações web adicionados e favoritos</string>
+    <string name="suggest_access_appstore">Aplicação da loja MI</string>
+    <string name="suggest_access_item_app_update">Actualizar: %s</string>
+    <string name="suggest_access_music">Música Mi</string>
     <string name="sync_item_browser_summary">Sincronize os dados com a nuvem para facilitar o uso do navegador em outros dispositivos</string>
     <string name="sync_item_browser_title">Sincronizar navegador</string>
-    <string name="tab_bookmarks">Favoritos</string>
     <string name="tab_history">Histórico</string>
+    <string name="tab_hotpage">Tendência</string>
     <string name="tab_most_visited">Mais visitados</string>
     <string name="tab_quicklinks">Endereços rápidos</string>
     <string name="tab_snapshots">Páginas guardadas</string>
@@ -653,13 +677,14 @@
     <string name="time_picker_dialog_pm">PM</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
     <string name="time_picker_dialog_title">Definir hora</string>
-    <string name="title_bar_loading">Carregando...</string>
+    <string name="title_bar_loading">A carregar...</string>
     <string name="too_many_windows_dialog_message">Não é possível abrir uma nova guia até que outra seja fechada.</string>
     <string name="too_many_windows_dialog_title">Limite da guias atingido</string>
     <string name="ua_switcher_desktop">Ver versão para web</string>
     <string name="up_to_loading_tips">Solte para atualizar</string>
     <string name="uploads_disabled">O envio de arquivos está desativado.</string>
     <string name="url_copy_done">ENDEREÇO copiado para a área de transferência</string>
+    <string name="url_find_on_page_result">Visualizar no navegador</string>
     <string name="url_hint">Pesquisar ou digitar ENDEREÇO</string>
     <string name="url_opened_in_background">Abrir guia em segundo plano</string>
     <string name="url_suggest_indicator_bookmark">Favoritos/Histórico</string>
@@ -673,7 +698,10 @@
     <string name="v5_deselect_all">Desmarcar tudo</string>
     <string name="v5_edit_mode_title_empty">0 selecionado</string>
     <string name="v5_select_all">Selecionar tudo</string>
-    <string name="video_title">Vídeo</string>
+    <string name="video_project_button">Parar</string>
+    <string name="video_project_msg">Exibindo em %s</string>
+    <string name="video_project_title">Monitor externo</string>
+    <string name="video_title">Video</string>
     <string name="view_certificate">Visualizar certificado</string>
     <string name="voice_sub_title">Não sabe o que dizer? Tente \"Abrir mi.com!\"</string>
     <string name="voice_title">Fale o seu comando…</string>
@@ -693,10 +721,10 @@
     <string name="webapp_menu_exit">Sair</string>
     <string name="webapp_menu_favorites">Favoritos</string>
     <string name="webapp_menu_nightmode">Modo noturno</string>
-    <string name="webapp_menu_settings">Configurações</string>
+    <string name="webapp_menu_settings">Definições</string>
     <string name="webapp_menu_share">Partilhar</string>
-    <string name="webapp_settings_title">Configurações</string>
-    <string name="webapp_splashview_loading">Carregando agora...</string>
+    <string name="webapp_settings_title">Definições</string>
+    <string name="webapp_splashview_loading">A carregar agora...</string>
     <string name="webapp_webapp_favortes_title">Favoritos</string>
     <string name="webpage_bookmark_title">Favoritos</string>
     <string name="webpage_history_title">Histórico</string>
@@ -713,7 +741,7 @@
     <string name="webstorage_outofspace_notification_text">Toque para liberar espaço.</string>
     <string name="webstorage_outofspace_notification_title">Armazenamento do navegador cheio</string>
     <string name="webview_cancel">Cancelar</string>
-    <string name="webview_find_on_page">Buscar na página</string>
+    <string name="webview_find_on_page">Localizar na página</string>
     <string name="webview_js_dialog_before_unload">"%s
 
 Deseja realmente sair desta página?"</string>
