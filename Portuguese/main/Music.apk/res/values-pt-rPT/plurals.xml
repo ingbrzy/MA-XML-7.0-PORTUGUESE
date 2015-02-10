@@ -28,8 +28,8 @@
         <item quantity="one">1 música adicionada à lista de reprodução</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d músicas removidas à lista de reprodução</item>
-        <item quantity="one">1 música removida à lista de reprodução</item>
+        <item quantity="other">%d músicas removidas da lista de reprodução</item>
+        <item quantity="one">1 música removida da lista de reprodução</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d músicas</item>
