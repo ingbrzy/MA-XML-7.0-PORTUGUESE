@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Sol</item>
+    </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>
