@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
     <plurals name="timer_item_duration_display_seconds">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">1 segundo</item>
@@ -7,5 +15,9 @@
     <plurals name="timer_item_duration_display_minutes">
         <item quantity="other">%1$d minutos</item>
         <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Suspender por %d mins</item>
+        <item quantity="one">Suspender por %d min</item>
     </plurals>
 </resources>
