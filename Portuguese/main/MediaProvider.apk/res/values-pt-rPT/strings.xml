@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="alarm_sound_default">Som de alarme predefinido</string>
-    <string name="app_label">Ficheiro multimédia</string>
+    <string name="uid_label">Média</string>
+    <string name="app_label">Armazenamento de Média</string>
+    <string name="upgrade_msg">Actualizar base de dados média.</string>
     <string name="artist_label">Artista</string>
-    <string name="notification_sound_default">Som de notificação predefinido</string>
-    <string name="ringtone_default">Toque padrão</string>
-    <string name="root_audio">Áudio</string>
+    <string name="ringtone_default">Toque predifinido</string>
+    <string name="notification_sound_default">Toque da Notificação predifinido</string>
+    <string name="alarm_sound_default">Toque predifinido do alarme</string>
     <string name="root_images">Imagens</string>
     <string name="root_videos">Vídeos</string>
-    <string name="uid_label">Mídia</string>
-    <string name="upgrade_msg">Actualizar base de dados de multimédia.</string>
+    <string name="root_audio">Audio</string>
 </resources>
