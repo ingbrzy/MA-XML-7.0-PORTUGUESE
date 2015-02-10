@@ -124,9 +124,9 @@
         <item>@string/pref_camera_jpegquality_entry_low</item>
     </string-array>
     <string-array name="pref_camera_jpegquality_entryvalues">
-        <item>high</item>
+        <item>Alta</item>
         <item>normal</item>
-        <item>low</item>
+        <item>Baixa</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
@@ -134,7 +134,7 @@
         <item>@string/pref_camera_focusmode_entry_manual</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entryvalues">
-        <item>continuous-picture</item>
+        <item>Imagem continua</item>
         <item>macro</item>
         <item>manual</item>
     </string-array>
@@ -144,7 +144,7 @@
         <item>@drawable/bg_focus_mode_manual</item>
     </array>
     <string-array name="pref_camera_focusmode_default_array">
-        <item>continuous-picture</item>
+        <item>Imagem continúa</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_auto</item>
@@ -154,9 +154,9 @@
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
         <item>auto</item>
-        <item>on</item>
-        <item>torch</item>
-        <item>off</item>
+        <item>Ligado</item>
+        <item>Lanterna</item>
+        <item>Desligado</item>
     </string-array>
     <array name="camera_flashmode_icons">
         <item>@drawable/v6_ic_flash_button_auto</item>
@@ -187,16 +187,16 @@
         <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
-        <item>torch</item>
-        <item>off</item>
+        <item>Lanterna</item>
+        <item>Ligada</item>
     </string-array>
     <array name="video_flashmode_icons">
         <item>@drawable/v6_ic_flash_button_on</item>
         <item>@drawable/v6_ic_flash_button_off</item>
     </array>
     <string-array name="pref_camera_recordlocation_entryvalues">
-        <item>on</item>
-        <item>off</item>
+        <item>Ligada</item>
+        <item>Desligada</item>
     </string-array>
     <string-array name="pref_camera_recordlocation_entries">
         <item>@string/pref_camera_recordlocation_entry_on</item>
@@ -256,10 +256,10 @@
         <item>@string/pref_camera_coloreffect_entry_aqua</item>
     </string-array>
     <string-array name="pref_camera_coloreffect_entryvalues">
-        <item>none</item>
+        <item>Nenhum</item>
         <item>mono</item>
         <item>sepia</item>
-        <item>negative</item>
+        <item>negativo</item>
         <item>posterize</item>
         <item>aqua</item>
     </string-array>
@@ -268,8 +268,8 @@
         <item>@string/pref_camera_touchafaec_entry_off</item>
     </string-array>
     <string-array name="pref_camera_touchafaec_entryvalues">
-        <item>touch-on</item>
-        <item>touch-off</item>
+        <item>Toque-Ligar</item>
+        <item>Toque-Desligar</item>
     </string-array>
     <string-array name="pref_camera_contrast_entries">
         <item>@string/pref_camera_multilevel_entry_lowest</item>
@@ -341,19 +341,19 @@
         <item>36</item>
     </string-array>
     <string-array name="pref_mtk_camera_contrast_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>Baixo</item>
+        <item>Médio</item>
+        <item>Alta</item>
     </string-array>
     <string-array name="pref_mtk_camera_saturation_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>Baixo</item>
+        <item>Médio</item>
+        <item>Alta</item>
     </string-array>
     <string-array name="pref_mtk_camera_sharpness_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>Baixo</item>
+        <item>Médio</item>
+        <item>Alta</item>
     </string-array>
     <string-array name="pref_camera_scenemode_entries">
         <item>@string/pref_camera_scenemode_entry_off</item>
@@ -371,19 +371,19 @@
         <item>@string/pref_camera_scenemode_entry_flowers</item>
     </string-array>
     <string-array name="pref_camera_scenemode_entryvalues">
-        <item>off</item>
+        <item>Desl.</item>
         <item>auto</item>
         <item>portrait</item>
         <item>landscape</item>
         <item>sports</item>
-        <item>night</item>
-        <item>night-portrait</item>
-        <item>beach</item>
-        <item>snow</item>
-        <item>sunset</item>
-        <item>fireworks</item>
-        <item>backlight</item>
-        <item>flowers</item>
+        <item>Noite</item>
+        <item>Noite-portrait</item>
+        <item>Praia</item>
+        <item>Neve</item>
+        <item>Por-do-sol</item>
+        <item>Fogo artificio</item>
+        <item>Luz de fundo</item>
+        <item>Flores</item>
     </string-array>
     <array name="camera_scenemode_largeicons">
         <item>@android:color/transparent</item>
@@ -449,7 +449,7 @@
         <item>@string/pref_camera_antibanding_entry_3</item>
     </string-array>
     <string-array name="pref_camera_antibanding_entryvalues">
-        <item>off</item>
+        <item>Desl.</item>
         <item>50hz</item>
         <item>60hz</item>
         <item>auto</item>
@@ -484,12 +484,12 @@
     </string-array>
     <string-array name="pref_video_effect_entryvalues">
         <item>@string/pref_video_effect_default</item>
-        <item>goofy_face/squeeze</item>
-        <item>goofy_face/big_eyes</item>
-        <item>goofy_face/big_mouth</item>
-        <item>goofy_face/small_mouth</item>
-        <item>goofy_face/big_nose</item>
-        <item>goofy_face/small_eyes</item>
+        <item>goofy_face/aperto</item>
+        <item>goofy_face/olhos_grandes</item>
+        <item>goofy_face/boca_grande</item>
+        <item>goofy_face/boca_pequena</item>
+        <item>goofy_face/nariz_grande</item>
+        <item>goofy_face/olhos_pequenos</item>
         <item>backdropper/file:///system/media/video/AndroidInSpace.480p.mp4</item>
         <item>backdropper/file:///system/media/video/Sunset.480p.mp4</item>
         <item>backdropper/gallery</item>
@@ -616,9 +616,9 @@
         <item>@string/pref_camera_show_gender_age_entry_off</item>
     </string-array>
     <string-array name="pref_camera_show_gender_age_entryvalues">
-        <item>on</item>
+        <item>Lig.</item>
         <item>alias</item>
-        <item>off</item>
+        <item>Desl.</item>
     </string-array>
     <string-array name="pref_camera_show_gender_age_reports">
         <item>@string/face_beauty_age_alias_male_0_7</item>
