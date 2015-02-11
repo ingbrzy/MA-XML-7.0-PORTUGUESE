@@ -82,7 +82,6 @@
     <string name="js_dialog_before_unload_positive_button">Deixar esta página?</string>
     <string name="js_dialog_before_unload_negative_button">Continuar</string>
     <string name="js_dialog_before_unload">"%s 
-
 Tem certeza de que deseja sair desta página?"</string>
     <string name="find_next">Encontrar seguinte</string>
     <string name="find_previous">Encontrar anterior</string>
@@ -185,7 +184,6 @@ Tem certeza de que deseja sair desta página?"</string>
     <string name="pref_ua_title">Gestão do Agente de Utilizador</string>
     <string name="pref_ua_string">Sequência do Agente de Utilizador</string>
     <string name="pref_ua_mione_entry">MI3W</string>
-    
     <string name="pref_content_search_engine">Definir motor de pesquisa para a barra de título</string>
     <string name="dump_counters">Esvaziar contadores V8</string>
     <string name="dump_dom_tree">Esvaziar ficheiro de árvore DOM</string>
@@ -243,10 +241,6 @@ Tem certeza de que deseja sair desta página?"</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Este site pode aceder à sua localização. Altere em Definições > Avançado > Ecrã de dados do site.</string>
     <string name="pref_video_preload_summary">: Recarregar vídeos quando o servidor permitir</string>
     <string name="pref_images_preload_summary">: Recarregar imagens quando o servidor permitir</string>
-    
-    
-    
-    
     <string name="pref_images_preload_title">Recarregar images</string>
     <string name="pref_images_preload_dialogtitle">Recarregar imagens</string>
     <string name="pref_images_preload_value_never_summary">Nunca recarregar imagens</string>
@@ -734,22 +728,10 @@ Tem certeza de que deseja sair desta página?"</string>
     <string name="pref_accessibility_title">Accessibilidade</string>
     <string name="pref_font_size_category">Tamanho do texto</string>
     <string name="pref_data_preload_title">Pesquisar resultados pré-carregados</string>
-    
-    
-    
-    
     <string name="pref_data_preload_dialogtitle">Pré-carregar resultados de pesquisa</string>
     <string name="pref_link_prefetch_title">Pré-carregar páginas</string>
-    
-    
-    
-    
     <string name="pref_link_prefetch_dialogtitle">Pré-carregar páginas</string>
     <string name="pref_video_preload_title">Pré-carregar vídeos</string>
-    
-    
-    
-    
     <string name="pref_video_preload_dialogtitle">Pré-carregar vídeo</string>
     <string name="browserFrameNetworkErrorLabel">Erro de ligação</string>
     <string name="browserFrameFileErrorLabel">Erro no ficheiro</string>
@@ -808,14 +790,6 @@ Tem certeza de que deseja sair desta página?"</string>
     <string name="pref_data_preload_summary">: Permitir ao navegador pré-carregar em segundo plano resultados de pesquisa confiáveis</string>
     <string name="pref_link_prefetch_summary">: Permitir ao navegador pré-carregar páginas com ligação</string>
     <string name="share_page">Partilhar página</string>
-    
-    
-    
-    
-    
-    
-    
-    
     <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
     <string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
     <string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>
