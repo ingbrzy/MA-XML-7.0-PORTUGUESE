@@ -194,8 +194,6 @@
     <string name="resource_download_notification_title_one">Temas transferidos</string>
     <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
     <string name="resource_download_notification_content">Pressione para ver.</string>
-    <string name="config_import_vcard_type">default</string>
-    <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_export_dir">/mnt/sdcard</string>
     <string name="config_export_file_prefix" />
     <string name="config_export_file_suffix" />
