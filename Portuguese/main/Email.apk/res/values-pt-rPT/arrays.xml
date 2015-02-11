@@ -3,7 +3,6 @@
     <string-array name="account_providers">
         <item>content://com.android.email.provider/uiaccts</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_check_frequency_never</item>
         <item>@string/account_setup_options_mail_check_frequency_5min</item>
         <item>@string/account_setup_options_mail_check_frequency_10min</item>
@@ -11,7 +10,6 @@
         <item>@string/account_setup_options_mail_check_frequency_30min</item>
         <item>@string/account_setup_options_mail_check_frequency_1hour</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_check_frequency_imap_push</item>
         <item>@string/account_setup_options_mail_check_frequency_never</item>
         <item>@string/account_setup_options_mail_check_frequency_5min</item>
@@ -20,7 +18,6 @@
         <item>@string/account_setup_options_mail_check_frequency_30min</item>
         <item>@string/account_setup_options_mail_check_frequency_1hour</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_check_frequency_push</item>
         <item>@string/account_setup_options_mail_check_frequency_never</item>
         <item>@string/account_setup_options_mail_check_frequency_5min</item>
@@ -46,7 +43,6 @@
         <item>30</item>
         <item>60</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_window_1day</item>
         <item>@string/account_setup_options_mail_window_3days</item>
         <item>@string/account_setup_options_mail_window_1week</item>
@@ -54,7 +50,6 @@
         <item>@string/account_setup_options_mail_window_1month</item>
         <item>@string/account_setup_options_mail_window_all</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_window_auto</item>
         <item>@string/account_setup_options_mail_window_1day</item>
         <item>@string/account_setup_options_mail_window_3days</item>
@@ -63,7 +58,6 @@
         <item>@string/account_setup_options_mail_window_1month</item>
         <item>@string/account_setup_options_mail_window_all</item>
     </string-array>
-    
         <item>@string/account_setup_options_mail_window_default</item>
         <item>@string/account_setup_options_mail_window_1day</item>
         <item>@string/account_setup_options_mail_window_3days</item>
@@ -89,7 +83,6 @@
         <item>5</item>
         <item>6</item>
     </string-array>
-    
         <item>@string/account_type_exchange</item>
         <item>@string/account_type_pop3</item>
         <item>@string/account_type_imap</item>
@@ -99,7 +92,6 @@
         <item>2</item>
         <item>3</item>
     </string-array>
-    
         <item>@color/combined_view_account_color_1</item>
         <item>@color/combined_view_account_color_2</item>
         <item>@color/combined_view_account_color_3</item>
@@ -115,25 +107,21 @@
         <item>Responder a todos</item>
         <item>Reencaminhar</item>
     </string-array>
-    
         <item>@string/quick_1</item>
         <item>@string/quick_2</item>
         <item>@string/quick_3</item>
         <item>@string/quick_4</item>
     </string-array>
-    
         <item>@string/folder_drafts_name_en1</item>
         <item>@string/folder_drafts_name_en2</item>
         <item>@string/folder_drafts_name_cn0</item>
         <item>@string/folder_drafts_name_cn1</item>
         <item>@string/folder_drafts_name_cn2</item>
     </string-array>
-    
         <item>@string/folder_junk_name_en1</item>
         <item>@string/folder_junk_name_cn0</item>
         <item>@string/folder_junk_name_cn1</item>
     </string-array>
-    
         <item>@string/folder_sent_name_en1</item>
         <item>@string/folder_sent_name_en2</item>
         <item>@string/folder_sent_name_en3</item>
@@ -143,7 +131,6 @@
         <item>@string/folder_sent_name_cn2</item>
         <item>@string/folder_sent_name_cn3</item>
     </string-array>
-    
         <item>@string/folder_trash_name_en1</item>
         <item>@string/folder_trash_name_en2</item>
         <item>@string/folder_trash_name_en3</item>
@@ -151,7 +138,6 @@
         <item>@string/folder_trash_name_cn1</item>
         <item>@string/folder_trash_name_cn2</item>
     </string-array>
-    
         <item>@string/general_preference_text_zoom_tiny</item>
         <item>@string/general_preference_text_zoom_small</item>
         <item>@string/general_preference_text_zoom_normal</item>
@@ -221,17 +207,14 @@
         <item>Mostrar só eliminar</item>
         <item>Mostrar o ficheiro e eliminar</item>
     </string-array>
-    
         <item>newer</item>
         <item>older</item>
         <item>list</item>
     </string-array>
-    
         <item>archive</item>
         <item>delete</item>
         <item>archive-and-delete</item>
     </string-array>
-    
         <item>@string/quote_divider_apple</item>
         <item>@string/quote_divider_qq_en</item>
         <item>@string/quote_divider_qq_zh</item>
@@ -247,13 +230,11 @@
         <item>@string/quote_divider_11</item>
         <item>@string/quote_divider_12</item>
     </string-array>
-    
         <item>@string/search_tabs_name_recipient</item>
         <item>@string/search_tabs_name_sender</item>
         <item>@string/search_tabs_name_subject</item>
         <item>@string/search_tabs_name_all</item>
     </string-array>
-    
         <item>@string/eas_outlook_email</item>
         <item>@string/eas_hotmail_email</item>
     </string-array>
@@ -318,15 +299,12 @@
         <item>pop</item>
         <item>imap</item>
     </string-array>
-    
         <item>@string/special_text_colon_en</item>
         <item>@string/special_text_colon_zh</item>
     </string-array>
-    
         <item>@string/special_text_sender_zh</item>
         <item>@string/special_text_sender_en</item>
     </string-array>
-    
         <item>@string/special_text_1</item>
         <item>@string/special_text_2</item>
         <item>@string/special_text_3</item>
@@ -341,7 +319,6 @@
         <item>Não foi possível sincronizar.</item>
         <item>Erro no servidor.</item>
     </string-array>
-    
         <item>@string/wait_for_sync_body_txt_array_1</item>
         <item>@string/wait_for_sync_body_txt_array_2</item>
         <item>@string/wait_for_sync_body_txt_array_3</item>
