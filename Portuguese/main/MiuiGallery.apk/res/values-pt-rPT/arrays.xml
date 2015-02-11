@@ -12,7 +12,6 @@
         <item>8</item>
         <item>9</item>
     </string-array>
-    <array name="thumb_date_entryValues">
         <item>@drawable/thumb_date_0</item>
         <item>@drawable/thumb_date_1</item>
         <item>@drawable/thumb_date_2</item>
@@ -50,7 +49,6 @@
         <item>8</item>
         <item>9</item>
     </string-array>
-    <array name="count_entryValues">
         <item>@drawable/count_0</item>
         <item>@drawable/count_1</item>
         <item>@drawable/count_2</item>
@@ -62,7 +60,6 @@
         <item>@drawable/count_8</item>
         <item>@drawable/count_9</item>
     </array>
-    <array name="color_picker_colors">
         <item>@color/color_picker_preset_color1</item>
         <item>@color/color_picker_preset_color2</item>
         <item>@color/color_picker_preset_color3</item>
