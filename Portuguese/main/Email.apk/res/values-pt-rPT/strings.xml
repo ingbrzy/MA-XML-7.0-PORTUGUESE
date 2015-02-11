@@ -15,7 +15,6 @@
     <string name="abc_searchview_description_voice">Pesquisa por voz</string>
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
     <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
-    
     <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
     <string name="account_duplicate_dlg_title">Conta duplicada</string>
     <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -303,7 +302,6 @@
     <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
     <string name="colon">:</string>
     <string name="compose">Escrever</string>
-    
     <string name="compose_send">Enviar</string>
     <string name="compose_sent">Enviado com sucesso</string>
     <string name="confirm">Confirmar</string>
@@ -337,7 +335,6 @@
     <string name="contextmenu_send_mail">Enviar email</string>
     <string name="contextmenu_sharelink">Partilhar link</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    
     <string name="conversation_folder_moved">Movida para %1$s</string>
     <string name="conversation_item_mark_read">Lida</string>
     <string name="conversation_item_mark_unread">Não lida</string>
@@ -416,7 +413,6 @@
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
     <string name="email_package_name">com.android.email</string>
-    
     <string name="empty_account_tip">Não foi possível encontrar a conta</string>
     <string name="empty_email_tip">É impossível enviar um email em branco</string>
     <string name="empty_spam">Esvaziar o spam</string>
@@ -484,7 +480,6 @@
     <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
     <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
     <string name="forward_download_failed_title">Anexo não encaminhado</string>
-    
     <string name="from">De</string>
     <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -504,7 +499,6 @@
     <string name="head_only_enable_dialog_positive">Aceitar</string>
     <string name="head_only_enable_dialog_title">Economizar dados</string>
     <string name="header_category_account">Definições da conta</string>
-   
     <string name="header_category_other">Definições adicionais</string>
     <string name="header_label_general_preferences">Definições gerais</string>
     <string name="help_and_info">Ajuda</string>
@@ -529,7 +523,6 @@
     <string name="invalid_recipient_title">Endereço inválido</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    
     <string name="load_from_remote">Continuar a pesquisar no servidor</string>
     <string name="load_more">Carregar mais</string>
     <string name="loading_conversation">A carregar…</string>
@@ -558,14 +551,6 @@
     <string name="mailbox_name_display_starred">Favoritos</string>
     <string name="mailbox_name_display_trash">Lixo</string>
     <string name="mailbox_name_display_unread">Não lido</string>
-    
-    
-    
-    
-    
-    
-    
-   
     <string name="mailbox_settings_activity_title">Opções de sincronização</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Dias de emails para sincronizar</string>
@@ -645,7 +630,6 @@ CC: %4$s
     <string name="message_saved">Mensagem guardada como rascunho.</string>
     <string name="message_type_name">mensagem</string>
     <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
-    
     <string name="more_atts_remaining">%1$d restantes</string>
     <string name="more_atts_total">Total de %1$d anexos</string>
     <string name="more_context">Mais</string>
@@ -759,7 +743,6 @@ CC: %4$s
     <string name="policy_screen_timeout">Exigir que a tela do dispositivo fique bloqueada quando não utilizada</string>
     <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
     <string name="pop3_name">POP3</string>
-    
     <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
     <string name="prefDialogTitle_removal_action">Acções de arquivar e eliminar</string>
     <string name="preference_eas_tips">A página de activação seguinte é solicitada pelo Servidor do Email.</string>
@@ -828,8 +811,6 @@ CC: %4$s
     <string name="quote_divider_xm_zh">发自我的小米手机</string>
     <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
     <string name="quoted_text">Incluir texto das mensagens anteriores</string>
-    
-    
     <string name="quoted_text_label">Textos anteriores</string>
     <string name="read_string">conversa lida</string>
     <string name="recent_folders_heading">Pastas recentes</string>
@@ -851,14 +832,9 @@ CC: %4$s
     <string name="reply">Responder</string>
     <string name="reply_all">Responder a todos</string>
     <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
-    
     <string name="replyto_heading">"Responder a: "</string>
     <string name="report">Informar</string>
     <string name="report_phishing">Denunciar phishing</string>
-    
-    
-    
-    
     <string name="report_spam">Denunciar spam</string>
     <string name="request_entity_large">O ficheiro é muito grande</string>
     <string name="require_manual_sync_message">A sincronização desta conta é desactivada em roaming.</string>
@@ -915,9 +891,6 @@ CC: %4$s
     <string name="show_images">Transferir e mostrar imagens</string>
     <string name="show_n_more_folders">Mostrar mais %1$s pastas</string>
     <string name="signature">"
-
-
-
 %s"</string>
     <string name="signin">Iniciar a sessão</string>
     <string name="silent_ringtone">Sem Som</string>
@@ -999,11 +972,9 @@ Pressione "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar defin
     <string name="wait_for_sync_body_txt_array_5">.</string>
     <string name="wait_for_sync_note">Deslize a partir do topo para obter a notificação. Pressione para finalizar a definição de segurança.</string>
     <string name="wait_for_sync_title">A aguardar sincronização</string>
-    
     <string name="widget_all_mail">Todos os Emails</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Outros</string>
-    
     <string name="wrong_password">A palavra passe que inseriu está errada</string>
     <string name="yes">Sim</string>
     <string name="zip_viewer_no_file">Sem ficheiros.</string>
