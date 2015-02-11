@@ -5,32 +5,39 @@
         <item quantity="one">%d música encontrada</item>
     </plurals>
     <plurals name="Nexpired_remind">
-        <item quantity="other">%d dias restantes</item>
-        <item quantity="one">%d dia restante</item>
+        <item quantity="other">faltam %d dias</item>
+        <item quantity="one">falta %d dia</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d músicas serão transferidas</item>
-        <item quantity="one">1 música será transferida</item>
+        <item quantity="other">%d músicas que vão ser transferidas</item>
+        <item quantity="one">Vai ser transferida 1 música</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nova</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
     </plurals>
-    <plurals name="Ntracks_add_to_Lista de reprodução">
-        <item quantity="other">%d músicas adicionadas à Lista de reprodução</item>
-        <item quantity="one">1 música adicionada à Lista de reprodução</item>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d músicas idênticas</item>
+        <item quantity="one">%d música idêntica</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_Lista de reprodução">
-        <item quantity="other">%d músicas removidas da Lista de reprodução</item>
-        <item quantity="one">1 música removida da Lista de reprodução</item>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d músicas adicionadas à lista de reprodução</item>
+        <item quantity="one">1 música adicionada à lista de reprodução</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d músicas removidas da lista de reprodução</item>
+        <item quantity="one">1 música removida da lista de reprodução</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d músicas serão enviadas</item>
-        <item quantity="one">1 música será enviada</item>
+        <item quantity="other">%d músicas vão ser enviadas</item>
+        <item quantity="one">1 música vai ser enviada</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">%d músicas</item>

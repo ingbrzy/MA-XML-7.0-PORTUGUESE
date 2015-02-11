@@ -5,8 +5,8 @@
         <item quantity="one">1 minuto</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">1 min.</item>
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d horas</item>
@@ -21,7 +21,7 @@
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+        <item quantity="one">1.0</item>
     </plurals>
     <plurals name="Nevents">
         <item quantity="other">%d eventos</item>

@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="power_center_battery_day">
-        <item quantity="other">%d dias</item>
-        <item quantity="one">%d dia</item>
+        <item quantity="other">"%d dias "</item>
+        <item quantity="one">"%d dia "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">%d m</item>
-        <item quantity="one">%d m</item>
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplicações podem auto iniciar</item>
+        <item quantity="one">%d aplicação pode auto iniciar</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplicações não estão autorizadas a auto inicar</item>
+        <item quantity="one">%d aplicaçãos não está autorizada a auto inicar</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permissões</item>
+        <item quantity="one">%d permissão</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplicações</item>
+        <item quantity="one">%d aplicação</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d aplicações tem acesso root</item>
+        <item quantity="one">%d aplicação tem acesso root</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d aplicações não tem acesso root</item>
+        <item quantity="one">%d aplicação não tem acssso root</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Actualizações disponíveis para %d aplicações.</item>
+        <item quantity="one">actualização disponível para aplicação %d.</item>
     </plurals>
 </resources>

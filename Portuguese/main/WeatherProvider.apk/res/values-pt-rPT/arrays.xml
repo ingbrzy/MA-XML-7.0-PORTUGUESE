@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Ensolarado</item>
+        <item>Sol</item>
         <item>Nublado</item>
-        <item>Nublado</item>
-        <item>Nebuloso</item>
-        <item>Tempestade severa</item>
-        <item>Chuva torrencial</item>
+        <item>Nuvens escuras</item>
+        <item>Nevoeiro</item>
+        <item>Chuva intensa</item>
+        <item>Aguaceiros</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
-        <item>Chuva</item>
-        <item>Chuva forte</item>
+        <item>Chuviscos</item>
+        <item>Chuvas fortes</item>
         <item>Chuva moderada</item>
-        <item>Chuva leve</item>
+        <item>Chuva fraca</item>
         <item>Chuva com neve</item>
-        <item>Nevasca</item>
         <item>Neve</item>
-        <item>Neve severa</item>
+        <item>Neve</item>
+        <item>Nevão forte</item>
         <item>Neve moderada</item>
-        <item>Neve leve</item>
-        <item>Tempestade de areia forte</item>
+        <item>Alguma neve</item>
+        <item>Forte tempestade de areia</item>
         <item>Tempestade de areia</item>
         <item>Areia</item>
-        <item>Ventania</item>
+        <item>Ventoso</item>
         <item>Granizo</item>
-        <item>Poeira</item>
-        <item>Névoa</item>
-        <item>Chuva com neve</item>
-        <item>Sem dados</item>
+        <item>Pó</item>
+        <item>Neblina</item>
+        <item>Chuva gelada</item>
+        <item>Sem dados disponiveis</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Mais fraco</item>
+        <item>Muito fraco</item>
         <item>Fraco</item>
-        <item>Médio</item>
+        <item>Médio alcance</item>
         <item>Forte</item>
-        <item>Mais forte</item>
+        <item>Muito forte</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vento N</item>
         <item>Vento NE</item>
-        <item>Vento L</item>
+        <item>Vento E</item>
         <item>Vento SE</item>
         <item>Vento S</item>
-        <item>Vento SO</item>
-        <item>Vento O</item>
-        <item>Vento NO</item>
+        <item>Vento SW</item>
+        <item>Vento W</item>
+        <item>Vento NW</item>
     </string-array>
 </resources>

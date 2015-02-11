@@ -24,8 +24,8 @@
         <item>LowBattery.ogg</item>
     </string-array>
     <string-array name="audio_effect_file_showing_names">
-        <item>Bloquear</item>
-        <item>Desbloquear</item>
+        <item>Lock</item>
+        <item>Unlock</item>
         <item>EffectTick</item>
         <item>KeypressDelete</item>
         <item>KeypressReturn</item>
@@ -45,5 +45,8 @@
         <item>SoundRecorderPause</item>
         <item>SoundRecorderRewind</item>
         <item>LowBattery</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>desactivar o nome do pacote</item>
     </string-array>
 </resources>

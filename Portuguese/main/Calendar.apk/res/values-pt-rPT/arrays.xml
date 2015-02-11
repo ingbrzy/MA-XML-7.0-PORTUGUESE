@@ -3,11 +3,17 @@
     <string-array name="reminder_methods_labels">
         <item>Notificação</item>
         <item>Email</item>
-        <item>SMS</item>
+        <item>Mensagem de texto</item>
         <item>Alarme</item>
     </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
     <string-array name="reminder_minutes_labels">
-        <item>Sem lembrete</item>
+        <item>Nenhum</item>
         <item>0 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
@@ -18,8 +24,20 @@
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
     <string-array name="preferences_default_reminder_labels">
-        <item>Sem lembrete</item>
+        <item>Nenhum</item>
         <item>0 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
@@ -29,84 +47,102 @@
         <item>1 dia</item>
         <item>2 dias</item>
         <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Local prédefenido</item>
-        <item>Sáb</item>
-        <item>Dom</item>
-        <item>Seg</item>
+        <item>Localização predefinida</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+        <item>Segunda-feira</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_values">
+        <item>-1</item>
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
-        <item>Midway</item>
-        <item>Havaí</item>
+        <item>Ilhas Midway</item>
+        <item>Havai</item>
         <item>Alasca</item>
-        <item>Horár. Pacífico</item>
+        <item>Hora do Pacífico</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Horár. Montanhas</item>
+        <item>Regiões Montanhosas</item>
         <item>América Central</item>
-        <item>Horário Central</item>
+        <item>Hora Central</item>
         <item>Cidade do México</item>
         <item>Saskatchewan</item>
         <item>Bogotá</item>
-        <item>Horário Oriental</item>
+        <item>Hora do Leste</item>
         <item>Venezuela</item>
-        <item>Hora do Atl. (Barb.)</item>
-        <item>Hora do Atl. (Can.)</item>
+        <item>Hora do Atlântico (Barbados)</item>
+        <item>Hora do Atlântico (Canada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Terra Nova</item>
         <item>Brasília</item>
         <item>Buenos Aires</item>
-        <item>Groenlândia</item>
-        <item>Montevidéu</item>
+        <item>Gronelândia</item>
+        <item>Montevideo</item>
         <item>Atlântico Central</item>
         <item>Açores</item>
-        <item>Ilhas Cabo Verde</item>
+        <item>Ilhas de Cabo Verde</item>
         <item>Casablanca</item>
-        <item>Londres, Dublin</item>
-        <item>Amsterdã, Berlim</item>
+        <item>Lisboa, Londres</item>
+        <item>Amsterdão, Berlim</item>
         <item>Belgrado</item>
         <item>Bruxelas</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
-        <item>Horário da África Ocidental</item>
+        <item>África Centro Oeste</item>
         <item>Amã, Jordânia</item>
         <item>Atenas, Istambul</item>
         <item>Beirute, Líbano</item>
         <item>Cairo</item>
-        <item>Helsinque</item>
+        <item>Helsínquia</item>
         <item>Jerusalém</item>
         <item>Minsk</item>
         <item>Harare</item>
-        <item>Bagdá</item>
-        <item>Moscou</item>
+        <item>Bagdade</item>
+        <item>Moscovo</item>
         <item>Kuwait</item>
-        <item>Nairóbi</item>
-        <item>Teerã</item>
+        <item>Nairobi</item>
+        <item>Teerão</item>
         <item>Baku</item>
         <item>Tbilisi</item>
-        <item>Ierevan</item>
+        <item>Yerevan</item>
         <item>Dubai</item>
         <item>Cabul</item>
         <item>Islamabad, Karachi</item>
-        <item>Uralsk</item>
+        <item>Urais</item>
         <item>Yekaterinburg</item>
         <item>Kolkata</item>
         <item>Sri Lanka</item>
-        <item>Katmandu</item>
+        <item>Kathmandu</item>
         <item>Astana</item>
-        <item>Rangum</item>
+        <item>Yangon</item>
         <item>Krasnoyarsk</item>
-        <item>Bangcoc</item>
-        <item>Pequim</item>
+        <item>Banguecoque</item>
+        <item>Beijing</item>
         <item>Hong Kong</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
-        <item>Taipé</item>
+        <item>Taipei</item>
         <item>Seul</item>
         <item>Tóquio, Osaka</item>
         <item>Yakutsk</item>
@@ -114,7 +150,7 @@
         <item>Darwin</item>
         <item>Brisbane</item>
         <item>Hobart</item>
-        <item>Sydney, Camberra</item>
+        <item>Sydney, Canberra</item>
         <item>Vladivostok</item>
         <item>Guam</item>
         <item>Magadan</item>
@@ -122,22 +158,113 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
+    <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
     <string-array name="availability">
-        <item>Ocupado(a)</item>
+        <item>Ocupado</item>
         <item>Disponível</item>
         <item>Tentativa</item>
     </string-array>
+    <integer-array name="availability_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <string-array name="visibility">
-        <item>Prédefenido</item>
+        <item>Predefinido</item>
         <item>Privado</item>
         <item>Público</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>primeiro(a)</item>
-        <item>segundo(a)</item>
-        <item>terceiro(a)</item>
-        <item>quarto(a)</item>
-        <item>último</item>
+        <item>Primeiro</item>
+        <item>Segundo</item>
+        <item>Terceiro</item>
+        <item>Quarto</item>
+        <item>Ultimo</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sem resposta</item>
@@ -146,37 +273,180 @@
         <item>Não</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Somente este evento</item>
-        <item>Este evento e eventos futuros</item>
+        <item>Apenas este evento</item>
+        <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Este evento e eventos futuros</item>
+        <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Somente este evento</item>
+        <item>Apenas este evento</item>
         <item>Todos os eventos da série</item>
     </string-array>
     <string-array name="buttons_list">
         <item>Dia</item>
         <item>Semana</item>
         <item>Mês</item>
-        <item>Compromissos</item>
+        <item>Agenda</item>
     </string-array>
     <string-array name="quick_response_defaults">
-        <item>Com alguns minutos de atraso.</item>
-        <item>Compareça em cerca de 10 minutos.</item>
-        <item>Comece sem mim.</item>
-        <item>Sinto muito, não posso comparecer. Precisaremos remarcar.</item>
+        <item>Estou apenas alguns minutos atrasado.</item>
+        <item>Estarei lá em cerca de 10 minutos.</item>
+        <item>Vá na frente e comece sem mim.</item>
+        <item>Desculpe, eu não posso estar presente. Vamos ter que remarcar.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
-        <item>Apenas quando estiver no silencioso</item>
+        <item>Apenas quando em silêncio</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Silençioso</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Preto transparente</item>
         <item>Fundo branco</item>
     </string-array>
+    <integer-array name="online_reminder_minutes_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </integer-array>
+    <integer-array name="online_reminder_minutes_values_allday">
+        <item>0</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>4320</item>
+        <item>10080</item>
+    </integer-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Seg.</item>
+        <item>Ter.</item>
+        <item>Qua.</item>
+        <item>Qui.</item>
+        <item>Sex.</item>
+        <item>Sáb.</item>
+        <item>Dom.</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan.</item>
+        <item>Fev.</item>
+        <item>Mar.</item>
+        <item>Abr.</item>
+        <item>Mai.</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Ago.</item>
+        <item>Set.</item>
+        <item>Out.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>Primeiro</item>
+        <item>Segundo</item>
+        <item>Terceiro</item>
+        <item>Quarto</item>
+        <item>Ultimo</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Seg. a Sex.</item>
+        <item>Fim de semana</item>
+        <item>Diáriamente</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nunca</item>
+        <item>Tempo</item>
+        <item>Contar</item>
+    </string-array>
+    <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+    </array>
+    <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+    </array>
 </resources>
