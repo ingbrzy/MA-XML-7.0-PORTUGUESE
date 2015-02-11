@@ -24,30 +24,24 @@
     <string-array name="cs_call_type">
         <item>SCVoz</item>
     </string-array>
-    <string-array name="sip_call_options_entries">
         <item>@string/sip_call_options_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
         <item>@string/sip_call_options_entry_3</item>
     </string-array>
-    <string-array name="sip_call_options_wifi_only_entries">
         <item>@string/sip_call_options_wifi_only_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
         <item>@string/sip_call_options_entry_3</item>
     </string-array>
-    <string-array name="sip_call_options_values">
         <item>@string/sip_always</item>
         <item>@string/sip_address_only</item>
         <item>@string/sip_ask_me_each_time</item>
     </string-array>
-    <string-array name="phone_type_values">
         <item>@string/pstn_phone</item>
         <item>@string/internet_phone</item>
     </string-array>
-    <string-array name="sip_send_keepalive_options">
         <item>@string/sip_system_decide</item>
         <item>@string/sip_always_send_keepalive</item>
     </string-array>
-    <string-array name="t9_indexing_method_entries">
         <item>@string/t9_indexing_method_pinyin</item>
         <item>@string/t9_indexing_method_zhuyin</item>
     </string-array>
@@ -55,7 +49,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="missed_call_notify_times_entries">
         <item>@string/missed_call_notify_none</item>
         <item>@string/missed_call_notify_once</item>
         <item>@string/missed_call_notify_twice</item>
@@ -71,7 +64,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="connect_disconnect_vibrate_entries">
         <item>@string/connect_disconnect_vibrate_normal</item>
         <item>@string/connect_disconnect_vibrate_weak</item>
         <item>@string/connect_disconnect_vibrate_none</item>
@@ -81,7 +73,6 @@
         <item>50</item>
         <item>0</item>
     </string-array>
-    <string-array name="call_waiting_tone_entries">
         <item>@string/call_waiting_tone_continuously</item>
         <item>@string/call_waiting_tone_twice_only</item>
         <item>@string/call_waiting_tone_twice_and_vibrate</item>
@@ -91,7 +82,6 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="tty_mode_entries">
         <item>@string/tty_mode_entries_off</item>
         <item>@string/tty_mode_entries_full</item>
         <item>@string/tty_mode_entries_hco</item>
@@ -103,7 +93,6 @@
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="dtmf_tone_entries">
         <item>@string/dtmf_tone_entries_normal</item>
         <item>@string/dtmf_tone_entries_long</item>
     </string-array>
@@ -111,7 +100,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="auto_answer_delay_entries">
         <item>@string/auto_answer_delay_entries_immediately</item>
         <item>@string/auto_answer_delay_entries_delay_3s</item>
         <item>@string/auto_answer_delay_entries_delay_5s</item>
@@ -123,23 +111,19 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="auto_answer_scenario_entries">
         <item>@string/auto_answer_scenario_enteries_always</item>
         <item>@string/auto_answer_scenario_enteries_headset_only</item>
         <item>@string/auto_answer_scenario_enteries_bluetooth_only</item>
         <item>@string/auto_answer_scenario_enteries_headset_bluetooth</item>
     </string-array>
-    <string-array name="clir_choices">
         <item>@string/clir_choices_network_default</item>
         <item>@string/clir_choices_hide_number</item>
         <item>@string/clir_choices_show_number</item>
     </string-array>
-    <string-array name="clir_values">
         <item>PADRÃO</item>
         <item>OCULTAR</item>
         <item>MOSTRAR</item>
     </string-array>
-    <string-array name="cdma_call_waiting_entries">
         <item>@string/enable</item>
         <item>@string/disable</item>
     </string-array>
@@ -147,7 +131,6 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="auto_record_scenario_entries">
         <item>@string/call_record_auto_always</item>
         <item>@string/call_record_whitelist_custom</item>
     </string-array>
@@ -253,11 +236,9 @@
         <item>6</item>
         <item>7</item>
     </string-array>
-    <string-array name="absent_num">
         <item>ABSENT NUMBER</item>
         <item>ABSENTNUMBER</item>
     </string-array>
-    <string-array name="voicemail_notification_vibrate_when_values">
         <item>Sempre</item>
         <item>Silêncioso</item>
         <item>Nunca</item>
