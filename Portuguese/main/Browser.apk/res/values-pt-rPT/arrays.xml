@@ -17,7 +17,6 @@
         <item>miui_home</item>
         <item>other</item>
     </string-array>
-    
         <item>小米论坛</item>
         <item>http://bbs.xiaomi.cn/</item>
         <item>百度</item>
@@ -61,7 +60,6 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
-    
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -71,7 +69,6 @@
         <item>Página anterior/Próxima página</item>
         <item>Janela anterior/Próxima janela</item>
     </string-array>
-    
         <item>0</item>
         <item>1</item>
     </string-array>
@@ -79,7 +76,6 @@
         <item>Avançar página/voltar</item>
         <item>Alternar janela</item>
     </string-array>
-    
         <item>0</item>
         <item>1</item>
     </string-array>
@@ -88,7 +84,6 @@
         <item>Médio</item>
         <item>Grande</item>
     </string-array>
-    
         <item>@string/pref_images_preload_value_never</item>
         <item>@string/pref_images_preload_value_wifi_only</item>
         <item>@string/pref_images_preload_value_always</item>
@@ -344,7 +339,6 @@
         <item>shipin</item>
         <item>tupian</item>
     </string-array>
-    
         <item>16</item>
         <item>18</item>
         <item>20</item>
@@ -358,7 +352,6 @@
         <item>32</item>
         <item>36</item>
     </integer-array>
-    
         <item>0xfff7f7f7</item>
         <item>0xffe6ddd1</item>
         <item>0xffd8d8d8</item>
@@ -366,7 +359,6 @@
         <item>0xffb0c0b6</item>
         <item>0xff111214</item>
     </integer-array>
-    
         <item>0xff000000</item>
         <item>0xff000000</item>
         <item>0xff3e4042</item>
@@ -374,67 +366,54 @@
         <item>0xff2e3833</item>
         <item>0xff646974</item>
     </integer-array>
-    
         <item>search_google</item>
         <item>ic_search_engine_google</item>
         <item>google</item>
     </string-array>
-    
         <item>search_yahoo</item>
         <item>ic_search_engine_yahoo</item>
         <item>yahoo</item>
     </string-array>
-    
         <item>search_bing</item>
         <item>ic_search_engine_bing</item>
         <item>bing</item>
     </string-array>
-    
         <item>search_baidu</item>
         <item>ic_search_engine_baidu</item>
         <item>baidu</item>
     </string-array>
-    
         <item>search_sogou</item>
         <item>ic_search_engine_sogou</item>
         <item>sogou</item>
     </string-array>
-    
         <item>search_bing</item>
         <item>ic_search_engine_bing</item>
         <item>bing_zh_CN</item>
     </string-array>
-    
         <item>search_s139</item>
         <item>ic_search_engine_s139</item>
         <item>s139</item>
     </string-array>
-    
         <item>search_taobao</item>
         <item>ic_search_engine_taobao</item>
         <item>taobao</item>
     </string-array>
-    
         <item>search_yicha</item>
         <item>ic_search_engine_yicha</item>
         <item>yicha</item>
     </string-array>
-    
         <item>search_easou</item>
         <item>ic_search_engine_easou</item>
         <item>easou</item>
     </string-array>
-    
         <item>search_dianping</item>
         <item>ic_search_engine_dianping</item>
         <item>dianping</item>
     </string-array>
-    
         <item>search_shipin</item>
         <item>ic_search_engine_shipin</item>
         <item>shipin</item>
     </string-array>
-    
         <item>search_tupian</item>
         <item>ic_search_engine_tupian</item>
         <item>tupian</item>
@@ -502,7 +481,6 @@
         <item>Apenas em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
@@ -512,7 +490,6 @@
         <item>Apenas em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    
         <item>@string/pref_link_prefetch_value_never</item>
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
@@ -522,7 +499,6 @@
         <item>Apenas em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    
         <item>@string/pref_video_preload_value_never</item>
         <item>@string/pref_video_preload_value_wifi_only</item>
         <item>@string/pref_video_preload_value_always</item>
