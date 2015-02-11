@@ -18,18 +18,18 @@
 As aplicações podem aceder a esta informação se activar esta opção."</string>
     <string name="confirm_location_alert">Lembrar a localização GPS das fotos</string>
     <string name="start_capture">OK</string>
-    <string name="pref_camera_id_default">0</string>
+   
     <string name="pref_camera_recordlocation_title">Guardar localização nas fotografias</string>
-    <string name="pref_camera_recordlocation_default">false</string>
+    
     <string name="pref_camera_recordlocation_entry_off">Desl.</string>
     <string name="pref_camera_recordlocation_entry_on">Lig.</string>
     <string name="pref_camera_sound_title">Sons da câmara</string>
     <string name="pref_front_mirror_title">Espelho na câmara da frente</string>
     <string name="pref_video_quality_title">Qualidade do vídeo</string>
-    <string name="pref_video_quality_default">5</string>
-    <string name="pref_mi_front_video_quality_default">6</string>
-    <string name="pref_mtk_video_quality_default">10</string>
-    <string name="pref_video_quality_entry_value_4kuhd">12</string>
+    
+   
+    
+    
     <string name="pref_video_quality_entry_4kuhd">4K</string>
     <string name="pref_video_quality_entry_1080p">FULL HD</string>
     <string name="pref_video_quality_entry_720p">HD</string>
@@ -39,7 +39,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_video_quality_entry_vga">VGA</string>
     <string name="pref_video_quality_entry_wqvga">WQVGA</string>
     <string name="pref_video_time_lapse_frame_interval_title">Intervalo de tempo decorrido</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
+    
     <string name="pref_video_time_lapse_frame_interval_entry_2">Intervalo de 0.06 segundos (2 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">Intervalo de 0.12 segundos (4 vezes)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervalo de 0.3 segundos (10 vezes)</string>
@@ -78,19 +78,19 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_picturesize_entry_1472x832">1.2M(1472x832)</string>
     <string name="pref_camera_picturesize_entry_1280x720">0.9M(1280x720)</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
-    <string name="pref_camera_jpegquality_default">normal</string>
+    
     <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
-    <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
-    <string name="pref_camera_picture_format_value_raw">raw</string>
+    
+    
     <string name="pref_camera_jpegquality_title">Qualidade da imagem</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_normal">Normal</string>
     <string name="pref_camera_jpegquality_entry_low">Baixa</string>
     <string name="pref_camera_histogram_entry_enable">Activado</string>
     <string name="pref_camera_histogram_entry_disable">Desactivado</string>
-    <string name="pref_camera_histogram_value_enable">enable</string>
-    <string name="pref_camera_histogram_value_disable">disable</string>
+    
+    
     <string name="pref_camera_focusmode_title">Modo de focagem</string>
     <string name="pref_camera_focusmode_entry_auto">Automático</string>
     <string name="pref_camera_focusmode_entry_normal">Normal</string>
@@ -100,16 +100,16 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_video_focusmode_title">Modo de focagem</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_entry_auto">Tap</string>
-    <string name="pref_video_focusmode_entryvalue_default">auto</string>
-    <string name="pref_camera_focusmode_value_default">continuous-picture</string>
-    <string name="pref_camera_flashmode_default">auto</string>
+    
+   
+   
     <string name="pref_camera_flashmode_title">Flash</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">Ligado</string>
     <string name="pref_camera_flashmode_entry_off">Desligado</string>
     <string name="pref_camera_flashmode_entry_torch">Lâmpada</string>
-    <string name="pref_camera_video_flashmode_default">off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
+    
+    
     <string name="pref_camera_whitebalance_title">Balanço brancos</string>
     <string name="pref_camera_whitebalance_entry_auto">Automático</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
@@ -118,15 +118,15 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_whitebalance_entry_cloudy">Nuvens</string>
     <string name="pref_camera_whitebalance_entry_manual">Manual</string>
     <string name="pref_camera_whitebalance_entry_measure">Medida</string>
-    <string name="pref_camera_whitebalance_entryvalue_auto">auto</string>
-    <string name="pref_camera_whitebalance_entryvalue_incandescent">incandescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_daylight">daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_fluorescent">fluorescent</string>
-    <string name="pref_camera_whitebalance_entryvalue_cloudy">cloudy-daylight</string>
-    <string name="pref_camera_whitebalance_entryvalue_manual">manual-cct</string>
-    <string name="pref_camera_whitebalance_entryvalue_measure">measure</string>
-    <string name="pref_camera_coloreffect_default">none</string>
-    <string name="pref_camera_shader_coloreffect_default">10</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="pref_camera_coloreffect_title">Filtros</string>
     <string name="pref_camera_coloreffect_entry_sepia" />
     <string name="pref_camera_coloreffect_entry_negative" />
@@ -147,7 +147,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
     <string name="pref_camera_coloreffect_entry_mirror">Espelho</string>
     <string name="pref_camera_coloreffect_entry_gaussianblur">Névoa</string>
-    <string name="pref_camera_touchafaec_default">touch-on</string>
+    
     <string name="pref_camera_touchafaec_entry_off">Desl.</string>
     <string name="pref_camera_touchafaec_entry_on">Lig.</string>
     <string name="pref_camera_multilevel_entry_lowest">Menor</string>
@@ -158,14 +158,14 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_multilevel_entry_higher">Mais alto</string>
     <string name="pref_camera_multilevel_entry_highest">Elevado</string>
     <string name="pref_camera_multilevel_entry_middle">Médio (padrão)</string>
-    <string name="pref_camera_contrast_default">5</string>
+    
     <string name="pref_camera_contrast_title">Contraste</string>
-    <string name="pref_camera_saturation_default">5</string>
-    <string name="pref_camera_saturation_cm_test_default">4</string>
+    
+    
     <string name="pref_camera_saturation_title">Saturação</string>
-    <string name="pref_camera_sharpness_default">12</string>
+   
     <string name="pref_camera_sharpness_title">Sharpness</string>
-    <string name="pref_camera_scenemode_default">auto</string>
+    
     <string name="pref_camera_scenemode_title">Modo de cena</string>
     <string name="pref_camera_scenemode_entry_off">Desl.</string>
     <string name="pref_camera_scenemode_entry_auto">Automático</string>
@@ -180,9 +180,9 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_scenemode_entry_sports">Desportos</string>
     <string name="pref_camera_scenemode_entry_backlight">Luz de Fundo</string>
     <string name="pref_camera_scenemode_entry_flowers">Flores</string>
-    <string name="pref_exposure_default">0</string>
-    <string name="pref_camera_denoise_default">denoise-on</string>
-    <string name="pref_camera_iso_default">auto</string>
+    
+    
+    
     <string name="pref_camera_iso_title">Seleccionar ISO</string>
     <string name="pref_camera_iso_entry_auto">Automático</string>
     <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -191,16 +191,16 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
     <string name="pref_camera_iso_entry_iso3200">ISO3200</string>
-    <string name="pref_camera_iso_value_auto">auto</string>
-    <string name="pref_camera_iso_value_iso100">ISO100</string>
-    <string name="pref_camera_iso_value_iso200">ISO200</string>
-    <string name="pref_camera_iso_value_iso400">ISO400</string>
-    <string name="pref_camera_iso_value_iso800">ISO800</string>
-    <string name="pref_camera_iso_value_iso1600">ISO1600</string>
-    <string name="pref_camera_iso_value_iso3200">ISO3200</string>
+    
+    
+    
+    
+    
+    
+    
     <string name="pref_camera_antibanding_title">Estereoscópio</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
-    <string name="pref_camera_antibanding_60">60hz</string>
+    
+    
     <string name="pref_camera_antibanding_entry_0">Desactivado</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -215,18 +215,18 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
-    <string name="pref_camera_hfr_value_off">off</string>
-    <string name="pref_camera_hfr_value_2x">60</string>
-    <string name="pref_camera_hfr_value_3x">90</string>
-    <string name="pref_camera_hfr_value_4x">120</string>
+    
+    
+    
+   
     <string name="pref_video_speed_title">Velocidade de captura do vídeo</string>
-    <string name="pref_video_speed_default">normal</string>
+   
     <string name="pref_video_speed_entry_normal">Normal</string>
     <string name="pref_video_speed_entry_fast">Rápido</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
-    <string name="pref_video_speed_value_normal">normal</string>
-    <string name="pref_video_speed_value_fast">fast</string>
-    <string name="pref_video_speed_value_slow">slow</string>
+    
+    
+    
     <string name="pano_too_fast_prompt">Muito rápido</string>
     <string name="pano_how_to_use_prompt_to_move">Mover o dispositivo suavemente para a posição horizontal</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Continue a mover…</string>
@@ -237,7 +237,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pano_review_saving_indication_str">A guardar…</string>
     <string name="tap_to_focus">Tocar para focar</string>
     <string name="tap_to_exposure">Tocar para ajustar a exposição manualmente</string>
-    <string name="pref_video_effect_default">none</string>
+    
     <string name="snapshot_lower_than_video">Tamanho de vídeo instantâneo mais pequeno do que o tamanho do vídeo. Analisar tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
     <string name="snapshotsize_low_powermode">A Resolução da imagem não é suportada pelas definições actuais de controlo de energia. Será utilizado o tamanho de vídeo instantâneo.</string>
     <string name="accessibility_shutter_button">Botão de disparo</string>
@@ -249,14 +249,14 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_autoexposure_entry_frameaverage">Moldura média</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centro de Ponderação</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Medição pontual</string>
-    <string name="pref_camera_autoexposure_default">center-weighted</string>
-    <string name="pref_camera_autoexposure_value_frameaverage">frame-average</string>
-    <string name="pref_camera_autoexposure_value_centerweighted">center-weighted</string>
-    <string name="pref_camera_autoexposure_value_spotmetering">spot-metering</string>
+    
+    
+    
+    
     <string name="pref_camera_audio_capture_title">Audio</string>
-    <string name="pref_audio_indicator_entryvalue_default">off</string>
-    <string name="pref_audio_indicator_entryvalue_on">on</string>
-    <string name="pref_audio_indicator_entryvalue_off">off</string>
+    
+    
+    
     <string name="pref_audio_indicator_entry_off">Audio off</string>
     <string name="pref_audio_indicator_entry_on">Audio on</string>
     <string name="pref_camera_video_duration_entry_mms">30 segundos(MMS)</string>
@@ -266,14 +266,14 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_skinToneEnhancement_entry_auto">Aperfeiçoamento automático</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">Activado</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivado</string>
-    <string name="pref_camera_skinToneEnhancement_value_auto">auto</string>
-    <string name="pref_camera_skinToneEnhancement_value_enable">enable</string>
-    <string name="pref_camera_skinToneEnhancement_value_disable">disable</string>
+    
+    
+    
     <string name="pref_camera_zsl_entry_off">Desl.</string>
     <string name="pref_camera_zsl_entry_on">Lig.</string>
-    <string name="pref_camera_zsl_value_off">off</string>
-    <string name="pref_camera_zsl_value_on">on</string>
-    <string name="pref_camera_facedetection_default">true</string>
+    
+    
+    
     <string name="pref_camera_facedetection_title">Detecção pelo rosto</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">Câmara</string>
@@ -284,11 +284,11 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_entry_exposure">Exposição</string>
     <string name="pref_camera_volumekey_function_title">Função do botão de Volume</string>
-    <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
-    <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
-    <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
-    <string name="pref_camera_volumekey_function_entryvalue_exposure">exposure</string>
-    <string name="pref_camera_volumekey_function_default">shutter</string>
+    
+    
+    
+    
+    
     <string name="error_fail_to_start_audio_capture">Falha ao iniciar a captura de áudio</string>
     <string name="toast_start_audio_capture">Criar um som para definir o som do obturador</string>
     <string name="record_back_pressed_hint">Clicar novamente para parar de gravar</string>
@@ -296,7 +296,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="toast_burst_snap_finished_end">fotografias</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">Não é possível disparar enquanto a captura de áudio está ligada</string>
     <string name="time_lapse_error">O tamanho de vídeo é inválido, para um curto tempo de gravação</string>
-    <string name="pref_camera_movie_solid_default">true</string>
+    
     <string name="pref_camera_movie_solid_title">Filme sólido</string>
     <string name="simple_mode_button_text_hdr">Fechar modo HDR</string>
     <string name="simple_mode_button_text_hand_night">Fechar o modo nocturno</string>
@@ -315,9 +315,9 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_setting_title">Definições</string>
     <string name="pref_scan_qrcode_title">Ler código QR</string>
-    <string name="pref_scan_qrcode_default">true</string>
+    
     <string name="pref_manual_exposure_title">Exposição</string>
-    <string name="pref_camera_exposuretime_default">0</string>
+   
     <string name="pref_camera_exposuretime_entry_auto">Auto</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
     <string name="pref_camera_exposuretime_entry_16s">16s</string>
@@ -338,13 +338,13 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
     <string name="face_analyze_info_male">Masculino</string>
     <string name="face_analyze_info_female">Feminino</string>
-    <string name="camera_face_beauty_simple_mode_open">i:2</string>
+    
     <string name="face_beauty_intelligent_level_0">Desligado</string>
     <string name="face_beauty_intelligent_level_1">Baixo</string>
     <string name="face_beauty_intelligent_level_2">Médio</string>
     <string name="face_beauty_intelligent_level_3">Alto</string>
     <string name="pref_camera_show_gender_age_title">Reconhecer o rosto</string>
-    <string name="pref_camera_show_gender_age_default">on</string>
+    
     <string name="pref_camera_show_gender_age_entry_off">Desl.</string>
     <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e o sexo</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade</string>
@@ -362,13 +362,13 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="face_beauty_age_alias_female_60_m">Feminino 60+</string>
     <string name="simple_mode_button_text_face_beauty">Desactivar o melhoramento dos tons de pele</string>
     <string name="pref_face_beauty_title">Tons de pele</string>
-    <string name="pref_face_beauty_default">i:0</string>
+    
     <string name="toast_cannot_preview_image_when_screen_locked">Não pode rever a imagem ou vídeo quando o ecrã está bloqueado.</string>
     <string name="pref_priority_storage_title">Guardar no cartão SD</string>
     <string name="setting_top_text">Opções</string>
-    <string name="pref_camera_setting_switch_default">off</string>
-    <string name="pref_camera_setting_switch_entryvalue_off">off</string>
-    <string name="pref_camera_setting_switch_entryvalue_on">on</string>
+    
+    
+    
     <string name="pref_video_speed_fast_title">Movimento rápido</string>
     <string name="pref_video_speed_slow_title">Movimento lento</string>
     <string name="pref_camera_manual_mode_title">Manual</string>
@@ -391,12 +391,12 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_auto_capture_when_stable_title">Captura automática quando estiver estável</string>
     <string name="accessibility_panorama_review_cancel">Cancelar a gravação da fotografia panoramica</string>
     <string name="simple_mode_button_text_manual">Fechar o Modo Manual</string>
-    <string name="pref_qc_focus_position_value_default">0</string>
+    
     <string name="pref_qc_focus_position_title">Focar</string>
-    <string name="pref_front_mirror_default">auto</string>
-    <string name="pref_front_mirror_entryvalue_auto">auto</string>
-    <string name="pref_front_mirror_entryvalue_on">on</string>
-    <string name="pref_front_mirror_entryvalue_off">off</string>
+   
+    
+    
+    
     <string name="pref_front_mirror_entry_auto">Auto</string>
     <string name="pref_front_mirror_entry_on">Lig.</string>
     <string name="pref_front_mirror_entry_off">Desl.</string>
@@ -405,33 +405,33 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
     <string name="pref_camera_long_pressing_shutter_title">Pressione e mantenha o botão de disparo para bloquear AE/AF/AWB</string>
     <string name="simple_mode_button_asd_flash">Desligar o flash</string>
     <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
-    <string name="pref_audio_focus_default">normal</string>
+    
     <string name="pref_audio_focus_title">Audio Focagem</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_front">Frente</string>
     <string name="pref_audio_focus_entry_rear">Trás</string>
-    <string name="pref_audio_focus_entryvalue_general">normal</string>
-    <string name="pref_audio_focus_entryvalue_front">near-end</string>
-    <string name="pref_audio_focus_entryvalue_rear">far-end</string>
+    
+    
+    
     <string name="audio_focus_exit_button_text">Fechar focagem áudio</string>
     <string name="pref_camera_long_press_shutter_feature_title">Pressão longa do botão de disparo</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo de explosão</string>
-    <string name="pref_camera_long_press_shutter_feature_default">burst</string>
-    <string name="pref_camera_hdr_entryvalue_auto">auto</string>
-    <string name="pref_camera_hdr_entryvalue_off">off</string>
-    <string name="pref_camera_hdr_entryvalue_normal">normal</string>
-    <string name="pref_camera_hdr_entryvalue_live">live</string>
+    
+    
+    
+    
+    
     <string name="pref_camera_hdr_entry_auto">Auto</string>
     <string name="pref_camera_hdr_entry_off">Desligado</string>
     <string name="pref_camera_hdr_entry_normal">Normal</string>
     <string name="pref_camera_hdr_entry_live">Live</string>
-    <string name="pref_simple_hdr_default">off</string>
+    
     <string name="pref_simple_hdr_entry_off">Desligado</string>
     <string name="pref_simple_hdr_entry_on">Ligado</string>
     <string name="pref_camera_countdown_title">Contagem</string>
     <string name="simple_mode_button_text_countdown">Fechar contagem</string>
-    <string name="pref_camera_countdown_default">3</string>
+    
     <string name="pref_camera_countdown_entry_3s">3s</string>
     <string name="pref_camera_countdown_entry_5s">5s</string>
     <string name="pref_camera_countdown_entry_10s">10s</string>
