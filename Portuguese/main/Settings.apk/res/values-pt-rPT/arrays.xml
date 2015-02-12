@@ -167,12 +167,6 @@
         <item>Bloqueado</item>
         <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
-    
-        
-        
-        
-        
-    
     <string-array name="wifi_security_no_eap">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
@@ -180,11 +174,6 @@
         <item>WAPI PSK</item>
         <item>WAPI CERT</item>
     </string-array>
-    
-        
-        
-        
-    
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
@@ -338,11 +327,6 @@
         <item>Cartão SD</item>
         <item>Deixe o sistema decidir</item>
     </string-array>
-    
-        
-        
-        
-    
     <string-array name="app_ops_categories">
         <item>Localização</item>
         <item>Pessoal</item>
@@ -438,87 +422,6 @@
         <item>Outline</item>
         <item>Desenhar sombra</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    
-       
-       
-       
-        
-       
-        
-        
-        
-    
-    <integer-array name="captioning_color_selector_values">
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
         <item>50%</item>
@@ -565,11 +468,6 @@
         <item>Verificar só o conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
-    
-        
-        
-        
-    
     <string-array name="hdcp_checking_summaries">
         <item>Nunca usar verificação HDCP</item>
         <item>Usar verificação HDCP apenas para conteúdo DRM</item>
@@ -646,23 +544,12 @@
         <item>Desenhe no clipe não retangular na região em azul</item>
         <item>Destaque dos comandos de desenho testado em verde</item>
     </string-array>
-    
-        
-        
-        
-    
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
         <item>No ecrã como barras</item>
         <item>No ecrã como linhas</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    
-        
-       
-        
-        
-    
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Mostrar áreas overdraw</item>
@@ -834,14 +721,6 @@
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
-    
-       
-        
-        
-        
-        
-        
-    
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexadecimal</item>
@@ -858,10 +737,6 @@
         <item>Mostrar aplicações recentes</item>
         <item>Mostrar o menu</item>
     </string-array>
-    
-        
-        
-    
     <string-array name="screen_key_long_press_action">
         <item>Nenhum</item>
         <item>Iniciar painel recente</item>
@@ -870,14 +745,6 @@
         <item>Fechar aplicação actual</item>
         <item>Mostrar o menu</item>
     </string-array>
-    
-       
-       
-       
-        
-        
-       
-    
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundos</item>
@@ -906,38 +773,11 @@
         <item>20000</item>
         <item>-1</item>
     </string-array>
-    
-        
-        
-        
-        
-    
-    <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-    </integer-array>
-    
-        
-        
-        
-    
-    
-        
-        
-        
-    
-    <string-array name="dolby_bassboost_rank_valus">
+        <string-array name="dolby_bassboost_rank_valus">
         <item>0</item>
         <item>3</item>
         <item>6</item>
     </string-array>
-    
-        
-        
-        
-    
     <string-array name="dolby_roomsize_rank_valus">
         <item>0</item>
         <item>1</item>
@@ -975,12 +815,6 @@
         <item>OSX</item>
         <item>Linux</item>
     </string-array>
-    
-        
-        
-        
-        
-    
     <string-array name="msd_pc_system_install_summary">
         <item>2.Siga as instruções no ecrã</item>
         <item></item>
@@ -997,14 +831,6 @@
         <item>@string/msd_install_retry_connect</item>
         <item>Reinstalar MiPhoneManager.</item>
     </string-array>
-    
-        
-    
-    
-        
-       
-        
-    
     <string-array name="msd_pc_system_retry_linux">
         <item>Instalar ferramenta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Criar o directório: mkdir /media/mtp</item>
@@ -1067,26 +893,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    
-        
-       
-        
-        
-    
     <string-array name="change_security_lock_picker">
         <item>Desbloquear com o rosto</item>
         <item>Predefinido</item>
         <item>PIN</item>
         <item>Palavra-passe</item>
     </string-array>
-    
-        
-        
-    
-    
-        
-       
-    
     <string-array name="wifi_connect_type_entries">
         <item>Ligar automaticamente</item>
         <item>Ligar manualmente</item>
