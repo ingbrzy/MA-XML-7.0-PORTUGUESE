@@ -24,27 +24,6 @@
     <string-array name="cs_call_type">
         <item>SCVoz</item>
     </string-array>
-        <item>@string/sip_call_options_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
-    </string-array>
-        <item>@string/sip_call_options_wifi_only_entry_1</item>
-        <item>@string/sip_call_options_entry_2</item>
-        <item>@string/sip_call_options_entry_3</item>
-    </string-array>
-        <item>@string/sip_always</item>
-        <item>@string/sip_address_only</item>
-        <item>@string/sip_ask_me_each_time</item>
-    </string-array>
-        <item>@string/pstn_phone</item>
-        <item>@string/internet_phone</item>
-    </string-array>
-        <item>@string/sip_system_decide</item>
-        <item>@string/sip_always_send_keepalive</item>
-    </string-array>
-        <item>@string/t9_indexing_method_pinyin</item>
-        <item>@string/t9_indexing_method_zhuyin</item>
-    </string-array>
     <string-array name="t9_indexing_method_entry_values">
         <item>0</item>
         <item>1</item>
