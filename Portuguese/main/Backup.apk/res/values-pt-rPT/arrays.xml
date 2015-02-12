@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="font_size_scale">
-        <item>0.86</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
-    </string-array>
     <string-array name="backup_dialog_content_type">
-        <item>Dados Wi-Fi</item>
-        <item>Todos as aplicações</item>
+        <item>Dados de Wi-Fi</item>
+        <item>Todas as aplicações</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Navegador</item>
         <item>Permissões</item>
         <item>Câmara</item>
-        <item>Utilização de dados</item>
-        <item>Dados do tempo</item>
-        <item>Tempo</item>
+        <item>Uso de dados</item>
+        <item>Dados do Clima</item>
+        <item>Clima</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contactos</item>
-        <item>Registo de chamadas</item>
+        <item>Registro de chamadas</item>
         <item>Mensagens</item>
-        <item>Mensagens multimédia</item>
-        <item>Definições do sistema</item>
-        <item>Definições Wi-Fi</item>
-        <item>Disposição da área de trabalho</item>
-        <item>Definições de alarme</item>
-        <item>Notas</item>
-        <item>Não perturbar</item>
-        <item>Conta</item>
+        <item>MMS</item>
+        <item>Configurações de sistema</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Disposição do ecrã inicial</item>
+        <item>Configurações do alarme</item>
+        <item>Anotações</item>
+        <item>Listas de bloqueio</item>
+        <item>Contas</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Dados</item>
@@ -38,19 +32,18 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Contactos</item>
-        <item>Registo de chamadas</item>
+        <item>Registro de chamadas</item>
         <item>Mensagens</item>
-        <item>Definições Wi-Fi</item>
-        <item>Notas</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Contactos</item>
-        <item>Definições Wi-Fi</item>
-        <item>Notas</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Registo de chamadas</item>
+        <item>Registro de chamadas</item>
         <item>Mensagens</item>
     </string-array>
 </resources>
-
