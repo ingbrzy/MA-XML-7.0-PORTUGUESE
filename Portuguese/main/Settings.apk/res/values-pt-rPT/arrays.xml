@@ -167,20 +167,20 @@
         <item>Bloqueado</item>
         <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
-    
+    <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
         <item>@string/wifi_security_psk_generic</item>
         <item>@string/wifi_security_eap</item>
     </string-array>
-    
+    <string-array name="wifi_security_no_eap">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
         <item>@string/wifi_security_psk_generic</item>
         <item>WAPI PSK</item>
         <item>WAPI CERT</item>
     </string-array>
-    
+    <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa</item>
         <item>@string/wifi_security_wpa2</item>
@@ -338,7 +338,7 @@
         <item>Cartão SD</item>
         <item>Deixe o sistema decidir</item>
     </string-array>
-    
+    <string-array name="app_install_location_values">
         <item>device</item>
         <item>sdcard</item>
         <item>auto</item>
@@ -349,51 +349,6 @@
         <item>Mensagem</item>
         <item>Média</item>
         <item>Dispositivo</item>
-    </string-array>
-    <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
-        <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Localização</item>
@@ -488,7 +443,7 @@
         <item>1</item>
         <item>2</item>
     </integer-array>
-    
+    <string-array name="captioning_color_selector_titles">
         <item>@string/color_white</item>
         <item>@string/color_black</item>
         <item>@string/color_red</item>
@@ -610,7 +565,7 @@
         <item>Verificar só o conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
-    
+    <string-array name="hdcp_checking_values">
         <item>never</item>
         <item>drm-only</item>
         <item>always</item>
@@ -674,26 +629,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/160</item>
-        <item>720x480/160,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
@@ -711,7 +646,7 @@
         <item>Desenhe no clipe não retangular na região em azul</item>
         <item>Destaque dos comandos de desenho testado em verde</item>
     </string-array>
-    
+    <string-array name="show_non_rect_clip_values">
         <item>hide</item>
         <item>region</item>
         <item>highlight</item>
@@ -722,7 +657,7 @@
         <item>No ecrã como linhas</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
-    
+    <string-array name="track_frame_time_values">
         <item>false</item>
         <item>visual_bars</item>
         <item>visual_lines</item>
@@ -805,16 +740,6 @@
         <item>low</item>
         <item>critical</item>
     </string-array>
-    
-        <item>@string/input_method_selector_show_automatically_title</item>
-        <item>@string/input_method_selector_always_show_title</item>
-        <item>@string/input_method_selector_always_hide_title</item>
-    </string-array>
-    
-        <item>@string/input_method_selector_show_automatically_value</item>
-        <item>@string/input_method_selector_always_show_value</item>
-        <item>@string/input_method_selector_always_hide_value</item>
-    </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Médio</item>
@@ -875,23 +800,6 @@
         <item>8000</item>
         <item>9000</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
-    <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Azul</item>
         <item>Vermelho</item>
@@ -926,7 +834,7 @@
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
     </string-array>
-    
+    <string-array name="mi2_wifi_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wep</item>
         <item>@string/wifi_security_psk_generic</item>
@@ -950,7 +858,7 @@
         <item>Mostrar aplicações recentes</item>
         <item>Mostrar o menu</item>
     </string-array>
-    
+    <string-array name="screen_key_press_action_value">
         <item>recent_panel</item>
         <item>show_menu</item>
     </string-array>
@@ -962,7 +870,7 @@
         <item>Fechar aplicação actual</item>
         <item>Mostrar o menu</item>
     </string-array>
-    
+    <string-array name="screen_key_long_press_action_value">
         <item>none</item>
         <item>recent_panel</item>
         <item>voice_assistant</item>
@@ -998,7 +906,7 @@
         <item>20000</item>
         <item>-1</item>
     </string-array>
-    
+    <string-array name="font_size_title">
         <item>@string/font_size_small</item>
         <item>@string/font_size_normal</item>
         <item>@string/font_size_medium</item>
@@ -1010,12 +918,12 @@
         <item>22</item>
         <item>27</item>
     </integer-array>
-    
+    <string-array name="dolby_mode_entries">
         <item>@string/dolby_mode_off</item>
         <item>@string/dolby_mode_music</item>
         <item>@string/dolby_mode_movie</item>
     </string-array>
-    
+    <string-array name="dolby_bassboost_ranks">
         <item>@string/dolby_bassboost_low</item>
         <item>@string/dolby_bassboost_normal</item>
         <item>@string/dolby_bassboost_high</item>
@@ -1025,7 +933,7 @@
         <item>3</item>
         <item>6</item>
     </string-array>
-    
+    <string-array name="dolby_roomsize_ranks">
         <item>@string/dolby_roomsize_low</item>
         <item>@string/dolby_roomsize_normal</item>
         <item>@string/dolby_roomsize_high</item>
@@ -1067,7 +975,7 @@
         <item>OSX</item>
         <item>Linux</item>
     </string-array>
-    
+    <string-array name="msd_pc_system_download_summary">
         <item>@string/msd_driver_download_xp</item>
         <item></item>
         <item>@string/msd_driver_download_mac</item>
@@ -1089,10 +997,10 @@
         <item>@string/msd_install_retry_connect</item>
         <item>Reinstalar MiPhoneManager.</item>
     </string-array>
-    
+    <string-array name="msd_pc_system_retry_vista">
         <item>@string/msd_install_retry_connect</item>
     </string-array>
-    
+    <string-array name="msd_pc_system_retry_mac">
         <item>@string/msd_install_retry_reinstall_mac</item>
         <item>@string/msd_install_retry_connect</item>
         <item>@string/msd_install_retry_reinstall</item>
@@ -1159,7 +1067,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    
+    <string-array name="change_security_lock_picker_key">
         <item>facial</item>
         <item>pattern</item>
         <item>numerical</item>
@@ -1171,11 +1079,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>PIN</item>
         <item>Palavra-passe</item>
     </string-array>
-  
+    <string-array name="dndm_vip_list_group_array">
         <item>@string/dndm_vip_list_custom</item>
         <item>@string/dndm_vip_list_contact</item>
     </string-array>
-    
+    <string-array name="dndm_auto_time_trun_on_off">
         <item>@string/dndm_auto_time_turn_on</item>
         <item>@string/dndm_auto_time_turn_off</item>
     </string-array>
