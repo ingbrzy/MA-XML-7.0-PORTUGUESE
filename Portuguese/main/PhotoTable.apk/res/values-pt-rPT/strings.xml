@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Proteção de ecrã fotografias</string>
-    <string name="flipper_screensaver_name">Porta-retrato</string>
-    <string name="local_source_name">Fotos no dispositivo</string>
-    <string name="need_to_configure">Nenhuma foto selecionada.</string>
-    <string name="no_photos">Nenhuma foto no dispositivo.</string>
-    <string name="photodream_select_all">Selecionar tudo</string>
-    <string name="photodream_select_none">Desmarcar tudo</string>
-    <string name="posts_album_name">Fotos de postagens</string>
-    <string name="stock_photo_album_name">Albúm de fotos</string>
-    <string name="table_screensaver_name">Tabela de fotos</string>
-    <string name="unknown_album_name">Álbum sem nome</string>
+  <string name="app_name">Proteção de ecrã fotografias</string>
+  <string name="flipper_screensaver_name">Porta-retrato</string>
+  <string name="local_source_name">Fotos no dispositivo</string>
+  <string name="need_to_configure">Nenhuma foto selecionada.</string>
+  <string name="no_photos">Nenhuma foto no dispositivo.</string>
+  <string name="photodream_select_all">Selecionar tudo</string>
+  <string name="photodream_select_none">Desmarcar tudo</string>
+  <string name="posts_album_name">Fotos de postagens</string>
+  <string name="stock_photo_album_name">Albúm de fotos</string>
+  <string name="table_screensaver_name">Tabela de fotos</string>
+  <string name="unknown_album_name">Álbum sem nome</string>
 </resources>

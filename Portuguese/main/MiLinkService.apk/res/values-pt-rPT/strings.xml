@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Serviço UniPlay</string>
-    <string name="notification_rc_desc">Pode utilizar o controle remoto Xiaomi para controlar o Mi Box ou TV</string>
-    <string name="notification_rc_title">Controle remoto Xiaomi</string>
-    <string name="service_name">Serviço UniPlay</string>
+  <string name="app_name">Serviço UniPlay</string>
+  <string name="notification_rc_desc">Pode utilizar o controle remoto Xiaomi para controlar o Mi Box ou TV</string>
+  <string name="notification_rc_title">Controle remoto Xiaomi</string>
+  <string name="service_name">Serviço UniPlay</string>
 </resources>

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Fornecedor do tempo</string>
-    <string name="aqi_quality_index_pure">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_good">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_moderate">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_light_pollution">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_unhealthy">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_dangerous">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_hazardous">Qual.Ar %1$s</string>
-    <string name="aqi_quality_index_break">Qual.Ar %1$s</string>
-    <string name="view_indexes_wind_unit">km/h</string>
+  <string name="app_label">Fornecedor do tempo</string>
+  <string name="aqi_quality_index_break">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_dangerous">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_good">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_hazardous">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_light_pollution">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_moderate">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_pure">Qual.Ar %1$s</string>
+  <string name="aqi_quality_index_unhealthy">Qual.Ar %1$s</string>
+  <string name="view_indexes_wind_unit">km/h</string>
 </resources>
