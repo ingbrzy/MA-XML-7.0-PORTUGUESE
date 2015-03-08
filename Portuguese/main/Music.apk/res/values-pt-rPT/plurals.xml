@@ -1,46 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">%d músicas encontradas</item>
-        <item quantity="one">%d música encontrada</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">faltam %d dias</item>
-        <item quantity="one">falta %d dia</item>
-    </plurals>
-    <plurals name="NTrackstoDownload">
+     <plurals name="NTrackstoDownload">
         <item quantity="other">%d músicas que vão ser transferidas</item>
         <item quantity="one">Vai ser transferida 1 música</item>
-    </plurals>
-    <plurals name="Nnew_tracks_count">
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">faltam %d dias</item>
+        <item quantity="one">falta %d dia</item>
+     </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">%d songs added</item>
+        <item quantity="one">%d song added</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
         <item quantity="other">%d nova</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">%d músicas</item>
-        <item quantity="one">%d música</item>
-    </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d músicas idênticas</item>
-        <item quantity="one">%d música idêntica</item>
-    </plurals>
-    <plurals name="Ntracks_add_to_playlist">
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d músicas adicionadas à lista de reprodução</item>
         <item quantity="one">1 música adicionada à lista de reprodução</item>
-    </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d músicas removidas da lista de reprodução</item>
         <item quantity="one">1 música removida da lista de reprodução</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">%d músicas encontradas</item>
+        <item quantity="one">%d música encontrada</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d músicas idênticas</item>
+        <item quantity="one">%d música idêntica</item>
+     </plurals>
+     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>
-    </plurals>
-    <plurals name="send_songs_toast">
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">1 música</item>
+     </plurals>
+     <plurals name="send_songs_toast">
         <item quantity="other">%d músicas vão ser enviadas</item>
         <item quantity="one">1 música vai ser enviada</item>
-    </plurals>
-    <plurals name="folder_songs_count">
-        <item quantity="other">%d músicas</item>
-        <item quantity="one">1 música</item>
-    </plurals>
+     </plurals>
 </resources>

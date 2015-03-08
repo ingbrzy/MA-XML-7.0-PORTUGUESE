@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="operatorDescs">
+     <string-array name="operatorDescs">
         <item>parêntese esquerdo</item>
         <item>parêntese direito</item>
         <item>fatorial</item>
@@ -18,5 +19,24 @@
         <item>cosseno</item>
         <item>pi</item>
         <item>igual a</item>
-    </string-array>
+     </string-array>
+     <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+     </string-array>
 </resources>

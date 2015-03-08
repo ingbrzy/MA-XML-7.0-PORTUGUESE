@@ -1,55 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="compose_modes">
+     <string-array name="compose_modes">
         <item>Responder</item>
         <item>Responder a todos</item>
         <item>Encaminhar</item>
-    </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
         <item>Texto minúsculo</item>
         <item>Texto pequeno</item>
         <item>Texto normal</item>
         <item>Texto grande</item>
         <item>Texto enorme</item>
-    </string-array>
-    <string-array name="menu_att_mgr_sort_string_array">
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recentes</item>
         <item>Formato</item>
         <item>Nome</item>
         <item>Remetente</item>
         <item>Data</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
+     </string-array>
+     <string-array name="moveto_folder_sections">
         <item>Sistema</item>
         <item>De uso frequente</item>
         <item>Todas as pastas</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
         <item>Mais recente</item>
         <item>Mais antiga</item>
         <item>Lista de conversas</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
+     </string-array>
+     <string-array name="prefEntries_removal_action">
         <item>Mostrar somente arquivar</item>
         <item>Mostrar somente excluir</item>
         <item>Mostrar arquivar e excluir</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
+     </string-array>
+     <string-array name="prefSummaries_autoAdvance">
         <item>Exibir conversa mais recente depois de excluir</item>
         <item>Exibir conversa mais antiga depois de excluir</item>
         <item>Exibir a lista de conversas depois de excluir</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
+     </string-array>
+     <string-array name="prefSummaries_removal_action_summary">
         <item>Mostrar somente arquivar</item>
         <item>Mostrar somente excluir</item>
         <item>Mostrar arquivar e excluir</item>
-    </string-array>
-    <string-array name="sync_status">
+     </string-array>
+     <string-array name="search_tabs_name_array">
+        <item>@string/search_tabs_name_recipient</item>
+        <item>@string/search_tabs_name_sender</item>
+        <item>@string/search_tabs_name_subject</item>
+        <item>@string/search_tabs_name_all</item>
+     </string-array>
+     <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>mobile:</item>
+        <item>Phone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+        <item>Address:</item>
+        <item>Tel:</item>
+        <item>Name:</item>
+        <item>Email:</item>
+        <item>Mobile:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Postal Code:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Disclaimer:</item>
+        <item>Email Disclaimer</item>
+        <item>Sent via WPSMail</item>
+        <item>Sent from</item>
+        <item>Sent with</item>
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+        <item>Thanks,</item>
+        <item>Best Regards</item>
+        <item>Sent from my</item>
+        <item>Original email</item>
+        <item>Sent from my</item>
+        <item>Sent from</item>
+        <item>From</item>
+        <item>This email</item>
+        <item>Disclaimer</item>
+        <item>Email Disclaimer</item>
+     </string-array>
+     <string-array name="sync_status">
         <item>Êxito</item>
         <item>Sem ligação.</item>
         <item>Falha ao iniciar sessão.</item>
         <item>Erro de segurança.</item>
         <item>Não foi possível sincronizar.</item>
         <item>Erro interno</item>
-    </string-array>
+     </string-array>
 </resources>

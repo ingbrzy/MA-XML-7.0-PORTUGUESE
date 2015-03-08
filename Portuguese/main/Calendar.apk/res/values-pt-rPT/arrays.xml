@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Notificação</item>
-        <item>Email</item>
-        <item>Mensagem de texto</item>
-        <item>Alarme</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
+     <array name="account_birthday">
+        <item>#ffe99080</item>
+        <item>#b3d5a198</item>
+        <item>#fffcefef</item>
+        <item>#ffce7e6f</item>
+     </array>
+     <array name="account_preset1">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+     </array>
+     <array name="account_preset2">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
+     </array>
+     <array name="account_preset3">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+     </array>
+     <array name="account_preset4">
+        <item>#fff0a16f</item>
+        <item>#b3d88c5b</item>
+        <item>#fffdf3ec</item>
+        <item>#ffe4884d</item>
+     </array>
+     <array name="account_xiaomi">
+        <item>#ff31aeaa</item>
+        <item>#b355c3bf</item>
+        <item>#ffe9f5f5</item>
+        <item>#ff349a97</item>
+     </array>
+     <string-array name="availability">
+        <item>Ocupado</item>
+        <item>Disponível</item>
+        <item>Tentativa</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>Dia</item>
+        <item>Semana</item>
+        <item>Mês</item>
+        <item>Agenda</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Apenas este evento</item>
+        <item>Todos os eventos da série</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Apenas este evento</item>
+        <item>Este e eventos futuros</item>
+        <item>Todos os eventos</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Este e eventos futuros</item>
+        <item>Todos os eventos</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>Primeiro</item>
+        <item>Segundo</item>
+        <item>Terceiro</item>
+        <item>Quarto</item>
+        <item>Ultimo</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Apenas quando em silêncio</item>
+        <item>Nunca</item>
+        <item>Sempre</item>
+        <item>Silençioso</item>
+        <item>Nunca</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
         <item>Nenhum</item>
         <item>0 minutos</item>
         <item>5 minutos</item>
@@ -17,26 +87,123 @@
         <item>1 dia</item>
         <item>2 dias</item>
         <item>1 semana</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Nenhum</item>
-        <item>0 minutos</item>
-        <item>5 minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>1 dia</item>
-        <item>2 dias</item>
-        <item>1 semana</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
         <item>Localização predefinida</item>
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda-feira</item>
-    </string-array>
-    <string-array name="timezone_labels">
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Estou apenas alguns minutos atrasado.</item>
+        <item>Estarei lá em cerca de 10 minutos.</item>
+        <item>Vá na frente e comece sem mim.</item>
+        <item>Desculpe, eu não posso estar presente. Vamos ter que remarcar.</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Notificação</item>
+        <item>Email</item>
+        <item>Mensagem de texto</item>
+        <item>Alarme</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>Nenhum</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
+     </string-array>
+     <string-array name="repeat_choose_day">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+        <item>9th</item>
+        <item>10th</item>
+        <item>11th</item>
+        <item>12th</item>
+        <item>13th</item>
+        <item>14th</item>
+        <item>15th</item>
+        <item>16th</item>
+        <item>17th</item>
+        <item>18th</item>
+        <item>19th</item>
+        <item>20th</item>
+        <item>21st</item>
+        <item>22nd</item>
+        <item>23rd</item>
+        <item>24th</item>
+        <item>25th</item>
+        <item>26th</item>
+        <item>27th</item>
+        <item>28th</item>
+        <item>29th</item>
+        <item>30th</item>
+        <item>31st</item>
+     </string-array>
+     <string-array name="repeat_choose_end">
+        <item>Nunca</item>
+        <item>Tempo</item>
+        <item>Contar</item>
+     </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Jan.</item>
+        <item>Fev.</item>
+        <item>Mar.</item>
+        <item>Abr.</item>
+        <item>Mai.</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Ago.</item>
+        <item>Set.</item>
+        <item>Out.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
+     </string-array>
+     <string-array name="repeat_choose_week_left">
+        <item>Primeiro</item>
+        <item>Segundo</item>
+        <item>Terceiro</item>
+        <item>Quarto</item>
+        <item>Ultimo</item>
+     </string-array>
+     <string-array name="repeat_choose_week_right">
+        <item>Seg. a Sex.</item>
+        <item>Fim de semana</item>
+        <item>Diáriamente</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Seg.</item>
+        <item>Ter.</item>
+        <item>Qua.</item>
+        <item>Qui.</item>
+        <item>Sex.</item>
+        <item>Sáb.</item>
+        <item>Dom.</item>
+     </string-array>
+     <string-array name="repeat_frequency_spinner">
+        <item>dia</item>
+        <item>semana</item>
+        <item>mês</item>
+        <item>ano</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Sem resposta</item>
+        <item>Sim</item>
+        <item>Talvez</item>
+        <item>Não</item>
+     </string-array>
+     <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
         <item>Ilhas Midway</item>
         <item>Havai</item>
@@ -121,111 +288,14 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Ocupado</item>
-        <item>Disponível</item>
-        <item>Tentativa</item>
-    </string-array>
-    <string-array name="visibility">
+     </string-array>
+     <string-array name="visibility">
         <item>Predefinido</item>
         <item>Privado</item>
         <item>Público</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>Primeiro</item>
-        <item>Segundo</item>
-        <item>Terceiro</item>
-        <item>Quarto</item>
-        <item>Ultimo</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Sem resposta</item>
-        <item>Sim</item>
-        <item>Talvez</item>
-        <item>Não</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Apenas este evento</item>
-        <item>Este e eventos futuros</item>
-        <item>Todos os eventos</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>Este e eventos futuros</item>
-        <item>Todos os eventos</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Apenas este evento</item>
-        <item>Todos os eventos da série</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>Dia</item>
-        <item>Semana</item>
-        <item>Mês</item>
-        <item>Agenda</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Estou apenas alguns minutos atrasado.</item>
-        <item>Estarei lá em cerca de 10 minutos.</item>
-        <item>Vá na frente e comece sem mim.</item>
-        <item>Desculpe, eu não posso estar presente. Vamos ter que remarcar.</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Sempre</item>
-        <item>Apenas quando em silêncio</item>
-        <item>Nunca</item>
-        <item>Sempre</item>
-        <item>Silençioso</item>
-        <item>Nunca</item>
-    </string-array>
-    <string-array name="widget_style_list">
+     </string-array>
+     <string-array name="widget_style_list">
         <item>Preto transparente</item>
         <item>Fundo branco</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>dia</item>
-        <item>semana</item>
-        <item>mês</item>
-        <item>ano</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Seg.</item>
-        <item>Ter.</item>
-        <item>Qua.</item>
-        <item>Qui.</item>
-        <item>Sex.</item>
-        <item>Sáb.</item>
-        <item>Dom.</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Jan.</item>
-        <item>Fev.</item>
-        <item>Mar.</item>
-        <item>Abr.</item>
-        <item>Mai.</item>
-        <item>Jun.</item>
-        <item>Jul.</item>
-        <item>Ago.</item>
-        <item>Set.</item>
-        <item>Out.</item>
-        <item>Nov.</item>
-        <item>Dez.</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>Primeiro</item>
-        <item>Segundo</item>
-        <item>Terceiro</item>
-        <item>Quarto</item>
-        <item>Ultimo</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Seg. a Sex.</item>
-        <item>Fim de semana</item>
-        <item>Diáriamente</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Nunca</item>
-        <item>Tempo</item>
-        <item>Contar</item>
-    </string-array>
-    </resources>
+     </string-array>
+</resources>

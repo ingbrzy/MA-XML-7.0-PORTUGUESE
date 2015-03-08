@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="emailAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
-        <item>Outro</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="organizationTypes">
-        <item>Emprego</item>
-        <item>Outro</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="phoneTypes">
-        <item>Residência</item>
-        <item>Móvel</item>
-        <item>Emprego</item>
-        <item>Fax do emprego</item>
-        <item>Fax da residência</item>
-        <item>Pager</item>
-        <item>Outro</item>
-        <item>Personalizado</item>
-    </string-array>
-    <string-array name="postalAddressTypes">
-        <item>Residência</item>
-        <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
-        <item>Outro</item>
-        <item>Personalizado</item>
-    </string-array>
-    <array name="carrier_properties" />
-    <string-array name="app_ops_labels">
+     <string-array name="app_ops_labels">
         <item>A tentar aceder à localização</item>
         <item>A tentar aceder à localização</item>
         <item>A tentar aceder à localização</item>
@@ -85,5 +52,55 @@
         <item>A tentar ler MMS</item>
         <item>A tentar escrever MMS</item>
         <item>A tentar iniciar o arranque</item>
-    </string-array>
-    </resources>
+     </string-array>
+     <string-array name="emailAddressTypes">
+        <item>Residência</item>
+        <item>Emprego</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Residência</item>
+        <item>Emprego</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+     </integer-array>
+     <integer-array name="maps_starting_zoom">
+        <item>3</item>
+     </integer-array>
+     <string-array name="organizationTypes">
+        <item>Emprego</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Residência</item>
+        <item>Móvel</item>
+        <item>Emprego</item>
+        <item>Fax do emprego</item>
+        <item>Fax da residência</item>
+        <item>Pager</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Residência</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
+     </string-array>
+</resources>
