@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="timer_message_with_minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">%1$d minuto</item>
-    </plurals>
-    <plurals name="timer_message_with_seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">%1$d segundo</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">1 segundo</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">1 minuto</item>
-    </plurals>
-    <plurals name="snooze_message">
+     <plurals name="snooze_message">
         <item quantity="other">Suspender por %d mins</item>
         <item quantity="one">Suspender por %d min</item>
-    </plurals>
+     </plurals>
+     <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">1 minuto</item>
+     </plurals>
+     <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">1 segundo</item>
+     </plurals>
+     <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d hours "</item>
+        <item quantity="one">"%1$d hour "</item>
+     </plurals>
+     <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minutes "</item>
+        <item quantity="one">"%1$d minute "</item>
+     </plurals>
+     <plurals name="timer_message_second">
+        <item quantity="other">%1$d seconds</item>
+        <item quantity="one">%1$d second</item>
+     </plurals>
+     <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+     </plurals>
+     <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+     </plurals>
 </resources>

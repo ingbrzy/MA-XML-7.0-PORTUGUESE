@@ -161,6 +161,8 @@
      <string name="config_export_file_extension">vcf</string>
      <string name="config_export_file_prefix" />
      <string name="config_export_file_suffix" />
+     <string name="config_export_vcard_type">v30_generic</string>
+     <string name="config_import_vcard_type">default</string>
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
      <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
@@ -387,6 +389,7 @@ Motivo: \"%s\""</string>
      <string name="favoritesFrequentContacted">Frequentemente contactado</string>
      <string name="favorites_list_empty">Sem favoritos</string>
      <string name="firewall_setting">Lista de bloqueio</string>
+     <string name="followed_yellowpage">Verified Accounts</string>
      <string name="foundTooManyContacts">Encontrados mais de %d.</string>
      <string name="frequentList">Frequentes</string>
      <string name="from_account_format">%1$s</string>
@@ -692,6 +695,7 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="percent_sign">%</string>
      <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Telefone</string>
+     <string name="phone_call_type_voip">VOIP</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_primary">Primário</string>
      <string name="photoPickerNotFoundText">Não existem fotografias disponíveis no telefone.</string>
@@ -958,6 +962,7 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="resource_share_text">Aqui está um tema que pode gostar: %1$s! Link: %2$s</string>
      <string name="resource_share_title">Partilhar</string>
      <string name="resource_system_title">Recursos de sistema</string>
+     <string name="resource_tab_to_view">Tap to view.</string>
      <string name="resource_tip_select_none">Nada seleccionado</string>
      <string name="resource_title">Detalhes da pesquisa</string>
      <string name="resource_title_category">Categorias</string>

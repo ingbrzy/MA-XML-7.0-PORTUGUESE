@@ -1,46 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="cache_sort_type">
-        <item>Tamanho</item>
-        <item>Nome</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Tamanho</item>
-        <item>Nome</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Frequentemente utilizada</item>
-        <item>Tamanho</item>
-    </string-array>
-    <string-array name="auto_clean_time">
-        <item>Todos os dias</item>
-        <item>A cada 3 dias</item>
-        <item>A cada 7 dias</item>
-    </string-array>
-    <string-array name="auto_clean_size">
+     <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>Dias de trabalho</item>
+        <item>De Seg. a Sex.</item>
+        <item>Personalizar</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>de Seg. a Sex.</item>
+        <item>Personalizar</item>
+     </string-array>
+     <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>
         <item>500MB</item>
         <item>1GB</item>
-    </string-array>
-    <string-array name="auto_process_mode">
-        <item>Mostrar em notificações</item>
-        <item>Limpar em segundo plano</item>
-        <item>Mostrar notificação após limpar</item>
-    </string-array>
-    <string-array name="auto_memory_clean">
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Todos os dias</item>
+        <item>A cada 3 dias</item>
+        <item>A cada 7 dias</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
         <item>Em 1 minuto</item>
         <item>Em 5 minutos</item>
         <item>Em 10 minutos</item>
         <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Mostrar em notificações</item>
+        <item>Limpar em segundo plano</item>
+        <item>Mostrar notificação após limpar</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Tamanho</item>
+        <item>Nome</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Frequentemente utilizada</item>
+        <item>Tamanho</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Tamanho</item>
+        <item>Nome</item>
+     </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Após 1 minuto</item>
         <item>Após 5 minutos</item>
         <item>Após 10 minutos</item>
         <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Desempenho</item>
+        <item>Equilibrado</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
         <item>15 segundos</item>
         <item>30 segundos</item>
         <item>1 minuto</item>
@@ -48,50 +79,30 @@
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>Nunca</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Desempenho</item>
-        <item>Equilibrado</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Desligar</item>
-        <item>Ligar</item>
-        <item>Não alterar</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
         <item>Sem vibração</item>
         <item>Vibrar quando estiver em silêncio</item>
         <item>Vibrar sempre</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items_values">
+     </string-array>
+     <string-array name="power_dialog_vibration_items_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Uma vez</item>
-        <item>Diáriamente</item>
-        <item>Dias de trabalho</item>
-        <item>De Seg. a Sex.</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Uma vez</item>
-        <item>Diáriamente</item>
-        <item>de Seg. a Sex.</item>
-        <item>Personalizar</item>
-    </string-array>
-    <integer-array name="alarm_repeat_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="alarm_repeat_type_no_workdays_values">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
+     </string-array>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Desligar</item>
+        <item>Ligar</item>
+        <item>Não alterar</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Dial</item>
+        <item>Messaging</item>
+        <item>Browser</item>
+        <item>Camera</item>
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Email</item>
+     </string-array>
 </resources>

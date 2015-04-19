@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="alert_sound_duration_entries">
+     <string-array name="alert_reminder_interval_entries">
+        <item>Uma vez</item>
+        <item>A cada 2 minutos</item>
+        <item>A cada 15 minutos</item>
+        <item>Desactivado</item>
+     </string-array>
+     <string-array name="alert_reminder_interval_values">
+        <item>1</item>
+        <item>2</item>
+        <item>15</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="alert_sound_duration_entries">
         <item>Dois segundos</item>
         <item>Quatro segundos</item>
         <item>Seis segundos</item>
         <item>Oito segundos</item>
         <item>10 segundos</item>
-    </string-array>
-    <string-array name="alert_reminder_interval_entries">
-        <item>Uma vez</item>
-        <item>A cada 2 minutos</item>
-        <item>A cada 15 minutos</item>
-        <item>Desactivado</item>
-    </string-array>
+     </string-array>
+     <string-array name="alert_sound_duration_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+     </string-array>
 </resources>

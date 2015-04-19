@@ -6,6 +6,34 @@
         <item>Definir limiar de sinal</item>
         <item>Estatísticas do rádio FM</item>
      </string-array>
+     <string-array name="freq_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+     </string-array>
+     <array name="freq_entryValues">
+        <item>@drawable/fm_number_empty</item>
+        <item>@drawable/fm_number_0</item>
+        <item>@drawable/fm_number_1</item>
+        <item>@drawable/fm_number_2</item>
+        <item>@drawable/fm_number_3</item>
+        <item>@drawable/fm_number_4</item>
+        <item>@drawable/fm_number_5</item>
+        <item>@drawable/fm_number_6</item>
+        <item>@drawable/fm_number_7</item>
+        <item>@drawable/fm_number_8</item>
+        <item>@drawable/fm_number_9</item>
+        <item>@drawable/fm_number_point</item>
+     </array>
      <string-array name="presetlist_edit_category">
         <item>Renomear</item>
         <item>Seleção automática</item>
@@ -87,6 +115,44 @@
         <item>Reino Unido (87.5MHz a 108.0MHz a 100 Khz/Canal)</item>
         <item>Estados Unidos (88.1MHz a 107.9MHz a 200 Khz/Canal)</item>
      </string-array>
+     <string-array name="regional_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+     </string-array>
      <string-array name="rf_cfg">
         <item>Obter parâmetros atuais da estação</item>
         <item>Obter parâmetros atuais da estação (repetir 20 vezes)</item>
@@ -123,6 +189,35 @@
         <item>Top 40</item>
         <item>Clima</item>
      </string-array>
+     <string-array name="search_category_rbds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>15</item>
+        <item>6</item>
+        <item>23</item>
+        <item>10</item>
+        <item>31</item>
+        <item>30</item>
+        <item>18</item>
+        <item>2</item>
+        <item>14</item>
+        <item>1</item>
+        <item>13</item>
+        <item>11</item>
+        <item>21</item>
+        <item>22</item>
+        <item>19</item>
+        <item>20</item>
+        <item>16</item>
+        <item>5</item>
+        <item>12</item>
+        <item>8</item>
+        <item>17</item>
+        <item>3</item>
+        <item>4</item>
+        <item>9</item>
+        <item>29</item>
+     </string-array>
      <string-array name="search_category_rds_entries">
         <item>Todas as Estações</item>
         <item>Cultura</item>
@@ -156,6 +251,40 @@
         <item>Viagem</item>
         <item>Variedades</item>
         <item>Clima</item>
+     </string-array>
+     <string-array name="search_category_rds_values">
+        <item>0</item>
+        <item>7</item>
+        <item>2</item>
+        <item>18</item>
+        <item>25</item>
+        <item>29</item>
+        <item>6</item>
+        <item>12</item>
+        <item>5</item>
+        <item>31</item>
+        <item>30</item>
+        <item>17</item>
+        <item>28</item>
+        <item>3</item>
+        <item>24</item>
+        <item>13</item>
+        <item>23</item>
+        <item>1</item>
+        <item>26</item>
+        <item>15</item>
+        <item>27</item>
+        <item>21</item>
+        <item>10</item>
+        <item>20</item>
+        <item>11</item>
+        <item>8</item>
+        <item>14</item>
+        <item>19</item>
+        <item>4</item>
+        <item>22</item>
+        <item>9</item>
+        <item>16</item>
      </string-array>
      <string-array name="sleep_duration_values">
         <item>15 minutos</item>

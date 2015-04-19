@@ -24,6 +24,19 @@
         <item>De Seg. a Sex.</item>
         <item>Personalizar</item>
      </string-array>
+     <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
+     <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+     </integer-array>
      <string-array name="alarm_set">
         <item>Alarme em menos de um minuto.</item>
         <item>Alarme em %1$s</item>
@@ -43,6 +56,16 @@
         <item>20 minutos</item>
         <item>25 minutos</item>
         <item>30 minutos</item>
+     </string-array>
+     <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
      </string-array>
      <string-array name="cities_id_miui">
         <item>C1</item>
@@ -955,6 +978,15 @@
         <item>25 minutos</item>
         <item>30 minutos</item>
      </string-array>
+     <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+     </string-array>
      <string-array name="timezone_alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -987,5 +1019,10 @@
         <item>Nenhum</item>
         <item>Repetir</item>
         <item>Ignorar</item>
+     </string-array>
+     <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
      </string-array>
 </resources>

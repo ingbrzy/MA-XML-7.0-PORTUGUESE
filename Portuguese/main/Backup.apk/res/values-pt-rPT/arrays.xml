@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="backup_dialog_content_type">
+     <string-array name="app_type_desc">
+        <item>Dados</item>
+        <item>Aplicações</item>
+        <item>Aplicações e dados</item>
+     </string-array>
+     <string-array name="backup_dialog_content_type">
         <item>Dados de Wi-Fi</item>
         <item>Todas as aplicações</item>
-    </string-array>
-    <string-array name="system_package_label">
-        <item>Navegador</item>
-        <item>Permissões</item>
-        <item>Câmara</item>
-        <item>Uso de dados</item>
-        <item>Dados do Clima</item>
-        <item>Clima</item>
-    </string-array>
-    <string-array name="system_data_label">
+     </string-array>
+     <string-array name="cloud_account_data">
+        <item>Contactos</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
+     </string-array>
+     <string-array name="cloud_data_label">
+        <item>Contactos</item>
+        <item>Registro de chamadas</item>
+        <item>Mensagens</item>
+        <item>Configurações de Wi-Fi</item>
+        <item>Anotações</item>
+     </string-array>
+     <string-array name="cloud_sim_data">
+        <item>Registro de chamadas</item>
+        <item>Mensagens</item>
+     </string-array>
+     <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+     </string-array>
+     <string-array name="st_antispam_mode_defined_state">
+        <item>@string/st_antispam_mode_smart_state</item>
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+     </string-array>
+     <string-array name="st_antispam_mode_defined_state_international">
+        <item>@string/st_antispam_mode_blacklist_state</item>
+        <item>@string/st_antispam_mode_only_contacts_state</item>
+        <item>@string/st_antispam_mode_only_whitelist_state</item>
+        <item>@string/st_antispam_mode_only_all_deny_state</item>
+     </string-array>
+     <string-array name="system_data_label">
         <item>Contactos</item>
         <item>Registro de chamadas</item>
         <item>Mensagens</item>
@@ -24,26 +57,13 @@
         <item>Anotações</item>
         <item>Listas de bloqueio</item>
         <item>Contas</item>
-    </string-array>
-    <string-array name="app_type_desc">
-        <item>Dados</item>
-        <item>Aplicações</item>
-        <item>Aplicações e dados</item>
-    </string-array>
-    <string-array name="cloud_data_label">
-        <item>Contactos</item>
-        <item>Registro de chamadas</item>
-        <item>Mensagens</item>
-        <item>Configurações de Wi-Fi</item>
-        <item>Anotações</item>
-    </string-array>
-    <string-array name="cloud_account_data">
-        <item>Contactos</item>
-        <item>Configurações de Wi-Fi</item>
-        <item>Anotações</item>
-    </string-array>
-    <string-array name="cloud_sim_data">
-        <item>Registro de chamadas</item>
-        <item>Mensagens</item>
-    </string-array>
+     </string-array>
+     <string-array name="system_package_label">
+        <item>Navegador</item>
+        <item>Permissões</item>
+        <item>Câmara</item>
+        <item>Uso de dados</item>
+        <item>Dados do Clima</item>
+        <item>Clima</item>
+     </string-array>
 </resources>

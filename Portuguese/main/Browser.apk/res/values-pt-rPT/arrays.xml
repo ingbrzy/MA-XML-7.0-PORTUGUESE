@@ -136,4 +136,9 @@
         <item>google</item>
         <item>bing_zh_CN</item>
      </string-array>
+     <string-array name="taobao_in_list">
+        <item>search_taobao</item>
+        <item>ic_search_engine_taobao</item>
+        <item>taobao</item>
+     </string-array>
 </resources>
