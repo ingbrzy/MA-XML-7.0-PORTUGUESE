@@ -169,11 +169,11 @@
         <item>Texto enorme</item>
      </string-array>
      <string-array name="general_preference_text_zoom_values">
-        <item>tiny</item>
-        <item>small</item>
+        <item>minúsculo</item>
+        <item>pequeno</item>
         <item>normal</item>
-        <item>large</item>
-        <item>huge</item>
+        <item>grande</item>
+        <item>enorme</item>
      </string-array>
      <array name="letter_tile_colors">
         <item>#fff16364</item>
@@ -218,13 +218,13 @@
         <item>Mostrar arquivar e excluir</item>
      </string-array>
      <string-array name="prefValues_autoAdvance">
-        <item>newer</item>
-        <item>older</item>
-        <item>list</item>
+        <item>Nova</item>
+        <item>Antiga</item>
+        <item>lista</item>
      </string-array>
      <string-array name="prefValues_removal_action">
-        <item>archive</item>
-        <item>delete</item>
+        <item>arquivo</item>
+        <item>eliminar</item>
         <item>archive-and-delete</item>
      </string-array>
      <string-array name="quote_devider_text_array">
@@ -269,8 +269,8 @@
         <item>Blog:</item>
         <item>Site:</item>
         <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
+        <item>Telemóvel:</item>
+        <item>Telefone:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
@@ -283,33 +283,33 @@
         <item>MSN:</item>
      </string-array>
      <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
+        <item>Endereço:</item>
         <item>Tel:</item>
-        <item>Name:</item>
+        <item>Nome:</item>
         <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Telemovél:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Código Postal:</item>
      </string-array>
      <string-array name="signature_special_string_array">
         <item>Disclaimer:</item>
         <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
+        <item>Enviado via WPSMail</item>
+        <item>Enviado de</item>
+        <item>Enviado com</item>
+        <item>Obrigado,</item>
+        <item>Melhores cumprimentos</item>
      </string-array>
      <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
+        <item>Obrigado,</item>
+        <item>Mlhores cumprimentos</item>
+        <item>Enviado do meu</item>
         <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
+        <item>Enviado do meu</item>
+        <item>Enviado de</item>
+        <item>DE</item>
+        <item>Este email</item>
         <item>Disclaimer</item>
         <item>Email Disclaimer</item>
      </string-array>
