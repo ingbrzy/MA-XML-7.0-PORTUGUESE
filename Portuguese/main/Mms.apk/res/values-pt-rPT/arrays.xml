@@ -78,8 +78,8 @@
         <item>Enviada</item>
      </string-array>
      <string-array name="entries_mms_validity_period">
-        <item>Maximum</item>
-        <item>Two days</item>
+        <item>Maximo</item>
+        <item>Dois dias</item>
      </string-array>
      <string-array name="entries_mms_validity_period_value">
         <item>0</item>
@@ -87,11 +87,11 @@
      </string-array>
      <string-array name="entries_sms_validity_period">
         <item>Not set</item>
-        <item>1 hour</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
-        <item>Maximum</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 dia</item>
+        <item>Maximo</item>
      </string-array>
      <string-array name="entries_sms_validity_period_value">
         <item>-1</item>
@@ -125,9 +125,9 @@
         <item>10</item>
      </string-array>
      <string-array name="prefValues_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>Sempre</item>
+        <item>Só quando silêncio</item>
+        <item>Nunca</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>SMS</item>
