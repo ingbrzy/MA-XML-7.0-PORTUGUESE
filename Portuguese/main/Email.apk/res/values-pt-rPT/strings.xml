@@ -569,14 +569,6 @@
      <string name="mailbox_name_display_starred">Favoritos</string>
      <string name="mailbox_name_display_trash">Lixo</string>
      <string name="mailbox_name_display_unread">Não lido</string>
-     <string name="mailbox_name_server_all_unread">Não lidas</string>
-     <string name="mailbox_name_server_drafts">Rascunhos</string>
-     <string name="mailbox_name_server_inbox">Caixa de entrada</string>
-     <string name="mailbox_name_server_junk">Lixeira</string>
-     <string name="mailbox_name_server_outbox">Caixa de saida</string>
-     <string name="mailbox_name_server_sent">Enviado</string>
-     <string name="mailbox_name_server_starred">Favorito</string>
-     <string name="mailbox_name_server_trash">Lixo</string>
      <string name="mailbox_settings_activity_title">Opções de sincronização</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Dias de emails para sincronizar</string>
@@ -777,7 +769,6 @@ CC: %4$s
      <string name="policy_screen_timeout">Exigir que a tela do dispositivo fique bloqueada quando não utilizada</string>
      <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">lista</string>
      <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
      <string name="prefDialogTitle_removal_action">Acções de arquivar e eliminar</string>
      <string name="preference_eas_tips">A página de activação seguinte é solicitada pelo Servidor do Email.</string>
