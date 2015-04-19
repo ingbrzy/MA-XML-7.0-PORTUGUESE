@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="alert_frequency_duplicate">This frequency already exists</string>
+     <string name="alert_frequency_duplicate">Esta frequência já existe</string>
      <string name="alert_invalid_frequency">Frequência inválida</string>
      <string name="alert_message_delete_station">Esta estação será excluída.</string>
      <string name="app_name">Rádio FM</string>
@@ -15,8 +15,8 @@
      <string name="fm_has_turned_off">O Rádio FM foi desligado</string>
      <string name="fmradio_clear_confirm_msg">Todas as estações predefinidas serão excluídas.</string>
      <string name="frequency_mhz_fomart">%s MHZ</string>
-     <string name="group_favor">Presets</string>
-     <string name="group_other">Others</string>
+     <string name="group_favor">Predefinições</string>
+     <string name="group_other">Outros</string>
      <string name="hint_frequency">Frequência: %1$s a %2$s</string>
      <string name="hint_label">Nome</string>
      <string name="label_recording">Gravando: %s</string>
