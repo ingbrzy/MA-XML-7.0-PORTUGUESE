@@ -98,7 +98,7 @@
      <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
      <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições smtp…</string>
      <string name="account_setup_check_settings_retr_info_msg">A recuperar informações da conta…</string>
-     <string name="account_setup_correct_address_tips">Enter email address</string>
+     <string name="account_setup_correct_address_tips">Introduzir um endereço de email</string>
      <string name="account_setup_creating_account_msg">A criar a conta…</string>
      <string name="account_setup_deleting_account_msg">Eliminando conta…</string>
      <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
@@ -224,7 +224,7 @@
      <string name="always_show_images_toast">As imagens deste remetente serão mostradas automaticamente.</string>
      <string name="annex_size">Anexos</string>
      <string name="app_name">Email</string>
-     <string name="application_mime_type">application/email-ls</string>
+     <string name="application_mime_type">aplicação/email-ls</string>
      <string name="archive">Arquivo</string>
      <string name="archived">Arquivada</string>
      <string name="att_download_failed_content">Não é possível transferir o anexo desta mensagem</string>
@@ -344,7 +344,7 @@
      <string name="contextmenu_send_mail">Enviar email</string>
      <string name="contextmenu_sharelink">Partilhar link</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Conversation Content Provider</string>
+     <string name="conversation_content_provider">Conteudo da conversa do provedor</string>
      <string name="conversation_folder_moved">Movida para %1$s</string>
      <string name="conversation_item_mark_read">Lida</string>
      <string name="conversation_item_mark_unread">Não lida</string>
@@ -507,7 +507,7 @@
      <string name="general_preference_text_zoom_small">Pequeno</string>
      <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
      <string name="generic_attachment_problem">Não foi possível anexar o ficheiro.</string>
-     <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
+     <string name="gmail_acceleration">Usar um servidor proxy para aceder áconta do Gmail</string>
      <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para aceder áconta do Gmail?</string>
      <string name="gmail_login_verify">Adicionar conta Gmail</string>
      <string name="gmail_web_login_go">OK</string>
@@ -595,8 +595,8 @@
      <string name="mark_not_spam">Não é spam</string>
      <string name="mark_read">Marcar como lida</string>
      <string name="mark_unread">Marcar como não lida</string>
-     <string name="me_object_pronun">me</string>
-     <string name="me_subject_pronun">me</string>
+     <string name="me_object_pronun">eu</string>
+     <string name="me_subject_pronun">eu</string>
      <string name="meeting_accepted">Aceito: %s</string>
      <string name="meeting_allday">Quando: %s (todo o dia)</string>
      <string name="meeting_allday_recurring">Quando: %s (o dia inteiro, reincidente)</string>
@@ -656,7 +656,7 @@ CC: %4$s
      <string name="message_saved">Mensagem guardada como rascunho.</string>
      <string name="message_type_name">mensagem</string>
      <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
-     <string name="mibill_privacy_policy_button1">Not now</string>
+     <string name="mibill_privacy_policy_button1">Agora não</string>
      <string name="mibill_privacy_policy_button2">Concordo</string>
      <string name="mibill_privacy_policy_description">Mi Wallet vai analisar todas as declarações de e-mail recebidas na aplicação de Correio e gerir todas as contas de cartão de crédito para si. Este serviço é padrão para fora da caixa de correio da empresa.</string>
      <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Cartão de Crédito Contrato de Utilizador da Conta Serviço&lt;/a&gt;</string>
@@ -777,7 +777,7 @@ CC: %4$s
      <string name="policy_screen_timeout">Exigir que a tela do dispositivo fique bloqueada quando não utilizada</string>
      <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
      <string name="pop3_name">POP3</string>
-     <string name="prefDefault_autoAdvance">list</string>
+     <string name="prefDefault_autoAdvance">lista</string>
      <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
      <string name="prefDialogTitle_removal_action">Acções de arquivar e eliminar</string>
      <string name="preference_eas_tips">A página de activação seguinte é solicitada pelo Servidor do Email.</string>
@@ -832,9 +832,9 @@ CC: %4$s
      <string name="quote_divider_9">--------------------------------------------------</string>
      <string name="quote_divider_apple">"
 &gt;"</string>
-     <string name="quote_divider_huawei_zh">Enviado do meu huawei</string>
+     <string name="quote_divider_huawei_zh">Enviado do meu telefone</string>
      <string name="quote_divider_ipad_zh">Enviado do meu iPad</string>
-     <string name="quote_divider_iphone_en">Enviado do meu iPhone</string>
+     <string name="quote_divider_iphone_en">Enviado do meu telefone</string>
      <string name="quote_divider_iphone_fwd_en">Começar com a mensagem encaminhada:</string>
      <string name="quote_divider_iphone_fwd_zh">Começar com mensagem encaminhada：</string>
      <string name="quote_divider_ks_web">________________________________________</string>
@@ -847,8 +847,8 @@ CC: %4$s
      <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
      <string name="recipient_needed_title">Alerta</string>
      <string name="recipient_null_dialog_title">Alerta</string>
-     <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
-     <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
+     <string name="reduce_the_receiving_frequencye_summary">Caixa de entrada de sincronização com menos freqüência, enquanto não perturbar está activo</string>
+     <string name="reduce_the_receiving_frequencye_title">Sincronização com menos frequência</string>
      <string name="refresh">Actualizar</string>
      <string name="refreshing">A sincronizar…</string>
      <string name="refreshing_done">Sincronização concluída</string>
@@ -868,9 +868,9 @@ CC: %4$s
      <string name="replyto_heading">"Responder a: "</string>
      <string name="report">Informar</string>
      <string name="report_phishing">Denunciar phishing</string>
-     <string name="report_rendering_improvement">Looks good</string>
-     <string name="report_rendering_improvement_desc">This message looks good.</string>
-     <string name="report_rendering_problem">Looks bad</string>
+     <string name="report_rendering_improvement">Parece bem</string>
+     <string name="report_rendering_improvement_desc">Esta mensagem parece boa.</string>
+     <string name="report_rendering_problem">Parece mal</string>
      <string name="report_rendering_problem_desc">Esta mensagem parece mal.</string>
      <string name="report_spam">Denunciar spam</string>
      <string name="request_entity_large">O ficheiro é muito grande</string>
@@ -944,7 +944,7 @@ CC: %4$s
      <string name="special_text_2">写道：</string>
      <string name="special_text_3">寫道:</string>
      <string name="special_text_4">寫道：</string>
-     <string name="special_text_5">wrote:</string>
+     <string name="special_text_5">Escrever:</string>
      <string name="special_text_colon_en">:</string>
      <string name="special_text_colon_zh">：</string>
      <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
@@ -1026,7 +1026,7 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Deslize a partir do topo para obter a notificação. Pressione para finalizar a definição de segurança.</string>
      <string name="wait_for_sync_title">A aguardar sincronização</string>
-     <string name="wait_help_context">wait</string>
+     <string name="wait_help_context">Aguardar</string>
      <string name="widget_all_mail">Todos os Emails</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Outros</string>
