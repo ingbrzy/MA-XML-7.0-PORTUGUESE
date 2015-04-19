@@ -204,9 +204,9 @@
      <string name="online_reminder_minutes_text">Tempo de lembrete</string>
      <string name="online_reminder_slider_text">Activar alerta</string>
      <string name="pengzu">PANG</string>
-     <string name="prefDefault_alerts_vibrateWhen">never</string>
-     <string name="prefDefault_alerts_vibrate_false">never</string>
-     <string name="prefDefault_alerts_vibrate_true">always</string>
+     <string name="prefDefault_alerts_vibrateWhen">Nunca</string>
+     <string name="prefDefault_alerts_vibrate_false">Nunca</string>
+     <string name="prefDefault_alerts_vibrate_true">Sempre</string>
      <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
      <string name="pref_error_no_ringtone_select">Nada seleccionado</string>
      <string name="pref_title_alarm_remind">Lembrete de alarme</string>
@@ -296,9 +296,9 @@
      <string name="subscribe_all">Subscrever</string>
      <string name="sync_notice_cancel_toast_message">"Local Calendar won't be synced with Mi Cloud"</string>
      <string name="sync_notice_message">You have not synced Mi calendar yet, turn on the switch now?</string>
-     <string name="sync_notice_ok">Allow</string>
-     <string name="sync_notice_ok_toast_message">Local Calendar will be synced with Mi Cloud</string>
-     <string name="sync_notice_title">Sync request</string>
+     <string name="sync_notice_ok">Permitir</string>
+     <string name="sync_notice_ok_toast_message">Calendário local será sincronizado com o My Cloud</string>
+     <string name="sync_notice_title">Pedido de sincronização</string>
      <string name="synced">sincronizado</string>
      <string name="tab_category">Classificação</string>
      <string name="tab_local">Local</string>
