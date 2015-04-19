@@ -43,7 +43,7 @@
      <string name="batch_deleting_message_progress_message">A eliminar…</string>
      <string name="batch_deleting_progress_message">A eliminar…</string>
      <string name="bcc_label">"Bcc: "</string>
-     <string name="block_messaging_entry_title">Blocked SMS</string>
+     <string name="block_messaging_entry_title">SMS bloqueadas</string>
      <string name="bookmark">Favoritos</string>
      <string name="bookmark_confirm_delete_message">Remover mensagens seleccionadas dos favoritos?</string>
      <string name="bookmark_empty">Sem favoritos</string>
@@ -344,7 +344,7 @@
      <string name="pref_summary_notification_body_enabled_when_secure">Não pode visualizar mensagens em modo convidado</string>
      <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
      <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MUIU como predefinida para enviar e receber MMS</string>
-     <string name="pref_summary_send_delivery_reports">Send delivery confirmation message to sender when you receive a multimedia message</string>
+     <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimídia</string>
      <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma mensagem nova</string>
      <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
      <string name="pref_system_title">Sistema</string>
