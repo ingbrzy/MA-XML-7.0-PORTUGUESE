@@ -4,8 +4,8 @@
      <string name="ApplicationIconMore99">99+</string>
      <string name="Folders">Pastas</string>
      <string name="SMTP_independent_verification_text">SMTP independent verification</string>
-     <string name="SMTP_password_text">Password</string>
-     <string name="SMTP_username_text">Username</string>
+     <string name="SMTP_password_text">Palavra-passe</string>
+     <string name="SMTP_username_text">Nome de utilizador</string>
      <string name="abc_action_bar_home_description">Início</string>
      <string name="abc_action_bar_up_description">Navegar para o início</string>
      <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -19,7 +19,7 @@
      <string name="abc_searchview_description_voice">Pesquisa por voz</string>
      <string name="abc_shareactionprovider_share_with">Partilhar com</string>
      <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
-     <string name="account_cache_provider">Account Cache Provider</string>
+     <string name="account_cache_provider">Limite de memoria do fornecedor</string>
      <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
      <string name="account_duplicate_dlg_title">Conta duplicada</string>
      <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -100,7 +100,7 @@
      <string name="account_setup_check_settings_retr_info_msg">A recuperar informações da conta…</string>
      <string name="account_setup_correct_address_tips">Enter email address</string>
      <string name="account_setup_creating_account_msg">A criar a conta…</string>
-     <string name="account_setup_deleting_account_msg">Deleting account…</string>
+     <string name="account_setup_deleting_account_msg">Eliminando conta…</string>
      <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
      <string name="account_setup_exchange_device_id_label">ID do dispositivo</string>
      <string name="account_setup_exchange_no_certificate">Nenhum</string>
@@ -158,9 +158,9 @@
      <string name="account_setup_options_background_attachments_label">Fazer a transferência de anexos automaticamente ao ligar ao Wi-Fi</string>
      <string name="account_setup_options_headline">Opções da conta</string>
      <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
-     <string name="account_setup_options_mail_check_frequency_12hour">Every 12 hours</string>
+     <string name="account_setup_options_mail_check_frequency_12hour">A cada 12 horas</string>
      <string name="account_setup_options_mail_check_frequency_1hour">De hora a hora</string>
-     <string name="account_setup_options_mail_check_frequency_4hour">Every 4 hours</string>
+     <string name="account_setup_options_mail_check_frequency_4hour">A cada 4 horas</string>
      <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push, se suportado pelo servidor)</string>
      <string name="account_setup_options_mail_check_frequency_label">Frequência de verificação da Caixa de entrada</string>
      <string name="account_setup_options_mail_check_frequency_never">Nunca</string>
@@ -310,7 +310,7 @@
      <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
      <string name="colon">:</string>
      <string name="compose">Escrever</string>
-     <string name="compose_help_context">compose</string>
+     <string name="compose_help_context">compor</string>
      <string name="compose_send">Enviar</string>
      <string name="compose_sent">Enviado com sucesso</string>
      <string name="confirm">Confirmar</string>
@@ -368,7 +368,7 @@
      <string name="debug_enable_verbose_logging_label">Activar registo extremamente detalhado?</string>
      <string name="debug_force_one_minute_refresh_label">Forçar actualizações de 1 minuto para POP/IMAP</string>
      <string name="debug_title">Depurar</string>
-     <string name="default_">DEFAULT</string>
+     <string name="default_">PREDEFINIDAS</string>
      <string name="default_exchange">EXCHANGE</string>
      <string name="default_imap">IMAP</string>
      <string name="default_pop3">POP3</string>
@@ -508,10 +508,10 @@
      <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
      <string name="generic_attachment_problem">Não foi possível anexar o ficheiro.</string>
      <string name="gmail_acceleration">Use proxy server for Gmail Account</string>
-     <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
-     <string name="gmail_login_verify">Add Gmail Account</string>
+     <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para aceder áconta do Gmail?</string>
+     <string name="gmail_login_verify">Adicionar conta Gmail</string>
      <string name="gmail_web_login_go">OK</string>
-     <string name="gmail_web_login_required_message">Sign in to Gmail</string>
+     <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string>
      <string name="head_only_enable_dialog_message">Apenas é transferido o título (em vez do email todo) reduzindo assim o consumo de dados.</string>
      <string name="head_only_enable_dialog_nagative">Rejeitar</string>
      <string name="head_only_enable_dialog_positive">Aceitar</string>
@@ -569,14 +569,14 @@
      <string name="mailbox_name_display_starred">Favoritos</string>
      <string name="mailbox_name_display_trash">Lixo</string>
      <string name="mailbox_name_display_unread">Não lido</string>
-     <string name="mailbox_name_server_all_unread">Unread</string>
-     <string name="mailbox_name_server_drafts">Drafts</string>
-     <string name="mailbox_name_server_inbox">Inbox</string>
-     <string name="mailbox_name_server_junk">Junk</string>
-     <string name="mailbox_name_server_outbox">Outbox</string>
-     <string name="mailbox_name_server_sent">Sent</string>
-     <string name="mailbox_name_server_starred">Starred</string>
-     <string name="mailbox_name_server_trash">Trash</string>
+     <string name="mailbox_name_server_all_unread">Não lidas</string>
+     <string name="mailbox_name_server_drafts">Rascunhos</string>
+     <string name="mailbox_name_server_inbox">Caixa de entrada</string>
+     <string name="mailbox_name_server_junk">Lixeira</string>
+     <string name="mailbox_name_server_outbox">Caixa de saida</string>
+     <string name="mailbox_name_server_sent">Enviado</string>
+     <string name="mailbox_name_server_starred">Favorito</string>
+     <string name="mailbox_name_server_trash">Lixo</string>
      <string name="mailbox_settings_activity_title">Opções de sincronização</string>
      <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Dias de emails para sincronizar</string>
@@ -657,11 +657,11 @@ CC: %4$s
      <string name="message_type_name">mensagem</string>
      <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
      <string name="mibill_privacy_policy_button1">Not now</string>
-     <string name="mibill_privacy_policy_button2">Agree</string>
-     <string name="mibill_privacy_policy_description">Mi Wallet will analyse all the email statements recived in your Mail app, and manage all your credit card bills for you. This service is defaulted to off for company mailbox.</string>
-     <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service User Agreement&lt;/a&gt;</string>
-     <string name="mibill_privacy_policy_title">Mi Wallet analyses email statements</string>
-     <string name="mock_content_provider">Mock Content Provider</string>
+     <string name="mibill_privacy_policy_button2">Concordo</string>
+     <string name="mibill_privacy_policy_description">Mi Wallet vai analisar todas as declarações de e-mail recebidas na aplicação de Correio e gerir todas as contas de cartão de crédito para si. Este serviço é padrão para fora da caixa de correio da empresa.</string>
+     <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Cartão de Crédito Contrato de Utilizador da Conta Serviço&lt;/a&gt;</string>
+     <string name="mibill_privacy_policy_title">Mi Wallet analisa declarações de e-mail</string>
+     <string name="mock_content_provider">Provedor de Conteúdo Mock</string>
      <string name="more_atts_remaining">%1$d restantes</string>
      <string name="more_atts_total">Total de %1$d anexos</string>
      <string name="more_context">Mais</string>
@@ -702,7 +702,7 @@ CC: %4$s
      <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
      <string name="ok">OK</string>
      <string name="okay_action">OK</string>
-     <string name="open_proxy_in_settings">"Gmail isn't available in your current location. You can still send and receive messages from your Gmail inbox by using Mail's proxy server. Turn this feature on or off anytime in Settings."</string>
+     <string name="open_proxy_in_settings">"Gmail não está disponível na sua localização actual. Ainda pode enviar e receber mensagens na caixa de entrada do Gmail usando servidor proxy Mail. Ligue esta função ou desligar a qualquer momento em Configurações."</string>
      <string name="other_mail">Outro email</string>
      <string name="outbox_alert_button_confirm">Editar</string>
      <string name="outbox_alert_button_no_resend">Não enviar</string>
@@ -710,7 +710,7 @@ CC: %4$s
      <string name="outbox_alert_certificate_error">Erro no certificado de Email. Actualize o certificado</string>
      <string name="outbox_alert_description_auth_error">Erro do servidor durante sincronização da caixa de saída</string>
      <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída.</string>
-     <string name="outbox_alert_description_insufficient_storage_error">Insufficient storage in the mail server</string>
+     <string name="outbox_alert_description_insufficient_storage_error">Armazenamento insuficiente no servidor de correio</string>
      <string name="outbox_alert_description_provision_error">Erro do servidor durante a sincronização da caixa de saída.</string>
      <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do destinatário.</string>
      <string name="outbox_alert_duplicate_click">Ainda está a sincronizar</string>
@@ -871,7 +871,7 @@ CC: %4$s
      <string name="report_rendering_improvement">Looks good</string>
      <string name="report_rendering_improvement_desc">This message looks good.</string>
      <string name="report_rendering_problem">Looks bad</string>
-     <string name="report_rendering_problem_desc">This message looks bad.</string>
+     <string name="report_rendering_problem_desc">Esta mensagem parece mal.</string>
      <string name="report_spam">Denunciar spam</string>
      <string name="request_entity_large">O ficheiro é muito grande</string>
      <string name="require_manual_sync_message">A sincronização desta conta é desactivada em roaming.</string>
@@ -882,11 +882,11 @@ CC: %4$s
      <string name="save_attachment">Guardar</string>
      <string name="save_draft">Guardar rascunho</string>
      <string name="save_draft_failed">Erro ao salvar rascunho</string>
-     <string name="save_power_summary">Notifications for emails that arrive will be silenced</string>
-     <string name="save_power_title">Do not disturb</string>
+     <string name="save_power_summary">Notificações de e-mails recebidas serão silenciadas</string>
+     <string name="save_power_title">Não perturbar</string>
      <string name="saved">Guardado, %s</string>
      <string name="saving">A guardar…</string>
-     <string name="sdcard_cannot_use">Storage card can not be used</string>
+     <string name="sdcard_cannot_use">O cartão de memória não pode ser utilizado</string>
      <string name="search_attachment">Pesquisar</string>
      <string name="search_hint">Pesquisar email</string>
      <string name="search_result">Resultados</string>
@@ -921,7 +921,7 @@ CC: %4$s
 \u0009 (Verifique se a hora está em sincronização automática)"</string>
      <string name="ser_resp_err_map_nouser">O utilizador não existe</string>
      <string name="ser_resp_err_map_or">ou</string>
-     <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
+     <string name="ser_resp_err_map_pserr">Utilizador ou Palavra-Passe incorrectos</string>
      <string name="ser_resp_err_map_serclosed">O Servidor está fechado</string>
      <string name="ser_resp_err_map_ssl">"Tente escolher'SSL/TLS (Aceitar todos os certificados)' no  'Tipo de segurança'"</string>
      <string name="set_network">Definir rede</string>
@@ -948,7 +948,7 @@ CC: %4$s
      <string name="special_text_colon_en">:</string>
      <string name="special_text_colon_zh">：</string>
      <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
-     <string name="special_text_sender_en">sender</string>
+     <string name="special_text_sender_en">remetente</string>
      <string name="special_text_sender_zh">发件人</string>
      <string name="status_network_error">Não é possível ligar à internet. Verifique a sua ligação e tente novamente.</string>
      <string name="storage">Armazenamento</string>
@@ -977,11 +977,11 @@ CC: %4$s
      <string name="tip_cannot_switchview_in_unread_folder">Não é possível mudar o modo de exibição na agregação das mensagens não lidas</string>
      <string name="to">Para</string>
      <string name="to_heading">"Para: "</string>
-     <string name="toast_bar_fail_synchronization">"Can't connect to the network"</string>
-     <string name="toast_bar_insufficient_memory_space">Not enough storage space</string>
-     <string name="toast_bar_invalid_account">You need to sign in again</string>
-     <string name="toast_bar_no_connection_network">"You don't have an internet connection"</string>
-     <string name="toast_bar_open_gmail_synchronization">Tap to use proxy server for Gmail</string>
+     <string name="toast_bar_fail_synchronization">"Não é possivel ligar á rede"</string>
+     <string name="toast_bar_insufficient_memory_space">Não há espaço de armazenamento sufeciente</string>
+     <string name="toast_bar_invalid_account">Precisa de iniciar sessão novanmente</string>
+     <string name="toast_bar_no_connection_network">"Sem ligação á internet"</string>
+     <string name="toast_bar_open_gmail_synchronization">Toque para utilizar servidor proxy do Gmail</string>
      <string name="too_large_to_attach_additional">O ficheiro não foi anexado. O limite de %1$s.</string>
      <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. Limite de %1$s.</string>
      <string name="too_large_to_attach_single">Não é possível anexar o ficheiro com mais de %1$s.</string>
@@ -1000,14 +1000,14 @@ CC: %4$s
      <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
      <string name="updated_at">Última actualização em %1$s</string>
      <string name="updated_just_now">Actualizado mesmo agora</string>
-     <string name="upload_log">Upload logs</string>
-     <string name="upload_log_failed">The logs uploaded failed</string>
-     <string name="upload_log_no">Cancel</string>
-     <string name="upload_log_success">The logs uploaded successfully</string>
-     <string name="upload_log_title">Upload the logs now？</string>
+     <string name="upload_log">Enviar registos</string>
+     <string name="upload_log_failed">Falha ao enviar os registos</string>
+     <string name="upload_log_no">Cancelar</string>
+     <string name="upload_log_success">Logs enviados com sucesso</string>
+     <string name="upload_log_title">Enviar os registos agora？</string>
      <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-     <string name="upload_log_yes">Upload</string>
-     <string name="uploading_logs">The logs is uploading</string>
+     <string name="upload_log_yes">Enviar</string>
+     <string name="uploading_logs">A enviar o registo</string>
      <string name="validation_failed_prompt">A validação falhou, verifique as configurações do servidor %s</string>
      <string name="veiled_address" />
      <string name="veiled_alternate_text" />
@@ -1022,7 +1022,7 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
      <string name="wait_for_sync_body_txt_array_1">O Servidor Exchange irá pedir-lhe dentro de</string>
      <string name="wait_for_sync_body_txt_array_2">1–30</string>
      <string name="wait_for_sync_body_txt_array_3">segundos. Confirme as definições de segurança</string>
-     <string name="wait_for_sync_body_txt_array_4">para completar configure.</string>
+     <string name="wait_for_sync_body_txt_array_4">para terminar configure.</string>
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Deslize a partir do topo para obter a notificação. Pressione para finalizar a definição de segurança.</string>
      <string name="wait_for_sync_title">A aguardar sincronização</string>
@@ -1033,6 +1033,6 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
      <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">A palavra passe que inseriu está errada</string>
      <string name="yes">Sim</string>
-     <string name="you_are_in_mobile_network">You are using mobile network now</string>
+     <string name="you_are_in_mobile_network">Está a usar a rede móvel agora</string>
      <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>
