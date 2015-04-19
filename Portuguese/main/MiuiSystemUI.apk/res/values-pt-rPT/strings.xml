@@ -119,9 +119,9 @@ Utilize apenas o carregador fornecido."</string>
      <string name="mdb_restore_label">Restaurar MDB</string>
      <string name="mdb_restore_mode">Modo restauro</string>
      <string name="mdb_usb_disconnection_exit">USB desligado</string>
-     <string name="media_projection_action_text">Start now</string>
-     <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-     <string name="media_projection_remember_text">"Don't show again"</string>
+     <string name="media_projection_action_text">Iniciar agora</string>
+     <string name="media_projection_dialog_text">"%s irá iniciar a captura tudo o que é exibido no ecrã."</string>
+     <string name="media_projection_remember_text">"Não mostrar de novo"</string>
      <string name="mount_storage">Sim</string>
      <string name="no_notification_tips">Nenhuma notificação</string>
      <string name="notification_otg_gamestick_in">Controlador de jogo OTG ligado</string>
@@ -160,10 +160,10 @@ Utilize apenas o carregador fornecido."</string>
      <string name="share">Partilhar</string>
      <string name="status_bar_date_format">EEEE d/MM</string>
      <string name="status_bar_date_formatter">%2$s</string>
-     <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
-     <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-     <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
-     <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
+     <string name="status_bar_network_flow_content">"Hoje: %1$s   Restante: %2$s"</string>
+     <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+     <string name="status_bar_network_flow_limit">"   Limite por mês: %1$s"</string>
+     <string name="status_bar_network_flow_purchase">"   Compra &gt;"</string>
      <string name="status_bar_network_flow_today">Hoje: %1$s</string>
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Nenhuma aplicação recente</string>
@@ -219,8 +219,8 @@ Deslize para baixo para bloquear"</string>
      <string name="user_guide_for_notification">Deslize com um dedo para baixo para abrir a notificação sombra</string>
      <string name="user_guide_for_toggle">A lista de alternância pode ser corrida horizontalmente</string>
      <string name="user_guide_for_toggle_list">Gerir alternância</string>
-     <string name="vpn_text">Touch to view settings.</string>
-     <string name="vpn_text_long">Connected to %s. Tap to view details.</string>
-     <string name="vpn_title">VPN activated</string>
-     <string name="vpn_title_long">Connecting to VPN using %s</string>
+     <string name="vpn_text">Toque para ver definições.</string>
+     <string name="vpn_text_long">Ligado a %s. Toque para ver detalhes.</string>
+     <string name="vpn_title">VPN activado</string>
+     <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
 </resources>
