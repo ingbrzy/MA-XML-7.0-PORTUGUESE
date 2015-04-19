@@ -49,10 +49,10 @@
      <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
      <string name="root_downloads">Transferências</string>
      <string name="task_already_exist">A tarefa já existe</string>
-     <string name="warning_tip_cancel">Download</string>
-     <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
-     <string name="warning_tip_ok">Pause</string>
-     <string name="warning_tip_title">Data usage warning</string>
+     <string name="warning_tip_cancel">Transferir</string>
+     <string name="warning_tip_content">"Não se encontra ligado a uma rede. Usando a ligação de dados móvel para terminar esta transferência vai aumentar o uso de dados. Se ultrapassar o  limite de plano de dados , a operadora pode cobrar taxas adicionais."</string>
+     <string name="warning_tip_ok">Pausa</string>
+     <string name="warning_tip_title">Aviso do uso de dados</string>
      <string name="wifi_recommended_body" formatted="false">A partir desta %s a transferência já pode resultar em uso excessivo da sua ligação de dados móveis, o que pode levar a despesas de operador móvel dependendo do seu plano de dados movéis. Pressione em %s para começar esta transferência da próxima vez que estiver ligado a uma rede sem fios.</string>
      <string name="wifi_recommended_title">Aguardar para efectuar a transferência mais tarde?</string>
      <string name="wifi_required_body" formatted="false">"Deverá utilizar a rede sem fios para concluir esta %s Transferência. 
