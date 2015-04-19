@@ -73,7 +73,7 @@
      <string name="failed_to_drop">Não é possível mover</string>
      <string name="failed_to_drop_widget_invalid">Widget inválido</string>
      <string name="failed_to_drop_widget_nospace">Não há mais espaço no ecrã inicial</string>
-     <string name="failed_to_load_image">"Can't load image"</string>
+     <string name="failed_to_load_image">"Não é possível carregar imagem"</string>
      <string name="folder_name">Pasta</string>
      <string name="frame_load_failed">Não é possível carregar o fotograma</string>
      <string name="free_style_apps_title">Escolha a aplicação</string>
@@ -202,7 +202,7 @@
      <string name="status_downloading">a transferir</string>
      <string name="status_installing">a instalar</string>
      <string name="status_paused">em pausa</string>
-     <string name="status_pending">pendente</string>
+     <string name="status_pending">Pendente</string>
      <string name="title_select_live_folder">Seleccionar pasta</string>
      <string name="title_select_shortcut">Seleccionar atalho</string>
      <string name="toggle_select_title">Escolha alternância</string>
@@ -228,7 +228,7 @@
      <string name="unnamed_folder_name">Pasta sem nome</string>
      <string name="wallpaper">Papel de parede</string>
      <string name="wallpaper_failed_message">Não foi possível aplicar</string>
-     <string name="wallpaper_scrolling">all</string>
+     <string name="wallpaper_scrolling">Todos</string>
      <string name="wallpaper_settings">Papel de parede</string>
      <string name="wallpaper_success_message">Aplicado com sucesso</string>
      <string name="widget_favorite_contacts_edit">Editor</string>
