@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="advanced">Painel avançado</string>
      <string name="app_name">Calculadora</string>
-     <string name="basic">Painel básico</string>
      <string name="clear">C</string>
      <string name="clearDesc">Eliminar</string>
      <string name="clear_history">Eliminar histórico</string>
@@ -11,7 +9,6 @@
      <string name="cosDesc">cosseno</string>
      <string name="cos_mathematical_value">cos</string>
      <string name="del">EXCLUIR</string>
-     <string name="delDesc">excluir</string>
      <string name="digit0">0</string>
      <string name="digit1">1</string>
      <string name="digit2">2</string>

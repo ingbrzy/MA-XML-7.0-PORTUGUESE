@@ -160,15 +160,11 @@ Utilize apenas o carregador fornecido."</string>
      <string name="share">Partilhar</string>
      <string name="status_bar_date_format">EEEE d/MM</string>
      <string name="status_bar_date_formatter">%2$s</string>
-     <string name="status_bar_network_flow">"Hoje: %1$s    Restante: %2$s    Limite mensal: %3$s"</string>
      <string name="status_bar_network_flow_content">"Today: %1$s   Remaining: %2$s"</string>
-     <string name="status_bar_network_flow_exceed">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Excedeu:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Limite mensal: %4$s</string>
      <string name="status_bar_network_flow_exceed_content">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan exceeded: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-     <string name="status_bar_network_flow_exceed_to_purchase">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Excedeu:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Purchase &gt;</string>
      <string name="status_bar_network_flow_limit">"   Monthly limit: %1$s"</string>
      <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
      <string name="status_bar_network_flow_today">Hoje: %1$s</string>
-     <string name="status_bar_network_flow_warning_to_purchase">"Hoje: %1$s    Restante: %2$s    Comprar &gt;"</string>
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Nenhuma aplicação recente</string>
      <string name="status_bar_notification_inspect_item_title">Informações da aplicação</string>

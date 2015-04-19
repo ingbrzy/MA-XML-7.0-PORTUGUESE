@@ -33,7 +33,6 @@
      <string name="description_uploadtime">Actualização:</string>
      <string name="description_version">Versão:</string>
      <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
-     <string name="deselect_all">@miui:string/deselect_all</string>
      <string name="desktop_wallpaper">Ecrã inicial</string>
      <string name="download_failed">Falha ao transferir</string>
      <string name="download_preview_failed">Não é possível carregar a pré-visualização</string>
@@ -159,7 +158,6 @@
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">Detalhes de %1$s</string>
      <string name="resource_download">Transferir</string>
-     <string name="resource_download_notification_content">Pressione para ver.</string>
      <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
      <string name="resource_download_notification_title_one">Temas transferidos</string>
      <string name="resource_download_trial">Teste gratuito</string>
@@ -263,7 +261,6 @@
      <string name="sdcard_not_mounted_dialog_message">"Insira o cartão SD.
 "</string>
      <string name="sdcard_not_mounted_dialog_title">Não foi detectado nenhum cartão SD</string>
-     <string name="select_all">@miui:string/select_all</string>
      <string name="selected_resource_file_invalid">O ficheiro de recurso seleccionado é inválido</string>
      <string name="settings">Definições</string>
      <string name="short_ringtone_resource">Curto</string>

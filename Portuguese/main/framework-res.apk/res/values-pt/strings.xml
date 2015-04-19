@@ -187,8 +187,6 @@ Pretende fechar?"</string>
      <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
      <string name="config_ethernet_iface_regex">eth\\d</string>
      <string name="config_fusedLocationProviderPackageName">com.qualcomm.location</string>
-     <string name="config_geocoderProviderPackageName">@null</string>
-     <string name="config_geofenceProviderPackageName">@null</string>
      <string name="config_geofenceServicesProvider">com.qualcomm.location</string>
      <string name="config_isoImagePath" />
      <string name="config_mms_user_agent">Android-Mms/2.0</string>
@@ -255,7 +253,6 @@ utilizando %s"</string>
      <string name="default_media_route_name_hdmi">HDMI</string>
      <string name="default_sms_application">com.android.mms</string>
      <string name="default_text_encoding">Latin-1</string>
-     <string name="default_wallpaper_component">@null</string>
      <string name="delete">Eliminar</string>
      <string name="deleteText">Eliminar</string>
      <string name="deny">Recusar</string>

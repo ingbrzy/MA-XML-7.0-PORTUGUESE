@@ -41,11 +41,8 @@
      <string name="auto_nickname">Auto</string>
      <string name="auto_set_nickname">Auto</string>
      <string name="batch_delete">Eliminar a reciclagem</string>
-     <string name="batch_delete_msg">Eliminar %d contactos? Correspondem a dados armazenados na sua conta Mi Nuvem que também serão eliminados.</string>
      <string name="bluetooth_connection_failed_toast">A ligação Bluetooth foi interrompida</string>
      <string name="blurbJoinContactDataWith">Escolha o contacto que pretende associar a %s:</string>
-     <string name="btn_delete_multi_contacts">Eliminar %d</string>
-     <string name="btn_delete_one_contact">Eliminar contacto</string>
      <string name="btn_rotation">Rotação</string>
      <string name="btn_split_contact">Separar</string>
      <string name="button_cancel_scan">Parar</string>
@@ -56,7 +53,6 @@
      <string name="callBack">Chamada de volta</string>
      <string name="callDetailTitle">Registos da chamada</string>
      <string name="callDetailsDurationFormat" formatted="false">%s mins %s segs</string>
-     <string name="callNoAnswerTimeFormat">Tocou %s vezes</string>
      <string name="callShortcutActivityTitle">Escolha um número para ligar</string>
      <string name="call_assistant">Chamada %s</string>
      <string name="call_callback">Remarcar</string>
@@ -166,7 +162,6 @@
      <string name="config_prohibited_phone_number_regexp" />
      <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
      <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
-     <string name="confirm_delete_sim_entry_miui">Eliminar %d contactos do cartão SIM?</string>
      <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro de contactos: %s.</string>
      <string name="confirm_export_title">Exportar contactos?</string>
      <string name="connections">Ligações</string>
@@ -354,8 +349,6 @@
      <string name="event_edit_field_hint_text">Data</string>
      <string name="export_sim_contact_finish">Contactos exportados</string>
      <string name="export_sim_contact_finish_failure">%1$d transferido | %2$d restante</string>
-     <string name="export_sim_contact_finish_success">Copiado %d contactos</string>
-     <string name="export_sim_contacts_dialog_message">O cartão SIM pode armazenar %d contactos</string>
      <string name="export_to_sdcard">Exportar para o armazenamento</string>
      <string name="export_to_sim">Exportar para o cartão SIM</string>
      <string name="export_to_sim1">Exportar para o cartão SIM 1</string>
@@ -883,7 +876,6 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s detalhes</string>
      <string name="resource_download">Transferir</string>
-     <string name="resource_download_notification_content">Pressione para ver.</string>
      <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
      <string name="resource_download_notification_title_one">Temas transferidos</string>
      <string name="resource_download_trial">Teste de avaliação</string>
@@ -1100,7 +1092,6 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="splitConfirmation_title">Separar contacto?</string>
      <string name="starredList">Favoritos</string>
      <string name="starred_contacts">Favoritos</string>
-     <string name="starred_yellowpage">Directórios Favoritos</string>
      <string name="status_available">Disponível</string>
      <string name="status_away">Ausente</string>
      <string name="status_busy">Ocupado</string>
@@ -1184,11 +1175,6 @@ Escolha uma das seguintes opções:"</string>
      <string name="yellowpage_navigation_clear_search_history">Limpar histórico</string>
      <string name="yellowpage_navigation_more_items">Mais</string>
      <string name="yellowpage_navigation_more_items_title">Mais serviços</string>
-     <string name="yellowpage_navigation_network_location_enable">Activar agora</string>
-     <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
-     <string name="yellowpage_navigation_network_location_enabled">O serviço está aberto, pode desactivá-lo nas definições locais</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_summary">A activar o serviço de localização de rede local, a operadora de rede fornece serviços de acordo com a sua cidade, se activar o Wi-Fi pode melhorar a qualidade do serviço.</string>
-     <string name="yellowpage_navigation_network_location_not_enabled_title">Activar o serviço de localização de rede</string>
      <string name="yellowpage_navigation_no_content">Não foi localizado</string>
      <string name="yellowpage_navigation_search_city_name_hint">Cidade</string>
      <string name="yellowpage_navigation_search_history">History</string>

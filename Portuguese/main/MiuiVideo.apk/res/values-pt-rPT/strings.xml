@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about">Sobre</string>
      <string name="about_app_name">Video Player</string>
      <string name="about_title">Sobre</string>
      <string name="about_version">1.0.1</string>
@@ -11,10 +10,8 @@
      <string name="add_favorite_success">Favoritos</string>
      <string name="add_more_addons">Adicionar mais complementos</string>
      <string name="addon">Popular</string>
-     <string name="addon_all">Todos</string>
      <string name="addon_category">Complementos</string>
      <string name="addon_install_complete_disc">%s Complementos instalados. Pode visualizá-los em /Meus videos/.</string>
-     <string name="addon_installed_empty_hint">Vazio</string>
      <string name="addon_update_desc">Nova versão encontrada, actualizar agora?</string>
      <string name="adjust_position_next_media_notice">Próximo</string>
      <string name="adjust_position_prev_media_notice">Último</string>
@@ -30,42 +27,24 @@
      <string name="alert_dialog_download_btn_hide">Hide</string>
      <string name="alert_dialog_download_dup_task">Downloading in progress, please wait...</string>
      <string name="alert_dialog_download_error">Download Error</string>
-     <string name="all">Mais</string>
      <string name="all_ep">Todos ep</string>
      <string name="all_episode">All Episodes</string>
-     <string name="all_media">Ver todos</string>
      <string name="app_latest_version">The Application is already latest version</string>
      <string name="app_name">Vídeo</string>
-     <string name="app_recommend">Recomendado</string>
      <string name="app_upgrade_version">New version</string>
      <string name="app_version">Application Version</string>
-     <string name="area_unknown">Desconhecido</string>
      <string name="authenticated_failed">Erro ao iniciar sessão</string>
      <string name="authenticating">&lt;CDATA&gt;A verificar&amp;#8230;&lt;/CDATA&gt;</string>
      <string name="authenticating_manually">Não foi possível autenticar</string>
      <string name="average_score">Pontuação média</string>
      <string name="avg_score">%.1f</string>
-     <string name="baodian">Indicador</string>
      <string name="bestv">Bestv</string>
      <string name="buffering">A ler…</string>
      <string name="buffering_video_netplay_label_v5">A ler…</string>
      <string name="cancel">Cancelar</string>
-     <string name="cancel_button">Cancelar</string>
      <string name="cancel_favorite_success">Secundários</string>
-     <string name="category">Categoria</string>
-     <string name="catoon">Cartoons</string>
-     <string name="channel_choice">Escolha do editor</string>
-     <string name="channel_hot">Popular</string>
-     <string name="channel_latest">Novo</string>
-     <string name="channel_new">Novo</string>
-     <string name="channel_ok">OK</string>
-     <string name="channel_recommend">Recomendado</string>
-     <string name="channel_score">Classificação</string>
-     <string name="channel_variety_choice">Recomendado</string>
-     <string name="channel_variety_hot">Popular</string>
      <string name="check_app_version">Checking latest version...</string>
      <string name="check_network">Não é possível ligar à rede. Verifique sua ligação de dados e tente novamente.</string>
-     <string name="choice">Destaque</string>
      <string name="clarity_high">Alto</string>
      <string name="clarity_standard">Predifinido</string>
      <string name="clarity_supper">Super</string>
@@ -96,7 +75,6 @@
      <string name="count_comment_wan">%.2f0 análises</string>
      <string name="count_ge">%d ficheiros</string>
      <string name="count_ge_media">%d videos</string>
-     <string name="count_ge_result">%d resultados</string>
      <string name="count_ji_quan">Todos %d Eps</string>
      <string name="count_qi">Ep. %s</string>
      <string name="data_buffering">Buffering</string>
@@ -157,15 +135,12 @@
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Erro de arquivo</string>
      <string name="file_not_exist">O ficheiro não existe</string>
-     <string name="film">Filmes</string>
      <string name="filter">Filtrar</string>
-     <string name="filter_program">Filtrar</string>
      <string name="forecast">Previsão</string>
      <string name="forecast_empty_hint">Vazio</string>
      <string name="forecasts">Tempo</string>
      <string name="fullscreen">Ecrã cheio</string>
      <string name="funshion">Funshion</string>
-     <string name="gong_count_bu">Total de visualizações %d</string>
      <string name="gong_count_dlna">%d DLNA</string>
      <string name="gong_count_ge">%d total</string>
      <string name="gong_count_ji">%d Ep. total</string>
@@ -175,20 +150,13 @@
      <string name="hint_apk_install">Application download</string>
      <string name="hint_apk_text_update">App new version available, do you want to download and install?</string>
      <string name="hint_apk_title_update">New Version</string>
-     <string name="hollywood">Hollywood</string>
-     <string name="hot">Popular</string>
-     <string name="hot_recommend">Recomendado</string>
      <string name="icntv">iCNTV</string>
-     <string name="info_channel_title">Notícias</string>
      <string name="info_video_loading">A carregar…</string>
      <string name="init">Inicialização</string>
      <string name="install_comfirm">Pressione para instalar</string>
      <string name="install_plugin">Install Plug-in</string>
-     <string name="installed">Instalado</string>
      <string name="introduce">Sumário</string>
-     <string name="ji">ep</string>
      <string name="key_back_down_toast">Para sair, pressione voltar de novo</string>
-     <string name="koreak">TV Korea</string>
      <string name="lastrefresh">Recent update:</string>
      <string name="lekan">Lekan</string>
      <string name="letv">Letv</string>
@@ -201,7 +169,6 @@
      <string name="local_video">Local</string>
      <string name="login_tip_content">Inicie sessão na sua conta Mi para sincronizar e actualizar tudo que está a seguir.</string>
      <string name="login_tip_title">Iniciar sessão em</string>
-     <string name="maintitle_prefix">Actualização disponível</string>
      <string name="media_name_comment">%s comentários</string>
      <string name="menu_item_enable_audio_enhance">Activar melhoramento de áudio</string>
      <string name="menu_name">Menu</string>
@@ -210,8 +177,6 @@
      <string name="minute"> Minuto</string>
      <string name="mipush_setting">Notificações</string>
      <string name="month">Mês</string>
-     <string name="more">Ir para %s</string>
-     <string name="my">Local</string>
      <string name="my_favorite">Favorito</string>
      <string name="my_offline">Desligado</string>
      <string name="mycamera">Os meus vídeos</string>
@@ -236,7 +201,6 @@
      <string name="offline_loaded">Vídeo offline</string>
      <string name="offline_loading">Offline</string>
      <string name="offline_max_promote">À espera de cache, existem no máximo duas tarefas de cache que podem ser executados ao mesmo tempo.</string>
-     <string name="offline_media">Offline</string>
      <string name="offline_media_empty_title">Vazio</string>
      <string name="offline_no_selected_item_hint">Escolher vídeo</string>
      <string name="offline_no_source">Não é possível visualizar no modo desligado</string>
@@ -254,14 +218,12 @@
      <string name="operator_test">Operator Settings</string>
      <string name="operator_test_summary">If checked, enter operator mode</string>
      <string name="other_setting">Outros</string>
-     <string name="partner_specials">Publicidade</string>
      <string name="pause">Pausa</string>
      <string name="percent_status">%.0f%%</string>
      <string name="personal_center">Centro pessoal</string>
      <string name="pick_addon_to_delete">Escolher ficheiros</string>
      <string name="place_at">Nº %d</string>
      <string name="play">Reproduzir</string>
-     <string name="play_count_ci">Visualizações %d</string>
      <string name="play_fail">Fail to play, please try later.</string>
      <string name="play_his_empty_title">Vazio</string>
      <string name="play_history">Histórico</string>
@@ -278,7 +240,6 @@
      <string name="receive_develop_summary">Receive application update when new develop version is available</string>
      <string name="receive_mipush">Forçar notificações</string>
      <string name="receive_mipush_summary">Receber notificações sobre os conteúdos novos e actualizados online</string>
-     <string name="recent_play">Reproduzidos recentemente</string>
      <string name="recentplay">Reproduzidos recentemente</string>
      <string name="refreshing">Loading…</string>
      <string name="releasetorefresh">Release and refresh</string>
@@ -291,10 +252,7 @@
      <string name="sdcard_storage">Memória interna</string>
      <string name="search">Pesquisar</string>
      <string name="search_hint">Pesdquisar</string>
-     <string name="search_recommend_media_hint">Recomendados</string>
-     <string name="search_recommend_word_hint">Tendências</string>
      <string name="search_result_empty_text">Não encontramos nada</string>
-     <string name="search_result_input_hint">Pesquisar</string>
      <string name="second"> Segundo</string>
      <string name="see_all_count_comment">%d mais comentários</string>
      <string name="select_all">Seleccionar todos</string>
@@ -304,7 +262,6 @@
      <string name="select_tv_empty_hint">Vazio</string>
      <string name="select_tvs">Seleccionar dispositivo</string>
      <string name="send">Enviar</string>
-     <string name="series_ep">Episódio %d</string>
      <string name="server_summary">Choose Service Server</string>
      <string name="server_switch">Server</string>
      <string name="setting">Definições</string>
@@ -322,7 +279,6 @@
      <string name="start_addon">Iniciar complementos</string>
      <string name="storage_remain">"Disponível: "</string>
      <string name="storage_total">"Espaço total: "</string>
-     <string name="subtitle_prefix">"Versão "</string>
      <string name="suffix_countdown">segundos</string>
      <string name="system_setting">Definições de Sistema</string>
      <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
@@ -334,35 +290,25 @@
      <string name="toast_message_continue_play_hour">h </string>
      <string name="toast_message_continue_play_minute">m </string>
      <string name="toast_message_continue_play_second_and_play">s</string>
-     <string name="today">Hoje</string>
      <string name="top_status_local_media">Local</string>
      <string name="top_status_offline_media">Offline</string>
      <string name="top_status_online_media">Online</string>
      <string name="total_episode">%1$s Episodes</string>
      <string name="tudou">Tudou</string>
-     <string name="tv">Ao vivo</string>
      <string name="tv_channel_empty_hint">Sem canais</string>
-     <string name="tv_series">Séries</string>
      <string name="ui_style">UI Style</string>
      <string name="ui_style_summary">Default is list view</string>
      <string name="unfavorite">Secundários</string>
      <string name="unknown_source">Fonte desconhecida</string>
      <string name="update">Actualizado</string>
-     <string name="update_apk_statusbar">A transferir…</string>
-     <string name="update_button">Actualizar</string>
-     <string name="update_size_prefix">&lt;CDATA&gt;Tamanho: &lt;/CDATA&gt;</string>
-     <string name="update_title">Actualização disponível</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 1
 	%s: 0 Original: 1
 	%d: 1 Original: 0 -->
      <!-- Original string: Updated to Ep. %1$s -->
      <string name="update_to_count_ji">Actualizar para Ep. %d</string>
      <string name="update_to_count_qi">Actualizado para %s</string>
-     <string name="update_version_prefix">&lt;CDATA&gt;Actualizar para a vers&amp;#227;o: &lt;/CDATA&gt;</string>
-     <string name="updateapk_intro">Registo de alterações</string>
      <string name="updatedalready">Actualizado</string>
      <string name="upgrade">Actualizar</string>
-     <string name="usa">TV USA</string>
      <string name="use_cellular_network">Utilize a ligação de dados móveis</string>
      <string name="use_cellular_network_summary">Utilize a ligação de dados móveis para ver o vídeo.</string>
      <string name="use_cellular_offlinedownload_summary">Mostrar notificação ao utilizar dados móveis para fazer a transferência de vídeos</string>
@@ -370,10 +316,6 @@
      <string name="use_cellular_play_summary">Mostrar notificação quando utiliza a rede móvel para assistir ou transferir o vídeo</string>
      <string name="use_cellular_play_title">Notificação de utilização de dados</string>
      <string name="user_tab">My App</string>
-     <string name="userdata_alert_content">Está a utilizar a sua ligação de dados móveis para assistir a vídeos, vai aumentar a sua utilização de dados. Se ultrapassar limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas.</string>
-     <string name="userdata_alert_ok">Reproduzir</string>
-     <string name="userdata_alert_title">Utilização de dados</string>
-     <string name="variety">Recomendado</string>
      <string name="version_select">Version Select</string>
      <string name="version_select_summary">Select alpha, developing, stable version</string>
      <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
@@ -381,7 +323,6 @@
      <string name="video_bbs">Join Us</string>
      <string name="video_bbs_url">Join us and help develop this video application</string>
      <string name="video_count">%d vídeos</string>
-     <string name="video_declare">Copyright   |   Disclaimer</string>
      <string name="video_info_audio_bitrate_label">Taxa de amostragem de áudio:</string>
      <string name="video_info_audio_coding_label">Formato de codificação de áudio:</string>
      <string name="video_info_audio_null">Nenhum</string>
@@ -392,8 +333,6 @@
      <string name="video_plugin">Video Plug-in</string>
      <string name="video_plugin_downloading">Downloading...</string>
      <string name="video_plugin_prepare">Preparing video plug-in, please wait a while.</string>
-     <string name="video_version">Versão %s</string>
-     <string name="video_xiaomi">Vídeo Mi</string>
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Não foi possível ligar à rede</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de arquivo não é suportado.</string>
@@ -472,7 +411,6 @@
      <string name="write_comment">Adicionar comentário</string>
      <string name="xiaomi_account_type_unsupported">A Conta Mi não é suportada</string>
      <string name="xiaomi_user">Utilizador</string>
-     <string name="yesterday">Ontem</string>
      <string name="yinyuetai">YinYueTai</string>
      <string name="youku">Youku</string>
 </resources>

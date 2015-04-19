@@ -925,7 +925,6 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
      <string name="enable_opengl_traces_title">Activar seguimentos</string>
      <string name="enable_service_title">Utilizar %1$s?</string>
-     <string name="enable_snapshot_screenlock">Abrir a câmara</string>
      <string name="enable_terminal_summary">Activar terminal para as aplicações que ofereçam acesso a shell local</string>
      <string name="enable_terminal_title">Activar terminal</string>
      <string name="enable_text">Activar</string>
@@ -2182,8 +2181,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
      <string name="stable_build">" | Estável"</string>
      <string name="status_awake_time">Tempo em actividade</string>
      <string name="status_bar_and_notification_bar">Notificação e barra de estado</string>
-     <string name="status_bar_filter_item_description">Para definir as notificações, vá a Definições Gerais &gt; Notificações &gt; Gerir notificações</string>
-     <string name="status_bar_filter_item_preview_image">Visualizar</string>
      <string name="status_bar_key_position_custom">Personalizar a posição da tecla</string>
      <string name="status_bar_screen_button_key">Teclas virtuais do ecrã</string>
      <string name="status_bar_screen_key_back">Botão de retroceder</string>
@@ -2211,11 +2208,8 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
      <string name="status_bar_settings_show_keyguard_notification">Show floating notifications</string>
      <string name="status_bar_settings_show_keyguard_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
      <string name="status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
-     <string name="status_bar_settings_show_notificationBar_notification">Mostrar na notificação</string>
      <string name="status_bar_settings_show_notification_icon">Mostrar o ícone</string>
      <string name="status_bar_settings_show_screenshot_notification">Mostrar notificação da captura de imagem do ecrã</string>
-     <string name="status_bar_settings_show_statusBar_notification">Mostrar na protecção do teclado</string>
-     <string name="status_bar_settings_show_statusBar_notification_summary">A notificação irá aparecer no topo do ecrã e depois desaparece automaticamente</string>
      <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Barra de estado</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Recolher depois de pressionado</string>

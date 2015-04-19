@@ -159,11 +159,8 @@
      <string name="account_setup_options_headline">Opções da conta</string>
      <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
      <string name="account_setup_options_mail_check_frequency_12hour">Every 12 hours</string>
-     <string name="account_setup_options_mail_check_frequency_15min">A cada 15 minutos</string>
      <string name="account_setup_options_mail_check_frequency_1hour">De hora a hora</string>
-     <string name="account_setup_options_mail_check_frequency_30min">A cada 30 minutos</string>
      <string name="account_setup_options_mail_check_frequency_4hour">Every 4 hours</string>
-     <string name="account_setup_options_mail_check_frequency_5min">A cada 5 minutos</string>
      <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push, se suportado pelo servidor)</string>
      <string name="account_setup_options_mail_check_frequency_label">Frequência de verificação da Caixa de entrada</string>
      <string name="account_setup_options_mail_check_frequency_never">Nunca</string>
@@ -843,11 +840,6 @@ CC: %4$s
      <string name="quote_divider_ks_web">________________________________________</string>
      <string name="quote_divider_qq_en">------------------ Original ------------------</string>
      <string name="quote_divider_qq_zh">------------------ Original ------------------</string>
-     <string name="quote_divider_wps_zh">发自WPS Mail</string>
-     <string name="quote_divider_wps_zh_hk">發自WPS Mail</string>
-     <string name="quote_divider_xm_rsh">Отправлено с MiPhone</string>
-     <string name="quote_divider_xm_zh">发自我的小米手机</string>
-     <string name="quote_divider_xm_zh_hk">發自我的小米手機</string>
      <string name="quoted_text">Incluir texto das mensagens anteriores</string>
      <string name="quoted_text_label">Textos anteriores</string>
      <string name="read_string">conversa lida</string>

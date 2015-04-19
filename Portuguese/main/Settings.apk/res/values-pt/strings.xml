@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="Estado_awake_time">Tempo activo</string>
-     <string name="Estado_bt_address">Endereço Bluetooth</string>
-     <string name="Estado_data_state">Estado da rede móvel</string>
-     <string name="Estado_icc_id">ICCID</string>
-     <string name="Estado_latest_area_info">Informações da operadora</string>
-     <string name="Estado_meid_number">MEID</string>
-     <string name="Estado_min_number">MIN</string>
-     <string name="Estado_msid_number">MSID</string>
-     <string name="Estado_network_type">Tipo de rede móvel</string>
-     <string name="Estado_number">Meu número de telefone</string>
-     <string name="Estado_operator">Rede</string>
-     <string name="Estado_prl_version">Versão do PRL</string>
-     <string name="Estado_roaming">Roaming</string>
-     <string name="Estado_serial_number">Número de série</string>
-     <string name="Estado_service_state">Estado do serviço</string>
-     <string name="Estado_signal_strength">Potência do sinal</string>
-     <string name="Estado_unavailable">Não disponível</string>
-     <string name="Estado_up_time">Tempo de actividade</string>
-     <string name="Estado_wifi_mac_address">Endereço MAC da rede Wi-Fi</string>
-     <string name="Estado_wimax_mac_address">Endereço MAC 4G</string>
      <string name="about_settings">Sobre o telefone</string>
      <string name="about_settings_summary">Ver informações legais, estado, versão do software</string>
      <string name="ac_enable_title">Permissions</string>
@@ -256,7 +236,6 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
      <string name="band_mode_succeeded">Êxito</string>
      <string name="band_mode_title">Definir frequência GSM/UMTS</string>
      <string name="baseband_version">Versão da banda de base</string>
-     <string name="battery_Estado_title">Estado da bateria</string>
      <string name="battery_action_app_details">Informações da aplicação</string>
      <string name="battery_action_app_settings">Configurações da aplicação</string>
      <string name="battery_action_bluetooth">Conf. de Bluetooth</string>
@@ -279,15 +258,6 @@ Basta posicionar os dispositivos próximos (normalmente de costas um para o outr
      <string name="battery_history_minutes_no_seconds">%1$dm</string>
      <string name="battery_history_seconds">%1$ds</string>
      <string name="battery_indicator_style">Battery indicator</string>
-     <string name="battery_info_Estado_charging">A carregar</string>
-     <string name="battery_info_Estado_charging_ac">(CA)</string>
-     <string name="battery_info_Estado_charging_usb">(USB)</string>
-     <string name="battery_info_Estado_charging_wireless">(sem fio)</string>
-     <string name="battery_info_Estado_discharging">Não está a carregar</string>
-     <string name="battery_info_Estado_full">Cheio</string>
-     <string name="battery_info_Estado_label">Estado da bateria:</string>
-     <string name="battery_info_Estado_not_charging">Não está a carregar</string>
-     <string name="battery_info_Estado_unknown">Desconhecido</string>
      <string name="battery_info_awake_battery">Tempo activo da bateria:</string>
      <string name="battery_info_awake_plugged">Tempo activo ao carregar:</string>
      <string name="battery_info_health_cold">Menos vistos</string>
@@ -800,10 +770,6 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="development_settings_not_available">As opções do desenvolvedor não estão disponíveis para este utilizador</string>
      <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
      <string name="development_settings_title">Opções do desenvolvedor</string>
-     <string name="device_Estado">Estado</string>
-     <string name="device_Estado_activity_title">Estado</string>
-     <string name="device_Estado_summary">Número de telefone, sinal etc.</string>
-     <string name="device_admin_Estado">Este administrador está activo e permite que a aplicação %1$s execute as seguintes operações:</string>
      <string name="device_admin_add_title">Administrador do dispositivo</string>
      <string name="device_admin_settings_title">Configurações de administração do dispositivo</string>
      <string name="device_admin_status">This administrator is active and allows the app %1$s to perform the following operations:</string>
@@ -1699,7 +1665,6 @@ Select your operating system:"</string>
      <string name="power_screen">Ecrã</string>
      <string name="power_settings_title">System performance</string>
      <string name="power_usage_history">Battery use</string>
-     <string name="power_usage_level_and_Estado">%1$s - %2$s</string>
      <string name="power_usage_level_and_status">%1$s - %2$s</string>
      <string name="power_usage_not_available">Dados do uso da bat. indisp.</string>
      <string name="power_usage_summary">O que está a consumir a bateria</string>
@@ -1778,7 +1743,6 @@ Select your operating system:"</string>
      <string name="process_service_in_use_description">O serviço %1$s está em uso.</string>
      <string name="process_stats_avg_ram_use">Uso médio de RAM</string>
      <string name="process_stats_max_ram_use">Uso máximo de RAM</string>
-     <string name="process_stats_memory_Estado">A memória do dispositivo está %1$s</string>
      <string name="process_stats_memory_status">Device memory is currently %1$s</string>
      <string name="process_stats_run_time">Tempo de execução</string>
      <string name="process_stats_summary">Estatísticas detalhadas sobre os processos em execução</string>
@@ -1850,7 +1814,6 @@ Select your operating system:"</string>
      <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, modo avião, redes móveis e VPNs</string>
      <string name="radio_controls_title">Mais...</string>
      <string name="radio_info_band_mode_label">Selecionar frequência de rádio</string>
-     <string name="radio_info_call_Estado_label">Estado da chamada:</string>
      <string name="radio_info_call_redirect_label">Redirecionamento da chamada:</string>
      <string name="radio_info_call_status_label">Call status:</string>
      <string name="radio_info_cellinfo_label">CellInfo:</string>
@@ -2022,19 +1985,13 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="sdcard_format">Eliminar armazenamento USB</string>
      <string name="sdcard_setting">Armaz. USB</string>
      <string name="sdcard_settings_available_bytes_label">Bytes disponíveis:</string>
-     <string name="sdcard_settings_bad_removal_Estado">Armaz. USB removido em uso!</string>
      <string name="sdcard_settings_bad_removal_status">USB storage was removed while still in use!</string>
-     <string name="sdcard_settings_mass_storage_Estado">Armaz. USB utilizado como armaz. em massa.</string>
      <string name="sdcard_settings_mass_storage_status">USB storage is being used as a mass storage device.</string>
-     <string name="sdcard_settings_not_present_Estado">Armazenam. USB não Ligado.</string>
      <string name="sdcard_settings_not_present_status">USB storage not mounted.</string>
-     <string name="sdcard_settings_read_only_Estado">Armaz. USB somente leitura.</string>
      <string name="sdcard_settings_read_only_status">USB storage mounted read-only.</string>
-     <string name="sdcard_settings_scanning_Estado">A procurar média armaz. USB...</string>
      <string name="sdcard_settings_scanning_status">Scanning USB storage for media…</string>
      <string name="sdcard_settings_screen_mass_storage_text">Activar o armazenamento USB em massa</string>
      <string name="sdcard_settings_total_bytes_label">Total de bytes:</string>
-     <string name="sdcard_settings_unmounted_Estado">Armazen. USB pode ser removido</string>
      <string name="sdcard_settings_unmounted_status">"It's now safe to remove the USB storage."</string>
      <string name="sdcard_settings_used_bytes_label">Bytes usados:</string>
      <string name="sdcard_unmount">Desligar armaz. USB</string>
@@ -2100,10 +2057,6 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="select_runtime_title">Selecionar tempo de execução</string>
      <string name="select_runtime_warning_message">Reiniciar para mudar tempo de execução de %1$s para %2$s?</string>
      <string name="select_ssid_type_title">Select SSID</string>
-     <string name="selinux_Estado">Estado do SELinux</string>
-     <string name="selinux_Estado_disabled">Desactivado</string>
-     <string name="selinux_Estado_enforcing">Impondo</string>
-     <string name="selinux_Estado_permissive">Permissivo</string>
      <string name="selinux_status">SELinux status</string>
      <string name="selinux_status_disabled">Disabled</string>
      <string name="selinux_status_enforcing">Enforcing</string>
@@ -2230,8 +2183,6 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
      <string name="stable_build">" | Stable"</string>
      <string name="status_awake_time">Awake time</string>
      <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-     <string name="status_bar_filter_item_description">To configure notifications, go to General Settings &gt; Notifications &gt; Manage notifications</string>
-     <string name="status_bar_filter_item_preview_image">Preview</string>
      <string name="status_bar_key_position_custom">Custom key position</string>
      <string name="status_bar_screen_button_key">Screen virtual keys</string>
      <string name="status_bar_screen_key_back">Back button</string>
@@ -2259,11 +2210,8 @@ Uma credencial confiável instalada no dispositivo permite isso."</string>
      <string name="status_bar_settings_show_keyguard_notification">Show floating notifications</string>
      <string name="status_bar_settings_show_keyguard_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
      <string name="status_bar_settings_show_network_speed">Show connection speed</string>
-     <string name="status_bar_settings_show_notificationBar_notification">Show in notification shade</string>
      <string name="status_bar_settings_show_notification_icon">Show notification icon</string>
      <string name="status_bar_settings_show_screenshot_notification">Show screenshot notification</string>
-     <string name="status_bar_settings_show_statusBar_notification">Show floating notifications</string>
-     <string name="status_bar_settings_show_statusBar_notification_summary">Show floating notifications on the lock screen and just about everywhere else</string>
      <string name="status_bar_settings_show_wifi_name">Show WLAN</string>
      <string name="status_bar_settings_status_bar">Status bar</string>
      <string name="status_bar_settings_toggle_collapse_after_clicked">Collapse after touch</string>
@@ -2400,11 +2348,6 @@ Um m&amp;#233;todo do Google para sincronizar dados a fim de permitir acesso aos
      <string name="trusted_credentials_system_tab">Sistema</string>
      <string name="trusted_credentials_user_tab">Utilizador</string>
      <string name="try_again">Tente novamente.</string>
-     <string name="tts_Estado_checking">A verificar…</string>
-     <string name="tts_Estado_not_supported">%1$s não é suportada</string>
-     <string name="tts_Estado_ok">%1$s é totalmente suportada</string>
-     <string name="tts_Estado_requires_network">%1$s requer ligação de rede</string>
-     <string name="tts_Estado_title">Estado de idioma prédefinido</string>
      <string name="tts_data_installed_summary">As vozes necessárias para sintetizacção já estão instaladas correctamente</string>
      <string name="tts_default_lang_summary">Define a voz específica do idioma para o texto falado</string>
      <string name="tts_default_lang_title">Idioma</string>
@@ -2733,7 +2676,6 @@ Qualquer utilizador poderá aceitar permissões actualizadas de aplicações em 
      <string name="whetstone_level_reboot_OK">Reboot</string>
      <string name="whetstone_level_title">Memory optimization</string>
      <string name="widget_picker_title">Escolher widget</string>
-     <string name="wifi_Estado">Estado</string>
      <string name="wifi_access_points">Redes Wi-Fi</string>
      <string name="wifi_add_network">Adicionar rede</string>
      <string name="wifi_advanced_ip_address_title">Endereço IP</string>
@@ -2766,10 +2708,6 @@ Qualquer utilizador poderá aceitar permissões actualizadas de aplicações em 
      <string name="wifi_disabled_password_failure">Problema de autenticação</string>
      <string name="wifi_disconnected_notification_summary">"You're no longer connected to WLAN."</string>
      <string name="wifi_disconnected_notification_title">WLAN disconnected</string>
-     <string name="wifi_display_Estado_connected">Ligado</string>
-     <string name="wifi_display_Estado_connecting">A ligar</string>
-     <string name="wifi_display_Estado_in_use">Em uso</string>
-     <string name="wifi_display_Estado_not_available">Indisponível</string>
      <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
      <string name="wifi_display_certification">Certificacção de visor sem fio</string>
      <string name="wifi_display_certification_heading">Certification</string>
@@ -2923,15 +2861,6 @@ Permitir isto para todos as aplicações que quiserem verificar?"</string>
      <string name="wifi_settings_category">Configurações de Wi-Fi</string>
      <string name="wifi_settings_summary">Configurar e Gerir pontos de acesso sem fio</string>
      <string name="wifi_settings_title">Wi-Fi</string>
-     <string name="wifi_setup_Estado_connecting">A ligar...</string>
-     <string name="wifi_setup_Estado_eap_not_supported">EAP não é suportado.</string>
-     <string name="wifi_setup_Estado_edit_network">Digite a configuração de rede</string>
-     <string name="wifi_setup_Estado_existing_network">Ligar-se à rede existente</string>
-     <string name="wifi_setup_Estado_new_network">Ligar-se à nova rede</string>
-     <string name="wifi_setup_Estado_proceed_to_next">Ir para a próxima etapa</string>
-     <string name="wifi_setup_Estado_scanning">A localizar redes...</string>
-     <string name="wifi_setup_Estado_select_network">Toque em uma rede para se ligar a ela</string>
-     <string name="wifi_setup_Estado_unsecured_network">Ligar-se à rede não segura</string>
      <string name="wifi_setup_add_network">Adicionar rede</string>
      <string name="wifi_setup_back">Voltar</string>
      <string name="wifi_setup_cancel">Cancelar</string>

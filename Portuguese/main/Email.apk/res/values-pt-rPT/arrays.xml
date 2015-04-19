@@ -333,14 +333,6 @@
         <item>@string/special_text_4</item>
         <item>@string/special_text_5</item>
      </string-array>
-     <string-array name="sync_status">
-        <item>Êxito</item>
-        <item>Sem ligação.</item>
-        <item>Falha ao iniciar sessão.</item>
-        <item>Erro de segurança.</item>
-        <item>Não foi possível sincronizar.</item>
-        <item>Erro interno</item>
-     </string-array>
      <string-array name="wait_for_sync_body_txt_array">
         <item>@string/wait_for_sync_body_txt_array_1</item>
         <item>@string/wait_for_sync_body_txt_array_2</item>
