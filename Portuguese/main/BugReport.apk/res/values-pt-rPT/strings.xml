@@ -58,7 +58,7 @@
      <string name="loading_hot_problem">A carregar…</string>
      <string name="loading_problem_list">A carregar lista…</string>
      <string name="menu_copy">Copiar</string>
-     <string name="network_disconnected">"Can't connect to network"</string>
+     <string name="network_disconnected">"Não é possível ligar à internet"</string>
      <string name="network_err">Não é possível ligar à internet.</string>
      <string name="network_unavailable_dialog_button_ok">OK</string>
      <string name="network_unavailable_dialog_content">O seu comentário será enviado quando a ligação de dados estiver disponível</string>
@@ -86,7 +86,7 @@
      <string name="submit_dialog_cancel">Cancelar</string>
      <string name="submit_dialog_confirm">Enviar</string>
      <string name="submit_dialog_content">O comentário, relatório de erros e imagens anexas serão enviados para os servidores Mi.</string>
-     <string name="submit_dialog_not_wifi_content">"Your feedback, along with error logs and attached images, will be sent to Mi's servers when your device is connected to WLAN."</string>
+     <string name="submit_dialog_not_wifi_content">"O feedback, junto com os logs de erro e imagens anexadas, serão enviados para os servidores da MI quando o dispositivo se ligar á rede."</string>
      <string name="submit_dialog_title">Enviar relatório para a Xiaomi</string>
      <string name="suggestion_description">Escreva aqui a sua sugestão</string>
      <string name="suggestion_problem1">Diga-nos que recurso gostaria de ver no futuro</string>
@@ -97,13 +97,13 @@
      <string name="title_nonsystem_app">Outras aplicações</string>
      <string name="title_system_app">Aplicações MIUI</string>
      <string name="toast_description_required">É necessário descrever a situação</string>
-     <string name="toast_feedback_collect_store">Collecting logs…</string>
+     <string name="toast_feedback_collect_store">A recolher os logs…</string>
      <string name="toast_feedback_network_unavailable">Não é possível ligar à rede</string>
      <string name="toast_feedback_pending_wlan">O seu comentário será enviado quando o Wi-Fi estiver disponível</string>
      <string name="toast_feedback_submitted">O seu comentário foi enviado com sucesso</string>
      <string name="toast_feedback_submitting">A enviar…</string>
      <string name="toast_feedbackservice_in_submit">A enviar informação anterior…</string>
-     <string name="toast_fill_brackets">Your report is missing some info</string>
+     <string name="toast_fill_brackets">No relatório está faltando alguma informação</string>
      <string name="toast_network_unavailable">Erro ao enviar. Não foi possível ligar à rede</string>
      <string name="toast_pending_log_collection">Ainda a receber registos…</string>
      <string name="toast_report_copied_to_clipboard">Relatório copiado para a área de transferência</string>
