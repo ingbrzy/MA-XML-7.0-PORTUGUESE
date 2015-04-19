@@ -2,8 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="account_bind_prompt">Mover dados do utilizador… Isto pode demorar alguns minutos.</string>
-     <string name="action_mode_deselect_all">Deselect all</string>
-     <string name="action_mode_select_all">Select all</string>
+     <string name="action_mode_deselect_all">Desmarcar todos</string>
+     <string name="action_mode_select_all">Selecionar todos</string>
      <string name="add_task">Adicionar tarefas</string>
      <string name="adding_upload_tasks">A adicionar tarefas#8230;</string>
      <string name="already_signin_description">Já foi verificado hoje</string>
@@ -130,23 +130,23 @@
      <string name="kp_category_excel">Excel</string>
      <string name="kp_category_pdf">PDF</string>
      <string name="kp_category_ppt">PowerPoint</string>
-     <string name="kp_category_txt">Text</string>
-     <string name="kuaipan_cloud_photo">KuaiPan photos</string>
-     <string name="kuaipan_create_shortcut_success">Shortcut created</string>
+     <string name="kp_category_txt">Texto</string>
+     <string name="kuaipan_cloud_photo">Fotos KuaiPan</string>
+     <string name="kuaipan_create_shortcut_success">Atalho criado</string>
      <string name="kuaipan_data_formater_with_year">month M day d year YYYY</string>
      <string name="kuaipan_data_formater_without_year">M month d day</string>
-     <string name="kuaipan_delete_guide_des">Delete guide？</string>
-     <string name="kuaipan_delete_success">Photo deleted</string>
+     <string name="kuaipan_delete_guide_des">excluir guia？</string>
+     <string name="kuaipan_delete_success">Foto eliminada</string>
      <string name="kuaipan_label">KuaiPan</string>
      <string name="kuaipan_over_space">Não há espaço suficiente.</string>
      <string name="kuaipan_photo_folder_divider">,</string>
-     <string name="kuaipan_photo_locate">Located %1$s</string>
+     <string name="kuaipan_photo_locate">Localizado %1$s</string>
      <string name="kuaipan_photo_more_folder_count">%1$s</string>
      <string name="kuaipan_prompt">Aviso</string>
      <string name="kuaipan_prompt_message">"
  Neste momento o nosso servidor está em manutenção. Tente mais tarde… 
 "</string>
-     <string name="kuaipan_root_fooder">Home</string>
+     <string name="kuaipan_root_fooder">Pasta inicial</string>
      <string name="kuaipan_tech_support">Iniciar sessão em kuaipan.cn</string>
      <string name="load_err">Não é possível carregar</string>
      <string name="loading">A carregar…</string>
@@ -203,7 +203,7 @@
      <string name="never_notify_network_connect">Lembrar preferências</string>
      <string name="new_folder_name">Pasta sem nome</string>
      <string name="no">Não</string>
-     <string name="no_display_file">"Can't display %1$s"</string>
+     <string name="no_display_file">"Não é possível exibir %1$s"</string>
      <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio.</string>
      <string name="no_enough_storage_title">Não há espaço suficiente</string>
      <string name="no_file">Vazio</string>
@@ -237,7 +237,7 @@
      <string name="operation_deleting_detail">A eliminar (%1$d/%2$d)</string>
      <string name="operation_download_link">Criar caminho para transferir</string>
      <string name="operation_favorite">Favoritos</string>
-     <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>
+     <string name="operation_hide_sys">Não exibir ficheiros ocultos</string>
      <string name="operation_info">Detalhes</string>
      <string name="operation_move">Cortar</string>
      <string name="operation_moving">A mover</string>
