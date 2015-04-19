@@ -52,7 +52,7 @@
      <string name="already_apply_album">Abrir %1$s?</string>
      <string name="always_rotate_alert_msg">You can turn this feature on or off anytime in Gallery Settings.</string>
      <string name="always_rotate_alert_positive_button_text">Turn on</string>
-     <string name="always_rotate_alert_title">Auto-rotate images</string>
+     <string name="always_rotate_alert_title">Auto-rotação da imagem</string>
      <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
      <string name="androidesk_wallpapers">Papéis de parede Android</string>
      <string name="aperture">Abertura</string>
@@ -78,7 +78,7 @@
      <string name="bigscreen_slide_fail_cause_loading">Reinicar apresentação de imagens depois de transferir</string>
      <string name="bigscreen_slide_playing">Executar a apresentação de fotografias %s</string>
      <string name="bigscreen_video_quit">Pressione para sair</string>
-     <string name="black_white">BlackWhite</string>
+     <string name="black_white">Preto e branco</string>
      <string name="brannan">EarlyBird</string>
      <string name="browse_category">Mostrar</string>
      <string name="by_email">Email</string>
@@ -607,15 +607,15 @@ com os amigos"</string>
      <string name="external_usb_device">Armazenamento USB</string>
      <string name="external_usb_device_hm">Armazenamento USB externo</string>
      <string name="face_album">Face album</string>
-     <string name="face_album_not_named">Not named</string>
-     <string name="face_album_rename_hint">Enter a name</string>
-     <string name="face_albumset_detecting_tip">"Detecting faces...
-face albums will be available soon"</string>
-     <string name="face_albumset_empty">"No faces detected
-try to take more pictures"</string>
-     <string name="face_albumset_use_tip">"Help to find those pretty faces，
-making it simple to view and manage pictures"</string>
-     <string name="face_move_dialog_title">Choose a face album</string>
+     <string name="face_album_not_named">Sem nome</string>
+     <string name="face_album_rename_hint">Introduzir um nome</string>
+     <string name="face_albumset_detecting_tip">"Detectar rosto...
+Albuns de rosto brevemente disponivel"</string>
+     <string name="face_albumset_empty">"Sem rostos detectados
+Tente tirar mais fotos"</string>
+     <string name="face_albumset_use_tip">"Ajuda para encontrar rostos，
+simplificando para ver e gerir imagens"</string>
+     <string name="face_move_dialog_title">Escolher um albun de rostos</string>
      <string name="facelift">Pele clara</string>
      <string name="facetan">Pele escura</string>
      <string name="fail_hint">Operação falhada</string>
@@ -732,7 +732,7 @@ making it simple to view and manage pictures"</string>
      <string name="menu_item_sort_size_asc">Tamanho (ascendente)</string>
      <string name="menu_item_sort_size_desc">Tamanho (descendente)</string>
      <string name="menu_view_contact">Ver contactos</string>
-     <string name="merge_album_positive_button_text">Merge</string>
+     <string name="merge_album_positive_button_text">Fundir</string>
      <string name="message_no_delete_access">Não tem permissões para eliminar %s</string>
      <string name="messagelist_sender_self">Eu</string>
      <string name="miliao">Mi Talk</string>
@@ -776,7 +776,7 @@ o dispositivo"</string>
      <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
      <string name="not_now">Agora não</string>
      <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
-     <string name="old">​Old</string>
+     <string name="old">​Velho</string>
      <string name="only_show_camera_in_first_page">Mostrar apenas as fotografias do rolo da câmara</string>
      <string name="only_show_camera_in_first_page_summary">Quando está desligado, as fotografias de todos os álbuns da nuvem serão exibidos na primeira página.</string>
      <string name="open">Activar</string>
@@ -816,7 +816,7 @@ o dispositivo"</string>
      <string name="photo_page_save_uri_image_fail">Não foi possível guardar</string>
      <string name="photo_page_save_uri_image_ok">Fotografia guardada em fotografias da câmara</string>
      <string name="photo_paint_crop">Cortar</string>
-     <string name="photo_save_succeed">Saved successfully</string>
+     <string name="photo_save_succeed">Guardado com sucesso</string>
      <string name="photo_size">Tamanho</string>
      <string name="photoeditor_name">Editor de fotografias Mi</string>
      <string name="photos">Fotografias</string>
@@ -831,7 +831,7 @@ o dispositivo"</string>
      <string name="pocketcamera">PocketCamera</string>
      <string name="posterize">Poster</string>
      <string name="ppmm_gallery">PPMM</string>
-     <string name="preparing_data">Preparing data...</string>
+     <string name="preparing_data">A praparar dados...</string>
      <string name="preparing_data_to_delete">A eliminar imagens…</string>
      <string name="priority_storage">Guardar no cartão SD</string>
      <string name="priority_storage_summary">Quando o cartão SD for inserido, transferir os ficheiros para o cartão SD automaticamente.</string>
@@ -856,8 +856,8 @@ o dispositivo"</string>
      <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
      <string name="remove_hidden_album">Mostrar album</string>
      <string name="remove_recent_album">Remover dos favoritos</string>
-     <string name="rename_face_album">Change name</string>
-     <string name="rename_fail_msg">Fail to change name</string>
+     <string name="rename_face_album">Alterar o nome</string>
+     <string name="rename_fail_msg">Falha ao alterar o nome</string>
      <string name="rename_failed">Não é possivel renomear</string>
      <string name="rename_failed_duplicated_name">Já existe um ficheiro com o mesmo nome.</string>
      <string name="renren_image">RenRen</string>
@@ -867,7 +867,7 @@ o dispositivo"</string>
      <string name="request_sms_url_title">Dica</string>
      <string name="retry_to_create_album">Tentar novamente</string>
      <string name="retry_to_request_qr_code">Tentar novamente</string>
-     <string name="rise">Rise</string>
+     <string name="rise">Subir</string>
      <string name="rotate">Rodar</string>
      <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
      <string name="rotate_tooltip">Arraste a fotografia para rodar</string>
@@ -944,10 +944,10 @@ o dispositivo"</string>
      <string name="slideshow_interval_dialog_title">Intervalo de apresentação deve ser maior que 0 segundos</string>
      <string name="slideshow_interval_invalid">Intervalo deve ser entre 1 e 3600 segundos</string>
      <string name="slideshow_repeat_mode">Repetir</string>
-     <string name="sports_camera">Sports Camera</string>
+     <string name="sports_camera">Camera de desportos</string>
      <string name="square">Quadrado</string>
      <string name="start_slide_show">Reproduzir apresentação de imagens</string>
-     <string name="start_to_use_face_albumset">Start to use face albums</string>
+     <string name="start_to_use_face_albumset">Começar a usar albuns de rosto</string>
      <string name="storage_all_volumes">Todos os dispositivos de armazenamento</string>
      <string name="storage_no_space">Sem espaço disponivel</string>
      <string name="straighten">Endireitar</string>
@@ -999,7 +999,7 @@ o dispositivo"</string>
      <string name="user_alias_self">Próprio</string>
      <string name="video_err">Não é possível reproduzir o video</string>
      <string name="video_not_exist">O vídeo não existe</string>
-     <string name="view_face_album">View album</string>
+     <string name="view_face_album">Ver album</string>
      <string name="view_sharers">Mostrar partilhados</string>
      <string name="vignette">Vinheta</string>
      <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
