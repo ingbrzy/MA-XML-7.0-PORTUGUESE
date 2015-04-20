@@ -37,7 +37,7 @@ Caso o dispositivo tenha vários utilizadores, este atalho no ecrã de bloqueio 
      <string name="accessibility_menu_item_settings">Configurações</string>
      <string name="accessibility_no_services_installed">Nenhum serviço foi instalado</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Botão de ligar encerra a chamada</string>
-     <string name="accessibility_screen_magnification_enable">Magnification gestures</string>
+     <string name="accessibility_screen_magnification_enable">Ampliação de gestos</string>
      <string name="accessibility_screen_magnification_summary">"Quando este recurso está activado, pode aumentar e diminuir o zoom com um toque triplo no ecrã.
 
 Quando o zoom é aplicado, pode:
@@ -823,7 +823,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="disable_service_title">Parar %1$s?</string>
      <string name="disable_text">Desactivar</string>
      <string name="disabled">Desactivado</string>
-     <string name="disconnect">disconnect</string>
+     <string name="disconnect">Desconectar</string>
      <string name="display_font_size_label">Tamanho da fonte:</string>
      <string name="display_label">Ecrã</string>
      <string name="display_order_text">Classificar por:</string>
@@ -848,7 +848,7 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="dndm_dlg_remove_vip">As chamadas dessa pessoa vão ser silenciadas quando  o não perturbe está activo.</string>
      <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
      <string name="dndm_mute_all">As chamadas e mensagens estão a ser silenciadas.</string>
-     <string name="dndm_notification">Não perturbe está activo</string>
+     <string name="dndm_notification">Não perturbar está activo</string>
      <string name="dndm_open">Nao perturbar</string>
      <string name="dndm_repeated_call_setting_title">Chamadas repetidas</string>
      <string name="dndm_repeated_call_summary_3min">Tocar quando receber uma segunda chamada do mesmo número dentro de 3 minutos</string>
@@ -881,13 +881,13 @@ Esta configuração afecta todos os utilizadores do telefone."</string>
      <string name="dock_sounds_enable_summary_on">Reproduzir sons ao inserir ou remover o telefone do suporte.</string>
      <string name="dock_sounds_enable_title">Som de inserção na dock</string>
      <string name="does_not_exist">A aplicação não existe.</string>
-     <string name="dolby_bassboost_high">Strong</string>
-     <string name="dolby_bassboost_low">Soft</string>
+     <string name="dolby_bassboost_high">Forte</string>
+     <string name="dolby_bassboost_low">Fraco</string>
      <string name="dolby_bassboost_normal">Normal</string>
      <string name="dolby_bassboost_title">Bass:</string>
-     <string name="dolby_effects">Dolby effects</string>
+     <string name="dolby_effects">Efeitos Dolby</string>
      <string name="dolby_eq_enter_alert_msg">Turn on Dolby music mode to use EQ?</string>
-     <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
+     <string name="dolby_eq_enter_alert_title">Ligar musica Dolby </string>
      <string name="dolby_mode_movie">Video</string>
      <string name="dolby_mode_music">Musica</string>
      <string name="dolby_mode_off">Desligado</string>
