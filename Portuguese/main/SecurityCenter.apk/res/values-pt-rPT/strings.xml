@@ -140,10 +140,10 @@
      <string name="clean_content_three">Não limpar %s</string>
      <string name="clean_content_two">%1$s e %2$s</string>
      <string name="clean_content_zero">Não limpar nada</string>
-     <string name="cmcc_app_check_dialog_message">Restart your device to complete repair.</string>
-     <string name="cmcc_app_check_dialog_negative">Later</string>
-     <string name="cmcc_app_check_dialog_positive">Restart now</string>
-     <string name="cmcc_app_check_dialog_title">System repaired</string>
+     <string name="cmcc_app_check_dialog_message">Reinicie o dispositivo para concluir o reparo.</string>
+     <string name="cmcc_app_check_dialog_negative">Mais tarde</string>
+     <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
+     <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
      <string name="confirm_auto_cleaner">OK</string>
      <string name="cta_button_text_agree">OK</string>
      <string name="cta_button_text_cancel">Cancelar</string>
@@ -354,10 +354,10 @@
      <string name="never">1 vez</string>
      <string name="notification_button_text_of_low_memory">Limpar</string>
      <string name="notification_summary_after_auto_cleanup">Limpo %s.</string>
-     <string name="notification_summary_cmcc_app_check">Touch to view details.</string>
+     <string name="notification_summary_cmcc_app_check">Toque para ver detalhes.</string>
      <string name="notification_summary_of_garbage_cleanup">O seu lixo é mais de %s.</string>
      <string name="notification_summary_of_low_memory">Quando a memória está baixa, não pode instalar novas aplicações</string>
-     <string name="notification_title_cmcc_app_check">%d days since last check-up</string>
+     <string name="notification_title_cmcc_app_check">%d dias desde a ultima verificação</string>
      <string name="notification_title_firewall_blocked">Bloqueado</string>
      <string name="notification_title_of_garbage_cleanup">Tamanho do lixo</string>
      <string name="notification_title_of_low_memory">Espaço utilizado: %s</string>
@@ -704,7 +704,7 @@
      <string name="title_data_flow">Definir um aviso de utilização de dados</string>
      <string name="title_data_flow_no">Monitor do uso de dados desligado</string>
      <string name="title_data_flow_yes">Monitor do uso de dados ligado</string>
-     <string name="title_default_app">"MIUI %s isn't set as default"</string>
+     <string name="title_default_app">"MIUI %s não está como predefinido"</string>
      <string name="title_delete_cache">Eliminar dados da cache?</string>
      <string name="title_delete_large_file">Eliminar o ficheiro?</string>
      <string name="title_dev_no">Opções do programador ligadas</string>
@@ -752,7 +752,7 @@
      <string name="toast_network_eror">Não é possível ligar à rede</string>
      <string name="toast_network_switch">Esta aplicação pode ligar à internet</string>
      <string name="toast_removed_from_white_list">" removido das excepções"</string>
-     <string name="toast_resolve_apk_error">Resolve apk error</string>
+     <string name="toast_resolve_apk_error">Determinar erro da aplicaçãor</string>
      <string name="toast_root_apply_accept">Acesso root concedido a %s</string>
      <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
      <string name="toast_shortcut_install">Atalho instalado</string>
