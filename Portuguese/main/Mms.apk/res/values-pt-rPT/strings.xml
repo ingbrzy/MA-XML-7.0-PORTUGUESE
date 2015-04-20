@@ -316,10 +316,6 @@
      <string name="pick_too_many_recipients">Demasiados destinatários</string>
      <string name="play">Iniciar</string>
      <string name="playing_failed">Não foi possível reproduzir</string>
-     <string name="prefDefault_ringtone_repeat">1</string>
-     <string name="prefDefault_vibrateWhen">nunca</string>
-     <string name="prefDefault_vibrate_false">nunca</string>
-     <string name="prefDefault_vibrate_true">sempre</string>
      <string name="pref_advanced_settings_title">Definições avançadas</string>
      <string name="pref_collapse_sp_messages_summary">Notificações do Grupo, de sua operadora para o mesma linha</string>
      <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
@@ -482,8 +478,6 @@
      <string name="sms_full_title">Memória de mensagens de texto cheia</string>
      <string name="sms_rejected_body">A mensagem de texto a receber foi rejeitada.</string>
      <string name="sms_rejected_title">A mensagem de texto foi rejeitada</string>
-     <string name="snippet_audio">[audio]</string>
-     <string name="snippet_picture">[imagem]</string>
      <string name="sp_category_all">Todas as mensagens de serviço</string>
      <string name="sp_category_bank">Banco de serviço de mensagens</string>
      <string name="sp_category_title_prefix">%s</string>
