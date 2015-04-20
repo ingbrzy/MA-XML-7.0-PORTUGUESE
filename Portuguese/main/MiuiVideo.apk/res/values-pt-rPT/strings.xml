@@ -3,7 +3,6 @@
 <resources>
      <string name="about_app_name">Reprodutor de video</string>
      <string name="about_title">Sobre</string>
-     <string name="about_version">1.0.1</string>
      <string name="about_version_label">Versão de código</string>
      <string name="ad_countdown">Restantes %ss</string>
      <string name="ad_moredetail">Detalhes</string>
@@ -293,7 +292,7 @@
      <string name="top_status_local_media">Local</string>
      <string name="top_status_offline_media">Offline</string>
      <string name="top_status_online_media">Online</string>
-     <string name="total_episode">%1$s Episodios/string>
+     <string name="total_episode">%1$s Episodios</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">Sem canais</string>
      <string name="ui_style">UI Style</string>
