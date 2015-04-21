@@ -118,10 +118,10 @@
      <string name="progress_title_checking">A verificar actualizações…</string>
      <string name="reboot">Reiniciar</string>
      <string name="recovery_failed_button">OK</string>
-     <string name="recovery_failed_msg">"Your device doesn't have enough memory to enter Recovery mode and update your system. Try using Mi PC Suite instead:
+     <string name="recovery_failed_msg">"O dispositivo não tem memória suficiente para entrar no modo de recuperação e actualizar seu sistema. Tente usar Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
-     <string name="recovery_failed_notification_msg">"Can't enter Recovery mode"</string>
-     <string name="recovery_failed_title">Use Mi PC Suite to update your system</string>
+     <string name="recovery_failed_notification_msg">"Não é possível entrar no modo de recuperação"</string>
+     <string name="recovery_failed_title">Use Mi PC Suite actualizar seu sistema</string>
      <string name="repeat">Tente novamente</string>
      <string name="set_auto">Verificar actualizações automaticamente</string>
      <string name="set_auto_msg">Quando estiver disponível uma nova versão não precisa de actualizar manualmente. Com as actualizações inteligentes escolha a altura apropriada para o sistema actualizar automaticamente utilizando a ligação Wi-Fi.</string>
@@ -192,22 +192,22 @@ Por favor, vote na próxima terça-feira."</string>
      <string name="validate_pkg_failed_title">Não é possível verificara actualização</string>
      <string name="view_upgrade_tutorial">Ver</string>
      <string name="vote_beta">Beta Feedback Program</string>
-     <string name="vote_error1">"Look's like you're not a member
-of the Beta Feedback Program"</string>
-     <string name="vote_error2">"Couldn't submit feedback.
-Update your device and try again"</string>
-     <string name="vote_error3">"Couldn't sign in.
-Try signing in your Mi Account again."</string>
-     <string name="vote_error4">You already submitted feedback</string>
-     <string name="vote_error5">"Something went wrong
-Couldn't submit feedback"</string>
-     <string name="vote_error_nonetwork">"Can't connect to the network"</string>
-     <string name="vote_experience">Forum experience</string>
-     <string name="vote_hint">Get 20 experience points for the MIUI forum when you vote</string>
-     <string name="vote_join">Voted</string>
-     <string name="vote_not_recommend">"Don't recommend"</string>
-     <string name="vote_recommend">Recommend this update</string>
-     <string name="vote_submit">Submit</string>
+     <string name="vote_error1">"Parece que ainda não é membro
+do Programa de comentários Beta"</string>
+     <string name="vote_error2">"Não foi possível enviar comentários.
+Actualize seu dispositivo e tente novamente"</string>
+     <string name="vote_error3">"Não foi possível iniciar sessão.
+Tente iniciar sessão na comta MI de novo."</string>
+     <string name="vote_error4">Você já apresentou o feedback</string>
+     <string name="vote_error5">"Algo está errado
+Não foi possível enviar comentários"</string>
+     <string name="vote_error_nonetwork">"Não é possível ligar-se à rede"</string>
+     <string name="vote_experience">Experiência Forum</string>
+     <string name="vote_hint">Obter 20 pontos de experiência para o fórum MIUI quando vota</string>
+     <string name="vote_join">Votado</string>
+     <string name="vote_not_recommend">"Não recomendado"</string>
+     <string name="vote_recommend">Recomebar este update</string>
+     <string name="vote_submit">Submeter</string>
      <string name="weekly_build">Semanal</string>
      <string name="worst_update">Pior actualização</string>
 </resources>
