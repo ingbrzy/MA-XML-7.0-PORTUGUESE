@@ -48,7 +48,7 @@
      <string name="preference_record_type_title">Tipo de gravação</string>
      <string name="preference_scenes">Definições das cenas</string>
      <string name="preference_silent_mode">Silenciar toque ao gravar</string>
-     <string name="preference_tip_rename">Whether to show rename dialog after stop recording</string>
+     <string name="preference_tip_rename">Se deseja mostrar diálogo renomear após parar a gravação</string>
      <string name="record_back_pressed_hint">Para parar de gravar, pressione voltar novamente</string>
      <string name="record_download">Transferir de Mi Cloud</string>
      <string name="record_download_activity">Lista de transferências</string>
@@ -70,13 +70,13 @@
      <string name="record_list_fm">Gravações FM</string>
      <string name="record_mark_point">%smark</string>
      <string name="record_name_hour">.</string>
-     <string name="record_picker_title">Choose a recording</string>
+     <string name="record_picker_title">Escolher uma gravação</string>
      <string name="recording">Gravação</string>
      <string name="recording_stopped">A gravação parou</string>
      <string name="rename">Renomear</string>
      <string name="rename_dialog_title">Renomear gravações</string>
      <string name="rename_duplicate">A gravação com este nome já existe.</string>
-     <string name="rename_no_more_tip">no more tip</string>
+     <string name="rename_no_more_tip">Sem dicas</string>
      <string name="retry">Tente novamente</string>
      <string name="sound_recorder_settings">Definições</string>
      <string name="start">Resumir</string>
