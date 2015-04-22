@@ -3,7 +3,7 @@
 <resources>
      <plurals name="batch_delete_msg">
         <item quantity="other">Eliminar %d contactos?</item>
-        <item quantity="one">Eliminar %d contactos?</item>
+        <item quantity="one">Eliminar %d contacto?</item>
      </plurals>
      <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Eliminar %d contactos</item>
@@ -11,7 +11,7 @@
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Tocou %d vezes</item>
-        <item quantity="one">Tocou %d tempo</item>
+        <item quantity="one">Tocou %d vez</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Eliminar %d contactos do cartão SIM ?</item>
