@@ -17,12 +17,12 @@
         <item quantity="one">Eliminar %s vídeo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s fotografias do dispositivo e na núvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s fotografia do dispositivo e da núvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;lt;Data> Eliminar %s fotografias do dispositivo e na nuvem?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Eliminar %s fotografia do dispositivo e da nuvem?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s vídeos do dispositivo e da núvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s vídeo do dispositivo e da núvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &amp;lt;Data> Eliminar %s vídeos do dispositivo e da nuvem?&amp;lt;/Data> "</item>
+        <item quantity="one">" &amp;lt;Data> Eliminar %s vídeo do dispositivo e da nuvem?&amp;lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>

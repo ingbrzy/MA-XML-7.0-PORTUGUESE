@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicações</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Ao desactivar o Monitor de Permissões a MIUI não monitorizará requisições de aplicações e não protegerá a segurança e privacidade dos seus dados.
+  <string name="Dashboard_HIPS_Disable_Content">"Ao desactivar o Monitor de Permissões a MIUI não monitorará requisições de aplicações e não protegerá a segurança e privacidade dos seus dados.
 Tem certeza que deseja desativá-lo?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
@@ -11,16 +11,16 @@ Tem certeza que deseja desativá-lo?"</string>
   <string name="Dashboard_Perm_AutoStart">Início automático</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Controla quais as aplicações que podem iniciar quando seu dispositivo for ligado</string>
   <string name="Dashboard_Perm_HIPS">Gerir permissões</string>
-  <string name="Dashboard_Perm_HIPS_Desc">Monitorizar %1$d aplicações</string>
-  <string name="Dashboard_Perm_HIPS_Desc2">Monitorizar %1$d aplicações</string>
+  <string name="Dashboard_Perm_HIPS_Desc">Monitorar %1$d aplicações</string>
+  <string name="Dashboard_Perm_HIPS_Desc2">Monitorar %1$d aplicações</string>
   <string name="Dashboard_Perm_HIPS_Disabled">Monitor de permissões desligado</string>
   <string name="Dashboard_Perm_HIPS_Risky">Permissões de risco (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Safe">Permissões normais (%1$d)</string>
   <string name="Dashboard_Perm_HIPS_Switch">Permissões</string>
-  <string name="Dashboard_Perm_Header">A monitorizar %1$d aplicações</string>
+  <string name="Dashboard_Perm_Header">A monitorar %1$d aplicações</string>
   <string name="Dashboard_Perm_Header_Disabled">Monitor de permissões desactivado</string>
   <string name="Dashboard_Perm_SU">Gerir acesso root</string>
-  <string name="Dashboard_Perm_SU_Desc">A monitorizar %1$d aplicações com acesso root</string>
+  <string name="Dashboard_Perm_SU_Desc">A monitorar %1$d aplicações com acesso root</string>
   <string name="Dashboard_Perm_SU_Disabled">Acesso root desactivado</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso root está indisponível na compilação estável da MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"A concessão de acesso root a aplicações de terceiros pode causar instabilidades no sistema, perda de dados ou até mesmo danificar o seu hardware.
@@ -95,8 +95,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_CallLog_Desc">Aplicação pode ver o seu histórico de chamadas</string>
   <string name="HIPS_Perm_CallLog_Hint">%1$s aplicações podem ver o seu histórico de chamadas</string>
   <string name="HIPS_Perm_CallMonitor">Monitor de chamadas</string>
-  <string name="HIPS_Perm_CallMonitor_Desc">Permitir que a aplicação monitorize e controle o volume das chamadas</string>
-  <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplicações podem monitorizar e controlar o volume das chamadas</string>
+  <string name="HIPS_Perm_CallMonitor_Desc">Permitir que a aplicação monitore e controle o volume das chamadas</string>
+  <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplicações podem monitorar e controlar o volume das chamadas</string>
   <string name="HIPS_Perm_CallState">Estado do telefone</string>
   <string name="HIPS_Perm_CallState_Desc">Permitir que a aplicação visualize o estado da chamada (ex.: ocupado, a tocar)</string>
   <string name="HIPS_Perm_CallState_Hint">%1$s aplicações podem ver a estado da chamada</string>
@@ -197,9 +197,9 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Settings_Desc">Aplicações pode alterar as configurações do sistema</string>
   <string name="HIPS_Perm_Settings_Hint">%1$s aplicações podem alterar as configurações do sistema</string>
   <string name="HIPS_Perm_Settings_Modify">Aplicação pode alterar as configurações do sistema</string>
-  <string name="HIPS_Perm_SilenceRinger">A aplicação pode silênciar chamadas recebidas</string>
+  <string name="HIPS_Perm_SilenceRinger">A aplicação pode silenciar chamadas recebidas</string>
   <string name="HIPS_Perm_SystemAlert">Notificações pop-up</string>
-  <string name="HIPS_Perm_SystemAlert_Desc">Aplicaçã pode exibir notificações pop-up</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Aplicação pode exibir notificações pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Hint">%1$s aplicações podem exibir notificações pop-up</string>
   <string name="HIPS_Perm_VideoRecorder">Câmera</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Aplicação pode aceder à câmara</string>
@@ -211,11 +211,11 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Aplicação pode activar o Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicações podem activar o Wi-Fi</string>
   <string name="HIPS_Perm_Wakelock">Desligar ecrã</string>
-  <string name="HIPS_Perm_Wakelock_Desc">Aplicaçã pode impedir o desligamento do ecrã do dispositivo</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Aplicação pode impedir o desligamento do ecrã do dispositivo</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicações podem impedir o desligamento do ecrã do dispositivo</string>
-  <string name="HIPS_Perm_Xiaomi_Account">Conta Xiaomi</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">Aceda a sua conta Xiaomi</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder a sua conta Xiaomi</string>
+  <string name="HIPS_Perm_Xiaomi_Account">Conta Mi</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Aceda a sua Conta Mi</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder a sua Conta Mi</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Permitir uma vez (%d)</string>

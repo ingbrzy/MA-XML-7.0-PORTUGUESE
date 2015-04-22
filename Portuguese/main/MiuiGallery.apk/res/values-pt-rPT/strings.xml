@@ -16,7 +16,7 @@
      <string name="add_to_cloud_image_limit_exceeded_message">Limite de imagens excedido</string>
      <string name="add_to_cloud_local_space_full_message">Armazenamento está cheio ou indisponível</string>
      <string name="add_to_cloud_reasons" />
-     <string name="add_to_cloud_space_full_message">Álbum na núvem cheio</string>
+     <string name="add_to_cloud_space_full_message">Álbum na nuvem cheio</string>
      <string name="add_to_cloud_successfully_message">Adicionado ao álbum na nuvem</string>
      <string name="add_to_cloud_type_not_support_message">Este tipo de ficheiro não é suportado</string>
      <string name="add_to_cloud_unfinished_message_with_count">%1$s ficheiros não são adicionados à nuvem Mi</string>
@@ -46,7 +46,7 @@
      <string name="alert_init_merged_message">As fotografias do dispositivo e as fotografias que armazenou na nuvem MI serão apresentados em conjunto.</string>
      <string name="alert_init_merged_title">Todas as suas fotografias. Finalmente juntas.</string>
      <string name="alert_message_open_sync">Primeiro tem que activar a sincronização.</string>
-     <string name="alert_secret_album_message">Para ocultar albuns, deslize na parte inferior dos albuns na Núvem Mi.</string>
+     <string name="alert_secret_album_message">Para ocultar albuns, deslize na parte inferior dos albuns na Nuvem Mi.</string>
      <string name="alert_secret_album_set_pattern">Defina padrão de desbloqueio</string>
      <string name="alert_secret_album_title">Adicionado ao album secreto</string>
      <string name="already_apply_album">Abrir %1$s?</string>
@@ -484,14 +484,14 @@
      <string name="cloud_album_more_settings">Sincronizar com a Nuvem Mi</string>
      <string name="cloud_album_set_create">Novo</string>
      <string name="cloud_album_set_scan_qr_code">Código QR</string>
-     <string name="cloud_albums">Imagens na Núvem</string>
+     <string name="cloud_albums">Imagens na Nuvem</string>
      <string name="cloud_be_shared_guide_message">Pode ver fotografiass dos seus amigos, e adicionar fotografias ao álbum.</string>
      <string name="cloud_be_shared_guide_title">Este álbum vem de um amigo</string>
      <string name="cloud_camera_display_name">Fotografias da câmara</string>
      <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
      <string name="cloud_gallery_recyclebin_full">O lixo está cheio. Esvazie o lixo em www.mi.com/micloud.</string>
      <string name="cloud_gallery_space_full">Sem espaço sufeciente na nuvem</string>
-     <string name="cloud_media_set_set">Albuns na núvem</string>
+     <string name="cloud_media_set_set">Albuns na Nuvem</string>
      <string name="cloud_owner_album_share_guide">"Partilhar este álbum
 com os amigos"</string>
      <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
@@ -512,7 +512,7 @@ com os amigos"</string>
      <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Eliminar %s items da nuvem?&lt;/Data&gt;" "</string>
      <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Eliminar %s items do dispositivo e da nuvem?&lt;/Data&gt;" "</string>
      <string name="confirm_delete_has_local_image_video">Eliminar %s ficheiros?</string>
-     <string name="confirm_delete_init_message">As imagem serão eliminadas do dispositivo e da Núvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
+     <string name="confirm_delete_init_message">As imagem serão eliminadas do dispositivo e da Nuvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
      <string name="confirm_delete_init_title">Eliminar imagens</string>
      <string name="confirm_delete_system_album">%s é um álbum do sistema.</string>
      <string name="confirm_download">Tem que transferir %s.</string>
