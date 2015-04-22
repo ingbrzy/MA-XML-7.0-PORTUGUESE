@@ -491,11 +491,11 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="pref_images_preload_dialogtitle">Recarregar imagens</string>
      <string name="pref_images_preload_summary">: Recarregar imagens quando o servidor permitir</string>
      <string name="pref_images_preload_title">Recarregar images</string>
-     <string name="pref_images_preload_value_always">2</string>
      <string name="pref_images_preload_value_always_summary">Permitir sempre ao navegador recarregar imagens</string>
-     <string name="pref_images_preload_value_never">0</string>
+     
+     
      <string name="pref_images_preload_value_never_summary">Nunca recarregar imagens</string>
-     <string name="pref_images_preload_value_wifi_only">1</string>
+     
      <string name="pref_images_preload_value_wifi_only_summary">Permitir ao navegador recarregar imagens quando ligado ao Wi-Fi</string>
      <string name="pref_inverted">Processamento invertido</string>
      <string name="pref_inverted_category">Processamento de ecrã invertido</string>
@@ -548,16 +548,16 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="pref_set_homepage_to">Definir como</string>
      <string name="pref_setting_title">Definições de página</string>
      <string name="pref_ua_mione_entry">MI3W</string>
-     <string name="pref_ua_mione_value">4</string>
+     
      <string name="pref_ua_string">Sequência do Agente de Utilizador</string>
      <string name="pref_ua_title">Gestão do Agente de Utilizador</string>
      <string name="pref_version_summary">Versão %s</string>
      <string name="pref_video_preload_dialogtitle">Pré-carregar vídeo</string>
      <string name="pref_video_preload_summary">: Recarregar vídeos quando o servidor permitir</string>
      <string name="pref_video_preload_title">Pré-carregar vídeos</string>
-     <string name="pref_video_preload_value_always">SEMPRE</string>
-     <string name="pref_video_preload_value_never">NUNCA</string>
-     <string name="pref_video_preload_value_wifi_only">Somente_WIFI</string>
+     
+     
+     
      <string name="pref_volume_key_action">Botões do volume: Página anterior/seguinte</string>
      <string name="pref_volume_key_enabled">Botão do volume</string>
      <string name="pref_volume_key_operation">Função botão de volume</string>
@@ -775,14 +775,9 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="webapp_add_to_desktop">Adicionar ao ambiente de trabalho?</string>
      <string name="webapp_add_to_favorite_toast">Adicionado aos favoritos</string>
      <string name="webapp_addtodeskpop_append">Adicionado</string>
-     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
+     
      <string name="webapp_app_name">Aplicações na loja da web</string>
-     <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
+     
      <string name="webapp_bottom_bar_addtodesk">Adicionar ao ecrã principal</string>
      <string name="webapp_dialog_title">Adicionar a aplicação ao ambiente de trabalho</string>
      <string name="webapp_menu_addtodesk">Adicionar ao ambiente de trabalho</string>
@@ -792,7 +787,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="webapp_menu_nightmode">Modo nocturno</string>
      <string name="webapp_menu_settings">Definições</string>
      <string name="webapp_menu_share">Partilhar</string>
-     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
+     
      <string name="webapp_settings_title">Definições</string>
      <string name="webapp_splashview_loading">A carregar…</string>
      <string name="webapp_webapp_favortes_title">Favoritos</string>
