@@ -19,7 +19,7 @@
      <string name="abc_searchview_description_voice">Pesquisa por voz</string>
      <string name="abc_shareactionprovider_share_with">Partilhar com</string>
      <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
-     <string name="account_cache_provider">Limite de memoria do fornecedor</string>
+    
      <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
      <string name="account_duplicate_dlg_title">Conta duplicada</string>
      <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -310,7 +310,7 @@
      <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
      <string name="colon">:</string>
      <string name="compose">Escrever</string>
-     <string name="compose_help_context">compor</string>
+     
      <string name="compose_send">Enviar</string>
      <string name="compose_sent">Enviado com sucesso</string>
      <string name="confirm">Confirmar</string>
@@ -344,7 +344,7 @@
      <string name="contextmenu_send_mail">Enviar email</string>
      <string name="contextmenu_sharelink">Partilhar link</string>
      <string name="contextmenu_sms_dot">SMS…</string>
-     <string name="conversation_content_provider">Conteudo da conversa do provedor</string>
+     
      <string name="conversation_folder_moved">Movida para %1$s</string>
      <string name="conversation_item_mark_read">Lida</string>
      <string name="conversation_item_mark_unread">Não lida</string>
@@ -418,12 +418,12 @@
      <string name="drawer_open">Abrir gaveta de navegação</string>
      <string name="eas_hotmail_email">hotmail.com</string>
      <string name="eas_outlook_email">outlook.com</string>
-     <string name="eas_template">domain\\user</string>
+     
      <string name="edit_quick_response_dialog">Resposta rápida</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
      <string name="email_package_name">com.android.email</string>
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
+     
      <string name="empty_account_tip">Não foi possível encontrar a conta</string>
      <string name="empty_email_tip">É impossível enviar um email em branco</string>
      <string name="empty_spam">Esvaziar o spam</string>
@@ -492,7 +492,7 @@
      <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
      <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
      <string name="forward_download_failed_title">Anexo não encaminhado</string>
-     <string name="forward_subject_label">Fwd:</string>
+     
      <string name="from">De</string>
      <string name="from_heading">"De: "</string>
      <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -653,7 +653,7 @@ CC: %4$s
      <string name="mibill_privacy_policy_description">Mi Wallet vai analisar todas as declarações de e-mail recebidas na aplicação de Correio e gerir todas as contas de cartão de crédito para si. Este serviço é padrão para fora da caixa de correio da empresa.</string>
      <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Cartão de Crédito Contrato de Utilizador da Conta Serviço&lt;/a&gt;</string>
      <string name="mibill_privacy_policy_title">Mi Wallet analisa declarações de e-mail</string>
-     <string name="mock_content_provider">Provedor de Conteúdo Mock</string>
+     
      <string name="more_atts_remaining">%1$d restantes</string>
      <string name="more_atts_total">Total de %1$d anexos</string>
      <string name="more_context">Mais</string>
@@ -855,14 +855,14 @@ CC: %4$s
      <string name="reply">Responder</string>
      <string name="reply_all">Responder a todos</string>
      <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
-     <string name="reply_subject_label">Re:</string>
+     
      <string name="replyto_heading">"Responder a: "</string>
      <string name="report">Informar</string>
      <string name="report_phishing">Denunciar phishing</string>
-     <string name="report_rendering_improvement">Parece bem</string>
-     <string name="report_rendering_improvement_desc">Esta mensagem parece boa.</string>
-     <string name="report_rendering_problem">Parece mal</string>
-     <string name="report_rendering_problem_desc">Esta mensagem parece mal.</string>
+     
+     
+     
+     
      <string name="report_spam">Denunciar spam</string>
      <string name="request_entity_large">O ficheiro é muito grande</string>
      <string name="require_manual_sync_message">A sincronização desta conta é desactivada em roaming.</string>
@@ -1017,11 +1017,11 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
      <string name="wait_for_sync_body_txt_array_5">.</string>
      <string name="wait_for_sync_note">Deslize a partir do topo para obter a notificação. Pressione para finalizar a definição de segurança.</string>
      <string name="wait_for_sync_title">A aguardar sincronização</string>
-     <string name="wait_help_context">Aguardar</string>
+     
      <string name="widget_all_mail">Todos os Emails</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Outros</string>
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
+     
      <string name="wrong_password">A palavra passe que inseriu está errada</string>
      <string name="yes">Sim</string>
      <string name="you_are_in_mobile_network">Está a usar a rede móvel agora</string>
