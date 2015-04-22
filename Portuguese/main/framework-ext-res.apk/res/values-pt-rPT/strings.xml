@@ -2,13 +2,13 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="miui">miui</string>
-     <string name="screen_button_disabled_message">Botões de navegação desactivado. Para reactivá-los, toque botão Home e Power simultaneamente.</string>
-     <string name="screen_button_enabled_message">Botões de navegação ativados.</string>
-     <string name="screen_rotation_freeze_message">Auto-rotação desactivada.</string>
-     <string name="status_bar_toggle_ac">Bloqueio de ecrã</string>
+     <string name="screen_button_disabled_message">Botões de navegação desactivado. Para voltar a activar, pressione o botão Inicio e o botão Ligar/Desl. em simultâneo..</string>
+     <string name="screen_button_enabled_message">Botões de navegação activados.</string>
+     <string name="screen_rotation_freeze_message">Rotação automática desligada.</string>
+     <string name="status_bar_toggle_ac">Bloq. de ecrã</string>
      <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
      <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-     <string name="status_bar_toggle_auto_brightness">Brilho</string>
+     <string name="status_bar_toggle_auto_brightness">Brilho Autom.</string>
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
      <string name="status_bar_toggle_brightness">Brilho</string>
@@ -17,7 +17,7 @@
      <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
      <string name="status_bar_toggle_divider">Mais</string>
      <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
-     <string name="status_bar_toggle_drive_mode">Carro</string>
+     <string name="status_bar_toggle_drive_mode">Automóvel</string>
      <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
      <string name="status_bar_toggle_flight_mode">Modo de Avião</string>
      <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.Settings$WirelessSettingsActivity</string>
@@ -30,18 +30,18 @@
      <string name="status_bar_toggle_network_type_action">com.android.phone/.PreferredNetworkTypeListPreference</string>
      <string name="status_bar_toggle_paper_mode">Ler mais</string>
      <string name="status_bar_toggle_paper_mode_action">com.android.settings/.display.ScreenPaperModeActivity</string>
-     <string name="status_bar_toggle_power_mode">Performance</string>
+     <string name="status_bar_toggle_power_mode">Desempenho</string>
      <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
      <string name="status_bar_toggle_privacy_mode">Convidado</string>
      <string name="status_bar_toggle_privacy_mode_action">com.android.settings/.Settings$AccessControlActivity</string>
      <string name="status_bar_toggle_quiet_mode">DND</string>
      <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
      <string name="status_bar_toggle_reboot">Reiniciar</string>
-     <string name="status_bar_toggle_rotate">Rodar desligado</string>
+     <string name="status_bar_toggle_rotate">Rotaçãp</string>
      <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
      <string name="status_bar_toggle_screen_button">Desactivar</string>
-     <string name="status_bar_toggle_screenshot">Screenshot</string>
-     <string name="status_bar_toggle_shutdown">Energia</string>
+     <string name="status_bar_toggle_screenshot">Capt. ecrã</string>
+     <string name="status_bar_toggle_shutdown">Desligar</string>
      <string name="status_bar_toggle_sync">Sincronizar</string>
      <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
      <string name="status_bar_toggle_sync_auto">Sincronizar</string>
