@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s fotografias da nuvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s fotografia da nuvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s fotografias da nuvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s fotografia da nuvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Eliminar %s fotografias?</item>
         <item quantity="one">Eliminar %s fotografia?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s vídeos da nuvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s vídeos da nuvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s vídeos da nuvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s vídeos da nuvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Eliminar %s vídeos?</item>
         <item quantity="one">Eliminar %s vídeo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s fotografias do dispositivo e na nuvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s fotografia do dispositivo e da nuvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s fotografias do dispositivo e na núvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s fotografia do dispositivo e da núvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &amp;lt;Data> Eliminar %s vídeos do dispositivo e da nuvem?&amp;lt;/Data> "</item>
-        <item quantity="one">" &amp;lt;Data> Eliminar %s vídeo do dispositivo e da nuvem?&amp;lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s vídeos do dispositivo e da núvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s vídeo do dispositivo e da núvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
