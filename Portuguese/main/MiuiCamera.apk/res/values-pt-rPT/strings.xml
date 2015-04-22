@@ -18,7 +18,7 @@
      <string name="burst_shoot_exit_button_text">Fechar Fotografar Instantâneo</string>
      <string name="camera_disabled">A câmara foi desactivada por causa das políticas de segurança.</string>
      <string name="camera_error_title">Erro da Câmara</string>
-     <string name="camera_face_beauty_simple_mode_open">i:2</string>
+     
      <string name="camera_label">Câmara</string>
      <string name="camera_settings_label">Câmara</string>
      <string name="cannot_connect_camera_once">Não é possível ligar a câmara, por favor reinicie a câmara</string>
@@ -26,7 +26,6 @@
      <string name="cannot_move_warning_message">A tirar fotografia, não mova o dispositivo</string>
      <string name="confirm_location_alert">Lembrar a localização GPS das fotos</string>
      <string name="confirm_location_message">"Adicionar a localização GPS de onde tirou as fotos.
-
 As aplicações podem aceder a esta informação se activar esta opção."</string>
      <string name="confirm_location_title">Informação de localização do armazenamento</string>
      <string name="confirm_restore_message">As definições da câmara serão restauradas para as definições de fábrica?</string>
@@ -78,7 +77,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
      <string name="pref_burst_shoot_title">Fotografar Instantâneo</string>
      <string name="pref_camcorder_settings">Vídeo</string>
      <string name="pref_camcorder_settings_category">Definições da Câmara</string>
-     <string name="pref_camera_antibanding_60">60hz</string>
      <string name="pref_camera_antibanding_entry_0">Desactivado</string>
      <string name="pref_camera_antibanding_entry_1">50 Hz</string>
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
