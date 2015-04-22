@@ -52,6 +52,6 @@
      <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
      <string name="status_bar_toggle_wifi">REDE</string>
      <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
-     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+     <string name="status_bar_toggle_wifi_ap">P.Acesso</string>
      <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
 </resources>
