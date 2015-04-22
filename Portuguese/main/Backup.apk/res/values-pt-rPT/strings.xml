@@ -25,7 +25,7 @@
      <string name="backup_data">Escolha os ficheiros a copiar</string>
      <string name="backup_delete">Eliminar:</string>
      <string name="backup_empty">Sem cópias</string>
-     <string name="backup_empty_info">Faça cópia de segurança dos seus dados, Definições, e aplicações</string>
+     <string name="backup_empty_info">Faça cópia de segurança dos seus dados, definições e aplicações</string>
      <string name="backup_error">Não é possível fazer cópia</string>
      <string name="backup_failed">Não é possivel fazer a cópia de segurança</string>
      <string name="backup_file_error">Não é possível fazer cópias</string>
@@ -68,7 +68,7 @@
      <string name="current_account">Olá, %s</string>
      <string name="current_sim">Cartão SIM actual</string>
      <string name="data_no_enough_space">Não há espaço suficiente</string>
-     <string name="data_no_enough_space_message">Não há espaço suficiente na memória interna do seu telefone</string>
+     <string name="data_no_enough_space_message">Não há espaço suficiente na memória interna do seu telemóvel</string>
      <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
      <string name="delete">Eliminar</string>
      <string name="delete_backup_process">A eliminar…</string>
@@ -88,8 +88,8 @@
      <string name="exchange_account">Conta Exchange</string>
      <string name="fail">Falhou</string>
      <string name="findlost_contact">Restaurar contactos</string>
-     <string name="findlost_contact_online">Restaurar contactos da Núvem Mi</string>
-     <string name="guarded_mode_dialog_message">Esta função não é permitida no Modo de convidado.</string>
+     <string name="findlost_contact_online">Restaurar contactos da Nuvem Mi</string>
+     <string name="guarded_mode_dialog_message">Esta função não é permitida no modo de convidado.</string>
      <string name="guarded_mode_dialog_title">Está em modo de convidado</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação Mi Talk e inicie a sessão.
 \u0009http://www.miliao.com
@@ -106,12 +106,12 @@
      <string name="local_select_sysdata">Sistema</string>
      <string name="local_select_userapp">Aplicações</string>
      <string name="menu_patch_delete">Eliminar cópias</string>
-     <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na núvem Mi, Loja de temas MIUI, e outros serviços Mi, em qualquer lugar.</string>
+     <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, loja de temas MIUI e outros serviços Mi, em qualquer lugar.</string>
      <string name="miliao_account_login">Inicio de sessão no MiTalk</string>
      <string name="mms_title">Mensagens multimédia</string>
      <string name="multi_select_title">Seleccionado %1$s</string>
      <string name="never">Nunca</string>
-     <string name="no_encrypt_password">Sem palavra passe</string>
+     <string name="no_encrypt_password">Sem palavra-passe</string>
      <string name="no_network">Não é possível ligar à rede</string>
      <string name="note_title">Notas</string>
      <string name="nothing_searched">Sem resultados.</string>
@@ -174,7 +174,7 @@
      <string name="task_failed">Falha</string>
      <string name="task_failed_all_local">Não é possível realizar a cópia de de segurança</string>
      <string name="task_failed_local">A tarefa %s não foi concluída</string>
-     <string name="task_finished">A Cópia de segurança foi concluída</string>
+     <string name="task_finished">A cópia de segurança foi concluída</string>
      <string name="task_local_backup_cancel_dialog">A cópia ainda não terminou. Deseja cancelar?</string>
      <string name="task_pending">A aguardar…</string>
      <string name="task_post_running">A processar…</string>
