@@ -664,14 +664,12 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhum</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s deseja activar a verificação em rede, mesmo quando está desligado da Wi-Fi.
 
@@ -1537,7 +1535,6 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Activado</string>
     <string name="battery_stats_phone_signal_label">Sinal de rede móvel</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">Tempo de activação do dispositivo</string>
     <string name="wifi_on_time">Duração em Wi-Fi</string>
     <string name="bluetooth_on_time">Duração em bluetooth</string>
