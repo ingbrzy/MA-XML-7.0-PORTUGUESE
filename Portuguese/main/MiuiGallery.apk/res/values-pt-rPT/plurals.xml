@@ -17,12 +17,12 @@
         <item quantity="one">Eliminar %s vídeo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &lt;Data> Eliminar %s fotografias do dispositivo e na núvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s fotografia do dispositivo e da núvem?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s fotografias do dispositivo e na nuvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s fotografia do dispositivo e da nuvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &lt;Data> Eliminar %s vídeos do dispositivo e da núvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s vídeo do dispositivo e da núvem?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s vídeos do dispositivo e da nuvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s vídeo do dispositivo e da nuvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
@@ -51,8 +51,8 @@
         <item quantity="one">Não tem permissão para eliminar este %d ficheiro</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Pode selecionar %d ficheiros</item>
-        <item quantity="one">Pode selecionar %d ficheiro</item>
+        <item quantity="other">Pode seleccionar %d ficheiros</item>
+        <item quantity="one">Pode seleccionar %d ficheiro</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d imagens</item>

@@ -25,28 +25,29 @@
      <string name="accessibility_feature_state_on">Ligado</string>
      <string name="accessibility_global_gesture_preference_description">"Quando este recurso está activado, pode activar rapidamente recursos de acessibilidade em duas etapas:
 
-Step 1: Pressione e mantenha o botão de energia até ouvir um som ou sentir uma vibração.
+Passo 1: Pressione e mantenha o botão de energia até ouvir um som ou sentir uma vibração.
 
-Step 2: Pressione sem soltar dois dedos até ouvir a confirmação de áudio.
+Passo 2: Pressione sem soltar dois dedos até ouvir a confirmação de áudio.
 
 Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporáriamente o acesso até que o dispositivo seja desbloqueado."</string>
      <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
      <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
      <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
-     <string name="accessibility_long_press_timeout_preference_title">Pressione e ampliação; retardo do toque</string>
+     <string name="accessibility_long_press_timeout_preference_title">Pressione e ampliação retardo do toque</string>
      <string name="accessibility_menu_item_settings">Definições</string>
      <string name="accessibility_no_services_installed">Sem serviços instalados</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Botão de energia para desligar uma chamada</string>
      <string name="accessibility_screen_magnification_enable">Ampliação de gestos</string>
-     <string name="accessibility_screen_magnification_summary">"Quando este recurso está activado, pode aumentar e deminuir zoom por triplo toque no ecrã.
+     <string name="accessibility_screen_magnification_summary">"Quando este recurso está activado, pode aumentar e diminuir zoom por triplo toque no ecrã.
 
 Quando ampliado, pode:
-"&lt;ul&gt;&lt;li&gt;"Mover: Arraste dois ou mais dedos pelo ecr&amp;#227;.
-"&lt;li&gt;Ajuste o n&amp;#237;vel do zoom: Pressione dois ou mais dedos juntos ou afastados.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
-Tamb&amp;#233;m pode estender tempor&amp;#225;riamente est&amp;#225; sob o dedo tr&amp;#234;s vezes ao pressionar e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecr&amp;#227;. Levante o dedo para voltar ao estado anterior.
+"Mover: Arraste dois ou mais dedos pelo ecrã.
+"Ajuste o nível do zoom: Pressione dois ou mais dedos juntos ou afastados."
 
-Note: Pressione tr&amp;#234;s vezes para ampliar funciona em todos os lugares&amp;#160;excepto na barra de&amp;#160;navega&amp;#231;&amp;#227;o e no teclado."</string>
+Também pode estender temporáriamente o que está sob o dedo três vezes ao pressionar e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+
+Note: Pressione três vezes para ampliar funciona em todos os lugares, excepto na barra de navegação e no teclado."</string>
      <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
      <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
      <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
@@ -60,7 +61,7 @@ Note: Pressione tr&amp;#234;s vezes para ampliar funciona em todos os lugares&am
      <string name="accessibility_system_title">Sistema</string>
      <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliação do ecrâ na transição de aplicações</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do ecrâ</string>
+     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do ecrã</string>
      <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação do ecrã</string>
      <string name="accessibility_toggle_speak_password_preference_title">Falar palavra-passe</string>
      <string name="account_add">Adicionar conta</string>
@@ -740,7 +741,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="date_time_set_time">Definir a hora</string>
      <string name="date_time_set_timezone">Seleccionar o fuso horário</string>
      <string name="date_time_settings">Data e hora</string>
-     <string name="debug_app">Selecione a aplicação em depuração</string>
+     <string name="debug_app">Seleccione a aplicação em depuração</string>
      <string name="debug_app_not_set">Nenhuma aplicação em depuração activada</string>
      <string name="debug_app_set">Depuração da aplicação: %1$s</string>
      <string name="debug_applications_category">Aplicações</string>
@@ -965,7 +966,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus dese
      <string name="filter_apps_onsdcard">Armazenamento USB</string>
      <string name="filter_apps_running">Em execução</string>
      <string name="filter_apps_third_party">Transferido</string>
-     <string name="filter_dlg_title">Selecionar opções do filtro</string>
+     <string name="filter_dlg_title">Seleccionar opções do filtro</string>
      <string name="finish_application">Forçar a paragem</string>
      <string name="finish_button_label">Terminar</string>
      <string name="firmware_version">Versão do Android:</string>
@@ -1215,7 +1216,7 @@ Insatisfeito? Tente novamente"</string>
      <string name="location_agps_pref_reset_type_title">Restaurar o tipo preferido</string>
      <string name="location_agps_pref_si_title">Modo preferido</string>
      <string name="location_agps_register_network_type">Acesso ao tipo de rede</string>
-     <string name="location_agps_register_network_type_dialog_title">Selecione a rede</string>
+     <string name="location_agps_register_network_type_dialog_title">Seleccione a rede</string>
      <string name="location_agps_register_network_type_summary">Escolha a rede para usar AGPS</string>
      <string name="location_agps_reset_type">Restaurar tipos</string>
      <string name="location_agps_reset_type_choose_dialog_title">Tipos de restauro</string>
@@ -1383,19 +1384,19 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;Armaz.
      <string name="medium_font">Média</string>
      <string name="memory">RAM</string>
      <string name="memory_apps_usage">Aplicações (dados das aplicações; conteúdo de média)</string>
-     <string name="memory_available">Disponivel</string>
+     <string name="memory_available">Disponível</string>
      <string name="memory_available_read_only">Disponível (apenas leitura)</string>
      <string name="memory_calculating_size">A calcular…</string>
      <string name="memory_clear_cache_message">Isto elimina os dados em cache de todas as aplicações.</string>
      <string name="memory_clear_cache_title">Eliminar dados em cache?</string>
-     <string name="memory_dcim_usage">Imagens, vídeos</string>
+     <string name="memory_dcim_usage">Imagens, Vídeos</string>
      <string name="memory_downloads_usage">Transferências</string>
      <string name="memory_media_cache_usage">Dados em cache</string>
-     <string name="memory_media_misc_usage">Vários.</string>
+     <string name="memory_media_misc_usage">Vários</string>
      <string name="memory_media_usage">Multimédia</string>
-     <string name="memory_music_usage">Áudio (música, Toques, etc.)</string>
+     <string name="memory_music_usage">Áudio (música, toques, etc.)</string>
      <string name="memory_size">Espaço total</string>
-     <string name="memory_title">Disponível %1$s\u0009\u0009Total: %2$s</string>
+     <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
      <string name="menu_cancel">Rejeitar</string>
      <string name="menu_delete">Eliminar APN</string>
      <string name="menu_duration_12h">12 horas</string>
@@ -1417,7 +1418,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;Armaz.
      <string name="menu_stats_refresh">Actualizar</string>
      <string name="menu_stats_total">Totais de utilização</string>
      <string name="menu_stats_unplugged">%1$s desde que foi desligado</string>
-     <string name="menu_use_uss">Utilizar Uss</string>
+     <string name="menu_use_uss">Utilizar USS</string>
      <string name="misc_files">Vários ficheiros</string>
      <string name="misc_files_selected_count">seleccionados %1$d de %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
@@ -1512,7 +1513,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
      <string name="music_hifi_summary">Reduzir o ruído e distorção, aumentando a qualidade de áudio</string>
      <string name="music_hifi_title">Audio Hi-Fi</string>
      <string name="music_hifi_volume">Volume Hi-Fi</string>
-     <string name="music_mi_effect_summary">Utilizar o melhoramento de som com os altifalante do telefone</string>
+     <string name="music_mi_effect_summary">Utilizar o melhoramento de som com o altifalante do telefone</string>
      <string name="music_mi_effect_title">Melhoramento de som Mi</string>
      <string name="music_title_dolby_control">Dolby digital plus</string>
      <string name="musicfx_title">Efeitos da música</string>
@@ -1537,7 +1538,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
      <string name="nfc_payment_set_default">Utilizar %1$s sempre quando pressionar pagar?</string>
      <string name="nfc_payment_set_default_instead_of">Utilizar sempre %1$s em vez de %2$s quando pressiona para pagar?</string>
      <string name="nfc_payment_set_default_label">Definir preferências?</string>
-     <string name="nfc_payment_settings_title">Pressione e; pague</string>
+     <string name="nfc_payment_settings_title">Pressione e pague</string>
      <string name="nfc_quick_toggle_summary">Permitir a troca de dados quando o telefone toca noutro dispositivo</string>
      <string name="nfc_quick_toggle_title">NFC</string>
      <string name="nfc_se_route_title">Posição do elemento de segurança</string>
@@ -1669,7 +1670,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
      <string name="power_usage_summary_title">Bateria</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Luz dos botões</string>
-     <string name="pref_button_light_summary">Menu, Iniciar e indicator de voltar</string>
+     <string name="pref_button_light_summary">Menu, Iniciar e indicador de voltar</string>
      <string name="pref_operational_key">Chave Operacional</string>
      <string name="pref_volume_wake_summary">Ao pressionar os botões de volume acorda o dispositivo</string>
      <string name="pref_volume_wake_title">Botões de volume</string>
@@ -1938,8 +1939,8 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
      <string name="screen_paper_mode_apps_title">Utilizar o Modo de leitura para estas aplicações</string>
      <string name="screen_paper_mode_global_summary">Use o modo de leitura para todas as aplicações</string>
      <string name="screen_paper_mode_global_title">Todas as aplicações</string>
-     <string name="screen_paper_mode_local_summary">Use o modo de leitura para aplicações selecionadas</string>
-     <string name="screen_paper_mode_local_title">Aplicações selecionadas</string>
+     <string name="screen_paper_mode_local_summary">Use o modo de leitura para aplicações seleccionadas</string>
+     <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
      <string name="screen_paper_mode_off_apps_title">Não utilizar o Modo de leitura para as seguintes aplicações</string>
      <string name="screen_paper_mode_range_title">Definições</string>
      <string name="screen_paper_mode_set_apps_title">Aplicações em modo de leitura</string>
@@ -2051,9 +2052,9 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
      <string name="select_all">Seleccionar todos</string>
      <string name="select_application">Seleccione uma aplicação</string>
      <string name="select_device_admin_msg">Administradores do dispositivo</string>
-     <string name="select_runtime_dialog_title">Selecionar execução</string>
-     <string name="select_runtime_title">Selecionar execução</string>
-     <string name="select_runtime_warning_message">Selecionar o tempo de execução de %1$s para %2$s?</string>
+     <string name="select_runtime_dialog_title">Seleccionar execução</string>
+     <string name="select_runtime_title">Seleccionar execução</string>
+     <string name="select_runtime_warning_message">Seleccionar o tempo de execução de %1$s para %2$s?</string>
      <string name="select_ssid_type_title">Seleccione SSID</string>
      <string name="selinux_status">Estado SELinux</string>
      <string name="selinux_status_disabled">Desactivado</string>
@@ -2196,7 +2197,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
      <string name="status_bar_settings_custom_wifi_name">Editar o nome do Wi-Fi</string>
      <string name="status_bar_settings_enable_notification">Permitir notificações</string>
      <string name="status_bar_settings_expandable_under_keyguard">Activar o bloqueio do ecrã</string>
-     <string name="status_bar_settings_long_click_sort">Pressione e; segure para ordenar</string>
+     <string name="status_bar_settings_long_click_sort">Pressione e segure para ordenar</string>
      <string name="status_bar_settings_no_carrier">Nenhum</string>
      <string name="status_bar_settings_notification_bar">Notificação</string>
      <string name="status_bar_settings_notification_led">Notification light</string>
@@ -2217,7 +2218,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
      <string name="status_bar_settings_toggle_layout_style_applying">A alterar o estilo…</string>
      <string name="status_bar_settings_toggle_layout_style_compact">Barra</string>
      <string name="status_bar_settings_toggle_layout_style_single_page">Página</string>
-     <string name="status_bar_settings_toggle_position">Posição dos Atalhos</string>
+     <string name="status_bar_settings_toggle_position">Posição dos atalhos</string>
      <string name="status_bar_style_settings">Notificações</string>
      <string name="status_bt_address">Endereço Bluetooth:</string>
      <string name="status_data_state">Estado da rede móvel:</string>
@@ -2307,10 +2308,10 @@ Um servi&amp;#231;o do Google para sincronizar dados que permitem o acesso aos s
      <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
      <string name="tethering_help_button_text">Ajuda</string>
      <string name="time_picker_title">Hora</string>
-     <string name="time_zone_auto_stub">Selecione o fuzo horário</string>
+     <string name="time_zone_auto_stub">Seleccione o fuso horário</string>
      <string name="timezone_settings">Fuso horário</string>
      <string name="title_color_calibration">Correcção de cores</string>
-     <string name="title_dolby_control">Som Dobly digital plus</string>
+     <string name="title_dolby_control">Som Dolby Digital Plus</string>
      <string name="title_font">Letra</string>
      <string name="title_font_current">Escolha a letra do sistema</string>
      <string name="title_font_size">Tamanho da letra</string>
@@ -2463,7 +2464,7 @@ Um servi&amp;#231;o do Google para sincronizar dados que permitem o acesso aos s
      <string name="usb_ptp_summary">Permite transferir fotografias através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
      <string name="usb_ptp_title">Câmara (PTP)</string>
      <string name="usb_tethering_active_subtext">Emparelhado</string>
-     <string name="usb_tethering_available_subtext">USB ligado, selecione para emparelhar</string>
+     <string name="usb_tethering_available_subtext">USB ligado, seleccione para emparelhar</string>
      <string name="usb_tethering_button_text">Emparelhar USB</string>
      <string name="usb_tethering_errored_subtext">Erro de emparelhamento USB</string>
      <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em utilização</string>

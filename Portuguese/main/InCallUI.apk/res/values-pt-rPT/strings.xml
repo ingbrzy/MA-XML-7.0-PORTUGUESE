@@ -256,7 +256,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="invalidPin2">Digite um código PIN2 que é de 4 a 8 números.</string>
      <string name="invalidPuk2">Digite um código PUK2 com 8 números.</string>
      <string name="ivr_menu_dialing_msg">Reemcaminhamento…</string>
-     <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço selecionado…[Automatic error correction is enabled]</string>
+     <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço seleccionado…[Correcção de erros automática está activado]</string>
      <string name="ivr_menu_list_sub_menu_count_format">Pressione %s</string>
      <string name="ivr_menu_list_title">Menu voz</string>
      <string name="jeejen_answer_call_text">Atender chamada</string>
@@ -527,7 +527,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="send_button">Enviar</string>
      <string name="send_keepalive">SendKeepAlive</string>
      <string name="send_keepalive_title">Enviar keep-alive</string>
-     <string name="separate_from_conference">Chamda separada</string>
+     <string name="separate_from_conference">Chamada separada</string>
      <string name="set_primary">SetPrimary</string>
      <string name="set_primary_summary">Usado para chamadas de saída</string>
      <string name="set_primary_title">Definir como conta principal</string>
@@ -535,7 +535,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="simContacts_airplaneMode">Para importar os contactos do cartão SIM, primeiro desligue o modo Avião.</string>
      <string name="simContacts_empty">Nenhum contacto no cartão SIM.</string>
      <string name="simContacts_emptyLoading">A leitura do cartão SIM…</string>
-     <string name="simContacts_title">Selecionar contactos para importar</string>
+     <string name="simContacts_title">Seleccionar contactos para importar</string>
      <string name="sim_ndp_dismiss_text">Ignorar</string>
      <string name="sim_ndp_unlock_text">Desbloquear</string>
      <string name="sip_account_list">SIP contas</string>

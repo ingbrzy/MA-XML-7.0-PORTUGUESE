@@ -24,7 +24,7 @@
     <string name="music_hifi_volume">Volume Hi-Fi</string>
     <string name="music_hifi_summary">Reduzir o ruído e distorção, aumentando a qualidade de áudio</string>
     <string name="music_mi_effect_title">Melhoramento de som Mi</string>
-    <string name="music_mi_effect_summary">Utilizar o melhoramento de som com os altifalante do telefone</string>
+    <string name="music_mi_effect_summary">Utilizar o melhoramento de som com o altifalante do telefone</string>
     <string name="music_headphone_settings">Definições do tipo de auricular</string>
     <string name="music_dirac_control">Optimizar a qualidade do audio</string>
     <string name="music_dirac_mode_off">Dirac desligado</string>
@@ -1025,7 +1025,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="tether_settings_title_all">Emparelhar hotspot portátil</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">Emparelhar USB</string>
-    <string name="usb_tethering_available_subtext">USB ligado, selecione para emparelhar</string>
+    <string name="usb_tethering_available_subtext">USB ligado, seleccione para emparelhar</string>
     <string name="usb_tethering_active_subtext">Emparelhado</string>
     <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em utilização</string>
     <string name="usb_tethering_unavailable_subtext">USB não está ligado</string>
@@ -1196,7 +1196,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="reset_app_preferences_button">Restaurar aplicações</string>
     <string name="manage_space_text">Gerir espaço</string>
     <string name="filter">Filtro</string>
-    <string name="filter_dlg_title">Selecionar opções do filtro</string>
+    <string name="filter_dlg_title">Seleccionar opções do filtro</string>
     <string name="filter_apps_all">Todos</string>
     <string name="filter_apps_disabled">Desactivado</string>
     <string name="filter_apps_third_party">Transferido</string>
@@ -1382,9 +1382,9 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="keep_screen_on_summary">O ecrã nunca entrará em inactividade enquanto estiver a carregar</string>
     <string name="bt_hci_snoop_log">Activar registo Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Detectar todos os pacotes Bluetooth HCI</string>
-    <string name="select_runtime_title">Selecionar execução</string>
-    <string name="select_runtime_dialog_title">Selecionar execução</string>
-    <string name="select_runtime_warning_message">Selecionar o tempo de execução de %1$s para %2$s?</string>
+    <string name="select_runtime_title">Seleccionar execução</string>
+    <string name="select_runtime_dialog_title">Seleccionar execução</string>
+    <string name="select_runtime_warning_message">Seleccionar o tempo de execução de %1$s para %2$s?</string>
     <string name="wifi_display_certification">Certificação da visualização de Wi-Fi</string>
     <string name="wifi_display_certification_summary">Mostrar opções para a certificação de vídeo sem Wi-Fi</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
@@ -1777,7 +1777,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="wifi_setup_description_connected">Pressione <b>Seguinte</b>" para continuar a instalação.
 
 Pressione "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Selecione o fuzo horário</string>
+    <string name="time_zone_auto_stub">Seleccione o fuzo horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -1833,7 +1833,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="hdcp_checking_title">Verificação HDCP</string>
     <string name="hdcp_checking_dialog_title">Definir comportamento de verificação HDCP</string>
     <string name="debug_debugging_category">Em depuração</string>
-    <string name="debug_app">Selecione a aplicação em depuração</string>
+    <string name="debug_app">Seleccione a aplicação em depuração</string>
     <string name="debug_app_not_set">Nenhuma aplicação em depuração activada</string>
     <string name="debug_app_set">Depuração da aplicação: %1$s</string>
     <string name="select_application">Seleccione uma aplicação</string>
@@ -2353,7 +2353,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="show_rounded_corners">Mostrar cantos arredondados</string>
     <string name="pref_operational_key">Chave Operacional</string>
     <string name="pref_button_light">Luz dos botões</string>
-    <string name="pref_button_light_summary">Menu, Iniciar e indicator de voltar</string>
+    <string name="pref_button_light_summary">Menu, Iniciar e indicador de voltar</string>
     <string name="button_light_timeout">Definições de luz dos botões</string>
     <string name="sim_change_failed_enable_sim_lock">Activar agora o bloqueio do SIM</string>
     <string name="sim_lock_change_not_supported">Não é possível activar agora o bloqueio SIM</string>
@@ -2993,7 +2993,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="location_agps_pref_network_title">Rede preferida</string>
     <string name="location_agps_register_network_type">Acesso ao tipo de rede</string>
     <string name="location_agps_register_network_type_summary">Escolha a rede para usar AGPS</string>
-    <string name="location_agps_register_network_type_dialog_title">Selecione a rede</string>
+    <string name="location_agps_register_network_type_dialog_title">Seleccione a rede</string>
     <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Irá ter custos adicionais se ultrapassar o plano de dados contratado.</string>
     <string name="supl_not_set">&lt;Não definido></string>
     <string name="location_agps_def_supl_host">221.176.0.55</string>

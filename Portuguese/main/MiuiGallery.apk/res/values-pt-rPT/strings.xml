@@ -482,7 +482,7 @@
     <string name="delete_file">Eliminar %1$d ficheiros?</string>
     <string name="delete_files_and_folders">Eliminar %1$d ficheiros e %2$d Pastas?</string>
     <string name="confirm_delete_init_title">Eliminar imagens</string>
-    <string name="confirm_delete_init_message">As imagem serão eliminadas do dispositivo e da Núvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
+    <string name="confirm_delete_init_message">As imagem serão eliminadas do dispositivo e da Nuvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
     <string name="confirm_delete_has_cloud_local_image_video">" "<Data> Eliminar %s items do dispositivo e da nuvem?</Data>" "</string>
     <string name="confirm_delete_has_cloud_image_video">" "<Data> Eliminar %s items da nuvem?</Data>" "</string>
     <string name="confirm_delete_has_local_image_video">Eliminar %s ficheiros?</string>
@@ -517,7 +517,7 @@
     <string name="appwidget_empty_text">Sem fotografias</string>
     <string name="no_albums_alert">Sem albuns disponiveis</string>
     <string name="local_albums">Imagens Locais</string>
-    <string name="cloud_albums">Imagens na Núvem</string>
+    <string name="cloud_albums">Imagens na Nuvem</string>
     <string name="home_my_captured_items">" fotografias no rolo da câmara"</string>
     <string name="done">Concluído</string>
     <string name="title">Nome do ficheiro</string>
@@ -551,7 +551,7 @@
     <string name="photo_size">Tamanho</string>
     <string name="set_label_all_albums">Todos os albuns</string>
     <string name="set_label_local_albums">Albuns locais</string>
-    <string name="cloud_media_set_set">Albuns na núvem</string>
+    <string name="cloud_media_set_set">Albuns na nuvem</string>
     <string name="set_label_mtp_devices">Dispositivos MTP</string>
     <string name="size_below">%1$s ou em baixo</string>
     <string name="size_above">%1$s ou em cima</string>
@@ -702,7 +702,7 @@
     <string name="move">Mover</string>
     <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
     <string name="add_to_cloud_successfully_message">Adicionado ao álbum na nuvem</string>
-    <string name="add_to_cloud_space_full_message">Álbum na núvem cheio</string>
+    <string name="add_to_cloud_space_full_message">Álbum na nuvem cheio</string>
     <string name="add_to_cloud_local_space_full_message">Armazenamento está cheio ou indisponível</string>
     <string name="add_to_cloud_file_exist_message">A fotografia já existe no álbum de destino</string>
     <string name="add_to_cloud_exceeded_the_size_message">O ficheiro é demasiado grande</string>
@@ -720,7 +720,7 @@
     <string name="add_to_secret_unfinished_message_with_count">%1$s ficheiros não são adicionados ao album secreto</string>
     <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
     <string name="alert_secret_album_title">Adicionado ao album secreto</string>
-    <string name="alert_secret_album_message">Para ocultar albuns, deslize na parte inferior dos albuns na Núvem Mi.</string>
+    <string name="alert_secret_album_message">Para ocultar albuns, deslize na parte inferior dos albuns na Nuvem Mi.</string>
     <string name="alert_secret_album_set_pattern">Defina padrão de desbloqueio</string>
     <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
     <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
@@ -992,7 +992,7 @@ o dispositivo"</string>
     <string name="qzone">QZone</string>
     <string name="no_such_album">Não foi encontrado nenhum álbum</string>
     <string name="auto_upload_guide_title">Sincronizar fotos com a Nuvem Mi</string>
-    <string name="auto_upload_guide_msssage">" "<Data> Enviar automaticamente as fotos das aplicações para a Núvem Mi. Pode desactivar este recurso em &lt;font color=#323232>&lt;b>Definições da galeria>Sincronizar com a Núvem Mi>Enviar automaticamente&lt;/b>&lt;/font>. </Data>" "</string>
+    <string name="auto_upload_guide_msssage">" "<Data> Enviar automaticamente as fotos das aplicações para a Nuvem Mi. Pode desactivar este recurso em &lt;font color=#323232>&lt;b>Definições da galeria>Sincronizar com a Nuvem Mi>Enviar automaticamente&lt;/b>&lt;/font>. </Data>" "</string>
     <string name="not_now">Agora não</string>
     <string name="go_setting">Ver definições</string>
     <string name="face_albumset_use_tip">Utilize a detecção de rostos para organizar as fotos de acordo com as pessoas</string>
