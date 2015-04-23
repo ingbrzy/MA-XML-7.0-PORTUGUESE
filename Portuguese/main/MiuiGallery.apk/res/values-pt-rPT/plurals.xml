@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">" &lt;Data> Eliminar %s vídeos da nuvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s vídeos da nuvem?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s vídeo da nuvem?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Eliminar %s vídeos?</item>
@@ -47,7 +47,7 @@
         <item quantity="one">%d pasta</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Não tem permissão para eliminar estes %d ficheiros.</item>
+        <item quantity="other">Não tem permissão para eliminar estes %d ficheiros</item>
         <item quantity="one">Não tem permissão para eliminar este %d ficheiro</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
