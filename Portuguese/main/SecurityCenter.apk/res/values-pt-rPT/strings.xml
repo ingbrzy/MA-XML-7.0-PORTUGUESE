@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string name="SMS_and_MMS">SMS e MMS</string>
      <string name="Settings_title_anti_spam">Definições do Antispam</string>
@@ -8,7 +7,7 @@
      <string name="Settings_title_network_assistants">Definições do Assistente de Rede</string>
      <string name="Settings_title_power_center">Definições de energia</string>
      <string name="activity_title_ad">Anúncios</string>
-     <string name="activity_title_antispam">Lista de Bloqueio</string>
+     <string name="activity_title_antispam">Lista de bloqueio</string>
      <string name="activity_title_antivirus">Verificação de vírus</string>
      <string name="activity_title_apk">Pacotes</string>
      <string name="activity_title_apps_manager">Aplicações</string>
@@ -219,7 +218,7 @@
      <string name="hints_cleanning_text">A limpar…</string>
      <string name="hints_finish_quick_cleanup">Concluir a limpeza</string>
      <string name="hints_finish_quick_cleanup_title">Concluir a limpeza do lixo %s</string>
-     <string name="hints_finish_quick_scan">Verificação concluida</string>
+     <string name="hints_finish_quick_scan">Verificação concluída</string>
      <string name="hints_garbage_cleanup_result_danger">Perigoso</string>
      <string name="hints_garbage_cleanup_result_risk">Arriscado</string>
      <string name="hints_garbage_cleanup_result_safe">Seguro</string>
@@ -287,7 +286,7 @@
      <string name="item_mms">Filtrar mensagens indesejadas</string>
      <string name="item_title_garbage_size">Tamanho do alarme</string>
      <string name="item_title_garbage_time">Hora do alarme</string>
-     <string name="item_title_process_mode">Esolha a função</string>
+     <string name="item_title_process_mode">Escolha a função</string>
      <string name="item_usb_debug">Depuração USB</string>
      <string name="item_virus">Virus</string>
      <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
@@ -331,7 +330,7 @@
      <string name="menu_item_virus_install_monitor_title">Gestor de instalação</string>
      <string name="menu_item_virus_lib_auto_update_summary">Última actualização: %s</string>
      <string name="menu_item_virus_lib_auto_update_title">Actualizar automaticamente</string>
-     <string name="menu_text_antispam">Lista de Bloqueio</string>
+     <string name="menu_text_antispam">Lista de bloqueio</string>
      <string name="menu_text_antivirus">Verificar vírus</string>
      <string name="menu_text_garbage_cleanup">Limpeza</string>
      <string name="menu_text_license_manager">Permissões</string>
@@ -387,7 +386,7 @@
      <string name="power_cell">Energia da célula em pausa</string>
      <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
      <string name="power_center_auto_shutdown_summary_default">O dispositivo liga e desliga no horário agendado</string>
-     <string name="power_center_battery_full">A Bateria está carregada</string>
+     <string name="power_center_battery_full">A bateria está carregada</string>
      <string name="power_center_charge_time">Carga completa em %1$s</string>
      <string name="power_center_consume_rank">Consumo de energia</string>
      <string name="power_center_consume_time">%1$s restante</string>
@@ -419,7 +418,7 @@
      <string name="power_chooser_standby_title">Maratona</string>
      <string name="power_chooser_title">Perfis da bateria</string>
      <string name="power_chooser_user_define_summary">Adicionar perfil</string>
-     <string name="power_chooser_user_define_title">Adcionar perfil</string>
+     <string name="power_chooser_user_define_title">Adicionar perfil</string>
      <string name="power_consume_other">Outro</string>
      <string name="power_consume_rank_hardware">Hardware</string>
      <string name="power_consume_rank_software">Aplicações</string>
@@ -477,7 +476,7 @@
      <string name="power_mode_choose_summary_change">Algo mudou na configuração</string>
      <string name="power_mode_chooser_button_text">Aplicar</string>
      <string name="power_mode_cpu_state">Uso CPU</string>
-     <string name="power_mode_cpu_state_balance">Equilibrio</string>
+     <string name="power_mode_cpu_state_balance">Equilíbrio</string>
      <string name="power_mode_cpu_state_balance_desc">Aumentar apenas o desempenho do CPU quando for necessário</string>
      <string name="power_mode_cpu_state_performance">Desempenho</string>
      <string name="power_mode_cpu_state_performance_desc">Faça o desempenho uma prioridade sobre a duração da bateria</string>
@@ -487,7 +486,7 @@
      <string name="power_mode_internet">Redes Móveis</string>
      <string name="power_mode_keep_state">Não alterar</string>
      <string name="power_mode_my_mode">O meu perfil</string>
-     <string name="power_mode_my_mode_summary">Guardar as definiçõesas actuais da bateria</string>
+     <string name="power_mode_my_mode_summary">Guardar as definições actuais da bateria</string>
      <string name="power_mode_screen_brightness">Brilho</string>
      <string name="power_mode_screen_brightness_automatic">Automático: %1$d%%</string>
      <string name="power_mode_screen_brightness_manual">Manual: %1$d%%</string>
@@ -549,13 +548,13 @@
      <string name="pref_category_title_lock_screen_memory_clean">Limpar no ecrã de bloqueio</string>
      <string name="pref_category_title_module_settings">Regras das definições</string>
      <string name="pref_category_title_other_clean_settings">Definições adicionais</string>
-     <string name="pref_category_title_reference_settings">Definições relaccionadas</string>
+     <string name="pref_category_title_reference_settings">Definições relacionadas</string>
      <string name="pref_category_title_securitycenter_settings">Definições do Centro de Segurança</string>
      <string name="pref_category_title_virus_lib_auto_update">Definições de vírus</string>
      <string name="pref_content_cleanup_white_list_none">Nenhum</string>
      <string name="pref_summary_auto_clean_and_alert">Definir limpeza automática</string>
      <string name="pref_summary_auto_update_cleanup_db">Actualizado em: %s</string>
-     <string name="pref_summary_cleanup_white_list">Lixo na lista de exepções será ignorado</string>
+     <string name="pref_summary_cleanup_white_list">Lixo na lista de excepções será ignorado</string>
      <string name="pref_summary_expand_cache_group">Expandir ficheiros na lista de cache automaticamente</string>
      <string name="pref_summary_garbage_auto_clean_content">Escolher automaticamente os itens a limpar</string>
      <string name="pref_summary_garbage_cleanup_check_size">Notifique-me quando o lixo atingir um determinado tamanho</string>
