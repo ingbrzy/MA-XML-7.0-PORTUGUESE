@@ -2610,7 +2610,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
     <string name="screen_effect">Contraste e cores</string>
     <string name="screen_optimize">Contraste</string>
-    <string name="screen_paper_mode_title">Modo de leituta</string>
+    <string name="screen_paper_mode_title">Modo de leitura</string>
     <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
     <string name="screen_paper_mode_turn_on">Activar</string>
     <string name="screen_paper_mode_turn_off">Desactivar</string>
@@ -2658,7 +2658,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="private_gallery_need_to_unlock">É necessária uma palavra-passe:</string>
     <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua Conta MI</string>
     <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-    <string name="lockpassword_pin_fixed_length">O PIN tem que ter mais de %d digitos</string>
+    <string name="lockpassword_pin_fixed_length">O PIN tem que ter mais de %d dígitos</string>
     <string name="cancel_alert">Rejeitar as suas alterações?</string>
     <string name="android_beam_witch_label">Android Beam</string>
     <string name="sim_management_title">Gestão do cartão SIM</string>
@@ -2688,10 +2688,10 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="select_ssid_type_title">Seleccione SSID</string>
     <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
     <string name="wifi_priority_settings_label">Definições de prioridade</string>
-    <string name="wifi_priority_type_title">Definir prioridade do ponto de acesso manualmente</string>
-    <string name="wifi_priority_type_summary">Definir prioridade para cada ponto de acesso manualmente</string>
     <string name="wifi_priority_settings_title">Definições de prioridade dos pontos de acesso</string>
-    <string name="wifi_priority_settings_summary">Definina a prioridade de cada ponto de acesso</string>
+    <string name="wifi_priority_settings_summary">Definir prioridade de cada ponto de acesso</string>
+    <string name="wifi_priority_settings_title">Definições de prioridade dos pontos de acesso</string>
+    <string name="wifi_priority_settings_summary">Definir prioridade para cada ponto de acesso</string>
     <string name="wifi_priority_changed" formatted="false">Valor de prioridade antigo = %s | Novo valor = %s</string>
     <string name="wifi_configured_ap_list">Pontos de acesso definidos anteriormente</string>
     <string name="wifi_priority_label">Prioritário</string>
