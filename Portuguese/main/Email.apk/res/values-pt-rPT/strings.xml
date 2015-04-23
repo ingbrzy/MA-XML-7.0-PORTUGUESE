@@ -35,7 +35,7 @@
      <string name="account_options_common_title">Definições comuns</string>
      <string name="account_options_only_title">Transferir cabeçalhos utilizando apenas a rede móvel</string>
      <string name="account_options_sync_title">Sincronizar definições</string>
-     <string name="account_password_spaces_error">Essa palavra passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras passe com espaços.</string>
+     <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras passe com espaços.</string>
      <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas configurações de segurança.</string>
      <string name="account_security_dialog_title">Actualização de segurança</string>
      <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de alguns recursos de segurança do seu dispositivo Android.</string>
@@ -55,10 +55,10 @@
      <string name="account_settings_enforced_summary">Nenhuma</string>
      <string name="account_settings_exit_server_settings">Rejeitar as alterações não guardadas?</string>
      <string name="account_settings_incoming_label">Configurações recebidas</string>
-     <string name="account_settings_incoming_summary">Nome do utilizador, palavra passe e outras configurações do servidor de entrada</string>
+     <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras configurações do servidor de entrada</string>
      <string name="account_settings_list_title">Seleccione um serviço de email para adicionar:</string>
-     <string name="account_settings_login_dialog_content_fmt">O nome de utilizador ou a palavra passe de %s está incorrecto. Actualizar agora?</string>
-     <string name="account_settings_login_dialog_reason_fmt" formatted="false">O início de sessão de %s falhou; o servidor diz: %s deseja actualizar seu nome de utilizador/ou palavra passe?</string>
+     <string name="account_settings_login_dialog_content_fmt">O nome de utilizador ou a palavra-passe de %s está incorrecto. Actualizar agora?</string>
+     <string name="account_settings_login_dialog_reason_fmt" formatted="false">O início de sessão de %s falhou; o servidor diz: %s deseja actualizar seu nome de utilizador/ou palavra-passe?</string>
      <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
      <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
      <string name="account_settings_mibill_resolve_label">Analyse email statements</string>
@@ -67,7 +67,7 @@
      <string name="account_settings_notify_label">Notificações de email</string>
      <string name="account_settings_notify_summary">Enviar notificação quando chegarem emails</string>
      <string name="account_settings_outgoing_label">Configurações enviadas</string>
-     <string name="account_settings_outgoing_summary">Nome do utilizador, palavra passe e outras configurações do servidor de saída</string>
+     <string name="account_settings_outgoing_summary">Nome do utilizador, palavra-passe e outras configurações do servidor de saída</string>
      <string name="account_settings_param">Definições da conta</string>
      <string name="account_settings_policies">Políticas de segurança</string>
      <string name="account_settings_retry_label">Tentativa de sincronização</string>
@@ -93,7 +93,7 @@
      <string name="account_setup_basics_email_label">Endereço de email</string>
      <string name="account_setup_basics_headline">Conta de email</string>
      <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
-     <string name="account_setup_basics_password_label">Palavra passe</string>
+     <string name="account_setup_basics_password_label">Palavra-passe</string>
      <string name="account_setup_basics_title">Adicionar conta</string>
      <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
      <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições smtp…</string>
@@ -111,8 +111,8 @@
      <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor.</string>
      <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível.</string>
      <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
-     <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador, a palavra passe e tente novamente.</string>
-     <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra passe incorrectos.</string>
+     <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador, a palavra-passe e tente novamente.</string>
+     <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe incorrectos.</string>
      <string name="account_setup_failed_dlg_auth_message_fmt">"Erro a iniciar a sessão.
 (%s)"</string>
      <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
@@ -137,7 +137,7 @@
      <string name="account_setup_incoming_mail_adress_label">Endereço de Email</string>
      <string name="account_setup_incoming_mail_domain_hint">Pode estar vazio</string>
      <string name="account_setup_incoming_mail_domain_label">Domínio</string>
-     <string name="account_setup_incoming_password_label">Palavra passe</string>
+     <string name="account_setup_incoming_password_label">Palavra-passe</string>
      <string name="account_setup_incoming_port_label">Porta</string>
      <string name="account_setup_incoming_security_label">Tipo de segurança</string>
      <string name="account_setup_incoming_security_none_label">Nenhum</string>
@@ -180,7 +180,7 @@
      <string name="account_setup_options_sync_email_label">Sincronizar email desta conta.</string>
      <string name="account_setup_options_title">Definições da conta</string>
      <string name="account_setup_outgoing_headline">Definições de saída do servidor</string>
-     <string name="account_setup_outgoing_password_label">Palavra passe</string>
+     <string name="account_setup_outgoing_password_label">Palavra-passe</string>
      <string name="account_setup_outgoing_port_label">Porta</string>
      <string name="account_setup_outgoing_require_login_label">É necessário iniciar sessão</string>
      <string name="account_setup_outgoing_security_label">Tipo de segurança</string>
@@ -191,7 +191,7 @@
      <string name="account_setup_security_required_title">Administração de segurança remota</string>
      <string name="account_setup_server_acc_manager_title">Gestor de contas</string>
      <string name="account_setup_service_not_set">A conta não foi configurada</string>
-     <string name="account_setup_username_password_toast">Digite um endereço de email e palavra passe válida.</string>
+     <string name="account_setup_username_password_toast">Digite um endereço de email e palavra-passe válida.</string>
      <string name="account_setup_username_uneditable_error">Não é possível alterar o nome do utilizador de uma conta. Para adicionar uma conta com um nome do utilizador diferente, pressione em Adicionar conta.</string>
      <string name="account_sync_off">A sincronização da conta está desactivada.</string>
      <string name="account_type_exchange">Exchange</string>
@@ -290,7 +290,7 @@
      <string name="change_account_type">Alterar tipo de conta</string>
      <string name="change_folders_selection_dialog_title">Alterar pastas</string>
      <string name="change_sync_settings">Alterar configuração de sincronização</string>
-     <string name="changepw_dialog_tips">Insira a palavra passe de \"%s\"</string>
+     <string name="changepw_dialog_tips">Insira a palavra-passe de \"%s\"</string>
      <string name="chat_item_msg_people_unit">pessoas</string>
      <string name="chat_item_msg_user_etc" />
      <string name="chat_item_msg_user_saying">dizem:</string>
@@ -533,7 +533,7 @@
      <string name="info">Informações</string>
      <string name="inline_picture_deleted">Não foi possível localizar esta imagem, a transferir…</string>
      <string name="inline_picture_download_complete">Transferência da imagem concluída</string>
-     <string name="input_password_prompt">Insira a sua palavra passe:</string>
+     <string name="input_password_prompt">Insira a sua palavra-passe:</string>
      <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
      <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
      <string name="intent_exchange_package">com.android.exchange</string>
@@ -662,7 +662,7 @@ CC: %4$s
      <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
      <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
      <string name="mute">Silêncio</string>
-     <string name="name_or_number_is_error">Utilizador ou palavra passe incorrecta</string>
+     <string name="name_or_number_is_error">Utilizador ou palavra-passe incorrecta</string>
      <string name="network_error">Sem ligação</string>
      <string name="network_not_available">Não está disponível nenhuma ligação de rede, por favor tente mais tarde</string>
      <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
@@ -715,17 +715,17 @@ CC: %4$s
      <string name="outbox_no_mails">Vazio</string>
      <string name="parase_setup_data">A obter os dados…</string>
      <string name="password_changed_prompt">Não é possível iniciar sessão</string>
-     <string name="password_expire_warning_content_title">A palavra passe do ecrã de bloqueio está a expirar</string>
-     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
-     <string name="password_expire_warning_dialog_title">A palavra passe da tela de bloqueio está a expirar</string>
-     <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra passe ou PIN do ecrã de bloqueio.</string>
-     <string name="password_expired_content_title">A palavra passe do ecrã de bloqueio está expirada</string>
-     <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser eliminados do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra passe do seu ecrã de bloqueio. Deseja alterar isso agora?</string>
-     <string name="password_expired_dialog_title">A palavra passe do ecrã de bloqueio está expirada</string>
-     <string name="password_expired_ticker">A sua palavra passe ou PIN do ecrã de bloqueio expirou.</string>
-     <string name="perference_change_pw">Alterar palavra passe</string>
-     <string name="perference_change_pw_notnull_tips">Insira a sua Palavra passe</string>
-     <string name="perference_change_pw_ok_tips">Palavra passe alterada</string>
+     <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
+     <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
+     <string name="password_expire_warning_dialog_title">A palavra-passe da tela de bloqueio está a expirar</string>
+     <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do ecrã de bloqueio.</string>
+     <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
+     <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser eliminados do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu ecrã de bloqueio. Deseja alterar isso agora?</string>
+     <string name="password_expired_dialog_title">A palavra-passe do ecrã de bloqueio está expirada</string>
+     <string name="password_expired_ticker">A sua palavra-passe ou PIN do ecrã de bloqueio expirou.</string>
+     <string name="perference_change_pw">Alterar palavra-passe</string>
+     <string name="perference_change_pw_notnull_tips">Insira a sua Palavra-passe</string>
+     <string name="perference_change_pw_ok_tips">Palavra-passe alterada</string>
      <string name="perference_setup_pop_del">Remover o email do servidor</string>
      <string name="perference_setup_recv_tag">Servidor de emails recebidos</string>
      <string name="perference_setup_send_tag">Servidor de emails enviados</string>
@@ -763,7 +763,7 @@ CC: %4$s
      <string name="policy_password_history">Restringir a reutilização de palavras passe antigas</string>
      <string name="policy_require_encryption">Exigir encriptação do dispositivo</string>
      <string name="policy_require_manual_sync_roaming">Permitir sincronização manual somente em roaming</string>
-     <string name="policy_require_password">Exigir palavra passe no dispositivo</string>
+     <string name="policy_require_password">Exigir palavra-passe no dispositivo</string>
      <string name="policy_require_sd_encryption">Exigir encriptação do cartão SD</string>
      <string name="policy_require_smime">Exigir mensagens em SMIME</string>
      <string name="policy_screen_timeout">Exigir que a tela do dispositivo fique bloqueada quando não utilizada</string>
@@ -796,7 +796,7 @@ CC: %4$s
      <string name="protocol_imap">imap</string>
      <string name="protocol_legacy_imap">imap</string>
      <string name="protocol_pop3">pop3</string>
-     <string name="provider_note_live">Apenas algumas contas \"Plus\" incluem o acesso POP permitindo que esta aplicação seja ligada. Se não for possível fazer login com o seu endereço de email e palavra passe correctos, talvez não tenha uma conta \"Plus\" paga. Inicie o navegador da web para aceder a essas contas de email.</string>
+     <string name="provider_note_live">Apenas algumas contas \"Plus\" incluem o acesso POP permitindo que esta aplicação seja ligada. Se não for possível fazer login com o seu endereço de email e palavra-passe correctos, talvez não tenha uma conta \"Plus\" paga. Inicie o navegador da web para aceder a essas contas de email.</string>
      <string name="provider_note_t_online">Antes de configurar essa conta de email, aceda ao site T-Online e crie uma palavra para aceder ao email POP3.</string>
      <string name="pull_to_refresh">Puxe para actualizar</string>
      <string name="quick_1">Obrigado!</string>
@@ -1022,7 +1022,7 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Outros</string>
      
-     <string name="wrong_password">A palavra passe que inseriu está errada</string>
+     <string name="wrong_password">A palavra-passe que inseriu está errada</string>
      <string name="yes">Sim</string>
      <string name="you_are_in_mobile_network">Está a usar a rede móvel agora</string>
      <string name="zip_viewer_no_file">Sem ficheiros.</string>

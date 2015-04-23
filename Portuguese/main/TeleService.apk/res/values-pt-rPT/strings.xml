@@ -316,7 +316,7 @@ Será utilizada a rede preferida."</string>
     <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
     <string name="pin_failed">O PIN que digitou está errado.</string>
     <string name="pin_changed">O PIN do SIM foi alterado com sucesso.</string>
-    <string name="puk_requested">Palavra passe errada, o PIN está Bloqueado. Digite o código PUK.</string>
+    <string name="puk_requested">Palavra-passe errada, o PIN está Bloqueado. Digite o código PUK.</string>
     <string name="bad_puk">O PUK que digitou está errado..</string>
     <string name="invalid_puk">Digite o PUK que tenha entre 4 a 8 números.</string>
     <string name="pin_lock_warning">"
@@ -335,7 +335,7 @@ O cartão SIM será apagado após outra tentativa falhada."</string>
     <string name="invalid_puk2">Digite um PUK2 que tenha 8 números.</string>
     <string name="pin2_changed">O PIN2 do cartão SIM foi alterado.</string>
     <string name="label_puk2_code">Digite o código PUK2</string>
-    <string name="fdn_enable_puk2_requested">Palavra passe errada, o PIN2 está Bloqueado. Tente novamente e altere o PIN2.</string>
+    <string name="fdn_enable_puk2_requested">Palavra-passe errada, o PIN2 está Bloqueado. Tente novamente e altere o PIN2.</string>
     <string name="pin2_lock_warning">"
 Funções relacionadas o código PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
     <string name="puk2_label">Digite o código PUK2</string>
@@ -500,7 +500,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="sip_edit_new_title">Detalhes da conta SIP</string>
     <string name="domain_address_title">Servidor</string>
     <string name="username_title">Utilizador</string>
-    <string name="password_title">Palavra passe</string>
+    <string name="password_title">Palavra-passe</string>
     <string name="display_name_title">Mostrar o nome</string>
     <string name="proxy_address_title">Endereço d proxy de saída</string>
     <string name="port_title">Número da porta</string>
@@ -784,12 +784,12 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="call_barring_sum">Definições de barramento de chamadas de voz</string>
     <string name="lable_disable">Desactivo</string>
     <string name="lable_enable">Activo</string>
-    <string name="old_password_label">Palavra passe actual 4 digitos</string>
+    <string name="old_password_label">Palavra-passe actual 4 digitos</string>
     <string name="new_password_label">Nova palavra passe 4 digitos</string>
     <string name="invalid_password">Digite uma palavra passe com 4 números</string>
     <string name="confirm_password_label">Confirme a nova palavra passe</string>
     <string name="mismatch_password">A palavra passe que inseriu não coincide</string>
-    <string name="password_changed">Palavra passe alterada</string>
+    <string name="password_changed">Palavra-passe alterada</string>
     <string name="enter_callbarring_password">Digite uma palavra passe (4 digitos) para o barramento das chamadas</string>
     <string name="wrong_password">A palavra passe que inseriu está errada</string>
     <string name="call_waiting_title">Chamada em espera</string>

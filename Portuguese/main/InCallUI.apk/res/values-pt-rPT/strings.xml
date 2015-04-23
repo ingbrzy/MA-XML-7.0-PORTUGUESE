@@ -53,7 +53,7 @@
      <string name="callFailed_dsac_restricted_normal">Chamadas normais são limitadas pelo controlo de acesso.</string>
      <string name="callFailed_fdn_only">Chamadas de saída são restritas por FDN.</string>
      <string name="callFailed_incoming_cb_enabled">Festa barrou todas as chamadas recebidas.</string>
-     <string name="callFailed_invalid_credentials">Nome de utilizador ou a palavra passe incorrecta</string>
+     <string name="callFailed_invalid_credentials">Nome de utilizador ou a palavra-passe incorrecta</string>
      <string name="callFailed_limitExceeded">ACM limite excedido</string>
      <string name="callFailed_noSignal">Sem sinal</string>
      <string name="callFailed_number_unreachable">Número inacessível</string>
@@ -214,7 +214,7 @@
      <string name="fdn_contact_deleted">Números de marcação fixa eliminada.</string>
      <string name="fdn_contact_updated">Número de marcação fixo actualizado.</string>
      <string name="fdn_disabled">Chamadas fixas estão desactivadas</string>
-     <string name="fdn_enable_puk2_requested">Palavra passe incorrecta. Alterar o código PIN2 e tentar novamente..</string>
+     <string name="fdn_enable_puk2_requested">Palavra-passe incorrecta. Alterar o código PIN2 e tentar novamente..</string>
      <string name="fdn_enabled">Chamadas fixas estão activadas</string>
      <string name="fdn_invalid_number">FDN não foi actualizado porque o número não pode exceder 20 dígitos.</string>
      <string name="fraud_call_answer">Resposta</string>
@@ -428,8 +428,8 @@ Pode precisar de encontrar uma área com melhor cobertura (perto de uma janela, 
 
 Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</string>
      <string name="other_settings">Outras definições de chamada</string>
-     <string name="password">Palavra passe</string>
-     <string name="password_title">Palavra passe</string>
+     <string name="password">Palavra-passe</string>
+     <string name="password_title">Palavra-passe</string>
      <string name="pause_prompt_no">Não</string>
      <string name="pause_prompt_str">"Enviar tons
 "</string>
@@ -472,8 +472,8 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="progress_dialog_exiting_ecm">Sair do modo de emergência Callback</string>
      <string name="proxy_address">Endereço Proxy</string>
      <string name="proxy_address_title">Endereço de proxy de saída</string>
-     <string name="puk2_requested">Palavra passe incorrecta, o cartão SIM está bloqueado. Digite o código PUK2.</string>
-     <string name="puk_requested">Palavra passe errada, o SIM está bloqueado! PUK2 solicitado.</string>
+     <string name="puk2_requested">Palavra-passe incorrecta, o cartão SIM está bloqueado. Digite o código PUK2.</string>
+     <string name="puk_requested">Palavra-passe errada, o SIM está bloqueado! PUK2 solicitado.</string>
      <string name="puk_unlocked">O cartão SIM foi desbloqueado. O seu telefone está desbloquear…</string>
      <string name="radio_off_error">Ligue o rádio antes de ver as definições.</string>
      <string name="reading_settings">A ler as definições…</string>
@@ -485,7 +485,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="registration_status_checking_status">Verificar estado…</string>
      <string name="registration_status_done">Receber chamadas.</string>
      <string name="registration_status_failed_try_later">Registo da conta sem êxito: (%s); vou tentar mais tarde</string>
-     <string name="registration_status_invalid_credentials">Registo da conta sem êxito: utilizador ou palavra passe errada.</string>
+     <string name="registration_status_invalid_credentials">Registo da conta sem êxito: utilizador ou palavra-passe errada.</string>
      <string name="registration_status_no_data">O registo da conta parou porque não há nenhuma ligação de Internet.</string>
      <string name="registration_status_no_wifi_data">O registo da conta parou porque não há nenhuma ligação Wi-Fi.</string>
      <string name="registration_status_not_receiving">Não receber chamadas.</string>

@@ -57,7 +57,7 @@
         <item>Nenhum</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP ou CHAP</item>
      </string-array>
      <string-array name="apn_auth_values">
         <item>0</item>
@@ -111,7 +111,7 @@
         <item>Enviar SMS/MMS</item>
         <item>Ler SMS/MMS</item>
         <item>Escrever SMS/MMS</item>
-        <item>Modificar definiçõess</item>
+        <item>Modificar definições</item>
         <item>Desenhe no topo</item>
         <item>Notificações de acesso</item>
         <item>Câmara</item>
@@ -133,52 +133,52 @@
         <item>Localização</item>
      </string-array>
      <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>localização aproximada</item>
+        <item>localização precisa</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
+        <item>vibrar</item>
+        <item>ler contactos</item>
+        <item>modificar contactos</item>
         <item>read call log</item>
         <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>escanear wi-fi</item>
+        <item>notificação</item>
         <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
+        <item>ligar telefone</item>
+        <item>ler mensagem</item>
+        <item>escrever mensagem</item>
+        <item>receber mensagem</item>
+        <item>receber mensagem de emergência</item>
+        <item>receber MMS</item>
+        <item>receber WAP push</item>
+        <item>enviar mensagem</item>
         <item>read ICC SMS</item>
         <item>write ICC SMS</item>
-        <item>modify settings</item>
+        <item>modificar definições</item>
         <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
+        <item>acceder notificações</item>
+        <item>câmara</item>
+        <item>gravar áudio</item>
+        <item>reproduzir áudio</item>
         <item>read clipboard</item>
         <item>modify clipboard</item>
         <item>media buttons</item>
         <item>audio focus</item>
         <item>master volume</item>
-        <item>voice volume</item>
+        <item>volume da voz</item>
         <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
+        <item>volume de multimídia</item>
+        <item>volume do alarme</item>
+        <item>volume das notificações</item>
+        <item>volume bluetooth</item>
         <item>keep awake</item>
-        <item>monitor location</item>
+        <item>monitorar localização</item>
         <item>monitor high power location</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Limite predifinido</item>
+        <item>Limite predefinido</item>
         <item>Não há processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
@@ -299,7 +299,7 @@
         <item>1800000</item>
      </string-array>
      <string-array name="emergency_tone_entries">
-        <item>Off</item>
+        <item>Nenhum</item>
         <item>Alerta</item>
         <item>Vibrar</item>
      </string-array>
