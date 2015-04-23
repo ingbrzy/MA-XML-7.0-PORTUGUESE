@@ -715,8 +715,8 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="auto_answer_summary_delay">" (atraso: %s segundos)"</string>
     <string name="answer_state_setting_title">Definições das chamadas recebidas</string>
     <string name="answer_state_setting_summary">Opções adicionais das chamadas recebidas</string>
-    <string name="turnover_mute_title">Rodar para silênciar</string>
-    <string name="turnover_mute_summary">Rode a face de cima do telefone para baixo para silênciar</string>
+    <string name="turnover_mute_title">Rodar para silenciar</string>
+    <string name="turnover_mute_summary">Rode a face de cima do telefone para baixo para silenciar</string>
     <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
     <string name="handon_ringer_title">Parar de tocar ao levantar</string>
     <string name="enable_proximity_summary">Desligar o ecrã durante as chamadas</string>
@@ -725,7 +725,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="pocket_mode_title">Prevenir marcação de chamadas no bolso</string>
     <string name="antispam_notification_title">Número desconhecido</string>
     <string name="enable_antispam_strange_title">Silenciar ao primeiro toque</string>
-    <string name="enable_antispam_strange_summary">Silênciar ao primeiro toque de um número desconhecido</string>
+    <string name="enable_antispam_strange_summary">Silenciar ao primeiro toque de um número desconhecido</string>
     <string name="reject_via_sms">Respostas rápidas</string>
     <string name="reject_via_sms_summary">Editar respostas texto predefinidas</string>
     <string name="reject_via_sms_title">Respostas rápidas</string>
@@ -784,13 +784,13 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="call_barring_sum">Definições de barramento de chamadas de voz</string>
     <string name="lable_disable">Desactivo</string>
     <string name="lable_enable">Activo</string>
-    <string name="old_password_label">Palavra-passe actual 4 digitos</string>
-    <string name="new_password_label">Nova palavra passe 4 digitos</string>
+    <string name="old_password_label">Palavra-passe actual 4 dígitos</string>
+    <string name="new_password_label">Nova palavra passe 4 dígitos</string>
     <string name="invalid_password">Digite uma palavra passe com 4 números</string>
     <string name="confirm_password_label">Confirme a nova palavra passe</string>
     <string name="mismatch_password">A palavra passe que inseriu não coincide</string>
     <string name="password_changed">Palavra-passe alterada</string>
-    <string name="enter_callbarring_password">Digite uma palavra passe (4 digitos) para o barramento das chamadas</string>
+    <string name="enter_callbarring_password">Digite uma palavra passe (4 dígitos) para o barramento das chamadas</string>
     <string name="wrong_password">A palavra passe que inseriu está errada</string>
     <string name="call_waiting_title">Chamada em espera</string>
     <string name="call_waiting_summary">Durante uma chamada, notificar quando houver outra chamada em espera</string>
@@ -868,7 +868,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="preference_telocation_summary_countrycode_on">Marcar automaticamente o código do País</string>
     <string name="preference_dial_pad_touch_tone_default">Predefinido</string>
     <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
-    <string name="preference_telocation_summary_countrycode_off">Não marcar automaticamente o código do País</string>
+    <string name="preference_telocation_summary_countrycode_off">Não marcar automaticamente o código do país</string>
     <string name="telephony_setting">Definições de chamada</string>
     <string name="international_roaming_setting">Roaming international</string>
 </resources>
