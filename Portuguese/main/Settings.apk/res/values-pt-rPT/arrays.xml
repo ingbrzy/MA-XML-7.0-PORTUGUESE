@@ -511,8 +511,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Email</item>
      </string-array>
      <string-array name="priority_storage_entries">
-        <item>Armazenamento Interno</item>
-        <item>Armazenamento Externo</item>
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
      </string-array>
      <string-array name="priority_storage_value">
         <item>0</item>
@@ -555,7 +555,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
      <string-array name="screen_optimize_title">
         <item>Contraste automático</item>
         <item>Aumentar contraste</item>
-        <item>Predifinido</item>
+        <item>Predefinido</item>
      </string-array>
      <string-array name="screen_saturation_title">
         <item>Brilhante</item>
@@ -629,8 +629,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Europa</item>
         <item>África</item>
         <item>Asia</item>
-        <item>Australia</item>
-        <item>Pacifico</item>
+        <item>Austrália</item>
+        <item>Pacífico</item>
         <item>Todos</item>
      </string-array>
      <string-array name="track_frame_time_entries">

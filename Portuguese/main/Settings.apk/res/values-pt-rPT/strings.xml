@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="about_settings">Acerca do telefone</string>
+     <string name="about_settings">Acerca do telemóvel</string>
      <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
      <string name="ac_enable_title">Permissões</string>
      <string name="ac_privacy_mode_sum">É necessária a palavra-passe para desligar o modo protegido</string>
@@ -284,7 +284,7 @@ Note: Pressione três vezes para ampliar funciona em todos os lugares, excepto n
      <string name="battery_info_status_charging_wireless">(Wi-Fi)</string>
      <string name="battery_info_status_discharging">A descarregar</string>
      <string name="battery_info_status_full">Carregada</string>
-     <string name="battery_info_status_label">Estado da Bateria:</string>
+     <string name="battery_info_status_label">Estado da bateria:</string>
      <string name="battery_info_status_not_charging">Não está a carregar</string>
      <string name="battery_info_status_unknown">Desconhecido</string>
      <string name="battery_info_technology_label">Tecnologia da bateria:</string>
@@ -306,7 +306,7 @@ Note: Pressione três vezes para ampliar funciona em todos os lugares, excepto n
      <string name="battery_stats_screen_on_label">Ecrã ligado</string>
      <string name="battery_stats_wake_lock_label">Activado</string>
      <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-     <string name="battery_status_title">Estado da Bateria</string>
+     <string name="battery_status_title">Estado da bateria</string>
      <string name="battery_sugg_apps_gps">Desligar GPS quando não estiver em utilização</string>
      <string name="battery_sugg_apps_info">Parar ou desinstalar a aplicação</string>
      <string name="battery_sugg_apps_settings">A aplicação pode disponibilizar definições para reduzir o consumo de bateria</string>
@@ -775,15 +775,15 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="device_admin_title">Administração do dispositivo</string>
      <string name="device_admin_warning">A activação deste administrador permitirá que a aplicação %1$s execute as seguintes operações:</string>
      <string name="device_cpu">CPU:</string>
-     <string name="device_cpu2_info">Dual-Core:</string>
-     <string name="device_cpu4_info">Quad-Core:</string>
-     <string name="device_cpu8_info">Octa-core</string>
+     <string name="device_cpu2_info">Dual-Core: </string>
+     <string name="device_cpu4_info">Quad-Core: </string>
+     <string name="device_cpu8_info">Octa-Core: </string>
      <string name="device_edit_title">Renomear telefone</string>
      <string name="device_info_default">Desconhecido</string>
      <string name="device_info_label">Informações do dispositivo</string>
      <string name="device_info_not_available">Não disponível</string>
-     <string name="device_info_settings">Estado do telefone</string>
-     <string name="device_internal_memory">Armazenamento Interno:</string>
+     <string name="device_info_settings">Estado do telemóvel</string>
+     <string name="device_internal_memory">Armazenamento interno:</string>
      <string name="device_memory">RAM:</string>
      <string name="device_miui_version">Versão MIUI:</string>
      <string name="device_name">Nome do dispositivo</string>
@@ -1141,7 +1141,7 @@ Insatisfeito? Tente novamente"</string>
      <string name="internal_media_format_desc">Formatar o armazenamento interno? &lt;b&gt;Todos&lt;/b&gt; de seus dados ser&amp;#227;o eliminados permanentemente. O telefone reiniciar&amp;#225; ap&amp;#243;s o armazenamento interno ser formatado.</string>
      <string name="internal_media_format_final_desc">Formatar o armazenamento interno? Não pode reverter esta acção! O telefone reiniciará após o armazenamento interno ser formatado.</string>
      <string name="internal_media_format_title">Formata o armazenamento interno</string>
-     <string name="internal_memory">Armazenamento Interno</string>
+     <string name="internal_memory">Armazenamento interno</string>
      <string name="internal_storage">Armazenamento do sistema</string>
      <string name="invalid_location">O local especificado para instalação não é válido.</string>
      <string name="invalid_size_value">Não é possível calcular o tamanho do pacote.</string>

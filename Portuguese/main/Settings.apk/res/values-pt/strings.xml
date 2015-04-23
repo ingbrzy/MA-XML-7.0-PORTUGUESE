@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-    <string name="music_audio_effect_optimize">Definições de Áudio</string>
+    <string name="music_audio_effect_optimize">Definições de áudio</string>
     <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
     <string name="music_headset_settings">Auriculares e efeitos de áudio</string>
@@ -641,7 +641,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_ip_address">Endereço IP:</string>
     <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_eap_method">Método EAP</string>
-    <string name="please_select_phase2">Autênticação da Fase 2</string>
+    <string name="please_select_phase2">Autenticação da Fase 2</string>
     <string name="wifi_eap_ca_cert">Certificado CA</string>
     <string name="wifi_eap_user_cert">Certificado do utilizador</string>
     <string name="wifi_eap_identity">Identidade</string>
@@ -898,9 +898,9 @@ Possivelmente o código PIN está errado."</string>
     <string name="status_unavailable">Não disponível</string>
     <string name="status_up_time">Tempo de actividade:</string>
     <string name="status_awake_time">Tempo em actividade</string>
-    <string name="internal_memory">Armazenamento Interno</string>
+    <string name="internal_memory">Armazenamento interno</string>
     <string name="sd_memory">Armazenamento USB</string>
-    <string name="memory_available">Disponivel</string>
+    <string name="memory_available">Disponível</string>
     <string name="memory_available_read_only">Disponível (apenas leitura)</string>
     <string name="memory_size">Espaço total</string>
     <string name="memory_calculating_size">A calcular…</string>
@@ -939,8 +939,8 @@ Possivelmente o código PIN está errado."</string>
     <string name="usb_ptp_summary">Permite transferir fotografias através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
     <string name="usb_label_installer_cd">Instalar ferramentas de transferência de ficheiros</string>
     <string name="storage_other_users">Outros utilizadores</string>
-    <string name="battery_status_title">Estado da Bateria</string>
-    <string name="battery_level_title">Nível da Bateria</string>
+    <string name="battery_status_title">Estado da bateria:</string>
+    <string name="battery_level_title">Nível da bateria:</string>
     <string name="apn_settings">APNs</string>
     <string name="apn_edit">Editar ponto de acesso</string>
     <string name="apn_not_set">Não definido</string>
@@ -1078,7 +1078,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="location_access_title">Acesso à minha localização</string>
     <string name="location_access_summary">Deixe que as aplicações solicitem informação da sua localização</string>
     <string name="location_sources_heading">Fontes da localização</string>
-    <string name="about_settings">Acerca do telefone:</string>
+    <string name="about_settings">Acerca do telemóvel:</string>
     <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
     <string name="legal_information">Informações legais</string>
     <string name="contributors_title">Colaboradores</string>
@@ -2210,13 +2210,13 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="cmcc_hardware_version">Versão de hardware</string>
     <string name="device_cpu">CPU:</string>
     <string name="device_memory">RAM:</string>
-    <string name="device_internal_memory">Armazenamento Interno:</string>
+    <string name="device_internal_memory">Armazenamento interno:</string>
     <string name="device_sd_memory">Cartão SD:</string>
-    <string name="device_cpu2_info">Dual-Core:</string>
-    <string name="device_cpu4_info">Quad-Core:</string>
-    <string name="device_cpu8_info">Octa-core</string>
+    <string name="device_cpu2_info">Dual-Core: </string>
+    <string name="device_cpu4_info">Quad-Core: </string>
+    <string name="device_cpu8_info">Octa-Core: </string>
     <string name="available_size">Disponível: %s</string>
-    <string name="total_size">Total %s:</string>
+    <string name="total_size">Total: %s</string>
     <string name="memory_title">Disponível %1$s\u0009\u0009Total: %2$s</string>
     <string name="account_list">Todas as contas</string>
     <string name="account_add">Adicionar conta</string>
