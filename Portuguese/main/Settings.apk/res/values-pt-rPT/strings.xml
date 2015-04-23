@@ -91,7 +91,7 @@ Note: Pressione tr&amp;#234;s vezes para ampliar funciona em todos os lugares&am
      <string name="agps_roaming_dia">"Usando A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar o seu limite de dados planos, o operador poiderá cobrar taxas adicionais."</string>
      <string name="agps_roaming_dia_title">Utilize A-GPS quando em roaming</string>
      <string name="agps_roaming_summary">Utilize A-GPS quando estiver em roaming, podem ocorrer de tarifas adicionais de operadora</string>
-     <string name="airplane_mode">Modo voo</string>
+     <string name="airplane_mode">Modo de voo</string>
      <string name="alarm_volume_title">Alarme</string>
      <string name="alert_show_screensaver_when_not_charging_msg">A bateria irá descarregar mais rapidamente se mostrar a protecção de ecrã quando não estiver a carregar. Tem certeza que deseja fechar esta opção?</string>
      <string name="alert_show_screensaver_when_not_charging_title">Atenção</string>
@@ -312,7 +312,7 @@ Note: Pressione tr&amp;#234;s vezes para ampliar funciona em todos os lugares&am
      <string name="battery_sugg_bluetooth_basic">Desligar Bluetooth quando não estiver em utilização</string>
      <string name="battery_sugg_bluetooth_headset">Tente ligar para outro dispositivo Bluetooth</string>
      <string name="battery_sugg_display">Reduzir o brilho e/ou o tempo limite do ecrã</string>
-     <string name="battery_sugg_radio">Alternar para o Modo Voo para economizar energia nas áreas sem cobertura móvel</string>
+     <string name="battery_sugg_radio">Alternar para o modo de voo para economizar energia nas áreas sem cobertura móvel</string>
      <string name="battery_sugg_wifi">Desactivar a ligação Wi-Fi quando não estiver em utilização ou disponível</string>
      <string name="bearer">Portador</string>
      <string name="biometric_weak_improve_matching_title">Melhorar correspondência da face</string>
@@ -1809,7 +1809,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
      <string name="radioInfo_service_off">Rádio desligado</string>
      <string name="radioInfo_service_out">Fora de serviço</string>
      <string name="radioInfo_unknown">Desconhecido</string>
-     <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Voo, Redes móveis e VPNs</string>
+     <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, modo de voo, redes móveis e VPNs</string>
      <string name="radio_controls_title">Mais</string>
      <string name="radio_info_band_mode_label">Seleccionar a banda do rádio</string>
      <string name="radio_info_call_redirect_label">Reencaminhamento da chamada:</string>
@@ -2754,7 +2754,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
      <string name="wifi_forget">Desligar</string>
      <string name="wifi_gateway">Gateway</string>
      <string name="wifi_gateway_hint">192.168.1.1</string>
-     <string name="wifi_in_airplane_mode">Em Modo Voo</string>
+     <string name="wifi_in_airplane_mode">Em modo de voo</string>
      <string name="wifi_install_credentials">Instalar Certificados</string>
      <string name="wifi_ip_address">Endereço IP:</string>
      <string name="wifi_ip_address_hint">192.168.1.128</string>
@@ -2774,7 +2774,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
      <string name="wifi_menu_scan">Verificar</string>
      <string name="wifi_menu_wfd">Mostrar Wi-Fi</string>
      <string name="wifi_menu_wps_pbc">Botão WPS</string>
-     <string name="wifi_menu_wps_pin">Código Pin de entrada WPS</string>
+     <string name="wifi_menu_wps_pin">Código PIN de entrada WPS</string>
      <string name="wifi_more">Mais</string>
      <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
      <string name="wifi_network_prefix_length_hint">24</string>

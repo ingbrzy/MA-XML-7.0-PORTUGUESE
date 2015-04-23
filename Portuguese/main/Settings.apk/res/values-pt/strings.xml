@@ -332,10 +332,10 @@
     <string name="settings_label">Definições</string>
     <string name="settings_label_launcher">Definições</string>
     <string name="settings_shortcut">Atalho de Definições</string>
-    <string name="airplane_mode">Modo voo</string>
+    <string name="airplane_mode">Modo de voo</string>
     <string name="radio_controls_title">Mais</string>
     <string name="wireless_networks_settings_title">Redes e ligações sem Fios</string>
-    <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, Modo Voo, Redes móveis e VPNs</string>
+    <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, modo de voo, redes móveis e VPNs</string>
     <string name="roaming">Dados em Roaming</string>
     <string name="roaming_enable">Utilizar dados móveis quando estiver em roaming</string>
     <string name="roaming_disable">Não utilizar dados móveis quando estiver em roaming</string>
@@ -585,7 +585,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_starting">A activar Wi-Fi…</string>
     <string name="wifi_stopping">A desactivar…</string>
     <string name="wifi_error">Erro</string>
-    <string name="wifi_in_airplane_mode">Em Modo Voo</string>
+    <string name="wifi_in_airplane_mode">Em modo de voo</string>
     <string name="wifi_fail_to_scan">Não é possível verificar a existência de redes</string>
     <string name="wifi_notify_open_networks">Notificação de rede</string>
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
@@ -605,7 +605,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_access_points">Redes Wi-Fi</string>
     <string name="wifi_menu_wps_pbc">Botão WPS</string>
     <string name="wifi_menu_more_options">Mais opções</string>
-    <string name="wifi_menu_wps_pin">Código Pin de entrada WPS</string>
+    <string name="wifi_menu_wps_pin">Código PIN de entrada WPS</string>
     <string name="wifi_menu_p2p">Wi-Fi Directo</string>
     <string name="wifi_menu_scan">Verificar</string>
     <string name="wifi_menu_advanced">Avançado</string>
@@ -1573,7 +1573,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="battery_desc_voice">Bateria utilizada pelas chamadas de voz</string>
     <string name="battery_desc_standby">Bateria utilizada quando o telefone está inactivo</string>
     <string name="battery_desc_radio">Bateria utilizada pelo rádio móvel</string>
-    <string name="battery_sugg_radio">Alternar para o Modo Voo para economizar energia nas áreas sem cobertura móvel</string>
+    <string name="battery_sugg_radio">Alternar para o modo de voo para economizar energia nas áreas sem cobertura móvel</string>
     <string name="battery_desc_display">Bateria utilizada pelo ecrã e pela luz de fundo</string>
     <string name="battery_sugg_display">Reduzir o brilho e/ou o tempo limite do ecrã</string>
     <string name="battery_desc_wifi">Bateria utilizada pelo Wi-Fi</string>
@@ -3007,8 +3007,8 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="agps_roaming_dia">Utilizando o AGPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi desligado</string>
     <string name="wifi_disconnected_notification_summary">Não está ligado à internet.</string>
-    <string name="wifi_off_airplane_on_title">Wi-Fi em modo de Voo</string>
-    <string name="wifi_off_airplane_on_content">Pode activar o Wi-Fi manualmente quando o modo de Voo está activado.</string>
+    <string name="wifi_off_airplane_on_title">Wi-Fi em modo de voo</string>
+    <string name="wifi_off_airplane_on_content">Pode activar o Wi-Fi manualmente quando o modo de voo está activado.</string>
     <string name="wifi_off_airplane_on_not_remind">Não voltar a mostrar</string>
     <string name="wifi_off_airplane_on_cancel">Cancelar</string>
     <string name="wifi_off_airplane_on_confirm">OK</string>
