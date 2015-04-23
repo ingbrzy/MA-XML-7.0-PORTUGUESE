@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="accessibility_airplane_mode">Modo avião.</string>
+     <string name="accessibility_airplane_mode">Modo de voo</string>
      <string name="accessibility_back">Voltar</string>
      <string name="accessibility_battery_level">Bateria a %d por cento.</string>
      <string name="accessibility_bluetooth_connected">Bluetooth activado.</string>
@@ -13,7 +13,7 @@
      <string name="accessibility_data_connection_3g">3G</string>
      <string name="accessibility_data_connection_4g">4G</string>
      <string name="accessibility_data_connection_cdma">CDMA</string>
-     <string name="accessibility_data_connection_edge">Edge</string>
+     <string name="accessibility_data_connection_edge">EDGE</string>
      <string name="accessibility_data_connection_gprs">GPRS</string>
      <string name="accessibility_data_four_bars">Quatro barras.</string>
      <string name="accessibility_data_one_bar">Uma barra.</string>
@@ -58,7 +58,7 @@
      <string name="call_status_dialing">Marcação</string>
      <string name="call_status_ringing">Toque</string>
      <string name="camera_key_action_app_title">Abrir uma aplicação</string>
-     <string name="camera_key_action_category_title">Utilizar se a aplicação da cãmara não estiver aberta</string>
+     <string name="camera_key_action_category_title">Utilizar se a aplicação da câmara não estiver aberta</string>
      <string name="camera_key_action_none_title">Nenhuma acção</string>
      <string name="camera_key_action_setting_title">Botão Mi</string>
      <string name="camera_key_action_shortcut_call">Chamada</string>
@@ -139,7 +139,7 @@ Utilize apenas o carregador fornecido."</string>
      <string name="notification_otg_trackball_out">Trackball OTG desligado</string>
      <string name="notification_otg_unknow_in">Dispositivo OTG ligado</string>
      <string name="notification_otg_unknow_out">dispositivo OTG desligado</string>
-     <string name="oldman_airplane_mode_text">Modo de avião</string>
+     <string name="oldman_airplane_mode_text">Modo de voo</string>
      <string name="oldman_incall_text">Em chamada</string>
      <string name="oldman_status_bar_time_format_12">h:mm</string>
      <string name="oldman_status_bar_time_format_24">HH:mm</string>

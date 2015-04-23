@@ -93,9 +93,9 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
      <string name="dialog_app_roaming_message">Quando está em roaming internacional, apenas as aplicações que adicionou à lista de exceções pode utilizar serviços de dados. %1$snão foi adicionado à lista de excepções. Ver agora a lista de excepções?</string>
      <string name="dialog_app_roaming_title">Roaming internacional não está activado para %1$s</string>
      <string name="dialog_roaming_message">Aplicações na lista de exceções podem ligar a serviços de dados quando em roaming internacional. Adicionar aplicações à lista de excepções?</string>
-     <string name="dialog_roaming_title">Roaming International</string>
-     <string name="disable_air_mode">Desligar o modo de avião</string>
-     <string name="dns_exception_summary">"Verificar definições do router's DNS"</string>
+     <string name="dialog_roaming_title">Roaming Internacional</string>
+     <string name="disable_air_mode">Desligar o modo de voo</string>
+     <string name="dns_exception_summary">"Verificar definições DNS do router”</string>
      <string name="dns_exception_title">Verificar definições DNS</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
@@ -107,7 +107,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
      <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
      <string name="firewall_fragment_tab_title_sys">Sistema</string>
      <string name="firewall_rule_group_title_mobile">Dados</string>
-     <string name="firewall_rule_group_title_roaming">Roaming International</string>
+     <string name="firewall_rule_group_title_roaming">Roaming Internacional</string>
      <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
      <string name="firewall_service_network_blocked">%1$s foi restringido de utilizar %2$s redes</string>
      <string name="five_percent_total_pkg">%s (5%% dos seus dados móveis mensais)</string>
@@ -115,10 +115,10 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
      <string name="force_stop_dlg_title">Restringir dados de segundo plano</string>
      <string name="foreground_traffic">Primeiro plano %s</string>
      <string name="free_time_traffic">Limite de dados no periodo de menor trafego</string>
-     <string name="free_time_traffic_hint">Digite o limite de dados no periodo de menor trafego</string>
-     <string name="free_time_traffic_settings">Definições do limite de dados do periodo de menor trafego</string>
-     <string name="free_time_traffic_title">Digite o limite de dados no periodo de menor trafego</string>
-     <string name="free_traffic_settings">Definições da utilização de dados no periodo de menor trafego</string>
+     <string name="free_time_traffic_hint">Digite o limite de dados no periodo de menor tráfego</string>
+     <string name="free_time_traffic_settings">Definições do limite de dados do período de menor tráfego</string>
+     <string name="free_time_traffic_title">Digite o limite de dados no período de menor tráfego</string>
+     <string name="free_traffic_settings">Definições da utilização de dados no período de menor tráfego</string>
      <string name="gateway_exception_summary">Verifique o seu router e tente de novo.</string>
      <string name="gateway_exception_title">Teste o router</string>
      <string name="input_aviable_traffic">Definir limite da utilização de dados</string>
@@ -131,7 +131,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
      <string name="list_empty_text">Vazio</string>
      <string name="load_fail">"Couldn't load"</string>
      <string name="lock_screen_setting_summary">Mostrar notificação após utilizar 100KB</string>
-     <string name="lock_screen_traffic_guide_notification_summary">Dados móveis usados durante a bloqueio de ecrã.</string>
+     <string name="lock_screen_traffic_guide_notification_summary">Dados móveis usados durante o bloqueio de ecrã.</string>
      <string name="lock_screen_traffic_guide_notification_title">usado %s de dados móveis</string>
      <!-- MNPS mismatch found! Translated: 2 Original: 3
 	%s: 2 Original: 3
@@ -181,7 +181,7 @@ Maior trafego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="main_traffic_used">%s usados</string>
      <string name="main_traffic_used_only">%s usados</string>
      <string name="main_traffic_used_text">usados</string>
-     <string name="manual_input_free_traffic">Definir a utilização de dados no periodo de menor trafego</string>
+     <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
      <string name="manual_input_traffic">Definir a utilização de dados</string>
      <string name="mi_service_app_detail">Detalhes da utilização de dados móveis</string>
      <string name="mi_service_framework">Mi Service Framework</string>
@@ -239,11 +239,11 @@ Maior trafego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="pref_connect_settings_exceed_limit">Restringir limite da utilização de dados</string>
      <string name="pref_connect_settings_exceed_limit_hint">Corte a ligação de dados quando a utilização de dados atingir o limite</string>
      <string name="pref_daily_adjust">Definir o limite máximo de dados</string>
-     <string name="pref_daily_traffic">Limite de dados no periodo de maior trafego</string>
+     <string name="pref_daily_traffic">Limite de dados no período de maior tráfego</string>
      <string name="pref_data_usage_ignore_settings">Ignorar a utilização de dados</string>
      <string name="pref_data_usage_ignore_settings_summary">Não controlar a utilização de dados do grupo seleccionado de aplicações</string>
      <string name="pref_data_usage_not_set">Definir limite da utilização de dados</string>
-     <string name="pref_free_adjust">Definir o limite de dados no periodo de menor trafego</string>
+     <string name="pref_free_adjust">Definir o limite de dados no período de menor tráfego</string>
      <string name="pref_free_traffic_exceed_limit">Notifique-me quando a utilização de dados atingir o limite</string>
      <string name="pref_free_traffic_limit_warn">Aviso do limite de menor trafego da utilização de dados</string>
      <string name="pref_free_traffic_settings">Definições da utilização de dados no periodo de menor trafego</string>
@@ -295,7 +295,7 @@ Maior trafego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="privacy_declare_dialog_title">Termos e Condições</string>
      <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão enviados para os servidores da Xiaomi para actualizar os seus dados e informações de utilização.</string>
      <string name="privacy_prompt_traffic_adjust_message">Este recurso necessita de enviar o IMEI, número de telefone e dados da operadora para os servidores Mi.</string>
-     <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão enviados para os servidores da Xiaomipara obter mais informação sobre as opções de compra de dados.</string>
+     <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão enviados para os servidores da Xiaomi para obter mais informação sobre as opções de compra de dados.</string>
      <string name="privacy_prompt_upload">Notificações de Privacidade</string>
      <string name="reach_daily_limit_value_body">Reduza a utilização de dados móveis.</string>
      <string name="reach_daily_limit_value_title">Atingido o limite de dados diários</string>
@@ -314,7 +314,7 @@ Maior trafego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="see_detail">Details</string>
      <string name="setting_traffic_pkg">Definir o pacote de dados</string>
      <string name="settings">Definições da utilização de dados</string>
-     <string name="show_traffic_dialog_message">A utilização de dados estará visivel na barra de notificações. Pode desactivar em &gt; Definições</string>
+     <string name="show_traffic_dialog_message">A utilização de dados estará visível na barra de notificações. Pode desactivar em &gt; Definições</string>
      <string name="show_traffic_dialog_title">Mostrar a utilização de dados na barra de notificações</string>
      <string name="signal_exception_summary">"Não é possível ligar-se à rede nesta área."</string>
      <string name="signal_exception_title">Sinal de rede fraco</string>

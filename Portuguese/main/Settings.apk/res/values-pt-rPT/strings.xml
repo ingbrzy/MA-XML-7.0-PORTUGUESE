@@ -1310,7 +1310,7 @@ Insatisfeito? Tente novamente"</string>
      <string name="lockpattern_retry_button_text">Tentar novamente</string>
      <string name="lockpattern_settings_change_lock_pattern">Alterar a sequência de desbloqueio</string>
      <string name="lockpattern_settings_choose_lock_pattern">Definir a sequência de desbloqueio</string>
-     <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão de Energia bloqueia imediatamente</string>
+     <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão de energia bloqueia imediatamente</string>
      <string name="lockpattern_settings_enable_summary">Deve desenhar uma sequência para desbloquear o ecrã</string>
      <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao toque</string>
      <string name="lockpattern_settings_enable_title">Sequência requerido</string>
@@ -1997,7 +1997,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
      <string name="se_route_ese">Elemento de segurança integrado</string>
      <string name="se_route_uicc">Elemento de segurança do cartão SIM</string>
      <string name="search_about">sobre</string>
-     <string name="search_accelerometer">acelerometro</string>
+     <string name="search_accelerometer">acelerômetro</string>
      <string name="search_access_control">controlo de acesso</string>
      <string name="search_accessibility">accessibilidade</string>
      <string name="search_airplane">avião</string>
@@ -2026,7 +2026,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
      <string name="search_settings">Pesquisar</string>
      <string name="search_settings_summary">Gerir as definições da pesquisa e do histórico</string>
      <string name="search_silent">silêncio</string>
-     <string name="search_sms_received">sms receibidas</string>
+     <string name="search_sms_received">sms recebidas</string>
      <string name="search_status_bar">barra de estado</string>
      <string name="search_storage">armazenamento</string>
      <string name="search_sync">sincronizar</string>
@@ -2123,7 +2123,7 @@ Possivelmente o código PIN está incorrecto."</string>
      <string name="sim_enter_ok">OK</string>
      <string name="sim_enter_old">Código PIN do cartão SIM antigo</string>
      <string name="sim_enter_pin">PIN</string>
-     <string name="sim_lock_change_not_supported">Não é possível activar agora o blqueio SIM</string>
+     <string name="sim_lock_change_not_supported">Não é possível activar agora o bloqueio SIM</string>
      <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
 Possivelmente o código PIN está incorrecto."</string>
      <string name="sim_lock_off">Requerer código PIN para usar o telefone</string>
@@ -2139,7 +2139,7 @@ Possivelmente o código PIN está incorrecto."</string>
      <string name="sim_reenter_new">Inserir novamente o novo código PIN</string>
      <string name="sim_status_title">Estado do cartão SIM</string>
      <string name="skip_label">Ignorar</string>
-     <string name="skip_lock_screen_confirm_msg">Os seguintes recursos serão desabilitados para bloqueio de ecrã: notificações, controles do reprodutor de música, deslize para a esquerda para aceder a câmera, e deslize para adireita Mi Home.</string>
+     <string name="skip_lock_screen_confirm_msg">Os seguintes recursos serão desabilitados para bloqueio de ecrã: notificações, controles do reprodutor de música, deslize para a esquerda para aceder a câmera, e deslize para a direita Mi Home.</string>
      <string name="skip_step">Ignorar este passo</string>
      <string name="slot_status_title">Informação do IMEI:</string>
      <string name="small_font">Pequena</string>
@@ -2167,7 +2167,7 @@ Possivelmente o código PIN está incorrecto."</string>
      <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
      <string name="spellcheckers_settings_title">Correcção ortográfica</string>
      <string name="ssid_label">SSID:</string>
-     <string name="ssl_ca_cert_dialog_title">Monitorizacão de red</string>
+     <string name="ssl_ca_cert_dialog_title">Monitorização de red</string>
      <string name="ssl_ca_cert_info_message">"Este dispositivo está gerido por:
 %s
 
@@ -2176,9 +2176,9 @@ O seu administrador pode monitorizar a sua actividade da rede, incluido emails, 
 Para mais informação contacte o seu administrador."</string>
      <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
      <string name="ssl_ca_cert_warning">A rede será monitorizada</string>
-     <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorizar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de internet seguras. 
+     <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorar a sua actividade na rede, incluindo mensagens de correio electrónico, aplicações e páginas de Internet seguras. 
 
-Uma credencial de confiança instalada no seu dispositivo está a fazer isto possivel."</string>
+Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
      <string name="stable_build">" | Estável"</string>
      <string name="status_awake_time">Tempo em actividade</string>
      <string name="status_bar_and_notification_bar">Notificação e barra de estado</string>
@@ -2786,9 +2786,9 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
      <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
      <string name="wifi_off_airplane_on_cancel">Cancel</string>
      <string name="wifi_off_airplane_on_confirm">OK</string>
-     <string name="wifi_off_airplane_on_content">Pode ligar Wi-Fi manualmente quando o modo avião está activo.</string>
+     <string name="wifi_off_airplane_on_content">Pode ligar Wi-Fi manualmente quando o modo de voo está activo.</string>
      <string name="wifi_off_airplane_on_not_remind">"Não mostrar de novo"</string>
-     <string name="wifi_off_airplane_on_title">Wi-Fi em modo de avião</string>
+     <string name="wifi_off_airplane_on_title">Wi-Fi em modo de voo</string>
      <string name="wifi_on_time">Duração em Wi-Fi</string>
      <string name="wifi_other_network">Outras redes…</string>
      <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se ligar com %1$s?</string>
