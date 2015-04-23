@@ -9,13 +9,13 @@
      <string name="account_bind_devices">Dispositivos ligados</string>
      <string name="account_bind_settings">Associar conta</string>
      <string name="account_crop_user_avatar">Cortar foto</string>
-     <string name="account_dspt_provision">Utilize a sua Conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar.</string>
+     <string name="account_dspt_provision">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar.</string>
      <string name="account_dspt_provision2">Saber mais</string>
-     <string name="account_empty_user_name">Insira o nome de utilizador da Conta Mi</string>
+     <string name="account_empty_user_name">Insira o nome de utilizador da conta Mi</string>
      <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
      <string name="account_error_shorter_user_name">O nome tem de ter no mínimo 2 caracteres</string>
      <string name="account_error_user_birthday">A data de nascimento não é válida</string>
-     <string name="account_learn_more_title">Crie uma Conta Mi</string>
+     <string name="account_learn_more_title">Crie uma conta Mi</string>
      <string name="account_name">Conta: %1$s</string>
      <string name="account_no_set">Nenhum</string>
      <string name="account_none">Nenhum</string>
@@ -30,7 +30,7 @@
      <string name="account_user_gender">Sexo</string>
      <string name="account_user_gender_female">Feminino</string>
      <string name="account_user_gender_male">Masculino</string>
-     <string name="account_user_id">Identificação da Conta Mi</string>
+     <string name="account_user_id">Identificação da conta Mi</string>
      <string name="account_user_name">Nome</string>
      <string name="account_user_name_dialog_title">Inserir nome</string>
      <string name="account_user_phone">Número de telefone</string>
@@ -51,7 +51,7 @@
      <string name="bind_sns_description">Complete o seu perfil com as informações pessoais através de %s</string>
      <string name="bind_weibo_description">Encontrar e sincronizar os seus amigos em Sina Weibo</string>
      <string name="binded">Adicionado</string>
-     <string name="binded_description" formatted="false">%s adicionado à sua Conta Mi. O seu perfil foi actualizado com a informação da sua conta %s.</string>
+     <string name="binded_description" formatted="false">%s adicionado à sua conta Mi. O seu perfil foi actualizado com a informação da sua conta %s.</string>
      <string name="btn_return">Voltar</string>
      <string name="button_cancel">Cancelar</string>
      <string name="button_unbind">Remover</string>
@@ -67,14 +67,14 @@
      <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
      <string name="delete_device_btn">Remover</string>
      <string name="delete_device_failed">Não foi possível remover o dispositivo</string>
-     <string name="delete_device_notice">Depois do dispositivo ser removido, será desligado automaticamente da sua Conta Mi. Não será capaz de utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta.</string>
+     <string name="delete_device_notice">Depois do dispositivo ser removido, será desligado automaticamente da sua conta Mi. Não será capaz de utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta.</string>
      <string name="device_delete_loading">Aguarde um seg…</string>
      <string name="device_delete_success_message">Se não iniciar sessão neste dispositivo, altere imediatamente a sua palavra-passe.</string>
      <string name="device_delete_success_title">Terminar sessão</string>
      <string name="device_list__header">Os meus dispositivos</string>
      <string name="device_list_title">Lista de dispositivos</string>
      <string name="device_trust_info">Dispositivo autorizado</string>
-     <string name="email_or_id_hint_text">Email ou ID Conta Mi</string>
+     <string name="email_or_id_hint_text">Email ou ID conta Mi</string>
      <string name="empty_device_list_notice">Não existem dispositivos</string>
      <string name="error_device_id">Não é possivel obter IMEI</string>
      <string name="error_invalid_dev_id">Identif do dispositivo inválida</string>
@@ -102,7 +102,7 @@
      <string name="login_failed">Não é possível iniciar sessão</string>
      <string name="login_instead_reg">Utilizar este número</string>
      <string name="login_instead_reg_with_email">Utilizar este Email</string>
-     <string name="login_title">Inicie sessão na sua Conta Mi</string>
+     <string name="login_title">Inicie sessão na sua conta Mi</string>
      <string name="login_with_email_or_id">&lt;u&gt;Inicie sess&amp;#227;o com outra conta&lt;/u&gt;</string>
      <string name="logout_failed">Não é possível terminar sessão</string>
      <string name="mi_account_dspt_provision">"Iniciar sessão na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar. "</string>
@@ -113,7 +113,7 @@
      <string name="micloud_delete_account">Terminar sessão</string>
      <string name="micloud_error_empty_captcha_code">Digite o código captcha</string>
      <string name="micloud_error_empty_pwd">Insira a palavra-passe</string>
-     <string name="micloud_reg_new">Crie uma Conta Mi</string>
+     <string name="micloud_reg_new">Crie uma conta Mi</string>
      <string name="micloud_space_info">%s disponível</string>
      <string name="micloud_sync_state_need_wifi">Utilize a Wi-Fi para sincronizar</string>
      <string name="micloud_sync_state_pending">Pending</string>
@@ -156,10 +156,10 @@ Para activar a conta, siga em
      <string name="passport_completed">Terminar</string>
      <string name="passport_confirm">Confirmar</string>
      <string name="passport_delete_account">Terminar sessão</string>
-     <string name="passport_dspt_provision">"Utilize a sua Conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços de Mi, de qualquer lugar. "</string>
+     <string name="passport_dspt_provision">"Utilize a sua conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços de Mi, de qualquer lugar. "</string>
      <string name="passport_dspt_provision2">Ler mais</string>
      <string name="passport_email">Endereço de email</string>
-     <string name="passport_email_or_id_hint_text">Endereço de email ou ID de Conta Mi</string>
+     <string name="passport_email_or_id_hint_text">Endereço de email ou ID de conta Mi</string>
      <string name="passport_email_reg_success_summary">%1$s A sua conta foi associada. Pode utiliza-la para iniciar sessão ou para redefinir a sua palavra-passe.</string>
      <string name="passport_error_device_id">Não é possível obter id do dispositivo</string>
      <string name="passport_error_dup_email">Este email já foi associado a outra conta</string>
@@ -202,8 +202,8 @@ Para activar a conta, siga em
      <string name="passport_login_instead_reg">Utilizar este número</string>
      <string name="passport_login_instead_reg_with_email">Utilizar este Email</string>
      <string name="passport_login_notice">Iniciar sessão em…</string>
-     <string name="passport_login_title">Inicie sessão na Conta Mi</string>
-     <string name="passport_login_with_email_or_id">&lt;u&gt;Inicie sess&amp;#227;o com endere&amp;#231;o de email ou ID de Conta Mi&lt;/u&gt;</string>
+     <string name="passport_login_title">Inicie sessão na conta Mi</string>
+     <string name="passport_login_with_email_or_id">&lt;u&gt;Inicie sess&amp;#227;o com endere&amp;#231;o de email ou ID de conta Mi&lt;/u&gt;</string>
      <string name="passport_next">Próximo</string>
      <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
      <string name="passport_password">Insira a sua palavra-passe</string>
@@ -219,7 +219,7 @@ Para activar a conta, siga em
      <string name="passport_re_get_verify_code">Obter código novamente</string>
      <string name="passport_re_register">Iniciar sessão novamente</string>
      <string name="passport_reg_failed">Não é possível definir conta</string>
-     <string name="passport_reg_new">Criar Conta Mi</string>
+     <string name="passport_reg_new">Criar conta Mi</string>
      <string name="passport_reg_sms_send_prompt">Enviar código de verificação a %s</string>
      <string name="passport_reg_success">Conta criada</string>
      <string name="passport_reg_success_summary">%1$s A sua conta foi associada. Pode utiliza-la para iniciar sessão ou para redefinir a sua palavra-passe.</string>
@@ -243,7 +243,7 @@ Para activar a conta, siga em
      <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
      <string name="passport_skip_login">Saltar inicio de sessão</string>
      <string name="passport_skip_register">Saltar inicio de sessão</string>
-     <string name="passport_skip_setup_account_msg">Pode configurar mais tarde uma Conta Mi em Definições.</string>
+     <string name="passport_skip_setup_account_msg">Pode configurar mais tarde uma conta Mi em Definições.</string>
      <string name="passport_skip_setup_account_title">Saltar configuração</string>
      <string name="passport_title_reg">Criar uma conta</string>
      <string name="passport_trust_device">Autorizar este dispositivo</string>
@@ -261,7 +261,7 @@ Para activar a conta, siga em
      <string name="passport_wrong_captcha">O código que inseriu está errado</string>
      <string name="passport_wrong_phone_number_format">O formato do número de telefone que inseriu é inválido</string>
      <string name="passport_wrong_vcode">O código que inseriu está errado</string>
-     <string name="passport_xiaomi_account_dspt">Utilize a sua Conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar.</string>
+     <string name="passport_xiaomi_account_dspt">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar.</string>
      <string name="passport_xiaomi_account_sec_dspt" />
      <string name="passport_xiaomi_account_sec_dspt2" />
      <string name="password">Insira a palavra-passe</string>
@@ -276,19 +276,19 @@ Para activar a conta, siga em
      <string name="quick_login_dialog_title">Verificar palavra-passe</string>
      <string name="quick_login_step2_title">2-passo verificação</string>
      <string name="quick_login_title">Insira a palavra-passe</string>
-     <string name="re_register">Criar Conta Mi</string>
+     <string name="re_register">Criar conta Mi</string>
      <string name="reg_failed">Não é possível configurar uma conta</string>
      <string name="reging">A criar conta…</string>
-     <string name="register">Criar Conta Mi</string>
+     <string name="register">Criar conta Mi</string>
      <string name="register_by_email">&lt;u&gt;Utilize outro m&amp;#233;todo para criar uma conta&lt;/u&gt;</string>
      <string name="relogin">Inicie sessão novamente</string>
-     <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
+     <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua conta Mi?</string>
      <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos autorizados, poderá precisar novamente de iniciar o processo de verificação quando inicia sessão.​</string>
      <string name="remove_trust_btn">Remover from trusted devices</string>
      <string name="remove_trust_notice">Remover dos seus dispositivos autorizados e terminar sessão</string>
      <string name="removing_account">Terminar sessão…</string>
      <string name="rename_current_device">Alterar o nome do dispositivo</string>
-     <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi, digitalize o código QR</string>
+     <string name="scan_barcode_title">Para iniciar sessão na sua conta Mi, digitalize o código QR</string>
      <string name="service_error">Erro de serviço</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="skip_register">Saltar</string>
@@ -298,10 +298,10 @@ Para activar a conta, siga em
      <string name="timeout_retry">Terminou o tempo disponível, por favor tente novamente.</string>
      <string name="title_reg">Criar uma conta</string>
      <string name="trust_device">Autorizar este dispositivo</string>
-     <string name="unbind_sns_description">Depois de remover esta conta, não vai poder utilizar a sua conta %s. Informações para iniciar sessão na sua Conta Mi.</string>
+     <string name="unbind_sns_description">Depois de remover esta conta, não vai poder utilizar a sua conta %s. Informações para iniciar sessão na sua conta Mi.</string>
      <string name="unbind_weibo_description">Depois de remover esta conta, não vai poder sincronizar os seus contactos do Weibo ou usar a sua conta Sina Weibo para iniciar sessão.</string>
      <string name="update_contacts">Actualize o livro de endereços</string>
-     <string name="update_contacts_description">Deixe a Sina Weibo utilizar a sua Conta Mi sincronizar os seus contactos entre plataformas</string>
+     <string name="update_contacts_description">Deixe a Sina Weibo utilizar a sua conta Mi sincronizar os seus contactos entre plataformas</string>
      <string name="updated_nothing">Actualizado</string>
      <string name="user_agreement">Termos de Serviço</string>
      <string name="user_agreement_p2">Termos de Serviço</string>

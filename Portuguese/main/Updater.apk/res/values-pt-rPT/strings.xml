@@ -3,8 +3,8 @@
 <resources>
      <string name="about_device">Acerca do telemóvel</string>
      <string name="active_xiaomi_account">Activa</string>
-     <string name="active_xiaomi_account_msg">Para activar a sua Conta Mi, vá https://account.xiaomi.com/pass/serviceLogin.</string>
-     <string name="active_xiaomi_account_title">Activar Conta Mi</string>
+     <string name="active_xiaomi_account_msg">Para activar a sua conta Mi, vá https://account.xiaomi.com/pass/serviceLogin.</string>
+     <string name="active_xiaomi_account_title">Activar conta Mi</string>
      <string name="app_name">Actualizar</string>
      <string name="apply_title">A actualizar (%s)</string>
      <string name="apply_update_dialog_cancel_button">Cancelar</string>
@@ -39,7 +39,7 @@
      <string name="comment_sending">A enviar…</string>
      <string name="comment_upload_failed">Não é possível enviar comentário</string>
      <string name="comment_upload_hint">Obrigado pelo seu comentário!</string>
-     <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua Conta Mi</string>
+     <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua conta Mi</string>
      <string name="comment_upload_success">Enviado</string>
      <string name="daily_build">Diária</string>
      <string name="download_again">Tente novamente</string>
@@ -98,8 +98,8 @@
      <string name="notification_downloading">A transferir actualização…</string>
      <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo.</string>
      <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo.</string>
-     <string name="notification_load_title_alpha">Inicie sessão na sua Conta Mi</string>
-     <string name="notification_load_title_dev">Inicie sessão na sua Conta Mi</string>
+     <string name="notification_load_title_alpha">Inicie sessão na sua conta Mi</string>
+     <string name="notification_load_title_dev">Inicie sessão na sua conta Mi</string>
      <string name="notification_reboot_btn">Reiniciar</string>
      <string name="notification_reboot_seccess_des">Pressione para actualizar informação.</string>
      <string name="notification_reboot_seccess_title">Dispositivo actualizado</string>
@@ -167,7 +167,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="update_feedback_end_sum">Pode participar às terças-feiras.</string>
      <string name="update_feedback_expired">"É uma pena que tenha perdido a oportunidade de comentar esta versão.
 Por favor, vote na próxima terça-feira."</string>
-     <string name="update_feedback_need_account">É necessário iniciar sessão na Conta Mi</string>
+     <string name="update_feedback_need_account">É necessário iniciar sessão na conta Mi</string>
      <string name="update_feedback_need_network">Ligue-se primeiro à internet</string>
      <string name="update_feedback_need_update">Tem que actualizar o seu sistema para a versão mais recente.</string>
      <string name="update_feel">O que estás a pensar?</string>
@@ -197,7 +197,7 @@ do Programa de comentários Beta"</string>
      <string name="vote_error2">"Não foi possível enviar comentários.
 Actualize seu dispositivo e tente novamente"</string>
      <string name="vote_error3">"Não foi possível iniciar sessão.
-Tente iniciar sessão na Conta Mi de novo."</string>
+Tente iniciar sessão na conta Mi de novo."</string>
      <string name="vote_error4">Você já apresentou o feedback</string>
      <string name="vote_error5">"Algo está errado
 Não foi possível enviar comentários"</string>

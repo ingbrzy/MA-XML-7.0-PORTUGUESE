@@ -214,8 +214,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Wakelock_Desc">Aplicação pode impedir o desligamento do ecrã do dispositivo</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s aplicações podem impedir o desligamento do ecrã do dispositivo</string>
   <string name="HIPS_Perm_Xiaomi_Account">Conta Mi</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Desc">Aceda a sua Conta Mi</string>
-  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder a sua Conta Mi</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Desc">Aceda a sua conta Mi</string>
+  <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder a sua conta Mi</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Permitir uma vez (%d)</string>

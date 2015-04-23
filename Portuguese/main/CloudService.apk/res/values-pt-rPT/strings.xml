@@ -70,7 +70,7 @@ Ultima cópia de segurança: %2$s"</string>
      <string name="enable_sync_dspt">A sincronização está desactivada</string>
      <string name="error_data_in_transfer">A sincronização irá terminar em %s horas.</string>
      <string name="error_data_in_transfer_title">Nuvem Mi não disponível</string>
-     <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi.</string>
+     <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
      <string name="error_network">Não foi possível ligar à rede</string>
      <string name="error_not_acceptable">A sincronização foi desactivada.</string>
      <string name="error_server">Erro do servidor</string>
@@ -124,10 +124,10 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
      <string name="master_alert_notif_dspt_no">Sincronizado</string>
      <string name="master_alert_notif_title">Última sincronização à %s dias atrás</string>
      <string name="micloud_check_sim_notify_text">"Verifique como mudou os cartões SIM. inicie sessão
-na sua Conta Mi para reactivar a Nuvem Mi."</string>
+na sua conta Mi para reactivar a Nuvem Mi."</string>
      <string name="micloud_check_sim_notify_title">Reactivar a Nuvem Mi</string>
      <string name="micloud_check_sim_title">"Verifique como mudou os cartões SIM. inicie sessão
-na sua Conta Mi para reactivar a Nuvem Mi."</string>
+na sua conta Mi para reactivar a Nuvem Mi."</string>
      <string name="micloud_detail_fail">Erro ao sincronizar</string>
      <string name="micloud_detail_lastest">Sincronizado</string>
      <string name="micloud_detail_pending">A aguardar</string>
@@ -295,7 +295,7 @@ Este serviço encripa e envia o ID do dispositico para os servidores MI."</strin
      <string name="sync_sub_dspt">A operadora pode cobrar por uma mensagem enviada para activar este serviço.</string>
      <string name="sync_sub_dspt_provision">Sincronizar fotografias, contactos, músicas, aplicações, e muito mais em todos os dispositivos</string>
      <string name="sync_sub_int_dspt">A operadora pode cobrar por uma mensagem internacional enviada para activar este serviço.</string>
-     <string name="title_reg">Criar uma Conta Mi</string>
+     <string name="title_reg">Criar uma conta Mi</string>
      <string name="total_space_upgraded_to">Espaço total :%s</string>
      <string name="unactivated_user">Terminar a sessão</string>
      <string name="upgrade_space">Adicionar espaço</string>
