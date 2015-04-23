@@ -480,7 +480,7 @@
     <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será eliminado. "</string>
     <string name="delete_folder">Eliminar %1$d pastas?</string>
     <string name="delete_file">Eliminar %1$d ficheiros?</string>
-    <string name="delete_files_and_folders">Eliminar %1$d ficheiros e %2$d Pastas?</string>
+    <string name="delete_files_and_folders">Eliminar %1$d ficheiros e %2$d pastas?</string>
     <string name="confirm_delete_init_title">Eliminar imagens</string>
     <string name="confirm_delete_init_message">As imagem serão eliminadas do dispositivo e da Nuvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
     <string name="confirm_delete_has_cloud_local_image_video">" "<Data> Eliminar %s items do dispositivo e da nuvem?</Data>" "</string>
@@ -515,7 +515,7 @@
     <string name="show_all">Imagens e videos</string>
     <string name="appwidget_title">Galeria</string>
     <string name="appwidget_empty_text">Sem fotografias</string>
-    <string name="no_albums_alert">Sem albuns disponiveis</string>
+    <string name="no_albums_alert">Sem álbuns disponíveis</string>
     <string name="local_albums">Imagens Locais</string>
     <string name="cloud_albums">Imagens na Nuvem</string>
     <string name="home_my_captured_items">" fotografias no rolo da câmara"</string>
@@ -549,9 +549,9 @@
     <string name="taken_time">Hora da foto</string>
     <string name="modified_time">Hora da modificação</string>
     <string name="photo_size">Tamanho</string>
-    <string name="set_label_all_albums">Todos os albuns</string>
-    <string name="set_label_local_albums">Albuns locais</string>
-    <string name="cloud_media_set_set">Albuns na nuvem</string>
+    <string name="set_label_all_albums">Todos os álbuns</string>
+    <string name="set_label_local_albums">Álbuns locais</string>
+    <string name="cloud_media_set_set">Álbuns na nuvem</string>
     <string name="set_label_mtp_devices">Dispositivos MTP</string>
     <string name="size_below">%1$s ou em baixo</string>
     <string name="size_above">%1$s ou em cima</string>
@@ -599,7 +599,7 @@
     <string name="deleting_files">Eliminar ficheiros…</string>
     <string name="bigscreen_slide_playing">A apresentação de Slides está iniciado em %s</string>
     <string name="bigscreen_slide_exit">Terminar a apresentação de fotografias</string>
-    <string name="bigscreen_slide_fail_cause_loading">Reinicar apresentação de imagens depois de transferir</string>
+    <string name="bigscreen_slide_fail_cause_loading">Reinicair apresentação de imagens depois de transferir</string>
     <string name="bigscreen_video_quit">Pressione para sair</string>
     <string name="defalt_local_mobile">Móvel</string>
     <string name="local_time">(Local)</string>
@@ -607,7 +607,7 @@
     <string name="start_slide_show">Reproduzir apresentação de imagens</string>
     <string name="other_category">Definições adicionais</string>
     <string name="show_hidden_album">Mostrar álbuns ocultos</string>
-    <string name="auto_create_recent_album">Criar automaticamente albuns favoritos</string>
+    <string name="auto_create_recent_album">Criar automaticamente álbuns favoritos</string>
     <string name="photo_page_always_rotate">Auto-rotação de imagens</string>
     <string name="auto_create_recent_album_over_ten_times">O álbum será marcado como favorito ao visualizar mais de 10 vezes</string>
     <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
@@ -629,7 +629,7 @@
     <string name="set_screensaver_path_message_if_only_charging">As imagens deste álbum serão exibidas na protecção do ecrã quando o telemóvel estiver a carregar.</string>
     <string name="there_is_no_image">Sem imagens neste ficheiro</string>
     <string name="preparing_data_to_delete">A eliminar imagens…</string>
-    <string name="rename_failed">Não é possivel renomear</string>
+    <string name="rename_failed">Não é possível renomear</string>
     <string name="rename_failed_duplicated_name">Já existe um ficheiro com o mesmo nome.</string>
     <string name="warn">Aviso</string>
     <string name="send_multiple_files_hint_format">Enviar (%s)</string>
@@ -656,7 +656,7 @@
     <string name="operation_share">Partilhar</string>
     <string name="operation_refresh">Actualizar</string>
     <string name="operation_set_as_screensaver">Definir como protecção de ecrã</string>
-    <string name="operation_unset_as_screensaver">Cacelar proctecçao de ecrã</string>
+    <string name="operation_unset_as_screensaver">Cancelar proctecção de ecrã</string>
     <string name="operation_add_picture">Adicionar imagens</string>
     <string name="operation_add_secret">Adicionar album secreto</string>
     <string name="operation_remove_secret">Remover album secreto</string>
@@ -666,7 +666,7 @@
     <string name="no_storage_disable_cloud_albums">A nuvem não está disponível.</string>
     <string name="message_no_delete_access">Não tem permissões para eliminar %s</string>
     <string name="fail_init_gallery_db_helper">Não é possível carregar dados da galeria</string>
-    <string name="crop_fail_to_load_image">Não é possivel visualizar esta imagem</string>
+    <string name="crop_fail_to_load_image">Não é possível visualizar esta imagem</string>
     <string name="error_should_not_select_image">O tipo de ficheiro não é suportado</string>
     <string name="error_should_not_select_video">O tipo de ficheiro não é suportado</string>
     <string name="storage_all_volumes">Todos os dispositivos de armazenamento</string>
@@ -674,8 +674,8 @@
     <string name="big_screen_alertdialog_title">Lista de dispositivos</string>
     <string name="comma">, </string>
     <string name="quotation">\"%s\"</string>
-    <string name="cloud_gallery_space_full">Sem espaço sufeciente na nuvem</string>
-    <string name="share_album_space_full">Sem espaço sufeciente neste album</string>
+    <string name="cloud_gallery_space_full">Sem espaço suficiente na nuvem</string>
+    <string name="share_album_space_full">Sem espaço suficiente neste album</string>
     <string name="cloud_gallery_recyclebin_full">O lixo está cheio. Esvazie o lixo em www.mi.com/micloud.</string>
     <string name="sync_history_power_on">Sincronizar o histórico de imagens apenas ao carregar</string>
     <string name="sync_only_in_wifi_alert">Desligar esta opção pode aumentar o uso de dados móveis.</string>
@@ -685,7 +685,7 @@
     <string name="only_show_camera_in_first_page_summary">Quando está desligado, as fotografias de todos os álbuns da nuvem serão exibidos na primeira página.</string>
     <string name="alert">Atenção</string>
     <string name="gallery_cloud_provider_name">Album na Nuvem</string>
-    <string name="sync_album">Sincronizar albuns</string>
+    <string name="sync_album">Sincronizar álbuns</string>
     <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
     <string name="sync_third_party_app_pic_summary">Sincronizar fotos de outras aplicações com a Nuvem Mi</string>
     <string name="open_sync_title">Sincronizar com a Nuvem Mi</string>
@@ -695,7 +695,7 @@
     <string name="no_network_connected">Nenhuma rede detectada</string>
     <string name="initial_cloud_text">Armazenar e exibir suas fotografias em qualquer lugar.</string>
     <string name="initial_cloud_button_text">Iniciar sessão</string>
-    <string name="storage_no_space">Sem espaço disponivel</string>
+    <string name="storage_no_space">Sem espaço disponível</string>
     <string name="add_to_cloud_album">Adicionar ao album</string>
     <string name="choose_cloud_album">Escolher album</string>
     <string name="move_to_cloud_album">Mover para</string>
@@ -720,7 +720,7 @@
     <string name="add_to_secret_unfinished_message_with_count">%1$s ficheiros não são adicionados ao album secreto</string>
     <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
     <string name="alert_secret_album_title">Adicionado ao album secreto</string>
-    <string name="alert_secret_album_message">Para ocultar albuns, deslize na parte inferior dos albuns na Nuvem Mi.</string>
+    <string name="alert_secret_album_message">Para ocultar álbuns, deslize na parte inferior dos albuns na Nuvem Mi.</string>
     <string name="alert_secret_album_set_pattern">Defina padrão de desbloqueio</string>
     <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
     <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
@@ -745,7 +745,7 @@
     <string name="retry_to_create_album">Tentar novamente</string>
     <string name="share_current_album">Partilhar este album</string>
     <string name="cloud_be_shared_guide_title">Este álbum vem de um amigo</string>
-    <string name="cloud_be_shared_guide_message">Pode ver fotografiass dos seus amigos, e adicionar fotografias ao álbum.</string>
+    <string name="cloud_be_shared_guide_message">Pode ver fotografias dos seus amigos, e adicionar fotografias ao álbum.</string>
     <string name="cloud_owner_album_share_guide">"Partilhar este álbum
 com os amigos"</string>
     <string name="view_sharers">Mostrar partilhados</string>
@@ -804,7 +804,7 @@ com os amigos"</string>
     <string name="context_menu_copy">Copiar</string>
     <string name="try_to_send">Enviar</string>
     <string name="email_picker_title">Adicionar Email partilhado</string>
-    <string name="request_sms_url_failed">Sem informação disponivel</string>
+    <string name="request_sms_url_failed">Sem informação disponível</string>
     <string name="request_sms_url_title">Dica</string>
     <string name="request_sms_url_msg">A solicitar informação…</string>
     <string name="fail_to_pick_email">Email inválido</string>
@@ -818,7 +818,7 @@ com os amigos"</string>
     <string name="fail_hint">Operação falhada</string>
     <string name="kick_sharer">Eliminar partilha utilizada</string>
     <string name="kick_sharer_successfully">Utilizador removido</string>
-    <string name="kick_sharer_failed">Impossivel remover utilizador</string>
+    <string name="kick_sharer_failed">Impossível remover utilizador</string>
     <string name="accept_or_deny">%1$s partilhou o album %2$s contigo.</string>
     <string name="accept">Aceitar</string>
     <string name="deny">Rejeitar</string>
@@ -839,7 +839,7 @@ com os amigos"</string>
     <string name="unpublish_succeeded">Álbum inédito</string>
     <string name="unpublish_failed">Não foi possível anular a publicação</string>
     <string name="send_public_url">Enviar endereço do álbum</string>
-    <string name="public_url_descript">Qualquer um pode ver o albúm utilizando o endereço</string>
+    <string name="public_url_descript">Qualquer um pode ver o álbum utilizando o endereço</string>
     <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja em %2$s</string>
     <string name="unpublishing">A cancelar…</string>
     <string name="operation_too_often">Muitas solicitações estão a ser feitas a partir de seu endereço IP. Espere um minuto ou dois e tente novamente.</string>
@@ -882,7 +882,7 @@ com os amigos"</string>
     <string name="secret_album_display_name">Álbum secreto</string>
     <string name="miui_capture_screen_folder_display_name">Capturas de ecrã</string>
     <string name="internal_camera_folder_display_name">Fotografias da câmara interna</string>
-    <string name="internal_miui_capture_screen_folder_display_name">Capturas de ecrâ internas</string>
+    <string name="internal_miui_capture_screen_folder_display_name">Capturas de ecrã internas</string>
     <string name="miliao_folder_display_name">MiTalk</string>
     <string name="miliao_painting_folder_display_name">Anotações MiTalk</string>
     <string name="miliao_saved_folder_display_name">Mi Talk</string>

@@ -949,7 +949,7 @@ CC: %4$s
      <string name="subject_hint">Assunto</string>
      <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
      <string name="swipe_down_to_refresh">Deslize para baixo para actualizar</string>
-     <string name="switch_as_tranditional_view">Vista Tradicional</string>
+     <string name="switch_as_tranditional_view">Vista tradicional</string>
      <string name="sync_error">Não foi possível sincronizar.</string>
      <string name="sync_error_message">O dispositivo não tem espaço de armazenamento suficiente para sincronizar.</string>
      <string name="system_account_create_failed">Não foi possível criar a conta. Tente novamente.</string>
@@ -959,7 +959,7 @@ CC: %4$s
      <string name="system_folders_title">Pastas do sistema</string>
      <string name="system_folders_trash_dlg">Seleccione a pasta de ficheiros enviados do servidor</string>
      <string name="system_folders_trash_summary">Seleccione a pasta de ficheiros enviados do servidor</string>
-     <string name="system_folders_trash_title">Pasta Lixo</string>
+     <string name="system_folders_trash_title">Pasta lixo</string>
      <string name="tablet">tablet</string>
      <string name="tap_to_configure">Pressione para configurar.</string>
      <string name="tap_to_configure_folder_sync">Sincronizar pasta</string>
@@ -968,9 +968,9 @@ CC: %4$s
      <string name="tip_cannot_switchview_in_unread_folder">Não é possível mudar o modo de exibição na agregação das mensagens não lidas</string>
      <string name="to">Para</string>
      <string name="to_heading">"Para: "</string>
-     <string name="toast_bar_fail_synchronization">"Não é possivel ligar á rede"</string>
+     <string name="toast_bar_fail_synchronization">"Não é possível ligar á rede"</string>
      <string name="toast_bar_insufficient_memory_space">Não há espaço de armazenamento sufeciente</string>
-     <string name="toast_bar_invalid_account">Precisa de iniciar sessão novanmente</string>
+     <string name="toast_bar_invalid_account">Precisa de iniciar sessão novamente</string>
      <string name="toast_bar_no_connection_network">"Sem ligação á internet"</string>
      <string name="toast_bar_open_gmail_synchronization">Toque para utilizar servidor proxy do Gmail</string>
      <string name="too_large_to_attach_additional">O ficheiro não foi anexado. O limite de %1$s.</string>
