@@ -401,7 +401,7 @@ Restam %d tentativas."</string>
     <string name="dtmf_tones_summary">Definir a duração dos tons DTMF</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="xdivert_summary">Definições CFNRc</string>
-    <string name="phone_numbers">Inserir números de Telefone</string>
+    <string name="phone_numbers">Inserir números de telefone</string>
     <string name="sub1LineNumber">Sub1 Número:</string>
     <string name="sub2LineNumber">Sub2 Número:</string>
     <string name="proceed">Continuar</string>
@@ -414,27 +414,27 @@ Restam %d tentativas."</string>
     <string name="managed_roaming_title_sub1">Roaming Controlado (SUB1)</string>
     <string name="managed_roaming_title_sub2">Roaming Controlado (SUB2)</string>
     <string name="managed_roaming_title_sub3">Roaming Controlado (SUB3)</string>
-    <string name="managed_roaming_dialog_content">Rede com serviços limitados encontrada. Quer iniciar uma Pesquisa de Rede?</string>
+    <string name="managed_roaming_dialog_content">Rede com serviços limitados encontrada. Quer iniciar uma pesquisa de rede?</string>
     <string name="managed_roaming_dialog_ok_button">Sim</string>
     <string name="managed_roaming_dialog_cancel_button">Não</string>
-    <string name="ota_title_activate">Active o seu telefone</string>
-    <string name="ota_touch_activate">"É necessário fazer uma chamada especifica para activar o serviço do seu telefone. 
+    <string name="ota_title_activate">Active o seu telemóvel</string>
+    <string name="ota_touch_activate">"É necessário fazer uma chamada específica para activar o serviço do seu telemóvel. 
 
-Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operadora para activar seu telefone."</string>
+Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operadora para activar seu telemóvel.”</string>
     <string name="ota_hfa_activation_title">A activar…</string>
     <string name="ota_hfa_activation_dialog_message">Activar o seu serviço de dados móveis pode demorar 5 minuttos.</string>
     <string name="ota_skip_activation_dialog_title">Ignorar a activação?</string>
-    <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telefone, será informado a activá-lo cada vez que ligar o telefone.</string>
+    <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
     <string name="ota_activate">Activar</string>
-    <string name="ota_title_activate_success">Telefone activado com sucesso.</string>
+    <string name="ota_title_activate_success">Telemóvel activado com sucesso.</string>
     <string name="ota_title_problem_with_activation">Não é possível activar</string>
     <string name="ota_listen">Siga as instruções de voz.</string>
     <string name="ota_speaker">Falar</string>
-    <string name="ota_progress">Aguarde enquanto o telefone é programado.</string>
+    <string name="ota_progress">Aguarde enquanto o telemóvel é programado.</string>
     <string name="ota_failure">Não é possível programar</string>
-    <string name="ota_successful">O seu telefone está activado. Pode demorar cerca de 15 minutos a iniciar o serviço.</string>
-    <string name="ota_unsuccessful">"O telefone não ficou activado. 
+    <string name="ota_successful">O seu telemóvel está activado. Pode demorar cerca de 15 minutos a iniciar o serviço.</string>
+    <string name="ota_unsuccessful">"O telemóvel não ficou activado. 
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
 Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais soluções."</string>
@@ -468,10 +468,10 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="pick_outgoing_sip_phone">"Utilizar a conta de chamadas pela Internet "</string>
     <string name="remember_my_choice">Utilizar sempre para fazer chamadas pela Internet</string>
     <string name="reset_my_choice_hint">Pode alterar qual a conta de chamadas pela Internet a utilizar por predefinição a partir do telefone> Definições > Definições de chamadas Internet> Contas.</string>
-    <string name="pstn_phone">Chamada de telefone celular</string>
+    <string name="pstn_phone">Chamada de telemóvel</string>
     <string name="internet_phone">Chamada pela Internet</string>
     <string name="no_sip_account_found_title">Sem conta de chamada pela Internet</string>
-    <string name="no_sip_account_found">Não há contas de chamadas pela Internet neste telefone. Quer adicionar uma conta agora?</string>
+    <string name="no_sip_account_found">Não há contas de chamadas pela Internet neste telemóvel. Quer adicionar uma conta agora?</string>
     <string name="sip_menu_add">Adicionar</string>
     <string name="add_sip_account">Adicionar conta</string>
     <string name="remove_sip_account">Remover conta</string>
@@ -585,7 +585,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="dtmf_tone_entries_normal">Normal</string>
     <string name="dtmf_tone_entries_long">Longo</string>
     <string name="contactScreen">Adic/Editar contactos do cartão SIM</string>
-    <string name="exportContactScreen">Exportar os contactos do telefone para o cartão SIM</string>
+    <string name="exportContactScreen">Exportar os contactos do telemóvel para o cartão SIM</string>
     <string name="addSimEntries">Adicionar contacto do cartão SIM</string>
     <string name="deleteAllSimEntries">Eliminar todos os contactos do cartão SIM</string>
     <string name="deleteSimContacts">A eliminar contactos do cartão SIM</string>
@@ -639,7 +639,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="telocation_custom_name_hint">Nome</string>
     <string name="telocation_number_type">Tipo de número</string>
     <string name="telocation_number_type_jituan">Número de grupo</string>
-    <string name="telocation_number_type_mob">Telefone móvel</string>
+    <string name="telocation_number_type_mob">Telemóvel</string>
     <string name="telocation_number_type_tel">Telefone fixo</string>
     <string name="telocation_countrycode_alert_message">Digite o número de telefone sem o código da área</string>
     <string name="telocation_confim_delete_title">Eliminar esta mensagem?</string>
@@ -716,8 +716,8 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="answer_state_setting_title">Definições das chamadas recebidas</string>
     <string name="answer_state_setting_summary">Opções adicionais das chamadas recebidas</string>
     <string name="turnover_mute_title">Rodar para silenciar</string>
-    <string name="turnover_mute_summary">Rode a face de cima do telefone para baixo para silenciar</string>
-    <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
+    <string name="turnover_mute_summary">Rode a face de cima do telemóvel para baixo para silenciar</string>
+    <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telemóvel é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
     <string name="handon_ringer_title">Parar de tocar ao levantar</string>
     <string name="enable_proximity_summary">Desligar o ecrã durante as chamadas</string>
     <string name="enable_proximity_title">Sensor de proximidade</string>
@@ -758,7 +758,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="messageCFNRc">Número para quando estiver inacessível</string>
     <string name="sum_cfnrc_enabled">Reencaminhar para {0}</string>
     <string name="sum_cfnrc_disabled">Desligado</string>
-    <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando o telefone está inacessível.</string>
+    <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando o telemóvel está inacessível.</string>
     <string name="call_forwarding_settings">Reecaminhamento de chamadas</string>
     <string name="call_forwarding_number_hint">Reencaminhar chamadas para</string>
     <string name="cfu_title">Reencaminhar sempre</string>

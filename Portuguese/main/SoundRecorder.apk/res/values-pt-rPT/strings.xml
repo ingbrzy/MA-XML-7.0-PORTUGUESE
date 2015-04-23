@@ -14,7 +14,7 @@
      <string name="delete">Eliminar</string>
      <string name="delete_dialog_message">Eliminar a gravação?</string>
      <string name="deleting_message">A eliminar…</string>
-     <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente na memória interna do telefone.</string>
+     <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente na memória interna do telemóvel.</string>
      <string name="dialog_title_storage_full">Não há espaço suficiente</string>
      <string name="duration_format_hour">%sh</string>
      <string name="duration_format_minute">%sm</string>
@@ -34,7 +34,7 @@
      <string name="notification_message_all_paused">Pode aumentar o uso de dados móveis.</string>
      <string name="notification_playback">Em reprodução…</string>
      <string name="notification_recording">A gravar…</string>
-     <string name="notification_recording_ticker">Telefone em modo silencioso. A gravar…</string>
+     <string name="notification_recording_ticker">Telemóvel em modo silencioso. A gravar…</string>
      <string name="notification_stopped">A gravação foi interrompida</string>
      <string name="notification_title_all_paused">Transferência em pausa</string>
      <string name="notification_warning">Baixo armazenamento (menos de %d minutos)</string>
