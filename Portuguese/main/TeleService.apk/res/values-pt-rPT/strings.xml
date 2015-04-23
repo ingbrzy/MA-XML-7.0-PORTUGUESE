@@ -297,7 +297,7 @@ Será utilizada a rede preferida."</string>
     <string name="simContacts_emptyLoading">A ler…</string>
     <string name="exportContacts">A exportar…</string>
     <string name="simContacts_title">Gerir os contactos do cartão SIM</string>
-    <string name="simContacts_airplaneMode">Para importar os contactos do cartão SIM, desligue primeiro o modo Avião.</string>
+    <string name="simContacts_airplaneMode">Para importar os contactos do cartão SIM, desligue primeiro o modo de voo.</string>
     <string name="tty_mode_option_title">Modo TTY</string>
     <string name="tty_mode_option_summary">Configurar o modo TTY</string>
     <string name="enable_pin">PIN do SIM</string>
@@ -380,7 +380,7 @@ Restam %d tentativas."</string>
     <string name="notification_network_selection_text">Rede (%s) seleccionada indisponível</string>
     <string name="notification_missedCall_call_back">Ligar de volta</string>
     <string name="notification_missedCall_message">Mensagem</string>
-    <string name="incall_error_power_off">Para efectuar uma chamada, desligue primeiro o modo Avião.</string>
+    <string name="incall_error_power_off">Para efectuar uma chamada, desligue primeiro o modo de voo.</string>
     <string name="incall_error_emergency_only">Não registado na rede.</string>
     <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
     <string name="incall_error_no_phone_number_supplied">Impossível fazer chamada, número inválido.</string>
