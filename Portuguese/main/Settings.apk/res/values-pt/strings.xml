@@ -861,7 +861,7 @@ Possivelmente o código PIN está errado."</string>
     <string name="wrong_pin_code_pukked">O Código PIN do cartão SIM está errado deve entrar em conctato com a sua operadora para desbloquear o dispositivo.</string>
     <string name="pin_failed">A operação do PIN do SIM falhou!</string>
     <string name="device_info_settings">Estado do telefone</string>
-    <string name="system_update_settings_list_item_title">Actualização do Sistema</string>
+    <string name="system_update_settings_list_item_title">Actualização do sistema</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="firmware_version">Versão do Android:</string>
     <string name="model_number">Modelo do dispositivo:</string>
@@ -956,7 +956,7 @@ Possivelmente o código PIN está errado."</string>
     <string name="apn_mms_port">Port MMS</string>
     <string name="apn_mcc">MCC</string>
     <string name="apn_mnc">MNC</string>
-    <string name="apn_auth_type">Tipo de autênticação</string>
+    <string name="apn_auth_type">Tipo de autenticação</string>
     <string name="apn_auth_type_none">Nenhum</string>
     <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -1288,7 +1288,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="process_service_in_use_description">Serviço %1$s está em utilização.</string>
     <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização.</string>
     <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
-    <string name="runningservicedetails_stop_dlg_text">Tem certeza que quer parar o serviço do sistema? Se fizer isso, algumas características deste telefone podem deixar de funcionar correctamente até que o reenicie.</string>
+    <string name="runningservicedetails_stop_dlg_text">Tem certeza que quer parar o serviço do sistema? Se fizer isso, algumas características deste telefone podem deixar de funcionar correctamente até que o reinicie.</string>
     <string name="language_settings">Idioma e teclado</string>
     <string name="language_keyboard_settings_title">Idioma e teclado</string>
     <string name="language_settings_category">Definições do idioma</string>
@@ -1434,7 +1434,7 @@ Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
 "<li>Ajuste o nível do zoom: Pressione dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
-Também pode estender temporáriamente está sob o dedo três vezes ao pressionar e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode estender temporariamente está sob o dedo três vezes ao pressionar e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Note: Pressione três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
     <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -1457,7 +1457,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="accessibility_menu_item_settings">Definições</string>
     <string name="accessibility_feature_state_on">Activado</string>
     <string name="accessibility_feature_state_off">Desactivado</string>
-    <string name="captioning_preview_title">Previsualização</string>
+    <string name="captioning_preview_title">Pré-visualização</string>
     <string name="captioning_standard_options_title">Opções básicas</string>
     <string name="captioning_locale">Idioma</string>
     <string name="captioning_text_size">Tamanho do texto</string>
