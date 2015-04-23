@@ -26,7 +26,7 @@
      <string name="add_organization">Adicionar organização</string>
      <string name="add_to_my_contacts">Adicionar aos meus contactos</string>
      <string name="add_wait">Adicionar em espera</string>
-     <string name="add_xiaomi_account_dialog_btn">Utilize a conta Mi</string>
+     <string name="add_xiaomi_account_dialog_btn">Utilize a Conta Mi</string>
      <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contactos na sua conta Xiaomi para aceder em qualquer lugar!</string>
      <string name="add_xiaomi_account_dialog_title">Seleccione a conta</string>
      <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações inseridas até agora serão copiadas.</string>
@@ -47,7 +47,7 @@
      <string name="btn_split_contact">Separar</string>
      <string name="button_cancel_scan">Parar</string>
      <string name="button_scan">Voltar a explorar</string>
-     <string name="caching_vcard_message">Histórico de dados do VCard no telefone…</string>
+     <string name="caching_vcard_message">Histórico de dados do vCard no telefone…</string>
      <string name="caching_vcard_title">A armazenar no histórico de dados</string>
      <string name="callAgain">Chamar novamente</string>
      <string name="callBack">Chamada de volta</string>
@@ -535,7 +535,7 @@ Motivo: \"%s\""</string>
      <string name="menu_new_contact_action_bar">Adicionar Contacto</string>
      <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
      <string name="menu_new_group_action_bar">Adicionar Grupo</string>
-     <string name="menu_not_redirect_calls_to_vm">O Correio de voz não está em activado</string>
+     <string name="menu_not_redirect_calls_to_vm">O correio de voz não está activado</string>
      <string name="menu_redirect_calls_to_vm">Todas chm. para corr. de voz</string>
      <string name="menu_removeStar">Eliminar de Favoritos</string>
      <string name="menu_search">Localizar</string>
@@ -722,9 +722,9 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="pref_key_sim_manage">Configurar o cartão SIM</string>
      <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
      <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
-     <string name="pref_summary_import_from_account">Importar contactos em contas do Google e do Exchange para a minha conta Xiaomi</string>
+     <string name="pref_summary_import_from_account">Importar contactos em contas do Google e do Exchange para a minha Conta Mi</string>
      <string name="pref_title_account_import">Importar da conta</string>
-     <string name="pref_title_import_from_account">Importar da conta Xiaomi</string>
+     <string name="pref_title_import_from_account">Importar da Conta Mi</string>
      <string name="preference_auto_ip_summary_disable">Desligado</string>
      <string name="preference_auto_ip_summary_on">Prefixo IP da operadora: %s</string>
      <string name="preference_auto_ip_title">IP automático</string>
@@ -753,7 +753,7 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="preference_smart_group_company_title">Empresas</string>
      <string name="preference_smart_group_frequency_summary">Grupo por mais recente</string>
      <string name="preference_smart_group_frequency_title">Recente</string>
-     <string name="preference_smart_group_location_summary">Grupo por código da àrea</string>
+     <string name="preference_smart_group_location_summary">Grupo por código da área</string>
      <string name="preference_smart_group_location_title">Localização</string>
      <string name="preference_smart_group_title">Grupos inteligentes</string>
      <string name="preference_telocation_summary_countrycode_off">Não adicionar automaticamente o código do país</string>
@@ -916,7 +916,7 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="resource_mute">Nenhum</string>
      <string name="resource_my">Local</string>
      <string name="resource_no_match_app">Não foi encontrada nenhuma aplicação para concluir esta acção.</string>
-     <string name="resource_no_network_text">Não é possívelligar à rede.</string>
+     <string name="resource_no_network_text">Não é possível ligar à rede.</string>
      <string name="resource_no_result">Não é possível encontrar nada</string>
      <string name="resource_notification_default">Notificações</string>
      <string name="resource_on_trial">A avaliar: %1$s</string>
@@ -1096,8 +1096,8 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="strequentList">Favoritos</string>
      <string name="success_message_import_from_account">Contacto importado</string>
      <string name="summary_kind_title">Resumo</string>
-     <string name="t9_search_guide_pinyin">Digite 2 e 8 para localizar Alan Turing</string>
-     <string name="t9_search_guide_zhuyin">Digite 2 e 8 para localizar Alan Turing</string>
+     <string name="t9_search_guide_pinyin">Digite 2 e 8 para localizar o Alan Turing</string>
+     <string name="t9_search_guide_zhuyin">Digite 2 e 8 para localizar o Alan Turing</string>
      <string name="take_new_photo">Tirar nova foto</string>
      <string name="take_photo">Tirar foto</string>
      <string name="titleJoinContactDataWith">Associar contactos</string>

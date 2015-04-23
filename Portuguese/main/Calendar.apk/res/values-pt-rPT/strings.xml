@@ -30,7 +30,7 @@
      <string name="add_account">Adicionar conta</string>
      <string name="add_calendar">Assinatura</string>
      <string name="add_topic_success">Assinatura \"%s\" sucesso</string>
-     <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
+     <string name="add_topic_unsuccess">Assinatura \”%s\” falha</string>
      <string name="adding_calendar">Inscrições</string>
      <string name="agenda_today">HOJE, %1$s</string>
      <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
@@ -42,13 +42,13 @@
      <string name="anniversary_term">aniversário</string>
      <string name="app_label">Calendário</string>
      <string name="attendees_label">Convidados</string>
-     <string name="birthday_calendar_display_name">Lembrete de Aniversário</string>
+     <string name="birthday_calendar_display_name">Lembrete de aniversário</string>
      <string name="birthday_event_description">Hoje é o %4$s de %1$s!</string>
      <string name="birthday_event_description_detail_leap" />
      <string name="birthday_event_description_detail_smart" />
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
-     <string name="birthday_notification_text_three_days_later">3 dias até ao %3$s (%4$s)</string>
+     <string name="birthday_notification_text_three_days_later">Três dias até ao %3$s (%4$s)</string>
      <string name="birthday_notification_text_today">Não se esqueça de dizer feliz aniversário.</string>
      <string name="birthday_notification_title_three_days_later">O %2$s de %1$s está a chegar</string>
      <string name="birthday_notification_title_today">%3$s de %1$s</string>
@@ -83,7 +83,7 @@
      <string name="cta_notice_title">Solicitação de permissão</string>
      <string name="cta_notify_settings">Perguntar primeiro</string>
      <string name="custom">Personalizar (não é permitido personalizar no telefone)</string>
-     <string name="daily">Diáriamente</string>
+     <string name="daily">Diariamente</string>
      <string name="data_notice_change_settings">Alterar definições</string>
      <string name="data_notice_continue_confirm">Continuar a utilizar</string>
      <string name="data_notice_online_large_image">Inscrever-se para a página do calendário, para ajudá-lo a guardar o tráfego, foi definido como Apenas sincroniza o calendário através da rede Wi-Fi.</string>
@@ -136,8 +136,8 @@
      <string name="event_info_repeat">Repeat\u0009</string>
      <string name="event_info_title">Visualizar evento</string>
      <string name="event_info_title_invite">Convite para reunião</string>
-     <string name="event_info_when">When\u0009\u0009</string>
-     <string name="event_info_where">Where\u0009</string>
+     <string name="event_info_when">Quando\u0009\u0009</string>
+     <string name="event_info_where">Onde\u0009</string>
      <string name="event_lunar_month">Mês</string>
      <string name="event_show_more">Mostrar</string>
      <string name="event_view">Visualizar evento</string>
@@ -196,7 +196,7 @@
      <string name="no_network">Sem rede, por favor actualize novamente a rede :)</string>
      <string name="no_syncable_calendars">Sem agendas</string>
      <string name="no_title_label">(Sem título)</string>
-     <string name="not_exist_topic_list">Não é possivel obter a lista do calendário</string>
+     <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
      <string name="not_synced">Não sincronizado</string>
      <string name="online_calendar_activity_label">Subscrever para o calendário</string>
      <string name="online_reminder_change_text">Modificar lembrete</string>
@@ -207,7 +207,7 @@
      <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
      <string name="pref_error_no_ringtone_select">Nada seleccionado</string>
      <string name="pref_title_alarm_remind">Lembrete de alarme</string>
-     <string name="pref_title_alert_remind">Lembrete Pop-up</string>
+     <string name="pref_title_alert_remind">Lembrete pop-up</string>
      <string name="pref_title_no_remind">Sem lembretes</string>
      <string name="pref_title_notification_remind">Notificações com lembretes</string>
      <string name="preferences_about_title">Acerca</string>
@@ -221,8 +221,8 @@
      <string name="preferences_clear_search_history_summary">Eliminar todas as pesquisas que executou</string>
      <string name="preferences_clear_search_history_title">Eliminar histórico de pesquisa</string>
      <string name="preferences_default_reminder_default">10</string>
-     <string name="preferences_default_reminder_dialog">Hora predifinida do lembrete</string>
-     <string name="preferences_default_reminder_title">Hora predifinida do lembrete</string>
+     <string name="preferences_default_reminder_dialog">Hora predefinida do lembrete</string>
+     <string name="preferences_default_reminder_title">Hora predefinida do lembrete</string>
      <string name="preferences_general_title">Definições de visualização da agenda</string>
      <string name="preferences_hide_declined_title">Ocultar recusados</string>
      <string name="preferences_home_tz_default">Europa/Londres</string>
@@ -291,10 +291,10 @@
      <string name="snooze_all_label">Adiar todos</string>
      <string name="snooze_label">Dispensar</string>
      <string name="subscribe_all">Subscrever</string>
-     <string name="sync_notice_cancel_toast_message">"Local Calendar won't be synced with Mi Cloud"</string>
-     <string name="sync_notice_message">You have not synced Mi calendar yet, turn on the switch now?</string>
+     <string name="sync_notice_cancel_toast_message">Calendário local não será sincronizado com a Nuvem Mi</string>
+     <string name="sync_notice_message">Ainda não sincronizou o calendário Mi. Activar agora?</string>
      <string name="sync_notice_ok">Permitir</string>
-     <string name="sync_notice_ok_toast_message">Calendário local será sincronizado com o My Cloud</string>
+     <string name="sync_notice_ok_toast_message">Calendário local será sincronizado com a Nuvem Mi</string>
      <string name="sync_notice_title">Pedido de sincronização</string>
      <string name="synced">sincronizado</string>
      <string name="tab_category">Classificação</string>

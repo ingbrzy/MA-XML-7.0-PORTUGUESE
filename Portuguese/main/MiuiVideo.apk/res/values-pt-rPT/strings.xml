@@ -25,9 +25,9 @@
      <string name="airkan_video_playing_in">"Video é "</string>
      <string name="alert_dialog_download_btn_hide">Esconder</string>
      <string name="alert_dialog_download_dup_task">Transferência em progresso, por favor aguarde...</string>
-     <string name="alert_dialog_download_error">Falha ao trannsferir</string>
+     <string name="alert_dialog_download_error">Falha ao transferir</string>
      <string name="all_ep">Todos ep</string>
-     <string name="all_episode">Todos os espisódios</string>
+     <string name="all_episode">Todos os episódios</string>
      <string name="app_latest_version">Já tem a versão mais recente</string>
      <string name="app_name">Vídeo</string>
      <string name="app_upgrade_version">Nova versão</string>
@@ -45,11 +45,11 @@
      <string name="check_app_version">A verificar a ultima versão...</string>
      <string name="check_network">Não é possível ligar à rede. Verifique sua ligação de dados e tente novamente.</string>
      <string name="clarity_high">Alto</string>
-     <string name="clarity_standard">Predifinido</string>
+     <string name="clarity_standard">Predefinido</string>
      <string name="clarity_supper">Super</string>
      <string name="clarity_unknown">Desconhecido</string>
      <string name="clear_cache">Limpar cache de imagens</string>
-     <string name="clear_cache_success">Cache Limpa</string>
+     <string name="clear_cache_success">Cache limpa</string>
      <string name="clear_cache_summary">Limpar imagens em cache no navegador de vídeos</string>
      <string name="clear_search_history">Eliminar histórico de pesquisa</string>
      <string name="click_star_rate">Pressione nas estrelas para classificar</string>
@@ -101,7 +101,7 @@
      <string name="delete_with">Eliminar (%d)</string>
      <string name="detail_comment_empty">Vazio</string>
      <string name="develop_version">Developing application</string>
-     <string name="development_setting">Definiçõs de desenvolvedor</string>
+     <string name="development_setting">Definições de desenvolvedor</string>
      <string name="device_empty_hint">Vazio</string>
      <string name="device_media_empty_hint">Vazio</string>
      <string name="di_count_ji">Ep. %d</string>
@@ -147,7 +147,7 @@
      <string name="good">OK</string>
      <string name="hint_apk_download">Toque \"%1$s\" transferir e instalar esta aplicação</string>
      <string name="hint_apk_install">Transferir aplicação</string>
-     <string name="hint_apk_text_update">Nova versão disponivel, deseja transferir e instalar?</string>
+     <string name="hint_apk_text_update">Nova versão disponível, deseja transferir e instalar?</string>
      <string name="hint_apk_title_update">Nova versão</string>
      <string name="icntv">iCNTV</string>
      <string name="info_video_loading">A carregar…</string>
@@ -236,7 +236,7 @@
      <string name="pulltorefresh">Puxe para actualizar</string>
      <string name="qiyi">iQiyi</string>
      <string name="rank_title_movie">Filme</string>
-     <string name="receive_develop_summary">Receba actualização da aplicação quando nova versão de desenvolvedor está disponivel</string>
+     <string name="receive_develop_summary">Receba actualização da aplicação quando nova versão de desenvolvedor está disponível</string>
      <string name="receive_mipush">Forçar notificações</string>
      <string name="receive_mipush_summary">Receber notificações sobre os conteúdos novos e actualizados online</string>
      <string name="recentplay">Reproduzidos recentemente</string>
@@ -250,7 +250,7 @@
      <string name="score_by">Classificação: %s</string>
      <string name="sdcard_storage">Memória interna</string>
      <string name="search">Pesquisar</string>
-     <string name="search_hint">Pesdquisar</string>
+     <string name="search_hint">Pesquisar</string>
      <string name="search_result_empty_text">Não encontramos nada</string>
      <string name="second"> Segundo</string>
      <string name="see_all_count_comment">%d mais comentários</string>
@@ -292,11 +292,11 @@
      <string name="top_status_local_media">Local</string>
      <string name="top_status_offline_media">Offline</string>
      <string name="top_status_online_media">Online</string>
-     <string name="total_episode">%1$s Episodios</string>
+     <string name="total_episode">%1$s episódios</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">Sem canais</string>
      <string name="ui_style">UI Style</string>
-     <string name="ui_style_summary">Prédefinição é vista em lista</string>
+     <string name="ui_style_summary">Predefinição é vista em lista</string>
      <string name="unfavorite">Secundários</string>
      <string name="unknown_source">Fonte desconhecida</string>
      <string name="update">Actualizado</string>

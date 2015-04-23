@@ -67,7 +67,7 @@
      <string name="download">Transferência</string>
      <string name="download_all_song">Transferir todas</string>
      <string name="download_auto_after_favorite_summary">Transferir automaticamente as músicas favoritas</string>
-     <string name="download_auto_after_favorite_title">Transferir Favoritos</string>
+     <string name="download_auto_after_favorite_title">Transferir favoritos</string>
      <string name="download_auto_cancel">Transferência de favoritos desactivada</string>
      <string name="download_auto_message">Músicas marcadas com favorito serão automaticamente transferidas quando estiver ligado a uma Wi-Fi. Pode alterar essa configuração em Definições da conta na aba Local.</string>
      <string name="download_auto_quality_alert_sub_title_for_expired">O seu tempo de teste ou subscrição expirou. Seleccione outra qualidade de música para transferir.</string>
@@ -86,10 +86,10 @@
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
      <string name="durationformatshort">%2$d:%5$02d</string>
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-     <string name="empty_page_no_album">Sem Albuns.</string>
-     <string name="empty_page_no_artist">Sem Artistas.</string>
-     <string name="empty_page_no_document">Sem documentos de audio.</string>
-     <string name="empty_page_no_track">Sem Músicas</string>
+     <string name="empty_page_no_album">Sem álbuns</string>
+     <string name="empty_page_no_artist">Sem artistas</string>
+     <string name="empty_page_no_document">Sem documentos de audio</string>
+     <string name="empty_page_no_track">Sem músicas</string>
      <string name="enabled">Activado</string>
      <string name="eq_auto">Personalizado</string>
      <string name="eq_blues">Blues</string>
@@ -97,7 +97,7 @@
      <string name="eq_country">Country</string>
      <string name="eq_dance">Dance</string>
      <string name="eq_delete">Remover</string>
-     <string name="eq_delete_success">Concluido</string>
+     <string name="eq_delete_success">Concluído</string>
      <string name="eq_electronic">Electronic</string>
      <string name="eq_flat">Flat</string>
      <string name="eq_hiphop">Hip Hop</string>
@@ -113,14 +113,14 @@
      <string name="equalizer">Equalizador</string>
      <string name="error_forbidden">Sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
      <string name="error_not_acceptable">Sincronização foi desactivada.</string>
-     <string name="error_title">Não foi possivel sincronizar com a sua conta Mi</string>
+     <string name="error_title">Não foi possível sincronizar com a sua conta Mi</string>
      <string name="error_unauthorized">A sincronização foi desactivada devido a excesso de tentativas de início de sessão.</string>
      <string name="expired">Expirado</string>
      <string name="fail_to_play">Não é possível reproduzir a música</string>
      <string name="favorite_canceled">Eliminar dos favoritos</string>
      <string name="favorite_playlist">Favoritos</string>
      <string name="favorite_succeed">Já adicionada aos favoritos</string>
-     <string name="favourite_music_left_half">Para adcionar músicas á lista de reprodução, Pressione em</string>
+     <string name="favourite_music_left_half">Para adicionar músicas á lista de reprodução, Pressione em</string>
      <string name="favourite_music_right_half">Ícone favorito à direita do título da música</string>
      <string name="file_not_found">Arquivo não encontrado</string>
      <string name="filter_by_duration">Por comprimento</string>
@@ -134,7 +134,7 @@
      <string name="filter_by_size">Por tamanho</string>
      <string name="filter_by_size_max">2MB</string>
      <string name="filter_by_size_min">0KB</string>
-     <string name="filter_by_size_prefix">"Minimo de tamanho: "</string>
+     <string name="filter_by_size_prefix">"Mínimo de tamanho: "</string>
      <string name="filter_by_size_summary">Não mostrar ficheiros áudio pequenos</string>
      <string name="find_music">Procurar Músicas</string>
      <string name="format_not_support">Este formato não é suportado</string>
@@ -167,7 +167,7 @@
      <string name="listview_index_of_total">%1$d/%2$d</string>
      <string name="loading_hint">A carregar</string>
      <string name="local_music">Música Local</string>
-     <string name="local_music_is_not_available">Musica local não se encontra disponivel</string>
+     <string name="local_music_is_not_available">Musica local não se encontra disponível</string>
      <string name="local_tracks_short">Música Local</string>
      <string name="login_first">Ligar á minha conta Mi</string>
      <string name="lrc_search_failed">A letra não foi encontrada</string>
@@ -175,7 +175,7 @@
      <string name="lyric">Letra</string>
      <string name="lyric_is_empty">A letra não está disponível</string>
      <string name="lyric_open_other_connect">Transferir a letra utilizando dados móveis</string>
-     <string name="lyric_setting">Defimições da letra</string>
+     <string name="lyric_setting">Definições da letra</string>
      <string name="max_sleep_time">90</string>
      <string name="metered_alert">Aviso do uso de dados Móveis</string>
      <string name="metered_alert_msg">Utilizar a sua ligação de dados para transmitir música vai aumentar o seu uso de dados. Tenha cuidado para não exceder o limite mensal do seu plano da operadora, pode resultar em valores acentuados.</string>
@@ -192,7 +192,7 @@
      <string name="music_filter">Filtrar ficheiros áudio</string>
      <string name="music_quality">Música de qualidade</string>
      <string name="music_settings">Música</string>
-     <string name="my_account">A Minha Conta</string>
+     <string name="my_account">A minha conta</string>
      <string name="my_music">Local</string>
      <string name="my_music_empty">Lista de reprodução vazia</string>
      <string name="my_music_empty_goto_online">Não foram encontradas músicas</string>
@@ -264,7 +264,7 @@
      <string name="set_id3_failed">Falha ao definir informações sobre a música</string>
      <string name="set_id3_successful">Informações sobre a música definidas com sucesso</string>
      <string name="set_lyric_successful">A letra foi definida com sucesso</string>
-     <string name="set_ringtones_failed">Não é possível definor como toque</string>
+     <string name="set_ringtones_failed">Não é possível definir como toque</string>
      <string name="set_ringtones_successful">%s definir como toque</string>
      <string name="similar_songs">Músicas idênticas</string>
      <string name="sleep_mode">Temporizador</string>
