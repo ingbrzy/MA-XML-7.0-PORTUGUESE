@@ -18,7 +18,7 @@
      <string name="access_control_no_back_footer">Pressione [botão] para sair</string>
      <string name="access_control_password_title">Palavra-passe</string>
      <string name="access_control_recording_intro_header">Desenhe o padrão para criar esquema de bloqueio:</string>
-     <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para repor a palavra-passe</string>
+     <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para repor a palavra-passe</string>
      <string name="accessibility_captioning_title">Legendas</string>
      <string name="accessibility_enable">Acessibilidade</string>
      <string name="accessibility_feature_state_off">Desligado</string>
@@ -796,12 +796,12 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="device_status">Estado</string>
      <string name="device_status_activity_title">Estado</string>
      <string name="device_status_summary">Número de telefone, sinal, etc.</string>
-     <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
+     <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
      <string name="dialog_no">Não</string>
      <string name="dialog_title_color_calibration">Correcção de cores</string>
      <string name="dialog_title_font_size">Tamanho da letra</string>
      <string name="dialog_title_hdmi_color_calibration">Correcção de cores</string>
-     <string name="dialog_title_login">Iniciar sessão na sua conta Mi</string>
+     <string name="dialog_title_login">Iniciar sessão na sua Conta Mi</string>
      <string name="dialog_yes">Sim</string>
      <string name="dirac_control">Optimização da qualidade de audio</string>
      <string name="dirac_mode_earbuds">Auriculares Mi</string>
@@ -947,7 +947,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus dese
      <string name="erase_internal_storage_description">Eliminar música, fotografias, vídeos, e outros dados do utilizador</string>
      <string name="erase_optional">Conteúdo</string>
      <string name="erase_personal_data">Dados pessoais</string>
-     <string name="erase_personal_data_description">Eliminar a sua conta Mi, dados de aplicações, e definições de sistema</string>
+     <string name="erase_personal_data_description">Eliminar a sua Conta Mi, dados de aplicações, e definições de sistema</string>
      <string name="erase_sure">Dados pessoais</string>
      <string name="error_apn_empty">O campo APN não pode estar vazio.</string>
      <string name="error_mcc_not3">O campo MCC deve ter 3 dígitos.</string>
@@ -1732,10 +1732,10 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
      <string name="privacy_settings_title">Cópia e restauro</string>
      <string name="private_gallery_need_to_unlock">É necessária uma palavra-passe:</string>
      <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-     <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua conta MI</string>
+     <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua Conta Mi</string>
      <string name="private_sms_need_to_unlock">É necessária uma palavra-passe:</string>
      <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-     <string name="private_sms_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua conta MI</string>
+     <string name="private_sms_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua Conta Mi</string>
      <string name="process_kernel_label">Sistema Android</string>
      <string name="process_mediaserver_label">Servidor de multimédia</string>
      <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização.</string>
@@ -2320,7 +2320,7 @@ Um servi&amp;#231;o do Google para sincronizar dados que permitem o acesso aos s
      <string name="title_local_resource">Recursos locais</string>
      <string name="title_system_resource">Recursos do sistema</string>
      <string name="toast_lockscreen_glogin_empty_password">Digitar a palavra-passe</string>
-     <string name="toast_need_login">Iniciar sessão na sua conta Mi</string>
+     <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
      <string name="total_size">Total %s:</string>
      <string name="total_size_label">Total</string>
      <string name="touch_sensitive_summary">Faz com que a sensibilidade do ecrã seja maior para poder responder quando utiliza luvas</string>
@@ -2896,7 +2896,7 @@ Pressione "&lt;b&gt;Voltar&lt;/b&gt; para ligar a uma rede Wi-Fi diferente."</st
      <string name="wifi_share">Partilhar Wi-Fi</string>
      <string name="wifi_share_action_turn_off">Parar a partilha de redes</string>
      <string name="wifi_share_action_turn_on">Partilhar Wi-Fi</string>
-     <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua conta MI para partilhar</string>
+     <string name="wifi_share_action_turn_on_summary">Inicie a sessão na sua Conta Mi para partilhar</string>
      <string name="wifi_share_add">Partilhar as minhas redes públicas</string>
      <string name="wifi_share_add_summary">"Quando partilha a sua rede pública Wi-Fi,
 pode utilizar também as redes de outros utilizadores"</string>

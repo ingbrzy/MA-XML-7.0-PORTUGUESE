@@ -3,8 +3,8 @@
 <resources>
      <string name="about_device">Acerca do telefone</string>
      <string name="active_xiaomi_account">Activa</string>
-     <string name="active_xiaomi_account_msg">Para activar a sua conta Mi, vá https://account.xiaomi.com/pass/serviceLogin.</string>
-     <string name="active_xiaomi_account_title">Activar conta Mi</string>
+     <string name="active_xiaomi_account_msg">Para activar a sua Conta Mi, vá https://account.xiaomi.com/pass/serviceLogin.</string>
+     <string name="active_xiaomi_account_title">Activar Conta Mi</string>
      <string name="app_name">Actualizar</string>
      <string name="apply_title">A actualizar (%s)</string>
      <string name="apply_update_dialog_cancel_button">Cancelar</string>
@@ -21,13 +21,13 @@
      <string name="auto_update_sum">Transferir automaticamente quando ligado à Wi-Fi</string>
      <string name="autosetmode">Definições</string>
      <string name="best_update">Melhor actualização</string>
-     <string name="boot_recovery">Reiniciar em modo de Restauro?</string>
+     <string name="boot_recovery">Reiniciar em modo de restauro?</string>
      <string name="button_text_check">Verificar actualizações</string>
      <string name="button_text_later_reboot">Mais tarde</string>
      <string name="button_text_reboot">Reiniciar</string>
      <string name="button_text_reboot_hm">Reiniciar agora</string>
      <string name="button_text_update">Actualizar</string>
-     <string name="cancel_download">Parar de transferir a actualiação?</string>
+     <string name="cancel_download">Parar de transferir a actualização?</string>
      <string name="cancel_download_buton_text">Cancelar</string>
      <string name="check_new_version">Verificar</string>
      <string name="check_update_policy">Definições</string>
@@ -39,7 +39,7 @@
      <string name="comment_sending">A enviar…</string>
      <string name="comment_upload_failed">Não é possível enviar comentário</string>
      <string name="comment_upload_hint">Obrigado pelo seu comentário!</string>
-     <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua conta Mi</string>
+     <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua Conta Mi</string>
      <string name="comment_upload_success">Enviado</string>
      <string name="daily_build">Diária</string>
      <string name="download_again">Tente novamente</string>
@@ -69,7 +69,7 @@
      <string name="install">Instalar</string>
      <string name="install_failed">Update failed</string>
      <string name="install_local">Instalar do local</string>
-     <string name="install_qq">Instalar Tencent weibo</string>
+     <string name="install_qq">Instalar Tencent Weibo</string>
      <string name="internal_build">Interno</string>
      <string name="later">Mais tarde</string>
      <string name="loading">A solicitar…</string>
@@ -77,7 +77,7 @@
      <string name="menu_title_current_version_log">O que há de novo</string>
      <string name="menu_title_download_current_rom">Transferir pacote de actualização</string>
      <string name="menu_title_pick_rom_file">Seleccionar pacote de actualização</string>
-     <string name="menu_title_recovery">Reiniciar em modo de Restauro</string>
+     <string name="menu_title_recovery">Reiniciar em modo de restauro</string>
      <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Go to MIUI forum&lt;/a&gt;" "</string>
      <string name="miui_summary_has_new_version">Actualização disponível</string>
      <string name="miui_summary_no_new_version">Não existem actualizações disponíveis</string>
@@ -98,8 +98,8 @@
      <string name="notification_downloading">A transferir actualização…</string>
      <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo.</string>
      <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo.</string>
-     <string name="notification_load_title_alpha">Inicie sessão na sua conta Mi</string>
-     <string name="notification_load_title_dev">Inicie sessão na sua conta Mi</string>
+     <string name="notification_load_title_alpha">Inicie sessão na sua Conta Mi</string>
+     <string name="notification_load_title_dev">Inicie sessão na sua Conta Mi</string>
      <string name="notification_reboot_btn">Reiniciar</string>
      <string name="notification_reboot_seccess_des">Pressione para actualizar informação.</string>
      <string name="notification_reboot_seccess_title">Dispositivo actualizado</string>
@@ -118,9 +118,9 @@
      <string name="progress_title_checking">A verificar actualizações…</string>
      <string name="reboot">Reiniciar</string>
      <string name="recovery_failed_button">OK</string>
-     <string name="recovery_failed_msg">"O dispositivo não tem memória suficiente para entrar no modo de recuperação e actualizar seu sistema. Tente usar Mi PC Suite:
+     <string name="recovery_failed_msg">"O dispositivo não tem memória suficiente para entrar no modo de restauro e actualizar seu sistema. Tente usar Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
-     <string name="recovery_failed_notification_msg">"Não é possível entrar no modo de recuperação"</string>
+     <string name="recovery_failed_notification_msg">"Não é possível entrar no modo de restauro"</string>
      <string name="recovery_failed_title">Use Mi PC Suite actualizar seu sistema</string>
      <string name="repeat">Tente novamente</string>
      <string name="set_auto">Verificar actualizações automaticamente</string>
@@ -134,7 +134,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="set_network_title">Ligar à rede</string>
      <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
      <string name="share">Partilhar</string>
-     <string name="share_qq">Partilhar via Tencent weibo</string>
+     <string name="share_qq">Partilhar via Tencent Weibo</string>
      <string name="share_sina">Partilhar via Sina Weibo</string>
      <string name="share_update">Partilhar informações do sistema</string>
      <string name="share_update_content_sign">Eu actualizei a MIUI para a versão %1$s! A minha classificação de actualização é de %2$s. Para alterações detalhadas por favor visite %3$s</string>
@@ -173,7 +173,7 @@ Por favor, vote na próxima terça-feira."</string>
      <string name="update_feel">O que estás a pensar?</string>
      <string name="update_general">Assim-assim</string>
      <string name="update_happy">Impressionante!</string>
-     <string name="update_monthly_build_only">Actualizar apenas as roms mensais</string>
+     <string name="update_monthly_build_only">Actualizar apenas as ROMs mensais</string>
      <string name="update_sad">Não foi boa</string>
      <string name="update_success">Dispositivo actualizado</string>
      <string name="update_success_body">Versão: %s</string>
@@ -189,7 +189,7 @@ Por favor, vote na próxima terça-feira."</string>
      <string name="user_intertup_download_msg">A Transferência foi pausada. Pode retomá-la a qualquer momento no aplicação Transferências.</string>
      <string name="user_intertup_download_title">Transferência em pausa</string>
      <string name="validate_pkg_failed_msg">A actualização que transferiu não coincide com os nossos dados. Tente fazer a transferência novamente.</string>
-     <string name="validate_pkg_failed_title">Não é possível verificara actualização</string>
+     <string name="validate_pkg_failed_title">Não é possível verificar a actualização</string>
      <string name="view_upgrade_tutorial">Ver</string>
      <string name="vote_beta">Beta Feedback Program</string>
      <string name="vote_error1">"Parece que ainda não é membro
@@ -197,7 +197,7 @@ do Programa de comentários Beta"</string>
      <string name="vote_error2">"Não foi possível enviar comentários.
 Actualize seu dispositivo e tente novamente"</string>
      <string name="vote_error3">"Não foi possível iniciar sessão.
-Tente iniciar sessão na comta MI de novo."</string>
+Tente iniciar sessão na Conta Mi de novo."</string>
      <string name="vote_error4">Você já apresentou o feedback</string>
      <string name="vote_error5">"Algo está errado
 Não foi possível enviar comentários"</string>
@@ -206,7 +206,7 @@ Não foi possível enviar comentários"</string>
      <string name="vote_hint">Obter 20 pontos de experiência para o fórum MIUI quando vota</string>
      <string name="vote_join">Votado</string>
      <string name="vote_not_recommend">"Não recomendado"</string>
-     <string name="vote_recommend">Recomebar este update</string>
+     <string name="vote_recommend">Recomendar esta actualização</string>
      <string name="vote_submit">Submeter</string>
      <string name="weekly_build">Semanal</string>
      <string name="worst_update">Pior actualização</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart2a -->
 <resources>
-     <string name="add_account_desc">Sincronizar as suas notas com a sua conta Mi?</string>
+     <string name="add_account_desc">Sincronizar as suas notas com a sua Conta Mi?</string>
      <string name="alarm_bar_title">Lembrete</string>
      <string name="alert_action_edit_anyway">Continuar a editar</string>
      <string name="alert_edit_action_delete">Remover</string>
@@ -23,7 +23,7 @@
      <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não soarão quando em modo de silêncio.</string>
      <string name="dlg_title_confirm_alarm_silent">Silênciar alarmes</string>
      <string name="enable_sync">Sincronizar</string>
-     <string name="enable_sync_desc">Sincronizar as suas notas com a sua conta Mi (%1$s)?</string>
+     <string name="enable_sync_desc">Sincronizar as suas notas com a sua Conta Mi (%1$s)?</string>
      <string name="error_contact_not_exist">O contacto não existe</string>
      <string name="error_note_empty_for_clock">Não é possível definir o tempo lembrete para uma nota vazia</string>
      <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas no Painel Principal</string>

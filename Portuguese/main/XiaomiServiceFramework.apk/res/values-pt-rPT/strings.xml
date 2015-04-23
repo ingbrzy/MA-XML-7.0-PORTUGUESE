@@ -29,9 +29,9 @@
   <string name="activate_popup_desc_new_mixed_sim_cards">Os seus cartões SIM foram alterados. A sua operadora pode cobrar uma mensagem nacional e uma mensagem internacional para reactivar %s.</string>
   <string name="activate_popup_desc_new_sim_card">O cartão SIM foi alterado. A sua operadora pode cobrar uma mensagem para reactivar %s.</string>
   <string name="activate_popup_desc_new_sim_card_downlink">O seu cartão SIM foi alterado. Digite o número de telefone associado ao novo cartão SIM para reactivar %s</string>
-  <string name="activate_popup_desc_register_account">A sua operadora pode cobrar por uma mensagem para criar a sua conta Mi.</string>
+  <string name="activate_popup_desc_register_account">A sua operadora pode cobrar por uma mensagem para criar a sua Conta Mi.</string>
   <string name="activate_popup_desc_register_account_downlink">Insira o seu número de telefone</string>
-  <string name="activate_popup_desc_register_account_intl">A sua operadora pode cobrar por uma mensagem internacional para criar a sua conta Mi.</string>
+  <string name="activate_popup_desc_register_account_intl">A sua operadora pode cobrar por uma mensagem internacional para criar a sua Conta Mi.</string>
   <string name="activate_popup_desc_sim_card">A sua operadora pode cobrar uma mensagem para a activar %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Para activar %s, insira o seu número de telefone</string>
   <string name="activate_popup_desc_upload_diagnosis_info">Enviar relatório de erro para a Mi? (ID do relatório : %s)</string>
@@ -44,7 +44,7 @@
   <string name="activate_popup_title_failed_server">Erro no servidor</string>
   <string name="activate_popup_title_manual">Activado %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivar %s</string>
-  <string name="activate_popup_title_register_account">A criar conta Mi</string>
+  <string name="activate_popup_title_register_account">A criar Conta Mi</string>
   <string name="activate_popup_title_upload_diagnosis_info">Não é possível activar o cartão SIM</string>
   <string name="activate_status_desc_acquire_phone_number">Adquirir número de telefone do servidor</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Ocorreu um erro no servidor enquanto a aquisição de número de telefone</string>
