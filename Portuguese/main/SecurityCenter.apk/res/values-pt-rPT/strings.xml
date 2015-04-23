@@ -2,10 +2,10 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string name="SMS_and_MMS">SMS e MMS</string>
-     <string name="Settings_title_anti_spam">Definições do Antispam</string>
-     <string name="Settings_title_anti_virus">Definições do Antivirus</string>
+     <string name="Settings_title_anti_spam">Definições do antispam</string>
+     <string name="Settings_title_anti_virus">Definições do antivirus</string>
      <string name="Settings_title_garbage_cleanup">Definições da limpeza do lixo</string>
-     <string name="Settings_title_network_assistants">Definições do Assistente de Rede</string>
+     <string name="Settings_title_network_assistants">Definições do assistente de rede</string>
      <string name="Settings_title_power_center">Definições de energia</string>
      <string name="activity_title_ad">Anúncios</string>
      <string name="activity_title_antispam">Lista de bloqueio</string>
@@ -366,15 +366,15 @@
      <string name="permission_action_accept">Aceitar</string>
      <string name="permission_action_prompt">Imediato</string>
      <string name="permission_action_reject">Negar</string>
-     <string name="permission_close_permission_control_dialog_msg">Quando o gestor de Permissões está desactivo, as aplicações não vão solicitar permissão para ler os contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder a câmara e outros recursos do dispositivo.</string>
-     <string name="permission_close_permission_control_dialog_title">Desactivar o gestor de Permissões?</string>
+     <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está desactivo, as aplicações não vão solicitar permissão para ler os contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder a câmara e outros recursos do dispositivo.</string>
+     <string name="permission_close_permission_control_dialog_title">Desactivar o gestor de permissões?</string>
      <string name="permission_group_title_charges_related">Encargos</string>
-     <string name="permission_group_title_media_related">Multimédia</string>
+     <string name="permission_group_title_media_related">Multimídia</string>
      <string name="permission_group_title_others">outros</string>
      <string name="permission_group_title_privacy_related">Privacidade</string>
      <string name="permission_group_title_settings_related">Definições</string>
      <string name="permission_permission_control_closed_desc_dialog_msg">As aplicações não vão solicitar permissão para ler os contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder a câmara e outros recursos do dispositivo. Pode activar esta função em - Definições de Permissões.</string>
-     <string name="permission_permission_control_closed_desc_dialog_title">O gestor de Permissões está desactivo</string>
+     <string name="permission_permission_control_closed_desc_dialog_title">O gestor de permissões está desactivo</string>
      <string name="permission_send_sms_descx">As aplicações podem enviar mensagens SMS e MMS</string>
      <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
      <string name="permission_with_call_and_contact">Permissões relacionadas com chamadas telefónicas, informação de contactos e registo de chamadas.</string>
@@ -432,16 +432,16 @@
      <string name="power_customizer_my_mode">Personalizado</string>
      <string name="power_customizer_ok">OK</string>
      <string name="power_customizer_save">Guardar</string>
-     <string name="power_customizer_sleep_mode">Modo de Suspensão</string>
-     <string name="power_customizer_smart_mode">Modo Inteligente</string>
-     <string name="power_customizer_standby_mode">Em Espera</string>
+     <string name="power_customizer_sleep_mode">Modo de suspensão</string>
+     <string name="power_customizer_smart_mode">Modo inteligente</string>
+     <string name="power_customizer_standby_mode">Em espera</string>
      <string name="power_customizer_user_define_mode">Nome</string>
      <string name="power_customizer_user_define_name">O meu perfil da bateria</string>
      <string name="power_customizer_user_define_summary">Definições do utilizador</string>
      <string name="power_dialog_auto_clean_memory_summary">Quando o dispositivo está bloqueado, processos em cache estão a consumir energia</string>
      <string name="power_dialog_auto_clean_memory_title">Limpar memória quando bloqueado</string>
      <string name="power_dialog_cancel">Cancelar</string>
-     <string name="power_dialog_cpu_state_balance">Equilibrio</string>
+     <string name="power_dialog_cpu_state_balance">Equilíbrio</string>
      <string name="power_dialog_cpu_state_balance_desc">Se for necessário aumentar apenas o desempenho do CPU</string>
      <string name="power_dialog_cpu_state_performance">Desempenho</string>
      <string name="power_dialog_cpu_state_performance_desc">Faça o desempenho da CPU uma prioridade sobre a duração da bateria</string>
@@ -641,7 +641,7 @@
      <string name="scanning_bar_system_text">Permissões das aplicações</string>
      <string name="scanning_bar_system_title">Verificar sistema…</string>
      <string name="score_pts">%</string>
-     <string name="settings_title_permission">Definições de Permissões</string>
+     <string name="settings_title_permission">Definições de permissões</string>
      <string name="shutdown_boot">O dispositivo irá desligar às %1$s e ligar às %2$s</string>
      <string name="shutdown_boot_day">O dispositivo irá desligar às %1$s e ligar em %2$dd às %3$s</string>
      <string name="shutdown_cancel_reminder">Não desligar</string>
