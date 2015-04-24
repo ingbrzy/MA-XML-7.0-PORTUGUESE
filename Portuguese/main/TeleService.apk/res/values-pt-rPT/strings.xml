@@ -315,7 +315,7 @@ Será utilizada a rede preferida."</string>
     <string name="enable_pin_ok">O PIN do SIM está activo.</string>
     <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
     <string name="pin_failed">O PIN que digitou está errado.</string>
-    <string name="pin_changed">O PIN do SIM foi alterado com sucesso.</string>
+    <string name="pin_changed">O PIN do SIM foi alterado com êxito.</string>
     <string name="puk_requested">Palavra-passe errada, o PIN está Bloqueado. Digite o código PUK.</string>
     <string name="bad_puk">O PUK que digitou está errado..</string>
     <string name="invalid_puk">Digite o PUK que tenha entre 4 a 8 números.</string>
@@ -427,7 +427,7 @@ Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operad
     <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
     <string name="ota_activate">Activar</string>
-    <string name="ota_title_activate_success">Telemóvel activado com sucesso.</string>
+    <string name="ota_title_activate_success">Telemóvel activado com êxito.</string>
     <string name="ota_title_problem_with_activation">Não é possível activar</string>
     <string name="ota_listen">Siga as instruções de voz.</string>
     <string name="ota_speaker">Falar</string>

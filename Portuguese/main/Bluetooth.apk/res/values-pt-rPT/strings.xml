@@ -95,7 +95,7 @@
   <string name="not_exist_file">Vazio</string>
   <string name="not_exist_file_desc">"O ficheiro não existe. 
 "</string>
-  <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso.</string>
+  <string name="noti_caption">%1$s com êxito, %2$s sem êxito.</string>
   <string name="notification_received">Partilha por Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Partilha por Bluetooth: Ficheiro %1$s não foi recebido</string>
   <string name="notification_receiving">Partilha por Bluetooth: A receber %1$s</string>
@@ -122,7 +122,7 @@
   <string name="sharedUserId"/>
   <string name="start_server">Iniciar o servidor TCP</string>
   <string name="status_canceled">Transferência cancelada pelo o utilizador.</string>
-  <string name="status_connection_error">Ligado sem sucesso.</string>
+  <string name="status_connection_error">Ligado sem êxito.</string>
   <string name="status_file_error">Problema no armazenamento.</string>
   <string name="status_forbidden">Transferência não permitida pelo dispositivo de destino.</string>
   <string name="status_no_sd_card">Sem cartão SD.</string>

@@ -406,7 +406,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="optional_summary">&lt;Opcional&gt;</string>
      <string name="ota_activate">Activado</string>
      <string name="ota_call_end">Voltar</string>
-     <string name="ota_failure">Programação sem sucesso</string>
+     <string name="ota_failure">Programação sem êxito</string>
      <string name="ota_listen">Siga as instruções de voz até ouvir que a activação seja concluída.</string>
      <string name="ota_next">Próximo</string>
      <string name="ota_progress">Aguarde enquanto o telefone está a ser programado.</string>
@@ -440,10 +440,10 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="phone_in_ecm_call_notification_text">Ligação de dados desactivado</string>
      <string name="phone_in_ecm_notification_title">Modo de chamada de emergência</string>
      <string name="phone_info_divider">" ｜ "</string>
-     <string name="pin2_changed">Código PIN2 alterado com sucesso.</string>
+     <string name="pin2_changed">Código PIN2 alterado com êxito.</string>
      <string name="pin2_invalid">FDN não foi actualizado porque você digitou um PIN incorrecto.</string>
      <string name="pin2_or_fdn_invalid">FDN não foi actualizado. The PIN2 estava incorreto, ou o número de telefone foi rejeitada.</string>
-     <string name="pin_changed">O PIN do SIM foi alterado com sucesso.</string>
+     <string name="pin_changed">O PIN do SIM foi alterado com êxito.</string>
      <string name="pin_failed">O PIN digitado estava incorreto.</string>
      <string name="port">Porta</string>
      <string name="port_title">Número da porta</string>

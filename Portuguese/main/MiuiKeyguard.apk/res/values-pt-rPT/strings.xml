@@ -30,8 +30,8 @@
   <string name="lockscreen_access_pattern_detected">Padrão completo</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem sucesso, o telefone será redefinido para o padrão de fábrica e todos os dados do utilizador serão perdidos.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem sucesso, será solicitado para desbloquear o telefone utilizando o seu início de sessão da conta.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem êxito, o telefone será redefinido para o padrão de fábrica e todos os dados do utilizador serão perdidos.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem êxito, será solicitado para desbloquear o telefone utilizando o seu início de sessão da conta.
 
  Tente novamente em %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Foram usadas %d tentativas de desbloqueio. O telefone será redefinido para padrão de fábrica.</string>
