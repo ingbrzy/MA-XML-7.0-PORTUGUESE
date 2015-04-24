@@ -3,7 +3,7 @@
 <resources>
      <string name="MIUI_startpage">Página inicial</string>
      <string name="accessibility_button_clear">Limpar entrada</string>
-     <string name="accessibility_content_view">Ver na internet</string>
+     <string name="accessibility_content_view">Ver na Internet</string>
      <string name="accessibility_date_picker_month">Mês</string>
      <string name="accessibility_date_picker_week">Semana</string>
      <string name="accessibility_date_picker_year">Ano</string>
@@ -22,7 +22,7 @@
      <string name="action_menu_text_bandwidth_on">Largura de banda/Ligada</string>
      <string name="action_menu_text_bookmark">Adicionar favorito</string>
      <string name="action_menu_text_exit">Sair</string>
-     <string name="action_menu_text_fullscreen">Ecrân completo</string>
+     <string name="action_menu_text_fullscreen">Ecrã completo</string>
      <string name="action_menu_text_history">Favoritos/Histórico</string>
      <string name="action_menu_text_nightmode">Modo nocturno</string>
      <string name="action_menu_text_nightmode_off">Modo nocturno desligado</string>
@@ -32,7 +32,7 @@
      <string name="action_menu_text_snapshot">Guardar página</string>
      <string name="action_menu_text_video">Vídeo</string>
      <string name="actionbar_share">Partilhar</string>
-     <string name="actionbar_web_search">Pesquisar na internet</string>
+     <string name="actionbar_web_search">Pesquisar na Internet</string>
      <string name="adblock_notification">%d bloqueados</string>
      <string name="adblock_rules_restore">Desbloquear</string>
      <string name="adblock_websites_settings_empyt_hint">Não bloqueou nenhuma página.</string>
@@ -60,7 +60,7 @@
      <string name="autofill_profile_editor_address_line_1">Endereço linha 1</string>
      <string name="autofill_profile_editor_address_line_1_hint">Rua, Apartado</string>
      <string name="autofill_profile_editor_address_line_2">Endereço linha 2</string>
-     <string name="autofill_profile_editor_address_line_2_hint">Apartmento, Edifício, Piso, etc.</string>
+     <string name="autofill_profile_editor_address_line_2_hint">Apartamento, Edifício, Piso, etc.</string>
      <string name="autofill_profile_editor_city">Cidade</string>
      <string name="autofill_profile_editor_company_name">Nome da empresa</string>
      <string name="autofill_profile_editor_country">País</string>
@@ -137,7 +137,7 @@
      <string name="close_cloud_tab_tip">Fechar os separadores da nuvem %s?</string>
      <string name="cloud_loading_tips">Puxe para baixo para sincronizar</string>
      <string name="cloud_no_new_data_toast">Dados mais recentes</string>
-     <string name="cloud_sync_closed_toast">Não foi possivel actualizar, a sincronização está desactivada</string>
+     <string name="cloud_sync_closed_toast">Não foi possível actualizar, a sincronização está desactivada</string>
      <string name="cloud_sync_failed_toast">A actualização falhou, por favor, tente novamente mais tarde</string>
      <string name="cloud_tab">Separador da Nuvem</string>
      <string name="cloud_time_tips">A última sincronização</string>
@@ -215,7 +215,7 @@
      <string name="download_default_path_txt">Lembrar a minha escolha</string>
      <string name="download_dialog_default_path_invalid">O caminho é inválido, utilize o caminho predefinido para as transferências</string>
      <string name="download_dialog_file_length_hint_txt">Tamanho do ficheiro:</string>
-     <string name="download_dialog_file_length_lessthan1kb">Menos de 1 kbite</string>
+     <string name="download_dialog_file_length_lessthan1kb">Menos de 1KB</string>
      <string name="download_dialog_file_length_nolength_error_txt">Não foi possível transferir</string>
      <string name="download_dialog_file_length_nolength_txt">A transferir…</string>
      <string name="download_failed">A transferência falhou</string>
@@ -224,7 +224,7 @@
      <string name="download_pending">A iniciar transferência…</string>
      <string name="download_phone_tip">Telefone</string>
      <string name="download_router_tip">Transferir com o Mi Router</string>
-     <string name="download_sdcard_busy_dlg_msg">O armazenamento USB está ocupado. Para permitir transferências, toque em Desligar armazenamento USB nas notificações.</string>
+     <string name="download_sdcard_busy_dlg_msg">O armazenamento USB está ocupado. Para permitir transferências, toque em desligar armazenamento USB nas notificações.</string>
      <string name="download_sdcard_busy_dlg_title">Armazenamento USB não disponível</string>
      <string name="downloaded">Transferência concluída</string>
      <string name="downloading">A transferir…</string>
@@ -243,7 +243,7 @@
      <string name="empty_history_hint">Vazio</string>
      <string name="empty_snapshot_hint">Empty</string>
      <string name="empty_snapshots_folder">Em páginas guardadas.</string>
-     <string name="enter_developer_mode">Entrar em modo de programador</string>
+     <string name="enter_developer_mode">Entrar no modo de programador</string>
      <string name="enter_incongnito_mode">Entrar no modo incógnito</string>
      <string name="error_console_eval_button_text">Avaliar</string>
      <string name="error_console_eval_text_hint">Avaliar JavaScript</string>
@@ -280,7 +280,7 @@
      <string name="geolocation_settings_page_dialog_cancel_button">Cancelar</string>
      <string name="geolocation_settings_page_dialog_message">Limpar acesso à sua localização desta página?</string>
      <string name="geolocation_settings_page_dialog_ok_button">OK</string>
-     <string name="geolocation_settings_page_summary_allowed">Estra página pode aceder à sua localização</string>
+     <string name="geolocation_settings_page_summary_allowed">Esta página pode aceder à sua localização</string>
      <string name="geolocation_settings_page_summary_not_allowed">Esta página não pode aceder à sua localização</string>
      <string name="geolocation_settings_page_title">Limpar acesso à sua localização</string>
      <string name="google_bookmarks">Google</string>
@@ -304,7 +304,7 @@
 Tem certeza de que deseja sair desta página?"</string>
      <string name="js_dialog_before_unload_negative_button">Continuar</string>
      <string name="js_dialog_before_unload_positive_button">Deixar esta página?</string>
-     <string name="js_dialog_before_unload_title">Confirmar Navigação</string>
+     <string name="js_dialog_before_unload_title">Confirmar navegação</string>
      <string name="js_dialog_title">A página em \" %s \" diz:</string>
      <string name="js_dialog_title_default">JavaScript</string>
      <string name="js_disable_confirm_message">Desactivar o JavaScript pode fazer com que alguns sites sejam exibidos incorrectamente</string>
@@ -321,7 +321,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="media_error_action_replace_video_source">Substituir a fonte do vídeo</string>
      <string name="media_error_failure">Falha ao iniciar o vídeo</string>
      <string name="media_error_format">O formato do vídeo não é válido</string>
-     <string name="media_error_nomemory">A memória do telefone está cheia</string>
+     <string name="media_error_nomemory">A memória do telemóvel está cheia</string>
      <string name="media_error_source">Erro da origem do vídeo</string>
      <string name="media_error_timeout">Terminou o tempo limite da rede</string>
      <string name="media_error_video_not_exist">O vídeo não existe</string>
@@ -544,7 +544,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="pref_security_save_form_data">Lembrar dados dos formulários</string>
      <string name="pref_security_save_form_data_summary">Lembrar dados e tipo de formulários</string>
      <string name="pref_security_show_security_warning">Mostrar avisos de segurança</string>
-     <string name="pref_security_show_security_warning_summary">Mostrar aviso de segurança se existir umn problema com o certificado</string>
+     <string name="pref_security_show_security_warning_summary">Mostrar aviso de segurança se existir um problema com o certificado</string>
      <string name="pref_set_homepage_to">Definir como</string>
      <string name="pref_setting_title">Definições de página</string>
      <string name="pref_ua_mione_entry">MI3W</string>
@@ -631,7 +631,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="save_password_never">Nunca</string>
      <string name="save_password_notnow">Agora não</string>
      <string name="save_password_remember">Guardar</string>
-     <string name="save_to_bookmarks">Gardar nos favoritos</string>
+     <string name="save_to_bookmarks">Guardar nos favoritos</string>
      <string name="save_to_camera">Guardar na câmara</string>
      <string name="save_to_camera_failed">Não é possível guardar a imagem</string>
      <string name="save_to_camera_success">Guardado na câmara</string>
@@ -696,7 +696,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="sub_sync_item_browser_title_novel">Sincronizar romances</string>
      <string name="sub_sync_item_browser_title_novel_summary">Sincronizar romances do navegador</string>
      <string name="sub_sync_item_browser_title_webapp">Sincronizar aplicações da web</string>
-     <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar aplicações adicionadas da internet e os meus favoritos</string>
+     <string name="sub_sync_item_browser_title_webapp_summary">Sincronizar aplicações adicionadas da Internet e os meus favoritos</string>
      <string name="suggest_access_appstore">Loja de aplicações Mi</string>
      <string name="suggest_access_btn_install">Instalar</string>
      <string name="suggest_access_btn_open">Abrir</string>
@@ -802,7 +802,7 @@ Tem certeza de que deseja sair desta página?"</string>
      <string name="webstorage_clear_data_dialog_message">Eliminar todos os dados guardados por esta página?</string>
      <string name="webstorage_clear_data_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_title">Limpar dados guardados</string>
-     <string name="webstorage_origin_summary_mb_stored">MB guardado no telefone</string>
+     <string name="webstorage_origin_summary_mb_stored">MB guardado no telemóvel</string>
      <string name="webstorage_outofspace_notification_text">Toque para libertar espaço.</string>
      <string name="webstorage_outofspace_notification_title">O armazenamento do navegador está cheio</string>
      <string name="webview_find_on_page">Pesquisar na página</string>

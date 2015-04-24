@@ -33,9 +33,9 @@
      <string name="check_network_state">Verificar o estado da rede</string>
      <string name="checkout_traffic_saving_history">Visualizar histórico</string>
      <string name="choose">Escolher</string>
-     <string name="connect_internet_by_mobiledata">Ligar-se á internet usando a rede de dados móveis</string>
-     <string name="connect_internet_by_usbshare">Ligar-se á internet usando USB</string>
-     <string name="connect_internet_by_wifi">Ligar-se á internet usando Wi-fi</string>
+     <string name="connect_internet_by_mobiledata">Ligar-se á Internet usando a rede de dados móveis</string>
+     <string name="connect_internet_by_usbshare">Ligar-se á Internet usando USB</string>
+     <string name="connect_internet_by_wifi">Ligar-se á Internet usando Wi-fi</string>
      <string name="current_network_state_not_need_diagnose">Normal</string>
      <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
      <string name="daily_limit_over_message">Excedeu o limite de utilização de dados</string>
@@ -170,9 +170,9 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="main_secondary_message_traffic_used_noleisure">%s de maior tráfego de dados utilizados | No período de menor tráfego não há dados restantes</string>
      <string name="main_secondary_message_traffic_used_normal">%s do limite de dados utilizados</string>
      <string name="main_toolbar_firewall">Restringir aplicação da utilização de dados</string>
-     <string name="main_toolbar_internet_by_mobiledata">Connect to internet using Mobile data network</string>
-     <string name="main_toolbar_internet_by_pc_brige">Connect to internet using USB</string>
-     <string name="main_toolbar_internet_by_wifi">Connect to internet using WLAN</string>
+     <string name="main_toolbar_internet_by_mobiledata">Connect to Internet using Mobile data network</string>
+     <string name="main_toolbar_internet_by_pc_brige">Connect to Internet using USB</string>
+     <string name="main_toolbar_internet_by_wifi">Connect to Internet using WLAN</string>
      <string name="main_toolbar_purchase">A carregar</string>
      <string name="main_toolbar_saving">Poupar dados</string>
      <string name="main_toolbar_statistic">Estatísticas da utilização de dados</string>
@@ -309,7 +309,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
      <string name="roaming_not_start_title">Roaming International</string>
      <string name="roaming_start_body">Permitir aplicações na lista de exceções para ligar ao serviços de dados quando em roaming internacional.</string>
      <string name="roaming_start_title">Roaming International</string>
-     <string name="sc_allow_network_dialog_message">Tem que permitir que esta aplicação ligue à internet para funcionar normalmente.</string>
+     <string name="sc_allow_network_dialog_message">Tem que permitir que esta aplicação ligue à Internet para funcionar normalmente.</string>
      <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar dados do servidor</string>
      <string name="see_detail">Details</string>
      <string name="setting_traffic_pkg">Definir o pacote de dados</string>

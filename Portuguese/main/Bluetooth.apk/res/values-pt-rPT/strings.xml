@@ -84,9 +84,9 @@
   <string name="mi_band_vibrate_sms_in_contacts">Vibrar ao receber SMS e MMS dos contactos</string>
   <string name="mi_band_vibrate_sms_no_contacts">Vibrar ao receber SMS e MMS de números desconhecidos</string>
   <string name="mi_key_alert_dialog_message">Pressione OK para desligar o alarme.</string>
-  <string name="mi_key_alert_dialog_title">Alertas Mi key</string>
-  <string name="mi_key_find_mikey">Encontrar a Mi key</string>
-  <string name="mi_key_find_phone">Encontrar o telefone</string>
+  <string name="mi_key_alert_dialog_title">Alertas MiKey</string>
+  <string name="mi_key_find_mikey">Encontrar a MiKey</string>
+  <string name="mi_key_find_phone">Encontrar o telemóvel</string>
   <string name="mi_key_take_photo">Tirar foto</string>
   <string name="miui_transfer_history_title">Transferências por Bluetooth</string>
   <string name="miui_transfer_inbound_title">Entrada</string>
@@ -112,7 +112,7 @@
   <string name="pbap_session_key_dialog_header">Introduza a chave da sessão bluetooth</string>
   <string name="pbap_session_key_dialog_title">Escreva a chave da sessão para %1$s</string>
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha por Bluetooth e o utilize para transferir ficheiros.</string>
-  <string name="permdesc_bluetoothWhitelist">Permite que a aplicação aceda temporáriamente a um dispositivo Bluetooth da lista de excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador.</string>
+  <string name="permdesc_bluetoothWhitelist">Permite que a aplicação aceda temporariamente a um dispositivo Bluetooth da lista de excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador.</string>
   <string name="permdesc_handoverStatus">Permite receber informações do estado de transferência por Bluetooth.</string>
   <string name="permlab_bluetoothShareManager">Acesso ao gestor de transferências.</string>
   <string name="permlab_bluetoothWhitelist">Lista de excepções de acesso ao dispositivo por Bluetooth.</string>

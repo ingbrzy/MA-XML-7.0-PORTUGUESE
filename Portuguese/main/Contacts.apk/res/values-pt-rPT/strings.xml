@@ -3,8 +3,8 @@
 <resources>
      <string name="accessibility_calllog_detail">Detalhes da lista de chamadas</string>
      <string name="account_container_title">Importado de</string>
-     <string name="account_default">Telefone</string>
-     <string name="account_phone">Apenas telefone, não sincronizados</string>
+     <string name="account_default">Telemóvel</string>
+     <string name="account_phone">Apenas telemóvel, não sincronizados</string>
      <string name="account_sim">Cartão SIM</string>
      <string name="account_sim2">Cartão SIM %d</string>
      <string name="account_type_format">%1$s contacto</string>
@@ -135,7 +135,7 @@
      <string name="chat_qq">Conversar utilizando QQ</string>
      <string name="chat_skype">Conversar utilizando Skype</string>
      <string name="chat_yahoo">Conversar utilizando Yahoo</string>
-     <string name="checkhint">Verifique o telefone de destino</string>
+     <string name="checkhint">Verifique o telemóvel de destino</string>
      <string name="clearCallLogConfirmation">Todos os seus registos de chamadas serão eliminados</string>
      <string name="clearCallLogConfirmation_title">Eliminar todos os registos de chamadas</string>
      <string name="clearCallLogProgress_title">A eliminar registo de chamadas</string>
@@ -385,7 +385,7 @@ Motivo: \"%s\""</string>
      <string name="frequentList">Frequentes</string>
      <string name="from_account_format">%1$s</string>
      <string name="full_name">Nome</string>
-     <string name="generic_no_account_prompt">Mantenha os seus contactos com segurança, mesmo que perca o seu telefone: sincronizar com um serviço online.</string>
+     <string name="generic_no_account_prompt">Mantenha os seus contactos com segurança, mesmo que perca o seu telemóvel: sincronizar com um serviço online.</string>
      <string name="generic_no_account_prompt_title">Adicionar uma conta</string>
      <string name="ghostData_company">Empresa</string>
      <string name="ghostData_title">Título</string>
@@ -421,7 +421,7 @@ Motivo: \"%s\""</string>
      <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
      <string name="import_contact_card_button">Importar contacto</string>
      <string name="import_failure_no_vcard_file">Nenhum ficheiro de vCard encontrado no armazenamento</string>
-     <string name="import_from_other_phone">Importar de outro telefone</string>
+     <string name="import_from_other_phone">Importar de outro telemóvel</string>
      <string name="import_from_sdcard">Importar do armazenamento</string>
      <string name="import_from_sim">Importar do cartão SIM</string>
      <string name="import_from_sim1">Importar do cartão SIM 1</string>
@@ -1176,7 +1176,7 @@ Escolha uma das seguintes opções:"</string>
      <string name="yellowpage_navigation_no_content">Não foi localizado</string>
      <string name="yellowpage_navigation_search_city_name_hint">Cidade</string>
      <string name="yellowpage_navigation_search_history">History</string>
-     <string name="yellowpage_navigation_search_offline_hint">Sem acesso à internet</string>
+     <string name="yellowpage_navigation_search_offline_hint">Sem acesso à Internet</string>
      <string name="yellowpage_navigation_search_result_average_price">Média RMB %d</string>
      <string name="yellowpage_navigation_search_result_network_error">Não foi possível ligar à rede</string>
      <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>

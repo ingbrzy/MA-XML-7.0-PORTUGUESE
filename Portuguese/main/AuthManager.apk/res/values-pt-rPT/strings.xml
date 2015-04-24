@@ -126,11 +126,11 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Location_Source_Network">Dados da rede</string>
   <string name="HIPS_Perm_MMS">MMS</string>
   <string name="HIPS_Perm_MMS_Access">Aplicação pode aceder aos seus dados de MMS</string>
-  <string name="HIPS_Perm_MMS_Desc">Aplicações pode ver as suas mensagens multimídia</string>
-  <string name="HIPS_Perm_MMS_Hint">%1$s aplicações podem ver as suas mensagens multimídia</string>
+  <string name="HIPS_Perm_MMS_Desc">Aplicações pode ver as suas mensagens multimédia</string>
+  <string name="HIPS_Perm_MMS_Hint">%1$s aplicações podem ver as suas mensagens multimédia</string>
   <string name="HIPS_Perm_MobileNetwork">Ligação de dados</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Aplicação pode usar a ligação de dados móveis para ligação à internet</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem usar a ligação de dados móveis para ligação à internet</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Aplicação pode usar a ligação de dados móveis para ligação à Internet</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem usar a ligação de dados móveis para ligação à Internet</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Ligação de dados</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">Aplicação pode activar a ligação de dados móveis</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplicações podem activar a ligação de dados móveis</string>
@@ -205,8 +205,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_VideoRecorder_Desc">Aplicação pode aceder à câmara</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem aceder à câmara</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Aplicação pode usar o Wi-Fi para ligação à internet</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem usar o Wi-Fi para ligação à internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Aplicação pode usar o Wi-Fi para ligação à Internet</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem usar o Wi-Fi para ligação à Internet</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Aplicação pode activar o Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicações podem activar o Wi-Fi</string>

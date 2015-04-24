@@ -17,7 +17,7 @@
     <string name="music_headset_calibrate_volume_down">Diminuir o volume</string>
     <string name="music_headset_calibrate_prev_track">Faixa anterior</string>
     <string name="music_headset_calibrate_next_track">Faixa seguinte</string>
-    <string name="music_headset_calibrate_confirm">Aplicar estas Definições?</string>
+    <string name="music_headset_calibrate_confirm">Aplicar estas definições?</string>
     <string name="music_headset_no_contected">Não foram detectados auriculares</string>
     <string name="music_headset_calibrate_wrong_key">Botão errado</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
@@ -30,8 +30,8 @@
     <string name="music_dirac_mode_off">Dirac desligado</string>
     <string name="music_dirac_mode_general">Genéricos</string>
     <string name="music_dirac_mode_general_earbuds">Auriculares genéricos</string>
-    <string name="music_dirac_mode_general_inear">Intrauriculares genéricos</string>
-    <string name="music_dirac_mode_in_ear">Intrauriculares Mi</string>
+    <string name="music_dirac_mode_general_inear">Intra-auriculares genéricos</string>
+    <string name="music_dirac_mode_in_ear">Intra-auriculares Mi</string>
     <string name="music_dirac_mode_earbuds">Auriculares Mi</string>
     <string name="music_dirac_mode_piston_100">Mi Pistão</string>
     <string name="music_dirac_mode_piston_1">Mi Pistão-1</string>
@@ -531,7 +531,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="bluetooth_map_profile_summary_connected">Ligado a map</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Sem ligação ao servidor de transferência de ficheiros</string>
     <string name="bluetooth_hid_profile_summary_connected">Ligado ao dispositivo de entrada</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">Ligado para acesso à internet</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">Ligado para acesso à Internet</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Partilha da ligação à Internete com o dispositivo</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para audio de média</string>
     <string name="bluetooth_headset_profile_summary_use_for">Utilizar para audio do telefone</string>
@@ -618,7 +618,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_other_network">Outras redes…</string>
     <string name="wifi_more">Mais</string>
     <string name="wifi_setup_wps">Instalação automática (WPS)</string>
-    <string name="wifi_required_info_text">Para completar a instalação, o seu telemóvel necessita de acceso à Wi-Fi. Depois da instalação, pode alterar entre os dados móveis e a Wi-Fi.</string>
+    <string name="wifi_required_info_text">Para completar a instalação, o seu telemóvel necessita de acesso à Wi-Fi. Depois da instalação, pode alterar entre os dados móveis e a Wi-Fi.</string>
     <string name="wifi_show_advanced">Visualizar opções avançadas</string>
     <string name="wifi_wps_setup_title">Instalação Wi-Fi protegida</string>
     <string name="wifi_wps_setup_msg">A iniciar o WPS…</string>
@@ -688,7 +688,7 @@ Permitir isto para todas as aplicações que queiram digitalizar?"</string>
     <string name="wifi_skipped_message">"Cuidado: Pode incorrer em encargos adicionais.
 
 A definição do telefone pode exigir a actividade de rede significativa."</string>
-    <string name="wifi_and_mobile_skipped_message">CUIDADO: Até que tenha uma ligação com a internet, o telefone não será capaz de verificar se o seu software está actualizado.</string>
+    <string name="wifi_and_mobile_skipped_message">CUIDADO: Até que tenha uma ligação com a Internet, o telefone não será capaz de verificar se o seu software está actualizado.</string>
     <string name="wifi_connect_failed_message">O telefone não foi capaz de se ligar a essa rede Wi-Fi.</string>
     <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
     <string name="wifi_setting_frequency_band_title">Banda de frequências de Wi-Fi</string>
@@ -1446,7 +1446,7 @@ Step 1: Pressione e mantenha o botão de energia até ouvir um som ou sentir uma
 
 Step 2: Pressione sem soltar dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporáriamente o acesso até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente o acesso até que o dispositivo seja desbloqueado."</string>
     <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação do ecrã</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do ecrâ</string>
@@ -1820,7 +1820,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="provider_label">Carregar subscrições</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
-    <string name="cant_sync_dialog_message">A sincronização para este ficheiro está desactivada. Para alterar esta configuração, active temporáriamente os dados em segundo plano e a sincronização automática.</string>
+    <string name="cant_sync_dialog_message">A sincronização para este ficheiro está desactivada. Para alterar esta configuração, active temporariamente os dados em segundo plano e a sincronização automática.</string>
     <string name="wimax_settings">Definições 4G</string>
     <string name="status_wimax_mac_address">Endereço MAC 4G</string>
     <string name="enter_password">Insira a palavra-passe para desencriptar o armazenamento</string>
@@ -1843,7 +1843,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="debug_input_category">Entrada</string>
     <string name="debug_drawing_category">A desenhar</string>
     <string name="debug_hw_drawing_category">Acelaração da prestação do hardware</string>
-    <string name="debug_monitoring_category">A monitorizar</string>
+    <string name="debug_monitoring_category">A monitorar</string>
     <string name="strict_mode">Modo restrito ligado</string>
     <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
     <string name="pointer_location">Localização do ponteiro</string>
@@ -2019,10 +2019,10 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
     <string name="ssl_ca_cert_info_message">"Este dispositivo está gerido por:
 %s
 
-O seu administrador pode monitorizar a sua actividade da rede, incluido emails, aplicações e páginas de internet seguras.
+O seu administrador pode monitorar a sua actividade da rede, incluido emails, aplicações e páginas de Internet seguras.
 
 Para mais informação contacte o seu administrador."</string>
-    <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorizar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de internet seguras. 
+    <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de Internet seguras. 
 
 Uma credencial de confiança instalada no seu dispositivo está a fazer isto possivel."</string>
     <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
@@ -2362,8 +2362,8 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="apn_save_msg">Guardar alterações do APN?</string>
     <string name="apn_cm_wap">CMWAP</string>
     <string name="apn_cm_net">CMNET</string>
-    <string name="apn_chinaunicom_3gnet_general">Ligação à internet para utilizadores de banda larga Wal</string>
-    <string name="apn_chinaunicom_3gwap_general">Utilizadores de internet móvel de banda larga Waugh</string>
+    <string name="apn_chinaunicom_3gnet_general">Ligação à Internet para utilizadores de banda larga Wal</string>
+    <string name="apn_chinaunicom_3gwap_general">Utilizadores de Internet móvel de banda larga Waugh</string>
     <string name="activating">A activar…</string>
     <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
     <string name="wifi_disabled_help">A ligação foi interrompida devido ao sinal fraco.</string>
@@ -3004,7 +3004,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="agps_roaming_dia_title">Use AGPS quando em roaming</string>
     <string name="agps_roaming_dia">Utilizando o AGPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
     <string name="wifi_disconnected_notification_title">Wi-Fi desligado</string>
-    <string name="wifi_disconnected_notification_summary">Não está ligado à internet.</string>
+    <string name="wifi_disconnected_notification_summary">Não está ligado à Internet.</string>
     <string name="wifi_off_airplane_on_title">Wi-Fi em modo de voo</string>
     <string name="wifi_off_airplane_on_content">Pode activar o Wi-Fi manualmente quando o modo de voo está activado.</string>
     <string name="wifi_off_airplane_on_not_remind">Não voltar a mostrar</string>

@@ -941,7 +941,7 @@ CC: %4$s
      <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
      <string name="special_text_sender_en">remetente</string>
      <string name="special_text_sender_zh">发件人</string>
-     <string name="status_network_error">Não é possível ligar à internet. Verifique a sua ligação e tente novamente.</string>
+     <string name="status_network_error">Não é possível ligar à Internet. Verifique a sua ligação e tente novamente.</string>
      <string name="storage">Armazenamento</string>
      <string name="str_select_all">Seleccionar todos</string>
      <string name="str_select_none">Desmarcar todos</string>
@@ -971,7 +971,7 @@ CC: %4$s
      <string name="toast_bar_fail_synchronization">"Não é possível ligar á rede"</string>
      <string name="toast_bar_insufficient_memory_space">Não há espaço de armazenamento sufeciente</string>
      <string name="toast_bar_invalid_account">Precisa de iniciar sessão novamente</string>
-     <string name="toast_bar_no_connection_network">"Sem ligação á internet"</string>
+     <string name="toast_bar_no_connection_network">"Sem ligação á Internet"</string>
      <string name="toast_bar_open_gmail_synchronization">Toque para utilizar servidor proxy do Gmail</string>
      <string name="too_large_to_attach_additional">O ficheiro não foi anexado. O limite de %1$s.</string>
      <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. Limite de %1$s.</string>

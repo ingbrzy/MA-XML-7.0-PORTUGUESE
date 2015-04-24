@@ -93,7 +93,7 @@
         <item>Localização</item>
         <item>Vibrar</item>
         <item>Ler contactos</item>
-        <item>Modificar contacots</item>
+        <item>Modificar contactos</item>
         <item>Ler registo das chamadas</item>
         <item>Modificar registo das chamadas</item>
         <item>Ler calendário</item>
@@ -115,20 +115,20 @@
         <item>Desenhe no topo</item>
         <item>Notificações de acesso</item>
         <item>Câmara</item>
-        <item>Gravar Áudio</item>
+        <item>Gravar áudio</item>
         <item>Tocar áudio</item>
         <item>Ler da área de transferência</item>
         <item>Modificar área de transferência</item>
-        <item>Botões Multimédia</item>
-        <item>Foco do Áudio</item>
+        <item>Botões multimédia</item>
+        <item>Foco do áudio</item>
         <item>Volume principal</item>
-        <item>Volume da Voz</item>
-        <item>Volume do Toque</item>
-        <item>Volume Multimédia</item>
-        <item>Volume do Alarme</item>
-        <item>Volume da Notificação</item>
+        <item>Volume da voz</item>
+        <item>Volume do toque</item>
+        <item>Volume multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume da notificação</item>
         <item>Volume Bluetooth</item>
-        <item>Keep awake</item>
+        <item>Manter desperto</item>
         <item>Localização</item>
         <item>Localização</item>
      </string-array>
@@ -169,7 +169,7 @@
         <item>master volume</item>
         <item>volume da voz</item>
         <item>ring volume</item>
-        <item>volume de multimídia</item>
+        <item>volume de multimédia</item>
         <item>volume do alarme</item>
         <item>volume das notificações</item>
         <item>volume bluetooth</item>
@@ -909,7 +909,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -923,7 +923,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
      </string-array>
      <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>

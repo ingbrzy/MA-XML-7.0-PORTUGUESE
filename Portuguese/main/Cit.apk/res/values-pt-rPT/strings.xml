@@ -8,8 +8,8 @@
   <string name="cit_OTG_waiting_out">Retire agora o dispositivo USB OTG</string>
   <string name="cit_ac_charger_in">&gt;A carregar por AC</string>
   <string name="cit_ac_charger_out">Carregador AC desligado</string>
-  <string name="cit_accelermeter_sensor_check_summary">"Mova o telefone rapidamente numa direcção. As coordenadas de X，Y，Z serão exibidas em baixo. (Quando o telefone está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
-Antes de calibrar o telefone, pouse-o numa superfície plana."</string>
+  <string name="cit_accelermeter_sensor_check_summary">"Mova o telemóvel rapidamente numa direcção. As coordenadas de X，Y，Z serão exibidas em baixo. (Quando o telemóvel está em movimento: o X representa esquerda/direita, o Y representa frente/trás e o Z acima/abaixo).
+Antes de calibrar o telemóvel, pouse-o numa superfície plana."</string>
   <string name="cit_accelermeter_sensor_check_title">Acelerómetro</string>
   <string name="cit_aud_spkcal">Calibrar</string>
   <string name="cit_audio_cali_done">Calibração concluída!</string>
@@ -28,38 +28,38 @@ Antes de calibrar o telefone, pouse-o numa superfície plana."</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone para teste de comentário do alto-falante. 
 
-Desligue o telefone, Fale para trás do microfone, deve ouvir a voz no alto-falante"</string>
+Desligue o telemóvel e fale para trás do microfone. Deve ouvir a voz no altifalante"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste funcionamento do microfone principal. 
 
-Segure no telefone como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telefone"</string>
+Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telemóvel"</string>
   <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
 
-Segure o telefone como quando faz uma chamada, Fale com o microfone principal, e deve ouvir a voz no receptor."</string>
+Segure o telemóvel como quando faz uma chamada, Fale com o microfone principal, e deve ouvir a voz no receptor."</string>
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Iniciar o microfone para teste de comentário do alto-falante.
 
- Desligue o telefone, Fale com microfone, deve ouvir a voz no alto-falante"</string>
+ Desligue o telemóvel e fale com microfone. Deve ouvir a sua voz no altifalante"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
   <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal. 
 
-Segure no telefone como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telefone."</string>
+Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telemóvel."</string>
   <string name="cit_audio_loopback_check_summary_second">"Teste de funcionamento do microfone secundário. 
 
-Vire o telefone ao contrário. Fale para o telefone. Deverá ouvir a sua voz no altifalante externo do telefone."</string>
+Vire o telemóvel ao contrário. Fale para o telemóvel. Deverá ouvir a sua voz no altifalante externo do telemóvel."</string>
   <string name="cit_audio_loopback_check_two_title">Teste de funcionamento do microfone secundário</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de redução de ruído ambiente</string>
   <string name="cit_audio_loopback_next">Avançar</string>
   <string name="cit_audio_loopback_previous">Voltar</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Teste de redução de ruídos ambiente 
 
-Segure no telefone como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telefone com o ruído de fundo reduzido."</string>
+Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telemóvel com o ruído de fundo reduzido."</string>
   <string name="cit_battery_temp_fail">Temperatura anormal da bateria (valor=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura normal da bateria</string>
   <string name="cit_batterylight_blue">Azul</string>
   <string name="cit_batterylight_green">Verde</string>
   <string name="cit_batterylight_red">Vermelho</string>
   <string name="cit_batterylight_rgb">Indicador da bateria</string>
-  <string name="cit_blue_tooth_address_check_summary">Em baixo encontra-se o endereço Bluetooth deste telefone.</string>
+  <string name="cit_blue_tooth_address_check_summary">Em baixo encontra-se o endereço Bluetooth deste telemóvel.</string>
   <string name="cit_blue_tooth_address_check_title">Endereço Bluetooth</string>
   <string name="cit_blue_tooth_scan_check_summary">Em baixo encontra-se a informação dos dispositivos Bluetooth detectados.</string>
   <string name="cit_blue_tooth_scan_check_title">Pesquisar Bluetooth</string>
@@ -95,7 +95,7 @@ Segure no telefone como se estivesse a falar com outra pessoa, em seguida, fale 
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
   <string name="cit_fm_audio_path_speaker">Altifalante</string>
-  <string name="cit_fm_check_summary">Isto irá testar a função do rádio FM do telefone.</string>
+  <string name="cit_fm_check_summary">Isto irá testar a função do rádio FM do telemóvel.</string>
   <string name="cit_fm_check_title">Rádio FM</string>
   <string name="cit_fm_close">Fechar FM</string>
   <string name="cit_fm_not_supported">Este dispositivo não suporta rádio FM</string>
@@ -150,7 +150,7 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_keyboard_back">Botão: VOLTAR</string>
   <string name="cit_keyboard_current">Botão: %s</string>
   <string name="cit_keyboard_menu">Botão: MENU</string>
-  <string name="cit_keyboard_test_summary">Quando pressionar os botões do telefone, o texto correspondente no ecrã deverá passar a verde (nota: os botões Home e Power não estão incluídos no teste).</string>
+  <string name="cit_keyboard_test_summary">Quando pressionar os botões do telemóvel, o texto correspondente no ecrã deverá passar a verde (nota: os botões Home e Power não estão incluídos no teste).</string>
   <string name="cit_keyboard_test_title">Botões</string>
   <string name="cit_label">Testes do hardware</string>
   <string name="cit_lcdlight_brightness">Luz do fundo</string>
@@ -175,11 +175,11 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_notificationlight">LED de notificação</string>
   <string name="cit_notificationlight_off">LED de notificação desligado</string>
   <string name="cit_notificationlight_on">LED de notificação ligado</string>
-  <string name="cit_otg_not_supported">Este telefone não suporta teste OTG</string>
+  <string name="cit_otg_not_supported">Este telemóvel não suporta teste OTG</string>
   <string name="cit_pass">O teste foi bem sucedido</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido no dispositivo Wi-Fi associado."</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido nos altifalantes externos do telefone."</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido nos altifalantes externos do telemóvel."</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -187,10 +187,10 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_power_check_title">Indicador da bateria</string>
   <string name="cit_pressure_sensor_check_summary">O valor para a pressão deverá aparecer em baixo</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressão</string>
-  <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado no topo do telefone, perto do altifalante) com a mão, e em seguida retire a mão. Os valores apresentados no teste deverão aumentar ao afastar a mão do sensor.
+  <string name="cit_proximity_sensor_check_summary">"Cubra o sensor de proximidade (localizado no topo do telemóvel, perto do altifalante) com a mão, e em seguida retire a mão. Os valores apresentados no teste deverão aumentar ao afastar a mão do sensor.
 Durante a calibração, assegure-se de que não haja nada entre o sensor e sua mão, como película protectora do ecrã ou luvas."</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximidade</string>
-  <string name="cit_reset_check_summary">Este teste vai reiniciar o telefone. Todos os dados dos testes anteriores serão eliminados.</string>
+  <string name="cit_reset_check_summary">Este teste vai reiniciar o telemóvel. Todos os dados dos testes anteriores serão eliminados.</string>
   <string name="cit_reset_check_title">Teste de reinicialização</string>
   <string name="cit_reset_test">Teste</string>
   <string name="cit_sd_fail">Ocorreu um erro.</string>
@@ -317,7 +317,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_vibrator_play_touch_pattern">Vibração</string>
   <string name="cit_vibrator_short">Vibração curta</string>
   <string name="cit_vibrator_show_advanced">Opções avançadas</string>
-  <string name="cit_wifi_address_check_summary">Em baixo encontra-se o endereço da rede Wi-Fi a que o telefone está ligado. Confirme se a informação destacada em verde está correcta.</string>
+  <string name="cit_wifi_address_check_summary">Em baixo encontra-se o endereço da rede Wi-Fi a que o telemóvel está ligado. Confirme se a informação destacada em verde está correcta.</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
   <string name="cit_wifi_address_error">Falha a obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está activado.</string>
   <string name="cit_wifi_ap_scan_check_summary">Em baixo encontra-se a informação dos APs detectados. Confirme se a informação destacada em verde está correcta.</string>
@@ -329,9 +329,9 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone da frente</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Fale com o microfone da frente pata teste ddo alto-falante.
 
-Vire o telefone e fale para o microfone superior. Deverá ouvir a sua voz no altifalante do telefone."</string>
+Vire o telemóvel e fale para o microfone superior. Deverá ouvir a sua voz no altifalante do telemóvel."</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test. 
 
-Desligue o telefone, Fale com microfone, Deve ouvir a sua voz no alto-falante"</string>
+Desligue o telemóvel, Fale com microfone, Deve ouvir a sua voz no altifalante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Relatório de teste do microfone</string>
 </resources>
