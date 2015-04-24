@@ -76,8 +76,8 @@
      <string name="device_trust_info">Dispositivo autorizado</string>
      <string name="email_or_id_hint_text">Email ou ID conta Mi</string>
      <string name="empty_device_list_notice">Não existem dispositivos</string>
-     <string name="error_device_id">Não é possivel obter IMEI</string>
-     <string name="error_invalid_dev_id">Identif do dispositivo inválida</string>
+     <string name="error_device_id">Não é possível obter IMEI</string>
+     <string name="error_invalid_dev_id">Identificação do dispositivo inválida</string>
      <string name="error_network">Não é possível ligar à rede</string>
      <string name="error_no_sms_service">Não é possível enviar mensagens de texto. A rede móvel não está disponível.</string>
      <string name="error_server">Erro no servidor</string>
@@ -103,7 +103,7 @@
      <string name="login_instead_reg">Utilizar este número</string>
      <string name="login_instead_reg_with_email">Utilizar este Email</string>
      <string name="login_title">Inicie sessão na sua conta Mi</string>
-     <string name="login_with_email_or_id">&lt;u&gt;Inicie sess&amp;#227;o com outra conta&lt;/u&gt;</string>
+     <string name="login_with_email_or_id">&lt;u&gt;Inicie sessão com outra conta&lt;/u&gt;</string>
      <string name="logout_failed">Não é possível terminar sessão</string>
      <string name="mi_account_dspt_provision">"Iniciar sessão na Nuvem Mi, Loja de Temas MIUI, e outros serviços Mi, em qualquer lugar. "</string>
      <string name="mi_support_service">Support</string>
@@ -177,7 +177,7 @@ Para activar a conta, siga em
      <string name="passport_error_login">Não é possível iniciar sessão</string>
      <string name="passport_error_network">Não é possível ligar à rede</string>
      <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. A rede móvel não está disponível.</string>
-     <string name="passport_error_phone_error">Núnero de telefone inválido</string>
+     <string name="passport_error_phone_error">Número de telefone inválido</string>
      <string name="passport_error_server">Erro do servidor</string>
      <string name="passport_error_sim_not_ready">Não é possível encontrar o cartão Sim</string>
      <string name="passport_error_ssl_hand_shake">Erro com a ligação ao servidor. Tente definir a hora ou data do sistema para o tempo actual.</string>
@@ -203,7 +203,7 @@ Para activar a conta, siga em
      <string name="passport_login_instead_reg_with_email">Utilizar este Email</string>
      <string name="passport_login_notice">Iniciar sessão em…</string>
      <string name="passport_login_title">Inicie sessão na conta Mi</string>
-     <string name="passport_login_with_email_or_id">&lt;u&gt;Inicie sess&amp;#227;o com endere&amp;#231;o de email ou ID de conta Mi&lt;/u&gt;</string>
+     <string name="passport_login_with_email_or_id">&lt;u&gt;Inicie sessão com endereço de email ou ID de conta Mi&lt;/u&gt;</string>
      <string name="passport_next">Próximo</string>
      <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
      <string name="passport_password">Insira a sua palavra-passe</string>
@@ -234,7 +234,7 @@ Para activar a conta, siga em
      <string name="passport_register">Criar uma conta</string>
      <string name="passport_register_account_goto_email">Vá à sua caixa de entrada</string>
      <string name="passport_register_account_verified_confirm">Já verificou a sua conta</string>
-     <string name="passport_register_by_email">&lt;u&gt;Criar uma conta utilizando um endere&amp;#231;o de email&lt;/u&gt;</string>
+     <string name="passport_register_by_email">&lt;u&gt;Criar uma conta utilizando um endereço de email&lt;/u&gt;</string>
      <string name="passport_relogin">Iniciar sessão novamente</string>
      <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
      <string name="passport_remove_confirm">Terminar sessão</string>

@@ -13,14 +13,14 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
-        <item>Diáriamente</item>
+        <item>Diariamente</item>
         <item>Dias úteis</item>
         <item>De Seg. a Sex.</item>
         <item>Personalizar</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Uma vez</item>
-        <item>Diáriamente</item>
+        <item>Diariamente</item>
         <item>De Seg. a Sex.</item>
         <item>Personalizar</item>
      </string-array>
@@ -965,7 +965,7 @@
         <item>America/Panama</item>
      </string-array>
      <string-array name="days">
-        <item>Ontêm</item>
+        <item>Ontem</item>
         <item>Hoje</item>
         <item>Amanhã</item>
      </string-array>

@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar usar a vibração</item>
+        <item>A intentar ler os contactos</item>
+        <item>A intentar modificar os contactos</item>
+        <item>A intentar ler o registo de chamadas</item>
+        <item>A intentar modificar o registo de chamadas</item>
+        <item>A intentar ler o calendário</item>
+        <item>A intentar modificar o calendário</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar afixar a notificação</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar fazer um telefonema</item>
+        <item>A intentar ler SMS</item>
+        <item>A intentar escrever/modificar SMS</item>
+        <item>A intentar receber SMS</item>
+        <item>A intentar receber SMS</item>
+        <item>A intentar receber SMS</item>
+        <item>A intentar receber SMS</item>
+        <item>A intentar enviar SMS</item>
+        <item>A intentar ler SMS</item>
+        <item>A intentar escrever/modificar SMS</item>
+        <item>A intentar modificar as definições</item>
         <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
+        <item>A intentar acessar as notificações</item>
+        <item>A intentar acessar a câmara</item>
+        <item>A intentar gravar áudio</item>
+        <item>A intentar reproduzir áudio</item>
+        <item>A intentar ler a área de transferência</item>
+        <item>A intentar modificar a área de transferência</item>
         <item>Trying to use media buttons</item>
         <item>Trying to use audio focus</item>
         <item>Trying to use master volume</item>
-        <item>Trying to use voice volume</item>
-        <item>Trying to use ring volume</item>
-        <item>Trying to use media volume</item>
-        <item>Trying to use alarm volume</item>
-        <item>Trying to use notification volume</item>
-        <item>Trying to use bluetooth volume</item>
-        <item>Trying to Keep device awake</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
+        <item>A intentar usar o volume da voz</item>
+        <item>A intentar usar o volume do toque</item>
+        <item>A intentar usar o volume da multimédia</item>
+        <item>A intentar usar o volume do alarme</item>
+        <item>A intentar usar o volume da notificação</item>
+        <item>A intentar usar o volume de Bluetooth</item>
+        <item>A intentar manter o dispositivo desperto</item>
+        <item>A intentar acessar a localização</item>
+        <item>A intentar acessar a localização</item>
         <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
+        <item>Trying to turn on/off Bluetooth</item>
         <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
+        <item>A intentar enviar MMS</item>
+        <item>A intentar ler MMS</item>
+        <item>A intentar escrever MMS</item>
         <item>Trying to start at bootup</item>
      </string-array>
 </resources>

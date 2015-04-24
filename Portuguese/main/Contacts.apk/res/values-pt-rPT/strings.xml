@@ -436,13 +436,13 @@ Motivo: \"%s\""</string>
      <string name="import_to_xiaomi_account_confirm">Importação</string>
      <string name="import_to_xiaomi_account_progress_finish">A importação terminou</string>
      <string name="import_to_xiaomi_account_progress_message">A importar…</string>
-     <string name="import_to_xiaomi_account_progress_title">Importar contactos para uma conta Xiaomi</string>
-     <string name="import_to_xiaomi_account_title">Deseja importar os seguintes contactos da sua conta Xiaomi?</string>
+     <string name="import_to_xiaomi_account_progress_title">Importar contactos para uma conta Mi</string>
+     <string name="import_to_xiaomi_account_title">Deseja importar os seguintes contactos da sua conta Mi?</string>
      <string name="import_vcard_description">Importar contactos do armaz. interno</string>
-     <string name="import_weibo_dialog_title">Importar contactos weibo</string>
+     <string name="import_weibo_dialog_title">Importar contactos Weibo</string>
      <string name="import_weibo_error_no_matched_contacts">Sem correspondência de contactos</string>
      <string name="import_weibo_error_no_network">Erro de rede</string>
-     <string name="import_weibo_error_no_xiaomi_phone">Não há números de telefone armazenados na sua conta Xiaomi.</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Não há números de telefone armazenados na sua conta Mi.</string>
      <string name="import_weibo_error_unknown">Erro desconhecido</string>
      <string name="import_weibo_error_user_cancel">Utilizador cancelado</string>
      <string name="import_weibo_fetch_followers">A Importar contactos…</string>
@@ -578,7 +578,7 @@ Motivo: \"%s\""</string>
      <string name="nickname_picker_nickname_column">Título</string>
      <string name="noAccounts">Para criar grupos necessita de uma conta.</string>
      <string name="noContactHelpTextAccountsInfo" />
-     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados da cópia de segurança na conta Xiaomi e MiTalk</string>
+     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados da cópia de segurança na conta Mi e MiTalk</string>
      <string name="noContacts">Sem contactos</string>
      <string name="noContactsHelpText">"Não existem contactos para mostrar.
 
@@ -808,7 +808,7 @@ Para adicionar um contacto à sua lista de favoritos:
      <string name="resource_account_abnormal_state">Erro de conta: Tente mais tarde.</string>
      <string name="resource_account_fail_to_add">Falha ao adicionar a conta</string>
      <string name="resource_account_login">Iniciar a sessão</string>
-     <string name="resource_account_login_before_action">Tem de iniciar a sessão na sua conta Xiaomi</string>
+     <string name="resource_account_login_before_action">Tem de iniciar a sessão na sua conta Mi</string>
      <string name="resource_account_login_title">Iniciar a sessão</string>
      <string name="resource_account_switch">Mudar</string>
      <string name="resource_alarm_default">Alarme</string>

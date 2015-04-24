@@ -220,7 +220,7 @@
      <string name="all_folders_heading">Todas as pastas</string>
      <string name="allread">Todos lidos</string>
      <string name="always_bcc_myself">Enviar sempre Cco para mim</string>
-     <string name="always_show_images">Mostrar sempre fotografiass deste remetente</string>
+     <string name="always_show_images">Mostrar sempre fotografias deste remetente</string>
      <string name="always_show_images_toast">As imagens deste remetente serão mostradas automaticamente.</string>
      <string name="annex_size">Anexos</string>
      <string name="app_name">Email</string>
@@ -244,11 +244,11 @@
      <string name="attachment_audio">Áudio</string>
      <string name="attachment_bar_title">Anexos</string>
      <string name="attachment_canceling">A cancelar, por favor aguarde um minuto!</string>
-     <string name="attachment_decoding">Tranferência do anexo foi concluída, a descodificar, aguarde por favor.</string>
+     <string name="attachment_decoding">Transferência do anexo foi concluída, a descodificar, aguarde por favor.</string>
      <string name="attachment_download_all">Transferir todos</string>
      <string name="attachment_image">Imagem</string>
      <string name="attachment_mgr_name">Anexo</string>
-     <string name="attachment_not_exists">O anexo não está disponivel!</string>
+     <string name="attachment_not_exists">O anexo não está disponível!</string>
      <string name="attachment_not_found">Não é possível transferir o anexo</string>
      <string name="attachment_stop_all">Parar</string>
      <string name="attachment_text">Texto</string>
@@ -446,7 +446,7 @@
      <string name="file_deleted_success">Ficheiro eliminado</string>
      <string name="file_not_found">Não é possível encontrar o ficheiro</string>
      <string name="file_not_found_redownload">Não é possível encontrar o ficheiro</string>
-     <string name="file_rar_not_support">Não é possível abrir ficheiros rar</string>
+     <string name="file_rar_not_support">Não é possível abrir ficheiros RAR</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
      <string name="flow_saved_dlg_do_not_show">Não mostrar novamente</string>
      <string name="flow_saved_dlg_i_know">OK</string>
@@ -476,7 +476,7 @@
      <string name="folder_sent_name_en3">Ficheiros enviados</string>
      <string name="folder_sent_name_en4">[Gmail]/Email enviado</string>
      <string name="folder_shortcut_widget_label">Pasta Email</string>
-     <string name="folder_synchronization_mail_settings">Folder synchronization mail settings</string>
+     <string name="folder_synchronization_mail_settings">Definições de sincronização de pastas de correio</string>
      <string name="folder_trash_name_cn0">已删除</string>
      <string name="folder_trash_name_cn1">已删除邮件</string>
      <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -507,8 +507,8 @@
      <string name="general_preference_text_zoom_small">Pequeno</string>
      <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
      <string name="generic_attachment_problem">Não foi possível anexar o ficheiro.</string>
-     <string name="gmail_acceleration">Usar um servidor proxy para aceder áconta do Gmail</string>
-     <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para aceder áconta do Gmail?</string>
+     <string name="gmail_acceleration">Usar um servidor proxy para aceder à conta do Gmail</string>
+     <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para aceder à conta do Gmail?</string>
      <string name="gmail_login_verify">Adicionar conta Gmail</string>
      <string name="gmail_web_login_go">OK</string>
      <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string>
@@ -891,9 +891,9 @@ CC: %4$s
      <string name="search_title">Email unificado</string>
      <string name="search_txt_size_limit_prompt">Os termos de pesquisa deve ser maior que 3 caracteres</string>
      <string name="search_unsupported">Não há suporte para pesquisa nesta conta.</string>
-     <string name="security_changed_ticker_fmt">As definições de segurança da conta \"%s\" foram alteradas. Não é nesessária nenhuma acção do utilizador.</string>
+     <string name="security_changed_ticker_fmt">As definições de segurança da conta \"%s\" foram alteradas. Não é necessária nenhuma acção do utilizador.</string>
      <string name="security_needed_ticker_fmt">A conta \"%s\" exige a actualização das configurações de segurança.</string>
-     <string name="security_notification_content_change_title">Politicas de segurança alteradas</string>
+     <string name="security_notification_content_change_title">Políticas de segurança alteradas</string>
      <string name="security_notification_content_unsupported_title">Políticas de segurança não podem ser cumpridas</string>
      <string name="security_notification_content_update_title">É necessária uma actualização de segurança</string>
      <string name="security_unsupported_ticker_fmt">A conta \"%s\" não pode ser sincronizada devido a solicitações de segurança.</string>
@@ -969,7 +969,7 @@ CC: %4$s
      <string name="to">Para</string>
      <string name="to_heading">"Para: "</string>
      <string name="toast_bar_fail_synchronization">"Não é possível ligar á rede"</string>
-     <string name="toast_bar_insufficient_memory_space">Não há espaço de armazenamento sufeciente</string>
+     <string name="toast_bar_insufficient_memory_space">Não há espaço de armazenamento suficiente</string>
      <string name="toast_bar_invalid_account">Precisa de iniciar sessão novamente</string>
      <string name="toast_bar_no_connection_network">"Sem ligação á Internet"</string>
      <string name="toast_bar_open_gmail_synchronization">Toque para utilizar servidor proxy do Gmail</string>

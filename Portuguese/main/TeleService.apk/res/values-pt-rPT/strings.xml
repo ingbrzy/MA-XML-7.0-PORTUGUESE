@@ -104,7 +104,7 @@
     <string name="updating_settings">A actualizar definições…</string>
     <string name="reverting_settings">A reverter definições…</string>
     <string name="response_error">Resposta inesperada da rede.</string>
-    <string name="exception_error">Errro da rede ou do cartão SIM.</string>
+    <string name="exception_error">Erro da rede ou do cartão SIM.</string>
     <string name="stk_cc_ss_to_dial_error">Pedido SS modificado para pedido DIAL.</string>
     <string name="stk_cc_ss_to_ussd_error">Pedido SS modificado para pedido USSD.</string>
     <string name="stk_cc_ss_to_ss_error">Pedido SS modificado para um novo pedido SS.</string>
@@ -159,7 +159,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
     <string name="retry_btn">Tente novamente</string>
     <string name="network_settings_information">Informação</string>
     <string name="network_settings_duringcall">Primeiro desligue dados móveis</string>
-    <string name="network_settings_data_connected_change">Não é possível alterar a rede de dados enquanto está a utilizar. Desliguar a actual e mudar para outra rede?</string>
+    <string name="network_settings_data_connected_change">Não é possível alterar a rede de dados enquanto está a utilizar. Desligar a actual e mudar para outra rede?</string>
     <string name="network_settings_automatically_option">Seleccionar automaticamente operadora preferida (%s)</string>
     <string name="network_settings_turn_off">Desactivar</string>
     <string name="network_settings_select_automatic_hint">"Não foi possível registar na operadora seleccionada.
@@ -250,7 +250,7 @@ Será utilizada a rede preferida."</string>
     <string name="advertisements_disable">Propagandas estão desligados</string>
     <string name="enable_disable_stock_quotes">Cotação de acções</string>
     <string name="stock_quotes_enable">Cotação de acções está ligado</string>
-    <string name="stock_quotes_disable">Cotação de acções está deslogado</string>
+    <string name="stock_quotes_disable">Cotação de acções está desligado</string>
     <string name="enable_disable_eo">Oportunidades de Emprego</string>
     <string name="eo_enable">Oportunidades de Emprego está ligado</string>
     <string name="eo_disable">Oportunidades de Emprego desligado</string>
@@ -277,7 +277,7 @@ Será utilizada a rede preferida."</string>
     <string name="sum_fdn_manage_list">Gerir a lista de números de marcação fixa</string>
     <string name="menu_add">Adicionar contacto</string>
     <string name="fdn">Números de marcação fixa</string>
-    <string name="fdn_summary">Restrigir chamadas para lista NMF ou para números com determinados prefixos</string>
+    <string name="fdn_summary">Restringir chamadas para lista NMF ou para números com determinados prefixos</string>
     <string name="get_pin2">Digite o código PIN2</string>
     <string name="name">Nome</string>
     <string name="number">Número</string>
@@ -360,7 +360,7 @@ Restam %d tentativas."</string>
     <string name="card_title_clir_suppression_rejected">Supressão CLIR Rejeitada</string>
     <string name="card_title_call_deflected">Chamada reencaminhada</string>
     <string name="card_title_MTcall_forwarding">Chamada recebida reencaminhada</string>
-    <string name="card_title_forwarded_MTcall">Reencaminhar Chamada Recebida</string>
+    <string name="card_title_forwarded_MTcall">Reencaminhar chamada recebida</string>
     <string name="card_title_callonhold">Colocada em espera</string>
     <string name="card_title_callretrieved">Chamada recuperada</string>
     <string name="card_title_multipartycall">Chamada multipartidária</string>
@@ -422,7 +422,7 @@ Restam %d tentativas."</string>
 
 Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operadora para activar seu telemóvel.”</string>
     <string name="ota_hfa_activation_title">A activar…</string>
-    <string name="ota_hfa_activation_dialog_message">Activar o seu serviço de dados móveis pode demorar 5 minuttos.</string>
+    <string name="ota_hfa_activation_dialog_message">Activar o seu serviço de dados móveis pode demorar 5 minutos.</string>
     <string name="ota_skip_activation_dialog_title">Ignorar a activação?</string>
     <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
@@ -644,7 +644,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="telocation_countrycode_alert_message">Digite o número de telefone sem o código da área</string>
     <string name="telocation_confim_delete_title">Eliminar esta mensagem?</string>
     <string name="telocation_error_message_number">%s só suporta números</string>
-    <string name="telocation_jituan_error_message_number">%s só suporta números e caractéres especiais</string>
+    <string name="telocation_jituan_error_message_number">%s só suporta números e caracteres especiais</string>
     <string name="call_description_recording">A gravar a chamada…</string>
     <string name="call_record_auto_whitelist_no_item">Adicione um número pressionando o botão +</string>
     <string name="call_record_auto_whitelist">Lista personalizada</string>
@@ -829,7 +829,7 @@ Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais solu�
     <string name="gsm_umts_network_preferences_title">Tipo de rede</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Tipo de rede</string>
     <string name="uplmn_numeric_is_empty">Insira ID da rede</string>
-    <string name="voip_setting">Definições Voip</string>
+    <string name="voip_setting">Definições VoIP</string>
     <string name="msim_setting_screen_title">Cartões SIM e redes móveis</string>
     <string name="msim_setting_categery_title">Informação do cartão SIM</string>
     <string name="msim_general_setting">Definições</string>

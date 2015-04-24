@@ -1495,7 +1495,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
     <string name="settings_button">Definições</string>
     <string name="print_settings">Definições de impressão</string>
-    <string name="print_settings_title">Seviços de impressão</string>
+    <string name="print_settings_title">Serviços de impressão</string>
     <string name="print_service_security_warning_title">Utilizar %1$s?</string>
     <string name="print_service_security_warning_summary">O documento pode passar por um ou mais servidores no seu caminho para a impressora.</string>
     <string name="print_no_services_installed">Não há serviços instalados</string>
@@ -1508,7 +1508,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="print_menu_item_add_printer">Adicionar impressora</string>
     <string name="print_menu_item_search">Localizar</string>
     <string name="print_searching_for_printers">A localizar impressoras</string>
-    <string name="print_service_disabled">Seviço desactivo</string>
+    <string name="print_service_disabled">Serviço desactivo</string>
     <string name="print_print_jobs">Trabalhos de impressão</string>
     <string name="print_print_job">Trabalho de impressão</string>
     <string name="print_restart">Reiniciar</string>
@@ -1706,7 +1706,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="credentials_reset_hint">Tem certeza que deseja eliminar todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
     <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
     <string name="credentials_wrong_password">Palavra-passe incorrecta.</string>
-    <string name="credentials_reset_warning">Insira a palavra-passe correcta. Tem mais uma tentactiva para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
+    <string name="credentials_reset_warning">Insira a palavra-passe correcta. Tem mais uma tentativa para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
     <string name="credentials_reset_warning_plural">Insira a palavra-passe errada. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
     <string name="credentials_erased">O armazenamento de credenciais foi apagado.</string>
     <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado.</string>
@@ -1777,7 +1777,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="wifi_setup_description_connected">Pressione <b>Seguinte</b>" para continuar a instalação.
 
 Pressione "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Seleccione o fuzo horário</string>
+    <string name="time_zone_auto_stub">Seleccione o fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -1842,7 +1842,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
     <string name="debug_input_category">Entrada</string>
     <string name="debug_drawing_category">A desenhar</string>
-    <string name="debug_hw_drawing_category">Acelaração da prestação do hardware</string>
+    <string name="debug_hw_drawing_category">Aceleração da prestação do hardware</string>
     <string name="debug_monitoring_category">A monitorar</string>
     <string name="strict_mode">Modo restrito ligado</string>
     <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
@@ -1929,7 +1929,7 @@ Algumas contas podem copiar também automaticamente as alterações feitas no te
 Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desactivar sincronização automática?</string>
     <string name="data_usage_auto_sync_off_dialog">Isto vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
-    <string name="data_usage_cycle_editor_title">Repôr data para ciclo de utilização</string>
+    <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
     <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
     <string name="data_usage_cycle_editor_positive">Definir</string>
     <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
@@ -1999,9 +1999,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
     <string name="trusted_credentials_disable_label">Desactivar</string>
     <string name="trusted_credentials_enable_label">Ligar</string>
     <string name="trusted_credentials_remove_label">Eliminar</string>
-    <string name="trusted_credentials_enable_confirmation">Activar o Certificado de Autênticidade do sistema?</string>
-    <string name="trusted_credentials_disable_confirmation">Desactivar o Certificado de Autênticidade do sistema?</string>
-    <string name="trusted_credentials_remove_confirmation">Eliminar definitivamente o Certificado de Autênticidade do utilizador?</string>
+    <string name="trusted_credentials_enable_confirmation">Activar o Certificado de Autenticidade do sistema?</string>
+    <string name="trusted_credentials_disable_confirmation">Desactivar o Certificado de Autenticidade do sistema?</string>
+    <string name="trusted_credentials_remove_confirmation">Eliminar definitivamente o Certificado de Autenticidade do utilizador?</string>
     <string name="spellcheckers_settings_title">Correcção ortográfica</string>
     <string name="current_backup_pw_prompt">Digite a sua palavra-passe actual para cópia de segurança completa</string>
     <string name="new_backup_pw_prompt">Digite uma nova palavra-passe para a cópia de segurança completa</string>
@@ -2015,16 +2015,16 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
     <string name="selinux_status_enforcing">A aplicar</string>
     <string name="ssl_ca_cert_warning">A rede será monitorizada</string>
     <string name="done_button">Concluido</string>
-    <string name="ssl_ca_cert_dialog_title">Monitorizacão de red</string>
+    <string name="ssl_ca_cert_dialog_title">Monitorização de red</string>
     <string name="ssl_ca_cert_info_message">"Este dispositivo está gerido por:
 %s
 
 O seu administrador pode monitorar a sua actividade da rede, incluido emails, aplicações e páginas de Internet seguras.
 
 Para mais informação contacte o seu administrador."</string>
-    <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de Internet seguras. 
+    <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorar a sua actividade na rede, incluindo mensagens de correio electrónico, aplicações e páginas de Internet seguras. 
 
-Uma credencial de confiança instalada no seu dispositivo está a fazer isto possivel."</string>
+Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
     <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
     <string name="user_settings_title">Utilizadores e restrições</string>
     <string name="user_list_title">Utilizadores e perfil</string>
@@ -2039,7 +2039,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="user_nickname">Alcunha</string>
     <string name="user_add_user_type_title">Adicionar</string>
     <string name="user_add_user_item_summary">Os utilizadores tem as suas próprias aplicações e conteúdos</string>
-    <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicacões e conteúdos a partir da sua conta.</string>
+    <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicações e conteúdos a partir da sua conta.</string>
     <string name="user_add_user_item_title">Utilizador</string>
     <string name="user_add_profile_item_title">Utilizador restrito</string>
     <string name="user_add_user_title">adicionar novo utilizador</string>
@@ -2067,7 +2067,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="user_confirm_remove_self_message">Perderá todo o espaço e dados neste telefone. Esta acção não se pode reverter.</string>
     <string name="user_confirm_remove_message">O espaço e dados deste utilizador serão eliminados do telefone. Esta acção não se pode reverter.</string>
     <string name="user_profile_confirm_remove_message">O espaço e dados deste perfil serão eliminados do telefone. Esta acção não se pode reverter.</string>
-    <string name="user_adding_new_user">A adicionar novo utilizadpr…</string>
+    <string name="user_adding_new_user">A adicionar novo utilizador…</string>
     <string name="user_delete_user_description">Eliminar utilizador</string>
     <string name="user_delete_button">Eliminar</string>
     <string name="application_restrictions">Permitir aplicações e conteúdo</string>
@@ -2130,7 +2130,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="user_image_take_photo">Tirar fotografia</string>
     <string name="user_image_choose_photo">Seleccionar fotografia da galeria</string>
     <string name="regulatory_info_text" />
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possivel partilhar Wi-Fi se a ligação está desligada</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possível partilhar Wi-Fi se a ligação está desligada</string>
     <string name="screen_timeout_title">Modo se suspensão</string>
     <string name="sim_status_title">Estado do SIM</string>
     <string name="config_mtp_function_name">mtp</string>
@@ -2788,7 +2788,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="xiaomi_router_notif_title">Notificação de Router MI</string>
     <string name="xiaomi_router_notif_summary">Notificar quando estiver disponível um Router MI</string>
     <string name="xiaomi_router_available_notif_title">Router MI disponível</string>
-    <string name="xiaomi_router_available_notif_summary">Seleccione para ver mais infomações.</string>
+    <string name="xiaomi_router_available_notif_summary">Seleccione para ver mais informações.</string>
     <string name="restrict_background_data_title">Dados em segundo plano restritos</string>
     <string name="restrict_background_data_dialog_summary">Aplicações executadas em segundo plano não podem receber mensagens</string>
     <string name="restrict_background_data_notification_summary">As aplicações não podem ligar à rede, se os dados em segundo plano estiverem restritos</string>
@@ -2807,13 +2807,13 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="toast_need_login">Iniciar sessão na sua conta Mi</string>
     <string name="location_access_on">Ligado</string>
     <string name="location_access_off">Desligado</string>
-    <string name="preferred_app_settings">Predifinidas</string>
+    <string name="preferred_app_settings">Predefinidas</string>
     <string name="preferred_app_settings_default">Predefinida</string>
     <string name="preferred_app_settings_reset">Restaurar aplicações predefinidas?</string>
     <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
     <string name="system_app_settings">Aplicações de sistema</string>
     <string name="connect_to_internet">Ligar à rede</string>
-    <string name="wifi_setting_category">Redes disponives</string>
+    <string name="wifi_setting_category">Redes disponíveis</string>
     <string name="account_autostar_label">Gestão de arranque automático</string>
     <string name="downloading_description">A transferir…</string>
     <string name="cancel_download_buton_text">Cancelar</string>
@@ -2822,7 +2822,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="dialog_no">Não</string>
     <string name="dialog_yes">Sim</string>
     <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
-    <string name="found_new_version">Actualização disponivel</string>
+    <string name="found_new_version">Actualização disponível</string>
     <string name="no_update_found">Já está a utilizar a versão mais recente do MIUI</string>
     <string name="no_updates_found">Já está utilizar a ultima versão MIUI</string>
     <string name="no_updates_warning">Não foram encontradas actualizações</string>
@@ -2904,7 +2904,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="reset_legacy_password_settings_preface_text">Tem que redefinir a sua palavra-passe no ecrã de bloqueio.</string>
     <string name="lock_intro_message">Lock_intro_message</string>
     <string name="priority_storage_title">Definições de armazenamento</string>
-    <string name="priority_storage_summary">Escolha o local predifinido para guardar os dados de utilizador</string>
+    <string name="priority_storage_summary">Escolha o local predefinido para guardar os dados de utilizador</string>
     <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador serão guardados automaticamente no armazenamento interno do seu dispositivo</string>
     <string name="priority_storage_app_settings">Os dados do utilizador serão guardados em %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>

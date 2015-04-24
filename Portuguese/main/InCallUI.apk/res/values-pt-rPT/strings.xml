@@ -67,7 +67,7 @@
      <string name="callFailed_unobtainable_number">Número inválido</string>
      <string name="callFailed_userBusy">Linha ocupada</string>
      <string name="callUnanswered_forwarded">Chamada não atendida e encaminhada</string>
-     <string name="call_forwarding_settings">Definições de rencaminhamento das chamadas</string>
+     <string name="call_forwarding_settings">Definições de reencaminhamento das chamadas</string>
      <string name="call_lost">A chamada foi perdida.</string>
      <string name="call_record_button_label">Gravação %s</string>
      <string name="call_record_wait_label">Em espera</string>
@@ -127,7 +127,7 @@
      <string name="default_preference_summary">&lt;Não definido&gt;</string>
      <string name="default_transport">UDP</string>
      <string name="delete_fdn_contact">Apagar número de marcação fixa</string>
-     <string name="deleting_fdn_contact">Apagar número de macação fixa…</string>
+     <string name="deleting_fdn_contact">Apagar número de marcação fixa…</string>
      <string name="description_delete_button">retrocesso</string>
      <string name="description_dial_button">marcar</string>
      <string name="description_image_button_eight">oito</string>
@@ -221,7 +221,7 @@
      <string name="fraud_call_decline">Retroceder</string>
      <string name="fraud_call_waring">Tenha cuidado: Deve verificar sempre a identidade do primeiro contacto por telefone ou vídeo antes de responder a quaisquer mensagens que envolvem a sua informação pessoal.</string>
      <string name="fw_change_failed">"Não foi possível alterar o número de encaminhamento.
-Contacte com asua operadora se o problema persistir."</string>
+Contacte com a sua operadora se o problema persistir."</string>
      <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as configurações número de encaminhamento actuais.
 Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="general_news_settings">Notícias Gerais</string>
@@ -255,7 +255,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="invalidPin">Digite um PIN que é de 4 a 8 números.</string>
      <string name="invalidPin2">Digite um código PIN2 que é de 4 a 8 números.</string>
      <string name="invalidPuk2">Digite um código PUK2 com 8 números.</string>
-     <string name="ivr_menu_dialing_msg">Reemcaminhamento…</string>
+     <string name="ivr_menu_dialing_msg">Reencaminhamento…</string>
      <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço seleccionado…[Correcção de erros automática está activado]</string>
      <string name="ivr_menu_list_sub_menu_count_format">Pressione %s</string>
      <string name="ivr_menu_list_title">Menu voz</string>
@@ -274,7 +274,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="labelCFB">Reencaminhar quando ocupado</string>
      <string name="labelCFNRc">Reencaminhar quando inacessível</string>
      <string name="labelCFNRy">Reencaminhar quando sem resposta</string>
-     <string name="labelCFU">Desciar sempre</string>
+     <string name="labelCFU">Desviar sempre</string>
      <string name="labelCW">Chamada em espera</string>
      <string name="labelCallerId">Visitante ID</string>
      <string name="labelGSMMore">Definições das chamadas GSM</string>
@@ -332,7 +332,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="newPin2Label">Novo PIN2</string>
      <string name="newPinLabel">Novo PIN</string>
      <string name="no_change">Não foram feitas alterações.</string>
-     <string name="no_internet_available">Para fazer uma chamada de Internet, verifique a sualigação à Internet pela primeira vez.</string>
+     <string name="no_internet_available">Para fazer uma chamada de Internet, verifique a sua ligação à Internet pela primeira vez.</string>
      <string name="no_internet_available_title">Sem ligação à Internet</string>
      <string name="no_vm_number">Número da Caixa de Correio perdido</string>
      <string name="no_vm_number_msg">Não existe número de correio de voz e será armazenado no cartão SIM.</string>
@@ -368,7 +368,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
      <string name="onHold">Em espera</string>
      <string name="online_check_provider_info">Identificado por %s</string>
      <string name="online_check_provider_name_by_cmb">China Merchants Banco</string>
-     <string name="online_check_warning_info_by_cmb">Verificar sempre a identidade da pessoa qcom quem está a falar com por telefone ou vídeo antes de responder a quaisquer mensagens que envolvem as suas finanças pessoais.</string>
+     <string name="online_check_warning_info_by_cmb">Verificar sempre a identidade da pessoa com quem está a falar com por telefone ou vídeo antes de responder a quaisquer mensagens que envolvem as suas finanças pessoais.</string>
      <string name="online_check_warning_type_by_cmb">Spam</string>
      <string name="onscreenAddCallText">Adicionar chamada</string>
      <string name="onscreenAddParticipant">Adicionar Participante</string>
@@ -503,7 +503,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
      <string name="respond_via_sms_custom_message">Escreva o que deseja...</string>
      <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
-     <string name="respond_via_sms_menu_reset_default_activity">Redefinir aplicação predifinida</string>
+     <string name="respond_via_sms_menu_reset_default_activity">Redefinir aplicação predefinida</string>
      <string name="respond_via_sms_setting_summary" />
      <string name="respond_via_sms_setting_title">Respostas rápidas</string>
      <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
@@ -565,17 +565,17 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
      <string name="sum_cfb_disabled">Desactivado</string>
      <string name="sum_cfb_enabled">Reencaminhar para {0}</string>
      <string name="sum_cfnrc_disabled">Desactivado</string>
-     <string name="sum_cfnrc_enabled">Reenvaminhar para {0}</string>
+     <string name="sum_cfnrc_enabled">Reencaminhar para {0}</string>
      <string name="sum_cfnry_disabled">Desactivado</string>
-     <string name="sum_cfnry_enabled">Rencaminhar para {0}</string>
+     <string name="sum_cfnry_enabled">Reencaminhar para {0}</string>
      <string name="sum_cfu_disabled">Desactivado</string>
      <string name="sum_cfu_enabled">Reencaminhar todas as chamadas para {0}</string>
      <string name="sum_cfu_enabled_indicator">Reencaminhar todas as chamadas</string>
      <string name="sum_cfu_enabled_no_number">Número indisponível</string>
      <string name="sum_cw_disabled">Durante uma chamada, notifique-me de chamadas recebidas</string>
      <string name="sum_cw_enabled">Durante uma chamada, notifique-me de chamadas recebidas</string>
-     <string name="sum_default_caller_id">Utilizar as definições predifinidas da operadora para mostrar meu número nas chamadas de saída</string>
-     <string name="sum_fdn">Gerir Chamadas fixas</string>
+     <string name="sum_default_caller_id">Utilizar as definições predefinidas da operadora para mostrar meu número nas chamadas de saída</string>
+     <string name="sum_fdn">Gerir chamadas fixas</string>
      <string name="sum_fdn_change_pin">Alterar PIN para acesso FDN</string>
      <string name="sum_fdn_manage_list">Gerir lista de números de telefone</string>
      <string name="sum_gsm_call_settings">Definições adicionais só chamadas GSM</string>

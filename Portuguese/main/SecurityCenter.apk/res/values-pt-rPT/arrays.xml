@@ -3,14 +3,14 @@
 <resources>
      <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
-        <item>Diáriamente</item>
+        <item>Diariamente</item>
         <item>Dias de trabalho</item>
         <item>De Seg. a Sex.</item>
         <item>Personalizar</item>
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Uma vez</item>
-        <item>Diáriamente</item>
+        <item>Diariamente</item>
         <item>de Seg. a Sex.</item>
         <item>Personalizar</item>
      </string-array>
@@ -98,11 +98,11 @@
      <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Marcar</item>
-        <item>Menssagem</item>
-        <item>Browser</item>
-        <item>Camera</item>
+        <item>Mensagens</item>
+        <item>Navegador</item>
+        <item>Câmera</item>
         <item>Galeria</item>
-        <item>Musica</item>
+        <item>Música</item>
         <item>Email</item>
      </string-array>
 </resources>
