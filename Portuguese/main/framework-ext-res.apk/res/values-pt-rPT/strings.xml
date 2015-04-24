@@ -8,12 +8,12 @@
      <string name="status_bar_toggle_ac">Bloq. de ecrã</string>
      <string name="status_bar_toggle_ac_action">com.android.settings/.Settings$AccessControlActivity</string>
      <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-     <string name="status_bar_toggle_auto_brightness">Brilho Autom.</string>
+     <string name="status_bar_toggle_auto_brightness">Brilho auto.</string>
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
      <string name="status_bar_toggle_brightness">Brilho</string>
      <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
-     <string name="status_bar_toggle_data">Dados móveis</string>
+     <string name="status_bar_toggle_data">Dados móv.</string>
      <string name="status_bar_toggle_data_action">com.android.phone/.settings.MobileNetworkSettings</string>
      <string name="status_bar_toggle_divider">Mais</string>
      <string name="status_bar_toggle_divider_action">com.android.settings/com.android.settings.Settings$StatusBarSettingsActivity</string>
@@ -52,6 +52,6 @@
      <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
      <string name="status_bar_toggle_wifi">Rede</string>
      <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
-     <string name="status_bar_toggle_wifi_ap">P.Acesso</string>
+     <string name="status_bar_toggle_wifi_ap">P. Acesso</string>
      <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
 </resources>
