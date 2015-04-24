@@ -4,7 +4,7 @@
      <string name="action_firewall_setting">Lista de bloqueio</string>
      <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
      <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
-     <string name="addBlackList">Adicionar à Lista Negra</string>
+     <string name="addBlackList">Adicionar à lista negra</string>
      <string name="add_attachment">Adicionar anexos</string>
      <string name="add_contact">Contacto</string>
      <string name="add_festival">Respostas rápidas</string>
@@ -62,7 +62,7 @@
      <string name="close">Fechar</string>
      <string name="compressing">Imagem muito grande. A comprimir…</string>
      <string name="confirm">Confirmar</string>
-     <string name="confirm_add_blacklist_dialog_dspt">Deseja adicionar este número à sua Lista Negra?</string>
+     <string name="confirm_add_blacklist_dialog_dspt">Deseja adicionar este número à sua lista negra?</string>
      <string name="confirm_delete_SIM_message">Eliminar esta mensagem do cartão SIM?</string>
      <string name="confirm_delete_all_SIM_messages">Eliminar as mensagens do cartão SIM?</string>
      <string name="confirm_delete_all_conversations">Eliminar todas as conversas?</string>
@@ -114,7 +114,7 @@
      <string name="delete_phrase">Eliminar resposta</string>
      <string name="delete_unlocked">Eliminar mensagens bloqueadas</string>
      <string name="delivery_report_activity">Relatório de entrega</string>
-     <string name="delivery_toast_body">"Mensagem recebida por: %s "</string>
+     <string name="delivery_toast_body">"Mensagem recebida por %s "</string>
      <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir aplicação de mensagens predefinida?</string>
      <string name="discard">Rejeitar</string>
      <string name="discard_message">Rejeitar</string>
