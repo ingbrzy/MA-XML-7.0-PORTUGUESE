@@ -1449,8 +1449,8 @@ Step 2: Pressione sem soltar dois dedos até ouvir a confirmação de áudio.
 Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente o acesso até que o dispositivo seja desbloqueado."</string>
     <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Ampliação do ecrã</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do ecrâ</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliação do ecrâ na transição de aplicações</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Actualizar automaticamente a ampliação do ecrã</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Actualizar ampliação do ecrã na transição de aplicações</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Botão de energia para desligar uma chamada</string>
     <string name="accessibility_toggle_speak_password_preference_title">Falar palavra-passe</string>
     <string name="accessibility_long_press_timeout_preference_title">Atraso do toque contínuo</string>
@@ -2620,9 +2620,9 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="screen_paper_mode_update_white_pkg_list_title">Lista de actualização de rede</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o modo de leitura através da rede</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Termos e Condições</string>
-    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações pode usar o modo de leitura, tem de ligar à rede. Concorda?</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que podem usar o modo de leitura, precisa ligar-se à rede. Concorda?</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não voltar a perguntar</string>
-    <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Concordo e continuar</string>
+    <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Concordar e continuar</string>
     <string name="screen_paper_mode_range_title">Série</string>
     <string name="screen_paper_mode_global_title">Global</string>
     <string name="screen_paper_mode_global_summary">Use o modo de leitura globalmente, não personalizado</string>
