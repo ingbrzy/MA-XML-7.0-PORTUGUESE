@@ -17,8 +17,8 @@
         <item quantity="one">%d aplicação pode auto iniciar</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d aplicações não estão autorizadas a auto inicar</item>
-        <item quantity="one">%d aplicaçãos não está autorizada a auto inicar</item>
+        <item quantity="other">%d aplicações não estão autorizadas a auto iniciar</item>
+        <item quantity="one">%d aplicação não está autorizada a auto iniciar</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permissões</item>
@@ -34,10 +34,10 @@
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d aplicações não tem acesso root</item>
-        <item quantity="one">%d aplicação não tem acssso root</item>
+        <item quantity="one">%d aplicação não tem acesso root</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualizações disponíveis para %d aplicações.</item>
-        <item quantity="one">actualização disponível para aplicação %d.</item>
+        <item quantity="one">Actualização disponível para aplicação %d.</item>
     </plurals>
 </resources>

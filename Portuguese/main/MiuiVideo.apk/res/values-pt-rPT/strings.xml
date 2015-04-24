@@ -10,7 +10,7 @@
      <string name="add_more_addons">Adicionar mais complementos</string>
      <string name="addon">Popular</string>
      <string name="addon_category">Complementos</string>
-     <string name="addon_install_complete_disc">%s Complementos instalados. Pode visualizá-los em /Meus videos/.</string>
+     <string name="addon_install_complete_disc">%s Complementos instalados. Pode visualizá-los em /Meus vídeos/.</string>
      <string name="addon_update_desc">Nova versão encontrada, actualizar agora?</string>
      <string name="adjust_position_next_media_notice">Próximo</string>
      <string name="adjust_position_prev_media_notice">Último</string>
@@ -22,7 +22,7 @@
      <string name="airkan_playing_to">" em "</string>
      <string name="airkan_tips">Pressione para emitir o vídeo para a TV</string>
      <string name="airkan_video_playing">Reproduzir</string>
-     <string name="airkan_video_playing_in">"Video é "</string>
+     <string name="airkan_video_playing_in">"Vídeo é "</string>
      <string name="alert_dialog_download_btn_hide">Esconder</string>
      <string name="alert_dialog_download_dup_task">Transferência em progresso, por favor aguarde...</string>
      <string name="alert_dialog_download_error">Falha ao transferir</string>
@@ -73,7 +73,7 @@
      <string name="count_comment">%d análise(s)</string>
      <string name="count_comment_wan">%.2f0 análises</string>
      <string name="count_ge">%d ficheiros</string>
-     <string name="count_ge_media">%d videos</string>
+     <string name="count_ge_media">%d vídeos</string>
      <string name="count_ji_quan">Todos %d Eps</string>
      <string name="count_qi">Ep. %s</string>
      <string name="data_buffering">Buffering</string>
@@ -88,9 +88,9 @@
      <string name="debug_mode_desc">Verificado, mostra ID do vídeo no canto superior esquerdo e exibição aviso de inicio da aplicação</string>
      <string name="declaration">Termos de Utilização</string>
      <string name="declaration_allow">Concordo</string>
-     <string name="declaration_content">"1. Ao utilizar este serviço, concorda com Sohu Video, iQiyi, e outros fornecedores de conteúdo&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Termos de Utiliza&amp;#231;&amp;#227;o&lt;/a&gt;".
+     <string name="declaration_content">"1. Ao utilizar este serviço, concorda com Sohu Vídeo, iQiyi, e outros fornecedores de conteúdo&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Termos de Utiliza&amp;#231;&amp;#227;o&lt;/a&gt;".
 2. Ajude a melhorar este produto, atrav&amp;#233;s do envio autom&amp;#225;tico de diagn&amp;#243;sticos e de dados de utiliza&amp;#231;&amp;#227;o para Xiaomi.
-3. O vosso plug-in HD Video ser&amp;#225; instalado automaticamente.
+3. O vosso plug-in HD Vídeo ser&amp;#225; instalado automaticamente.
 4. Este servi&amp;#231;o necessita de uma liga&amp;#231;&amp;#227;o &amp;#224; Internet para funcionar convenientemente.""</string>
      <string name="declaration_content_td_custom">Aceita ligar à Internet quando estiver a utilizar a aplicação Vídeo?</string>
      <string name="defaults">Predefinido</string>
@@ -318,7 +318,7 @@
      <string name="version_select">Seleccionar versão</string>
      <string name="version_select_summary">Seleccionar alpha, developing, stable version</string>
      <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
-     <string name="video">Vídeo</string>
+     <string name="vídeo">Vídeo</string>
      <string name="video_bbs">Junta-te a nós</string>
      <string name="video_bbs_url">Junte-se a nós e ajudar a desenvolver este aplicativo de vídeo</string>
      <string name="video_count">%d vídeos</string>
@@ -329,9 +329,9 @@
      <string name="video_info_length_label">Tamanho:</string>
      <string name="video_info_resolution_label">Resolução:</string>
      <string name="video_info_video_coding_label">Formato de codificação de vídeo:</string>
-     <string name="video_plugin">Video Plug-in</string>
+     <string name="video_plugin">Vídeo Plug-in</string>
      <string name="video_plugin_downloading">A transferir...</string>
-     <string name="video_plugin_prepare">A preparar video plug-in, por favor aguarde.</string>
+     <string name="video_plugin_prepare">A preparar vídeo plug-in, por favor aguarde.</string>
      <string name="vp_VideoView_error_button">OK</string>
      <string name="vp_VideoView_error_network_not_available">Não foi possível ligar à rede</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de arquivo não é suportado.</string>
@@ -404,7 +404,7 @@
      <string name="vp_using_4_3">Forçar 4:3</string>
      <string name="vp_video_bad_network_condition">Condições da rede má, tente novamente mais tarde</string>
      <string name="vp_video_loading">&lt;CDATA&gt;A carregar&amp;#8230;&lt;/CDATA&gt;</string>
-     <string name="vp_video_plugin_installation">A instalar %1$s plugin para melhor qualidade de video...</string>
+     <string name="vp_video_plugin_installation">A instalar %1$s plugin para melhor qualidade de vídeo...</string>
      <string name="waiting_to_download">A aguardar</string>
      <string name="wasu">Wasu</string>
      <string name="write_comment">Adicionar comentário</string>

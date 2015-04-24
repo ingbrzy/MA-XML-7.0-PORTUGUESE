@@ -470,7 +470,7 @@
     <string name="save_error">Não foi possível gravar a imagem recortada</string>
     <string name="crop_label">Cortar</string>
     <string name="select_image">Seleccionar fotografia</string>
-    <string name="select_video">Seleccionar video</string>
+    <string name="select_video">Seleccionar vídeo</string>
     <string name="camera_setas_wallpaper">Papel de parede</string>
     <string name="delete">Eliminar</string>
     <string name="confirm_delete">Eliminar %s fotografias?</string>
@@ -499,7 +499,7 @@
     <string name="no_such_item">Ficheiro não encontrado</string>
     <string name="edit">Editar</string>
     <string name="activity_not_found">Não foi encontrada uma aplicação para esta acção</string>
-    <string name="video_err">Não é possível reproduzir o video</string>
+    <string name="video_err">Não é possível reproduzir o vídeo</string>
     <string name="group_by_location">Por localização</string>
     <string name="group_by_time">Por tempo</string>
     <string name="group_by_tags">Por marcas</string>
@@ -508,11 +508,11 @@
     <string name="untagged">Desmarcar</string>
     <string name="no_location">Sem localização</string>
     <string name="no_connectivity">Alguns locais não puderam ser identificados devido a problemas de rede</string>
-    <string name="sync_album_error">Não é possível sincronizar as fotos neste álbum. Verifique sua ligacão e tente novamente.</string>
-    <string name="sync_album_set_error">"Não é possível sincronizar  estes álbuns. Verifique sua conexão de e tente novamente."</string>
+    <string name="sync_album_error">Não é possível sincronizar as fotos neste álbum. Verifique sua ligação e tente novamente.</string>
+    <string name="sync_album_set_error">"Não é possível sincronizar estes álbuns. Verifique sua conexão e tente novamente."</string>
     <string name="show_images_only">Apenas imagens</string>
-    <string name="show_videos_only">Apenas videos</string>
-    <string name="show_all">Imagens e videos</string>
+    <string name="show_videos_only">Apenas vídeos</string>
+    <string name="show_all">Imagens e vídeos</string>
     <string name="appwidget_title">Galeria</string>
     <string name="appwidget_empty_text">Sem fotografias</string>
     <string name="no_albums_alert">Sem álbuns disponíveis</string>
@@ -566,7 +566,7 @@
     <string name="widget_type_photo">Escolher uma imagem</string>
     <string name="widget_type">Escolher imagens</string>
     <string name="slideshow_dream_name">Apresentação de slides</string>
-    <string name="albums">Albuns</string>
+    <string name="albums">Álbuns</string>
     <string name="times">Tempos</string>
     <string name="locations">Localizações</string>
     <string name="people">Pessoas</string>
@@ -599,7 +599,7 @@
     <string name="deleting_files">Eliminar ficheiros…</string>
     <string name="bigscreen_slide_playing">A apresentação de Slides está iniciado em %s</string>
     <string name="bigscreen_slide_exit">Terminar a apresentação de fotografias</string>
-    <string name="bigscreen_slide_fail_cause_loading">Reinicair apresentação de imagens depois de transferir</string>
+    <string name="bigscreen_slide_fail_cause_loading">Reiniciar apresentação de imagens depois de transferir</string>
     <string name="bigscreen_video_quit">Pressione para sair</string>
     <string name="defalt_local_mobile">Móvel</string>
     <string name="local_time">(Local)</string>
@@ -656,7 +656,7 @@
     <string name="operation_share">Partilhar</string>
     <string name="operation_refresh">Actualizar</string>
     <string name="operation_set_as_screensaver">Definir como protecção de ecrã</string>
-    <string name="operation_unset_as_screensaver">Cancelar proctecção de ecrã</string>
+    <string name="operation_unset_as_screensaver">Cancelar protecção de ecrã</string>
     <string name="operation_add_picture">Adicionar imagens</string>
     <string name="operation_add_secret">Adicionar album secreto</string>
     <string name="operation_remove_secret">Remover album secreto</string>
@@ -720,7 +720,7 @@
     <string name="add_to_secret_unfinished_message_with_count">%1$s ficheiros não são adicionados ao album secreto</string>
     <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
     <string name="alert_secret_album_title">Adicionado ao album secreto</string>
-    <string name="alert_secret_album_message">Para ocultar álbuns, deslize na parte inferior dos albuns na Nuvem Mi.</string>
+    <string name="alert_secret_album_message">Para ocultar álbuns, deslize na parte inferior dos álbuns na Nuvem Mi.</string>
     <string name="alert_secret_album_set_pattern">Defina padrão de desbloqueio</string>
     <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
     <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
@@ -778,7 +778,7 @@ com os amigos"</string>
     <string name="photo_page_save_uri_image_fail">Não foi possível guardar</string>
     <string name="albumset_page_title_separator"> | </string>
     <string name="cloud_tab_all">Todas</string>
-    <string name="cloud_tab_albums">Albuns</string>
+    <string name="cloud_tab_albums">Álbuns</string>
     <string name="cloud_album_set_create">Novo</string>
     <string name="cloud_album_set_scan_qr_code">Código QR</string>
     <string name="scan_qr_code_failure">Falha ao verificar</string>
@@ -887,7 +887,7 @@ com os amigos"</string>
     <string name="miliao_painting_folder_display_name">Anotações MiTalk</string>
     <string name="miliao_saved_folder_display_name">Mi Talk</string>
     <string name="mishop_saved_folder_display_name">Mi Store</string>
-    <string name="demo_video_folder_display_name">Video de demonstração</string>
+    <string name="demo_video_folder_display_name">Vídeo de demonstração</string>
     <string name="ucdownloads_screenshot">Navegador UC</string>
     <string name="tencent_mobile_qq_img_save">QQ</string>
     <string name="androidesk_wallpapers">Papéis de parede Android</string>

@@ -168,7 +168,7 @@
      <string name="photo_adjust">Visualizar</string>
      <string name="photo_confirm">Aplicar</string>
      <string name="photo_load_failed">Não é possível carregar a fotografia</string>
-     <string name="pref_cell_layout_size">Disposição do icone da aplicação</string>
+     <string name="pref_cell_layout_size">Disposição do ícone da aplicação</string>
      <string name="pref_enable_drawing_cache_summary">Desligue para libertar memória. Isto pode diminuir o desempenho.</string>
      <string name="pref_enable_drawing_cache_title">Histórico da memória de desenho</string>
      <string name="pref_icon_shadow_summary">Activa a sombra da aplicação, dos Favoritos e cria um efeito de reflexo</string>
@@ -217,7 +217,7 @@
      <string name="uninstall">Desinstalar</string>
      <string name="uninstall_dialog_message">A desinstalação removerá todos os dados da aplicação.</string>
      <string name="uninstall_dialog_title_format">Desinstalar %s?</string>
-     <string name="uninstall_dialog_title_multi_format" formatted="false">Desinstalar %s e %d outras applicações?</string>
+     <string name="uninstall_dialog_title_multi_format" formatted="false">Desinstalar %s e %d outras aplicações?</string>
      <string name="uninstall_result_failed">Não foi possível desinstalar %s</string>
      <string name="uninstall_result_multi_succeeded">%1$d aplicações desinstaladas</string>
      <string name="uninstall_result_other_failed" formatted="false">Não foi possível desinstalar %s e %d outras aplicações</string>

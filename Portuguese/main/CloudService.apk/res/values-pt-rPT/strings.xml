@@ -22,49 +22,49 @@ You need a Mainland China bank card to purchase additional storage space."</stri
 To get more storage space, visit mi.com/micloud."</string>
      <string name="buy_space_expire">O espaço adquirido expira em %s</string>
      <string name="buy_space_expire_concat">%1$s para %2$s</string>
-     <string name="buy_space_sulotion_auto_renew">Renovação automatica</string>
+     <string name="buy_space_sulotion_auto_renew">Renovação automática</string>
      <string name="buy_space_sulotion_message">Comprar %sGB de espaço adicional</string>
      <string name="buy_space_sulotion_not_auto_renew">Não renovar automaticamente</string>
      <string name="buy_space_sulotion_renew_message">Válido por %s</string>
      <string name="buy_space_sulotion_renew_title">Renovar subscrição</string>
      <string name="buy_space_sulotion_title">Comprar espaço de armazenamento</string>
      <string name="calendar_sync">Calendário</string>
-     <string name="click_to_enabled">Toque para sincrnizar.</string>
+     <string name="click_to_enabled">Toque para sincronizar.</string>
      <string name="close_cloud_app_backup_cancel">Cancelar</string>
      <string name="close_cloud_app_backup_close">Fechar</string>
      <string name="close_cloud_app_backup_local_backup">Cópia de segurança</string>
-     <string name="close_cloud_app_backup_message">"A aplicação Mi Cloud do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicaçoes de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
+     <string name="close_cloud_app_backup_message">"A aplicação Nuvem Mi do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicações de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
      <string name="close_cloud_app_backup_notification_message">Toque para ver detalhes</string>
-     <string name="close_cloud_app_backup_notification_title">Notificação de cópia de seguarnça de aplicações</string>
+     <string name="close_cloud_app_backup_notification_title">Notificação de cópia de segurança de aplicações</string>
      <string name="close_cloud_app_backup_title">Fechar</string>
-     <string name="cloud_app_back_up_quit_notification_content1">"A aplicação Mi Cloud do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicaçoes de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
-     <string name="cloud_app_back_up_quit_notification_content2">Contactos, Menssagens, Galeria, e outras aplicações de sistema MIUI não serão afectados.</string>
+     <string name="cloud_app_back_up_quit_notification_content1">"A aplicação Nuvem Mi do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicações de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
+     <string name="cloud_app_back_up_quit_notification_content2">Contactos, Mensagens, Galeria, e outras aplicações de sistema MIUI não serão afectados.</string>
      <string name="cloud_app_back_up_quit_notification_content3">Cópia de segurança de dados das aplicações</string>
      <string name="cloud_back_up_button_ok">Forçar paragem</string>
      <string name="cloud_back_up_close_info">Toque pra realizar cópia de segurança.</string>
      <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora, não poderá usar esta cópia de segurança para restaurar aplicações."</string>
      <string name="cloud_back_up_interval_long">7 dias</string>
      <string name="cloud_back_up_interval_short">1 hora</string>
-     <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue-se á REDE e tente novamente."</string>
+     <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue-se à rede e tente novamente."</string>
      <string name="cloud_back_up_open_info">"Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s Quando ligado á rede
 Ultima cópia de segurança: %2$s"</string>
      <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s Quando ligado á rede</string>
      <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
-     <string name="cloud_back_up_title">Cópia de segurança do ecran inicial</string>
-     <string name="cloud_backup_dialog_title">Fazer cópia de segurançautilizando Mi Cloud</string>
+     <string name="cloud_back_up_title">Cópia de segurança do ecrã inicial</string>
+     <string name="cloud_backup_dialog_title">Fazer cópia de segurança utilizando Nuvem Mi</string>
      <string name="cloud_find_device">Encontrar dispositivo</string>
      <string name="cloud_space_upgrade_message">Pressione para adicionar %s GB à sua Nuvem</string>
      <string name="cloud_space_upgrade_no_quota_info">Falha ao carregar. Espere um minuto ou dois e tente novamente.</string>
      <string name="cloud_space_upgrade_title">Obtenha espaço grátis na Nuvem</string>
      <string name="cloud_sync_setting_summary_standard">Sincronizar MMS, fotos e vídeos quando ligado a Wi-Fi</string>
      <string name="cloud_sync_setting_summary_wlan">Sincronizar apenas quando estiver ligado a uma rede Wi-Fi</string>
-     <string name="cloudservice_new_sync">Sync %s with Mi Cloud</string>
+     <string name="cloudservice_new_sync">Sincronizar %s con Nuvem Mi</string>
      <string name="cmcc_micloud_dspt">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo,</string>
      <string name="contact">Contactos</string>
-     <string name="disable_find_device_error">Não foi possível desactivar Encontrar dispositivo. %1$s</string>
+     <string name="disable_find_device_error">Não foi possível desactivar Encontrar Dispositivo. %1$s</string>
      <string name="enableAll">Sincronizar tudo</string>
      <string name="enable_cloud_service_notification">Não activou a Nuvem Mi</string>
-     <string name="enable_find_device_error">Não foi possível activar Encontrar dispositivo. %1$s</string>
+     <string name="enable_find_device_error">Não foi possível activar Encontrar Dispositivo. %1$s</string>
      <string name="enable_micloud">Inicie a sessão ou crie uma conta</string>
      <string name="enable_sync">Activar</string>
      <string name="enable_sync_dspt">A sincronização está desactivada</string>
@@ -146,7 +146,7 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
 
 Desta forma, se perder ou danificar o seu dispositivo, os seus dados estarão seguros. 
 
-Quando Nuvem está cheia, os dados mais antigos não se perdem. No entanto, não será feita a cópia de segurânça de qualquer conteúdo novo que adicione (por exemplo, fotografias, vídeos, notas e aplicações).
+Quando Nuvem está cheia, os dados mais antigos não se perdem. No entanto, não será feita a cópia de segurança de qualquer conteúdo novo que adicione (por exemplo, fotografias, vídeos, notas e aplicações).
 
 Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
      <string name="micloud_full_influence_title">Quando a Nuvem Mi está cheia…</string>
@@ -184,7 +184,7 @@ Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar l
      <string name="micloud_single_dspt">Utilize a Nuvem Mi para sincronizar dados, localizar o dispositivo, e partilhar as coisas com os amigos.</string>
      <string name="micloud_space_duokan_detail">Administrar seu conteúdo Duokan ao usar a aplicação Duokan.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
-     <string name="micloud_space_full_influence">&lt;u&gt;O que acontece quando eu ficar sem espa&amp;#231;o?&lt;/u&gt;</string>
+     <string name="micloud_space_full_influence">O que acontece quando eu ficar sem espaço?</string>
      <string name="micloud_storage_expires_auto_renewal_sum">Tem que renovar a assinatura.</string>
      <string name="micloud_storage_expires_manually_renewal_sum">Tem que renovar a assinatura.</string>
      <string name="micloud_storage_expires_soon_title">O armazenamento da Nuvem Mi expira em breve</string>
@@ -217,7 +217,7 @@ Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar l
 Pode a qualquer momento desactivar esta função nas Definições."</string>
      <string name="mx_dspt_provision_privacy">"Este serviço pode exigir o seu número de telefone. A operadora poderá cobrar um SMS utilizado para activar este serviço.
 
-Este serviço encripa e envia o ID do dispositico para os servidores MI."</string>
+Este serviço encripta e envia o ID do dispositivo para os servidores MI."</string>
      <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your Internet connection. You can turn this feature on or off anytime in Settings.</string>
      <string name="mx_sub_dspt_provision">Mensagens Mi</string>
      <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
@@ -256,7 +256,7 @@ Este serviço encripa e envia o ID do dispositico para os servidores MI."</strin
      <string name="sub_alert_notif_dspt_add">%s ficheiros aguardam sincronizar</string>
      <string name="sub_alert_notif_dspt_no">Sincronizado</string>
      <string name="sub_alert_notif_title">Não sincronizar</string>
-     <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotogafias, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
+     <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotografias, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
      <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas uma ligação Wi-Fi para sincronizar MMS</string>
      <string name="success_upgraded_space">%s adicionado</string>
      <string name="sync_dspt">Activar sincronização</string>
@@ -267,9 +267,9 @@ Este serviço encripa e envia o ID do dispositico para os servidores MI."</strin
      <string name="sync_dspt_entrance_provision">Sincronize fotografias, contactos, SMS ou localize o seu dispositivo.</string>
      <string name="sync_dspt_entrance_provision_2">Saber mais</string>
      <string name="sync_dspt_entrance_provision_confirm_close">"Não utilizar"</string>
-     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplicações integradas precisa My Cloud para fazer cópia de segurança de suas fotos, contactos, notas e muito mais. Mi Cloud é livre e pronto para usar.."</string>
-     <string name="sync_dspt_entrance_provision_confirm_open">Utilizar Mi Cloud</string>
-     <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Mi Cloud?"</string>
+     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplicações integradas precisa My Cloud para fazer cópia de segurança de suas fotos, contactos, notas e muito mais. Nuvem Mi é livre e pronto para usar.."</string>
+     <string name="sync_dspt_entrance_provision_confirm_open">Utilizar Nuvem Mi</string>
+     <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Nuvem Mi?"</string>
      <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Saltar este passo&lt;/u&gt;</string>
      <string name="sync_dspt_provision">"A Nuvem Mi
  sincroniza fotografias, contactos, notas, e mais em todos os seus dispositivos Mi ou através do navegador em "</string>

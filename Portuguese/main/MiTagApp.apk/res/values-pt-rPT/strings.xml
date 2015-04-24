@@ -99,11 +99,11 @@ toque com a parte de trás do seu telefone"</string>
   <string name="hint_input_web_url">URL</string>
   <string name="hint_wifi_password">Introduza WLAN Palavra-passe</string>
   <string name="inconsistent_password">Inconsistente pala-passe, por favor, tente novamente</string>
-  <string name="input_new_password">Por favor, insira a nova palavra-passe numérica de quatro algarismos</string>
+  <string name="input_new_password">Por favor, insira a nova palavra-passe numérica de quatro dígitos</string>
   <string name="input_old_password">Digite a palavra-passe guardada</string>
-  <string name="input_password">Por favor, insira a nova palavra-passe numérica de quatro algarismosd</string>
+  <string name="input_password">Por favor, insira a nova palavra-passe numérica de quatro dígitos</string>
   <string name="input_password_gain">Digite a palavra-passe de novo</string>
-  <string name="input_password_warning">"A palavra-passe será escrita na etiqueta não a esqueça!"</string>
+  <string name="input_password_warning">"A palavra-passe será escrita na etiqueta. Não a esqueça!"</string>
   <string name="local_app">Transferir aplicações</string>
   <string name="media_value">Media %s%%</string>
   <string name="meeting_mode">Modo de reunião</string>
@@ -164,7 +164,7 @@ toque com a parte de trás do seu telefone"</string>
   <string name="settings">Definições</string>
   <string name="share">Partilhar</string>
   <string name="share_content">"Não tenho *%1$s* gravado em um etiqueta NFC Mi. Para lê-lo, basta tocar com a parte de trás do dispositivo. Obter a aplicação aqui: http://app.xiaomi.com/detail/56946"</string>
-  <string name="share_subject">Partilhar uma aplicaçao: %1$s</string>
+  <string name="share_subject">Partilhar uma aplicação: %1$s</string>
   <string name="share_wifi">Partilhar WLAN</string>
   <string name="shortcut">Tarefas rápidas</string>
   <string name="sleep_mode">Nao incomodar</string>
@@ -177,7 +177,7 @@ toque com a parte de trás do seu telefone"</string>
   <string name="sound_voice">Volume de chamada</string>
   <string name="start_configuration">Configurar etiqueta</string>
   <string name="sure_to_delete_user_config">Eliminar esta tarefa?</string>
-  <string name="tag_history">Historico</string>
+  <string name="tag_history">Histórico</string>
   <string name="tag_history_date_format">M/d</string>
   <string name="task">Acionar tarefas</string>
   <string name="ten_minutes">10 minutes</string>

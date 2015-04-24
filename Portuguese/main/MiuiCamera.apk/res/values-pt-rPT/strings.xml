@@ -6,7 +6,7 @@
      <string name="accessibility_flash_mode_button">FlashButton</string>
      <string name="accessibility_hdr">Botão mudar HDR</string>
      <string name="accessibility_module_picker">ModulePicker</string>
-     <string name="accessibility_panorama_review_cancel">Cancelar a gravação da fotografia panoramica</string>
+     <string name="accessibility_panorama_review_cancel">Cancelar a gravação da fotografia panorâmica</string>
      <string name="accessibility_review_thumbnail">Fotografias mais recentes</string>
      <string name="accessibility_seek_bar_line">SeekBarLine</string>
      <string name="accessibility_setting_button">Botão de definições adicionais</string>
@@ -59,7 +59,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
      <string name="no_storage">Insira o cartão SD</string>
      <string name="not_enough_space">O cartão SD está cheio</string>
      <string name="object_track_enable_toast">Faça deslizar o ecrã de visualização para permitir o seguimento de objectos.</string>
-     <string name="pano_dialog_panorama_failed">Falha ao guardar a imagem panoramica</string>
+     <string name="pano_dialog_panorama_failed">Falha ao guardar a imagem panorâmica</string>
      <string name="pano_dialog_title">Fotografia Panorâmica</string>
      <string name="pano_dialog_waiting_previous">Aguarde a pré-visualização anterior para finalizar</string>
      <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
@@ -351,6 +351,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
      <string name="ubi_focus_capture_fail">Não é possível tirar fotografias</string>
      <string name="ubifocus_capture_warning_message">É melhor quando o ecrã de pré-visualização contém objectos próximos (inferior a um metro a partir da lente) e distantes</string>
      <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
-     <string name="video_reach_size_limit">Atingiu o tamanho máxino.</string>
+     <string name="video_reach_size_limit">Atingiu o tamanho máximo.</string>
      <string name="wait">Aguarde…</string>
 </resources>
