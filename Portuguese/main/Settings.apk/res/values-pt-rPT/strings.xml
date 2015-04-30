@@ -561,7 +561,7 @@ Note: Pressione três vezes para ampliar funciona em todos os lugares, excepto n
      <string name="clear_activities_summary">Activar esta aplicação para algumas operações predefinidas</string>
      <string name="clear_adb_keys">Renovar as autorizações de depuração USB</string>
      <string name="clear_cache_btn_text">Limpar histórico de dados</string>
-     <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
+     <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados etc.</string>
      <string name="clear_data_dlg_title">Eliminar dados da aplicação?</string>
      <string name="clear_data_failed">Não foi possível eliminar dados da aplicação.</string>
      <string name="clear_failed_dlg_text">Falha ao eliminar os dados da aplicação</string>
@@ -752,7 +752,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="debug_input_category">Entrada</string>
      <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
      <string name="debug_layout">Mostrar limites de desenho</string>
-     <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
+     <string name="debug_layout_summary">Mostrar limites de clipe, margens etc.</string>
      <string name="debug_log">Programa de Experiência do utilizador</string>
      <string name="debug_monitoring_category">A monitorar</string>
      <string name="default_date_format">dd/MM/yyyy</string>
@@ -795,7 +795,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
      <string name="device_security_settings_title">Segurança</string>
      <string name="device_status">Estado</string>
      <string name="device_status_activity_title">Estado</string>
-     <string name="device_status_summary">Número de telefone, sinal, etc.</string>
+     <string name="device_status_summary">Número de telefone, sinal etc.</string>
      <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
      <string name="dialog_no">Não</string>
      <string name="dialog_title_color_calibration">Correcção de cores</string>
@@ -1394,7 +1394,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;Armaz.
      <string name="memory_media_cache_usage">Dados em cache</string>
      <string name="memory_media_misc_usage">Vários</string>
      <string name="memory_media_usage">Multimédia</string>
-     <string name="memory_music_usage">Áudio (música, toques, etc.)</string>
+     <string name="memory_music_usage">Áudio (música, toques etc.)</string>
      <string name="memory_size">Espaço total</string>
      <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
      <string name="menu_cancel">Rejeitar</string>
@@ -2481,7 +2481,7 @@ Um servi&amp;#231;o do Google para sincronizar dados que permitem o acesso aos s
      <string name="user_add_user_item_summary">Os utilizadores tem as suas próprias aplicações e conteúdos</string>
      <string name="user_add_user_item_title">Utilizador</string>
      <string name="user_add_user_menu">Adicionar utilizador ou perfil</string>
-     <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã, etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
+     <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
 
 Depois de criar um novo utilizador, é necessário seguir o processo de definições. 
 
@@ -2915,7 +2915,7 @@ pode utilizar também as redes de outros utilizadores"</string>
      <string name="wifi_share_qrcode_summary">Utilize a Câmara para digitalizar o código QR</string>
      <string name="wifi_share_qrcode_title">Partilhar Wi-Fi</string>
      <string name="wifi_share_show_network">Mostrar redes</string>
-     <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
+     <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis etc.) com outros.</string>
      <string name="wifi_share_summary2">Quando outro utilizador MIUI partilha a rede, pode ligar-se directamente a essa rede sem utilizar uma palavra-passe.</string>
      <string name="wifi_share_summary3">Partilha da sua rede Wi-Fi pública com outros utilizadores MIUI.</string>
      <string name="wifi_share_turn_off">Desligado</string>

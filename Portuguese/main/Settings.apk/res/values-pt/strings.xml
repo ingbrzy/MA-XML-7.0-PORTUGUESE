@@ -873,7 +873,7 @@ Possivelmente o código PIN está errado."</string>
     <string name="device_info_not_available">Não disponível</string>
     <string name="device_status_activity_title">Estado:</string>
     <string name="device_status">Estado:</string>
-    <string name="device_status_summary">Número de telefone, sinal, etc.</string>
+    <string name="device_status_summary">Número de telefone, sinal etc.</string>
     <string name="storage_settings">Armazenamento</string>
     <string name="storage_settings_title">Definições de armazenamento</string>
     <string name="storage_settings_summary">Desmontar armaz. USB, ver armazenamento disponível</string>
@@ -908,7 +908,7 @@ Possivelmente o código PIN está errado."</string>
     <string name="memory_media_usage">Multimédia</string>
     <string name="memory_downloads_usage">Transferências</string>
     <string name="memory_dcim_usage">Imagens, vídeos</string>
-    <string name="memory_music_usage">Áudio (música, Toques, etc.)</string>
+    <string name="memory_music_usage">Áudio (música, Toques etc.)</string>
     <string name="memory_media_misc_usage">Vários.</string>
     <string name="memory_media_cache_usage">Dados em cache</string>
     <string name="sd_eject">Desmontar partilha de armazenamento</string>
@@ -1209,7 +1209,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="sd_card_storage">Armazenamento USB</string>
     <string name="recompute_size">A calcular o tamanho…</string>
     <string name="clear_data_dlg_title">Eliminar dados da aplicação?</string>
-    <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
+    <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados etc.</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="app_not_found_dlg_title" />
@@ -1861,7 +1861,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
     <string name="enable_opengl_traces_title">Activar seguimentos</string>
     <string name="debug_layout">Mostrar limites de desenho</string>
-    <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
+    <string name="debug_layout_summary">Mostrar limites de clipe, margens etc.</string>
     <string name="force_rtl_layout_all_locales">Forçar Direcção do RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todas as locais</string>
     <string name="show_cpu_usage">Mostrar actualização do CPU</string>
@@ -2043,7 +2043,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
     <string name="user_add_user_item_title">Utilizador</string>
     <string name="user_add_profile_item_title">Utilizador restrito</string>
     <string name="user_add_user_title">adicionar novo utilizador</string>
-    <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã, etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
+    <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
 
 Depois de criar um novo utilizador, é necessário seguir o processo de definições. 
 
@@ -2710,7 +2710,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="wifi_share_current_network">Rede actual</string>
     <string name="wifi_share_other_network">Outras redes</string>
     <string name="wifi_share_know">OK</string>
-    <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
+    <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis etc.) com outros.</string>
     <string name="wifi_share_summary2">Quando outro utilizador MIUI partilha a rede, pode ligar-se directamente a essa rede sem utilizar uma palavra-passe.</string>
     <string name="wifi_share_summary3">Partilha da sua rede Wi-Fi pública com outros utilizadores MIUI.</string>
     <string name="wifi_share_add">Partilhar as minhas redes públicas</string>
