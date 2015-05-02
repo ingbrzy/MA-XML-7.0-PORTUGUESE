@@ -11,11 +11,11 @@
      </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Tocou %d vezes</item>
-        <item quantity="one">Tocou %d vez</item>
+        <item quantity="one">Tocou uma vez</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Eliminar %d contactos do cartão SIM ?</item>
-        <item quantity="one">Eliminar %d contacto do cartão SIM ?</item>
+        <item quantity="other">Eliminar %d contactos do cartão SIM?</item>
+        <item quantity="one">Eliminar contacto do cartão SIM?</item>
      </plurals>
      <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactos importados</item>
@@ -23,11 +23,11 @@
      </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Copiados %d contactos</item>
-        <item quantity="one">Copiado %d contacto</item>
+        <item quantity="one">Copiado um contacto</item>
      </plurals>
      <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">Cartão SIM pode armazenar %d contactos.</item>
-        <item quantity="one">Cartão SIM pode armazenar %d contacto.</item>
+        <item quantity="one">Cartão SIM pode armazenar um contacto.</item>
      </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d contactos adicionados"</item>
