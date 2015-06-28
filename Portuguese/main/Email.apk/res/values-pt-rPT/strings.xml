@@ -18,6 +18,7 @@
   <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="abc_shareactionprovider_share_with">Partilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
+  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -81,6 +82,7 @@
   <string name="account_settings_sync_email_summary">Sincronizar email para esta conta</string>
   <string name="account_settings_unsupported_label">Políticas não suportadas</string>
   <string name="account_settings_unsupported_summary">Nenhuma</string>
+  <string name="account_settings_using_ringtone">Ringtone</string>
   <string name="account_settings_vibrate_when_label">Vibrar</string>
   <string name="account_setup_account_type_headline">Tipo de conta</string>
   <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
@@ -146,6 +148,7 @@
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_title">Configuração da conta</string>
   <string name="account_setup_incoming_username_label">Nome do utilizador</string>
+  <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
   <string name="account_setup_names_account_name_label">Dar nome a esta conta (opcional)</string>
   <string name="account_setup_names_headline">A sua conta está configurada e o email está a caminho!</string>
   <string name="account_setup_names_title">Configuração da conta</string>
@@ -308,6 +311,7 @@
   <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
+  <string name="compose_help_context">compose</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com êxito</string>
   <string name="confirm">Confirmar</string>
@@ -322,6 +326,13 @@
   <string name="confirm_send_message_with_no_subject">Não há texto no assunto da mensagem.</string>
   <string name="confirm_send_title">Enviar mensagem?</string>
   <string name="contact_content_provider">Contactos do fornecedor do histórico de dados de conta Conteúdos</string>
+  <string name="contact_edit_set_black_list">Set blocklist</string>
+  <string name="contact_edit_set_phone_contact">Edit phone contacts</string>
+  <string name="contact_edit_set_pop_up_tips">Popup tips</string>
+  <string name="contact_edit_set_unread_top">Show unread emails first</string>
+  <string name="contact_edit_set_vip">Set VIP</string>
+  <string name="contact_edit_title_permission">Contacts permissions</string>
+  <string name="contact_edit_title_phone_contact">Phone contacts list</string>
   <string name="contact_info_string">Mostrar informações do contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar informações de contacto</string>
   <string name="contact_list_add_btn">Adicionar</string>
@@ -341,6 +352,7 @@
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Partilhar link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Movida para %1$s</string>
   <string name="conversation_item_mark_read">Lida</string>
   <string name="conversation_item_mark_unread">Não lida</string>
@@ -379,7 +391,9 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activado</string>
   <string name="device_not_activiey_lint2">O Serviço de correio não funciona correctamente em Exchange</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Sync mail option is off,can't receive new messages."</string>
   <string name="dialog_auto_download_failed">Não foi possível terminar a transferência automática</string>
+  <string name="dialog_auto_sync_setting_no_open">"Sync option is off,can't receive new messages."</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Não há espaço suficiente para %s.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível terminar a transferência. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
@@ -458,6 +472,8 @@
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_en0">Lixo</string>
   <string name="folder_junk_name_en1">Email a granel</string>
+  <string name="folder_list_display_all">Display all folders</string>
+  <string name="folder_list_display_only_import">Only display important folders</string>
   <string name="folder_picker_title">Seleccionar pastas</string>
   <string name="folder_removed">Removido de %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>
@@ -486,6 +502,7 @@
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
   <string name="forward_download_failed_title">Anexo não encaminhado</string>
+  <string name="forward_subject_label">Fwd:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -522,6 +539,7 @@
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="ignore_spam_warning">Ignorar, confio nesta mensagem</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_password_error">Password for incoming mail server is incorrect</string>
   <string name="inbox_folders_heading">Pastas locais</string>
   <string name="info">Informações</string>
   <string name="inline_picture_deleted">Não foi possível localizar esta imagem, a transferir…</string>
@@ -646,6 +664,7 @@ CC: %4$s
   <string name="mibill_privacy_policy_description">Mi Wallet vai analisar todas as declarações de e-mail recebidas na aplicação de Correio e gerir todas as contas de cartão de crédito para si. Este serviço é padrão para fora da caixa de correio da empresa.</string>
   <string name="mibill_privacy_policy_link">Agree &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Cartão de Crédito Contrato de Utilizador da Conta Serviço&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Mi Wallet analisa declarações de e-mail</string>
+  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_remaining">%1$d restantes</string>
   <string name="more_atts_total">Total de %1$d anexos</string>
   <string name="more_context">Mais</string>
@@ -684,6 +703,9 @@ CC: %4$s
   <string name="notification_action_undo_delete">Eliminada</string>
   <string name="notification_action_undo_remove_label">Marcador removido</string>
   <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
+  <string name="oauth_error_description">"Couldn't authenticate"</string>
+  <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
+  <string name="oauth_login_continue">Continue</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="open_proxy_in_settings">"Gmail não está disponível na sua localização actual. Ainda pode enviar e receber mensagens na caixa de entrada do Gmail usando servidor proxy Mail. Ligue esta função ou desligar a qualquer momento em Configurações."</string>
@@ -693,10 +715,13 @@ CC: %4$s
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Erro no certificado de Email. Actualize o certificado</string>
   <string name="outbox_alert_description_auth_error">Erro do servidor durante sincronização da caixa de saída</string>
+  <string name="outbox_alert_description_cannot_authenticate">"Couldn't authenticate %s."</string>
   <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Armazenamento insuficiente no servidor de correio</string>
   <string name="outbox_alert_description_provision_error">Erro do servidor durante a sincronização da caixa de saída.</string>
+  <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
   <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do destinatário.</string>
+  <string name="outbox_alert_description_time_out">Network connection timed out</string>
   <string name="outbox_alert_duplicate_click">Ainda está a sincronizar</string>
   <string name="outbox_alert_edit_resend">Editar e reenviar</string>
   <string name="outbox_alert_failed_edit_resend">Não é possível enviar. Edite e tente novamente.</string>
@@ -825,6 +850,8 @@ CC: %4$s
   <string name="quote_divider_qq_zh">------------------ Original ------------------</string>
   <string name="quoted_text">Incluir texto das mensagens anteriores</string>
   <string name="quoted_text_label">Textos anteriores</string>
+  <string name="re_download_message_button">Tap to download again</string>
+  <string name="re_download_message_info">"Couldn't download email"</string>
   <string name="read_string">conversa lida</string>
   <string name="recent_folders_heading">Pastas recentes</string>
   <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
@@ -847,9 +874,14 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informar</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Looks good</string>
+  <string name="report_rendering_improvement_desc">This message looks good.</string>
+  <string name="report_rendering_problem">Looks bad</string>
+  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="require_manual_sync_message">A sincronização desta conta é desactivada em roaming.</string>
@@ -916,6 +948,7 @@ CC: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="smtp_password_error">Password for outgoing mail server is incorrect</string>
   <string name="sort_attachment">Ordenar por</string>
   <string name="spaceChar">" "</string>
   <string name="special_text_1">写道:</string>
@@ -1004,6 +1037,7 @@ Pressione "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Deslize a partir do topo para obter a notificação. Pressione para finalizar a definição de segurança.</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
+  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Outros</string>

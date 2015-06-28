@@ -54,6 +54,7 @@
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
   <string name="delete_wallpapers_message">Eliminar %1$d papéis de parede?</string>
   <string name="disable_wallpaper_scroll">Desactivar rolar do papel de parede</string>
+  <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -129,9 +130,11 @@
   <string name="image_too_small_message">A imagem não tem a dimensão necessária</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Contacto inválido</string>
+  <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
   <string name="is_setting_wallpaper_toast">Definir papel de parede…</string>
   <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos do sistema</string>
   <string name="loading_desktop">A carregar launcher</string>
+  <string name="loading_wallpaper">Just a sec…</string>
   <string name="local_wallpaper">Local</string>
   <string name="lock_screen_failed_message">Não foi possível aplicar</string>
   <string name="lock_screen_success_message">Aplicado</string>
@@ -226,6 +229,7 @@
   <string name="unnamed_folder_name">Pasta sem nome</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_failed_message">Não foi possível aplicar</string>
+  <string name="wallpaper_scrolling">all</string>
   <string name="wallpaper_settings">Papel de parede</string>
   <string name="wallpaper_success_message">Aplicado com êxito</string>
   <string name="widget_favorite_contacts_edit">Editor</string>

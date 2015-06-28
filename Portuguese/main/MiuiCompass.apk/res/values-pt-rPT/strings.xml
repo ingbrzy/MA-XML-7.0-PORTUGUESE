@@ -8,7 +8,10 @@
   <string name="calibrate_failed">Calibrating altitude failed</string>
   <string name="calibrate_failed_no_location">Não foi possível calibrar</string>
   <string name="calibrate_failed_timeout">Não foi possível conectar-se ao servidor</string>
+  <string name="calibrate_rotate_again">Try again</string>
   <string name="calibrate_success">Calibrada</string>
+  <string name="calibrate_tip">Tilt your device to roll the ball around the circle</string>
+  <string name="calibrate_title">Calibrate compass</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_calibrat_altitude">Calibrando…</string>
   <string name="dialog_title_no_network">Não foi possível conectar-se à rede</string>
@@ -21,6 +24,8 @@
   <string name="direction_south_west">SO</string>
   <string name="direction_west">O</string>
   <string name="do_not_show_next_time">Não exibir novamente</string>
+  <string name="first_using_dialog_message">"Compass needs to use your device's network connection, camera, and location services to work normally."</string>
+  <string name="first_using_dialog_title">Access permission</string>
   <string name="getting_location">Calibrando…</string>
   <string name="guide_toast">Para calibrar a bússola, mova o telefone de acordo com o movimento exibido no ecrã</string>
   <string name="latitude">LAT</string>

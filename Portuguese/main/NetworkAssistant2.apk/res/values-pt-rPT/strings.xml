@@ -39,6 +39,7 @@
   <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
   <string name="daily_limit_over_message">Excedeu o limite de utilização de dados</string>
   <string name="daily_pkg_traffic">Definir limite da utilização de dados no período de maior tráfego</string>
+  <string name="data_network_blocked_notification_title">No internet connection</string>
   <string name="data_usage_correction_timeout_body">Pressione para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
   <string name="data_usage_disabled_dialog">Já atingiu seu limite de utilização de dados. Se ultrapassar limite de uso de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
@@ -91,6 +92,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="detail_app_button">Informação da aplicação</string>
   <string name="dialog_app_roaming_message">Quando está em roaming internacional, apenas as aplicações que adicionou à lista de exceções pode utilizar serviços de dados. %1$snão foi adicionado à lista de excepções. Ver agora a lista de excepções?</string>
   <string name="dialog_app_roaming_title">Roaming internacional não está activado para %1$s</string>
+  <string name="dialog_roaming_apps_sorted_title">Sort by</string>
   <string name="dialog_roaming_message">Aplicações na lista de exceções podem ligar a serviços de dados quando em roaming internacional. Adicionar aplicações à lista de excepções?</string>
   <string name="dialog_roaming_title">Roaming Internacional</string>
   <string name="disable_air_mode">Desligar o modo de voo</string>
@@ -105,6 +107,8 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="firewall_fragment_sys_listempty">Vazio</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
+  <string name="firewall_network_restrict_notify_message">Tap to change settings.</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s isn't allowed to connect to %2$s."</string>
   <string name="firewall_rule_group_title_mobile">Dados</string>
   <string name="firewall_rule_group_title_roaming">Roaming Internacional</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -119,16 +123,22 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="free_time_traffic_title">Digite o limite de dados no período de menor tráfego</string>
   <string name="free_traffic_settings">Definições da utilização de dados no período de menor tráfego</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente de novo.</string>
+  <string name="gateway_exception_summary2">"Can't connect to the server"</string>
   <string name="gateway_exception_title">Teste o router</string>
+  <string name="hints_input_roaming_daily_limit">Enter data usage limit</string>
+  <string name="hints_install_apps_new">Never used</string>
+  <string name="hints_install_apps_today">Used today</string>
   <string name="input_aviable_traffic">Definir limite da utilização de dados</string>
   <string name="input_traffic_pkg">Introduza a utilização dados</string>
   <string name="input_used_hint">Insira a utilização de dados</string>
   <string name="input_used_max_hint">Insira a utilização de dados (menos de %s)</string>
   <string name="international_roaming_setting">Roaming Internacional</string>
   <string name="international_roaming_whitelist_count">%d aplicações podem ligar a serviços de dados quando em roaming internacional</string>
+  <string name="ip_address_exception_summary">"Couldn't get IP address. If you run into this issue again, try using a static IP address."</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Vazio</string>
   <string name="load_fail">"Couldn't load"</string>
+  <string name="local_ip_exception_summary">"Couldn't get local IP address. To report this issue to MIUI, go to the Report Bug app and send a log from your device."</string>
   <string name="lock_screen_setting_summary">Mostrar notificação após utilizar 100KB</string>
   <string name="lock_screen_traffic_guide_notification_summary">Dados móveis usados durante o bloqueio de ecrã.</string>
   <string name="lock_screen_traffic_guide_notification_title">usado %s de dados móveis</string>
@@ -182,10 +192,56 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Detalhes do Framework</string>
+  <string name="mian_page_primary_txt">Internationally roaming</string>
+  <string name="miuishare_title_more">More</string>
+  <string name="miuishare_title_share">Share</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Pressione para ver os detalhes.</string>
   <string name="network_assistant_upgraded_title">Actualização concluída</string>
+  <string name="network_blocked_connected_open_wifi">Connected to public network</string>
+  <string name="network_blocked_notification_summary">Tap to view details.</string>
+  <string name="network_blocked_switch_wifi">Switch networks</string>
+  <string name="network_connected_exception_title">Test network</string>
   <string name="network_control">Ver definições das aplicações</string>
   <string name="network_diagnostics">Teste de rede</string>
+  <string name="network_mobile_exception_detail">"Your device can't connect to the internet:
+
+ 1. Make sure you haven't exceeded your carrier's plan's mobile data limit.
+
+ 2. If you just topped up your device's balance, reboot your device and try again.
+
+ 3. Your carrier's network's signal may be weak in your current location."</string>
+  <string name="network_not_available">"Can't connect to the network"</string>
+  <string name="network_operator_exception_summary">"Couldn't activate SIM card. Make sure your SIM card is inserted properly and that your mobile plan has been activated by your carrier."</string>
+  <string name="network_permission_exception_tips">"Can't use mobile data to connect to the network"</string>
+  <string name="network_roaming_exception_tips">"Can't using mobile data while roaming to connect to the network."</string>
+  <string name="network_route_exception_detail">"There may be a problem with the router you're connected to:
+
+ "&lt;b&gt;"1. Public WLAN network issues
+"&lt;/b&gt;"If you're connected to a public WLAN network, the number of users connected to that network may be slowing it down or creating connectivity problems. Switch to another network and try again.
+
+ 2."&lt;b&gt;" Internet service provider issues
+M"&lt;/b&gt;"ake sure that your account is in good standing with your Internet Service Provider.
+
+ 3."&lt;b&gt;" Router hardware issues
+T"&lt;/b&gt;"ry rebooting your router or checking the admin settings for your router.
+
+ 4."&lt;b&gt;" Other router issues
+R"&lt;/b&gt;"ead the instructions that came with your router and restore your router to its factory settings.
+
+ 5."&lt;b&gt;" Make sure your router is connected properly
+T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you suspect there's an issue with the connection in your home, contact your Internet Service Provider."</string>
+  <string name="network_sim_exception_detail">"There may be a problem with your SIM card:
+
+ 1. Make sure your account is in good standing with your carrier. Try using a friend's SIM card and see if you're able to connect normally.
+
+ 2. If you're using two SIM cards, try switching to the other card and see if you're able to connect normally.
+
+ 3. Make sure your SIM card and your device's SIM slot aren't damaged. Confirm that the SIM card you're using is properly inserted in your device's SIM tray."</string>
+  <string name="networkchanged_exception_summary">Network connection has changed. Please test again.</string>
+  <string name="networkchanged_exception_title">Connection changed</string>
+  <string name="no_network_btn">Try again</string>
   <string name="none_mi_service_app_detail">Vazio</string>
   <string name="notify_daily_data_usage_body">Hoje utilizou %s. Pressione para definir o limite.</string>
   <string name="notify_daily_limit_body">Esta semana utilizou %s. Pressione para definir o limite.</string>
@@ -199,14 +255,19 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">A ler</string>
   <string name="online_songs">Música</string>
+  <string name="open_now">Allow app to use mobile data</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="other_exception_summary">"You don't have an internet connection"</string>
+  <string name="other_exception_title">Checking for other issues</string>
   <string name="pay_charge">Adquirir dados adicionáis</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
+  <string name="permission_exception_summary">"Some apps don't have permission to connect to the internet"</string>
+  <string name="permission_exception_title">View network permissions</string>
   <string name="permit_running_network">Permitir dados em segundo plano</string>
   <string name="person_hotpot">Hotspots móveis</string>
   <string name="pkg_traffic">Definir limite da utilização de dados</string>
@@ -257,6 +318,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="pref_package_traffic_overlay">%1$s | Adicional: %2$s</string>
   <string name="pref_package_traffic_settings">Limite dos dados móveis</string>
   <string name="pref_pkg_begin_date">Definir dia de inicio do ciclo de dados</string>
+  <string name="pref_roaming_daily_limit_setting">Daily data limit for roaming</string>
   <string name="pref_setting_operators_message">Editar a mensagem que o dispositivo envia à sua operadora para sincronizar as suas estatísticas da utilização de dados</string>
   <string name="pref_show_mobile_traffic">Quando desbloquear o seu telefone, mostra as estatísticas da utilização de dados para o período em que o dispositivo foi bloqueado (deve ser maior que 5 minutos)</string>
   <string name="pref_special_traffic_exceed_limit">Notifique-me quando a utilização de dados atingir o limite</string>
@@ -264,6 +326,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="pref_specified_adjust">Definir o limite de dados personalizado</string>
   <string name="pref_specified_traffic_settings">Definições do limite de dados</string>
   <string name="pref_title_declaration">Renúncia importante</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Show alerts in notification shade</string>
   <string name="pref_title_mobile_traffic">Mostrar a utilização de dados enquanto bloqueado</string>
   <string name="pref_title_network_diagnostics">Diagnóstico da rede</string>
   <string name="pref_title_over_traffic_limit_warning">Quando excedido</string>
@@ -282,25 +345,35 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="pref_version">Versão %s</string>
   <string name="pref_warning_values">Nível de aviso da utilização de dados</string>
   <string name="pref_whitelist_setting">Exceções</string>
+  <string name="privacy_declare_dialog_message">"By using this service, you are agreeing to Opera's &lt;a href=%s&gt; Terms and Conditions&lt;/a&gt;."</string>
   <string name="privacy_declare_dialog_title">Termos e Condições</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão enviados para os servidores da Xiaomi para actualizar os seus dados e informações de utilização.</string>
   <string name="privacy_prompt_traffic_adjust_message">Este recurso necessita de enviar o IMEI, número de telefone e dados da operadora para os servidores Mi.</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão enviados para os servidores da Xiaomi para obter mais informação sobre as opções de compra de dados.</string>
   <string name="privacy_prompt_upload">Notificações de Privacidade</string>
+  <string name="protocol_exception_title">Network protocol diagnostics</string>
+  <string name="protocol_loop_back_exception_summary">Local loop back test failed. To report this issue to MIUI, go to the Report Bug app and send a log from your device.</string>
   <string name="reach_daily_limit_value_body">Reduza a utilização de dados móveis.</string>
   <string name="reach_daily_limit_value_title">Atingido o limite de dados diários</string>
   <string name="read_number">86 artigos</string>
   <string name="read_unit">" artigos"</string>
+  <string name="renew_ip">Retry</string>
   <string name="repair">Repair</string>
   <string name="repair_loading_text">Loading…</string>
   <string name="replace_dns">Replace DNS automatically</string>
   <string name="right_precent">100%</string>
+  <string name="roaming_limit_dialog_message">Reached daily roaming data limit.</string>
+  <string name="roaming_limit_network_notification_body">Tap to view available data networks</string>
+  <string name="roaming_limit_notification_title">Reached daily roaming data limit</string>
+  <string name="roaming_limit_warning_notification_body">Tap to view data usage.</string>
   <string name="roaming_not_start_body">Aplicações na lista de exceções podem ligar a serviços de dados quando em roaming internacional.</string>
   <string name="roaming_not_start_title">Roaming International</string>
   <string name="roaming_start_body">Permitir aplicações na lista de exceções para ligar ao serviços de dados quando em roaming internacional.</string>
   <string name="roaming_start_title">Roaming International</string>
+  <string name="root">Root Access</string>
   <string name="sc_allow_network_dialog_message">Tem que permitir que esta aplicação ligue à Internet para funcionar normalmente.</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar dados do servidor</string>
+  <string name="search_input_txt">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="see_detail">Details</string>
   <string name="setting_traffic_pkg">Definir o pacote de dados</string>
   <string name="settings">Definições da utilização de dados</string>
@@ -308,6 +381,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="show_traffic_dialog_title">Mostrar a utilização de dados na barra de notificações</string>
   <string name="signal_exception_summary">"Não é possível ligar-se à rede nesta área."</string>
   <string name="signal_exception_title">Sinal de rede fraco</string>
+  <string name="sim_state_exception_summary">SIM status indicates something may be wrong with your SIM card.</string>
   <string name="songs_number">18 músicas</string>
   <string name="songs_unit">" músicas"</string>
   <string name="sorted_button">Ordenar por</string>
@@ -379,6 +453,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_correction_start_correction">Conversar com os servidores da operadora…</string>
   <string name="traffic_correction_start_correction_failed">A solicitação falhou, por favor, verifique as configurações da operadora</string>
   <string name="traffic_correction_success">Utilização de dados actualizado</string>
+  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
   <string name="traffic_limit_error_alert_body">Segundo a operadora tem %1$s até à renovação do plano de dados. É mais que o limite de %2$s que definiu manualmente.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Repor limite</string>
@@ -460,6 +535,8 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="usage_sorted_loading_text">A carregar…</string>
   <string name="usbsharenet_exception_summary">"Não pode ligar-se á rede quando partilha com o Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Teste de rede partilhada por USB </string>
+  <string name="usbsharenet_pc_exception_summary">"Can't connect to the internet using shared USB connection. Check your computer's internet connection."</string>
   <string name="wifi_exception_summary">Teste ligações de redes disponíveis</string>
   <string name="wifi_exception_title">Teste ligação de rede</string>
+  <string name="wifi_network_blocked_notification_title">No internet connection</string>
 </resources>

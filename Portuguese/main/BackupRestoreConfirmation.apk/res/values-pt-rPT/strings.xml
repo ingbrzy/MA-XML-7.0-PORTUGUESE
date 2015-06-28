@@ -7,6 +7,7 @@
 Se não pediu esta cópia de segurança, não autorize a operação."</string>
   <string name="backup_confirm_title">Cópia de segurança concluída</string>
   <string name="backup_enc_password_optional">Se desejar encriptar os dados da cópia de segurança, insira uma palavra-passe em baixo:</string>
+  <string name="backup_enc_password_required">Since your device is encrypted, you are required to encrypt your backup. Please enter a password below:</string>
   <string name="backup_enc_password_text">Por favor, insira uma palavra-passe a ser utilizada para encriptar os dados da cópia de segurança completa. Se for deixado em branco, será utilizada a palavra-passe actual:</string>
   <string name="current_password_text">Por favor, insira a sua palavra-passe actual da cópia de segurança abaixo:</string>
   <string name="deny_backup_button_label">Não fazer uma cópia de dados</string>

@@ -2,6 +2,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Ocorreu um problema ao processar este pacote.</string>
   <string name="Parse_error_dlg_title">Erro de processamento</string>
+  <string name="activity_package_delete_confirm_title">Important Warning</string>
   <string name="allow_source_dlg_text">"%1$s quer instalar outras aplicações.
 
 Permitir isso agora e no futuro?"</string>
@@ -10,6 +11,11 @@ Permitir isso agora e no futuro?"</string>
   <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
   <string name="app_not_found_dlg_title">Aplicação não encontrada</string>
   <string name="auto_startup_dialog_msg">A MIUI vai permitir que a aplicação inicie automaticamente a sua permissão.</string>
+  <string name="button_text_cancel">Cancel</string>
+  <string name="button_text_delete">Delete</string>
+  <string name="button_text_delete_timer">Delete (%d)</string>
+  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step_timer">Next (%d)</string>
   <string name="caller_app">Ligar: %1$s</string>
   <string name="cancel">Cancelar</string>
   <string name="dlg_app_replacement_statement">"A aplicação que está a instalar irá substituir outra aplicação.
@@ -17,6 +23,7 @@ Permitir isso agora e no futuro?"</string>
 Todos os dados de utilizador anteriores serão guardados."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) irá substituir a versão actualmente instalada (%3$s). Todos os dados das aplicações existentes serão guardados.</string>
   <string name="dlg_app_replacement_title">Substituir aplicação</string>
+  <string name="dlg_appstore_notice">Get this app from our official &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"É uma aplicação de sistema. Deseja substituir ?
 
@@ -39,6 +46,7 @@ Todos os dados de utilizador anteriores serão guardados."</string>
   <string name="installing">A instalar…</string>
   <string name="launch">Abrir</string>
   <string name="lift_ban">Permitir</string>
+  <string name="lift_ban_once">Allow once</string>
   <string name="low_risk_perms">Permissões de baixo risco</string>
   <string name="manage_applications">Gerir programas</string>
   <string name="manage_device_administrators">Gerir administradores de dispositivo</string>
@@ -46,6 +54,9 @@ Todos os dados de utilizador anteriores serão guardados."</string>
   <string name="other_relative">Outras permissões</string>
   <string name="out_of_space_dlg_text">Não há espaço de armazenamento suficiente no dispositivo para instalar %1$s.</string>
   <string name="out_of_space_dlg_title">Sem espaço</string>
+  <string name="package_delete_confirm_step_1">Delete %s?</string>
+  <string name="package_delete_confirm_step_2">Deleting this app may cause your system to become unstable.</string>
+  <string name="package_delete_confirm_step_3">"You won't be able to open this app after you delete it."</string>
   <string name="perm_action_accept">Permitir</string>
   <string name="perm_action_prompt">Perguntar</string>
   <string name="perm_action_reject">Negar</string>

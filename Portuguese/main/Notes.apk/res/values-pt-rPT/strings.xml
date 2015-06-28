@@ -20,6 +20,7 @@
   <string name="call_record_folder_name">Registo das chamadas</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="dlg_desc_confirm_alarm_silent">Os alarmes activos não soarão quando em modo de silêncio.</string>
+  <string name="dlg_info_creating_message">Creating message…</string>
   <string name="dlg_title_confirm_alarm_silent">Silenciar alarmes</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_desc">Sincronizar as suas notas com a sua conta Mi (%1$s)?</string>
@@ -95,6 +96,7 @@
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar um comentário vazio</string>
   <string name="sns_toast_over_limit">Enviado como imagem (over text limit)</string>
+  <string name="sync_tips">Tap to sync notes with Mi Cloud.</string>
   <string name="toast_folder_privacy_mode">Não é possível editar pasta em modo protegido</string>
   <string name="toast_message_add_image_fail">Falha ao adicionar imagem</string>
   <string name="toast_message_add_text_warn">Este tipo de ficheiro não é suportado</string>

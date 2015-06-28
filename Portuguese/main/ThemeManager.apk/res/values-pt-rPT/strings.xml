@@ -227,6 +227,7 @@
   <string name="resource_see_more">Ver mais</string>
   <string name="resource_select">Seleccionar</string>
   <string name="resource_select_ringtone_confirm">Seleccionar este toque?</string>
+  <string name="resource_select_ringtone_confirm_picker">Select this sound?</string>
   <string name="resource_selected">Destaque</string>
   <string name="resource_send">Enviar</string>
   <string name="resource_server_alert_dialog_title">Nós estaremos de volta…</string>
@@ -307,6 +308,8 @@
   <string name="theme_fresh_man_notifaction">Estão disponíveis novos temas</string>
   <string name="theme_immediately_apply_tip">Aplicar agora a actualização do tema?</string>
   <string name="theme_import_from_sdcard">Importar do cartão SD</string>
+  <string name="theme_is_external_priority_storage">Save to SD card</string>
+  <string name="theme_is_external_priority_storage_summary">Themes app will restart immediatelly to take effect</string>
   <string name="theme_multiple_button_title_customize">Personalizar</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Não</string>

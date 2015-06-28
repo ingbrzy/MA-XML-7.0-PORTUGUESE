@@ -15,6 +15,9 @@
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado com êxito</string>
   <string name="bugreport_dump_start_notification_summary">Aguarde cerca de 1 minuto.</string>
   <string name="bugreport_dump_start_notification_title">Criar relatório de erros</string>
+  <string name="bugreport_tool_log">Create bug report</string>
+  <string name="bugreport_tool_log_toast">Log saved to %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Creating bug report (takes about a minute)</string>
   <string name="button_feedback">Outro</string>
   <string name="button_plus">+1</string>
   <string name="camera_problem1">Má qualidade da fotografia</string>
@@ -57,6 +60,11 @@
   <string name="loading_hot_problem">A carregar…</string>
   <string name="loading_problem_list">A carregar lista…</string>
   <string name="menu_copy">Copiar</string>
+  <string name="modem_tool_log">Capture modem logs</string>
+  <string name="modem_tool_log_start">Start</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Stop</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="network_disconnected">"Não é possível ligar à Internet"</string>
   <string name="network_err">Não é possível ligar à Internet.</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>

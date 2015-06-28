@@ -6,6 +6,8 @@
   <string name="accept_or_deny">%1$s partilhou o album %2$s contigo.</string>
   <string name="activity_not_found">Não foi encontrada uma aplicação para esta acção</string>
   <string name="add_account">Adicionar conta</string>
+  <string name="add_event">Add event</string>
+  <string name="add_event_hint">Enter label</string>
   <string name="add_sharer">Adicionar utilizador</string>
   <string name="add_to_cloud_album">Adicionar ao album</string>
   <string name="add_to_cloud_exceeded_the_size_message">O ficheiro é demasiado grande</string>
@@ -48,6 +50,7 @@
   <string name="alert_secret_album_message">Para ocultar álbuns, deslize na parte inferior dos álbuns na Nuvem Mi.</string>
   <string name="alert_secret_album_set_pattern">Defina padrão de desbloqueio</string>
   <string name="alert_secret_album_title">Adicionado ao album secreto</string>
+  <string name="all_video_album_display_name">All videos</string>
   <string name="already_apply_album">Abrir %1$s?</string>
   <string name="always_rotate_alert_msg">Pode desactivar este recurso nas definições da Galeria.</string>
   <string name="always_rotate_alert_positive_button_text">Activar</string>
@@ -97,6 +100,7 @@
   <string name="cannot_send_message">É impossível enviar a mensagem</string>
   <string name="cannot_send_message_reason">Não há destinatários válidos</string>
   <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
+  <string name="cant_delete_system_album">"Can't delete %s because it's a system album."</string>
   <string name="choose_cloud_album">Escolher album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
@@ -506,6 +510,8 @@ com os amigos"</string>
   <string name="comfirm_delete_current_album">Eliminar este album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
+  <string name="confirm_all_photo_are_this_people_face">Associate all photos with %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">No matches for %s?</string>
   <string name="confirm_delete">Eliminar %s fotografias?</string>
   <string name="confirm_delete_album" formatted="false">Eliminar %s álbuns (%s total de ficheiros)?</string>
   <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Eliminar %s items da nuvem?&lt;/Data&gt;" "</string>
@@ -517,7 +523,12 @@ com os amigos"</string>
   <string name="confirm_download">Tem que transferir %s.</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível.</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
+  <string name="confirm_face">Match</string>
+  <string name="confirm_left_photo_will_move_in">%s is in all of the remaining photos?</string>
+  <string name="confirm_left_photo_will_move_out">"%s isn't in any of the remaining photos?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Juntar este &amp;#225;lbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Merge these albums with %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_not_face">Not this person</string>
   <string name="contact_photo">Definir como fotografia de contacto</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
   <string name="context_menu_copy">Copiar</string>
@@ -580,6 +591,7 @@ com os amigos"</string>
   <string name="email_picker_title">Adicionar Email partilhado</string>
   <string name="enable">Ligar</string>
   <string name="enable_cloud_for_sharing">Tem de activar álbuns na nuvem para ver as imagens partilhadas.</string>
+  <string name="enabling_face_feature">Just a sec…</string>
   <string name="enter_email_hint">Inserir o endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
   <string name="error_cloud_not_active">Sem fotos na Nuvem</string>
@@ -595,6 +607,8 @@ com os amigos"</string>
   <string name="error_title">Não é possível sincronizar</string>
   <string name="error_unauthorized">Sincronização foi desactivada devido a muitas tentativas de ligação.</string>
   <string name="error_unknown_host">Não é possível ligar à rede. Verifique sua ligação de dados e tente novamente.</string>
+  <string name="event_create_long_photo">Creating photo…</string>
+  <string name="event_manage_photos">Manage photos</string>
   <string name="exit">Sair</string>
   <string name="exit_share">Sair do album</string>
   <string name="exit_share_failed">Falha ao sair %1$s</string>
@@ -606,10 +620,13 @@ com os amigos"</string>
   <string name="external_usb_device">Armazenamento USB</string>
   <string name="external_usb_device_hm">Armazenamento USB externo</string>
   <string name="face_album">Pessoas</string>
+  <string name="face_album_long_tap_tip">To select multiple people or change group settings, press &amp; hold a profile picture</string>
   <string name="face_album_not_named">Sem nome</string>
   <string name="face_album_rename_hint">Insira o nome</string>
   <string name="face_albumset_detecting_tip">Aguarde um segundo…</string>
   <string name="face_albumset_empty">Vazio.</string>
+  <string name="face_albumset_loading_data">Loading data…</string>
+  <string name="face_albumset_pending_enable_tip">Will sort photos when device is connected to WLAN</string>
   <string name="face_albumset_use_tip">Utilize a detecção de rostos para organizar as fotos de acordo com as pessoas</string>
   <string name="face_move_dialog_title">Seleccione o álbum</string>
   <string name="facelift">Pele clara</string>
@@ -668,6 +685,8 @@ com os amigos"</string>
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Fotografias</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="ignore_album">"Don't show"</string>
+  <string name="ignore_alert_title">"Don't show this album?"</string>
   <string name="ignore_face">Ignorar esta pessoa</string>
   <string name="image_download_item_title">Transferir ficheiro (%s)</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente.</string>
@@ -680,6 +699,7 @@ com os amigos"</string>
   <string name="impunity_declaration_settings">Mostrar notificação da rede</string>
   <string name="impunity_declaration_summary">Mostrar aviso de rede cada vez que a aplicação Galeria inicia</string>
   <string name="impunity_declaration_title">Notícia da rede</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
   <string name="initial_cloud_text">Armazenar e exibir suas fotografias em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
@@ -691,6 +711,7 @@ com os amigos"</string>
   <string name="internal_sdcard_root">Directório raiz do cartão SD Interno</string>
   <string name="invalid_invition_url">URL de convite inválido</string>
   <string name="invalid_recipient_message">Os nomes dos destinatários que inseriu são inválidos</string>
+  <string name="is">Is this %s?</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Não é possível transferir esta imagem porque ela não foi sincronizada com a nuvem</string>
   <string name="item_not_sync_for_origin_video">Não é possível transferir este vídeo porque ele não foi sincronizado com a nuvem.</string>
@@ -700,6 +721,10 @@ com os amigos"</string>
   <string name="kick_sharer">Eliminar partilha utilizada</string>
   <string name="kick_sharer_failed">Impossível remover utilizador</string>
   <string name="kick_sharer_successfully">Utilizador removido</string>
+  <string name="last_chinese_new_year">Last Chinese New Year</string>
+  <string name="last_new_year">Last New Years</string>
+  <string name="last_valentine_day">Last Valentine Day</string>
+  <string name="last_year_today">1 year ago</string>
   <string name="loading">A carregar…</string>
   <string name="loading_failure">Impossível carregar fotografia</string>
   <string name="loading_image">A transferir imagem…</string>
@@ -728,7 +753,9 @@ com os amigos"</string>
   <string name="menu_item_sort_size_asc">Tamanho (ascendente)</string>
   <string name="menu_item_sort_size_desc">Tamanho (descendente)</string>
   <string name="menu_view_contact">Ver contactos</string>
+  <string name="merge_album">Merge</string>
   <string name="merge_album_positive_button_text">Juntar</string>
+  <string name="merge_album_title">Merge albums</string>
   <string name="message_no_delete_access">Não tem permissões para eliminar %s</string>
   <string name="messagelist_sender_self">Eu</string>
   <string name="miliao">Mi Talk</string>
@@ -746,6 +773,7 @@ com os amigos"</string>
   <string name="moman_camera_icon">Caricatura de Câmara Moman</string>
   <string name="moman_camera_picture">Fotos de Câmara Moman</string>
   <string name="more">Mais</string>
+  <string name="mosaic">Mosaic</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover para</string>
   <string name="mtgif">MTGIF</string>
@@ -755,6 +783,7 @@ com os amigos"</string>
   <string name="name_wrong">Este não é %s</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
+  <string name="network_connected_rescan">"Can't connect to the network"</string>
   <string name="new_device_tips">"Pressione para ver 
 o dispositivo"</string>
   <string name="no">Não</string>
@@ -764,12 +793,14 @@ o dispositivo"</string>
   <string name="no_map_app">Não foi encontrada uma aplicação para ser utilizada com esta acção</string>
   <string name="no_network_connected">Nenhuma rede detectada</string>
   <string name="no_picture_or_video">Vazio</string>
+  <string name="no_secret_photo">No hidden photos</string>
   <string name="no_storage_disable_cloud_albums">A nuvem não está disponível.</string>
   <string name="no_such_album">Não foi encontrado nenhum álbum</string>
   <string name="no_such_item">Ficheiro não encontrado</string>
   <string name="no_thumbnail">Sem miniatura</string>
   <string name="none_picture">Sem imagens</string>
   <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
+  <string name="not_is">Not %s?</string>
   <string name="not_now">Agora não</string>
   <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
   <string name="old">Vintage</string>
@@ -799,11 +830,15 @@ o dispositivo"</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Definições adicionais</string>
   <string name="owner_album_subtitle">Partilhar com %1$s utilizadores</string>
+  <string name="paint_brush">Paint brush</string>
   <string name="paint_cancel_context">Não guardar as alterações efectuadas na foto?</string>
   <string name="paint_cancel_title">Abandonar alterações</string>
   <string name="paint_crop_cancel_context">Deseja guardar o resultado recortado?</string>
   <string name="paint_crop_cancel_title">Abandonar as alterações</string>
   <string name="paint_crop_tips">Para obter uma imagem melhor, por favor coloque as peças nos pontos da grade redimensionando e movendo.</string>
+  <string name="paint_highlight">Highlight</string>
+  <string name="paint_highlight_cancel_context">Save highlighted image?</string>
+  <string name="paint_highlight_cancel_title">Abandon changes</string>
   <string name="path">Caminho</string>
   <string name="people">Pessoas</string>
   <string name="photo_page_always_rotate">Auto-rotação de imagens</string>
@@ -816,6 +851,7 @@ o dispositivo"</string>
   <string name="photo_size">Tamanho</string>
   <string name="photoeditor_name">Editor de fotografias</string>
   <string name="photos">Fotografias</string>
+  <string name="pick_from_contact">Choose from contacts</string>
   <string name="pick_too_many_recipients">Demasiados destinatários</string>
   <string name="pick_too_much_tips">Não é possível escolher ficheiros (máximo %d ficheiros).</string>
   <string name="picker_no_album_selected">Não foi seleccionado nenhum álbum</string>
@@ -831,6 +867,7 @@ o dispositivo"</string>
   <string name="preparing_data_to_delete">A eliminar imagens…</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Quando o cartão SD for inserido, transferir os ficheiros para o cartão SD automaticamente.</string>
+  <string name="project_available_tip">Display detected</string>
   <string name="projection">Projecção</string>
   <string name="public_url_descript">Qualquer um pode ver o álbum utilizando o endereço</string>
   <string name="publish_failed">Falha ao publicar</string>
@@ -852,6 +889,7 @@ o dispositivo"</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
   <string name="remove_hidden_album">Mostrar album</string>
   <string name="remove_recent_album">Remover dos favoritos</string>
+  <string name="rename_event">Rename event</string>
   <string name="rename_face_album">Alterar nome</string>
   <string name="rename_fail_msg">Não foi possível mudar o nome</string>
   <string name="rename_failed">Não é possível renomear</string>
@@ -863,6 +901,7 @@ o dispositivo"</string>
   <string name="request_sms_url_title">Dica</string>
   <string name="retry_to_create_album">Tentar novamente</string>
   <string name="retry_to_request_qr_code">Tentar novamente</string>
+  <string name="return_to_top">Touch \"Photo\" to return to top</string>
   <string name="rise">Quente</string>
   <string name="rotate">Rodar</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
@@ -882,6 +921,7 @@ o dispositivo"</string>
   <string name="scan_qr_code_failure">Falha ao verificar</string>
   <string name="screensaver_activate_mode">Protecção de ecrã com ecrã desligado</string>
   <string name="screensaver_activate_only_charging">Só durante o carregamento</string>
+  <string name="script">Script</string>
   <string name="sd_not_available">Não é possível aceder o cartão SD.</string>
   <string name="sdcard_root">Directório raiz do cartão SD</string>
   <string name="seconds">" segundos"</string>
@@ -890,6 +930,7 @@ o dispositivo"</string>
   <string name="select_auto_upload_albums">Seleccione os álbuns a sincronizar</string>
   <string name="select_image">Seleccionar fotografia</string>
   <string name="select_item">Seleccionar ficheiros</string>
+  <string name="select_item_face">"Photos may be '%s'"</string>
   <string name="select_too_much_to_send_tips">Não é possível enviar estes ficheiros (máximo %d ficheiros).</string>
   <string name="select_video">Seleccionar vídeo</string>
   <string name="send">Enviar</string>
@@ -919,6 +960,7 @@ o dispositivo"</string>
   <string name="share_by_email_successfully">Partilhado %1$s</string>
   <string name="share_current_album">Partilhar este album</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja em %2$s</string>
+  <string name="share_title_more">More</string>
   <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de utilizadores.</string>
   <string name="sharpen">Escurecer</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -929,6 +971,8 @@ o dispositivo"</string>
   <string name="show_on_map">Mostrar no mapa</string>
   <string name="show_videos_only">Apenas vídeos</string>
   <string name="sina_weibo">Weibo</string>
+  <string name="single_device_project_dialog_checkbox_text">Remember this display</string>
+  <string name="single_device_project_dialog_title">Cast to %s</string>
   <string name="size_above">%1$s ou em cima</string>
   <string name="size_below">%1$s ou em baixo</string>
   <string name="size_between">%1$s a %2$s</string>
@@ -979,9 +1023,11 @@ o dispositivo"</string>
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (adicionou actualmente %1$s)</string>
   <string name="try_to_send">Enviar</string>
+  <string name="ubifocus_data_invalid">Some of the data for this image is invalid</string>
   <string name="ubifocus_data_missing">Estão em falta alguns dados desta imagem</string>
   <string name="ubifocus_guide_text">Pressione e segure para recentrar</string>
   <string name="ubifocus_map_error">Alguns dados para esta imagem contém erros</string>
+  <string name="ubifocus_refocus_data_invalid">"Can't refocus because some of this image's data is invalid"</string>
   <string name="ubifocus_refocus_data_missing">Não é possível recentrar porque alguns dos dados desta imagem de falta</string>
   <string name="ubifocus_refocus_download_tip">Deve transferir os dados desta imagem antes de redirecionar.</string>
   <string name="ubifocus_refocus_map_error">Não é possível recentrar porque alguns dos dados desta imagem da contém erros</string>
@@ -995,6 +1041,7 @@ o dispositivo"</string>
   <string name="user_alias_self">Próprio</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
+  <string name="videos">" videos"</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_sharers">Mostrar partilhados</string>
   <string name="vignette">Vinheta</string>
@@ -1003,6 +1050,7 @@ o dispositivo"</string>
   <string name="wandoujia">SnapPea</string>
   <string name="warn">Aviso</string>
   <string name="wechat">WeChat</string>
+  <string name="wechat_timeline_title">WeChat timeline</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>

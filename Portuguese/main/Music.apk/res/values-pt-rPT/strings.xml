@@ -19,6 +19,7 @@
   <string name="artist_name">Artista</string>
   <string name="artist_search_title">Artista</string>
   <string name="artist_view">Artista</string>
+  <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Seleccionar a Música</string>
   <string name="auto_download_in_wifi">A suas músicas favoritas serão transferidas automaticamente quando em Wi-Fi</string>
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
@@ -150,6 +151,7 @@
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Fluxo e Transferência de música a taxas de bits mais elevadas</string>
   <string name="i_know">OK</string>
+  <string name="i_know_it">OK</string>
   <string name="impunity_declaration">"Transmissão on-line é fornecido pelo serviço de música Baidu. Ao confirmar, concorda com Baidu's "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Termos de utiliza&amp;#231;&amp;#227;o&lt;/a&gt;."</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_negative_text">Sair</string>
@@ -230,6 +232,7 @@
   <string name="playlist_renamed_message">Lista de Reprodução renomeada</string>
   <string name="please_download_first">Tem que transferir esta música antes que a possa definir como toque</string>
   <string name="please_search_or_select">Pesquise ou seleccione a letra</string>
+  <string name="preset_music_playlist">Mi Music playlist</string>
   <string name="presonal_center">Definições da conta</string>
   <string name="priority_storage">Utilizar o cartão SD</string>
   <string name="priority_storage_summary">Se disponível transferir automaticamente para o cartão SD</string>
@@ -258,9 +261,12 @@
   <string name="send_to">Enviar para</string>
   <string name="send_to_title">Enviar para (%1$s)</string>
   <string name="server_error">Erro de servidor. Tente de novo mais tarde</string>
+  <string name="service_stop">Service discontinued</string>
   <string name="set_album_successful">O album foi definido com êxito</string>
   <string name="set_as_ring">Definir como toque</string>
   <string name="set_id3_failed">Falha ao definir informações sobre a música</string>
+  <string name="set_id3_not_have_read_or_write_permission">"You don't have permission to edit this file"</string>
+  <string name="set_id3_not_support_format">"Can't edit this file format"</string>
   <string name="set_id3_successful">Informações sobre a música definidas com êxito</string>
   <string name="set_lyric_successful">A letra foi definida com êxito</string>
   <string name="set_ringtones_failed">Não é possível definir como toque</string>
@@ -302,6 +308,12 @@
   <string name="ultra_high_quality">Elevada</string>
   <string name="unknown_album_name">Album desconhecido</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
+  <string name="upgrade_force">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_immediate">Update now</string>
+  <string name="upgrade_nobeta">"We're discontinuing our current streaming service while we resolve copyright issues. Sorry for the inconvenience :("</string>
+  <string name="upgrade_remind">Update available</string>
+  <string name="upgrade_suggest">"We're discontinuing our current streaming service due to copyright issues. Update to the newest version of the Music app to listen to high quality music."</string>
+  <string name="upgrade_waringing">"You'll only be able to listen to music stored offline."</string>
   <string name="valid_period">"Válido: "</string>
   <string name="vip_recommend_title">Obter Música de alta qualidade</string>
 </resources>

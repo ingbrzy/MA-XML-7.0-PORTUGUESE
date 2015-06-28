@@ -1,55 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <plurals name="show_dev_countdown">
-        <item quantity="other">Está agora %1$d passos de ser um desenvolvedor.</item>
-        <item quantity="one">Está agora %1$d passo de ser um desenvolvedor.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_letters">
+     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d letras.</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_lowercase">
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas.</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d números.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um número.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial.</item>
-    </plurals>
-    <plurals name="lockpassword_password_requires_nonletter">
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras.</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos um caractere sem letra.</item>
-    </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d números.</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um número.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais.</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas.</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula.</item>
+     </plurals>
+     <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d apps provide conditions</item>
+        <item quantity="one">%d app provides conditions</item>
+     </plurals>
+     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicações podem ler as notificações</item>
         <item quantity="one">%d aplicação pode ler as notificações</item>
-    </plurals>
-    <plurals name="wrong_pin_code">
-        <item quantity="other">Código PIN do cartão SIM está errado, tem %d tentativas restantes.</item>
-        <item quantity="one">Código PIN do cartão SIM está errado, tem %d tentativa restante deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
-    </plurals>
-    <plurals name="print_search_result_count_utterance">
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
         <item quantity="other">%1$s impressoras encontradas</item>
         <item quantity="one">%1$s impressora encontrada</item>
-    </plurals>
-    <plurals name="show_pho_countdown">
-        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone.</item>
-        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone.</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
+     </plurals>
+     <plurals name="show_cit_countdown">
         <item quantity="other">Está a %1$d de sair de cit.</item>
         <item quantity="one">Está a %1$d de sair de cit.</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
+     </plurals>
+     <plurals name="show_dev_countdown">
+        <item quantity="other">Está agora %1$d passos de ser um desenvolvedor.</item>
+        <item quantity="one">Está agora %1$d passo de ser um desenvolvedor.</item>
+     </plurals>
+     <plurals name="show_pho_countdown">
+        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone.</item>
+        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone.</item>
+     </plurals>
+     <plurals name="show_rep_countdown">
         <item quantity="other">Está a %1$d passos de enviar de erros.</item>
         <item quantity="one">Está a %1$d passo de enviar de erros.</item>
-    </plurals>
+     </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="other">Código PIN do cartão SIM está errado, tem %d tentativas restantes.</item>
+        <item quantity="one">Código PIN do cartão SIM está errado, tem %d tentativa restante deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
+     </plurals>
 </resources>

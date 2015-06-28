@@ -18,6 +18,7 @@
   <string name="activity_find_city_dialog_message">Deixar o Tempo utilizar o Serviço de Localização</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Serviço de localização</string>
+  <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
   <string name="activity_main_refresh_time">Última actualização %1$s</string>
   <string name="activity_main_refresh_timeout">Tempo Limite de Actualização</string>
   <string name="activity_main_time_format">dd/MM</string>
@@ -56,6 +57,16 @@
   <string name="menu_location">Localização</string>
   <string name="menu_more">Detalhes</string>
   <string name="network_unavailable">Não é possível ligar à rede.</string>
+  <string name="share_btn_cancel">Cancel</string>
+  <string name="share_btn_confirm">Share</string>
+  <string name="share_button">Share</string>
+  <string name="share_menu_title">Share</string>
+  <string name="share_subject">Share</string>
+  <string name="share_title">Share weather</string>
+  <string name="share_weather_desc">\#MIUI Weather#Today %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
+  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_save_pic_fail">"Couldn't take screenshot"</string>
   <string name="view_aqi_detail_item_null">--</string>
   <string name="view_aqi_detail_item_unit">μg/m&lt;sup&gt;&lt;small&gt;3&lt;/small&gt;&lt;/sup&gt;</string>
   <string name="view_aqi_detail_no2">NO&lt;sub&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sub&gt;</string>

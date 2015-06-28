@@ -21,6 +21,14 @@
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
      </plurals>
+     <plurals name="dlg_add_blacklist">
+        <item quantity="other">Block these %1$d phone numbers?</item>
+        <item quantity="one">Block this phone number?</item>
+     </plurals>
+     <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Unblock these %1$d phone numbers?</item>
+        <item quantity="one">Unblock this phone number?</item>
+     </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Copiados %d contactos</item>
         <item quantity="one">Copiado um contacto</item>

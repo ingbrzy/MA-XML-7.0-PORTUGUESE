@@ -172,6 +172,8 @@
   <string name="found_old_messages">Enviar mensagens de %1$s para %2$s?</string>
   <string name="found_old_messages_title">Enviar mensagens dos seus outros cartões SIM?</string>
   <string name="found_wild_messages">Mensagens de outros números serão armazenados na nuvem Mi. Transferir agora %s?</string>
+  <string name="found_wild_messages_guide_cloud_desc">To sync messages from Mi Cloud, sign in to your Mi Account and turn on sync SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Sync SMS messages from Mi Cloud in Messaging Settings.</string>
   <string name="found_wild_messages_title">Mensagens transferidas</string>
   <string name="from_label">"De: "</string>
   <string name="group_message">Mensagem de grupo</string>
@@ -324,6 +326,7 @@
   <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Outro</string>
+  <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_sms_template_summary">Automaticamente copiar e preencher códigos de verificação</string>
   <string name="pref_sms_theme_title">Exibir</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
@@ -405,6 +408,7 @@
   <string name="remove_video">Eliminar vídeo</string>
   <string name="replace">Substituir</string>
   <string name="replace_image">Substituir imagem</string>
+  <string name="reply_button_msg">Reply</string>
   <string name="resent_message">Reenviadas</string>
   <string name="resize_image_error_information">Esta imagem é muito grande para enviar, mesmo redimensionada.</string>
   <string name="resource_price_free">Gratuito</string>
@@ -429,6 +433,9 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="secs">segs</string>
+  <string name="security_alert_desc">"The sender isn't in your contacts. "&lt;u&gt;&lt;font color="red"&gt;Report this number&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
+  <string name="security_alert_dialog_title">Report</string>
   <string name="select_audio">Seleccionar som</string>
   <string name="select_bottom_text">Texto no fim</string>
   <string name="select_copy_text">select and copy message text</string>
@@ -477,6 +484,10 @@
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>
   <string name="sms_rejected_body">A mensagem de texto a receber foi rejeitada.</string>
   <string name="sms_rejected_title">A mensagem de texto foi rejeitada</string>
+  <string name="sms_report_failed">"Couldn't send report"</string>
+  <string name="sms_report_success">Report sent</string>
+  <string name="snippet_audio">[audio]</string>
+  <string name="snippet_picture">[picture]</string>
   <string name="sp_category_all">Todas as mensagens de serviço</string>
   <string name="sp_category_bank">Banco de serviço de mensagens</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -515,6 +526,7 @@
   <string name="timed_message_to">para</string>
   <string name="title_collapse_sp_messages">Mensagens de grupo de correios</string>
   <string name="title_date_type">Registo da hora</string>
+  <string name="title_show_blocked_messages">Show blocked SMS</string>
   <string name="title_show_sms_template">Verificar SMS para códigos de verificação</string>
   <string name="title_timed_message_dialog">Configurar hora de envio</string>
   <string name="to_address_label">"Para: "</string>

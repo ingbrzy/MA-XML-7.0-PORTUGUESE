@@ -24,11 +24,15 @@ Antes de calibrar o telemóvel, pouse-o numa superfície plana."</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">A calibrar...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone no altifalante</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone para teste de comentário do alto-falante. 
 
 Desligue o telemóvel e fale para trás do microfone. Deve ouvir a voz no altifalante"</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test. 
+
+Speak to front microphone , you should hear voice in speaker"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste funcionamento do microfone principal. 
 
 Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telemóvel"</string>
@@ -252,6 +256,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_tool_modem">Ferramentas de teste do MODEM</string>
   <string name="cit_tool_modem_bugreport">Forçar MODEM a esvaziar o núcleo</string>
   <string name="cit_tool_modem_exit_ftm">Sair do modo FTM</string>
+  <string name="cit_tool_modem_mbn">Change Modem Config</string>
   <string name="cit_tool_modem_offline_log">Abrir/Fechar registo offline</string>
   <string name="cit_tool_nfc">Ferramentas de teste NFC</string>
   <string name="cit_tool_nfc_st">Nfc ST:</string>

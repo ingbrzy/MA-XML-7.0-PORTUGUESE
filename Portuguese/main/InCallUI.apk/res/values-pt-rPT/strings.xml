@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept_modify_call_request_prompt">Aceitar pedido de modificar chamada?</string>
+  <string name="accessibility_bluetooth_headset_selected">Bluetooth headset selected</string>
   <string name="accessibility_call_muted">Chamada sem som.</string>
+  <string name="accessibility_call_put_on_hold">Call put on hold.</string>
+  <string name="accessibility_call_removed_from_hold">Call removed from hold.</string>
+  <string name="accessibility_call_unmuted">Call unmuted.</string>
+  <string name="accessibility_earpiece_selected">Earpiece selected</string>
   <string name="accessibility_speakerphone_enabled">Voz alta activada.</string>
+  <string name="accessibility_speakerphone_selected">Speakerphone selected</string>
+  <string name="accessibility_wired_headset_selected">Wired headset selected</string>
   <string name="add_fdn_contact">Adicionar número de marcação fixa</string>
   <string name="add_sip_account">Adicionar conta</string>
   <string name="add_vm_number_str">Adicionar número</string>
@@ -25,6 +32,7 @@
   <string name="alert_dialog_yes">Sim</string>
   <string name="antispam_marked_count">Reportado por %1$d utilizadores MIUI</string>
   <string name="antispam_marked_title">%1$s</string>
+  <string name="antispam_notification_title">Unknown number</string>
   <string name="antispam_provider">Identificado por %s</string>
   <string name="apn_settings">Nomes do ponto de acesso</string>
   <string name="atr_disable">Área de relatórios de tráfego desactivado</string>
@@ -66,6 +74,8 @@
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida e encaminhada</string>
+  <string name="call_description_recording">Recording…</string>
+  <string name="call_extension_conference_mode">Conference mode</string>
   <string name="call_forwarding_settings">Definições de reencaminhamento das chamadas</string>
   <string name="call_lost">A chamada foi perdida.</string>
   <string name="call_record_button_label">Gravação %s</string>
@@ -76,11 +86,22 @@
   <string name="call_recording_error_sd_unmounted">A gravação foi interrompida: cartão SD está desmontado</string>
   <string name="call_recording_error_start_failed">Gravador está a ser utilizado por outra aplicação</string>
   <string name="call_recording_error_unknown">Ocorreu um erro desconhecido</string>
+  <string name="call_recording_notification_message">Touch to listen.</string>
+  <string name="call_recording_notification_message_low_storage">SD card is full.</string>
+  <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
+  <string name="call_recording_notification_title">Call recorded</string>
+  <string name="call_recording_notification_title_error">"Couldn't record call"</string>
+  <string name="call_recording_notification_toggle_title">Call recording notification</string>
   <string name="call_settings">Definições da chamada</string>
   <string name="call_title_redialing_with_times">Remarcado %d vezes</string>
   <string name="caller_manage_header">Chamada em conferência %s</string>
   <string name="calling_via_template">Chamada via %s</string>
+  <string name="cancel">Cancel</string>
   <string name="card_title_call_ended">"Chamada terminada "</string>
+  <string name="card_title_callback_number">"Your call back number
+ %1$s"</string>
+  <string name="card_title_callback_number_emergency">"Your emergency call back number
+ %1$s"</string>
   <string name="card_title_conf_call">Chamada em conferência</string>
   <string name="card_title_dialing">Marcar</string>
   <string name="card_title_hanging_up">A desligar</string>
@@ -91,6 +112,10 @@
   <string name="card_title_on_hold">Em espera</string>
   <string name="card_title_redialing">Tentando novamente</string>
   <string name="card_title_threeway_call">Chamada de três vias</string>
+  <string name="card_title_video_call">Video call</string>
+  <string name="card_title_video_call_connecting">Connecting video</string>
+  <string name="card_title_video_call_error">Cannot connect video call</string>
+  <string name="card_title_video_call_requesting">Requesting video</string>
   <string name="cb_sms_settings">Cell Broadcast definições de SMS</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
   <string name="cdma_lte_data_service">Configurar serviço de dados</string>
@@ -129,6 +154,14 @@
   <string name="deleting_fdn_contact">Apagar número de marcação fixa…</string>
   <string name="description_delete_button">retrocesso</string>
   <string name="description_dial_button">marcar</string>
+  <string name="description_direction_down">Slide down for %s.</string>
+  <string name="description_direction_down_left">Down Left</string>
+  <string name="description_direction_down_right">Down Right</string>
+  <string name="description_direction_left">Slide left for %s.</string>
+  <string name="description_direction_right">Slide right for %s.</string>
+  <string name="description_direction_up">Slide up for %s.</string>
+  <string name="description_direction_up_left">Up Left</string>
+  <string name="description_direction_up_right">Up Right</string>
   <string name="description_image_button_eight">oito</string>
   <string name="description_image_button_five">cinco</string>
   <string name="description_image_button_four">quatro</string>
@@ -141,6 +174,16 @@
   <string name="description_image_button_three">três</string>
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_zero">zero</string>
+  <string name="description_target_accept_upgrade_to_video_request">Accept video request</string>
+  <string name="description_target_answer">Answer</string>
+  <string name="description_target_answer_audio_call">Answer as audio call</string>
+  <string name="description_target_answer_rx_video">Answer with RX Video</string>
+  <string name="description_target_answer_tx_video">Answer with TX Video</string>
+  <string name="description_target_answer_video">Answer with Video</string>
+  <string name="description_target_answer_video_call">Answer as video call</string>
+  <string name="description_target_decline">Decline</string>
+  <string name="description_target_decline_upgrade_to_video_request">Decline video request</string>
+  <string name="description_target_send_sms">Send SMS</string>
   <string name="dial_emergency_empty_error">Chamada não efectuada. Marque um número de emergência!</string>
   <string name="dial_emergency_error">Chamada não efectuada. %s não é um número de emergência!</string>
   <string name="dial_pad_autocomplete">Completar automaticamente a marcação</string>
@@ -206,6 +249,8 @@
   <string name="eo_enable">Oportunidades de Emprego activado</string>
   <string name="error_updating_title">Erro Definições das chamadas</string>
   <string name="exception_error">Erro da rede ou do cartão SIM.</string>
+  <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
+  <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
   <string name="fdn">Chamadas fixas</string>
   <string name="fdn_activation">Activação FDN</string>
   <string name="fdn_check_failure">A definição de Marcação de Números Fixos está activa. Como resultado, algumas características relacionadas com as chamadas não estão disponíveis.</string>
@@ -237,6 +282,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="incall_call_type_label_sip">Chamada de Internet</string>
   <string name="incall_error_call_failed">Chamada não efectuada.</string>
   <string name="incall_error_emergency_only">Não é cadastrado na rede.</string>
+  <string name="incall_error_missing_voicemail_number">Voicemail number unknown.</string>
   <string name="incall_error_no_phone_number_supplied">Chamada não enviada, não entrou nenhum número válido.</string>
   <string name="incall_error_out_of_service">A rede móvel não está disponível.</string>
   <string name="incall_error_power_off">Para fazer uma chamada, primeiro desligue o modo de voo.</string>
@@ -249,8 +295,10 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
   <string name="incall_status_dialed_mmi">Iniciando sequência MMI…</string>
   <string name="incoming_call_forwarded_title">Desvie as chamadas recebidas</string>
+  <string name="incoming_via_template">Incoming via %s</string>
   <string name="international_disable">Notícias internacionais desactivado</string>
   <string name="international_enable">Notícias internacionais activado</string>
+  <string name="internet_phone">Internet call</string>
   <string name="invalidPin">Digite um PIN que é de 4 a 8 números.</string>
   <string name="invalidPin2">Digite um código PIN2 que é de 4 a 8 números.</string>
   <string name="invalidPuk2">Digite um código PUK2 com 8 números.</string>
@@ -320,6 +368,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="modify_call_option_vt_tx">Transmitir vídeo</string>
   <string name="modify_call_prompt_no">Não</string>
   <string name="modify_call_prompt_yes">Sim</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="multi_category_disable">Multi-categoria desactivado</string>
   <string name="multi_category_enable">Multi-categoria activado</string>
   <string name="name">Nome</string>
@@ -333,6 +382,8 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="no_change">Não foram feitas alterações.</string>
   <string name="no_internet_available">Para fazer uma chamada de Internet, verifique a sua ligação à Internet pela primeira vez.</string>
   <string name="no_internet_available_title">Sem ligação à Internet</string>
+  <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Do you want to add one now?</string>
+  <string name="no_sip_account_found_title">No Internet calling account</string>
   <string name="no_vm_number">Número da Caixa de Correio perdido</string>
   <string name="no_vm_number_msg">Não existe número de correio de voz e será armazenado no cartão SIM.</string>
   <string name="no_voip">Chamadas pela Internet não suportados</string>
@@ -343,9 +394,14 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
   <string name="not_allowed">O cartão SIM não permite uma ligação a esta rede.</string>
   <string name="not_voice_capable">As chamadas de voz não são suportadas</string>
+  <string name="notification_action_accept">Accept</string>
+  <string name="notification_action_answer_video">Video</string>
+  <string name="notification_action_answer_voice">Voice</string>
+  <string name="notification_action_dismiss">Dismiss</string>
   <string name="notification_action_end_call">Desligue</string>
   <string name="notification_dialing">Marcar</string>
   <string name="notification_incoming_call">Chamada de entrada</string>
+  <string name="notification_incoming_video_call">Incoming video call</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
   <string name="notification_missedCallTitle">Chamada perdida</string>
   <string name="notification_missedCall_call_back">Chamada de volta</string>
@@ -356,6 +412,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="notification_network_selection_title">Sem serviço</string>
   <string name="notification_on_hold">Em Espera</string>
   <string name="notification_ongoing_call">Em andamento</string>
+  <string name="notification_requesting_video_call">Incoming video request</string>
   <string name="notification_voicemail_no_vm_number">número de correio de voz desconhecido</string>
   <string name="notification_voicemail_text_format">Marque %s</string>
   <string name="notification_voicemail_title">Novo correio de voz</string>
@@ -372,6 +429,7 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="onscreenAddCallText">Adicionar chamada</string>
   <string name="onscreenAddParticipant">Adicionar Participante</string>
   <string name="onscreenAudioText">Áudio</string>
+  <string name="onscreenChangeToVoiceText">Change to voice call</string>
   <string name="onscreenEndCallText">Fim</string>
   <string name="onscreenHoldText">Em espera</string>
   <string name="onscreenManageCallsText">Gerir chamadas</string>
@@ -379,12 +437,16 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="onscreenMergeCallsText">Juntar chamadas</string>
   <string name="onscreenModifyCallText">Modificar chamada</string>
   <string name="onscreenMuteText">Mudo</string>
+  <string name="onscreenOverflowText">More options</string>
+  <string name="onscreenPauseVideoText">Pause video</string>
   <string name="onscreenShowDialpadText">Teclado</string>
   <string name="onscreenSwapCallsText">Trocar</string>
+  <string name="onscreenSwitchCameraText">Switch camera</string>
   <string name="onscreenVideoCallText">Vídeo chamada</string>
   <string name="onscreen_add_call_text">Adicionar chamada</string>
   <string name="onscreen_audio_mode">Atender utilizando</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Conference</string>
   <string name="onscreen_audio_mode_handset">Mãos-livres</string>
   <string name="onscreen_audio_mode_headset">Auriculares</string>
   <string name="onscreen_audio_mode_speaker">Alta-voz</string>
@@ -427,6 +489,11 @@ Pode precisar de encontrar uma área com melhor cobertura (perto de uma janela, 
 
 Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</string>
   <string name="other_settings">Outras definições de chamada</string>
+  <string name="overflowAddMenuItemText">Add call</string>
+  <string name="overflowHoldMenuItemText">Hold call</string>
+  <string name="overflowMergeMenuItemText">Merge calls</string>
+  <string name="overflowResumeMenuItemText">Resume call</string>
+  <string name="overflowSwapMenuItemText">Swap calls</string>
   <string name="password">Palavra-passe</string>
   <string name="password_title">Palavra-passe</string>
   <string name="pause_prompt_no">Não</string>
@@ -439,6 +506,8 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="phone_in_ecm_call_notification_text">Ligação de dados desactivado</string>
   <string name="phone_in_ecm_notification_title">Modo de chamada de emergência</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="pick_outgoing_call_phone_type">Place call</string>
+  <string name="pick_outgoing_sip_phone">Use Internet calling account:</string>
   <string name="pin2_changed">Código PIN2 alterado com êxito.</string>
   <string name="pin2_invalid">FDN não foi actualizado porque você digitou um PIN incorrecto.</string>
   <string name="pin2_or_fdn_invalid">FDN não foi actualizado. The PIN2 estava incorreto, ou o número de telefone foi rejeitada.</string>
@@ -471,6 +540,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="progress_dialog_exiting_ecm">Sair do modo de emergência Callback</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
+  <string name="pstn_phone">Cell phone call</string>
   <string name="puk2_requested">Palavra-passe incorrecta, o cartão SIM está bloqueado. Digite o código PUK2.</string>
   <string name="puk_requested">Palavra-passe errada, o SIM está bloqueado! PUK2 solicitado.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O seu telefone está desbloquear…</string>
@@ -492,9 +562,11 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="registration_status_registering">A registar…</string>
   <string name="registration_status_server_unreachable">Registo da conta sem êxito. Verifique o nome do servidor.</string>
   <string name="registration_status_still_trying">Ainda a tentar…</string>
+  <string name="remember_my_choice">Always use to place Internet calls</string>
   <string name="remove_sip_account">Remover contas</string>
   <string name="removing_account">A eliminar a conta…</string>
   <string name="requesting_unlock">Pedido de desbloqueio de rede…</string>
+  <string name="reset_my_choice_hint">You can change which Internet calling account to use by default from the Phone &gt; Settings &gt; Internet call settings &gt; Accounts screen.</string>
   <string name="respond_via_sms_canned_response_1">Não posso falar agora. Que se passa??</string>
   <string name="respond_via_sms_canned_response_2">Eu ligo assim que puder.</string>
   <string name="respond_via_sms_canned_response_3">Ligo mais tarde.</string>
@@ -522,7 +594,9 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="saving_account">Guardar a conta…</string>
   <string name="search_networks">Pesquisar redes</string>
   <string name="selectContact">Seleccionar contacto</string>
+  <string name="select_account_dialog_title">Select Account</string>
   <string name="select_automatically">Escolha automaticamente</string>
+  <string name="select_voice_call_sim">Choose SIM card</string>
   <string name="send_button">Enviar</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Enviar keep-alive</string>
@@ -540,6 +614,7 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="sip_account_list">SIP contas</string>
   <string name="sip_accounts">Contas de chamadas pela Internet (SIP)</string>
   <string name="sip_accounts_title">Contas</string>
+  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados está disponível</string>
   <string name="sip_call_options_entry_2">Apenas para chamadas de Internet</string>
   <string name="sip_call_options_entry_3">Perguntar a cada chamada</string>
@@ -554,7 +629,11 @@ Tente de novo ou ligue para o serviço ao cliente para obter mais opções."</st
   <string name="sip_receive_calls">Receber chamadas</string>
   <string name="sip_receive_calls_summary">Reduz a vida útil da bateria</string>
   <string name="sip_settings">Definições de chamadas pela Internet</string>
+  <string name="sip_system_decide">Automatic</string>
   <string name="sports_news_settings">Noticias de desporto</string>
+  <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
+  <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
+  <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
   <string name="stock_quotes_disable">Cotações desactivado</string>
   <string name="stock_quotes_enable">Cotações activado</string>
   <string name="sub_1">SUB 1</string>
@@ -637,5 +716,6 @@ Contacte com a sua operadora se o problema persistir."</string>
 "</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
+  <string name="waiting_close_airplane_mode">Waiting to close airplane mode ...</string>
   <string name="wild_prompt_str">Substitua caractere com</string>
 </resources>

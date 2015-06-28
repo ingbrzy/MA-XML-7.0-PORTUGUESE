@@ -47,6 +47,7 @@
   <string name="download_diff">Transferência de comparação</string>
   <string name="download_error">Algo está errado. Aguarde um ou dois minutos e tente novamente.</string>
   <string name="download_full">Transferência completa</string>
+  <string name="download_success_reboot_immediately">Reboot to apply update</string>
   <string name="download_title">A transferir (%s)</string>
   <string name="download_title_first">A obter informações…</string>
   <string name="download_title_full_download">A obter informações…</string>
@@ -94,6 +95,7 @@
   <string name="no_wifi_msg">Utilizando a sua ligação de dados móveis irá aumentar a utilização de dados. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="no_wifi_title">Aviso de utilização de dados</string>
   <string name="not_open">Agora não</string>
+  <string name="notification_auto_reboot_seccess_title">Device updated automatically</string>
   <string name="notification_downloading">A transferir actualização…</string>
   <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo.</string>
   <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo.</string>
@@ -176,10 +178,12 @@ Por favor, vote na próxima terça-feira."</string>
   <string name="update_sad">Não foi boa</string>
   <string name="update_success">Dispositivo actualizado</string>
   <string name="update_success_body">Versão: %s</string>
+  <string name="update_success_reboot_immediately">Device updated</string>
   <string name="update_success_title">Dispositivo actualizado</string>
   <string name="updater_nolog">Não existem registos da actualização</string>
   <string name="updater_nonetwork">Ligue à rede para obter registo</string>
   <string name="updater_nonetwork_clause">Não é possível ligar à rede</string>
+  <string name="updater_wait_for_unzip">Unpacking update…</string>
   <string name="upgrade_close">Fechar</string>
   <string name="upgrade_kernel">Versão do kernel desactualizado</string>
   <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI. Precisa de actualizar o kernel manualmente. Consulte o tutorial de actualização:
@@ -208,5 +212,8 @@ Não foi possível enviar comentários"</string>
   <string name="vote_recommend">Recomendar esta actualização</string>
   <string name="vote_submit">Submeter</string>
   <string name="weekly_build">Semanal</string>
+  <string name="welcom_button">OK</string>
+  <string name="welcom_message">"You're ready to rock"</string>
+  <string name="welcom_title">Welcome to MIUI 6</string>
   <string name="worst_update">Pior actualização</string>
 </resources>

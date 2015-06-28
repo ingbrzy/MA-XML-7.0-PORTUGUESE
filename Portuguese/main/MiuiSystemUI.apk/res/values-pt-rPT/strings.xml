@@ -79,12 +79,15 @@ Se voltar a activar os dados móveis, poderá ter custos facturados pela operado
   <string name="description_direction_left">Deslize para a esquerda para %s.</string>
   <string name="description_direction_up">Deslize para cima para %s.</string>
   <string name="description_target_search">Pesquisar</string>
+  <string name="disable_notification_summary">Never show notifications from this app.</string>
+  <string name="disable_notification_title">Block notifications</string>
   <string name="dismount_storage">Não</string>
   <string name="dlg_confirm_kill_storage_users_text">Se você activar o armazenamento USB, algumas aplicações que está a utilizar vão parar e podem não estar disponíveis até que desligue o armazenamento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligue armazenamento USB</string>
   <string name="dlg_error_title">Operação USB falhou</string>
   <string name="dlg_ok">OK</string>
   <string name="drive_mode_tip">Está no modo Automóvel</string>
+  <string name="expanded_notification_manager">Manage notifications</string>
   <string name="ext_media_badremoval_notification_message">Desmontar o armazenamento USB antes de retirar para evitar a perda de dados.</string>
   <string name="ext_media_badremoval_notification_title">Armazenamento USB removido inesperadamente</string>
   <string name="ext_media_checking_notification_message">A verificar se há erros.</string>
@@ -109,6 +112,7 @@ Se voltar a activar os dados móveis, poderá ter custos facturados pela operado
   <string name="invalid_charger">"O carregamento por USB não é suportado.
 Utilize apenas o carregador fornecido."</string>
   <string name="label_view">Ver</string>
+  <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="mdb_entering">A iniciar…</string>
   <string name="mdb_restore_cancel">Cancelar</string>
@@ -138,6 +142,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="notification_otg_trackball_out">Trackball OTG desligado</string>
   <string name="notification_otg_unknow_in">Dispositivo OTG ligado</string>
   <string name="notification_otg_unknow_out">dispositivo OTG desligado</string>
+  <string name="notification_template_text">" has a notification. Touch to view."</string>
   <string name="oldman_airplane_mode_text">Modo de voo</string>
   <string name="oldman_incall_text">Em chamada</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>

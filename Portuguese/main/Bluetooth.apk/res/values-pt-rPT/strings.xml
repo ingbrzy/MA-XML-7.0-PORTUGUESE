@@ -2,6 +2,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Estão a ser processados muitos pedidos. Tente mais tarde.</string>
   <string name="ack_record">Aceitar registo</string>
+  <string name="airplane_can_not_share">"Airplane can't use Bluetooth to share"</string>
   <string name="airplane_error_msg">Não pode usar o Bluetooth em modo de voo.</string>
   <string name="airplane_error_title">Modo de voo</string>
   <string name="app_name">Partilha por Bluetooth</string>
@@ -9,11 +10,18 @@
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
   <string name="auth_notif_title">Chave da sessão</string>
   <string name="ble_device_address">MAC dispositivo BLE</string>
+  <string name="ble_device_profile">Bluetooth device profile</string>
   <string name="ble_device_profile_header_title">Perfis</string>
   <string name="ble_device_profile_title">Dispositivo BLE ligado</string>
+  <string name="ble_device_rename">Rename</string>
   <string name="ble_device_unbind">Limpar definições</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
+  <string name="bluetooth_connected">Connected</string>
+  <string name="bluetooth_connecting">Pairing…</string>
+  <string name="bluetooth_disconnected">Disconnected</string>
+  <string name="bluetooth_disconnecting">Disconnecting…</string>
+  <string name="bluetooth_in_airplane_mode">In Airplane mode</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
   <string name="bluetooth_preference_scan_title">Pesquisar por dispositivos</string>
@@ -60,6 +68,7 @@
   <string name="enabling_progress_content">A ligar o Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, aguarde…</string>
   <string name="format_progress_text">%1$d%%</string>
+  <string name="goto_package">Open %1$s</string>
   <string name="hello">Olá Mundo, Teste de Actividade</string>
   <string name="inbound_history_title">Transferências recebidas</string>
   <string name="inbound_noti_title">Partilhado por Bluetooth: Ficheiros recebidos</string>
@@ -74,7 +83,11 @@
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Transferir de ficheiros</string>
   <string name="incoming_file_toast_msg">Receber ficheiro de outro dispositivo. Confirme se quer receber este ficheiro.</string>
+  <string name="incoming_line1">From</string>
+  <string name="incoming_line2">Filename</string>
+  <string name="incoming_line3">Size</string>
   <string name="insert_record">Inserir registo</string>
+  <string name="install_package">Install %1$s for more functions</string>
   <string name="localPhoneName">O meu nome</string>
   <string name="mi_band_vibrate_alarm">Vibrar no alarme</string>
   <string name="mi_band_vibrate_incall">Vibrar ao receber chamada</string>
@@ -87,6 +100,10 @@
   <string name="mi_key_alert_dialog_title">Alertas MiKey</string>
   <string name="mi_key_find_mikey">Encontrar a MiKey</string>
   <string name="mi_key_find_phone">Encontrar o telemóvel</string>
+  <string name="mi_key_open_camera">Open Camera</string>
+  <string name="mi_key_summary_find_phone">Press &amp; hold Mi-Key to sound ringer</string>
+  <string name="mi_key_summary_open_camera">Double click Mi-Key to open camera</string>
+  <string name="mi_key_summary_take_photo">Click Mi-Key to take a photo</string>
   <string name="mi_key_take_photo">Tirar foto</string>
   <string name="miui_transfer_history_title">Transferências por Bluetooth</string>
   <string name="miui_transfer_inbound_title">Entrada</string>
@@ -119,7 +136,9 @@
   <string name="permlab_handoverStatus">Receba transmissões de transferência por Bluetooth.</string>
   <string name="process"/>
   <string name="progress_scanning">A pesquisar</string>
+  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
   <string name="sharedUserId"/>
+  <string name="some_app_taking">(%1$s is already using this feature…)</string>
   <string name="start_server">Iniciar o servidor TCP</string>
   <string name="status_canceled">Transferência cancelada pelo o utilizador.</string>
   <string name="status_connection_error">Ligado sem êxito.</string>
@@ -148,6 +167,7 @@
   <string name="upload_fail_line1">O ficheiro não foi enviado para \"%1$s\".</string>
   <string name="upload_fail_line1_2">Ficheiro: %1$s</string>
   <string name="upload_fail_ok">Tentar novamente</string>
+  <string name="upload_fail_waiting">Ongoing send file preparation, automatic retransmission later</string>
   <string name="upload_line1">Para: \"%1$s\"</string>
   <string name="upload_line3">Tipo de ficheiro: %1$s (%2$s)</string>
   <string name="upload_line5">A enviar ficheiro…</string>

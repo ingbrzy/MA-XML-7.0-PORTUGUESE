@@ -46,6 +46,7 @@
   <string name="activate_popup_title_new_sim_card">Reactivar %s</string>
   <string name="activate_popup_title_register_account">A criar conta Mi</string>
   <string name="activate_popup_title_upload_diagnosis_info">Não é possível activar o cartão SIM</string>
+  <string name="activate_sms_postfix">This SMS is used to activate your Mi device.</string>
   <string name="activate_status_desc_acquire_phone_number">Adquirir número de telefone do servidor</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Ocorreu um erro no servidor enquanto a aquisição de número de telefone</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Não é possível obter o número de telefone</string>
