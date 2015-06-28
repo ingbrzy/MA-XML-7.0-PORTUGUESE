@@ -35,7 +35,7 @@
   <string name="activity_title_system">Sistema</string>
   <string name="activity_title_trash">Cache</string>
   <string name="activity_title_uninstall_apps">Aplicações</string>
-  <string name="activity_title_virus">Virus</string>
+  <string name="activity_title_virus">Vírus</string>
   <string name="activity_title_virus_detail">Detalhe do vírus</string>
   <string name="activity_title_virus_settings">Definições</string>
   <string name="activity_title_white_list">Excepções</string>
@@ -232,7 +232,7 @@
   <string name="hints_install_apps_new">Nunca utilizado</string>
   <string name="hints_install_apps_risk">Risco detectado</string>
   <string name="hints_install_apps_today">Utilizado hoje</string>
-  <string name="hints_install_apps_virus">Virus detectado</string>
+  <string name="hints_install_apps_virus">Vírus detectado</string>
   <string name="hints_installed_apps_header_left">Aplicações instaladas: %d</string>
   <string name="hints_large_file_header_left">Ficheiros grandes: %d</string>
   <string name="hints_last_virus_scan_none">Nunca verificados antes</string>
@@ -289,7 +289,7 @@
   <string name="item_title_garbage_time">Hora do alarme</string>
   <string name="item_title_process_mode">Escolha a função</string>
   <string name="item_usb_debug">Depuração USB</string>
-  <string name="item_virus">Virus</string>
+  <string name="item_virus">Vírus</string>
   <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
   <string name="large_file_sort_type_name">Ordenar por nome</string>
   <string name="large_file_sort_type_size">Ordenar por tamanho</string>
@@ -652,13 +652,13 @@
   <string name="st_title_mode_choose_group">Escolher modo</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">Riscos</string>
-  <string name="summary_antivirus">Enviar e procurar o nome das aplicações utilizando as definições de virus online</string>
+  <string name="summary_antivirus">Enviar e procurar o nome das aplicações utilizando as definições de vírus online</string>
   <string name="summary_antivirus_oversea">Actualizar automaticamente as definições de vírus</string>
   <string name="summary_auto_cleaner">Limpar o sistema automaticamente a cada 3 dias?</string>
   <string name="summary_cleaner_cloudscan">Envie e compare os nomes das pastas com definições online</string>
   <string name="summary_cloud_account">Tire o máximo proveito do seu dispositivo Mi</string>
   <string name="summary_cloud_service">Sincronize as suas fotos, contactos e muito mais em todos os seus dispositivos</string>
-  <string name="summary_cmcc_app_check">"Some apps couldn't be verified"</string>
+  <string name="summary_cmcc_app_check">"Algunas aplicações não puderam ser verificadas"</string>
   <string name="summary_data_flow">Evite ir além do limite mensal de dados do seu plano da operadora</string>
   <string name="summary_default_app">"%s isn't set as a default system app"</string>
   <string name="summary_delete_cache">Algumas aplicações podem necessitar destes dados para funcionarem normalmente.</string>

@@ -22,8 +22,8 @@
   <string name="acct_not_synced">Esta conta não está a ser sincronizada e os seus calendários podem não estar actualizados.</string>
   <string name="acessibility_cal_notification">Notificação do calendário</string>
   <string name="acessibility_selected_marker_description">Seleccionar evento</string>
-  <string name="acessibility_snooze_notification">Adiar Notificação</string>
-  <string name="action_label">Return</string>
+  <string name="acessibility_snooze_notification">Adiar notificação</string>
+  <string name="action_label">Voltar</string>
   <string name="action_text_new_event">Novo evento</string>
   <string name="action_text_online">Subscrever</string>
   <string name="action_text_today">Hoje</string>
@@ -49,7 +49,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Três dias até ao %3$s (%4$s)</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Agora pode reservar-lhe um bolo y umas flores.</string>
   <string name="birthday_notification_text_today">Não se esqueça de dizer feliz aniversário.</string>
   <string name="birthday_notification_title_three_days_later">O %2$s de %1$s está a chegar</string>
   <string name="birthday_notification_title_today">%3$s de %1$s</string>
@@ -281,7 +281,7 @@
   <string name="search">Localizar</string>
   <string name="search_history_cleared">Histórico de pesquisa foi eliminado</string>
   <string name="search_title">Pesquisar nos meus calendários</string>
-  <string name="select_date">Select date</string>
+  <string name="select_date">Escolher data</string>
   <string name="select_synced_calendars_button">Calendários a sincronizar</string>
   <string name="select_synced_calendars_title">Calendários a sincronizar</string>
   <string name="select_visible_calendars_title">Calendários a mostrar</string>
