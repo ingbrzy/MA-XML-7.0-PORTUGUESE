@@ -1,51 +1,72 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-  <string name="agree">Concordar</string>
-  <string name="congratulation_label"/>
-  <string name="disagree">Cancelar</string>
-  <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
-  <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s.</string>
-  <string name="input_method_category">Escolha o método de entrada predefinido para usar ao escrever emails, notas, e em qualquer outro lugar. Note que poderá instalar teclados de terceiros mais tarde.</string>
-  <string name="input_method_setting">Escolher o método de Entrada</string>
-  <string name="install_preinstall_app">A carregar aplicações…</string>
-  <string name="locale_picker_title">Escolha a sua localização</string>
-  <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política e privacidade em %s</string>
-  <string name="miui_terms_no_network">Sem ligação de rede. Ver termos de Serviço em %s</string>
-  <string name="multisim_settings_category">Definições do cartão SIM</string>
-  <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
-  <string name="network_access_warning">Tem de ligar à Internet para activar os serviços Mi.</string>
-  <string name="next">Próximo</string>
-  <string name="other_settings">Definições adicionais</string>
-  <string name="other_settings_location">Localização</string>
-  <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
-  <string name="other_settings_user_experience">Experiência de utilização do Programa</string>
-  <string name="other_settings_user_experience_summary">Ajudar a melhorar a MIUI enviando dados do utilizador anónimos (%s)</string>
-  <string name="other_settings_user_experience_summary1">ver Política de Privacidade</string>
-  <string name="page_layout_label">Ajustar o tamanho do texto, disposição do ecrã, notificações sombra, teclas de marcação e mais.</string>
-  <string name="page_layout_title">Definições de disposição</string>
-  <string name="pref_title_data_slot">Cartão SIM dados preferidos</string>
-  <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
-  <string name="privacy_policy">Política e Privacidade</string>
-  <string name="provision_finish">OK</string>
-  <string name="provision_finish_restart">Reiniciar</string>
-  <string name="provision_inputmethod_policy_description">"
+     <string name="agree">Concordar</string>
+     <string name="congratulation_label" />
+     <string name="disagree">Cancelar</string>
+     <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
+     <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s.</string>
+     <string name="input_method_category">Escolha o método de entrada predefinido para usar ao escrever emails, notas, e em qualquer outro lugar. Note que poderá instalar teclados de terceiros mais tarde.</string>
+     <string name="input_method_setting">Escolher o método de Entrada</string>
+     <string name="install_preinstall_app">A carregar aplicações…</string>
+     <string name="locale_picker_title">Escolha a sua localização</string>
+     <string name="miui_privacy_policy_no_network">Sem ligação de rede. Ver Política e privacidade em %s</string>
+     <string name="miui_terms_no_network">Sem ligação de rede. Ver termos de Serviço em %s</string>
+     <string name="multisim_settings_category">Definições do cartão SIM</string>
+     <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
+     <string name="network_access_warning">Tem de ligar à Internet para activar os serviços Mi.</string>
+     <string name="next">Próximo</string>
+     <string name="other_settings">Definições adicionais</string>
+     <string name="other_settings_location">Localização</string>
+     <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
+     <string name="other_settings_user_experience">Experiência de utilização do Programa</string>
+     <string name="other_settings_user_experience_summary">Ajudar a melhorar a MIUI enviando dados do utilizador anónimos (%s)</string>
+     <string name="other_settings_user_experience_summary1">ver Política de Privacidade</string>
+     <string name="page_layout_label">Ajustar o tamanho do texto, disposição do ecrã, notificações sombra, teclas de marcação e mais.</string>
+     <string name="page_layout_title">Definições de disposição</string>
+     <string name="pref_title_data_slot">Cartão SIM dados preferidos</string>
+     <string name="pref_title_voice_slot">Cartão SIM de voz preferido</string>
+     <string name="privacy_policy">Política e Privacidade</string>
+     <string name="provision_finish">OK</string>
+     <string name="provision_finish_restart">Reiniciar</string>
+     <string name="provision_inputmethod_policy_description">"
 Ver o teclado seleccionado"</string>
+<<<<<<< HEAD
   <string name="provision_inputmethod_policy_description1">Política e privacidade</string>
   <string name="setting_locale">Definir Local…</string>
   <string name="shut_down">Desligar</string>
   <string name="sim_card_detecting">A verificar o cartão SIM…</string>
+  <string name="sim_card_detecting_title">Check for SIM card</string>
   <string name="sim_card_detection">Insira o cartão SIM</string>
   <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo..</string>
   <string name="sim_dectection_next">Continuar</string>
   <string name="sim_redetection">Verifique o cartão SIM</string>
+  <string name="skip_underline">&lt;u&gt;Skip this step&lt;/u&gt;</string>
   <string name="summary_not_set">Não definido</string>
   <string name="summary_sim_card">Cartão %1$d</string>
   <string name="summary_sim_card_with_operator">Card %1$d: %2$s</string>
   <string name="terms_of_use">Termos do serviço</string>
   <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor, leia nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
+=======
+     <string name="provision_inputmethod_policy_description1">Política e privacidade</string>
+     <string name="setting_locale">Definir Local…</string>
+     <string name="shut_down">Desligar</string>
+     <string name="sim_card_detecting">A verificar o cartão SIM…</string>
+     <string name="sim_card_detecting_title">Check for SIM card</string>
+     <string name="sim_card_detection">Insira o cartão SIM</string>
+     <string name="sim_card_detection_info">Para inserir o cartão SIM, deve ler as instruções que acompanham o dispositivo..</string>
+     <string name="sim_dectection_next">Continuar</string>
+     <string name="sim_redetection">Verifique o cartão SIM</string>
+     <string name="skip_underline">&lt;u&gt;Skip this step&lt;/u&gt;</string>
+     <string name="summary_not_set">Não definido</string>
+     <string name="summary_sim_card">Cartão %1$d</string>
+     <string name="summary_sim_card_with_operator">Card %1$d: %2$s</string>
+     <string name="terms_of_use">Termos do serviço</string>
+     <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Por favor, leia nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
+>>>>>>> 8744d47a1e993ca331c6bf9b3119458d4936a794
 
 Deve concordar com os termos do nosso serviço e Política de Privacidade antes de utilizar a MIUI."</string>
-  <string name="title_congratulation">Começar a utilizar a MIUI</string>
-  <string name="user_agreement">Termos do Serviço</string>
-  <string name="welcome">Bem-vindo a</string>
+     <string name="title_congratulation">Começar a utilizar a MIUI</string>
+     <string name="user_agreement">Termos do Serviço</string>
+     <string name="welcome">Bem-vindo a</string>
 </resources>

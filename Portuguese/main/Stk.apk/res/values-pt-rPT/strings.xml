@@ -1,5 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
+<<<<<<< HEAD
   <string name="alphabet">Alfabeto</string>
   <string name="app_name">Toolkit do SIM</string>
   <string name="app_name2">Toolkit do SIM2</string>
@@ -26,5 +28,36 @@
   <string name="stk_dialog_accept">Sim</string>
   <string name="stk_dialog_reject">Não</string>
   <string name="stk_dialog_title">Toolkit do SIM</string>
+  <string name="stk_intent_permission">Allow STK Intents</string>
   <string name="stk_no_service">Nenhum serviço disponível</string>
+=======
+     <string name="alphabet">Alfabeto</string>
+     <string name="app_name">Toolkit do SIM</string>
+     <string name="app_name2">Toolkit do SIM2</string>
+     <string name="app_name3">Toolkit do SIM3</string>
+     <string name="button_cancel">Cancelar</string>
+     <string name="button_no">Não</string>
+     <string name="button_ok">OK</string>
+     <string name="button_yes">Sim</string>
+     <string name="default_call_setup_msg">Chamada em andamento...</string>
+     <string name="default_close_channel_msg">Canal fechado</string>
+     <string name="default_open_channel_msg">Abrir canal?</string>
+     <string name="default_receive_data_msg">A receber dados</string>
+     <string name="default_send_data_msg">Enviando dados</string>
+     <string name="default_setup_call_msg">A estabelecer a chamada</string>
+     <string name="default_tone_dialog_msg">Playing Tone</string>
+     <string name="digits">Dígitos (0 a 9, *, #, +)</string>
+     <string name="disable_app">Desactivado</string>
+     <string name="enable_app">Activado</string>
+     <string name="help">Ajuda</string>
+     <string name="menu_back">Voltar</string>
+     <string name="menu_end_session">Finalizar a sessão</string>
+     <string name="service_name">Nome do serviço</string>
+     <string name="stk_app_state">Estado da aplicação</string>
+     <string name="stk_dialog_accept">Sim</string>
+     <string name="stk_dialog_reject">Não</string>
+     <string name="stk_dialog_title">Toolkit do SIM</string>
+     <string name="stk_intent_permission">Allow STK Intents</string>
+     <string name="stk_no_service">Nenhum serviço disponível</string>
+>>>>>>> 8744d47a1e993ca331c6bf9b3119458d4936a794
 </resources>
