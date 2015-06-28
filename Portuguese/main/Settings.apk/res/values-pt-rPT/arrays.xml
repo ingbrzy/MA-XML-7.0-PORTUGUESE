@@ -132,11 +132,6 @@
         <item>Localização</item>
         <item>Localização</item>
      </string-array>
-     <string-array name="app_ops_permissions">
-        <item>Allowed</item>
-        <item>Ignored</item>
-        <item>Always ask</item>
-     </string-array>
      <string-array name="app_ops_summaries">
         <item>localização aproximada</item>
         <item>localização precisa</item>
@@ -208,11 +203,6 @@
         <item>1</item>
         <item>2</item>
      </string-array>
-     <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-     </integer-array>
      <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
@@ -282,20 +272,6 @@
         <item>PIN</item>
         <item>Palavra-passe</item>
      </string-array>
-     <string-array name="daltonizer_type_entries">
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-     </string-array>
-     <string-array name="daltonizer_type_values">
-        <item>12</item>
-        <item>11</item>
-        <item>13</item>
-     </string-array>
-     <string-array name="data_usage_data_range">
-        <item>Last 30 days</item>
-        <item>Set usage cycle...</item>
-     </string-array>
      <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Mostrar áreas overdraw</item>
@@ -348,28 +324,6 @@
         <item>Grande</item>
         <item>Muito grande</item>
      </string-array>
-     <string-array name="entries_zen_mode">
-        <item>Off</item>
-        <item>Limited interruptions</item>
-        <item>Zero interruptions</item>
-     </string-array>
-     <string-array name="entryvalues_zen_mode">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-     </string-array>
-     <string-array name="fluency_mode_confirms">
-        <item>Reboot your device to apply this setting?</item>
-        <item>Reboot your device to apply this setting?</item>
-     </string-array>
-     <string-array name="fluency_mode_entries">
-        <item>Hide system animations</item>
-        <item>Show system animations</item>
-     </string-array>
-     <string-array name="fluency_mode_summaries">
-        <item>"To speed up device's performance, hide system animations"</item>
-        <item>"Showing system animations may slow down device's performance"</item>
-     </string-array>
      <integer-array name="font_size_preference_preview_size">
         <item>14</item>
         <item>18</item>
@@ -380,11 +334,6 @@
         <item>4.5 polegadas</item>
         <item>4.0 polegadas</item>
         <item>3.5 polegadas</item>
-     </string-array>
-     <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
@@ -405,12 +354,6 @@
         <item>Nunca verificar</item>
         <item>Verificar só o conteúdo DRM</item>
         <item>Verificar sempre</item>
-     </string-array>
-     <string-array name="hidedm_plmn_list">
-        <item>46000</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46007</item>
      </string-array>
      <string-array name="led_color_entries">
         <item>Azul</item>
@@ -463,22 +406,6 @@
         <item>600000</item>
         <item>1800000</item>
      </string-array>
-     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
-        <item>1 minute</item>
-        <item>2 minutes</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-     </string-array>
-     <string-array name="lock_screen_secure_after_timeout_values">
-        <item>0</item>
-        <item>60000</item>
-        <item>120000</item>
-        <item>300000</item>
-        <item>900000</item>
-        <item>1800000</item>
-     </string-array>
      <string-array name="long_press_timeout_selector_titles">
         <item>Curto</item>
         <item>Médio</item>
@@ -513,12 +440,6 @@
         <item>OSX</item>
         <item>Linux</item>
      </string-array>
-     <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB mass storage will open automatically when connected to a computer.</item>
-        <item></item>
-     </string-array>
      <string-array name="msd_pc_system_install_summary">
         <item>2.Siga as instruções no ecrã</item>
         <item></item>
@@ -533,10 +454,6 @@
         <item>Acesso montado no dispositivo: mtpfs /media/mtp via file explorer; mesmo que o directório local</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: Apenas para Ubuntu 8.04!"</item>
-     </string-array>
-     <string-array name="msd_pc_system_retry_xp">
-        <item>@string/msd_install_retry_connect</item>
-        <item>Reinstall MiPhoneManager.</item>
      </string-array>
      <string-array name="mvno_type_entries">
         <item>Nenhum</item>
@@ -601,28 +518,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>0</item>
         <item>1</item>
      </string-array>
-     <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
-        <item>Moderate</item>
-        <item>Low</item>
-        <item>Critical</item>
-     </string-array>
-     <string-array name="proc_stats_process_states">
-        <item>Persistent</item>
-        <item>Top activity</item>
-        <item>Important (foreground)</item>
-        <item>Important (background)</item>
-        <item>Backup</item>
-        <item>Heavy weight</item>
-        <item>Service (running)</item>
-        <item>Service (restarting)</item>
-        <item>Receiver</item>
-        <item>Home</item>
-        <item>Last activity</item>
-        <item>Cached (activity)</item>
-        <item>Cached (activity client)</item>
-        <item>Cached (empty)</item>
-     </string-array>
      <string-array name="ram_states">
         <item>normal</item>
         <item>moderate</item>
@@ -684,37 +579,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>600000</item>
         <item>2147483647</item>
      </string-array>
-     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
-     </string-array>
-     <string-array name="select_logd_size_lowram_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-     </string-array>
-     <string-array name="select_logd_size_summaries">
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
-     </string-array>
-     <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-     </string-array>
-     <string-array name="select_logd_size_values">
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
-     </string-array>
      <string-array name="select_runtime_summaries">
         <item>Utilize Dalvik</item>
         <item>Utilize ART</item>
@@ -729,24 +593,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Desligado</item>
         <item>Desenhe no clipe não retangular na região em azul</item>
         <item>Destaque dos comandos de desenho testado em verde</item>
-     </string-array>
-     <string-array name="sim_card_data_range">
-        <item>Last 4 digits</item>
-        <item>First 4 digits</item>
-     </string-array>
-     <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-     </string-array>
-     <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
      </string-array>
      <string-array name="slideshow_time_entries">
         <item>5 minutos</item>
@@ -953,10 +799,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-     </string-array>
-     <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
      </string-array>
      <string-array name="wifi_connect_type_entries">
         <item>Ligar automaticamente</item>
