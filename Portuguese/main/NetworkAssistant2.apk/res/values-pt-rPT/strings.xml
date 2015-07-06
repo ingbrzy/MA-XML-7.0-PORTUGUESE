@@ -37,7 +37,7 @@
   <string name="connect_internet_by_wifi">Ligar-se á Internet usando Wi-fi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
-  <string name="daily_limit_over_message">Excedeu o limite de utilização de dados</string>
+  <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
   <string name="daily_pkg_traffic">Definir limite da utilização de dados no período de maior tráfego</string>
   <string name="data_network_blocked_notification_title">No internet connection</string>
   <string name="data_usage_correction_timeout_body">Pressione para actualizar manualmente.</string>
@@ -430,7 +430,7 @@ T"&lt;/b&gt;"ry using another Ethernet cable to connect your router. If you susp
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Não sabe qual o limite de dados?</string>
   <string name="tips_message">Se tiver duvidas sobre os detalhes de seu plano sem fios, pode vê-lo através da marcação %2$s (%1$s).</string>
-  <string name="title_limit_traffic_per_day">Limite de utilização de dados móveis</string>
+  <string name="title_limit_traffic_per_day">Limite diário de dados móveis</string>
   <string name="traffic_config_alert_body">"A sua operadora mostra quando tiver utilizado: %s.
 
 Vai aproveitar esta?"</string>
@@ -505,7 +505,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
   <string name="traffic_setting_app_count">%d aplicações</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_daily_limit_summary">Definir limite de utilização de dados</string>
+  <string name="traffic_setting_daily_limit_summary">Definir limite diário de dados</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Definir plano de dados e limite de utilização</string>
   <string name="traffic_setting_extra_pkg_summary">Definir plano de dados e limite de utilização</string>
   <string name="traffic_setting_extra_pkg_title">Definições adicionais</string>
