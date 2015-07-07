@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+ï»¿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="contact_entries">
         <item>Nome</item>
         <item>Apelido</item>
         <item>Telefone</item>
         <item>Email</item>
-        <item>Organização</item>
+        <item>OrganizaÃ§Ã£o</item>
         <item>IM</item>
         <item>Telefone SIP</item>
-        <item>Aniversário</item>
+        <item>AniversÃ¡rio</item>
         <item>Site</item>
-        <item>Endereço</item>
+        <item>EndereÃ§o</item>
         <item>Nota</item>
      </string-array>
      <string-array name="contact_values">
@@ -30,21 +30,21 @@
         <item>Feliz</item>
         <item>Triste</item>
         <item>Piscar o Olho</item>
-        <item>Língua de fora</item>
+        <item>LÃ­ngua de fora</item>
         <item>Surpresa</item>
         <item>Beijar</item>
         <item>Gritar</item>
         <item>Frio</item>
         <item>Boca de dinheiro</item>
-        <item>Pé na boca</item>
-        <item>Embaraçado</item>
+        <item>PÃ© na boca</item>
+        <item>EmbaraÃ§ado</item>
         <item>Anjo</item>
         <item>Indeciso</item>
         <item>Chorar</item>
-        <item>Lábios estão selados</item>
+        <item>LÃ¡bios estÃ£o selados</item>
         <item>Rir</item>
         <item>Confuso</item>
-        <item>Coração</item>
+        <item>CoraÃ§Ã£o</item>
         <item>Louco</item>
         <item>Rir</item>
         <item>Poker face</item>
@@ -113,7 +113,7 @@
      </string-array>
      <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Só no modo silêncio</item>
+        <item>SÃ³ no modo silÃªncio</item>
         <item>Nunca</item>
      </string-array>
      <string-array name="prefValues_ringtone_repeat">
@@ -146,7 +146,7 @@
      </string-array>
      <string-array name="prefValues_vibrateWhen">
         <item>sempre</item>
-        <item>silêncio</item>
+        <item>silÃªncio</item>
         <item>nunca</item>
      </string-array>
 </resources>
