@@ -16,7 +16,7 @@
         <item>4x5</item>
      </string-array>
      <string-array name="editing_mode_entries">
-        <item>Mover aplicações</item>
+        <item>Mover aplicacoes</item>
         <item>Widgets</item>
         <item>Papel de parede</item>
         <item>Efeitos</item>
@@ -43,7 +43,7 @@
         <item>Granizo</item>
         <item>Tempestade de neve</item>
         <item>Flocos de neve</item>
-        <item>Nevão</item>
+        <item>NevÃ£o</item>
         <item>Neve</item>
         <item>Queda de neve fina</item>
         <item>Tempestade de areia forte</item>
@@ -51,12 +51,12 @@
         <item>Tempestade de areia fraca</item>
         <item>Tempestade de areia</item>
         <item>Granizo</item>
-        <item>Pó flutuante</item>
+        <item>PÃ³ flutuante</item>
         <item>Neblina</item>
      </string-array>
      <string-array name="gadget_weather_theme_type_entries">
         <item>Predefinido</item>
-        <item>Clássico</item>
+        <item>ClÃ¡ssico</item>
      </string-array>
      <array name="item_shake_animation_scaler">
         <item>0.0dip</item>
@@ -70,9 +70,9 @@
         <item>Deslizar</item>
         <item>Desvanecer</item>
         <item>Circular</item>
-        <item>Página</item>
+        <item>PÃ¡gina</item>
         <item>Cascata</item>
-        <item>Rotação</item>
+        <item>RotaÃ§Ã£o</item>
         <item>Cubo</item>
      </string-array>
      <string-array name="transformation_values">
@@ -108,11 +108,5 @@
         <item>home_edit_box_area_4_2</item>
         <item>home_edit_box_area_4_3</item>
         <item>home_edit_box_area_4_4</item>
-     </string-array>
-     <string-array name="wallpaper_scroll_values">
-        <item>por Tema</item>
-        <item>centro</item>
-        <item>esquerda</item>
-        <item>direita</item>
      </string-array>
 </resources>
