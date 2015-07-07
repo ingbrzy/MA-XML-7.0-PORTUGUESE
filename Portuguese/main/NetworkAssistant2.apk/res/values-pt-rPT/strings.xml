@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_miservice_dialog_content">"%s requer que você adicione quadro serviço MIUI à lista de exceções. Pode receber notificações de aplicações MIUI  embutidos e outros aplicativos de terceiros."</string>
-  <string name="add_miservice_dialog_content">%s Tem que adicionar o Serviço Framework à lista de exceções. Pode receber notificações de aplicações integradas do MIUI e outras aplicações de terceiros.</string>
   <string name="add_to_whitelist_button">Gerir lista de excepções</string>
   <string name="add_white_list">Adicionar</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado à mais de um mês</string>
@@ -473,7 +472,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_protection_next">Seguinte</string>
   <string name="traffic_protection_summary">Definir alertas para quando a utilização de dados atingir um determinado nível</string>
   <string name="traffic_protection_text_hint">Definir o limite da utilização de dados para %s</string>
-  <string name="traffic_protection_unknown"><u>Configurar mais tarde</u><</string>
+  <string name="traffic_protection_unknown"><u>Configurar mais tarde</u></string>
   <string name="traffic_protection_use_data">Dados activados</string>
   <string name="traffic_purchase_body">Pressione para aumentar o plano de dados.</string>
   <string name="traffic_purchse_suggestion">Deve adquirir outro plano de dados</string>
@@ -487,8 +486,8 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Guardados este mês: "</string>
   <string name="traffic_saving_history_total_month_default">Média de poupança por mês</string>
-  <string name="traffic_saving_history_total_month_value">Escutar de &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> songs / Chat for &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> hours / Read &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> artigos</string>
-  <string name="traffic_saving_history_total_month_value_default">Escutar de &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> songs / Chat for &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> hours / Read &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> artigos</string>
+  <string name="traffic_saving_history_total_month_value"/>
+  <string name="traffic_saving_history_total_month_value_default"/>
   <string name="traffic_saving_history_total_rate">Avaliação</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Dados guardados</string>
@@ -519,7 +518,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_whitelist_btn_added">Adicionado</string>
   <string name="traffic_saving_whitelist_btn_remove">Remover</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplicação removida da lista</string>
-  <string name="traffic_saving_whitelist_count">&lt;font color='#4DAA0F'>%1$d&lt;/font> não estão a ser restringidos a utilização de dados das aplicações</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font> não estão a ser restringidos a utilização de dados das aplicações"</string>
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
   <string name="traffic_setting_app_count">%d aplicações</string>
   <string name="traffic_setting_completed">OK</string>
