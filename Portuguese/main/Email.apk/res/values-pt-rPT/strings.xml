@@ -427,7 +427,6 @@
   <string name="drawer_open">Abrir gaveta de navegação</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
-  <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri" />
@@ -847,7 +846,6 @@ CC: %4$s
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Original ------------------</string>
   <string name="quoted_text">Incluir texto das mensagens anteriores</string>
-  <string name="quoted_text_background_color_string">@android:color/white</string>
   <string name="re_download_message_button">Pressione para transferir novamente</string>
   <string name="re_download_message_info">Falha ao transferir o email</string>
   <string name="read_string">conversa lida</string>
@@ -872,7 +870,6 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informar</string>
   <string name="report_phishing">Denunciar phishing</string>
