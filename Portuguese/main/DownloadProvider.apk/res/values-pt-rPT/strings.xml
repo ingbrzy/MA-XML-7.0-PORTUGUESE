@@ -7,7 +7,7 @@
   <string name="button_start_now">Iniciar agora</string>
   <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno de transferências</string>
   <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
-  <string name="dialog_not_show_again">"Don't show again"</string>
+  <string name="dialog_not_show_again">Não mostrar novamente</string>
   <string name="download_error">Sem êxito</string>
   <string name="download_no_application_title">Não é possível aceder ao ficheiro</string>
   <string name="download_percent">%d%%</string>
@@ -23,8 +23,8 @@
   <string name="notif_title_single_downloading">A transferir %1$s</string>
   <string name="notification_download_complete">Transferência completa.</string>
   <string name="notification_download_failed">Transferência nao efectuada.</string>
-  <string name="notification_download_failed_more">"Couldn't download %1$d items"</string>
-  <string name="notification_download_success_more">%1$d downloaded</string>
+  <string name="notification_download_failed_more">Não foi possível transferir %1$d items</string>
+  <string name="notification_download_success_more">%1$d transferido</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência requer Wi-Fi.</string>
   <string name="notification_paused_in_background">Em pausa em segundo plano.</string>
   <string name="paused_waiting_for_network">A aguardar pela rede</string>
@@ -51,7 +51,7 @@
   <string name="root_downloads">Transferências</string>
   <string name="task_already_exist">A tarefa já existe</string>
   <string name="warning_tip_cancel">Transferir</string>
-  <string name="warning_tip_content">"Não se encontra ligado a uma rede. Usando a ligação de dados móvel para terminar esta transferência vai aumentar o uso de dados. Se ultrapassar o  limite de plano de dados , a operadora pode cobrar taxas adicionais."</string>
+  <string name="warning_tip_content">Não se encontra ligado a uma rede. Usando a ligação de dados móvel para terminar esta transferência vai aumentar o uso de dados. Se ultrapassar o  limite de plano de dados , a operadora pode cobrar taxas adicionais.</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Aviso do uso de dados</string>
   <string name="wifi_recommended_body" formatted="false">A partir desta %s a transferência já pode resultar em uso excessivo da sua ligação de dados móveis, o que pode levar a despesas de operador móvel dependendo do seu plano de dados movéis. Pressione em %s para começar esta transferência da próxima vez que estiver ligado a uma rede sem fios.</string>
