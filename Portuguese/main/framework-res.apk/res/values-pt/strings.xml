@@ -53,7 +53,7 @@
   <string name="activity_list_empty">Não foi encontrada nenhuma actividade correspondente.</string>
   <string name="activity_resolver_use_always">Sempre</string>
   <string name="activity_resolver_use_once">Apenas uma vez</string>
-  <string name="activity_resolver_work_profiles_support">"%1$s doesn't support work profile"</string>
+  <string name="activity_resolver_work_profiles_support">"%1$s não suporta perfil de trabalho"</string>
   <string name="activitychooserview_choose_application">Seleccione uma aplicação</string>
   <string name="activitychooserview_choose_application_error">Não foi possível iniciar %s</string>
   <string name="adb_active_notification_message">Pressione para desactivar a depuração USB.</string>
@@ -96,8 +96,8 @@ Pretende fechar?"</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
-  <string name="autofill_address_type_same_as_re">same as</string>
-  <string name="autofill_address_type_use_my_re">use my</string>
+  <string name="autofill_address_type_same_as_re">mesmo que</string>
+  <string name="autofill_address_type_use_my_re">utilize o meu</string>
   <string name="autofill_area">Área</string>
   <string name="autofill_area_code_notext_re">^\\($</string>
   <string name="autofill_area_code_re">area.*code|acode|area</string>
@@ -149,9 +149,9 @@ Pretende fechar?"</string>
   <string name="back_button_label">Anterior</string>
   <string name="badPin">O código PIN antigo que introduziu não está correcto.</string>
   <string name="badPuk">O código PUK que introduziu não está correcto.</string>
-  <string name="battery_saver_description">"To help improve battery life, battery saver reduces your device’s performance and limits vibration and most background data. Email, messaging, and other apps that rely on syncing may not update unless you open them.
+  <string name="battery_saver_description">"Para melhorar a vida útil de bateria, o economizador de bateria reduz a performance, limites de vibração e a maior parte dos dados em segundo plano do seu dispositivo. Email, mensagens, e outras aplicação baseadas em sincronização podem não actualizar até as abrir.
 
-Battery saver turns off automatically when your device is charging."</string>
+Economizador de bateria desliga-se automaticamente quando o dispositivo está a carregar."</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
   <string name="bugreport_message">Serão recolhidas informações sobre estado actual do dispositivo, para enviar como uma mensagem de e-mail. Vai levar um pouco de tempo de iniciar o relatório de erro até que esteja pronto para ser enviado; por favor seja paciente.</string>
@@ -400,17 +400,17 @@ utilizando %s"</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_bug_report">Relatório de erro</string>
   <string name="global_action_lock">Bloqueio do ecrã</string>
-  <string name="global_action_lockdown">Lock now</string>
+  <string name="global_action_lockdown">Bloquear agora</string>
   <string name="global_action_power_off">Desligar</string>
-  <string name="global_action_reboot">Reboot</string>
-  <string name="global_action_settings">Settings</string>
+  <string name="global_action_reboot">Reiniciar</string>
+  <string name="global_action_settings">Definições</string>
   <string name="global_action_silent_mode_off_status">Som ligado</string>
   <string name="global_action_silent_mode_on_status">Som desligado</string>
   <string name="global_action_toggle_silent_mode">Modo sem som</string>
   <string name="global_actions">Opções do dispositivo</string>
-  <string name="global_actions_airplane_mode_off_status">O modo de voo está desligado</string>
-  <string name="global_actions_airplane_mode_on_status">O modo de voo está ligado</string>
-  <string name="global_actions_toggle_airplane_mode">Modo de voo</string>
+  <string name="global_actions_airplane_mode_off_status">O modo de vôo está desligado</string>
+  <string name="global_actions_airplane_mode_on_status">O modo de vôo está ligado</string>
+  <string name="global_actions_toggle_airplane_mode">Modo de vôo</string>
   <string name="gpsNotifMessage">Solicitado por %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Pedido de localização de %s</string>
   <string name="gpsNotifTitle">Pedido de localização</string>
