@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <array name="app_locating_animation_scaler">
         <item>1.0</item>
@@ -17,7 +16,7 @@
         <item>4x5</item>
      </string-array>
      <string-array name="editing_mode_entries">
-        <item>Mover aplica√ß√µes</item>
+        <item>Mover aplicaÁıes</item>
         <item>Widgets</item>
         <item>Papel de parede</item>
         <item>Efeitos</item>
@@ -44,7 +43,7 @@
         <item>Granizo</item>
         <item>Tempestade de neve</item>
         <item>Flocos de neve</item>
-        <item>Nev√£o</item>
+        <item>Nev„o</item>
         <item>Neve</item>
         <item>Queda de neve fina</item>
         <item>Tempestade de areia forte</item>
@@ -52,12 +51,12 @@
         <item>Tempestade de areia fraca</item>
         <item>Tempestade de areia</item>
         <item>Granizo</item>
-        <item>P√≥ flutuante</item>
+        <item>PÛ flutuante</item>
         <item>Neblina</item>
      </string-array>
      <string-array name="gadget_weather_theme_type_entries">
         <item>Predefinido</item>
-        <item>Cl√°ssico</item>
+        <item>Cl·ssico</item>
      </string-array>
      <array name="item_shake_animation_scaler">
         <item>0.0dip</item>
@@ -71,9 +70,9 @@
         <item>Deslizar</item>
         <item>Desvanecer</item>
         <item>Circular</item>
-        <item>P√°gina</item>
+        <item>P·gina</item>
         <item>Cascata</item>
-        <item>Rota√ß√£o</item>
+        <item>RotaÁ„o</item>
         <item>Cubo</item>
      </string-array>
      <string-array name="transformation_values">
@@ -109,5 +108,11 @@
         <item>home_edit_box_area_4_2</item>
         <item>home_edit_box_area_4_3</item>
         <item>home_edit_box_area_4_4</item>
+     </string-array>
+     <string-array name="wallpaper_scroll_values">
+        <item>por Tema</item>
+        <item>centro</item>
+        <item>esquerda</item>
+        <item>direita</item>
      </string-array>
 </resources>

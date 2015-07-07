@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">A aplicação não está instalada no dispositivo</string>
-  <string name="app_being_backup_message">A aplicação está a ser copiada.</string>
+  <string name="app_being_backup_message">A aplicação está a ser copiada</string>
+  <string name="app_being_restored_message">A aplicação está a ser restaurada</string>
   <string name="app_category_books">Livros</string>
   <string name="app_category_education">Educação</string>
   <string name="app_category_entertainment">Entretenimento</string>
@@ -15,7 +16,7 @@
   <string name="app_category_productivity">Produtividade</string>
   <string name="app_category_shopping">Compras</string>
   <string name="app_category_social">Social</string>
-  <string name="app_category_sport">Esportes</string>
+  <string name="app_category_sport">Desportos</string>
   <string name="app_category_tools">Ferramentas</string>
   <string name="app_category_travel">Viagem</string>
   <string name="application_name">Launcher do Sistema</string>
@@ -39,8 +40,8 @@
   <string name="cant_remove_system_app">Não é possível remover a aplicação do sistema</string>
   <string name="choose_wallpaper">Escolher o papel de parede</string>
   <string name="chooser_wallpaper">Escolha o papel de parede de</string>
-  <string name="cloud_app_restore_title">Pending</string>
-  <string name="configure_wallpaper">Settings</string>
+  <string name="cloud_app_restore_title">Pendente</string>
+  <string name="configure_wallpaper">Definições</string>
   <string name="confirm_btn_label">OK</string>
   <string name="current_preview">Pré-visualizar</string>
   <string name="current_wallpaper">Actual</string>
@@ -53,6 +54,7 @@
   <string name="delete">Eliminar</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
   <string name="delete_wallpapers_message">Eliminar %1$d papéis de parede?</string>
+  <string name="deselect_all">Desmarcar tudo</string>
   <string name="disable_wallpaper_scroll">Desactivar rolar do papel de parede</string>
   <string name="download_action">Download</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -72,7 +74,7 @@
   <string name="failed_to_delete_temporary">Não é possível remover</string>
   <string name="failed_to_drop">Não é possível mover</string>
   <string name="failed_to_drop_widget_invalid">Widget inválido</string>
-  <string name="failed_to_drop_widget_nospace">Não há mais espaço no ecrã inicial</string>
+  <string name="failed_to_drop_widget_nospace">Não há mais espaço neste ecrã inicial</string>
   <string name="failed_to_load_image">"Não é possível carregar imagem"</string>
   <string name="folder_name">Pasta</string>
   <string name="frame_load_failed">Não é possível carregar o fotograma</string>
@@ -82,7 +84,7 @@
   <string name="free_style_edit_bar_empty">Vazio</string>
   <string name="free_style_edit_bar_select_app">Escolha a aplicação</string>
   <string name="free_style_edit_bottom_empty_tip">Seleccione o retângulo para editar</string>
-  <string name="free_style_edit_drawer">Puxador</string>
+  <string name="free_style_edit_drawer">Gaveta</string>
   <string name="free_style_edit_move_tip">Seleccione e segure para mover um ficheiro</string>
   <string name="free_style_edit_tab_free_component">Objectos</string>
   <string name="free_style_edit_tab_shortcut">Atalhos</string>
@@ -92,7 +94,7 @@
   <string name="free_style_londing_text">A carregar…</string>
   <string name="gadget_calculator_label">Calculadora</string>
   <string name="gadget_calendar_label">Calendário</string>
-  <string name="gadget_clear_button_label">Limpar</string>
+  <string name="gadget_clear_button_label">Limpeza</string>
   <string name="gadget_clock_12_label">Relógio 2x1</string>
   <string name="gadget_clock_22_label">Relógio 2x2</string>
   <string name="gadget_clock_24_label">Relógio 4x2</string>
@@ -127,15 +129,15 @@
   <string name="guide_install_app_msg">A aplicação não está instalada no dispositivo. Pesquisar e instalar a aplicação agora?</string>
   <string name="guide_install_app_title">Pesquisar e instalar a aplicação?</string>
   <string name="guide_tips_editing_mode">Seleccione e segure para movimentar um widget</string>
+  <string name="home_indicator">ponto inferior</string>
   <string name="image_too_small_message">A imagem não tem a dimensão necessária</string>
   <string name="install">Instalar</string>
   <string name="invalid_contact_shortcut">Contacto inválido</string>
-  <string name="is_setting_wallpaper_message">Setting wallpaper…</string>
-  <string name="is_setting_wallpaper_toast">Definir papel de parede…</string>
+  <string name="is_setting_wallpaper_message">A definir papel de parede…</string>
   <string name="is_system_wallpaper_message">Não foi possível eliminar os recursos do sistema</string>
-  <string name="loading_desktop">A carregar launcher</string>
-  <string name="loading_wallpaper">Just a sec…</string>
-  <string name="local_wallpaper">Local</string>
+  <string name="loading_desktop">Aguarde um seg…</string>
+  <string name="loading_wallpaper">Aguarde um seg…</string>
+  <string name="local_wallpaper">Transferido</string>
   <string name="lock_screen_failed_message">Não foi possível aplicar</string>
   <string name="lock_screen_success_message">Aplicado</string>
   <string name="menu_add">Adicionar</string>
@@ -149,11 +151,11 @@
   <string name="menu_reset_scene">Reiniciar para o layout predefinido</string>
   <string name="menu_search">Pesquisar</string>
   <string name="menu_settings">Definições</string>
-  <string name="menu_sort">Classificar aplicações</string>
+  <string name="menu_sort">Ordenar aplicações</string>
   <string name="menu_wallpaper">Papel de parede</string>
-  <string name="menu_workspace_preview">Visualizar ecrãs de Início</string>
+  <string name="menu_workspace_preview">Pré-Visualizar ecrãs de Início</string>
   <string name="mi_wallpaper">Loja de Temas MIUI</string>
-  <string name="mtzgadget_missing_text">"Isn't provided any longer, please add again"</string>
+  <string name="mtzgadget_missing_text">Widget não disponível</string>
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, toque no ícone da mesma</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Não existe espaço no ecrã inicial</string>
@@ -167,17 +169,17 @@
   <string name="permlab_read_settings">Ler Definições do início e Atalhos</string>
   <string name="permlab_uninstall_shortcut">Desinstalar atalhos</string>
   <string name="permlab_write_settings">Editar Definições da Página Inicial e dos Atalhos</string>
-  <string name="photo_adjust">Visualizar</string>
+  <string name="photo_adjust">Pré-Visualizar</string>
   <string name="photo_confirm">Aplicar</string>
-  <string name="photo_load_failed">Não é possível carregar a fotografia</string>
-  <string name="pref_cell_layout_size">Disposição do ícone da aplicação</string>
+  <string name="photo_load_failed">Não é possível carregar a foto</string>
+  <string name="pref_cell_layout_size">Disposição dos ícones das aplicações</string>
   <string name="pref_enable_drawing_cache_summary">Desligue para libertar memória. Isto pode diminuir o desempenho.</string>
   <string name="pref_enable_drawing_cache_title">Histórico da memória de desenho</string>
   <string name="pref_icon_shadow_summary">Activa a sombra da aplicação, dos Favoritos e cria um efeito de reflexo</string>
   <string name="pref_icon_shadow_title">Sombras da aplicação</string>
   <string name="pref_keep_in_memory_summary">Mantenha o launcher em funcionamento quando houver pouca memória</string>
   <string name="pref_keep_in_memory_title">Bloquear MIUI na memória</string>
-  <string name="pref_keep_layout_summary">Alterar disposição do ecrã inicial não afetará a posição das aplicações em relação as outras</string>
+  <string name="pref_keep_layout_summary">Alterar disposição do ecrã inicial não afetará a posição das aplicações em relação às outras</string>
   <string name="pref_keep_layout_title">Bloquear as posições da aplicação</string>
   <string name="pref_render_in_truecolor_summary">Desligar esta função melhora o desempenho de desenhar</string>
   <string name="pref_render_in_truecolor_title">Gráficos de alta qualidade</string>
@@ -188,8 +190,9 @@
   <string name="process"/>
   <string name="reset_scene_prompt">O ecrã será reiniciado para o layout predefinido.</string>
   <string name="scroll_tip_format_when_announce_accessibility">página %1$d, %2$d aplicações</string>
+  <string name="select_all">Seleccionar todos</string>
   <string name="select_frame">Fotograma</string>
-  <string name="select_photo">Fotografia</string>
+  <string name="select_photo">Foto</string>
   <string name="setting_wallpaper_tip">Mover ou redimensionar</string>
   <string name="settings_shortcut">Definições</string>
   <string name="sharedUserId"/>
@@ -206,8 +209,8 @@
   <string name="status_pending">Pendente</string>
   <string name="title_select_live_folder">Seleccionar pasta</string>
   <string name="title_select_shortcut">Seleccionar atalho</string>
-  <string name="toggle_select_title">Escolha alternância</string>
-  <string name="toggle_title">Alterna</string>
+  <string name="toggle_select_title">Escolha o atalho</string>
+  <string name="toggle_title">Atalhos</string>
   <string name="transformation_type_classic">Deslizante</string>
   <string name="transformation_type_classic_no_overshoot">Deslizar</string>
   <string name="transformation_type_crossfade">Desvanecer</string>
@@ -229,6 +232,7 @@
   <string name="unnamed_folder_name">Pasta sem nome</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_failed_message">Não foi possível aplicar</string>
+  <string name="wallpaper_scrolling">todos</string>
   <string name="wallpaper_settings">Papel de parede</string>
   <string name="wallpaper_success_message">Aplicado com êxito</string>
   <string name="widget_favorite_contacts_edit">Editor</string>

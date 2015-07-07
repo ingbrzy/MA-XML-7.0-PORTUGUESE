@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="contact_entries">
         <item>Nome</item>
         <item>Apelido</item>
         <item>Telefone</item>
         <item>Email</item>
-        <item>OrganizaÃ§Ã£o</item>
+        <item>Organização</item>
         <item>IM</item>
         <item>Telefone SIP</item>
-        <item>AniversÃ¡rio</item>
+        <item>Aniversário</item>
         <item>Site</item>
-        <item>EndereÃ§o</item>
+        <item>Endereço</item>
         <item>Nota</item>
      </string-array>
      <string-array name="contact_values">
@@ -31,21 +30,21 @@
         <item>Feliz</item>
         <item>Triste</item>
         <item>Piscar o Olho</item>
-        <item>LÃ­ngua de fora</item>
+        <item>Língua de fora</item>
         <item>Surpresa</item>
         <item>Beijar</item>
         <item>Gritar</item>
         <item>Frio</item>
         <item>Boca de dinheiro</item>
-        <item>PÃ© na boca</item>
-        <item>EmbaraÃ§ado</item>
+        <item>Pé na boca</item>
+        <item>Embaraçado</item>
         <item>Anjo</item>
         <item>Indeciso</item>
         <item>Chorar</item>
-        <item>LÃ¡bios estÃ£o selados</item>
+        <item>Lábios estão selados</item>
         <item>Rir</item>
         <item>Confuso</item>
-        <item>CoraÃ§Ã£o</item>
+        <item>Coração</item>
         <item>Louco</item>
         <item>Rir</item>
         <item>Poker face</item>
@@ -114,7 +113,7 @@
      </string-array>
      <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>SÃ³ quando silÃªncio</item>
+        <item>Só no modo silêncio</item>
         <item>Nunca</item>
      </string-array>
      <string-array name="prefValues_ringtone_repeat">
@@ -144,5 +143,10 @@
         <item>9 segundos</item>
         <item>10 segundos</item>
         <item>Outros</item>
+     </string-array>
+     <string-array name="prefValues_vibrateWhen">
+        <item>sempre</item>
+        <item>silêncio</item>
+        <item>nunca</item>
      </string-array>
 </resources>
