@@ -15,10 +15,10 @@
   <string name="bad_authentication">Nome de utilizador ou palavra-passe inválido</string>
   <string name="btn_return">Anterior</string>
   <string name="button_cancel">Cancelar</string>
-  <string name="buy_more_space_b_class">"Sign in at mi.com/micloud to get more storage space.
-You need a Mainland China bank card to purchase additional storage space."</string>
-  <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
-To get more storage space, visit mi.com/micloud."</string>
+  <string name="buy_more_space_b_class">Inicie sessão em mi.com/micloud para receber mais espaço de armazenamento.
+É necessário um cartão bancário de Mainland China para comprar espaço de armazenamento adicional."</string>
+  <string name="buy_more_space_c_class">Este requisito necessita dum cartão bancário de Mainland China.
+Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="buy_space_expire">O espaço adquirido expira em %s</string>
   <string name="buy_space_expire_concat">%1$s para %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Renovação automática</string>
@@ -29,22 +29,12 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_sulotion_title">Comprar espaço de armazenamento</string>
   <string name="calendar_sync">Calendário</string>
   <string name="click_to_enabled">Toque para sincronizar.</string>
-  <string name="close_cloud_app_backup_cancel">Cancelar</string>
-  <string name="close_cloud_app_backup_close">Fechar</string>
-  <string name="close_cloud_app_backup_local_backup">Cópia de segurança</string>
-  <string name="close_cloud_app_backup_message">"A aplicação Nuvem Mi do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicações de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
-  <string name="close_cloud_app_backup_notification_message">Toque para ver detalhes</string>
-  <string name="close_cloud_app_backup_notification_title">Notificação de cópia de segurança de aplicações</string>
-  <string name="close_cloud_app_backup_title">Fechar</string>
-  <string name="cloud_app_back_up_quit_notification_content1">"A aplicação Nuvem Mi do serviço de Backup será interrompida para aplicações não-MIUI. Dados relacionados para aplicações de terceiros serão eliminados a partir de 1 de maio de 2015. Para evitar a perda de informações importantes, fazer cópia de segurança dos seus dados de aplicações locais agora."</string>
-  <string name="cloud_app_back_up_quit_notification_content2">Contactos, Mensagens, Galeria, e outras aplicações de sistema MIUI não serão afectados.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Cópia de segurança de dados das aplicações</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque pra realizar cópia de segurança.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora, não poderá usar esta cópia de segurança para restaurar aplicações."</string>
   <string name="cloud_back_up_interval_long">7 dias</string>
-  <string name="cloud_back_up_interval_short">1 hora</string>
+  <string name="cloud_back_up_interval_short">1 dia</string>
   <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue-se à rede e tente novamente."</string>
   <string name="cloud_back_up_open_info">"Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s Quando ligado á rede
 Ultima cópia de segurança: %2$s"</string>
@@ -61,14 +51,14 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="cloudservice_new_sync">Sincronizar %s con Nuvem Mi</string>
   <string name="cmcc_micloud_dspt">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo,</string>
   <string name="contact">Contactos</string>
-  <string name="deskclock_backup">Clocks Back up</string>
+  <string name="deskclock_backup">Cópia de Relógios</string>
   <string name="disable_find_device_error">Não foi possível desactivar Encontrar Dispositivo. %1$s</string>
   <string name="enableAll">Sincronizar tudo</string>
   <string name="enable_cloud_service_notification">Não activou a Nuvem Mi</string>
   <string name="enable_find_device_error">Não foi possível activar Encontrar Dispositivo. %1$s</string>
-  <string name="enable_micloud">Inicie a sessão ou crie uma conta</string>
-  <string name="enable_sync">Activar</string>
-  <string name="enable_sync_dspt">A sincronização está desactivada</string>
+  <string name="enable_micloud">Use a Nuvem Mi</string>
+  <string name="enable_sync">Sincronizar</string>
+  <string name="enable_sync_dspt">Não sincronizar</string>
   <string name="error_data_in_transfer">A sincronização irá terminar em %s horas.</string>
   <string name="error_data_in_transfer_title">Nuvem Mi não disponível</string>
   <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
@@ -83,7 +73,8 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desactivar…</string>
   <string name="find_device_dspt">Localizar, bloquear, ou reiniciar o seu dispositivo remotamente</string>
-  <string name="find_device_dspt_provision">"If you lose your device, you can go to %s to locate, lock, or reset it. You can turn this feature on and off anytime in Settings."</string>
+  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear, reiniciar. Pode ligar/desligar este requisito em qualquer altura nas Definições."</string>
+"</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Pode a qualquer momento activar ou desactivar esta função nas Definições.</string>
@@ -96,7 +87,9 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear, ou restaurar o telemóvel.
 Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reactivar este serviço."</string>
-  <string name="find_device_send_sms_alert">Se trocar de cartão SIM, será enviada outra mensagem para reactivar este serviço.</string>
+  <string name="find_device_send_sms_alert">"
+
+Se trocar de cartão SIM, será enviada outra mensagem para reactivar este serviço.</string>
   <string name="find_device_status_ok">Encontre o seu dispositivo em qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Pressione OK para silenciar</string>
@@ -110,16 +103,16 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Cerca de 18,50 € por ano</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
-  <string name="header_other_settings">Outras Definições</string>
+  <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
-  <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
+  <string name="internet_access_dspt">Esta aplicação necessita de conectar à internet para funcinonar normalmente.</string>
   <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações, vá a %s.</string>
   <string name="loading">A carregar…</string>
   <string name="loading_hint">A carregar</string>
   <string name="master_alert_notif_dspt_add">%s ficheiros aguardam sincronizar</string>
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Última sincronização à %s dias atrás</string>
-  <string name="micloud_buy_member">Account</string>
+  <string name="micloud_buy_member">Conta</string>
   <string name="micloud_check_sim_notify_text">"Verifique como mudou os cartões SIM. inicie sessão
 na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_check_sim_notify_title">Reactivar a Nuvem Mi</string>
@@ -154,71 +147,70 @@ Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar l
   <string name="micloud_main_network_error">Não foi possível ligar à rede</string>
   <string name="micloud_main_set_internet">Rede</string>
   <string name="micloud_main_space_full">Não existe espaço de armazenamento</string>
-  <string name="micloud_main_space_low">Almost out of space…</string>
-  <string name="micloud_main_space_risk">%d sincronizado.</string>
+  <string name="micloud_main_space_low">Quase sem espaço…</string>  
   <string name="micloud_main_stop_sync">Parar de sincronizar</string>
-  <string name="micloud_main_suggest_setting">"Waiting for WLAN connection to sync
-Tap the Settings button to view more options"</string>
+  <string name="micloud_main_suggest_setting">"Á espera de Wi-Fi para sincronizar
+Toque no botão das Definições para ver mais opções"</string>
   <string name="micloud_main_suggest_sync">Alguns itens não foram sincronizados com a Nuvem Mi</string>
   <string name="micloud_main_sync_exception">Erro ao sincronizar</string>
   <string name="micloud_main_sync_init">A obter informação</string>
   <string name="micloud_main_sync_now">Sincronizar agora</string>
   <string name="micloud_main_sync_on_wifi">Utilizar Wi-Fi</string>
   <string name="micloud_main_sync_pause">Pausa na sincronização</string>
-  <string name="micloud_main_sync_setting">Sync settings</string>
+  <string name="micloud_main_sync_setting">Definições de sincronização</string>
   <string name="micloud_main_sync_stop">Parar a sincronização</string>
   <string name="micloud_main_synced_data_count">%d sincronizados</string>
   <string name="micloud_main_syncing">A sincronizar…</string>
-  <string name="micloud_main_title_sync_fail">"Can't sync"</string>
-  <string name="micloud_main_title_sync_off">Sync off</string>
-  <string name="micloud_main_title_sync_on_wifi">Use WLAN</string>
+  <string name="micloud_main_title_sync_fail">Não é possivel sincronizar</string>
+  <string name="micloud_main_title_sync_off">Sincronização desligada</string>
+  <string name="micloud_main_title_sync_on_wifi">Utilizar Wi-Fi</string>
   <string name="micloud_main_update_space">Obtenha mais armazenamento.</string>
   <string name="micloud_main_wlan_sync_data_count">%d aguardam sincronizar por Wi-Fi</string>
-  <string name="micloud_member">Mi Cloud membership</string>
-  <string name="micloud_member_advantage">Get more storage space.</string>
-  <string name="micloud_member_buy_content" formatted="false">"Valid for %s-%s-%s
+  <string name="micloud_member">Filiação Nuvem Mi</string>
+  <string name="micloud_member_advantage">Obter mais espaço de armazenamento.</string>
+  <string name="micloud_member_buy_content" formatted="false">"Valido para %s-%s-%s
 
-%s Mi Credits per year"</string>
-  <string name="micloud_member_buy_title">Confirm order</string>
-  <string name="micloud_member_net_error_alert_message">"You don't have an internet connection."</string>
-  <string name="micloud_member_net_error_alert_title">"Can't connect to the network"</string>
-  <string name="micloud_member_pay_fail_toast">"Couldn't complete payment"</string>
-  <string name="micloud_member_pay_miid_error_toast">Account error</string>
-  <string name="micloud_member_pay_order_error_toast">Data error</string>
-  <string name="micloud_member_refresh_button">Refresh</string>
-  <string name="micloud_member_webload_fail_error_message">Network error</string>
-  <string name="micloud_member_webload_fail_toast_4xx">"Couldn't load page"</string>
-  <string name="micloud_member_webload_fail_toast_5xx">Server error</string>
+%s Créditos Mi por ano"</string>
+  <string name="micloud_member_buy_title">Confirmar encomenda</string>
+  <string name="micloud_member_net_error_alert_message">Não está ligado à internet.</string>
+  <string name="micloud_member_net_error_alert_title">Não é possivel conectar à internet</string>
+  <string name="micloud_member_pay_fail_toast">Não foi possivel completar o pagamento</string>
+  <string name="micloud_member_pay_miid_error_toast">Erro de conta</string>
+  <string name="micloud_member_pay_order_error_toast">Erro de dados</string>
+  <string name="micloud_member_refresh_button">Actualizar</string>
+  <string name="micloud_member_webload_fail_error_message">Erro de rede</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Não foi possivel carregar a página</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Erro de servidor</string>
   <string name="micloud_more">Aprender mais</string>
   <string name="micloud_other_product_price">Compare preços</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_sec_dspt">e partilhar coisas com os deus amigos.</string>
-  <string name="micloud_setting_antispam_summary">Exceptions for Do Not Disturb and blocked phone numbers.</string>
+  <string name="micloud_setting_antispam_summary">Excepções e nºs de telefone bloqueados.</string>
   <string name="micloud_setting_browser_summary">Favoritos, histórico e separadores</string>
   <string name="micloud_setting_contact_summary">Contactos informações e fotos no seu perfil</string>
-  <string name="micloud_setting_deskclock_summary">Timezone and alarm settings</string>
+  <string name="micloud_setting_deskclock_summary">Definições de fuso horário e de alarme</string>
   <string name="micloud_setting_gallery_summary">Fotos e vídeos</string>
   <string name="micloud_setting_music_summary">Listas de reprodução e favoritos</string>
   <string name="micloud_setting_sms_summary">SMS e MMS</string>
   <string name="micloud_setting_wifi_summary">Definições Wi-Fi</string>
   <string name="micloud_single_dspt">Utilize a Nuvem Mi para sincronizar dados, localizar o dispositivo, e partilhar as coisas com os amigos.</string>
-  <string name="micloud_space_applist_detail">Manage apps on your Home screen</string>
-  <string name="micloud_space_applist_title">Manage apps</string>
+  <string name="micloud_space_applist_detail">Gerir aplicações no Ecrã inicial</string>
+  <string name="micloud_space_applist_title">Gerir aplicações</string>
   <string name="micloud_space_duokan_detail">Administrar seu conteúdo Duokan ao usar a aplicação Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
   <string name="micloud_space_full_influence">O que acontece quando eu ficar sem espaço?</string>
-  <string name="micloud_space_soundrecorder_detail">Manage recordings stored on your device</string>
-  <string name="micloud_space_soundrecorder_title">Recordings</string>
-  <string name="micloud_storage">Storage</string>
+  <string name="micloud_space_soundrecorder_detail">Gerir gravações gravadas no dispositivo</string>
+  <string name="micloud_space_soundrecorder_title">Gravações</string>
+  <string name="micloud_storage">Armazenamento</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Tem que renovar a assinatura.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Tem que renovar a assinatura.</string>
   <string name="micloud_storage_expires_soon_title">O armazenamento da Nuvem Mi expira em breve</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Nuvem Mi expira em breve</string>
   <string name="micloud_storage_usage" formatted="false">Utilizado %s/Total de %s</string>
-  <string name="micloud_sync_alert_dialog_message">Sync your photos, contacts, notes, and more across all your devices.</string>
-  <string name="micloud_sync_alert_dialog_negative">Cancel</string>
+  <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e mais em todos os seus dispositivos.</string>
+  <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
-  <string name="micloud_sync_alert_dialog_title">Use Mi Cloud</string>
+  <string name="micloud_sync_alert_dialog_title">Utilizar Nuvem Mi</string>
   <string name="micloud_title_dspt" formatted="false">"%s total
  %s utilizado | %s disponíveis"</string>
   <string name="micloud_title_dspt_remain">%s disponíveis</string>
@@ -247,9 +239,12 @@ Pode a qualquer momento desactivar esta função nas Definições."</string>
   <string name="mx_dspt_provision_privacy">"Este serviço pode exigir o seu número de telefone. A operadora poderá cobrar um SMS utilizado para activar este serviço.
 
 Este serviço encripta e envia o ID do dispositivo para os servidores MI."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Este requesito necessita do seu numero de telefone. Your carrier may charge for two SMS messages used to activate this feature.
+
+This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your Internet connection. You can turn this feature on or off anytime in Settings.</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internet calling</string>
+  <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
   <string name="next">Seguinte</string>
   <string name="noRemind">Não voltar a lembrar</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
@@ -267,7 +262,7 @@ Este serviço encripta e envia o ID do dispositivo para os servidores MI."</stri
   <string name="remind_later">Mais tarde</string>
   <string name="restoreSync">Sincronizar agora</string>
   <string name="setting">Definições</string>
-  <string name="settings_backup_title">Back up system settings</string>
+  <string name="settings_backup_title">Cópia das definições de sistema</string>
   <string name="share_cancel">Partilha cancelada</string>
   <string name="share_failed">Não foi possível partilhar</string>
   <string name="share_miliao_not_installed">O MiTalk não está instalado.</string>
@@ -339,9 +334,9 @@ A utilização deste recurso está sujeita a "</string>
   <string name="vcode">Código de verificação</string>
   <string name="verify">Verificar</string>
   <string name="view_storage_title">Verificar o espaço disponível na Nuvem</string>
-  <string name="voip_choose_sim">Choose phone number to activate Mi Voice</string>
+  <string name="voip_choose_sim">Escolha o número de telefone para activar o Mi Voice</string>
   <string name="voip_dspt">Mi Voice</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>
   <string name="xmpp_server_addr"/>

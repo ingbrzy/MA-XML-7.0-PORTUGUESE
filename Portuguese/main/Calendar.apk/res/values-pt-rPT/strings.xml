@@ -103,7 +103,7 @@
   <string name="directory_searching_fmt">A pesquisar %s…</string>
   <string name="discard_label">Cancelar</string>
   <string name="dismiss_all_label">Dispensar tudo</string>
-  <string name="do_not_check">Não Verificado -&gt;</string>
+  <string name="do_not_check">Não Verificar -&gt;</string>
   <string name="does_not_repeat">Evento único</string>
   <string name="done">Voltar</string>
   <string name="edit_event_all_day_label">Todo o dia</string>
@@ -115,7 +115,7 @@
   <string name="edit_event_show_all">Mostrar tudo</string>
   <string name="edit_event_to_label">Para</string>
   <string name="edit_label">Editar</string>
-  <string name="email_guests_label">Email convidado</string>
+  <string name="email_guests_label">Email convidados</string>
   <string name="email_picker_label">Email com</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">O evento vazio não foi criado</string>
@@ -131,11 +131,11 @@
   <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="event_hide_more">Ocultar</string>
   <string name="event_info_descrip">Desc\u0009\u0009\u0009</string>
-  <string name="event_info_end">End\u0009\u0009\u0009</string>
+  <string name="event_info_end">Fim\u0009\u0009\u0009</string>
   <string name="event_info_organizer">Organizador:</string>
   <string name="event_info_reminders_label">Lembretes</string>
-  <string name="event_info_repeat">Repeat\u0009</string>
-  <string name="event_info_title">Visualizar evento</string>
+  <string name="event_info_repeat">Repetir\u0009</string>
+  <string name="event_info_title">Detalhes do evento</string>
   <string name="event_info_title_invite">Convite para reunião</string>
   <string name="event_info_when">Quando\u0009\u0009</string>
   <string name="event_info_where">Onde\u0009</string>
@@ -195,7 +195,7 @@
   <string name="no_calendars_found">Depois pode adicionar um evento, Deve adicionar pelo menos uma conta de calendário para o seu dispositivo e fazer um calendário visível. Pressione em adicionar conta para adicionar uma conta (se acabou de adicionar uma conta, espere que termine a sincronização e tente novamente). Ou pressione em Cancelário e certifique-se pelo menos um calendário está visível.</string>
   <string name="no_local_calendar">Nenhum calendário subscrito:)</string>
   <string name="no_network">Sem rede, por favor actualize novamente a rede :)</string>
-  <string name="no_syncable_calendars">Sem agendas</string>
+  <string name="no_syncable_calendars">Sem calendários</string>
   <string name="no_title_label">(Sem título)</string>
   <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
   <string name="not_synced">Não sincronizado</string>
