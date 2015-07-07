@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <plurals name="delete_files_confirm">
-        <item quantity="other">Eliminar %1$d arquivos</item>
-        <item quantity="zero">Eliminar %1$d arquivos</item>
-        <item quantity="one">Eliminar %1$d arquivo</item>
-        <item quantity="two">Eliminar %1$d arquivos</item>
-        <item quantity="few">%1$Eliminar %1$d arquivos</item>
-        <item quantity="many">Eliminar %1$d arquivos</item>
+        <item quantity="other">Eliminar %1$d ficheiros</item>
+        <item quantity="zero">Eliminar %1$d ficheiros</item>
+        <item quantity="one">Eliminar %1$d ficheiro</item>
+        <item quantity="two">Eliminar %1$d ficheiros</item>
+        <item quantity="few">%1$Eliminar %1$d ficheiros</item>
+        <item quantity="many">Eliminar %1$d ficheiros</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d pastas?"</item>
@@ -17,28 +17,28 @@
         <item quantity="many">" e %1$d pastas?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d arquivos</item>
-        <item quantity="zero">%d arquivos</item>
-        <item quantity="one">%d arquivo</item>
-        <item quantity="two">%d arquivos</item>
-        <item quantity="few">%d arquivos</item>
-        <item quantity="many">%d arquivos</item>
+        <item quantity="other">%d ficheiros</item>
+        <item quantity="zero">%d ficheiros</item>
+        <item quantity="one">%d ficheiro</item>
+        <item quantity="two">%d ficheiros</item>
+        <item quantity="few">%d ficheiros</item>
+        <item quantity="many">%d ficheiros</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d arquivos que faltam transferir</item>
-        <item quantity="zero">%1$d arquivos que faltam transferir</item>
-        <item quantity="one">%1$d arquivo que falta transferir</item>
-        <item quantity="two">%1$d arquivos que faltam transferir</item>
-        <item quantity="few">%1$d arquivos que faltam transferir</item>
-        <item quantity="many">%1$d arquivos que faltam transferir</item>
+        <item quantity="other">%1$d ficheiros que faltam transferir</item>
+        <item quantity="zero">%1$d ficheiros que faltam transferir</item>
+        <item quantity="one">%1$d ficheiro que falta transferir</item>
+        <item quantity="two">%1$d ficheiros que faltam transferir</item>
+        <item quantity="few">%1$d ficheiros que faltam transferir</item>
+        <item quantity="many">%1$d ficheiros que faltam transferir</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d arquivos que faltam carregar</item>
-        <item quantity="zero">%1$d arquivos que faltam carregar</item>
-        <item quantity="one">%1$d arquivo que falta carregar</item>
-        <item quantity="two">%1$d arquivos que faltam carregar</item>
-        <item quantity="few">%1$d arquivos que faltam carregar</item>
-        <item quantity="many">%1$d arquivos que faltam carregar</item>
+        <item quantity="other">%1$d ficheiros que faltam carregar</item>
+        <item quantity="zero">%1$d ficheiros que faltam carregar</item>
+        <item quantity="one">%1$d ficheiro que falta carregar</item>
+        <item quantity="two">%1$d ficheiros que faltam carregar</item>
+        <item quantity="few">%1$d ficheiros que faltam carregar</item>
+        <item quantity="many">%1$d ficheiros que faltam carregar</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selecionado</item>
@@ -47,5 +47,21 @@
         <item quantity="two">%1$d selecionado</item>
         <item quantity="few">%1$d selecionado</item>
         <item quantity="many">%1$d selecionado</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other"> (%1$d ficheiros)</item>
+        <item quantity="zero"> (%1$d ficheiros)</item>
+        <item quantity="one"> (%1$d ficheiro)</item>
+        <item quantity="two"> (%1$d ficheiros)</item>
+        <item quantity="few"> (%1$d ficheiros)</item>
+        <item quantity="many"> (%1$d ficheiros)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d ficheiros)</item>
+        <item quantity="zero"> (%1$d ficheiros)</item>
+        <item quantity="one"> (%1$d ficheiro)</item>
+        <item quantity="two"> (%1$d ficheiros)</item>
+        <item quantity="few"> (%1$d ficheiros)</item>
+        <item quantity="many"> (%1$d ficheiros)</item>
     </plurals>
 </resources>
