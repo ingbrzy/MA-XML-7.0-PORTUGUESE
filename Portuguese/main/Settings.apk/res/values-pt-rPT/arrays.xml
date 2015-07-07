@@ -163,7 +163,7 @@
         <item>write ICC SMS</item>
         <item>modificar definições</item>
         <item>draw on top</item>
-        <item>acceder notificações</item>
+        <item>aceder notificações</item>
         <item>câmara</item>
         <item>gravar áudio</item>
         <item>reproduzir áudio</item>
@@ -281,11 +281,6 @@
         <item>Predefinido</item>
         <item>PIN</item>
         <item>Palavra-passe</item>
-     </string-array>
-     <string-array name="daltonizer_type_entries">
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
      </string-array>
      <string-array name="daltonizer_type_values">
         <item>12</item>
@@ -733,13 +728,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
      <string-array name="sim_card_data_range">
         <item>Last 4 digits</item>
         <item>First 4 digits</item>
-     </string-array>
-     <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
      </string-array>
      <string-array name="simulate_color_space_values">
         <item>-1</item>
