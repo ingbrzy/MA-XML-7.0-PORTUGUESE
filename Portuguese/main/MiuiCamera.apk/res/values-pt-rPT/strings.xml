@@ -154,10 +154,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_hdr_entry_live">Live</string>
   <string name="pref_camera_hdr_entry_normal">Normal</string>
   <string name="pref_camera_hdr_entry_off">Desligado</string>
-  <string name="pref_camera_hdr_entryvalue_auto">auto</string>
-  <string name="pref_camera_hdr_entryvalue_live">live</string>
-  <string name="pref_camera_hdr_entryvalue_normal">normal</string>
-  <string name="pref_camera_hdr_entryvalue_off">off</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
@@ -177,9 +173,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <string name="pref_camera_jpegquality_title">Qualidade da imagem</string>
-  <string name="pref_camera_jpegquality_value_high">high</string>
-  <string name="pref_camera_jpegquality_value_low">low</string>
-  <string name="pref_camera_jpegquality_value_normal">normal</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pressão longa do botão de disparo</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo de explosão</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
@@ -228,7 +221,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_recordlocation_entry_on">Lig.</string>
   <string name="pref_camera_recordlocation_title">Guardar localização nas fotografias</string>
   <string name="pref_camera_referenceline_title">Linha de referência</string>
-  <string name="pref_camera_saturation_cm_test_default">4</string>
   <string name="pref_camera_saturation_title">Saturação</string>
   <string name="pref_camera_scenemode_entry_auto">Automático</string>
   <string name="pref_camera_scenemode_entry_backlight">Luz de fundo</string>
@@ -268,7 +260,6 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Função do botão de volume</string>
-  <string name="pref_camera_watermark_title">Marca de água com data</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Automático</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Nuvens</string>
@@ -293,14 +284,11 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_qc_focus_position_title">Focar</string>
   <string name="pref_scan_qrcode_title">Ler código QR</string>
   <string name="pref_setting_title">Definições</string>
-  <string name="pref_simple_hdr_default">off</string>
   <string name="pref_simple_hdr_entry_off">Desligado</string>
   <string name="pref_simple_hdr_entry_on">Ligado</string>
   <string name="pref_video_captrue_ability_title">Capacidade de captura</string>
   <string name="pref_video_focusmode_entry_auto">Tap</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
-  <string name="pref_video_focusmode_entryvalue_auto">auto</string>
-  <string name="pref_video_focusmode_entryvalue_continuous">continuous-video</string>
   <string name="pref_video_focusmode_title">Modo de focagem</string>
   <string name="pref_video_quality_default_cmcc_test">4</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
