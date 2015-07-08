@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="server_list_entries">
-        <item>测试服务器</item>
-        <item>线上服务器</item>
+        <item>Testar Servidor</item>
+        <item>Servidor on-line</item>
      </string-array>
      <string-array name="server_list_entries_value">
         <item>mv.mitvos.com</item>
         <item>mvideo.duaokanbox.com</item>
      </string-array>
      <string-array name="version_list_entries">
-        <item>稳定版</item>
-        <item>开发版</item>
-        <item>荣誉内测</item>
+        <item>Estável</item>
+        <item>Beta</item>
+        <item>Alfa</item>
      </string-array>
      <string-array name="version_list_entries_value">
         <item>90</item>
