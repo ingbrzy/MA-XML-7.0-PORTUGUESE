@@ -24,15 +24,15 @@ Antes de calibrar o telemóvel, pouse-o numa superfície plana."</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">A calibrar...</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone traseiro</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de feedback do altifalante de microfone central</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone no altifalante</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone para teste de comentário do alto-falante. 
 
 Desligue o telemóvel e fale para trás do microfone. Deve ouvir a voz no altifalante"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test. 
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de feedback de microfone frontal para altifalante. 
 
-Speak to front microphone , you should hear voice in speaker"</string>
+Fale para o microfone frontal , deve ouvir a sua voz no altifalante"</string>
   <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste funcionamento do microfone principal. 
 
 Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fale para o microfone. Deverá ouvir a sua voz no altifalante do telemóvel"</string>
@@ -284,12 +284,12 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
-  <string name="cit_tool_wifi_tx_bg_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
   <string name="cit_tool_wifi_tx_n_bandwidth">largura de banda:</string>
-  <string name="cit_tool_wifi_tx_n_chan">channel:</string>
+  <string name="cit_tool_wifi_tx_n_chan">canal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
