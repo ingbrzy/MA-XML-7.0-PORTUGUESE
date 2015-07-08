@@ -14,7 +14,7 @@
   <string name="default_receive_data_msg">A receber dados</string>
   <string name="default_send_data_msg">Enviando dados</string>
   <string name="default_setup_call_msg">A estabelecer a chamada</string>
-  <string name="default_tone_dialog_msg">Playing Tone</string>
+  <string name="default_tone_dialog_msg">A tocar Tom</string>
   <string name="digits">Dígitos (0 a 9, *, #, +)</string>
   <string name="disable_app">Desactivado</string>
   <string name="enable_app">Activado</string>
@@ -26,6 +26,6 @@
   <string name="stk_dialog_accept">Sim</string>
   <string name="stk_dialog_reject">Não</string>
   <string name="stk_dialog_title">Toolkit do SIM</string>
-  <string name="stk_intent_permission">Allow STK Intents</string>
+  <string name="stk_intent_permission">Permitir STK Intents</string>
   <string name="stk_no_service">Nenhum serviço disponível</string>
 </resources>
