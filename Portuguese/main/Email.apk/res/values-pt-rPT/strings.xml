@@ -72,8 +72,8 @@
   <string name="account_settings_ringtone">Som da notificação</string>
   <string name="account_settings_servers">Definições do servidor</string>
   <string name="account_settings_summary">Frequência de sincronização, notificações, etc.</string>
-  <string name="account_settings_sync_calendar_enable">Sincronizar agenda</string>
-  <string name="account_settings_sync_calendar_summary">Sincronizar eventos da agenda para esta conta</string>
+  <string name="account_settings_sync_calendar_enable">Sincronizar calendário</string>
+  <string name="account_settings_sync_calendar_summary">Sincronizar eventos do calendário para esta conta</string>
   <string name="account_settings_sync_contacts_enable">Sincronizar os contactos</string>
   <string name="account_settings_sync_contacts_summary">Sincronizar os contactos para esta conta</string>
   <string name="account_settings_sync_email_enable">Sincronizar email</string>
@@ -175,7 +175,7 @@
   <string name="account_setup_options_mail_window_default">Utilizar conta padrão</string>
   <string name="account_setup_options_mail_window_label">Definir data da sincronização</string>
   <string name="account_setup_options_notify_label">Notifique-me quando chegar email</string>
-  <string name="account_setup_options_sync_calendar_label">Sincronizar agenda desta conta</string>
+  <string name="account_setup_options_sync_calendar_label">Sincronizar calendário desta conta</string>
   <string name="account_setup_options_sync_contacts_label">Sincronizar contactos desta conta</string>
   <string name="account_setup_options_sync_email_label">Sincronizar email desta conta.</string>
   <string name="account_setup_options_title">Definições da conta</string>
@@ -396,7 +396,7 @@
   <string name="dialog_insufficient_space_for_single_account_on_internal">Não há espaço suficiente para %s.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
-  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos da agenda e outros dados.</string>
+  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados.</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -650,10 +650,10 @@ CC: %4$s
   <string name="message_details_title">Detalhes da mensagem</string>
   <string name="message_discarded">Mensagem rejeitada.</string>
   <string name="message_invite_accept">Sim</string>
-  <string name="message_invite_calendar_view">Ver na Agenda</string>
+  <string name="message_invite_calendar_view">Ver no Calendário</string>
   <string name="message_invite_decline">Não</string>
   <string name="message_invite_tentative">Talvez</string>
-  <string name="message_invite_title">Convite da Agenda</string>
+  <string name="message_invite_title">Convite do Calendário</string>
   <string name="message_saved">Mensagem guardada como rascunho.</string>
   <string name="message_type_name">mensagem</string>
   <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
@@ -756,7 +756,7 @@ CC: %4$s
   <string name="policy_app_blacklist">Desactivar aplicações especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicações especificadas</string>
   <string name="policy_bluetooth_restricted">Restringir o uso de Bluetooth</string>
-  <string name="policy_calendar_age">Limitar o número de eventos da agenda sincronizados</string>
+  <string name="policy_calendar_age">Limitar o número de eventos do calendário sincronizados</string>
   <string name="policy_dont_allow_attachments">Não permitir anexos</string>
   <string name="policy_dont_allow_browser">Não permitir navegadores</string>
   <string name="policy_dont_allow_camera">Não permitir a utilização da câmara do dispositivo</string>
