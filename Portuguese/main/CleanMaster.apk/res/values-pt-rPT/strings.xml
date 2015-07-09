@@ -47,7 +47,7 @@
     <string name="button_text_add_to_white_list">Excepções</string>
     <string name="button_text_install">Install</string>
     <string name="empty_title_installed_apps">vazio</string>
-    <string name="button_text_backup_uninstall">copiar e desinstalar</string>
+    <string name="button_text_backup_uninstall">Copiar e desinstalar</string>
     <string name="button_text_uninstall_only">Desinstalar</string>
     <string name="empty_title_large_files">vazio</string>
     <string name="button_text_uninstall">Desinstalar</string>
@@ -130,8 +130,8 @@
     <string name="clean_content_three">Saltar %s</string>
     <string name="clean_content_all">Tudo</string>
     <string name="hints_garbage_cleanup_result_safe">Tudo parece bem</string>
-    <string name="hints_garbage_cleanup_result_risk">Deseja limpar o lixo</string>
-    <string name="hints_garbage_cleanup_result_danger">Deseja limpar o lixo</string>
+    <string name="hints_garbage_cleanup_result_risk">Limpar o lixo agora</string>
+    <string name="hints_garbage_cleanup_result_danger">Limpar o lixo agora</string>
     <string name="toast_garbage_list_empty">Tudo parece bem!</string>
     <string name="hints_quick_cleanning">A limpar…</string>
     <string name="hints_finish_quick_scan">Terminou a verificação</string>
