@@ -3034,4 +3034,10 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="choose_smartcover_type">Seleccione o tipo de capa</string>
     <string name="normal_smartcover_title">Capa com frente opaca</string>
     <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
+    <string name="background_location_control_summary">Permitir ou negar as aplicações de obterem a localização do seu dispositivo em segundo plano</string>
+    <string name="background_location_control_title">Acesso à localização em segundo plano</string>
+    <string name="background_location_deselect_apps">Desmarcar todos</string>
+    <string name="background_location_requests_summary">Permitir que as aplicações usem o serviço de localização quando não estão a ser utilizadas</string>
+    <string name="background_location_requests_title">Localização em segundo plano</string>
+    <string name="background_location_select_apps">Selecionar todos</string>
 </resources>
