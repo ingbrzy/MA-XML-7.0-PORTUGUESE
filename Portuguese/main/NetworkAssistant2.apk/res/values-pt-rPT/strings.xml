@@ -68,7 +68,7 @@
   <string name="datausage_purchase_order_failure">A compra falhou</string>
   <string name="datausage_purchase_order_failure_cause">A sua compra falhou porque…</string>
   <string name="datausage_purchase_order_history">Histórico</string>
-  <string name="datausage_purchase_ordering">A compra…</string>
+  <string name="datausage_purchase_ordering">A comprar…</string>
   <string name="datausage_purchase_pay_captcha_hint">Introduza o código que receber aqui</string>
   <string name="datausage_purchase_pay_captcha_tips">Depois de receber o código de verificação, introduza-o na caixa acima e pressione Comprar \" para concluir a compra. Observe que o código só é válido por 10 minutos.</string>
   <string name="datausage_purchase_pay_confirm">Comprar</string>
@@ -266,7 +266,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="permission_exception_summary">Algumas aplicações não tem permissão para ligar à internet</string>
-  <string name="permission_exception_title">View network permissions</string>
+  <string name="permission_exception_title">Ver as permissões de rede</string>
   <string name="permit_running_network">Permitir dados em segundo plano</string>
   <string name="person_hotpot">Hotspots móveis</string>
   <string name="pkg_traffic">Definir limite da utilização de dados</string>
@@ -333,7 +333,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_title_traffic_speed_state">Mostrar a velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar notificações da utilização de dados</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Reduzir dados móveis para novas aplicações</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automatically activate Data saver for newly installed apps for which data usage can be significantly reduced</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Activar Economizador de dados automaticamente para novas aplicações instaladas que possam reduzir a utilização de dados drásticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Se activar o Economizador de Dados irá afectar a minha privacidade? &lt;/b>&lt;br />&lt;br />&lt;br />Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br />&lt;br />&lt;br />&lt;b>2. Porque não está o  Economizador de Dados a funcionar? &lt;/b>&lt;br />&lt;br /> O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
@@ -505,7 +505,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_ratio_low">"Não é possível uma drástica reduzção de dados"</string>
   <string name="traffic_saving_recommanded_close">Desligar</string>
   <string name="traffic_saving_recommanded_open">Ligar</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatically activate Data saver to reduce apps' mobile data usage.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar Economizador de Dados automaticamente para reduzir a utilização de dados das aplicações.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Se tiver um plano de dados mensal, lembre-se de desligar o Economizador de dados para aplicações individuais para evitar gastos adicionais na sua operadora.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activar</string>
   <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_title">Economizador de dados</string>
