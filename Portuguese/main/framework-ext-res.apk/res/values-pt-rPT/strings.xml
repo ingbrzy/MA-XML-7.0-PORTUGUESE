@@ -23,6 +23,8 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="handy_mode_title">Modo de uma mão</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espaço</string>
+  <string name="location_usage_restricted_body">Toque para remover restrição.</string>
+  <string name="location_usage_restricted_title">Localização em segundo plano restrita</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão completo</string>
@@ -33,6 +35,8 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="paste">Colar</string>
   <string name="perm_send_push_dspt">Permitir mensagens Mi push</string>
   <string name="perm_send_push_lab">Enviar mensagens push</string>
+  <string name="permdesc_manageLocationPolicy">Permitir que a aplicação gira as políticas de localização e definir regras específicas da aplicação.</string>
+  <string name="permlab_manageLocationPolicy">gerir política de localização</string>
   <string name="reboot_confirm_title">O seu telefone vai reiniciar.</string>
   <string name="reboot_progress">A reiniciar…</string>
   <string name="replace">Substituir</string>
