@@ -86,9 +86,9 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Aplicação pode activar o Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s aplicações podem activar o Bluetooth</string>
-  <string name="HIPS_Perm_Calendar">Agenda</string>
-  <string name="HIPS_Perm_Calendar_Desc">Aplicação pode visualizar a sua agenda</string>
-  <string name="HIPS_Perm_Calendar_Hint">%1$s aplicações podem visualizar sua agenda</string>
+  <string name="HIPS_Perm_Calendar">Calendário</string>
+  <string name="HIPS_Perm_Calendar_Desc">Aplicação pode visualizar o seu calendário</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s aplicações podem visualizar o seu calendário</string>
   <string name="HIPS_Perm_Call">Chamadas</string>
   <string name="HIPS_Perm_CallLog">Histórico das chamadas</string>
   <string name="HIPS_Perm_CallLog_Access">Aplicação pode aceder ao seu histórico de chamadas</string>
