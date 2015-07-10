@@ -139,7 +139,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para relatar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo.</string>
   <string name="lock_screen_setting_summary">Mostrar notificação após utilizar 100KB com o ecrã desligado</string>
   <string name="lock_screen_traffic_guide_notification_summary">Pressione para gerir a utilização de dados.</string>
-  <string name="lock_screen_traffic_guide_notification_title">%s usado com o ecrã de bloqueio</string>
+  <string name="lock_screen_traffic_guide_notification_title">%s utilizados no ecrã de bloqueio</string>
   <string name="lock_screen_traffic_notify_body">Bloqueado %2$s em %1$s | Utilizados %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Comprar dados móveis</string>
   <string name="lock_screen_traffic_warn_title">Notificação com o ecrã desligado</string>
