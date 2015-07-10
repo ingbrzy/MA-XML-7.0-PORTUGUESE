@@ -36,11 +36,11 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="cloud_back_up_interval_long">7 dias</string>
   <string name="cloud_back_up_interval_short">1 dia</string>
   <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue-se à rede e tente novamente."</string>
-  <string name="cloud_back_up_open_info">"Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s Quando ligado á rede
+  <string name="cloud_back_up_open_info">"Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s quando ligado á rede
 Ultima cópia de segurança: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s Quando ligado á rede</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia de segurança de dados e disposição do ecrã inicial a cada %1$s quando ligado á rede</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
-  <string name="cloud_back_up_title">Cópia de segurança do ecrã inicial</string>
+  <string name="cloud_back_up_title">Cópia do ecrã inicial</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança utilizando Nuvem Mi</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
   <string name="cloud_space_upgrade_message">Pressione para adicionar %s GB à sua Nuvem</string>
@@ -238,10 +238,10 @@ Pode a qualquer momento desactivar esta função nas Definições."</string>
   <string name="mx_dspt_provision_privacy">"Este serviço pode exigir o seu número de telefone. A operadora poderá cobrar um SMS utilizado para activar este serviço.
 
 Este serviço encripta e envia o ID do dispositivo para os servidores MI."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Este requesito necessita do seu numero de telefone. Your carrier may charge for two SMS messages used to activate this feature.
+  <string name="mx_dspt_provision_privacy_2_sim">"Este serviço necessita do seu número de telefone. A sua operadora pode cobrar por dois SMS para activar este serviço.
 
-This feature encrypts and sends your device's ID to Mi's servers."</string>
-  <string name="mx_dspt_provision_with_voip">Call other MIUI users for free using your Internet connection. You can turn this feature on or off anytime in Settings.</string>
+Este requisito encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
+  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
   <string name="next">Seguinte</string>
@@ -284,7 +284,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas uma ligação Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s adicionado</string>
   <string name="sync_dspt">Activar sincronização</string>
-  <string name="sync_dspt_entrance_provision">Sync your photos, contacts, call history, and messages across all your devices. Access the things you sync from any browser at %s.</string>
+  <string name="sync_dspt_entrance_provision"> Sincronize fotografias, contactos, histórico de chamadas, e mensagens por todos os seus dispositivos Mi. Aceda às coisas que sincroniza de qualquer navegador em %s.</string>
   <string name="sync_dspt_entrance_provision_2">Saber mais</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Não utilizar"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplicações integradas precisa My Cloud para fazer cópia de segurança de suas fotos, contactos, notas e muito mais. Nuvem Mi é livre e pronto para usar.."</string>
