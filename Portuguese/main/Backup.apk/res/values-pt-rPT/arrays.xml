@@ -13,17 +13,17 @@
      <string-array name="cloud_account_data">
         <item>Contactos</item>
         <item>Configurações de Wi-Fi</item>
-        <item>Anotações</item>
+        <item>Notas</item>
      </string-array>
      <string-array name="cloud_data_label">
         <item>Contactos</item>
-        <item>Registro de chamadas</item>
+        <item>Registo de chamadas</item>
         <item>Mensagens</item>
         <item>Configurações de Wi-Fi</item>
-        <item>Anotações</item>
+        <item>Notas</item>
      </string-array>
      <string-array name="cloud_sim_data">
-        <item>Registro de chamadas</item>
+        <item>Registo de chamadas</item>
         <item>Mensagens</item>
      </string-array>
      <string-array name="font_size_scale">
@@ -34,14 +34,14 @@
      </string-array>
      <string-array name="system_data_label">
         <item>Contactos</item>
-        <item>Registro de chamadas</item>
+        <item>Registo de chamadas</item>
         <item>Mensagens</item>
         <item>MMS</item>
         <item>Configurações de sistema</item>
         <item>Configurações de Wi-Fi</item>
         <item>Disposição do ecrã inicial</item>
         <item>Configurações do alarme</item>
-        <item>Anotações</item>
+        <item>Notas</item>
         <item>Listas de bloqueio</item>
         <item>Contas</item>
      </string-array>
@@ -49,8 +49,8 @@
         <item>Navegador</item>
         <item>Permissões</item>
         <item>Câmara</item>
-        <item>Uso de dados</item>
-        <item>Dados do clima</item>
-        <item>Clima</item>
+        <item>Utilização de dados</item>
+        <item>Dados do Tempo</item>
+        <item>Tempo</item>
      </string-array>
 </resources>
