@@ -24,7 +24,7 @@
   <string name="auto_backup_user_data">Aplicações</string>
   <string name="backup">Cópia de segurança</string>
   <string name="backup_data">Escolha os ficheiros a copiar</string>
-  <string name="backup_delete">Apagar:</string>
+  <string name="backup_delete">Eliminar:</string>
   <string name="backup_empty">Sem cópias</string>
   <string name="backup_empty_info">Faça cópia de segurança dos seus dados, definições e aplicações</string>
   <string name="backup_error">Não é possível fazer cópia</string>
@@ -40,7 +40,7 @@
   <string name="backup_recently">" (cópia mais recente) "</string>
   <string name="backup_report">Ver detalhes</string>
   <string name="backup_update">Actualizar</string>
-  <string name="batch_delete_backup_confirm">Apagar %d cópias?</string>
+  <string name="batch_delete_backup_confirm">Eliminar %d cópias?</string>
   <string name="button_backup">Cópia de segurança</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_continue">Continuar</string>
@@ -74,15 +74,15 @@
   <string name="data_item_desc">Dados</string>
   <string name="data_no_enough_space_message">Não há espaço suficiente na memória interna do seu telemóvel</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-  <string name="delete">Apagar</string>
-  <string name="delete_backup_process">A apagar…</string>
+  <string name="delete">Eliminar</string>
+  <string name="delete_backup_process">A eliminar…</string>
   <string name="delete_failed_backup_confirm">Esta cópia tem erros.</string>
   <string name="deselect_all">Desmarcar todos</string>
   <string name="digit_percent">%</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="disable_encrypt_title">Encriptação desactivada</string>
   <string name="enable_encrypt">Pressione para encriptar</string>
-  <string name="enable_encrypt_fail">Falhou a encriptação</string>
+  <string name="enable_encrypt_fail">Erro na encriptação</string>
   <string name="enable_encrypt_indicator">Pressione para encriptar</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">Inicie sessão na sua conta Mi para aceder a cópias encriptadas.</string>
@@ -97,7 +97,7 @@
   <string name="err_version_unsupported">A versão não é suportada.</string>
   <string name="every_day">Todos os dias</string>
   <string name="exchange_account">Conta Exchange</string>
-  <string name="fail">Falhou</string>
+  <string name="fail">Erro</string>
   <string name="feature_title_account">Conta</string>
   <string name="feature_title_call_log">Histórico das chamadas</string>
   <string name="feature_title_mms">MMS</string>
@@ -120,7 +120,7 @@
   <string name="local_select_account_contact">Contas e contactos</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
-  <string name="menu_patch_delete">Apagar cópias</string>
+  <string name="menu_patch_delete">Eliminar cópias</string>
   <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
   <string name="miliao_account_login">Inicio de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
@@ -160,7 +160,7 @@
   <string name="restore_report">Detalhes do restauro</string>
   <string name="restore_telephony_hit">Restaurar irá reiniciar a aplicação Telefone.</string>
   <string name="retry">Tentar novamente</string>
-  <string name="reverse_all">Apagar todos</string>
+  <string name="reverse_all">Eliminar todos</string>
   <string name="router_backup_hint">Mantenha o seu dispositivo ligado</string>
   <string name="sc_bad_request">Pedido inválido</string>
   <string name="sc_internal_server_error">Erro interno do servidor.</string>
@@ -175,7 +175,7 @@
   <string name="sdcard_no_enough_space">Não há espaço no cartão SD.</string>
   <string name="sdcard_no_enough_space_message">Não há espaço suficiente no armazenamento</string>
   <string name="sdcard_unmounted">Insira agora o seu Cartão SD</string>
-  <string name="see_backup_files_on_router">Ver cópias no Ruter Mi %s</string>
+  <string name="see_backup_files_on_router">Ver cópias no Router Mi %s</string>
   <string name="select_all">Seleccionar todos</string>
   <string name="select_backup_item">Escolha os ficheiros</string>
   <string name="service_stoped">O serviço foi interrompido</string>
@@ -204,7 +204,7 @@
   <string name="task_canceled_all_local">Cancelar tarefa</string>
   <string name="task_canceled_local">A tarefa %s foi cancelada</string>
   <string name="task_cloud_backup_cancel_dialog">A cópia ainda não terminou. Deseja cancelar?</string>
-  <string name="task_failed">Falha</string>
+  <string name="task_failed">Erro</string>
   <string name="task_failed_all_local">Não é possível realizar a cópia de de segurança</string>
   <string name="task_failed_local">A tarefa %s não foi concluída</string>
   <string name="task_finished">A cópia de segurança foi concluída</string>
@@ -215,7 +215,7 @@
   <string name="task_progress">Progresso</string>
   <string name="task_restore_cancel_dialog">Cancelar agora pode resultar em perda de dados.</string>
   <string name="task_restore_cancel_progress">A cancelar…</string>
-  <string name="task_restore_finished_local">Restauro concluído</string>
+  <string name="task_restore_finished_local">Restauro concluído </string>
   <string name="task_restore_none">Nada a restaurar</string>
   <string name="task_running_backup_dialog">Cópia em progresso. Pressione OK para ver.</string>
   <string name="task_running_backup_hint">O serviço está a ser executado em segundo plano.</string>
