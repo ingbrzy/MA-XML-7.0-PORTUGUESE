@@ -87,7 +87,7 @@
   <string name="account_setup_account_type_title">Configuração da conta</string>
   <string name="account_setup_address_label">Email</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Verifique se as informações de sua conta estão correctas.</string>
-  <string name="account_setup_autodiscover_dlg_authfail_title">Problema na configuração</string>
+  <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar conta</string>
   <string name="account_setup_basics_email_label">Endereço de email</string>
   <string name="account_setup_basics_headline">Conta de email</string>
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
@@ -116,7 +116,7 @@
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">O seu endereço foi bloqueado pelo bloqueio do dispositivo</string>
+  <string name="account_setup_failed_dlg_device_locked">Não foi possivel iniciar sessão. A sua conta foi bloqueada.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Editar detalhes</string>
   <string name="account_setup_failed_dlg_server_message">Não é possível ligar ao servidor.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível ligar ao servidor.
@@ -1004,7 +1004,7 @@ CC: %4$s
   <string name="unread_from_someone">Emails não lidos de %s</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
-  <string name="unzip_file_failed">Falha ao descompactar！</string>
+  <string name="unzip_file_failed">Não foi possível descompactar！</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">Última actualização em %1$s</string>
   <string name="updated_just_now">Actualizado agora mesmo</string>
@@ -1040,4 +1040,17 @@ Pressione "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar defin
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Enviar registo usando a a ligação de dados móveis? Se ultrapassar o limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
+  <string name="contact_edit_set_black_list_from">Eliminar todos os emails deste remetente</string>
+  <string name="contact_edit_set_black_list_receive">Eliminar todos os emails deste remetente (normalmente emails de grupo)</string>
+  <string name="contact_edit_set_black_list_receive_summary">Listas de para/Cc que apenas contenham este remetente</string>
+  <string name="push_wps_better_confirm_download">Transferir</string>
+  <string name="push_wps_better_confirm_exit">Outras aplicações para abrir</string>
+  <string name="push_wps_better_confirm_message">O WPS Office dá melhor suporte a este tipo de anexo, para que o trabalho seja mais eficiente</string>
+  <string name="push_wps_better_confirm_noshow_hint">Não mostrar novamente</string>
+  <string name="push_wps_better_confirm_title">WPS Office recomendado</string>
+  <string name="push_wps_confirm_cancel">Cancelar</string>
+  <string name="push_wps_confirm_download">Transferir</string>
+  <string name="push_wps_confirm_message">Nenhuma aplicação consegue abrir este anexo, recomendamos a utilização do WPS Office</string>
+  <string name="push_wps_confirm_title">WPS Office recomendado</string>
+  <string name="push_wps_no_response_app">A aplicação não está a responder</string>
 </resources>
