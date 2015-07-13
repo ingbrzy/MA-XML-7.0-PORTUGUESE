@@ -523,7 +523,7 @@ com os amigos"</string>
   <string name="confirm_download">Tem que transferir %s.</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível.</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
-  <string name="confirm_face">Match</string>
+  <string name="confirm_face">Corresponder</string>
   <string name="confirm_left_photo_will_move_in">%s está em todas as fotos restantes?</string>
   <string name="confirm_left_photo_will_move_out">"%s não está em nenhuma das fotos restantes?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Juntar este &amp;#225;lbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -699,7 +699,7 @@ com os amigos"</string>
   <string name="impunity_declaration_settings">Mostrar notificação da rede</string>
   <string name="impunity_declaration_summary">Mostrar aviso de rede cada vez que a aplicação Galeria inicia</string>
   <string name="impunity_declaration_title">Notícia da rede</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">To hide a photo, press &amp; hold it, then select \"Add to hidden album\" from the menu in the lower left corner.</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Para esconder uma foto, pressione &amp; segure-a, dpois selecione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
   <string name="initial_cloud_text">Armazenar e exibir suas fotografias em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
@@ -721,10 +721,10 @@ com os amigos"</string>
   <string name="kick_sharer">Eliminar partilha utilizada</string>
   <string name="kick_sharer_failed">Impossível remover utilizador</string>
   <string name="kick_sharer_successfully">Utilizador removido</string>
-  <string name="last_chinese_new_year">Last Chinese New Year</string>
-  <string name="last_new_year">Last New Years</string>
-  <string name="last_valentine_day">Last Valentine Day</string>
-  <string name="last_year_today">1 year ago</string>
+  <string name="last_chinese_new_year">Último Ano Novo Chinês</string>
+  <string name="last_new_year">Último Ano Novo</string>
+  <string name="last_valentine_day">Último dia dos Namorados</string>
+  <string name="last_year_today">1 ano atrás</string>
   <string name="loading">A carregar…</string>
   <string name="loading_failure">Impossível carregar fotografia</string>
   <string name="loading_image">A transferir imagem…</string>
@@ -773,7 +773,7 @@ com os amigos"</string>
   <string name="moman_camera_icon">Caricatura de Câmara Moman</string>
   <string name="moman_camera_picture">Fotos de Câmara Moman</string>
   <string name="more">Mais</string>
-  <string name="mosaic">Mosaic</string>
+  <string name="mosaic">Mosaico</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover para</string>
   <string name="mtgif">MTGIF</string>
@@ -830,7 +830,7 @@ o dispositivo"</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Definições adicionais</string>
   <string name="owner_album_subtitle">Partilhar com %1$s utilizadores</string>
-  <string name="paint_brush">Paint brush</string>
+  <string name="paint_brush">Pincel</string>
   <string name="paint_cancel_context">Não guardar as alterações efectuadas na foto?</string>
   <string name="paint_cancel_title">Abandonar alterações</string>
   <string name="paint_crop_cancel_context">Deseja guardar o resultado recortado?</string>
@@ -960,7 +960,7 @@ o dispositivo"</string>
   <string name="share_by_email_successfully">Partilhado %1$s</string>
   <string name="share_current_album">Partilhar este album</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja em %2$s</string>
-  <string name="share_title_more">More</string>
+  <string name="share_title_more">Mais</string>
   <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de utilizadores.</string>
   <string name="sharpen">Escurecer</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
@@ -1023,7 +1023,7 @@ o dispositivo"</string>
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (adicionou actualmente %1$s)</string>
   <string name="try_to_send">Enviar</string>
-  <string name="ubifocus_data_invalid">Some of the data for this image is invalid</string>
+  <string name="ubifocus_data_invalid">Alguns dados desta imagem são inválidos</string>
   <string name="ubifocus_data_missing">Estão em falta alguns dados desta imagem</string>
   <string name="ubifocus_guide_text">Pressione e segure para recentrar</string>
   <string name="ubifocus_map_error">Alguns dados para esta imagem contém erros</string>

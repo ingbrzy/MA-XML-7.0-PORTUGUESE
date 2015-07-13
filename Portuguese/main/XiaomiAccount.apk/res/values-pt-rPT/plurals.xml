@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Actualizados %s contactos</item>
+        <item quantity="one">Actualizado %s contacto</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d contactos</item>
+        <item quantity="one">%d contacto</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d mensagens</item>
+        <item quantity="one">%d mensagem</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d notas</item>
+        <item quantity="one">%d nota</item>
+    </plurals>
+</resources>

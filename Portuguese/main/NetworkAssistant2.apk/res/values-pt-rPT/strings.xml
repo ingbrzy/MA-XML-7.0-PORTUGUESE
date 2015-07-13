@@ -187,7 +187,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir a utilização de dados</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados móveis</string>
-  <string name="mi_service_framework">Mi Service Framework</string>
+  <string name="mi_service_framework">Framework de serviços Xiaomi</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Detalhes do Framework</string>
   <string name="mian_page_primary_txt">Internacional roaming</string>
@@ -458,7 +458,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_correction_start_correction">Conversar com os servidores da operadora…</string>
   <string name="traffic_correction_start_correction_failed">A solicitação falhou, por favor, verifique as configurações da operadora</string>
   <string name="traffic_correction_success">Utilização de dados actualizado</string>
-  <string name="traffic_correction_success_notify_message">Tap to view details.</string>
+  <string name="traffic_correction_success_notify_message">Toque para ver detalhes</string>
   <string name="traffic_limit_error_alert_body">Segundo a operadora tem %1$s até à renovação do plano de dados. É mais que o limite de %2$s que definiu manualmente.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Repor limite</string>
