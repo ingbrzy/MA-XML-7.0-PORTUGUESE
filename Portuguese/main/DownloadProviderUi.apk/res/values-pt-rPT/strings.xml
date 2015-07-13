@@ -7,7 +7,7 @@
   <string name="all_downloads">Todas as transferências</string>
   <string name="all_fileter">TODOS</string>
   <string name="all_the_internet">Todas as redes</string>
-  <string name="apk_filter">APLICAÇÕES</string>
+  <string name="apk_filter">Apk</string>
   <string name="app_downloads">%s transferências</string>
   <string name="app_label">Transferências</string>
   <string name="auth_activity_title">Conta Xunlei</string>
@@ -40,7 +40,7 @@
   <string name="dialog_title_queued_body">O ficheiro ainda não está disponível</string>
   <string name="disable">Desactivar</string>
   <string name="display_expire_netiv1">Neste mês</string>
-  <string name="doc_filter">DOCUMENTOS</string>
+  <string name="doc_filter">Documentos</string>
   <string name="download_complete">Concluído</string>
   <string name="download_error">Falhou</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
@@ -85,7 +85,7 @@
   <string name="high_speed_channel">Canal de alta velocidade (pago)</string>
   <string name="immediately_a_renewal">Renovar de imediato</string>
   <string name="keep_queued_download">Manter</string>
-  <string name="media_filter">MÉDIA</string>
+  <string name="media_filter">Multimédia</string>
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausar todas</string>
   <string name="menu_all_task_start">Iniciar todas</string>
@@ -102,8 +102,8 @@
   <string name="open_download">Abrir</string>
   <string name="open_xunlei_speed_service">Iniciar serviço Xunlei de alta velocidade</string>
   <string name="original_price">Preço</string>
-  <string name="other_filter">OUTROS</string>
-  <string name="package_filter">PACOTES</string>
+  <string name="other_filter">Outros</string>
+  <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausa</string>
   <string name="paused_by_app">Pausado</string>
   <string name="paused_insufficient_space">À espera de espaço suficiente</string>
@@ -159,4 +159,8 @@
   <string name="xunlei_member_one_month">1 Mês</string>
   <string name="xunlei_speed_service">Xunlei optimiza o serviço</string>
   <string name="xunlei_switch">Optimizador de transferências Xunlei</string>
+  <string name="download">Transferências</string>
+  <string name="downloaded_empty">Sem conteúdo transferido</string>
+  <string name="downloading_empty">Sem conteúdo a transferir</string>
+  <string name="show_more">Mais(%s)</string>
 </resources>

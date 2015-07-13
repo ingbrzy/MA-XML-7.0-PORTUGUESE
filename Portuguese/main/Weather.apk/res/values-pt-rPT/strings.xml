@@ -45,8 +45,8 @@
   <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT %1$s</string>
   <string name="edit_city">Editar</string>
-  <string name="first_start_network_msg">Para obter informações sobre o clima, tem que ligar à Internet.</string>
-  <string name="first_start_network_title">Aviso de ligação</string>
+  <string name="first_start_network_msg">Esta aplicação necessita de ligar à internet e aceder à sua localização para funcionar normalmente.</string>
+  <string name="first_start_network_title">Conexão à Internet e Localização</string>
   <string name="gps_hint">Local actual</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="loading_weather">A carregar…</string>
@@ -99,4 +99,6 @@
   <string name="weather_unit_with_c">℃</string>
   <string name="weatherchina_default_url">http://weather.com.cn</string>
   <string name="weatherchina_tag">weather.com.cn</string>
+  <string name="button_confirm">Permitir</string>
+  <string name="button_exit">Sair</string>
 </resources>

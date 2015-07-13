@@ -141,8 +141,8 @@
   <string name="mark_number_harass">Assédio</string>
   <string name="mark_number_info">Por vezes estas chamadas podem ser úteis (ex: Quando está à procura de um apartamento). Bloqueie apenas os números dos quais não quer receber chamadas.</string>
   <string name="mark_number_sell">Telemarket</string>
-  <string name="mark_number_setting_guide_content1">Bloquear chamadas de números relatados?</string>
-  <string name="mark_number_setting_guide_content2">Bloquear chamadas de números que são relatados por outros utilizadores automaticamente</string>
+  <string name="mark_number_setting_guide_content1">Bloquear chamadas de números reportados?</string>
+  <string name="mark_number_setting_guide_content2">Bloquear chamadas de números que são reportados por outros utilizadores automaticamente</string>
   <string name="mark_number_setting_guide_content3">Relatou um número como %1$s. Deseja bloquear chamadas de números reportados como %2$s?</string>
   <string name="mark_number_setting_guide_forward">Definições da lista de bloqueio</string>
   <string name="mark_number_setting_guide_title">Bloquear os números divulgados</string>
@@ -221,8 +221,8 @@
   <string name="st_antispam_mode_only_contacts_sum">Permitir apenas chamadas e mensagens de contactos</string>
   <string name="st_antispam_mode_only_whitelist">Permitir apenas excepções</string>
   <string name="st_antispam_mode_only_whitelist_sum">Permitir apenas chamadas e mensagens de números da lista de excepções</string>  
-  <string name="st_antispam_mode_smart">Números relatados</string>
-  <string name="st_antispam_mode_smart_sum">Números que adicionou manualmente e números que têm sido relatados por outros utilizadores</string>
+  <string name="st_antispam_mode_smart">Números reportados</string>
+  <string name="st_antispam_mode_smart_sum">Números que adicionou manualmente e números que têm sido reportados por outros utilizadores</string>
   <string name="st_antispam_notification_sum">Mostrar notificação quando a chamada ou mensagem é bloqueada</string>
   <string name="st_antispam_title_anoy_incoming">Chamadas desconhecidas</string>
   <string name="st_antispam_title_anoy_sms">Mensagens de desconhecidos</string>
@@ -317,4 +317,12 @@
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com prefixo à lista de excepções</string>
   <string name="wl_no_whitelist">Sem excepções</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="mark_agent_time_setting">Bloquear números reportados como intermediários mais do que uma vez</string>
+  <string name="mark_fraud_time_setting">Bloquear números reportados como fraudulentos mais do que uma vez</string>
+  <string name="mark_harass_time_setting">Bloquear números reportados como assédio mais do que uma vez</string>
+  <string name="mark_sell_time_setting">Bloquear números reportados como vendas mais do que uma vez</string>
+  <string name="mark_time_setting_dialog_title">Definições de tempos reportados</string>
+  <string name="mark_time_text">%d</string>
+  <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada da mesma pessoa dentro de 3 minutos.</string>
+  <string name="repeated_marked_number_title">Não bloquear chamadas reportadas repetidas</string>
 </resources>
