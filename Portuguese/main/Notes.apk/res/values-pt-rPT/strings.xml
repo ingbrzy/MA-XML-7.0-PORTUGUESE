@@ -22,7 +22,7 @@
     <string name="note_link_other">Abrir mapa</string>
     <string name="note_link_select">Seleccione o texto</string>
     <string name="menu_create_folder">Nova Pasta</string>
-    <string name="menu_delete">Apagar</string>
+    <string name="menu_delete">Eliminar</string>
     <string name="menu_folders">Pastas</string>
     <string name="menu_stick">Afixar</string>
     <string name="menu_unstick">Desafixar</string>
@@ -35,10 +35,10 @@
     <string name="menu_send_weibo">Enviar para Weibo</string>
     <string name="menu_send_wechat">Enviar para WeChat</string>
     <string name="info_note_enter_desktop">Adicionada no Ecrã Principal</string>
-    <string name="alert_message_delete_notes">Apagar %1$s?</string>
-    <string name="alert_message_delete_folders">Apagar %1$s?</string>
-    <string name="alert_message_delete_folders_notes">Apagar %1$s e %2$s?</string>
-    <string name="alert_message_delete_note">Apagar esta nota?</string>
+    <string name="alert_message_delete_notes">Eliminar %1$s?</string>
+    <string name="alert_message_delete_folders">Eliminar %1$s?</string>
+    <string name="alert_message_delete_folders_notes">Eliminar %1$s e %2$s?</string>
+    <string name="alert_message_delete_note">Eliminar esta nota?</string>
     <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
     <string name="format_move_notes_out_folder">Movida %1$s fora</string>
     <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>

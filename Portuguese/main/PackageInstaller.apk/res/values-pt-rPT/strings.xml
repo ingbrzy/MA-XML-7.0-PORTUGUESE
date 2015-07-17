@@ -38,7 +38,7 @@
     <string name="virus_scan_install"><u>Continuar a instalação</u></string>
     <string name="virus_scan_is_virus">Esta aplicação contém vírus.</string>
     <string name="virus_scan_is_risk">A aplicação é de risco, para a segurança do seu dispositivo.</string>
-    <string name="virus_scan_clear">Apagar</string>
+    <string name="virus_scan_clear">Eliminar</string>
     <string name="virus_scan_caller_unknown">Desconhecido</string>
     <string name="lift_ban_once">Permitir uma vez</string>
     <string name="dlg_appstore_notice">Veja esta aplicação nas nossas oficiais &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
@@ -97,11 +97,11 @@ Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="Parse_error_dlg_text">Ocorreu um problema ao processar este pacote.</string>
     <string name="activity_package_delete_confirm_title">Aviso importante</string>
     <string name="button_text_cancel">Cancelar</string>
-    <string name="button_text_delete">Apagar</string>
+    <string name="button_text_delete">Eliminar</string>
     <string name="button_text_next_step_timer">Seguinte (%d)</string>
     <string name="button_text_next_step">Next</string>
-    <string name="button_text_delete_timer">Apagar (%d)</string>
-    <string name="package_delete_confirm_step_1">Apagar %s?</string>
-    <string name="package_delete_confirm_step_2">Se apagar esta aplicação o sistema pode tornar-se instável.</string>
-    <string name="package_delete_confirm_step_3">Se apagar a aplicação não a poderá utilizar no futuro.</string>
+    <string name="button_text_delete_timer">Eliminar (%d)</string>
+    <string name="package_delete_confirm_step_1">Eliminar %s?</string>
+    <string name="package_delete_confirm_step_2">Se eliminar esta aplicação o sistema pode tornar-se instável.</string>
+    <string name="package_delete_confirm_step_3">Se eliminar a aplicação não a poderá utilizar no futuro.</string>
 </resources>

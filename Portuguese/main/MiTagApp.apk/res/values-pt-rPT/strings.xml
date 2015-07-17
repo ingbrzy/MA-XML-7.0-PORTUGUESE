@@ -67,12 +67,12 @@ toque com a parte de trás do seu telefone"</string>
   <string name="email_to">Para</string>
   <string name="empty_tag">Esta etiqueta está em branco</string>
   <string name="enable_wifi">Rede sem fios</string>
-  <string name="erase_pon_pon_tile">Apagar etiqueta</string>
+  <string name="erase_pon_pon_tile">Eliminar etiqueta</string>
   <string name="erase_success">Apagada</string>
   <string name="erasing">Apagando…</string>
-  <string name="err_fail_to_erase">Falha ao apagar etiqueta</string>
-  <string name="err_fail_to_read">Falha ao ler etiqueta</string>
-  <string name="err_fail_to_write">Falha ao escrever  etiqueta</string>
+  <string name="err_fail_to_erase">Erro ao apagar etiqueta</string>
+  <string name="err_fail_to_read">Erro ao ler etiqueta</string>
+  <string name="err_fail_to_write">Erro ao escrever  etiqueta</string>
   <string name="err_nfc_off">Ligar o NFC em definições &gt; Redes &amp; redes móveis &gt; Mais &gt; NFC</string>
   <string name="err_no_enough_space">Sem espaço suficiente na etiqueta</string>
   <string name="err_no_nfc">"O telefone não suporta NFC. Esta aplicação  pode não trabalhar."</string>
@@ -81,10 +81,10 @@ toque com a parte de trás do seu telefone"</string>
   <string name="err_tag_protected">Esta etiqueta é protegido por palavra-passe. Por favor, digite a palavra-passe correta.</string>
   <string name="err_tag_read_only">"Não pode escrever nesta etiqueta"</string>
   <string name="error_password">Palavra-passe errada</string>
-  <string name="fail_get_contact_info">"Can't get contact info. Make sure you've given PonPonTag permission to view your contacts' info."</string>
-  <string name="failed_install">Falha aio instalar</string>
-  <string name="failed_to_erase">Falha ao apagar etiqueta</string>
-  <string name="failed_to_write">Falha ao escrever na etiqueta</string>
+  <string name="fail_get_contact_info">"Não é possível obter informação de contacto. Garante que deu permissão a PonPonTag para ver a informação dos seus contactos."</string>
+  <string name="failed_install">Erro ao instalar</string>
+  <string name="failed_to_erase">Erro ao apagar etiqueta</string>
+  <string name="failed_to_write">Erro ao escrever na etiqueta</string>
   <string name="fif_seconds">15 seconds</string>
   <string name="five_minutes">5 minutes</string>
   <string name="gps">GPS satélites</string>
@@ -116,7 +116,7 @@ toque com a parte de trás do seu telefone"</string>
   <string name="new_configures">Nova configuração</string>
   <string name="no_available_networks">Sem redes por perto</string>
   <string name="no_available_networks_summary">Tente de novo ligar a uma rede</string>
-  <string name="no_available_xiaomi_shop">Falha a abrir mercado Xiaomi</string>
+  <string name="no_available_xiaomi_shop">Erro a abrir mercado Xiaomi</string>
   <string name="not_save_btn">Não</string>
   <string name="notification_value">Notificações %s%%</string>
   <string name="null_task">Sem tarefas</string>
@@ -182,7 +182,7 @@ toque com a parte de trás do seu telefone"</string>
   <string name="task">Acionar tarefas</string>
   <string name="ten_minutes">10 minutes</string>
   <string name="thir_seconds">30 seconds</string>
-  <string name="toast_import_failed">Falha ao importar contacto</string>
+  <string name="toast_import_failed">Erro ao importar contacto</string>
   <string name="toggle">Alternar</string>
   <string name="torch">Lanterna</string>
   <string name="total_read_tag">Ler etiquetas:</string>
@@ -192,8 +192,8 @@ tocar a parte de trás do seu telefone para outro etiqueta."</string>
   <string name="touch_and_write_more">"Para escrever uma outra cópia,
 tocar a parte de trás do seu telefone para outro etiqueta."</string>
   <string name="two_minutes">2 minutes</string>
-  <string name="unavailable_net">"Falha ao instalar: Não foi possível conectar-se à rede"</string>
-  <string name="unavailable_storage">"Falha ao instalar: Não foi possível utilizar o seu cartão SD"</string>
+  <string name="unavailable_net">"Erro ao instalar: Não foi possível conectar-se à rede"</string>
+  <string name="unavailable_storage">"Erro ao instalar: Não foi possível utilizar o seu cartão SD"</string>
   <string name="unrecognized_tag">Conteúdo etiqueta não reconhecido</string>
   <string name="update_config">editar tarefas</string>
   <string name="user_configs">Minhas tarefas</string>

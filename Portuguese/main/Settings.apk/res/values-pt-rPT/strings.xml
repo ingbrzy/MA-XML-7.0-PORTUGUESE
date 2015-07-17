@@ -139,7 +139,7 @@
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
     <string name="sdcard_unmount">Desmontar armaz. USB</string>
-    <string name="sdcard_format">Apagar armaz. USB</string>
+    <string name="sdcard_format">Eliminar armaz. USB</string>
     <string name="small_font">Pequena</string>
     <string name="medium_font">Média</string>
     <string name="large_font">Grande</string>
@@ -1012,7 +1012,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="media_format_desc">Eliminar todos os dados do armaz. USB? Perderá <b>todos</b> dados armazenados!</string>
     <string name="media_format_button_text">Formatar armaz. USB</string>
     <string name="media_format_final_desc">Formatar o armaz. USB e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
-    <string name="media_format_final_button_text">Apagar tudo</string>
+    <string name="media_format_final_button_text">Eliminar tudo</string>
     <string name="media_format_gesture_prompt">Desenhe o seu padrão de desbloqueio</string>
     <string name="media_format_gesture_explanation">Deve desenhar o seu padrão de desbloqueio para confirmar a formatação do armazenamento USB.</string>
     <string name="call_settings_title">Definições de chamadas</string>
@@ -1810,11 +1810,11 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
     <string name="header_data_and_synchronization">Dados e sincronização</string>
     <string name="preference_change_password_title">Alterar a palavra passe</string>
     <string name="header_account_settings">Definições da conta</string>
-    <string name="remove_account_label">Apagar conta</string>
+    <string name="remove_account_label">Eliminar conta</string>
     <string name="header_add_an_account">Adicionar uma conta</string>
     <string name="finish_button_label">Terminar</string>
     <string name="really_remove_account_title">Eliminar a conta?</string>
-    <string name="really_remove_account_message">Apagar esta conta eliminará todas as suas mensagens, contactos e outros dados a partir do telefone!</string>
+    <string name="really_remove_account_message">Eliminar esta conta eliminará todas as suas mensagens, contactos e outros dados a partir do telefone!</string>
     <string name="remove_account_failed">Esta conta é exigida por alguns aplicações. Apenas poderá removê-la restaurando o telefone para padrões de fábrica (que elimina todos os dados pessoais) em Definições > Backup e Restaurar.</string>
     <string name="provider_label">Carregar subscrições</string>
     <string name="sync_item_title">%s</string>
@@ -1986,7 +1986,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
     <string name="vpn_title">Definições de VPN</string>
     <string name="vpn_create">Adicionar rede VPN</string>
     <string name="vpn_menu_edit">Editar perfil</string>
-    <string name="vpn_menu_delete">Apagar perfil</string>
+    <string name="vpn_menu_delete">Eliminar perfil</string>
     <string name="vpn_menu_lockdown">Sempre activado VPN</string>
     <string name="vpn_lockdown_summary">Seleccione um perfil VPN para recordar sempre a ligação. A ligação poderia estar activa apenas quando esta ligado a esta VPN.</string>
     <string name="vpn_lockdown_none">Nenhum</string>
@@ -2150,7 +2150,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não Incomodar</string>
     <string name="dndm_auto_time_turn_off">Hora de fim</string>
     <string name="dndm_auto_time_turn_off_title">Desligar automaticamente Não Incomodar</string>
-    <string name="dndm_dlg_remove_vip">As chamadas dessa pessoa será silenciado quando Não perturbar está ligado.</string>
+    <string name="dndm_dlg_remove_vip">As chamadas dessa pessoa serão silenciadas quando Não perturbar estiver ligado.</string>
     <string name="dndm_dlg_remove_ok">Apagar</string>
     <string name="dndm_menu_add_vip_custom">Adicionar nºs VIP</string>
     <string name="dndm_mute_all">Silênciar chamadas e mensagens</string>

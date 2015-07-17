@@ -20,7 +20,7 @@
     <string name="searchable_lable_o2o">O2O</string>
     <string name="app_name">Pesquisar</string>
     <string name="search_widget">Pesquisar</string>
-    <string name="remove_from_history">Quer apagar esse item do histórico de pesquisas?</string>
+    <string name="remove_from_history">Quer eliminar esse item do histórico de pesquisas?</string>
     <string name="remove_from_history_failed">Não foi possível remover o ficheiro do histórico de pesquisas</string>
     <string name="corpus_selection_heading">Pesquisar</string>
     <string name="corpus_label_global">Todos</string>
@@ -32,17 +32,17 @@
     <string name="menu_settings">Definições de pesquisa</string>
     <string name="search_settings">Definições de pesquisa</string>
     <string name="google_settings_category_title">Pesquisa Google</string>
-    <string name="device_settings_category_title">Apagar atalhos</string>
+    <string name="device_settings_category_title">Eliminar atalhos</string>
     <string name="system_search_category_title">Telefone</string>
     <string name="search_sources">Ficheiros pesquisáveis</string>
     <string name="search_sources_summary">Escolher o que procurar no telefone</string>
-    <string name="clear_shortcuts">Apagar atalhos</string>
-    <string name="clear_shortcuts_summary">Apagar atalhos para sugestões de pesquisa recentemente escolhidos</string>
-    <string name="clear_shortcuts_prompt">"Deseja apagar todos os atalhos para as sugestões de pesquisa escolhidos recentemente?
+    <string name="clear_shortcuts">Eliminar atalhos</string>
+    <string name="clear_shortcuts_summary">Eliminar atalhos para sugestões de pesquisa recentemente escolhidos</string>
+    <string name="clear_shortcuts_prompt">"Deseja eliminar todos os atalhos para as sugestões de pesquisa escolhidos recentemente?
 
-Para apagar o histórico do navegador, utilize as configurações do navegador."</string>
-    <string name="clear_shortcuts_agree">Apagar atalhos</string>
-    <string name="clear_shortcuts_disagree">Não apagar atalhos</string>
+Para eliminar o histórico do navegador, utilize as configurações do navegador."</string>
+    <string name="clear_shortcuts_agree">Eliminar atalhos</string>
+    <string name="clear_shortcuts_disagree">Não eliminar atalhos</string>
     <string name="recently_shortcut_label">Atalhos recentes</string>
     <string name="menu_help">Ajuda</string>
     <string name="google_search_label">Google</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="resource_app_name">Recursos do Navegador</string>
-    <string name="resource_delete">Apagar</string>
+    <string name="resource_delete">Eliminar</string>
     <string name="resource_price_free">Grátis</string>
     <string name="resource_price_unit">Créditos Mi</string>
     <string name="resource_price_format">(%1$s)</string>
@@ -103,7 +103,7 @@
     <string name="resource_trial_end_message">Avaliação de %1$s expirada. Se gostou por favor compre.</string>
     <string name="resource_trial_end_restore">Terminar avaliação</string>
     <string name="resource_trial_end_purchase">Comprar</string>
-    <string name="deleting">A apagar…</string>
+    <string name="deleting">A eliminar…</string>
     <string name="resource_title_select_ringtone">Seleccione um toque</string>
     <string name="resource_tip_select_none">Nada selecionado</string>
     <string name="resource_select_ringtone_confirm">Seleccionar este toque?</string>
