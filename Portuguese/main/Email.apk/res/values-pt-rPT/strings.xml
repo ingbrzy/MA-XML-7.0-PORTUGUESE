@@ -40,7 +40,7 @@
   <string name="account_set_up_change_type_note">Para alterar o tipo de conta entre POP3 e IMAP, deverá eliminar a conta primeiro e reconfigurá-la.</string>
   <string name="account_set_up_notice">Com alguns passos, pode configurar uma conta de email</string>
   <string name="account_settings_action">Configurações da conta</string>
-  <string name="account_settings_background_attachments_label">Fazer transferência dos anexos</string>
+  <string name="account_settings_background_attachments_label">Transferência de anexos</string>
   <string name="account_settings_background_attachments_summary">Transferir anexos via Wi-Fi</string>
   <string name="account_settings_chat_mode_enable">Ver como conversa</string>
   <string name="account_settings_chat_mode_summary">Ver email como conversa</string>
@@ -51,8 +51,8 @@
   <string name="account_settings_enforced_label">Políticas</string>
   <string name="account_settings_enforced_summary">Nenhuma</string>
   <string name="account_settings_exit_server_settings">Rejeitar as alterações não guardadas?</string>
-  <string name="account_settings_incoming_label">Configurações recebidas</string>
-  <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras configurações do servidor de entrada</string>
+  <string name="account_settings_incoming_label">Definições de recepção</string>
+  <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras definições do servidor de entrada</string>
   <string name="account_settings_list_title">Seleccione um serviço de email para adicionar:</string>
   <string name="account_settings_login_dialog_content_fmt">O nome de utilizador ou a palavra-passe de %s está incorrecto. Deseja actualizar agora?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Não foi possível iniciar sessão em %s. O servidor diz: %s</string>
@@ -63,8 +63,8 @@
   <string name="account_settings_notifications">Notificações</string>
   <string name="account_settings_notify_label">Notificações de email</string>
   <string name="account_settings_notify_summary">Mostrar notificação quando chegarem emails</string>
-  <string name="account_settings_outgoing_label">Configurações enviadas</string>
-  <string name="account_settings_outgoing_summary">Nome do utilizador, palavra-passe e outras configurações do servidor de saída</string>
+  <string name="account_settings_outgoing_label">Definições de saída</string>
+  <string name="account_settings_outgoing_summary">Nome do utilizador, palavra-passe e outras definições do servidor de saída</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_retry_label">Tentativa de sincronização</string>
@@ -123,14 +123,14 @@
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Não foi possível configurar a conta</string>
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor.</string>
-  <string name="account_setup_failed_protocol_unsupported">Digitou um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta.</string>
+  <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta.</string>
   <string name="account_setup_failed_security">Não foi possível abrir a ligação com o servidor devido a um erro de segurança.</string>
   <string name="account_setup_failed_security_policies_unsupported">Este servidor pede recursos de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>
   <string name="account_setup_incoming_delete_policy_label">Eliminar email do servidor</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
-  <string name="account_setup_incoming_headline">Definições de entrada do servidor</string>
+  <string name="account_setup_incoming_headline">Definições do servidor de recepção</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Prefixo do caminho IMAP</string>
   <string name="account_setup_incoming_mail_adress_label">Endereço de Email</string>
@@ -150,7 +150,7 @@
   <string name="account_setup_incoming_username_label_default_hint">Tem que incluir um domínio</string>
   <string name="account_setup_names_account_name_label">Dar nome a esta conta (opcional)</string>
   <string name="account_setup_names_headline">A sua conta está configurada e o email está a caminho!</string>
-  <string name="account_setup_names_title">Configurar da conta</string>
+  <string name="account_setup_names_title">Configuração de conta</string>
   <string name="account_setup_names_user_name_empty_error">Este campo não pode ficar em branco.</string>
   <string name="account_setup_names_user_name_label">O seu nome (exibido nas mensagens enviadas)</string>
   <string name="account_setup_need_password_verification">A sua conta possui uma verificação adicional de segurança. Autenticação necessária</string>
@@ -179,7 +179,7 @@
   <string name="account_setup_options_sync_contacts_label">Sincronizar contactos desta conta</string>
   <string name="account_setup_options_sync_email_label">Sincronizar email desta conta.</string>
   <string name="account_setup_options_title">Definições da conta</string>
-  <string name="account_setup_outgoing_headline">Definições de saída do servidor</string>
+  <string name="account_setup_outgoing_headline">Definições do servidor de envio</string>
   <string name="account_setup_outgoing_password_label">Palavra-passe</string>
   <string name="account_setup_outgoing_port_label">Porta</string>
   <string name="account_setup_outgoing_require_login_label">É necessário iniciar sessão</string>
@@ -191,7 +191,7 @@
   <string name="account_setup_security_required_title">Administração de segurança remota</string>
   <string name="account_setup_server_acc_manager_title">Gestor de contas</string>
   <string name="account_setup_service_not_set">A conta não foi configurada</string>
-  <string name="account_setup_username_password_toast">Digite um endereço de email e palavra-passe válida.</string>
+  <string name="account_setup_username_password_toast">Introduza um endereço de email e palavra-passe válida.</string>
   <string name="account_setup_username_uneditable_error">Não é possível alterar o nome do utilizador de uma conta. Para adicionar uma conta com um nome do utilizador diferente, pressione em Adicionar conta.</string>
   <string name="account_sync_off">A sincronização da conta está desactivada.</string>
   <string name="account_type_exchange">Exchange</string>
@@ -200,7 +200,7 @@
   <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>
   <string name="accounts_welcome">É possível configurar uma conta em apenas algumas etapas.</string>
   <string name="actionbar_large_unread_count">%1$d+ não lidas</string>
-  <string name="actionbar_title_mail_aggregation">Agregador de email:</string>
+  <string name="actionbar_title_mail_aggregation">Agregar email:</string>
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
   <string name="add_account">Adicionar conta</string>
@@ -239,7 +239,7 @@
   <string name="attached_message">Mensagem anexada</string>
   <string name="attachment_application_msword">Documento</string>
   <string name="attachment_application_pdf">PDF</string>
-  <string name="attachment_application_vnd_ms_excel">Planilha</string>
+  <string name="attachment_application_vnd_ms_excel">Folha de cálculo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Apresentação</string>
   <string name="attachment_audio">Áudio</string>
   <string name="attachment_bar_title">Anexos</string>
@@ -251,14 +251,14 @@
   <string name="attachment_not_exists">O anexo não está disponível!</string>
   <string name="attachment_not_found">Não é possível transferir o anexo</string>
   <string name="attachment_open_SecurityException_hint">Verifique as permissões, danos, etc.</string>
-  <string name="attachment_open_SecurityException_title">Falha ao abrir o ficheiro</string>
+  <string name="attachment_open_SecurityException_title">Erro ao abrir o ficheiro</string>
   <string name="attachment_stop_all">Parar</string>
   <string name="attachment_text">Texto</string>
   <string name="attachment_type_blocked">Não pode guardar nem abrir este tipo de anexo.</string>
   <string name="attachment_unknown">Ficheiro %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Anexos</string>
-  <string name="auth_error_notification_text">Pressione para editar as configurações de conta para %s</string>
+  <string name="auth_error_notification_text">Toque para editar as definições de conta para %s</string>
   <string name="auth_error_notification_title">Erro de autenticação</string>
   <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Depois de eliminar a mensagem, ver…</string>
@@ -290,7 +290,7 @@
   <string name="change_account_confirm">A conta \"%1$s\" será removida do Email.</string>
   <string name="change_account_type">Alterar tipo de conta</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
-  <string name="change_sync_settings">Alterar configuração de sincronização</string>
+  <string name="change_sync_settings">Alterar definições de sincronização</string>
   <string name="changepw_dialog_tips">Insira a palavra-passe de %s</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc" />
@@ -368,11 +368,6 @@
   <string name="date_message_received_yesterday">Ontem, %1$s</string>
   <string name="debug_clear_webview_cache">Limpar histórico de dados do WebView</string>
   <string name="debug_disable_graphics_acceleration_label">Desactivar aceleração gráfica por hardware</string>
-  <string name="debug_enable_debug_logging_label">Activar relatório de depuração adicional?</string>
-  <string name="debug_enable_file_logging_label">Activar registos no cartão SD?</string>
-  <string name="debug_enable_strict_mode_label">Activar modo estrito (com registo)</string>
-  <string name="debug_enable_verbose_logging_label">Activar registo extremamente detalhado?</string>
-  <string name="debug_force_one_minute_refresh_label">Forçar actualizações de 1 minuto para POP/IMAP</string>
   <string name="debug_title">Depurar</string>
   <string name="default_">PREDEFINIDAS</string>
   <string name="default_exchange">EXCHANGE</string>
@@ -381,13 +376,13 @@
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu Xiaomi</string>
   <string name="delete">Eliminar</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s foi apagada</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s foi eliminada</string>
   <string name="deleted">Apagada</string>
   <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activar serviço de correio completo. Actualizar e activar o equipamento de segurança</string>
   <string name="device_admin_description">Activar as políticas de segurança especificadas pelo servidor</string>
   <string name="device_admin_label">Email</string>
-  <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activado</string>
+  <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
   <string name="device_not_activiey_lint2">O Serviço de correio não funciona correctamente em Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>
   <string name="dialog_auto_download_failed">Não foi possível transferir automáticamente</string>
@@ -423,8 +418,8 @@
   <string name="download_show_image">Transferir e mostrar a imagem</string>
   <string name="downloading_message_body">A transferir email…</string>
   <string name="draft_count_format"> (%1$s)</string>
-  <string name="drawer_close">Fechar gaveta de navegação</string>
-  <string name="drawer_open">Abrir gaveta de navegação</string>
+  <string name="drawer_close">Fechar área de navegação</string>
+  <string name="drawer_open">Abrir área de navegação</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
@@ -450,7 +445,7 @@
   <string name="feedback_body">Comentários</string>
   <string name="feedback_sent">Obrigado pelo seu comentário</string>
   <string name="fetching_attachment">A procurar anexo</string>
-  <string name="file_deleted_success">Ficheiro apagado</string>
+  <string name="file_deleted_success">Ficheiro eliminado</string>
   <string name="file_not_found">Não é possível encontrar o ficheiro</string>
   <string name="file_not_found_redownload">Não é possível encontrar o ficheiro</string>
   <string name="file_rar_not_support">Não é possível abrir ficheiros RAR</string>
@@ -580,7 +575,7 @@
   <string name="mailbox_name_display_unread">Não lido</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
-  <string name="mailbox_settings_mailbox_sync_window_label">Definir data da sincronização</string>
+  <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
   <string name="mailbox_settings_sync_enabled_label">Sincronizar esta pasta</string>
   <string name="mailbox_settings_sync_enabled_summary">Sincronizar emails desta pasta</string>
   <string name="maileditor_fontsize_textitem1">8pt</string>
@@ -600,7 +595,7 @@
   <string name="me_subject_pronun">eu</string>
   <string name="meeting_accepted">Aceito: %s</string>
   <string name="meeting_allday">Quando: %s (todo o dia)</string>
-  <string name="meeting_allday_recurring">Quando: %s (todo o dia, reincidente)</string>
+  <string name="meeting_allday_recurring">Quando: %s (todo o dia, recorrente)</string>
   <string name="meeting_canceled">Cancelado: %s</string>
   <string name="meeting_declined">Recusado: %s</string>
   <string name="meeting_recurring">Quando: %s (recorrente)</string>
@@ -619,7 +614,7 @@
   <string name="menu_change_folders">Alterar as pastas</string>
   <string name="menu_compose">Escrever</string>
   <string name="menu_folder_options">Opções de sincronização</string>
-  <string name="menu_manage_folders">Configurações de pastas</string>
+  <string name="menu_manage_folders">Definições de pastas</string>
   <string name="menu_move_to">Mover para</string>
   <string name="menu_move_to_inbox">Mover para a Caixa de entrada</string>
   <string name="menu_photo_save_all">Guardar tudo</string>
@@ -697,7 +692,7 @@ CC: %4$s
   <string name="notification_action_reply">Responder</string>
   <string name="notification_action_reply_all">Responder a todos</string>
   <string name="notification_action_undo_archive">Arquivada</string>
-  <string name="notification_action_undo_delete">Apagada</string>
+  <string name="notification_action_undo_delete">Eliminada</string>
   <string name="notification_action_undo_remove_label">Marcador removido</string>
   <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
   <string name="oauth_error_description">Não é possível autenticar</string>
@@ -731,7 +726,7 @@ CC: %4$s
   <string name="password_changed_prompt">Não é possível iniciar sessão</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
-  <string name="password_expire_warning_dialog_title">A palavra-passe da tela de bloqueio está a expirar</string>
+  <string name="password_expire_warning_dialog_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do ecrã de bloqueio.</string>
   <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
   <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser eliminados do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu ecrã de bloqueio. Deseja alterar isso agora?</string>
@@ -780,7 +775,7 @@ CC: %4$s
   <string name="policy_require_password">Exigir palavra-passe no dispositivo</string>
   <string name="policy_require_sd_encryption">Exigir encriptação do cartão SD</string>
   <string name="policy_require_smime">Exigir mensagens em SMIME</string>
-  <string name="policy_screen_timeout">Exigir que a tela do dispositivo fique bloqueada quando não utilizada</string>
+  <string name="policy_screen_timeout">Exigir dispositivo inactivo para bloquear ecrã</string>
   <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
@@ -979,8 +974,8 @@ CC: %4$s
   <string name="tap_to_configure">Pressione para configurar.</string>
   <string name="tap_to_configure_folder_sync">Sincronizar pasta</string>
   <string name="tap_to_enable_sync">Pressione para activar.</string>
-  <string name="time_error">Problema com o horário</string>
-  <string name="tip_cannot_switchview_in_unread_folder">Não é possível mudar o modo de exibição na agregação das mensagens não lidas</string>
+  <string name="time_error">Erro de timestamp</string>
+  <string name="tip_cannot_switchview_in_unread_folder">Não foi possível alternar vista no modo de agregação de e-mails não lidos</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">"Não é possível ligar à rede"</string>
@@ -997,7 +992,7 @@ CC: %4$s
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
   <string name="tryrefreshing">A tentar actualizar…</string>
-  <string name="turn_auto_sync_on_dialog_body">As alterações em todos as aplicações e contas, e não apenas o Gmail, serão sincronizadas entre a Web, e os seus outros dispositivos e o seu %1$s.</string>
+  <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, serão sincronizadas entre a web, os seus dispositivos e o seu %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Ligar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="undo">Desfazer</string>
@@ -1029,7 +1024,7 @@ Pressione "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar defin
   <string name="wait_for_sync_body_txt_array_1">O Servidor Exchange irá pedir-lhe dentro de</string>
   <string name="wait_for_sync_body_txt_array_2">1–30</string>
   <string name="wait_for_sync_body_txt_array_3">segundos. Confirme as definições de segurança</string>
-  <string name="wait_for_sync_body_txt_array_4">para terminar configure.</string>
+  <string name="wait_for_sync_body_txt_array_4">para concluir a configuração.</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Pressione para concluir a configuração.</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
