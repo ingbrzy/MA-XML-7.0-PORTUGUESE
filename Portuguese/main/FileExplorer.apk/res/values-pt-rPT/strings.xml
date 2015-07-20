@@ -226,6 +226,7 @@
   <string name="open_file_failed">Erro ao abrir</string>
   <string name="operate_confirm_in_3g">Utilizar a sua ligação de dados móveis para transferir ficheiros grandes?</string>
   <string name="operating">A processar…</string>
+  <string name="operation_add_fav">A adicionar aos favoritos…</string>
   <string name="operation_agree">Concordar</string>
   <string name="operation_cancel">Cancelar</string>
   <string name="operation_compress">Comprimir</string>
@@ -236,6 +237,7 @@
   <string name="operation_create_folder">Criar nova pasta</string>
   <string name="operation_create_folder_message">Nome da pasta</string>
   <string name="operation_decompressing">A extrair…</string>
+  <string name="operation_del_fav">A remover dos favoritos…</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_delete_confirm_message">Eliminar pasta/ficheiro?</string>
   <string name="operation_delete_confirm_message_folder">Todos os conteúdos da pasta serão eliminados.</string>
@@ -307,7 +309,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_expand">Expandir</string>
   <string name="tab_local">Local</string>
-  <string name="tab_more">mais</string>
+  <string name="tab_more">Mais</string>
   <string name="tab_path">Pastas</string>
   <string name="tab_source">Aplicações</string>
   <string name="tab_storage">Armazenamento</string>

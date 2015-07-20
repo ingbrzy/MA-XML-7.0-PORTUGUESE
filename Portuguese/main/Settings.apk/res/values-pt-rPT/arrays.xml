@@ -1264,4 +1264,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Reiniciar o dispositivo para aplicar esta definição?</item>
         <item>Reiniciar o dispositivo para aplicar esta definição?</item>
     </string-array>
+	<string-array name="screen_resolution_entries">
+        <item>ultrahigh (2K)</item>
+        <item>normal (720P)</item>
+    </string-array>
+    <string-array name="screen_resolution_values">
+        <item>1440</item>
+        <item>720</item>
+    </string-array>
 </resources>

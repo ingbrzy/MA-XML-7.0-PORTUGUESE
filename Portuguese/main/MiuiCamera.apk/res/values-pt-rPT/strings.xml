@@ -26,6 +26,9 @@
   <string name="confirm_location_message">"Adicionar a localização GPS de onde tirou as fotos.
 As aplicações podem aceder a esta informação se activar esta opção."</string>
   <string name="confirm_location_title">Informação de localização do armazenamento</string>
+  <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação pode estar a gravar som, tente novamente após a parar.</string>
+  <string name="confirm_recording_fail_title">Erro na gravação</string>
   <string name="confirm_restore_message">As definições da câmara serão restauradas para as definições de fábrica?</string>
   <string name="confirm_restore_title">Restaurar as definições de fábrica</string>
   <string name="dialog_ok">OK</string>

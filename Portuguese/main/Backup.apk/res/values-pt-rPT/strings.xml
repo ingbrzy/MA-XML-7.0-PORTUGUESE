@@ -49,6 +49,7 @@
   <string name="button_ok">OK</string>
   <string name="button_return">Voltar</string>
   <string name="call_title">Registos de chamadas</string>
+  <string name="camera_summary">Definições da camâra (fotos não incluídas)</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Cancelar cópia de segurança</string>
   <string name="cancel_restore">Cancelar o restauro</string>
@@ -180,7 +181,7 @@
   <string name="select_backup_item">Escolha os ficheiros</string>
   <string name="service_stoped">O serviço foi interrompido</string>
   <string name="select_storage_location">Escolha a localização da Cópia</string>
-  <string name="settings_summary">: definições do telefone e mensagens</string>
+  <string name="settings_summary">Definições do telefone e mensagens</string>
   <string name="sms_title">Mensagens</string>
   <string name="software_backup_info">Dados das aplicações</string>
   <string name="st_antispam_mode_blacklist_state">11112121</string>

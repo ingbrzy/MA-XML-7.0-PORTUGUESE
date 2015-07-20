@@ -247,7 +247,7 @@
   <string name="message_too_big_for_video">A mensagem é muito grande para anexar o vídeo.</string>
   <string name="message_type_label">"Tipo: "</string>
   <string name="messagelist_sender_self">Eu</string>
-  <string name="mipub_messaging_entry_title">Mensagens Mi</string>
+  <string name="mipub_messaging_entry_title">Mensagem Mi</string>
   <string name="mms">MMS</string>
   <string name="move_down">Mover para baixo</string>
   <string name="move_up">Mover para cima</string>
@@ -438,7 +438,9 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc">"O remetente não está nos seus contactos. "&lt;u&gt;&lt;font color="red"&gt;Reportar este número&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"O remetente não está nos seus contactos.
+ "&lt;/font&gt;</string>
+  <string name="security_alert_desc_highlight">Reportar este número</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) e enviar para a Xiaomi para revisão.</string>
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccionar som</string>

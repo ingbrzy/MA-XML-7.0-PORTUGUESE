@@ -10,7 +10,6 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir a utilização de dados</string>
-  <string name="alter_dialog_message">Ao ligar ao serviço de dados quando em roaming internacional pode resultar em despesas avultadas na sua operadora. Permitir aplicações na lista de exceções para ligar a serviços de dados quando em roaming internacional?</string>
   <string name="apn_exception_summary">Testar ponto de acesso da operadora</string>
   <string name="apn_exception_title">Verifique as configurações de APN</string>
   <string name="app_detail">Detalhes</string>
@@ -33,6 +32,7 @@
   <string name="connect_internet_by_usbshare">Ligar à internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Ligar à internet por WiFi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
+  <string name="daily_limit_and_lock_screen">Utilização diária de dados &amp; notificações</string>
   <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os dados móveis.</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
@@ -137,12 +137,15 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="list_empty_text">Vazio</string>
   <string name="load_fail">Erro ao carregar</string>
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para relatar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo.</string>
-  <string name="lock_screen_setting_summary">Mostrar notificação após utilizar 100KB com o ecrã desligado</string>
   <string name="lock_screen_traffic_guide_notification_summary">Pressione para gerir a utilização de dados.</string>
   <string name="lock_screen_traffic_guide_notification_title">%s utilizados no ecrã de bloqueio</string>
   <string name="lock_screen_traffic_notify_body">Bloqueado %2$s em %1$s | Utilizados %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Comprar dados móveis</string>
   <string name="lock_screen_traffic_warn_title">Notificação com o ecrã desligado</string>
+  <string name="lock_screen_warning_category">Notificações no Ecrã de Bloqueio</string>
+  <string name="lock_screen_warning_switch_summary">Mostrar alerta no ecrã de bloqueio quando os dados excederem uma certa quantidade</string>
+  <string name="lock_screen_warning_switch_title">Mostrar alertas no ecrã de bloqueio</string>
+  <string name="lock_screen_warning_value">quantidade de alerta de utilização de dados</string>
   <string name="main_alert_message_month_limit_error">O limite de dados que definiu está incorrecto</string>
   <string name="main_alert_message_no_imsi">Não foi detectado nenhum cartão SIM</string>
   <string name="main_alert_message_no_mobile_package">O limite de dados não foi definido</string>  
@@ -237,6 +240,12 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
  2. Se utilizar dois cartões SIM, tente mudar para o outro cartão e veja se consegue ligar normalmente.
 
  3. Verifique se o seu cartão SIM e a ranhura para cartão SIM do seu dispositivo não estão danificados. Confirme se o cartão SIM que está a utilizar está inserido correctamente na ranhura SIM do seu dispositivo."</string>
+  <string name="network_speed_for_apps_close">Forçar paragem</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Forçar paragem desta aplicação?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"Não é possível forçar a paragem de aplicações de sistema."</string>
+  <string name="network_speed_for_apps_others">Outros</string>
+  <string name="network_speed_for_apps_title">Detalhes da velocidade da conexão</string>
+  <string name="network_speed_for_apps_total">Velocidade da conexão</string>
   <string name="networkchanged_exception_summary">A ligação de rede foi alterada. Por favor, teste novamente.</string>  
   <string name="networkchanged_exception_title">Ligação alterada</string>
   <string name="no_network_btn">Tente novamente</string>
@@ -261,6 +270,9 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="operator_setted_error_dialog_message">"O SIM que está a usar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Toque para mudar a localização do SIM.</string>
+  <string name="operator_setted_error_notify_title">Erro cartão SIM</string>
   <string name="other_exception_summary">Não tem uma ligação à internet</string>
   <string name="other_exception_title">Verificação de outras questões</string>
   <string name="pay_charge">Comprar dados adicionais</string>
@@ -278,9 +290,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_add_traffic_pkg">Dados adicionais da compra</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_traffic_data">Definir a utilização de dados</string>
-  <string name="pref_allow_connect_network_summary">Utilizar dados móveis em roaming internacional</string>
   <string name="pref_allow_connect_network_title">Dados de Roaming Internacional</string>
-  <string name="pref_allow_connect_network_whitelist_summary">Permitir que as aplicações da lista de excepções utilizem os dados móveis em roaming internacional</string>
   <string name="pref_allow_connect_network_whitelist_title">Permitir que as aplicações na lista de excepções utilizem os dados móveis</string>
   <string name="pref_app_traffic_managent">Restringir a utilização de dados por aplicação</string>
   <string name="pref_auto_adjust_settings">Sincronização automática das definições das estatísticas da utilização de dados</string>
@@ -318,6 +328,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_package_traffic_settings">Limite dos dados móveis</string>
   <string name="pref_pkg_begin_date">Definir dia de inicio do ciclo de dados</string>
   <string name="pref_roaming_daily_limit_setting">Limite de dados diário para roaming</string>
+  <string name="pref_roaming_setting_gategory">Dados em Roaming</string>
   <string name="pref_setting_operators_message">Editar a mensagem que o dispositivo envia à sua operadora para sincronizar as suas estatísticas da utilização de dados</string>
   <string name="pref_show_mobile_traffic">Quando desbloquear o seu telefone, mostra as estatísticas da utilização de dados para o período em que o dispositivo foi bloqueado (deve ser maior que 5 minutos)</string>
   <string name="pref_special_traffic_exceed_limit">Notifique-me quando a utilização de dados atingir o limite</string>
@@ -481,6 +492,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_button_sorted_chose_simcard">Ordenar por</string>
   <string name="traffic_saving_button_start">Activar</string>
   <string name="traffic_saving_button_stop">Desactivar</string>
+  <string name="traffic_saving_can_optimized">Optimizar</string>
   <string name="traffic_saving_history_title">Histórico</string>
   <string name="traffic_saving_history_total_money">Total guardado</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
@@ -522,7 +534,6 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
   <string name="traffic_setting_app_count">%d aplicações</string>
   <string name="traffic_setting_completed">OK</string>
-  <string name="traffic_setting_daily_limit_summary">Definir limite diário de dados</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Definir plano de dados e limite de utilização</string>
   <string name="traffic_setting_extra_pkg_summary">Definir plano de dados e limite de utilização</string>
   <string name="traffic_setting_extra_pkg_title">Definições adicionais</string>
@@ -544,7 +555,6 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_setting_fragment_title">Definições da consulta da utilização de dados</string>
   <string name="traffic_setting_open">Ligado</string>
   <string name="traffic_setting_step_num">Definições do plano de dados</string>
-  <string name="traffic_setting_update_template_falure">Não foi possível ligar à rede</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
   <string name="unable_connect_internet">"Não é possível ligar-se á rede"</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>

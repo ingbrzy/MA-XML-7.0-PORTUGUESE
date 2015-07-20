@@ -3043,6 +3043,11 @@ pode utilizar também as redes de outros utilizadores"</string>
 	<string name="miui_data_usage_menu_metered">P. Acesso Móvel</string>
 	<string name="music_dirac_mode_headset">Auscultadores Mi</string>
 	<string name="music_dirac_mode_piston_youth">Edição para Jovens</string>
-	<string name="power_hide_mode_summary">Aplicações de controle de comportamento des bastidores, poupanças significantes em electricidade</string>
-    <string name="power_hide_mode_title">Modo Escondido</string>
+	<string name="power_hide_mode_summary">"Economize bateria restringindo processos em segundo plano das aplicacões individualmente, conexões de Wi-Fi e dados móveis, e GPS"</string>
+    <string name="power_hide_mode_title">Gerir utilização da bateria pelas aplicações</string>
+	<string name="screen_resolution_confirm">Confirmar e reiniciar</string>
+    <string name="screen_resolution_summary">Reduzir a resolução irá reduzir o grau da resolução fina, para em certas medidas melhorar a performance e fluídez, e vice versa. As alterações necessitam de reiniciar o sistema.</string>
+    <string name="screen_resolution_switch">Alterar resolução de ecrã</string>
+    <string name="screen_resolution_title">Resolução de ecrã</string>
+	<string name="wifi_eap_sim_simcard">Escolher SIM</string>
 </resources>
