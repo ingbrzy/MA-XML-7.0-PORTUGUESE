@@ -7,7 +7,7 @@
   <string name="button_start_now">Transferir</string>
   <string name="call_record">Gravações de chamadas (%d)</string>
   <string name="cloud_record">%d sincronizado</string>
-  <string name="data_connection_body">Utilizando a sua ligação de dados móveis para transferir este arquivo irá aumentar a sua utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="data_connection_body">Utilizando a sua ligação de dados móveis para transferir este ficheiro irá aumentar a sua utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Aviso de utilização de dados</string>
   <string name="delete">Eliminar</string>
@@ -89,7 +89,7 @@
   <string name="toast_file_is_downloading">Este ficheiro está a ser transferido, por favor aguarde</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
   <string name="toast_uninstall_fileexplorer">Explorador de ficheiros não instalado</string>
-  <string name="wifi_recommended_body" formatted="false">Utilizando a sua ligação de dados móveis para transferir este arquivo (%s) irá aumentar a utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais. Para aguardar uma ligação Wi-Fi para transferir este arquivo, pressione em %s.</string>
+  <string name="wifi_recommended_body" formatted="false">Utilizando a sua ligação de dados móveis para transferir este ficheiro (%s) irá aumentar a utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais. Para aguardar uma ligação Wi-Fi para transferir este ficheiro, pressione em %s.</string>
   <string name="wifi_recommended_title">Lembrete de Tráfego</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

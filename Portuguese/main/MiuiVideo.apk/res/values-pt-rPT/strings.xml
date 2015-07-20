@@ -24,11 +24,11 @@
     <string name="pause">Pausa</string>
     <string name="di_count_ji">Ep. %d</string>
     <string name="init">Inicialização</string>
-    <string name="file_error">Erro de arquivo</string>
+    <string name="file_error">Erro de ficheiro</string>
     <string name="connect_error">Erro de ligação</string>
     <string name="source_error">Erro ao obter recurso</string>
     <string name="download_error">Erro offline</string>
-    <string name="download_file_fail">Acesso ao arquivo local falhou, talvez não haja espaço no cartão SD</string>
+    <string name="download_file_fail">Erro no acesso ao ficheiro local, talvez não haja espaço no cartão SD</string>
     <string name="offline_max_promote">À espera de cache, existem no máximo duas tarefas de cache que podem ser executados ao mesmo tempo.</string>
     <string name="addon">Popular</string>
     <string name="addon_category">Complementos</string>
@@ -89,7 +89,7 @@
     <string name="file_not_exist">O ficheiro não existe</string>
     <string name="vp_app_name">Reprodutor de vídeo</string>
     <string name="temp_play_history_button_label">Histórico</string>
-    <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de arquivo não é suportado.</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
     <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
     <string name="vp_VideoView_error_title">Erro desconhecido</string>
     <string name="vp_VideoView_error_button">OK</string>

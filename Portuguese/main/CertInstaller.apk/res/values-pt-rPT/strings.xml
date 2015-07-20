@@ -2,9 +2,9 @@
 <resources>
   <string name="app_name">Instalador de certificado</string>
   <string name="cert_is_added">A %s está instalada</string>
-  <string name="cert_missing_error">A instalação não pode ser concluída, pois não foi possível localizar o arquivo do certificado.</string>
+  <string name="cert_missing_error">A instalação não pode ser concluída, pois não foi possível localizar o ficheiro do certificado.</string>
   <string name="cert_not_saved">O certificado não está instalado.</string>
-  <string name="cert_read_error">A instalação não pode ser concluída, pois não foi possível ler o arquivo do certificado.</string>
+  <string name="cert_read_error">A instalação não pode ser concluída, pois não foi possível ler o ficheiro do certificado.</string>
   <string name="cert_too_large_error">Não foi possível concluir a instalação, pois o tamanho do certificado é muito grande.</string>
   <string name="credential_info">O pacote contém:</string>
   <string name="credential_name">Nome do certificado:</string>
@@ -16,7 +16,7 @@
   <string name="name_char_error">Digite um nome que contenha apenas letras e números.</string>
   <string name="name_credential_dialog_title">Nomear o certificado</string>
   <string name="name_empty_error">Digite um nome.</string>
-  <string name="no_cert_file_found">Nenhum arquivo de certificado foi encontrado no armazenamento USB.</string>
+  <string name="no_cert_file_found">Nenhum ficheiro de certificado foi encontrado no armazenamento USB.</string>
   <string name="no_cert_to_saved">Não há certificado para instalar.</string>
   <string name="one_cacrt">um certificado CA</string>
   <string name="one_usercrt">um certificado de utilizador</string>
