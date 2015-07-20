@@ -78,6 +78,7 @@
     <string name="resource_failed_to_load_list">Não é possível carregar os temas</string>
     <string name="resource_search_list_empty">Nada foi encontrado</string>
     <string name="resource_no_network_text">Não é possível ligar à rede</string>
+    <string name="resource_network_diagnostics"><u>Diagnosticar rede</u></string>
     <string name="resource_list_title">Seleccionados recentemente</string>
     <string name="resource_get_auth_checking">A verificar autorização…</string>
     <string name="resource_get_auth_retrieving">A receber autorização…</string>
@@ -106,8 +107,11 @@
     <string name="deleting">A eliminar…</string>
     <string name="resource_title_select_ringtone">Seleccione um toque</string>
     <string name="resource_tip_select_none">Nada selecionado</string>
-    <string name="resource_select_ringtone_confirm">Seleccionar este toque?</string>
-    <string name="resource_select_ringtone_confirm_picker">Seleccionar este toque?</string>
+    <string name="resource_select_ringtone_audio_confirm">Seleccionar este toque?</string>
+    <string name="resource_select_notification_audio_confirm">Seleccionar este som de alarme?</string>
+    <string name="resource_select_alarm_audio_confirm">Seleccionar este som de notificação?</string>
+    <string name="resource_select_boot_audio_confirm">Seleccionar este som de inicialização?</string>
+    <string name="resource_select_audio_confirm_picker">Seleccionar este som?</string>   
     <string name="loading_resource_detail_info">A carregar…</string>
     <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
     <string name="resource_expand_full_text">Expandir</string>
@@ -193,6 +197,19 @@
     <string name="resource_download_notification_title_one">Temas transferidos</string>
     <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
     <string name="resource_tab_to_view">Pressione para ver.</string>
+    <string name="resource_search_color">Escolha a cor para pesquisar</string>
+    <string name="resource_search_color_hint_red">Vermelho</string>
+    <string name="resource_search_color_hint_blue">Azul</string>
+    <string name="resource_search_color_hint_cyan">Ciano</string>
+    <string name="resource_search_color_hint_gray">Cinzento</string>
+    <string name="resource_search_color_hint_green">Verde</string>
+    <string name="resource_search_color_hint_brown">Castanho</string>
+    <string name="resource_search_color_hint_orange">Laranja</string>
+    <string name="resource_search_color_hint_pink">Rosa</string>
+    <string name="resource_search_color_hint_purple">Roxo</string>
+    <string name="resource_search_color_hint_black">Preto</string>
+    <string name="resource_search_color_hint_white">Branco</string>
+    <string name="resource_search_color_hint_yellow">Amarelo</string>
     <string name="app_name">Temas</string>
     <string name="theme_changing_dialog_title">"A aplicar "</string>
     <string name="theme_changed_message">Tema aplicado</string>
@@ -271,6 +288,7 @@
     <string name="my_gifts">Presentes</string>
     <string name="my_gifts_purchased">Comprados</string>
     <string name="my_gifts_received">Recebidos</string>
+    <string name="theme_setting">Definições</string>
     <string name="theme_batch_updating_text">Actualizar (%1$d)</string>
     <string name="theme_batch_update_all">Actualizar todos</string>
     <string name="theme_batch_update_dlg_title">Actualizar</string>
@@ -328,7 +346,7 @@
     <string name="gift_present_dlg_no_fee">A sua operadora não vai cobrar pelo envio de presentes</string>
     <string name="gift_present_dlg_anonymous">Prenda anónima</string>
     <string name="gift_present_dlg_share">Criar código e partilhar presente</string>
-    <string name="gift_present_dlg_present_max_limit">Este tema já foi oferecido %$1s vezes.</string>
+    <string name="gift_present_dlg_present_max_limit">Este tema já foi oferecido %1$s vezes.</string>
     <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
     <string name="gift_use_fail_dlg_title">Aconteceu algo errado</string>
     <string name="gift_unbind_fail_dlg_title">Não é possível criar o código</string>
@@ -339,8 +357,5 @@
     <string name="gift_purchased_list_empty">Ainda não recebeu nenhum presente.</string>
     <string name="gift_received_list_empty">Ainda não recebeu nenhum presente.</string>
     <string name="gift_received_notification_title">%s ofereceu-lhe um tema.</string>
-	<string name="resource_search_color">Toque numa côr para procurar</string>
-	<string name="choose_new_themes">Temas novos</string>
-	<string name="present_local_themes">Transferidos</string>
-    <string name="present_online_themes">Online</string>
+	<string name="vip_level_value">LV%d</string>
 </resources>

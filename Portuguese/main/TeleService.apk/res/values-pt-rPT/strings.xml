@@ -120,7 +120,7 @@
   <string name="call_record_auto_scenario_title">Definições da gravação automática</string>
   <string name="call_record_auto_summary">Todas as chamadas gravadas serão guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
   <string name="call_record_auto_title">Gravar automaticamente</string>
-  <string name="call_record_auto_unknown_number">Números desconhecidos</string>
+  <string name="call_record_auto_unknown_number">Números privados</string>
   <string name="call_record_auto_whitelist">Lista personalizada</string>
   <string name="call_record_auto_whitelist_no_item">Adicione um número pressionando o botão +</string>
   <string name="call_record_auto_whitelist_summary">%d números</string>
@@ -1000,13 +1000,13 @@ O cartão SIM será apagado após outra tentativa falhada."</string>
   <string name="sim_absent">Absent</string>
   <string name="sim_contact_name">Nome</string>
   <string name="sim_contact_number">Número</string>
-  <string name="sim_description_default">SIM card, slot: %s</string>
-  <string name="sim_description_emergency_calls">Emergency calling only</string>
-  <string name="sim_info">SIM card info</string>
-  <string name="sim_label_emergency_calls">Emergency calls</string>
+  <string name="sim_description_default">Cartão SIM, ranhura: %s</string>
+  <string name="sim_description_emergency_calls">Apenas chamadas de emergência</string>
+  <string name="sim_info">Informação de cartão SIM</string>
+  <string name="sim_label_emergency_calls">Chamadas de emergência</string>
   <string name="sim_ndp_dismiss_text">Dispensar</string>
   <string name="sim_ndp_unlock_text">Desbloquear</string>
-  <string name="sim_unknown">Unknown</string>
+  <string name="sim_unknown">Desconhecido</string>
   <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou.</string>
   <string name="sim_unlock_success">Cartão SIM desbloqueado.</string>
   <string name="sip_account_list">Contas SIP</string>
