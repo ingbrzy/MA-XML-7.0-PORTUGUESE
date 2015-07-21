@@ -241,9 +241,11 @@ Este serviço encripta e envia o ID do dispositivo para os servidores MI."</stri
   <string name="mx_dspt_provision_privacy_2_sim">"Este serviço necessita do seu número de telefone. A sua operadora pode cobrar por dois SMS para activar este serviço.
 
 Este requisito encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.</string>
+  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui.</string>
+  <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
+  <string name="mx_voip_dspt">Comunicação Mi</string>
   <string name="next">Seguinte</string>
   <string name="noRemind">Não voltar a lembrar</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
@@ -334,7 +336,6 @@ A utilização deste recurso está sujeita a "</string>
   <string name="verify">Verificar</string>
   <string name="view_storage_title">Verificar o espaço disponível na Nuvem</string>
   <string name="voip_choose_sim">Escolha o número de telefone para activar o Mi Voice</string>
-  <string name="voip_dspt">Mi Voice</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>

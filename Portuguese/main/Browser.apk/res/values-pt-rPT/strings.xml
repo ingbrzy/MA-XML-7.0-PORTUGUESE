@@ -180,13 +180,14 @@
   <string name="download_dialog_file_length_hint_txt">Tamanho do ficheiro:</string>
   <string name="download_dialog_file_length_lessthan1kb">Menos de 1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">Não foi possível transferir</string>
-  <string name="download_dialog_file_length_nolength_txt">A transferir…</string>
+  <string name="download_dialog_file_length_nolength_txt">Aguarde um seg…</string>
   <string name="download_failed">A transferência falhou</string>
   <string name="download_no_sdcard_dlg_msg">É necessário um cartão SD para transferir %s.</string>
   <string name="download_no_sdcard_dlg_title">Sem Cartão SD</string>
   <string name="download_pending">A iniciar transferência…</string>
   <string name="download_phone_tip">Telefone</string>
   <string name="download_router_tip">Transferir com o Mi Router</string>
+  <string name="download_sdcard_busy_dlg_msg">Cartão SD está ocupado. Para permitir transferências, desligue o armazenamento USB nas notificações.</string>
   <string name="edit">Editar</string>
   <string name="edit_bookmark">Editar marcadores</string>
   <string name="edit_quicklink">Editar</string>
@@ -315,7 +316,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="miuishare_title_share">Partilhar</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="modify_download_path_no_sdcard_dlg_msg">É necessário um cartão SD para modificar este caminho</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">É necessário cartão SD para modificar este caminho.</string>
   <string name="month_picker_dialog_title">Definir mês</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Ligar a esta rede</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Disponível ligação Wi-Fi aberta</string>
@@ -438,7 +439,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="readmode_login">Iniciar a sessão</string>
   <string name="readmode_login_message">Tem que iniciar a sessão para ler mais.</string>
   <string name="readmode_page_load_error">Não é possível carregar a página</string>
-  <string name="readmode_page_loading">A carregar…</string>
+  <string name="readmode_page_loading">Aguarde um seg…</string>
   <string name="readmode_pay">Comprar capítulo</string>
   <string name="readmode_pay_message">Tem que pagar para ler os capítulos seguintes.</string>
   <string name="readmode_reach_last_page">Chegou à última página</string>

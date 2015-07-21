@@ -494,7 +494,9 @@
   <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
   <string name="cloud_gallery_recyclebin_full">O lixo está cheio. Esvazie o lixo em www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Sem espaço suficiente na nuvem</string>
-  <string name="cloud_media_set_set">Álbuns na nuvem</string>
+  <string name="cloud_gallery_space_full_buy_more">"Não é possivel sincronizar mais fotos com a Núvem Mi. Para sincronizar mais fotos, compre espaço adicional."</string>
+  <string name="cloud_gallery_space_full_title">Núvem Mi está cheia</string>
+  <string name="cloud_media_set_set">Álbuns na núvem</string>
   <string name="cloud_owner_album_share_guide">"Partilhar este álbum
 com os amigos"</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
@@ -621,6 +623,7 @@ com os amigos"</string>
   <string name="external_usb_device_hm">Armazenamento USB externo</string>
   <string name="face_album">Pessoas</string>
   <string name="face_album_long_tap_tip">Para selecionar várias pessoas ou alterar as definições do grupo, pressione &amp; segure uma foto de perfil</string>
+  <string name="face_album_new_name_hint">Novo nome</string>
   <string name="face_album_not_named">Sem nome</string>
   <string name="face_album_rename_hint">Insira o nome</string>
   <string name="face_albumset_detecting_tip">Aguarde um segundo…</string>
@@ -628,6 +631,7 @@ com os amigos"</string>
   <string name="face_albumset_loading_data">A carregar dados…</string>
   <string name="face_albumset_pending_enable_tip">Irá ordenar as fotos quando o dispositivo estiver conectado a uma rede Wi-Fi</string>
   <string name="face_albumset_use_tip">Ordenar fotos automaticamente pelas pessoas que estão dentro delas.</string>
+  <string name="face_choose_tip">Escolher dum álbum existente</string>
   <string name="face_move_dialog_title">Seleccione o álbum</string>
   <string name="facelift">Pele clara</string>
   <string name="facetan">Pele escura</string>
@@ -661,7 +665,7 @@ com os amigos"</string>
   <string name="frame_white">Branco</string>
   <string name="frame_white_tooltip">photoeditor_frame_white</string>
   <string name="free">Livre</string>
-  <string name="gallery_cloud_provider_name">Album na Nuvem</string>
+  <string name="gallery_cloud_provider_name">Fotos na Núvem Mi</string>
   <string name="gallery_setting">Definições da Galeria</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="global_setting">Definições</string>
@@ -1038,6 +1042,7 @@ o dispositivo"</string>
   <string name="unpublish_succeeded">Álbum inédito</string>
   <string name="unpublishing">A cancelar…</string>
   <string name="untagged">Desmarcar</string>
+  <string name="upgrade_micloud_space">Obter mais espaço</string>
   <string name="user_alias_self">Próprio</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
@@ -1068,5 +1073,5 @@ o dispositivo"</string>
   <string name="yunyi_pocket_camera">Câmera desportiva</string>
   <string name="download_without_wifi_msg">Utilizar os seus dados móveis para transferir fotos vai aumentar a sua utilização de dados.  Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais.</string>
   <string name="download_without_wifi_title">Aviso de utilização de dados</string>
-  <string name="recommanded_face_abandon_tip">Removido das sugestões</string>
+  <string name="recommanded_face_abandon_tip">Removido das recomendações</string>
 </resources>

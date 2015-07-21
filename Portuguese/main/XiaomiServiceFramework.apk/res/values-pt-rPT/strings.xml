@@ -6,6 +6,7 @@
   <string name="activate_feature_find_device">A localizar dispositivo</string>
   <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
   <string name="activate_feature_mx">Mensagens Mi</string>
+  <string name="activate_feature_mx_and_voip">Comunicação Mi</string>
   <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
   <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %s</string>
   <string name="activate_popup_confirm_failed_phone_error">Tente novamente</string>
@@ -16,6 +17,8 @@
   <string name="activate_popup_confirm_upload_diagnosis_info">Relatório</string>
   <string name="activate_popup_desc_2_intl_sim_cards">A sua operadora pode cobrar 2 mensagens internacionais para activar %s.</string>
   <string name="activate_popup_desc_2_sim_cards">A sua operadora pode cobrar 2 mensagens enviadas para activar %s.</string>
+  <string name="activate_popup_desc_voip_privacy">política de privacidade</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". VoIP MIUI é suportado por Weihui, ver Weihui "</string>
   <string name="activate_popup_desc_failed_phone_error">O número que digitou é inválido.</string>
   <string name="activate_popup_desc_failed_query_info">Não é possível registar o seu número de telefone. Por favor verifique se o cartão SIM está em serviço.</string>
   <string name="activate_popup_desc_failed_receive_sms">Verifique se o número inserido está correcto e verifique se o seu cartão SIM está activado.</string>

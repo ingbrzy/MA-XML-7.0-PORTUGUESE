@@ -262,6 +262,7 @@
   <string name="multimedia_notification">Notificação de mensagem multimédia</string>
   <string name="mx2_type_description">[%s]</string>
   <string name="mx_activate_dlg_title">Activar Mensagens Mi</string>
+  <string name="mx_activate_dlg_title_ex">Activar Mensagens Mi &amp; Voz</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar Mensagens Mi para este cartão SIM.</string>
   <string name="mx_activate_error_server">Não foi possível activar o cartão SI</string>
   <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mi mensagem, o dispositivo tem que enviar um SMS para os servidores da Xiaomi.</string>
@@ -272,7 +273,6 @@
   <string name="mx_activate_int_hint_malformed_info">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_server">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_sim_change">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
-  <string name="mx_activate_user_agreement_p1">Ao utilizar este serviço, está a concordar com as Mensagens Mi</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
   <string name="mx_auto_resend_mms_summary">Enviar como MMS quando ligado à rede de dados, quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
   <string name="mx_auto_resend_sms">Enviar como texto</string>
@@ -283,7 +283,10 @@
   <string name="mx_current_status">Online</string>
   <string name="mx_dspt">Enviar mensagens pela Nuvem entre utilizadores MIUI.</string>
   <string name="mx_dspt_provision">Enviar mensagens grátis para outros utilizadores que também utilizam este recurso. Será cobrado um SMS de activação do serviço.</string>
+  <string name="mx_dspt_provision_ex">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
   <string name="mx_enable">Mensagem Mi</string>
+  <string name="mx_enable_ex">Mensagem Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens e e receber mensagens com outros utilizadores que também usam este recurso.</string>
   <string name="mx_msg">Mensagens Mi</string>
   <string name="mx_offline">Offline</string>
