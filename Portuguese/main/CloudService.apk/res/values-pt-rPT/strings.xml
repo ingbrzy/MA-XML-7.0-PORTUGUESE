@@ -17,7 +17,7 @@
   <string name="button_cancel">Cancelar</string>
   <string name="buy_more_space_b_class">Inicie sessão em mi.com/micloud para receber mais espaço de armazenamento.
 É necessário um cartão bancário de Mainland China para comprar espaço de armazenamento adicional."</string>
-  <string name="buy_more_space_c_class">Este requisito necessita dum cartão bancário de Mainland China.
+  <string name="buy_more_space_c_class">Este recurso necessita dum cartão bancário de Mainland China.
 Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="buy_space_expire">O espaço adquirido expira em %s</string>
   <string name="buy_space_expire_concat">%1$s para %2$s</string>
@@ -73,7 +73,7 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desactivar…</string>
   <string name="find_device_dspt">Localizar, bloquear, ou reiniciar o seu dispositivo remotamente</string>
-  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear, reiniciar. Pode ligar/desligar este requisito em qualquer altura nas Definições."</string>
+  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear, reiniciar. Pode ligar/desligar este recurso em qualquer altura nas Definições."</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Pode a qualquer momento activar ou desactivar esta função nas Definições.</string>
@@ -240,7 +240,7 @@ Pode a qualquer momento desactivar esta função nas Definições."</string>
 Este serviço encripta e envia o ID do dispositivo para os servidores MI."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Este serviço necessita do seu número de telefone. A sua operadora pode cobrar por dois SMS para activar este serviço.
 
-Este requisito encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
+Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
   <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui.</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>

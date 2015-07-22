@@ -341,12 +341,14 @@
   <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Adicionar contacto</string>
+  <string name="contextmenu_call">Chamada</string>
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL do link</string>
   <string name="contextmenu_dial_dot">Marcar…</string>
   <string name="contextmenu_feedback">Enviar comentários</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
+  <string name="contextmenu_open">Abrir</string>
   <string name="contextmenu_openlink">Abrir no navegador</string>
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Partilhar link</string>
@@ -357,6 +359,7 @@
   <string name="conversation_list_net_check">Não é possível ligar a rede, por favor verifique as definições da rede ou tente novamente mais tarde</string>
   <string name="conversation_overload_toast">Este email é muito grande para transferir, por favor transfira mais tarde no computador</string>
   <string name="conversation_photo_welcome_text">Pressione na imagem do remetente para seleccionar a conversa.</string>
+  <string name="copied">Copiado</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
   <string name="create_action">Novo</string>
@@ -414,7 +417,8 @@
   <string name="download_complete_not_cancel">Transferência concluída</string>
   <string name="download_confirm_message">Transferir %1$s anexos?</string>
   <string name="download_confirm_title">Transferir anexos</string>
-  <string name="download_failed">Falhou a transferência. Pressione para repetir.</string>
+  <string name="download_failed">Erro na transferência. Pressione para repetir.</string>
+  <string name="download_message_failed_for_too_large">A mensagem é demasiado grande para transferir.</string>
   <string name="download_show_image">Transferir e mostrar a imagem</string>
   <string name="downloading_message_body">A transferir email…</string>
   <string name="draft_count_format"> (%1$s)</string>
@@ -799,6 +803,7 @@ CC: %4$s
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Visualizar</string>
   <string name="previous_action">Voltar</string>
+  <string name="print">Imprimir</string>
   <string name="prompt_title">Perguntar</string>
   <string name="protocol">Protocolo</string>
   <string name="protocol_eas">eas</string>

@@ -148,7 +148,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="lock_screen_warning_value">quantidade de alerta de utilização de dados</string>
   <string name="main_alert_message_month_limit_error">Limite de dados incorrecto</string>
   <string name="main_alert_message_no_imsi">Não foi detectado nenhum cartão SIM</string>
-  <string name="main_alert_message_no_mobile_package">O limite de dados não foi definido</string>  
+  <string name="main_alert_message_no_mobile_package">Sem limite de dados definido</string>  
   <string name="main_alert_message_slot_no_data_connection">"A ranhura do cartão SIM não suporta
 uma ligação de dados móveis "</string>
   <string name="main_button_idel_traffic">Menor tráfego</string>
@@ -175,11 +175,11 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="main_secondary_message_traffic_used_leisure">%s do limite no período de menor tráfego de dados utilizados</string>
   <string name="main_secondary_message_traffic_used_noleisure">%s de maior tráfego de dados utilizados | No período de menor tráfego não há dados restantes</string>
   <string name="main_secondary_message_traffic_used_normal">%s do limite de dados utilizados</string>
-  <string name="main_toolbar_firewall">Restringir aplicação da utilização de dados</string>
+  <string name="main_toolbar_firewall">Restringir utilização de dados</string>
   <string name="main_toolbar_internet_by_mobiledata">Ligar à internet pela rede de dados</string>
   <string name="main_toolbar_internet_by_pc_brige">Ligar à internet por USB</string>
   <string name="main_toolbar_internet_by_wifi">Ligar à internet por WiFi</string>
-  <string name="main_toolbar_purchase">A carregar</string>
+  <string name="main_toolbar_purchase">Completar</string>
   <string name="main_toolbar_saving">Poupar dados</string>
   <string name="main_toolbar_statistic">Estatísticas da utilização de dados</string>
   <string name="main_traffic_overlimit_text">mais de</string>
@@ -336,15 +336,15 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_specified_adjust">Definir o limite de dados personalizado</string>
   <string name="pref_specified_traffic_settings">Definições do limite de dados</string>
   <string name="pref_title_declaration">Renúncia importante</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Mostrar alertas em notificações</string>
+  <string name="pref_title_diagnostics_show_float_notification">Notificações flutuantes</string>
   <string name="pref_title_mobile_traffic">Mostrar a utilização de dados enquanto bloqueado</string>
   <string name="pref_title_network_diagnostics">Testar rede</string>
   <string name="pref_title_over_traffic_limit_warning">Quando excedido</string>
   <string name="pref_title_traffic_limit_number">Tamanho</string>
   <string name="pref_title_traffic_speed_state">Mostrar a velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar notificações da utilização de dados</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Reduzir dados móveis para novas aplicações</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Activar Economizador de dados automaticamente para novas aplicações instaladas que possam reduzir a utilização de dados drásticamente</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Permitir excepções inteligentes</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Se activar o Economizador de Dados irá afectar a minha privacidade? &lt;/b>&lt;br />&lt;br />&lt;br />Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br />&lt;br />&lt;br />&lt;b>2. Porque não está o  Economizador de Dados a funcionar? &lt;/b>&lt;br />&lt;br /> O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>

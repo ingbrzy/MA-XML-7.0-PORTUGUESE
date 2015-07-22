@@ -11,7 +11,7 @@
   <string name="app_name">Autenticador Xiaomi</string>
   <string name="app_name_lockpattern">Padrão de Bloqueio</string>
   <string name="app_name_short">Autenticador</string>
-  <string name="authenticator_invalid_tip">É possível este requisito tenha sido desligado através do seu navegador de desktop ou tenha sido activo outro token de segurança Mi.</string>
+  <string name="authenticator_invalid_tip">É possível este recurso tenha sido desligado através do seu navegador de desktop ou tenha sido activo outro token de segurança Mi.</string>
   <string name="authenticator_invalid_title">Conta：%1$s o token de segurança expirou.</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
   <string name="button_add_account">Adicionar uma conta</string>
@@ -132,9 +132,9 @@ Antes de remover:
   <string name="summary_lockpattern">Necessita de um padrão de desbloqueio único para o Crédito Mi</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Termos do Serviço</string>
-  <string name="timesync_about_feature_preference_title">Acerca deste requisito</string>
+  <string name="timesync_about_feature_preference_title">Acerca deste recurso</string>
   <string name="timesync_about_feature_screen_details">"Se pressionar &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não serão mudadas. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
-  <string name="timesync_about_feature_screen_title">Acerca deste requisito</string>
+  <string name="timesync_about_feature_screen_title">Acerca deste recurso</string>
   <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
   <string name="timesync_preference_screen_title">Time correction for codes</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>

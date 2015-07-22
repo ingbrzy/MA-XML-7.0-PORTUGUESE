@@ -22,12 +22,12 @@
         <item quantity="one">%1$d contacto importado</item>
      </plurals>
      <plurals name="dlg_add_blacklist">
-        <item quantity="other">Block these %1$d phone numbers?</item>
-        <item quantity="one">Block this phone number?</item>
+        <item quantity="other">Bloquear estes %1$d números de telefone?</item>
+        <item quantity="one">Bloquear este número de telefone?</item>
      </plurals>
      <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Unblock these %1$d phone numbers?</item>
-        <item quantity="one">Unblock this phone number?</item>
+        <item quantity="other">Desbloquear estes %1$d números de telefone?</item>
+        <item quantity="one">Desbloquear este número de telefone?</item>
      </plurals>
      <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Copiados %d contactos</item>

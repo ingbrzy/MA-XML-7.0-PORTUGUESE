@@ -27,8 +27,8 @@
 As aplicações podem aceder a esta informação se activar esta opção."</string>
   <string name="confirm_location_title">Informação de localização do armazenamento</string>
   <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação pode estar a gravar som, tente novamente após a parar.</string>
-  <string name="confirm_recording_fail_title">Erro na gravação</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação poderá já estar a usar o microfone para gravar.</string>
+  <string name="confirm_recording_fail_title">Não é possível gravar</string>
   <string name="confirm_restore_message">As definições da câmara serão restauradas para as definições de fábrica?</string>
   <string name="confirm_restore_title">Restaurar as definições de fábrica</string>
   <string name="dialog_ok">OK</string>
@@ -84,7 +84,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_antibanding_entry_3">Automático</string>
   <string name="pref_camera_antibanding_title">Estereoscópio</string>
   <string name="pref_camera_asd_night_title">Exposição automática em fotos nocturnas</string>
-  <string name="pref_camera_asd_popup_title">Opção de mostrar o flash quando necessário</string>
+  <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Captura automática quando estiver estável</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flash</string>

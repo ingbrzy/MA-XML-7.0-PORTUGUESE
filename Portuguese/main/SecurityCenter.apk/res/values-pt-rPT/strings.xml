@@ -190,6 +190,7 @@
   <string name="hints_virus_lib_update_default_summary">Última actualização: desconhecida</string>
   <string name="hints_virus_name_title">Vírus:</string>
   <string name="hints_virus_scan_result_descx">Esta aplicação é um grande risco para a segurança do seu telefone.</string>
+  <string name="history_details_title">Detalhes do histórico</string>
   <string name="info_and_call">Chamadas e Mensagens</string>
   <string name="item_app_permission">Permissões de aplicação</string>
   <string name="item_dev_mode">Opções de Programador</string>
@@ -256,7 +257,7 @@
   <string name="month_report_result_share">Partilhar</string>
   <string name="month_report_share_img_fail">Não é possível partilhar</string>
   <string name="month_report_share_loading">Aguarde um seg…</string>
-  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, active este requisito nas Definições da aplicação de Segurança.</string>
+  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, active este recurso nas Definições da aplicação de Segurança.</string>
   <string name="month_report_warning_dialog_positive">Ligar</string>
   <string name="month_report_warning_dialog_title">Relatório mensal de segurança</string>
   <string name="name_antivirus">ver a Política de Privacidade</string>
@@ -449,7 +450,7 @@ Alterar para %3$s</string>
   <string name="power_subtitle_ontime">Perfil da Bateria activado, como agendado.</string>
   <string name="power_wifi">Wi-Fi</string>  
   <string name="pref_category_title_lock_screen_memory_clean">Limpar no ecrã de bloqueio</string>
-  <string name="pref_category_title_module_settings">Definições dos requisitos</string>
+  <string name="pref_category_title_module_settings">Definições dos recursos</string>
   <string name="pref_category_title_reference_settings">Definições adicionais</string>
   <string name="pref_category_title_securitycenter_settings">Geral</string>
   <string name="pref_category_title_virus_lib_auto_update">Definições de vírus</string>

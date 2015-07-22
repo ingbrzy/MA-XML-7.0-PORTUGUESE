@@ -54,15 +54,15 @@
     <string name="no_price">Sem informação de preço</string>
     <string name="no_evaluation">Nenhuma opinião</string>
     <string name="no_brief">Nenhuma introdução</string>
-    <string name="average_price">Média %d RMB</string>
-    <string name="minimum_price">De %d RMB</string>
+    <string name="average_price">Média %d CNY</string>
+    <string name="minimum_price">De %d CNY</string>
     <string name="more_coupons">Todas as entradas</string>
     <string name="coupon_bought_count">%d comprou</string>
     <string name="gallery">Galeria</string>
     <string name="hms_notification">Mensagens</string>
     <string name="hms_no_subject_view">(Sem assunto)</string>
     <string name="content_desc_send_sms">Enviar SMS</string>
-    <string name="currency_character">RMB</string>
+    <string name="currency_character">CNY</string>
     <string name="app_recommendation_install">Instalar</string>
     <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="menu_follow_yellow_page">Seguir</string>
@@ -133,13 +133,13 @@
     <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente.</string>
     <string name="recharge_input_phone_title">Digite o número de telefone (China Mobile, China Unicom, or China Telecom)</string>
     <string name="recharge_select_money_title">Seleccione valor</string>
-    <string name="recharge_charge_range">Preço: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">Preço: RMB %s</string>
+    <string name="recharge_charge_range">Preço: CNY %1$s-%2$s</string>
+    <string name="recharge_charge_value">Preço: CNY %s</string>
     <string name="recharge_pay">Recarregar agora</string>
     <string name="mishop_web_payment_title">Pagamento na loja Mi</string>
     <string name="recharge_pay_hint_license">Recarregar - licença</string>
     <string name="recharge_title">Recarregar</string>
-    <string name="recharge_payment_result_ok_title">Adicionar RMB%s</string>
+    <string name="recharge_payment_result_ok_title">Adicionar CNY%s</string>
     <string name="recharge_payment_result_ok_summary">Confirme que este montante será descontado no seu saldo.</string>
     <string name="recharge_payment_result_failed_title">A recarga falhou</string>
     <string name="recharge_payment_result_failed_summary">Tente novamente</string>
@@ -148,16 +148,16 @@
     <string name="recharge_phone_number_error">O número de telefone que digitou é inválido</string>
     <string name="recharge_phone_number_empty">O número de telefone não pode estar vazio</string>
     <string name="recharge_user_confirm_title">Confirmar</string>
-    <string name="recharge_user_confirm_summary">"Vai ser carregado %2$s RMB para %1$s.
+    <string name="recharge_user_confirm_summary">"Vai ser carregado %2$s CNY para %1$s.
 
-Total: RMB %3$s"</string>
+Total: CNY %3$s"</string>
     <string name="recharge_order_id">Compra #:</string>
     <string name="recharge_status_description">Estado:</string>
     <string name="recharge_actual_price">Preço:</string>
-    <string name="recharge_order_original_price">%s RMB</string>
+    <string name="recharge_order_original_price">%s CNY</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_pay">Verificar</string>
-    <string name="recharge_history">Histórico da recarga</string>
+    <string name="recharge_history">Histórico do carregamento</string>
     <string name="recharge_history_empty">Vazio</string>
     <string name="recharge_my_phone_number">O meu número</string>
     <string name="recharge_unknown_number">Desconhecido</string>
@@ -241,15 +241,13 @@ Verifique o seu número de rastreamento."</string>
     <string name="express_address_name">Nome</string>
     <string name="express_address_region">Região</string>
     <string name="express_address_deleted">Morada eliminada</string>
-    <string name="follow_express">Seguir %1$s</string>
-    <string name="follow_express_success">Siga com sucesso, pode receber mensagens e obter mais serviços de %1$s.</string>
+    <string name="follow_label">Seguir %1$s</string>
+    <string name="follow_success">A seguir %1$s.</string>
     <string name="express_order_success_hint">Vamos entregar a encomenda %s</string>
     <string name="express_order_ongoing">A dar seguimento…</string>
     <string name="express_order_succeeded">Concluído</string>
     <string name="express_order_failed">Falhou</string>
     <string name="express_field_empty">Vazio</string>
-    <string name="express_order_internal_id">Encomenda #</string>
-    <string name="express_order_created_time">Criada</string>
     <string name="express_cancel_order">Cancelar</string>
     <string name="express_delete_order">Eliminar</string>
     <string name="express_order_state_ordered">Estado</string>
@@ -283,7 +281,6 @@ Verifique o seu número de rastreamento."</string>
     <string name="express_tracking_number">Número de envio</string>
     <string name="express_track_order">Seguir encomenda</string>
     <string name="express_no_order">Sem encomendas</string>
-    <string name="express_order_info">Dados da encomenda</string>
     <string name="express_urge_order">Insistir</string>
     <string name="express_copy_number">Copiar</string>
     <string name="express_send_mms">Enviar</string>
@@ -304,17 +301,15 @@ Verifique o seu número de rastreamento."</string>
     <string name="navigation_search_no_city_list">Não foi encontrado</string>
     <string name="navigation_search_hot_cities">Popular</string>
     <string name="navigation_search_all_cities">Todas as cidades</string>
-    <string name="yuan">Yuan</string>
     <string name="order_type_recharge">Recarregar</string>
     <string name="order_empty_hint">Sem encomendas</string>
     <string name="order_merchant_title">As minhas encomendas</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_status">%s</string>
-    <string name="order_product_name_label">"Nome do produto: "</string>
-    <string name="order_status_label">"Estado da encomenda: "</string>
-    <string name="order_price_label">"Preço da encomenda: "</string>
-    <string name="order_id_label">"Encomenda #: "</string>
-    <string name="order_date_label">Data da encomenda:</string>
+    <string name="order_product_name_label">"Nome do produto: %1$s"</string>
+    <string name="order_status_label">"Estado da encomenda: %1$s"</string>
+    <string name="order_price_label">"Preço da encomenda: %1$s"</string>
+    <string name="order_id_label">"Encomenda #: %1$s"</string>
+    <string name="order_date_label">Data da encomenda: %1$s</string>
     <string name="order_not_found">Não existem encomendas</string>
     <string name="order_detail">Detalhes</string>
     <string name="general_yellow_page_title">Geral</string>
@@ -329,9 +324,6 @@ Verifique o seu número de rastreamento."</string>
     <string name="general_menu_unfollow">Não seguir</string>
     <string name="general_btn_follow_ok">A seguir</string>
     <string name="general_btn_follow">Seguir</string>
-    <string name="general_follow_hint">"Se seguir %1$s, pode receber informações de %1$s e obter mais serviços de %1$s.
-
-Seguir esta página amarela?"</string>
     <string name="general_unfollow_hint">Deixar de seguir %1$s?</string>
     <string name="general_cancel_followed_ok">Não seguido</string>
     <string name="general_follow_hint_title">Sugestão</string>
@@ -340,7 +332,7 @@ Seguir esta página amarela?"</string>
     <string name="nearby_yellow_page_title">Próximo</string>
     <string name="nearby_no_yellow_page">Sem resultados</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
-    <string name="nearby_average_price">Taxa %d RMB</string>
+    <string name="nearby_average_price">Taxa %d CNY</string>
     <string name="user_agreement2">" Termos de Serviço"</string>
     <string name="user_agreement4">Privacidade e Política</string>
     <string name="callNoAnswerTimeFormat">Chamar %s vezes</string>
@@ -376,4 +368,15 @@ Seguir esta página amarela?"</string>
     <string name="sina_token_expired_warning">A conta Weibo está expirada: Por favor reactive-a</string>
     <string name="sina_token_invalid_warning">A conta Weibo é inválida: Por favor reactive-a</string>
     <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
+	<string name="about_phone_event">Acerca da Informação de Serviço</string>
+	<string name="express_banner_header">%1$s / Número de rastreio</string>
+	<string name="express_order_state">%1$s / %2$s</string>
+	<string name="general_follow_hint">Seguir %1$s para receber actualizações importantes</string>
+	<string name="order_info">Informação de encomenda</string>
+	<string name="phone_event_setting_notice_text">"Vai receber informação do serviço após uma chamada de serviço recebida ou efectuada. Ao utilizar isto,  poderá carregar o estado do telefone destas chamadas."</string>
+	<string name="recharge_follow_name">serviço de carregamento</string>
+	<string name="recharge_phone_format">%1$s / %2$s</string>
+	<string name="CNY">CNY</string>
+	<string name="turn_on_phone_event_summary">Carregar o estado do telefone dos números de serviço</string>
+    <string name="turn_on_phone_event_title">Receber informações do serviço</string>
 </resources>

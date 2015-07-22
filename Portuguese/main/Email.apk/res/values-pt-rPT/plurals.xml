@@ -40,36 +40,36 @@
         <item quantity="many">%d seleccionados</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> arquivadas.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> arquivada.</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> arquivadas.</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> arquivada.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> eliminadas.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> eliminada.</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> eliminadas.</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> eliminada.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Pastas alteradas.</item>
         <item quantity="one">Pasta alterada.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ignoradas</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ignorada.</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> ignoradas</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> ignorada.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens removidas da pasta 'importante'"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> removida da pasta 'importante'"</item>
+        <item quantity="other">"&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagens removidas da pasta 'importante'"</item>
+        <item quantity="one">"&amp;amp;lt;b> %1$d &amp;amp;lt;/b> removida da pasta 'importante'"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> removidas da pasta 'spam'"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> removida da pasta 'spam'"</item>
+        <item quantity="other">"&amp;amp;lt;b> %1$d &amp;amp;lt;/b> removidas da pasta 'spam'"</item>
+        <item quantity="one">"&amp;amp;lt;b> %1$d &amp;amp;lt;/b> removida da pasta 'spam'"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens denunciadas como spam</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem denunciada como spam</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagens denunciadas como spam</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagem denunciada como spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> marcadas como spam</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> marcada como spam</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> marcadas como spam</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> marcada como spam</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">A remover a estrela de %1$d conversas</item>
