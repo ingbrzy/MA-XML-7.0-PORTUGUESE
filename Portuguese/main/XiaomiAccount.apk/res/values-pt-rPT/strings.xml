@@ -102,7 +102,7 @@ Para activar a conta, siga em
     <string name="passport_skip_setup_account_msg">Pode configurar mais tarde uma conta Mi em Definições.</string>
     <string name="passport_xiaomi_account_dspt">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja MIUI Temas, e outros serviços Mi, em qualquer lugar.</string>
     <string name="passport_xiaomi_account_sec_dspt" />
-    <string name="passport_xiaomi_account_sec_dspt2">Para iniciar sessão na sua Conta Mi, é necessário conectar à internet, localizar o seu dispositivo e ligar a Núvem Mi e o sistema vip.</string>
+    <string name="passport_xiaomi_account_sec_dspt2">Para iniciar sessão na sua Conta Mi, é necessário conectar à internet, localizar o seu dispositivo e ligar a Nuvem Mi e o sistema vip.</string>
     <string name="passport_remove_unactivated_account_notice">A sua conta não foi activada</string>
     <string name="passport_remove_confirm">Terminar sessão</string>
     <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra passe.</string>
@@ -165,7 +165,7 @@ Para activar a conta, siga em
     <string name="verification_failed">Autentificação falhada</string>
     <string name="error_network">Não é possível ligar à rede</string>
     <string name="error_ssl_hand_shake">O dispositivo teve um problema ao ligar aos nossos servidores. Tente definir a data e hora do sistema da sua localização actual.</string>
-    <string name="error_device_id">Não é possivel obter IMEI</string>
+    <string name="error_device_id">Não é possível obter IMEI</string>
     <string name="error_server">Erro no servidor</string>
     <string name="error_unknown">Não é possível iniciar sessão</string>
     <string name="error_invalid_dev_id">Identif do dispositivo inválida</string>
@@ -301,7 +301,7 @@ Por favor insira a verificação no email"</string>
     <string name="mi_account_identity_title">Verificar a sua identidade</string>
     <string name="exceed_binded_phone_times_notice">Este número está ligado a muitas contas mi, por favor altere para outro número e tente novamente.</string>
     <string name="bind_settings">Contas</string>
-    <string name="cloud_service">Núvem Mi</string>
+    <string name="cloud_service">Nuvem Mi</string>
     <string name="account_bind_settings">Associar conta</string>
     <string name="account_bind_devices">Dispositivos ligados</string>
     <string name="account_dspt_provision">Inicie a sessão na conta Mi para entrar na Nuvem Mi, Loja de temas MIUI, e outros serviços Mi, em qualquer lugar.</string>

@@ -851,10 +851,10 @@ A definição do telefone pode exigir a actividade de rede significativa."</stri
     <string name="sim_bad_pin">Digite um PIN de 4 a 8 números</string>
     <string name="sim_pins_dont_match">Os PINs não coincidem</string>
     <string name="sim_change_failed">"Não é possível alterar o PIN.
-Possivelmente o código PIN está errado."</string>
+possívelmente o código PIN está errado."</string>
     <string name="sim_change_succeeded">PIN do SIM alterado com sucesso</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-Possivelmente o código PIN está errado."</string>
+possívelmente o código PIN está errado."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
     <string name="wrong_pin_code_pukked">O Código PIN do cartão SIM está errado deve entrar em conctato com a sua operadora para desbloquear o dispositivo.</string>
@@ -2023,7 +2023,7 @@ O seu administrador pode monitorizar a sua actividade da rede, incluido emails, 
 Para mais informação contacte o seu administrador."</string>
     <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorizar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de internet seguras. 
 
-Uma credencial de confiança instalada no seu dispositivo está a fazer isto possivel."</string>
+Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
     <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
     <string name="user_settings_title">Utilizadores e restrições</string>
     <string name="user_list_title">Utilizadores e perfil</string>
@@ -2129,7 +2129,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="user_image_take_photo">Tirar fotografia</string>
     <string name="user_image_choose_photo">Seleccionar fotografia da galeria</string>
     <string name="regulatory_info_text" />
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possivel partilhar Wi-Fi se a ligação está desligada</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Não é possível partilhar Wi-Fi se a ligação está desligada</string>
     <string name="cell_broadcast_settings_summary">Seleccione os tipos de alerta de emergência</string>
     <string name="screen_timeout_title">Modo de suspensão</string>
     <string name="sim_status_title">Estado do SIM</string>
