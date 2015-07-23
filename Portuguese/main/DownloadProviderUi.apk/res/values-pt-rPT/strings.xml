@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Utilizar apenas Wi-Fi</string>
   <string name="add_flow_fail_haveget_msg">O período de experimental terminou</string>
   <string name="add_flow_fail_vip_msg">Transferência de alta velocidade está activada</string>
@@ -7,7 +12,7 @@
   <string name="all_downloads">Todas as transferências</string>
   <string name="all_fileter">TODOS</string>
   <string name="all_the_internet">Todas as redes</string>
-  <string name="apk_filter">Apk</string>
+  <string name="apk_filter">APK</string>
   <string name="app_downloads">%s transferências</string>
   <string name="app_label">Transferências</string>
   <string name="auth_activity_title">Conta Xunlei</string>
@@ -42,7 +47,7 @@
   <string name="display_expire_netiv1">Neste mês</string>
   <string name="doc_filter">Documentos</string>
   <string name="download_complete">Concluído</string>
-  <string name="download_error">Falhou</string>
+  <string name="download_error">Erro</string>
   <string name="download_error_insufficient_space">Espaço insuficiente</string>
   <string name="download_filesize_unknown">desconhecido</string>
   <string name="download_in_process">A transferir</string>
@@ -144,7 +149,7 @@
   <string name="toast_xunlei_engine_open">Optimizador de transferências Xunlei activado</string>
   <string name="turn_off_xunlei_message">Poderá detectar velocidades de transferência mais lentas.</string>
   <string name="turn_off_xunlei_tips">Xunlei - Optimização de transferências desligado</string>
-  <string name="turn_off_xunlei_title">Desactivar optimizador de transferências Xunlei</string>
+  <string name="turn_off_xunlei_title">Desligar Xunlei</string>
   <string name="unbind_xunlei_2_success">Conta Xunlei adicionada</string>
   <string name="unbind_xunlei_success">Terminar a sua sessão Xunlei</string>
   <string name="valid_in_this_month">válido somente neste mês</string>
@@ -160,7 +165,23 @@
   <string name="xunlei_speed_service">Xunlei optimiza o serviço</string>
   <string name="xunlei_switch">Optimizador de transferências Xunlei</string>
   <string name="download">Transferências</string>
-  <string name="downloaded_empty">Sem conteúdo transferido</string>
-  <string name="downloading_empty">Sem conteúdo a transferir</string>
-  <string name="show_more">Mais(%s)</string>
+  <string name="downloaded_empty">Vazio</string>
+  <string name="downloading_empty">Vazio</string>
+  <string name="show_more">Mostrar %s mais</string>
+  <string name="expire_notification_msg">您的迅雷会员即将到期，点击查看详情。</string>
+  <string name="expire_today_notification_msg">您的迅雷会员今天将到期，点击查看详情。</string>
+  <string name="no_vip_info">开通迅雷会员即可享受加速特权</string>
+  <string name="no_vip_show_info">"手机与电脑齐加速；
+畅享加速节省时间更给力！"</string>
+  <string name="start_xunlei_speedup_info">会员登录后下载任务时自动开启高速通道</string>
+  <string name="third_web_cancel">取消</string>
+  <string name="third_web_confirm">确定</string>
+  <string name="third_web_default">设为默认保存路径，以后不再提醒</string>
+  <string name="third_web_filename_hint">文件名称</string>
+  <string name="third_web_filesize">文件大小:</string>
+  <string name="third_web_savepath">目录</string>
+  <string name="third_web_title">保存</string>
+  <string name="vip_expire_show_info">您的迅雷会员即将到期\\n立即续费尊享95折优惠</string>
+  <string name="vip_expire_today_show_info">您的迅雷会员今天将到期\\n立即续费尊享95折优惠</string>
+  <string name="vip_show_info">500万迅雷会员的选择\\n专属加速特权，畅享快人一步的放肆</string>
 </resources>

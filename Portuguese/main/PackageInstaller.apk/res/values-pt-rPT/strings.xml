@@ -104,4 +104,9 @@ Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="package_delete_confirm_step_1">Eliminar %s?</string>
     <string name="package_delete_confirm_step_2">Se eliminar esta aplicação o sistema pode tornar-se instável.</string>
     <string name="package_delete_confirm_step_3">Se eliminar a aplicação não a poderá utilizar no futuro.</string>
+	<string name="app_store_install_hint">Instalar agora</string>
+    <string name="app_store_installing_message">A instalar Loja de Aplicações ……</string>
+    <string name="app_store_missing_message">Foi detectado que a Loja de Aplicações Xiaomi não está instalada neste dispositivo. Nós sugerimos que instale a loja de aplicações imediatamente.</string>
+    <string name="app_store_missing_title">Não existe Loja de Aplicações</string>
+	<string name="reboot_time">Preparar para reiniciar……(%1$s)</string>
 </resources>
