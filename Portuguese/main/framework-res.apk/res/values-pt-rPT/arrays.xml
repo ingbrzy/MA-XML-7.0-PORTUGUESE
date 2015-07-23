@@ -1,57 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="app_ops_labels">
-        <item>A intentar aceder a localização</item>
-        <item>A intentar aceder a localização</item>
-        <item>A intentar aceder a localização</item>
-        <item>A intentar usar a vibração</item>
-        <item>A intentar ler os contactos</item>
-        <item>A intentar modificar os contactos</item>
-        <item>A intentar ler o registo de chamadas</item>
-        <item>A intentar modificar o registo de chamadas</item>
-        <item>A intentar ler o calendário</item>
-        <item>A intentar modificar o calendário</item>
-        <item>A intentar aceder a localização</item>
-        <item>A intentar afixar a notificação</item>
-        <item>A intentar aceder a localização</item>
-        <item>A intentar fazer um telefonema</item>
-        <item>A intentar ler SMS</item>
-        <item>A intentar escrever/modificar SMS</item>
-        <item>A intentar receber SMS</item>
-        <item>A intentar receber SMS</item>
-        <item>A intentar receber SMS</item>
-        <item>A intentar receber SMS</item>
-        <item>A intentar enviar SMS</item>
-        <item>A intentar ler SMS</item>
-        <item>A intentar escrever/modificar SMS</item>
-        <item>A intentar modificar as definições</item>
-        <item>Trying to draw on top</item>
-        <item>A intentar aceder as notificações</item>
-        <item>A intentar aceder a câmara</item>
-        <item>A intentar gravar áudio</item>
-        <item>A intentar reproduzir áudio</item>
-        <item>A intentar ler a área de transferência</item>
-        <item>A intentar modificar a área de transferência</item>
-        <item>Trying to use media buttons</item>
-        <item>Trying to use audio focus</item>
-        <item>Trying to use master volume</item>
-        <item>A intentar usar o volume da voz</item>
-        <item>A intentar usar o volume do toque</item>
-        <item>A intentar usar o volume da multimédia</item>
-        <item>A intentar usar o volume do alarme</item>
-        <item>A intentar usar o volume da notificação</item>
-        <item>A intentar usar o volume de Bluetooth</item>
-        <item>A intentar manter o dispositivo desperto</item>
-        <item>A intentar aceder a localização</item>
-        <item>A intentar aceder a localização</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off Bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>A intentar enviar MMS</item>
-        <item>A intentar ler MMS</item>
-        <item>A intentar escrever MMS</item>
-        <item>Trying to start at bootup</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar utilizar a vibração</item>
+        <item>A tentar ler os contactos</item>
+        <item>A tentar modificar os contactos</item>
+        <item>A tentar ler o registo de chamadas</item>
+        <item>A tentar modificar o registo de chamadas</item>
+        <item>A tentar ler o calendário</item>
+        <item>A tentar modificar o calendário</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar publicar notificação</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar fazer uma chamada</item>
+        <item>A tentar ler SMS</item>
+        <item>A tentar escrever/modificar SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar enviar SMS</item>
+        <item>A tentar ler SMS</item>
+        <item>A tentar escrever/modificar SMS</item>
+        <item>A tentar modificar as definições</item>
+        <item>A tentar desenhar no topo</item>
+        <item>A tentar aceder às notificações</item>
+        <item>A tentar aceder à Câmara</item>
+        <item>A tentar gravar áudio</item>
+        <item>A tentar reproduzir áudio</item>
+        <item>A tentar ler a área de transferência</item>
+        <item>A tentar modificar a área de transferência</item>
+        <item>A tentar utilizar os botões de media</item>
+        <item>A tentar utilizar a focagem de áudio</item>
+        <item>A tentar utilizar o volume master</item>
+        <item>A tentar utilizar o volume de voz</item>
+        <item>A tentar utilizar o volume do toque</item>
+        <item>A tentar utilizar o volume de media</item>
+        <item>A tentar utilizar o volume do alarme</item>
+        <item>A tentar utilizar o volume da notificação</item>
+        <item>A tentar utilizar o volume do bluetooth</item>
+        <item>A tentar manter o dispositivo desperto</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar ligar/desligar o Wi-Fi</item>
+        <item>A tentar ligar/desligar o Bluetooth</item>
+        <item>A tentar ligar/desligar os dados móveis</item>
+        <item>A tentar enviar MMS</item>
+        <item>A tentar ler MMS</item>
+        <item>A tentar escrever MMS</item>
+        <item>A tentar iniciar o arranque</item>
      </string-array>
      <integer-array name="config_calendarDateVibePattern">
         <item>125</item>
@@ -101,16 +100,16 @@
         <item>1,sim,0,modem</item>
      </string-array>
      <string-array name="emailAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
      </string-array>
      <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
      </string-array>
      <string-array name="imProtocols">
         <item>AIM</item>
@@ -154,9 +153,9 @@
         <item>20404;suffix;BAE0000000000000</item>
      </string-array>
      <string-array name="organizationTypes">
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Emprego</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
      </string-array>
      <string-array name="origin_carrier_names">
         <item>"CHINA  MOBILE"</item>
@@ -174,19 +173,19 @@
         <item>Searching for Service</item>
      </string-array>
      <string-array name="phoneTypes">
-        <item>Home</item>
-        <item>Mobile</item>
-        <item>Work</item>
-        <item>Work Fax</item>
-        <item>Home Fax</item>
+        <item>Casa</item>
+        <item>Telemóvel</item>
+        <item>Emprego</item>
+        <item>Fax do trabalho</item>
+        <item>Fax de casa</item>
         <item>Pager</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
      </string-array>
      <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
      </string-array>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <string-array name="app_ops_labels">
         <item>A tentar aceder à localização</item>
@@ -101,14 +100,14 @@
         <item>1,sim,0,modem</item>
      </string-array>
      <string-array name="emailAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizado</item>
      </string-array>
      <string-array name="imAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizado</item>
      </string-array>
@@ -174,17 +173,17 @@
         <item>Searching for Service</item>
      </string-array>
      <string-array name="phoneTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Telemóvel</item>
         <item>Emprego</item>
-        <item>Fax do emprego</item>
-        <item>Fax da residência</item>
+        <item>Fax do trabalho</item>
+        <item>Fax de casa</item>
         <item>Pager</item>
         <item>Outro</item>
         <item>Personalizado</item>
      </string-array>
      <string-array name="postalAddressTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizar</item>
