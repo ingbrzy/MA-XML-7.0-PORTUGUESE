@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="abbrev_in_num_days">
+        <item quantity="other">daqui a %d dias</item>
+        <item quantity="one">amanhã</item>
+     </plurals>
+     <plurals name="abbrev_in_num_hours">
+        <item quantity="other">daqui a %d horas</item>
+        <item quantity="one">daqui a 1 hora</item>
+     </plurals>
+     <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">daqui a %d min.</item>
+        <item quantity="one">daqui a 1 min.</item>
+     </plurals>
+     <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">daqui a %d seg.</item>
+        <item quantity="one">daqui a 1 seg.</item>
+     </plurals>
+     <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">ontem</item>
+     </plurals>
+     <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">1 hora atrás</item>
+     </plurals>
+     <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min. atrás</item>
+        <item quantity="one">1 min. atrás</item>
+     </plurals>
+     <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d seg. atrás</item>
+        <item quantity="one">1 seg. atrás</item>
+     </plurals>
+     <plurals name="duration_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+     </plurals>
+     <plurals name="duration_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
+     </plurals>
+     <plurals name="duration_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">1 segundo</item>
+     </plurals>
+     <plurals name="in_num_days">
+        <item quantity="other">daqui a %d dias</item>
+        <item quantity="one">amanhã</item>
+     </plurals>
+     <plurals name="in_num_hours">
+        <item quantity="other">daqui a %d horas</item>
+        <item quantity="one">daqui a 1 hora</item>
+     </plurals>
+     <plurals name="in_num_minutes">
+        <item quantity="other">daqui a %d minutos</item>
+        <item quantity="one">daqui a 1 minuto</item>
+     </plurals>
+     <plurals name="in_num_seconds">
+        <item quantity="other">daqui a %d segundos</item>
+        <item quantity="one">daqui a 1 segundo</item>
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Últimos %d dias</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">1 coincide</item>
+     </plurals>
+     <plurals name="num_days_ago">
+        <item quantity="other">%d dias atrás</item>
+        <item quantity="one">ontem</item>
+     </plurals>
+     <plurals name="num_hours_ago">
+        <item quantity="other">%d horas atrás</item>
+        <item quantity="one">1 hora atrás</item>
+     </plurals>
+     <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+     </plurals>
+     <plurals name="num_seconds_ago">
+        <item quantity="other">%d segundos atrás</item>
+        <item quantity="one">1 segundo atrás</item>
+     </plurals>
+     <plurals name="pinpuk_attempts">
+        <item quantity="other">Tem %d tentativas restantes antes do cartão SIM bloquear.</item>
+        <item quantity="one">Tem %d tentativa restante antes do cartão SIM bloquear.</item>
+     </plurals>
+     <plurals name="restr_pin_countdown">
+        <item quantity="other">Tente novamente daqui a %d segundos</item>
+        <item quantity="one">Tente novamente daqui a 1 segundo</item>
+     </plurals>
+     <plurals name="wifi_available">
+        <item quantity="other">Redes Wi-Fi disponíveis</item>
+        <item quantity="one">Rede Wi-Fi disponível</item>
+     </plurals>
+     <plurals name="wifi_available_detailed">
+        <item quantity="other">Redes Wi-Fi disponíveis</item>
+        <item quantity="one">Rede Wi-Fi disponível</item>
+     </plurals>
+     <plurals name="zen_mode_duration_hours">
+        <item quantity="other">Por %d horas</item>
+        <item quantity="one">Por uma hora</item>
+     </plurals>
+     <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">Por %d minutos</item>
+        <item quantity="one">Por um minuto</item>
+     </plurals>
+</resources>
