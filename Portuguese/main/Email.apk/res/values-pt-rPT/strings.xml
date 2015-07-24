@@ -494,8 +494,8 @@
   <string name="folder_trash_name_en3">[Gmail]/Caixa</string>
   <string name="formatted_email_address">&lt;%1$s</string>
   <string name="formatted_subject">%1$s%2$s</string>
-  <string name="forward">Encaminhar</string>
-  <string name="forward_attachment">Encaminhar</string>
+  <string name="forward">Reencaminhar</string>
+  <string name="forward_attachment">Rencaminhar</string>
   <string name="forward_attribution">---------- Mensagem encaminhada ----------&lt;br>De: %1$s&lt;br>Data: %2$s&lt;br>Assunto: %3$s&lt;br>Para: %4$s&lt;br></string>
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
