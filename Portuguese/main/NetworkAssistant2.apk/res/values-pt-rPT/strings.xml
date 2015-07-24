@@ -32,7 +32,7 @@
   <string name="connect_internet_by_usbshare">Ligar à internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Ligar à internet por WiFi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
-  <string name="daily_limit_and_lock_screen">Utilização diária de dados &amp; notificações</string>
+  <string name="daily_limit_and_lock_screen">Utilização diária de dados e notificações</string>
   <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os dados móveis.</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
@@ -126,7 +126,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="hints_input_roaming_daily_limit">Digite o limite de utilização de dados</string>
   <string name="hints_install_apps_new">Nunca utilizado</string>
   <string name="hints_install_apps_today">Usado hoje</string>
-  <string name="input_aviable_traffic">Definir limite da utilização de dados</string>
+  <string name="input_aviable_traffic">Definir a utilização de dados</string>
   <string name="input_traffic_pkg">Introduza a utilização dados</string>
   <string name="input_used_hint">Insira a utilização de dados</string>
   <string name="input_used_max_hint">Insira a utilização de dados (menos de %s)</string>
@@ -145,7 +145,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="lock_screen_warning_category">Notificações no Ecrã de Bloqueio</string>
   <string name="lock_screen_warning_switch_summary">Mostrar alerta no ecrã de bloqueio quando os dados excederem uma certa quantidade</string>
   <string name="lock_screen_warning_switch_title">Mostrar alertas no ecrã de bloqueio</string>
-  <string name="lock_screen_warning_value">quantidade de alerta de utilização de dados</string>
+  <string name="lock_screen_warning_value">Quantidade de alerta de notificação</string>
   <string name="main_alert_message_month_limit_error">Limite de dados incorrecto</string>
   <string name="main_alert_message_no_imsi">Não foi detectado nenhum cartão SIM</string>
   <string name="main_alert_message_no_mobile_package">Sem limite de dados definido</string>  
