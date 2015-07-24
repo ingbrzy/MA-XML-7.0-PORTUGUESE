@@ -40,7 +40,7 @@
   <string name="backup_recently">" (cópia mais recente) "</string>
   <string name="backup_report">Ver detalhes</string>
   <string name="backup_update">Actualizar</string>
-  <string name="batch_delete_backup_confirm">Eliminar %d cópias?</string>
+  <string name="batch_delete_backup_confirm">Eliminar cópias selecionadas?</string>
   <string name="button_backup">Cópia de segurança</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_continue">Continuar</string>
@@ -226,7 +226,7 @@
   <string name="task_running_restore_hint">O serviço está a ser executado em segundo plano.</string>
   <string name="task_service_not_launched">A tarefa ainda não iniciou.</string>
   <string name="task_stopped_exception">Restauro interrompido</string>
-  <string name="total_num">%d ficheiros</string>
+  <string name="total_num">%d ficheiros, </string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" ficheiros"</string>
   <string name="unknown_hint">Desconhecido</string>
