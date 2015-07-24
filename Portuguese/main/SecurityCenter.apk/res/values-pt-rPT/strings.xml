@@ -297,7 +297,7 @@
   <string name="power_center_consume_rank">Consumo de energia</string>
   <string name="power_center_consume_time">%1$s restante</string>
   <string name="power_center_custom_summary_default">Melhorar a vida da bateria com perfis personalizados</string>
-  <string name="power_center_custom_title">Definições da bateria</string>
+  <string name="power_center_custom_title">Perfis da bateria</string>
   <string name="power_center_low_battery_summary_default">Alternar perfis quando a bateria está fraca</string>
   <string name="power_center_low_battery_summary_dynamic">No %1$d%% 
 Alterar para %2$s</string>
@@ -305,7 +305,7 @@ Alterar para %2$s</string>
   <string name="power_center_on_time_summary_default">Alterar o modo de energia no horário agendado</string>
   <string name="power_center_on_time_summary_dynamic">De %1$s para %2$s 
 Alterar para %3$s</string>
-  <string name="power_center_on_time_title">Definir e alterar perfil</string>
+  <string name="power_center_on_time_title">Alteração de perfil programada</string>
   <string name="power_center_ontime_boot">Hora de ligar</string>
   <string name="power_center_ontime_shutdown">Hora de desligar</string>
   <string name="power_center_repeat">Repetir</string>
@@ -429,17 +429,17 @@ Alterar para %3$s</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Alternar perfis da bateria quando a energia restante é inferior a %1$d%%</string>
   <string name="power_save_low_battery_title">Economizador da bateria</string>
-  <string name="power_save_on_time_auto_save_title">Definir e alterar perfil</string>
+  <string name="power_save_on_time_auto_save_title">Programar alteração de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Fim</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Alterar para</string>
+  <string name="power_save_on_time_goout_title">Após o período mudar para</string>
   <string name="power_save_on_time_option_recovery_title">Quando este período termina, alterar para</string>
   <string name="power_save_on_time_option_summary">No final deste período o dispositivo voltará ao perfil utilizado mais recentemente</string>
-  <string name="power_save_on_time_option_title">Durante este período alterar para</string>
+  <string name="power_save_on_time_option_title">Neste período alterar para</string>
   <string name="power_save_on_time_start_time_summary">Iniciar</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_title">Definir e alterar perfil</string>
+  <string name="power_save_on_time_title">Programar alteração de perfil</string>
   <string name="power_screen">Ecrã</string>
   <string name="power_settings_category_title">Indicador da bateria</string>
   <string name="power_settings_number">Percentagem</string>
