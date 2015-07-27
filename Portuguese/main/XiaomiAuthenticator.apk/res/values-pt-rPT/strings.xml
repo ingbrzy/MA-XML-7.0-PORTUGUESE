@@ -143,11 +143,11 @@ Antes de remover:
   <string name="timesync_sync_now_progress_dialog_details">A conectar ao servidor…</string>
   <string name="timesync_sync_now_progress_dialog_title">Sincronizar agora</string>
   <string name="timesync_sync_now_screen_title">Sincronizar agora</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">"Authenticator's internal clock was not adjusted because it appears to already be in sync with servers."</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_title">Time already correct</string>
-  <string name="timesync_sync_now_time_corrected_dialog_details">"Authenticator's internal clock has been adjusted to match the time provided by servers. 
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"O relógio interno do Autenticador não foi corrigido porque já está sincronizado com os servidores."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Hora já está correcta</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"O relógio interno do Autenticador foi ajustado para coincidir com o tempo fornecido pelos servidores. 
 
-The Date &amp; Time settings on this device have not been changed."</string>
+As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Hora corrigida</string>
   <string name="tip1_patternforgotten">Reinstalar e reactivar</string>
   <string name="tip2_patternforgotten">Toque em Reset para limpar os dados da conta e reactivar.</string>
