@@ -106,11 +106,13 @@
   <string name="file_info_modified">Ultima modificação:</string>
   <string name="file_info_size">Tamanho:</string>
   <string name="file_loading">A carregar…</string>
+  <string name="file_name_invalid">"Os nomes de ficheiros não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">O ficheiro não existe</string>
   <string name="file_too_large">O ficheiro é muito grande para enviar</string>
   <string name="files">Ficheiros</string>
   <string name="finished">Concluído</string>
   <string name="folder_exist">A pasta já existe.</string>
+  <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Pressione&lt;/a&gt;para ir para a pasta do lixo</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
@@ -202,7 +204,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Vídeos</string>
   <string name="my_video_desc"/>
-  <string name="name_illegal">Deve introduzir um nome.</string>
+  <string name="name_empty">Deve introduzir um nome.</string>
   <string name="net_lose_connected">Ligação perdida.</string>
   <string name="networkView_notConnected">Não é possível ligar à rede</string>
   <string name="network_connect_confirm_des">O Explorador necessita de ligar à internet para funcionar</string>
@@ -267,8 +269,10 @@
   <string name="paused">Em pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefone</string>
+  <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="pull_to_signin">Deslize para baixo para verificar.</string>
   <string name="release_to_signin">Solte para verificar</string>
+  <string name="rename_alert">"Se mudar a extensão deste ficheiro, pode não conseguir abri-lo."</string>
   <string name="rename_description">A renomear…</string>
   <string name="rename_failed">Não é possível renomear %1$s</string>
   <string name="sd_card_available">Disponível: %1$s</string>

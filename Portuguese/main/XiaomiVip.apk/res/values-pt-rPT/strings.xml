@@ -9,7 +9,7 @@
     <string name="cube_ptr_seconds_ago"> segundos atrás</string>
     <string name="cube_ptr_minutes_ago"> minutos atrás</string>
     <string name="cube_ptr_hours_ago"> horas atrás</string>
-    <string name="app_name">XiaomiVip</string>
+    <string name="app_name">Vip Mi</string>
     <string name="level">Level</string>
     <string name="level_exp_value" formatted="false">%d/%d</string>
     <string name="level_detail">Limite de tarefa diária: %d</string>
@@ -17,7 +17,7 @@
     <string name="task">Tarefas</string>
     <string name="today_task">Tarefas hoje</string>
     <string name="today_task_format" formatted="false">%d/%d</string>
-    <string name="passive_task">Tarefas passivas</string>
+    <string name="passive_task">Tarefas em segundo plano</string>
     <string name="task_score">%d pontos</string>
     <string name="task_ongoing">Contínuo</string>
     <string name="task_done">Feito</string>
@@ -33,15 +33,15 @@
     <string name="award_taken">Pontos recolhidos</string>
     <string name="task_begin">Em progresso…</string>
     <string name="in_progress">A enviar pedido…</string>
-    <string name="privilege">Privilégio</string>
+    <string name="privilege">Privilégios</string>
     <string name="promote">Subir de nível</string>
     <string name="level_info_format" formatted="false">"Nível %d %d/%d
 %s"</string>
     <string name="no_network">Não é possível ligar à rede</string>
-    <string name="task_limit">Não foi deixada nenhuma tarefa para hoje, vejo-o amanhã!</string>
+    <string name="task_limit">Não foram deixadas nenhumas tarefas para hoje. Vejo-o amanhã!</string>
     <string name="no_task">Todas as tarefas foram concluídas</string>
     <string name="fail_reach_server">Não é possível ligar ao servidor</string>
-    <string name="no_app">Por favor instale primeiro a aplicação</string>
+    <string name="no_app">Instalar a aplicação Vip Mi primeiro</string>
     <string name="use">Usar</string>
     <string name="already_used">Usado</string>
     <string name="unlimited_task">Tarefas especiais</string>
@@ -49,7 +49,7 @@
     <string name="awarded_package_is_expired">Expirado</string>
     <string name="awarded_package_was_redeemed">Resgatado</string>
     <string name="take_awarded_package_failed">Não foi possível resgatar o presente. Espere um minuto ou dois e tente novamente.</string>
-    <string name="invalid_json">A resposta é uma sequência JSON inválida</string>
+    <string name="invalid_json">Alguma coisa correu mal</string>
     <string name="task_select_title">Escolha uma tarefa</string>
     <string name="task_not_completed">Não concluído</string>
     <string name="task_completed">Concluído</string>
