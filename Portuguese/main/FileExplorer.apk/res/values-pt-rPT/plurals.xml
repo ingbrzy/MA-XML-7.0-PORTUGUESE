@@ -5,7 +5,7 @@
         <item quantity="zero">Eliminar %1$d ficheiros</item>
         <item quantity="one">Eliminar %1$d ficheiro</item>
         <item quantity="two">Eliminar %1$d ficheiros</item>
-        <item quantity="few">%1$Eliminar %1$d ficheiros</item>
+        <item quantity="few">Eliminar %1$d ficheiros</item>
         <item quantity="many">Eliminar %1$d ficheiros</item>
     </plurals>
     <plurals name="delete_folders_confirm">
@@ -64,4 +64,69 @@
         <item quantity="few"> (%1$d ficheiros)</item>
         <item quantity="many"> (%1$d ficheiros)</item>
     </plurals>
+	<plurals name="search_head_hint_app">
+        <item quantity="other">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+        <item quantity="zero">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+        <item quantity="one">Ficheiro relacionado com a aplicação %1$s (%2$d item)</item>
+        <item quantity="two">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+        <item quantity="few">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+        <item quantity="many">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="zero">%1$s ficheiros relacionados (%2$d itens)</item></item>
+        <item quantity="one">%1$s ficheiro relacionado (%2$d item)</item></item>
+        <item quantity="two">%1$s ficheiros relacionados (%2$d itens)</item></item>
+        <item quantity="few">%1$s ficheiros relacionados (%2$d itens)</item></item>
+        <item quantity="many">%1$s ficheiros relacionados (%2$d itens)</item></item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="zero">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="one">Etiquetar %1$s ficheiro relacionado (%2$d item)</item>
+        <item quantity="two">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="few">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="many">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
+    </plurals>
+    <plurals name="mins_ago">
+		<item quantity="other">%1$d minutos atrás</item>
+		<item quantity="zero">%1$d minutos atrás</item>
+		<item quantity="one">%1$d minuto atrás</item>
+		<item quantity="two">%1$d minutos atrás</item>
+		<item quantity="few">%1$d minutos atrás</item>
+		<item quantity="many">%1$d minutos atrás</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d horas atrás</item>
+        <item quantity="zero">%1$d horas atrás</item>
+        <item quantity="one">%1$d hora atrás</item>
+        <item quantity="two">%1$d horas atrás</item>
+        <item quantity="few">%1$d horas atrás</item>
+        <item quantity="many">%1$d horas atrás</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dias atrás</item>
+        <item quantity="zero">%1$d dias atrás</item>
+        <item quantity="one">%1$d dias atrás</item>
+        <item quantity="two">%1$d dias atrás</item>
+        <item quantity="few">%1$d dias atrás</item>
+        <item quantity="many">%1$d dias atrás</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">achou %1$d novos ficheiros</item>
+        <item quantity="zero">achou %1$d novos ficheiros</item>
+        <item quantity="one">achou %1$d novo ficheiro</item>
+        <item quantity="two">achou %1$d novos ficheiros</item>
+        <item quantity="few">achou %1$d novos ficheiros</item>
+        <item quantity="many">achou %1$d novos ficheiros</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+        <item quantity="zero">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+        <item quantity="one">Recebeu %1$d ficheiro da Aplicação %2$s</item>
+        <item quantity="two">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+        <item quantity="few">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+        <item quantity="many">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+    </plurals>
+
 </resources>
