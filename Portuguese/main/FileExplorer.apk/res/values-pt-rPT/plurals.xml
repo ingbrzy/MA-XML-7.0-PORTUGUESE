@@ -74,11 +74,11 @@
     </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%1$s ficheiros relacionados (%2$d itens)</item>
-        <item quantity="zero">%1$s ficheiros relacionados (%2$d itens)</item></item>
-        <item quantity="one">%1$s ficheiro relacionado (%2$d item)</item></item>
-        <item quantity="two">%1$s ficheiros relacionados (%2$d itens)</item></item>
-        <item quantity="few">%1$s ficheiros relacionados (%2$d itens)</item></item>
-        <item quantity="many">%1$s ficheiros relacionados (%2$d itens)</item></item>
+        <item quantity="zero">%1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="one">%1$s ficheiro relacionado (%2$d item)</item>
+        <item quantity="two">%1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="few">%1$s ficheiros relacionados (%2$d itens)</item>
+        <item quantity="many">%1$s ficheiros relacionados (%2$d itens)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
         <item quantity="other">Etiquetar %1$s ficheiros relacionados (%2$d itens)</item>
