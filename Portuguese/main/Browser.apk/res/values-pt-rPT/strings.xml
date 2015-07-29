@@ -21,9 +21,9 @@
   <string name="action_menu_text_bookmark_added">Marcador adicionado</string>
   <string name="action_menu_text_copy_url">Copiar URL</string>
   <string name="action_menu_text_create_qr_code">Código QR</string>
-  <string name="action_menu_text_bandwidth">Largura de banda</string>
-  <string name="action_menu_text_bandwidth_off">Largura de banda/Desligada</string>
-  <string name="action_menu_text_bandwidth_on">Largura de banda/Ligada</string>
+  <string name="action_menu_text_bandwidth">Economizador de Dados</string>
+  <string name="action_menu_text_bandwidth_off">Economizador de Dados desligado</string>
+  <string name="action_menu_text_bandwidth_on">Economizador de Dados ligado</string>
   <string name="action_menu_text_exit">Sair</string>
   <string name="action_menu_text_find_in_page">Localizar na página</string>
   <string name="action_menu_text_fullscreen">Ecrã completo</string>
@@ -93,7 +93,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
   <string name="browserFrameFileErrorLabel">Erro no ficheiro</string>
   <string name="browserFrameFormResubmitLabel"/>
-  <string name="browserFrameFormResubmitMessage">A página que está a tentar abrir já contém dados que foram enviados (\"POSTDATA\"). Se apagar os dados da página os dados do formulário também serão eliminados.</string>
+  <string name="browserFrameFormResubmitMessage">"A página que está a tentar ver contêm dados que já foram submetidos. Se reenviar os dados, as acções anteriores ( p.e. pesquisas ou compras) serão repetidas."</string>
   <string name="browserFrameNetworkErrorLabel">Erro de ligação</string>
   <string name="cancel">Cancelar</string>
   <string name="cannot_download">Só é possível transferir \"http\" ou \"https\" endereços</string>
@@ -176,7 +176,7 @@
   <string name="dont_remind_again">Lembrar esta escolha</string>
   <string name="download_complete">Transferência concluída</string>
   <string name="download_default_path_txt">Lembrar a minha escolha</string>
-  <string name="download_dialog_default_path_invalid">O caminho é inválido, utilize o caminho predefinido para as transferências</string>
+  <string name="download_dialog_default_path_invalid">"O caminho da transferência que escolheu é inválido. A gravar no caminho predefinido…"</string>
   <string name="download_dialog_file_length_hint_txt">Tamanho do ficheiro:</string>
   <string name="download_dialog_file_length_lessthan1kb">Menos de 1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">Não foi possível transferir</string>
@@ -212,7 +212,7 @@
   <string name="filename_illegal_alert_message">Um caractere inválido foi retirado do nome do ficheiro.</string>
   <string name="find_new_version">Actualizações disponíveis</string>
   <string name="find_next">Encontrar seguinte</string>
-  <string name="find_on_page_hint">Por favor introduza o que quer pesquisar</string>
+  <string name="find_on_page_hint">Localizar na página</string>
   <string name="find_on_page_cancel">Cancelar</string>
   <string name="find_on_page_next">Seguinte</string>
   <string name="find_on_page_prev">Anterior</string>
@@ -233,7 +233,7 @@
   <string name="have_sent_bookmark_to_home_screen">Foi enviado para o ecrã principal</string>
   <string name="history_saved_webpage">Gravar página da web</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-  <string name="in_incognito">Modo sem registo, não será guardado no histórico</string>
+  <string name="in_incognito">Você está incógnito! Páginas acedidas neste separador não irão aparecer no histórico de navegação.</string>
   <string name="is_first_history_item">É o primeiro ficheiro do histórico</string>
   <string name="is_first_tab">Esta é a primeira janela</string>
   <string name="is_last_history_item">É o último ficheiro do histórico</string>
@@ -241,9 +241,9 @@
   <string name="is_page_bottom">Está no fim da página</string>
   <string name="is_page_top">Está no início da página</string>
   <string name="js_dialog_before_unload">"%s 
-Tem certeza de que deseja sair desta página?"</string>
+Sair desta página?"</string>
   <string name="js_dialog_before_unload_negative_button">Continuar</string>
-  <string name="js_dialog_before_unload_positive_button">Deixar esta página?</string>
+  <string name="js_dialog_before_unload_positive_button">Sair</string>
   <string name="js_dialog_before_unload_title">Confirmar navegação</string>
   <string name="js_dialog_title">A página em \" %s \" diz:</string>
   <string name="js_dialog_title_default">JavaScript</string>
@@ -255,7 +255,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="local_bookmarks">Xiaomi</string>
   <string name="low_memory_error">Falta de memória</string>
   <string name="max_tabs_warning">Alcançado o limite de separadores</string>
-  <string name="maximum_input_alert">Entrada máxima de 2048 caracteres</string>
+  <string name="maximum_input_alert">Não pode introduzir mais de 2048 caracteres</string>
   <string name="media_error_action_refresh">Actualizar</string>
   <string name="media_error_action_replace_video_source">Substituir a fonte do vídeo</string>
   <string name="media_error_failure">Falha ao iniciar o vídeo</string>
@@ -281,7 +281,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="miui_bookmark_action_bar_new_group_title">Novo grupo</string>
   <string name="miui_content_copy">Copiar</string>
   <string name="miui_content_cut">Cortar</string>
-  <string name="miui_content_open_url">OpenURL</string>
+  <string name="miui_content_open_url">Abrir URL</string>
   <string name="miui_content_paste">Colar</string>
   <string name="miui_content_select">Seleccionar</string>
   <string name="miui_content_select_all">Seleccionar todos</string>
@@ -292,13 +292,13 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="miui_search_notification_message">Pressione para abrir barra de pesquisa.</string>
   <string name="miui_search_notification_title">Pesquisar</string>
   <string name="miui_startpage">Página inicial</string>
-  <string name="miuichromium_error_page_diagnostic">Network diagnostic</string>
+  <string name="miuichromium_error_page_diagnostic">Diagnóstico de Rede</string>
   <string name="miuichromium_error_page_mobile">Rede móvel</string>
-  <string name="miuichromium_error_page_reason_network">Ver endereço URL</string>
-  <string name="miuichromium_error_page_reason_server">O navegador não consegue encontrar esta página</string>
+  <string name="miuichromium_error_page_reason_network">Não é possível conectar à rede</string>
+  <string name="miuichromium_error_page_reason_server">Não é possível carregar esta página</string>
   <string name="miuichromium_error_page_reload">Recarregar</string>
   <string name="miuichromium_error_page_title">Não foi possível encontrar esta página</string>
-  <string name="miuichromium_error_page_url">Ver página URL</string>
+  <string name="miuichromium_error_page_url">Não é possível conectar à rede</string>
   <string name="miuichromium_error_page_wlan">Definições de Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Activação necessária</string>
   <string name="miuishare_account_activate_ok">Activar</string>
@@ -469,7 +469,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="save_image_success">Imagem guardada</string>
   <string name="save_page_capture_tip">Abrir notificação para ver captura de ecrã.</string>
   <string name="save_page_capture_to_camera">Captura de ecrã guardada</string>
-  <string name="save_password_message">Quer que o navegador guarde esta palavra-passe?</string>
+  <string name="save_password_message">Guardar esta palavra-passe?</string>
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Agora não</string>
   <string name="save_password_remember">Guardar</string>
@@ -505,7 +505,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="skip_button_label">Saltar</string>
   <string name="skip_current_version">Saltar esta versão</string>
   <string name="snapshot_failed">Não foi possível guardar para leitura offline</string>
-  <string name="snapshot_successed">Guardado com êxito</string>
+  <string name="snapshot_successed">Guardar para leitura offline</string>
   <string name="ssl_certificate">Certificado de segurança</string>
   <string name="ssl_certificate_is_valid">Este certificado não é válido.</string>
   <string name="ssl_continue">Continuar</string>
@@ -601,7 +601,7 @@ Tem certeza de que deseja sair desta página?"</string>
   <string name="video_push_single_message">Actualizar para %1$d</string>
   <string name="view_certificate">Ver certificado</string>
   <string name="voice_sub_title">Não sei o que dizer? Tente abrir mi.com!</string>
-  <string name="voice_title">Comando de voz…</string>
+  <string name="voice_title">Diga o seu comando…</string>
   <string name="voice_title_distinguish">A processar…</string>
   <string name="voice_title_listening">A ouvir…</string>
   <string name="voice_title_please">Comece a falar…</string>
