@@ -2,8 +2,8 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <string-array name="bookmarks_cu_customization">
-        <item>沃门户</item>
-        <item>http://www.wo.com.cn</item>
+        <item>MM网</item>
+        <item>http://a.10086.cn/j/6061/</item>
      </string-array>
      <string-array name="dianping">
         <item>团购</item>
@@ -131,4 +131,12 @@
         <item>google</item>
         <item>bing_zh_CN</item>
      </string-array>
+     <string-array name="yahoo">
+        <item>Yahoo!</item>
+        <item>yahoo.com</item>
+        <item>http://search.yahoo.com/favicon.ico</item>
+        <item>https://search.yahoo.com/search;_ylt=A0oG7l7PeB5P3G0AKASl87UF?p={searchTerms}&amp;ei={inputEncoding}</item>
+        <item>UTF-8</item>
+        <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+     </string-array>	 
 </resources>

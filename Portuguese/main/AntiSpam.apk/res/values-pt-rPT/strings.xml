@@ -60,8 +60,8 @@
   <string name="bl_no_block_call">Sem chamadas bloqueadas.</string>
   <string name="bl_no_block_sms">Sem mensagens bloqueadas.</string>
   <string name="blacklist_prefix_add_hint">Bloquear todos os números que começam com este prefixo</string>
-  <string name="block_message_number">Mensagens: %d</string>
-  <string name="block_phone_number">Chamadas: %d</string>
+  <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Eliminar</string>
   <string name="button_to_setting">Definições</string>
   <string name="call_delete_hint">Eliminar todas as chamadas bloqueadas deste número?</string>
@@ -180,6 +180,7 @@
   <string name="one_address_choose_hint">%s1 localização</string>
   <string name="open_callwait">Ligado</string>
   <string name="quiet">Silêncio</string>
+  <string name="quiet_group">Não pertubar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
   <string name="quiet_mode">Silênciar todas as perturbações</string>
   <string name="quiet_off_mode">Permitir sempre pertubações</string>
@@ -193,6 +194,7 @@
   <string name="report_warning">Enviar relatório %1$s de SMS para a Mi? As mensagens e os números de telefone serão enviados para o servidor Mi. As informações pessoais associadas a estas mensagens, manter-se-ão anónimas.</string>
   <string name="report_warning_title">R SMS</string>
   <string name="sim_not_ready">O cartão SIM não está preparado</string>
+  <string name="sim_not_ready_toast">O cartão SIM não está preparado, erro na definição</string>
   <string name="sms_delete_hint">Eliminar todas as mensagens bloqueadas deste número?</string>
   <string name="sms_delete_title">Eliminar mensagem</string>
   <string name="sms_smart_engine_update">Actualizar automaticamente filtro de SMS</string>

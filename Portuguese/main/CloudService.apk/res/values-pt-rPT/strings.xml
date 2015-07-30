@@ -45,9 +45,7 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
   <string name="cloud_space_upgrade_message">Pressione para adicionar %s GB à sua Nuvem</string>
   <string name="cloud_space_upgrade_no_quota_info">Falha ao carregar. Espere um minuto ou dois e tente novamente.</string>
-  <string name="cloud_space_upgrade_title">Obtenha espaço grátis na Nuvem</string>
-  <string name="cloud_sync_setting_summary_standard">Sincronizar MMS, fotos e vídeos quando ligado a Wi-Fi</string>
-  <string name="cloud_sync_setting_summary_wlan">Sincronizar apenas quando estiver ligado a uma rede Wi-Fi</string>
+  <string name="cloud_space_upgrade_title">Obtenha espaço grátis na Nuvem</string>  
   <string name="cloudservice_new_sync">Sincronizar %s con Nuvem Mi</string>
   <string name="cmcc_micloud_dspt">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo,</string>
   <string name="contact">Contactos</string>
@@ -249,7 +247,6 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="next">Seguinte</string>
   <string name="noRemind">Não voltar a lembrar</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
-  <string name="only_in_wlan">Utilizar só Wi-Fi</string>
   <string name="other_settings">Outras definições</string>
   <string name="password">Introduza a palavra-passe</string>
   <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do número de telefone. "</string>
@@ -306,9 +303,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sync_item_sms_title">Sincronizar mensagens</string>
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
-  <string name="sync_resend_sms_dspt_provision">Se mudar de cartão SIM, a operadora pode cobrar um SMS utilizado para reactivar este serviço.</string>
-  <string name="sync_setting">Definições de sincronização</string>
-  <string name="sync_standard">Sincronizar as coisas mais pequenas</string>
+  <string name="sync_resend_sms_dspt_provision">Se mudar de cartão SIM, a operadora pode cobrar um SMS utilizado para reactivar este serviço.</string>  
   <string name="sync_sub_1_intl_sms">A operadora pode cobrar por uma mensagem SMS internacional utilizada para activar este serviço.</string>
   <string name="sync_sub_1_sms">A operadora pode cobrar por uma mensagem SMS utilizada para activar este serviço.</string>
   <string name="sync_sub_1_sms_1_intl_sms">A operadora pode cobrar por uma mensagem SMS nacional e uma internacional utilizadas para activar este serviço.</string>
