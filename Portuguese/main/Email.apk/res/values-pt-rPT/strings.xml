@@ -206,6 +206,7 @@
   <string name="add_account">Adicionar conta</string>
   <string name="add_attachment">Anexar ficheiros</string>
   <string name="add_bcc_label">Adicionar Cco</string>
+  <string name="add_calendar">Lembrar</string>
   <string name="add_cc_label">Adicionar Cc/Cco</string>
   <string name="add_file_attachment">Anexar ficheiro</string>
   <string name="add_label">Adicionar pasta</string>
@@ -340,10 +341,13 @@
   <string name="contact_select">Seleccionar contactos</string>
   <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
+  <string name="contextmenu_add">Adicionar aos Contactos</string>
   <string name="contextmenu_add_contact">Adicionar contacto</string>
   <string name="contextmenu_call">Chamada</string>
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL do link</string>
+  <string name="contextmenu_create">Criar novo contacto</string>
+  <string name="contextmenu_edit">Editar contacto</string>
   <string name="contextmenu_dial_dot">Marcar…</string>
   <string name="contextmenu_feedback">Enviar comentários</string>
   <string name="contextmenu_help">Ajuda</string>
@@ -1041,16 +1045,16 @@ Pressione "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar defin
   <string name="you_are_in_mobile_network">Enviar registo usando a a ligação de dados móveis? Se ultrapassar o limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
   <string name="contact_edit_set_black_list_from">Eliminar todos os emails deste remetente</string>
-  <string name="contact_edit_set_black_list_receive">Eliminar todos os emails deste remetente (normalmente emails de grupo)</string>
-  <string name="contact_edit_set_black_list_receive_summary">Listas de para/Cc que apenas contenham este remetente</string>
+  <string name="contact_edit_set_black_list_receive">Eliminar os emails deste remetente</string>
+  <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
-  <string name="push_wps_better_confirm_exit">Outras aplicações para abrir</string>
-  <string name="push_wps_better_confirm_message">O WPS Office dá melhor suporte a este tipo de anexo, para que o trabalho seja mais eficiente</string>
+  <string name="push_wps_better_confirm_exit">Agora não</string>
+  <string name="push_wps_better_confirm_message">Tente usar o WPS Office para abrir este anexo.</string>
   <string name="push_wps_better_confirm_noshow_hint">Não mostrar novamente</string>
-  <string name="push_wps_better_confirm_title">WPS Office recomendado</string>
-  <string name="push_wps_confirm_cancel">Cancelar</string>
+  <string name="push_wps_better_confirm_title">Experimentar WPS Office</string>
+  <string name="push_wps_confirm_cancel">Agora não</string>
   <string name="push_wps_confirm_download">Transferir</string>
-  <string name="push_wps_confirm_message">Nenhuma aplicação consegue abrir este anexo, recomendamos a utilização do WPS Office</string>
-  <string name="push_wps_confirm_title">WPS Office recomendado</string>
-  <string name="push_wps_no_response_app">A aplicação não está a responder</string>
+  <string name="push_wps_confirm_message">Tentar usar WPS Office para abrir este anexo.</string>
+  <string name="push_wps_confirm_title">Experimentar WPS Office</string>
+  <string name="push_wps_no_response_app">Sem aplicações para concluir esta acção</string>
 </resources>
