@@ -18,6 +18,7 @@
   <string name="app_name">Economizador de bateria</string>
   <string name="background">Aplicação está a correr em segundo plano</string>
   <string name="disabled">Desligado</string>
+  <string name="empty_title_apps_container_list">Sem aplicações</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo.</string>
   <string name="foreground_change">Aplicação está a correr em primeiro plano</string>
   <string name="full_screen_enter">Entrar no modo ecrã inteiro</string>
@@ -26,6 +27,7 @@
   <string name="hide_mode_desc">"Economizar bateria restringindo processos em segundo plano, Wi-Fi e dados móveis, e GPS das aplicações individualmente"</string>
   <string name="hide_mode_desc_title">Gerir utilização da bateria pelas aplicações</string>
   <string name="high">Desempenho</string>
+  <string name="hints_loading_text">A carregar…</string>
   <string name="invalid_size_value">"Não foi possível obter o tamanho do pacote."</string>
   <string name="low">Poupança de bateria</string>
   <string name="low_power_auto_title">Restringir aplicações quando a bateria está fraca</string>
@@ -71,7 +73,7 @@
   <string name="power_config_phone_idle_title">Standby</string>
   <string name="power_config_select_apps_empty">Toque para escolher aplicações</string>
   <string name="power_config_select_apps_title">Aplicações</string>
-  <string name="power_config_title">Configurar</string>
+  <string name="power_config_title">Definições</string>
   <string name="power_configure_screen_brightness_enable">Definir brilho do ecrã</string>
   <string name="power_customize_giveup_change">Descartar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>
