@@ -122,8 +122,8 @@
     <string name="radioInfo_service_out">Fora de serviço</string>
     <string name="radioInfo_service_emergency">Apenas chamadas de emergência</string>
     <string name="radioInfo_service_off">Rádio desligado</string>
-    <string name="radioInfo_roaming_in">Roaming</string>
-    <string name="radioInfo_roaming_not">Não está em roaming</string>
+    <string name="radioInfo_roaming_in">Activo</string>
+    <string name="radioInfo_roaming_not">Inactivo</string>
     <string name="radioInfo_phone_idle">Inactivo</string>
     <string name="radioInfo_phone_ringing">A tocar</string>
     <string name="radioInfo_phone_offhook">Chamada a decorrer</string>
@@ -242,7 +242,7 @@
     <string name="default_date_format">dd/MM/yyyy</string>
     <string name="normal_date_format">Regional (%s)</string>
     <string name="display_preview_label">Visualizar:</string>
-    <string name="display_font_size_label">Tamanho da letra:</string>
+    <string name="display_font_size_label">Tamanho do tipo de letra:</string>
     <string name="intent_sender_data_label">Dados:</string>
     <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
     <string name="intent_sender_action_label">Acção:</string>
@@ -831,9 +831,9 @@ A definição do telefone pode exigir a actividade de rede significativa."</stri
     <string name="screensaver_settings_dream_start">Iniciar agora</string>
     <string name="screensaver_settings_button">Definições</string>
     <string name="automatic_brightness">Brilho automático</string>
-    <string name="title_font_size">Tamanho da letra</string>
+    <string name="title_font_size">Tamanho do tipo de letra</string>
     <string name="summary_font_size">%1$s</string>
-    <string name="dialog_title_font_size">Tamanho da letra</string>
+    <string name="dialog_title_font_size">Tamanho do tipo de letra</string>
     <string name="sim_lock_settings">Definições de bloqueio do cartão SIM</string>
     <string name="sim_lock_settings_category">Definições de bloqueio do cartão SIM</string>
     <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
@@ -1353,7 +1353,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="quick_launch_display_mode_applications">Aplicações</string>
     <string name="quick_launch_display_mode_shortcuts">Atalhos</string>
     <string name="input_methods_settings_title">Entrada de texto</string>
-    <string name="input_method">Método de entrada</string>
+    <string name="input_method">Teclado</string>
     <string name="current_input_method">Predefinido</string>
     <string name="input_method_selector">Selecção do método de entrada</string>
     <string name="input_method_selector_show_automatically_title">Automático</string>
@@ -2076,7 +2076,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="only_one_home_message">Estas definições ficam ocultas até que desinstale outro lançador.</string>
     <string name="global_change_warning">Estas definições afectam todos os utilizadores do telefone.</string>
     <string name="global_locale_change_title">Alterar o idioma</string>
-    <string name="global_font_change_title">Alterar o tamanho da letra</string>
+    <string name="global_font_change_title">Alterar o tamanho do tipo de letra</string>
     <string name="nfc_payment_settings_title">Pressione e; pague</string>
     <string name="nfc_payment_no_apps">Pague apenas com um toque</string>
     <string name="nfc_payment_learn_more">Aprender mais</string>
@@ -2270,12 +2270,12 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="wallpaper_desktop">Ecrã inicial</string>
     <string name="wallpaper_lockscreen">Bloqueio do ecrã</string>
     <string name="wallpaper_live">Papel de parede com movimento</string>
-    <string name="title_font">Letra</string>
-    <string name="title_font_current">Escolha a letra do sistema</string>
-    <string name="title_layout_current">Escolha o tamanho da letra</string>
-    <string name="title_font2">Letra</string>
-    <string name="title_font_current2">Escolha a letra do sistema</string>
-    <string name="title_layout_current2">Escolha o tamanho da letra</string>
+    <string name="title_font">Tipo de Letra</string>
+    <string name="title_font_current">Tipo de letra do sistema</string>
+    <string name="title_layout_current">Tamanho do tipo de letra</string>
+    <string name="title_font2">Tipo de Letra</string>
+    <string name="title_font_current2">Tipo de letra do sistema</string>
+    <string name="title_layout_current2">Tamanho do tipo de letra</string>
     <string name="handy_mode">Modo de Uma mão</string>
     <string name="handy_mode_enable">Modo de Uma mão</string>
     <string name="handy_mode_tips">Deslize para a esquerda ou para a direita com o botão Home para puxar o ecrã mais perto de um dos lados.</string>
@@ -2373,7 +2373,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="wifi_disabled_help">A ligação foi interrompida devido ao sinal fraco.</string>
     <string name="wifi_wps_overlap_error">Foi detectada outra sessão de Wi-Fi protegido. Tente novamente mais tarde.</string>
     <string name="wifi_p2p_wps_setup">Definições Wi-Fi</string>
-    <string name="default_input_method">Escolha de método de entrada predefinido</string>
+    <string name="default_input_method">Escolher teclado predefinido</string>
     <string name="locale_settings">Local</string>
     <string name="country_name">%s (sistema)</string>
     <string name="install_preinstall_app">A carregar aplicações…</string>
@@ -2455,14 +2455,15 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="volume_restore">Restaurar volume</string>
     <string name="volume_restore_alert">As definições actuais do nível de volume serão eliminadas.</string>
     <string name="font_size_preview">MIUI</string>
-    <string name="font_size_summary">Alterar o tamanho da fonte do sistema</string>
-    <string name="font_size_summary1">"
-Deseja alterar? Tente novamente "</string>
-    <string name="font_size_summary2">MIUI PORTUGAL</string>
-    <string name="font_size_small">Pequeno</string>
-    <string name="font_size_normal">Predefinido</string>
-    <string name="font_size_medium">Médio</string>
-    <string name="font_size_large">Grande</string>
+    <string name="font_size_summary">"Alterar o tamanho do texto para o Ecrã inicial, notificações, telefone, e menus de sistema.
+
+"</string>
+    <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
+    <string name="font_size_summary2">Modo Reduzido</string>
+    <string name="font_size_small">Menor</string>
+    <string name="font_size_normal">Pequeno</string>
+    <string name="font_size_medium">Grande</string>
+    <string name="font_size_large">Maior</string>
     <string name="font_size_huge">Enorme</string>
     <string name="virus_scanner_title">Verificação de Virus</string>
     <string name="virus_scanner_scanning">A verificar…</string>
