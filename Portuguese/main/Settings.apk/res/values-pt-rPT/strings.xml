@@ -1690,8 +1690,8 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="credentials_title">Armazenamento de credenciais</string>
     <string name="credentials_install">Instalar a partir do armazenamento</string>
     <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
-    <string name="credentials_reset">Apagar credenciais</string>
-    <string name="credentials_reset_summary">Apagar todos os certificados</string>
+    <string name="credentials_reset">Eliminar credenciais</string>
+    <string name="credentials_reset_summary">Eliminar todos os certificados</string>
     <string name="trusted_credentials">Credenciais de confiança</string>
     <string name="trusted_credentials_summary">Exibir certificados de autoridade de confiança</string>
     <string name="credential_storage_type">Armazenamento tipo</string>
@@ -1707,7 +1707,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="credentials_wrong_password">Palavra passe errada.</string>
     <string name="credentials_reset_warning">Insira a palavra passe. Tem mais uma tentactiva para inserir a palavra passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
     <string name="credentials_reset_warning_plural">Insira a palavra passe. Tem mais %1$d tentativas para inserir a palavra passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
-    <string name="credentials_erased">O armazenamento de credenciais foi apagado.</string>
+    <string name="credentials_erased">O armazenamento de credenciais foi eliminado.</string>
     <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado.</string>
     <string name="credentials_enabled">O armazenamento de credenciais foi activado.</string>
     <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou palavra passe antes de efectuar o armazenamento de credenciais.</string>
@@ -1997,7 +1997,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
     <string name="trusted_credentials_user_tab">Utilizador</string>
     <string name="trusted_credentials_disable_label">Desactivar</string>
     <string name="trusted_credentials_enable_label">Ligar</string>
-    <string name="trusted_credentials_remove_label">Apagar</string>
+    <string name="trusted_credentials_remove_label">Remover</string>
     <string name="trusted_credentials_enable_confirmation">Activar o Certificado de Autênticidade do sistema?</string>
     <string name="trusted_credentials_disable_confirmation">Desactivar o Certificado de Autênticidade do sistema?</string>
     <string name="trusted_credentials_remove_confirmation">Remover definitivamente o Certificado de Autênticidade do utilizador?</string>
@@ -2151,7 +2151,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="dndm_auto_time_turn_off">Hora de fim</string>
     <string name="dndm_auto_time_turn_off_title">Desligar automaticamente Não Incomodar</string>
     <string name="dndm_dlg_remove_vip">As chamadas dessa pessoa serão silenciadas quando Não perturbar estiver ligado.</string>
-    <string name="dndm_dlg_remove_ok">Apagar</string>
+    <string name="dndm_dlg_remove_ok">Remover</string>
     <string name="dndm_menu_add_vip_custom">Adicionar nºs VIP</string>
     <string name="dndm_mute_all">Silênciar chamadas e mensagens</string>
     <string name="dndm_special_call_setting_group">VIP</string>

@@ -77,7 +77,7 @@
   <string name="call_description_recording">Recording…</string>
   <string name="call_extension_conference_mode">Conference mode</string>
   <string name="call_forwarding_settings">Definições de reencaminhamento das chamadas</string>
-  <string name="call_lost">A chamada foi perdida.</string>
+  <string name="call_lost">A chamada não foi atendida.</string>
   <string name="call_record_button_label">Gravação %s</string>
   <string name="call_record_wait_label">Em espera</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente: o seu cartão SD está muito cheio</string>
@@ -403,10 +403,10 @@ Mudar para o novo fornecedor de qualquer maneira?"</string>
   <string name="notification_incoming_call">Chamada a chegar</string>
   <string name="notification_incoming_video_call">Vídeo chamada a chegar</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
-  <string name="notification_missedCallTitle">Chamada perdida</string>
+  <string name="notification_missedCallTitle">Chamada não atendida</string>
   <string name="notification_missedCall_call_back">Chamada de volta</string>
   <string name="notification_missedCall_message">Mensagem</string>
-  <string name="notification_missedCallsMsg">%s chamadas perdidas</string>
+  <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="notification_network_selection_text">Rede seleccionada (%s) não disponível</string>
   <string name="notification_network_selection_title">Sem serviço</string>

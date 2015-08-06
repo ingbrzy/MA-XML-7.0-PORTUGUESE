@@ -5,7 +5,7 @@
 Tem certeza que deseja desativá-lo?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
-  <string name="Dashboard_Log_Clear_Content">Todos os registos serão apagados.</string>
+  <string name="Dashboard_Log_Clear_Content">Todos os registos serão eliminados.</string>
   <string name="Dashboard_Log_Clear_Title">Limpar registos</string>
   <string name="Dashboard_Perm">Permissões</string>
   <string name="Dashboard_Perm_AutoStart">Início automático</string>
@@ -103,7 +103,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Call_Desc">Permitir que a aplicação efectue, atenda e finalize chamadas</string>
   <string name="HIPS_Perm_Call_Hint">%1$s aplicações podem efectuar, atender e finalizar chamadas</string>
   <string name="HIPS_Perm_Call_Number">Chamar %1$s</string>
-  <string name="HIPS_Perm_CancelMissedCalls">A aplicação pode apagar chamadas não atendidas</string>
+  <string name="HIPS_Perm_CancelMissedCalls">eliminar chamadas não atendidas</string>
   <string name="HIPS_Perm_Contact">Contactos</string>
   <string name="HIPS_Perm_Contact_Access">Aplicação pode aceder a informações de seus contactos</string>
   <string name="HIPS_Perm_Contact_Desc">Aplicações pode ver os seus contactos</string>
