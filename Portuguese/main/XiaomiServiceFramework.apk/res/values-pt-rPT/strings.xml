@@ -42,7 +42,7 @@
   <string name="activate_popup_title_diagnosis_detail">Informações de diagnóstico</string>
   <string name="activate_popup_title_failed_phone_error">Número de telefone inválido</string>
   <string name="activate_popup_title_failed_query_info">Não é possível localizar o número</string>
-  <string name="activate_popup_title_failed_receive_sms">Activação falhada</string>
+  <string name="activate_popup_title_failed_receive_sms">Não foi recebida uma resposta do servidor</string>
   <string name="activate_popup_title_failed_send_sms">Não é possível enviar a mensagem</string>
   <string name="activate_popup_title_failed_server">Erro no servidor</string>
   <string name="activate_popup_title_manual">Activado %s</string>
@@ -54,7 +54,7 @@
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Não é possível obter o número de telefone</string>
   <string name="activate_status_desc_checking_xiaomi_account">A verificar a conta Mi no servidor</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Ocorreu um erro enquanto registava a contra servidor Xiaomi</string>
-  <string name="activate_status_desc_failed_getting_gateway">Falha ao obter SMS de acesso</string>
+  <string name="activate_status_desc_failed_getting_gateway">Erro ao obter SMS de acesso</string>
   <string name="activate_status_desc_getting_gateway">A obter SMS Gateway</string>
   <string name="activate_status_desc_getting_sim_info">A obter informação do cartão SIM</string>
   <string name="activate_status_desc_getting_sim_info_fail">Não é possível obter informações do cartão SIM</string>

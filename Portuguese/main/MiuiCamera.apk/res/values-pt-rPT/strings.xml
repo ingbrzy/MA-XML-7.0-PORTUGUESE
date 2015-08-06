@@ -34,7 +34,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="dialog_ok">OK</string>
   <string name="effect_setting_top_text">Filtros</string>
   <string name="empty">" "</string>
-  <string name="error_fail_to_start_audio_capture">Falha ao iniciar a captura de áudio</string>
+  <string name="error_fail_to_start_audio_capture">Erro ao iniciar a captura de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Feminino</string>
   <string name="face_analyze_info_male">Masculino</string>
@@ -60,7 +60,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="no_storage">Insira o cartão SD</string>
   <string name="not_enough_space">O cartão SD está cheio</string>
   <string name="object_track_enable_toast">Faça deslizar o ecrã de visualização para permitir o seguimento de objectos.</string>
-  <string name="pano_dialog_panorama_failed">Falha ao guardar a imagem panorâmica</string>
+  <string name="pano_dialog_panorama_failed">Erro ao guardar a imagem panorâmica</string>
   <string name="pano_dialog_title">Fotografia Panorâmica</string>
   <string name="pano_dialog_waiting_previous">Aguarde a pré-visualização anterior para finalizar</string>
   <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>

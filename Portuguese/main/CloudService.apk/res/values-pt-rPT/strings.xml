@@ -44,7 +44,7 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança utilizando Nuvem Mi</string>
   <string name="cloud_find_device">Encontrar dispositivo</string>
   <string name="cloud_space_upgrade_message">Pressione para adicionar %s GB à sua Nuvem</string>
-  <string name="cloud_space_upgrade_no_quota_info">Falha ao carregar. Espere um minuto ou dois e tente novamente.</string>
+  <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
   <string name="cloud_space_upgrade_title">Obtenha espaço grátis na Nuvem</string>  
   <string name="cloudservice_new_sync">Sincronizar %s con Nuvem Mi</string>
   <string name="cmcc_micloud_dspt">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo,</string>
@@ -267,7 +267,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="share_success">Partilhado</string>
   <string name="share_weibo_not_installed">O Weibo não está instalado.</string>
   <string name="share_weixin_not_installed">O Wechat não está instalado.</string>
-  <string name="sina_share_fail">Falha ao partilhar</string>
+  <string name="sina_share_fail">Erro ao enviar</string>
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A partilhar…</string>
   <string name="sina_share_success">Partilhado</string>

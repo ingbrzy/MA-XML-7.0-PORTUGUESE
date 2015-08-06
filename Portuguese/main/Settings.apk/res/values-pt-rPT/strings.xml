@@ -629,7 +629,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="wifi_wps_failed_generic">WPS falhou. Por favor, tente novamente dentro de alguns minutos.</string>
     <string name="wifi_wps_failed_wep">Não há suporte para a definição de segurança (WEP) do router wireless</string>
     <string name="wifi_wps_failed_tkip">Não há suporte para a definição de segurança (TKIP) do router wireless</string>
-    <string name="wifi_wps_failed_auth">Falha de autênticação. Por favor, tente novamente.</string>
+    <string name="wifi_wps_failed_auth">Erro de autenticação. Por favor, tente novamente.</string>
     <string name="wifi_wps_failed_overlap">Foi detectada outra sessão de WPS. Por favor, tente novamente daqui a uns minutos.</string>
     <string name="wifi_ssid">SSID da rede</string>
     <string name="wifi_ssid_hint">Insira a SSID</string>
@@ -676,11 +676,11 @@ Permitir isto para todas as aplicações que queiram digitalizar?"</string>
     <string name="wifi_scan_always_confirm_allow">Permitir</string>
     <string name="wifi_scan_always_confirm_deny">Negar</string>
     <string name="wifi_connect">Ligar</string>
-    <string name="wifi_failed_connect_message">Falha ao ligar à rede</string>
+    <string name="wifi_failed_connect_message">Erro ao ligar à rede</string>
     <string name="wifi_forget">Desligar</string>
     <string name="wifi_failed_forget_message">Não conseguiu desligar da rede</string>
     <string name="wifi_save">Guardar</string>
-    <string name="wifi_failed_save_message">Falha ao guardar a rede</string>
+    <string name="wifi_failed_save_message">Erro ao guardar a rede</string>
     <string name="wifi_cancel">Cancelar</string>
     <string name="wifi_skip_anyway">Passar</string>
     <string name="wifi_dont_skip">Não passar</string>
@@ -719,7 +719,7 @@ A definição do telefone pode exigir a actividade de rede significativa."</stri
     <string name="wifi_p2p_peer_devices">Outros dispositivos</string>
     <string name="wifi_p2p_remembered_groups">Grupos recordados</string>
     <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
-    <string name="wifi_p2p_failed_rename_message">Falha ao mudar o nome de dispositivo.</string>
+    <string name="wifi_p2p_failed_rename_message">Erro ao mudar o nome de dispositivo.</string>
     <string name="wifi_p2p_disconnect_title">Deseja desligar?</string>
     <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s irá terminar.</string>
     <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s irá terminar.</string>
@@ -1217,7 +1217,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
     <string name="app_factory_reset_dlg_text">Todas as actualizações do sistema Android serão desinstaladas.</string>
     <string name="clear_failed_dlg_title">Eliminar dados</string>
-    <string name="clear_failed_dlg_text">Falha ao eliminar os dados da aplicação</string>
+    <string name="clear_failed_dlg_text">Erro ao eliminar os dados da aplicação</string>
     <string name="security_settings_desc">Esta aplicação pode aceder aos seguintes itens neste telefone:</string>
     <string name="security_settings_desc_multi">Esta aplicação pode aceder aos seguintes ficheiros no telefone. A fim de melhorar o desempenho e reduzir utilização de memória, algumas dessas permissões estão disponíveis para %1$s, porque são executadas no mesmo processo como %2$s:</string>
     <string name="join_two_items">%1$s e %2$s</string>
@@ -1242,7 +1242,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="force_stop_dlg_title">Forçar paragem</string>
     <string name="force_stop_dlg_text">Se forçar a paragem de uma aplicação, ele pode funcionar mal.</string>
     <string name="move_app_failed_dlg_title" />
-    <string name="move_app_failed_dlg_text">Falha ao mover aplicação. %1$s</string>
+    <string name="move_app_failed_dlg_text">Erro ao mover aplicação. %1$s</string>
     <string name="app_install_location_title">Local de instalação preferido</string>
     <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações</string>
     <string name="app_disable_dlg_title">Desligar aplicação do sistema?</string>
@@ -1306,7 +1306,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
     <string name="spellchecker_quick_settings">Definições</string>
     <string name="spellchecker_language">Idioma</string>
-    <string name="failed_to_open_app_settings_toast">Falha ao abrir definições para %1$s</string>
+    <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
     <string name="pointer_settings_category">Rato/trackpad</string>
     <string name="pointer_speed">Velocidade do ponteiro</string>
     <string name="game_controller_settings_category">Controlador de jogo</string>
@@ -1728,7 +1728,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
     <string name="local_backup_password_summary_change">Seleccionar para alterar ou eliminar a palavra passe para as cópias de segurança completas do ecrã principal</string>
     <string name="local_backup_password_toast_success">Nova Palavra passe da cópia de segurança activada</string>
     <string name="local_backup_password_toast_confirmation_mismatch">A nova palavra passe e confirmação não coincidem</string>
-    <string name="local_backup_password_toast_validation_failure">Falha na configuração da palavra passe da cópia de segurança</string>
+    <string name="local_backup_password_toast_validation_failure">Erro na definição da palavra passe da cópia de segurança</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_erase_dialog_message">Tem certeza que deseja parar de fazer a cópia de segurança das suas definições e dados de aplicações e eliminar todas as cópias de segurança nos servidores do Google?</string>
     <string name="device_admin_settings_title">Definições de administração do dispositivo</string>
@@ -1780,8 +1780,8 @@ Pressione "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
     <string name="accessibility_sync_enabled">Sincronização ligada</string>
     <string name="accessibility_sync_disabled">Sincronização desligada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
-    <string name="sync_failed">Falha na sincronização</string>
-    <string name="sync_active">Sincronização activada</string>
+    <string name="sync_failed">Erro na sincronização</string>
+    <string name="sync_active">Sincronização activa</string>
     <string name="account_sync_settings_title">Definições de sincronização</string>
     <string name="sync_is_failing">A sincronização de momento está com problemas.</string>
     <string name="add_account_label">Adicionar conta</string>
@@ -2588,7 +2588,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="device_edit_title">Renomear telefone</string>
     <string name="device_name_input_hint">Insira o nome</string>
     <string name="device_name_usage_point">Outros dispositivos perto podem ver este nome.</string>
-    <string name="device_name_input_error">Falha ao guardar o nome do dispositivo</string>
+    <string name="device_name_input_error">Erro ao guardar o nome do dispositivo</string>
     <string name="drive_mode">Modo de Condução</string>
     <string name="enable_drive_mode">Activar Modo de Condução</string>
     <string name="drive_mode_title">Modo de Condução</string>
@@ -2842,7 +2842,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="make_sure_cancel_update">Cancelar a actualização?</string>
     <string name="download_current_rom">Obter a última versão MIUI</string>
     <string name="install_whole_rom">Transferir a ROM</string>
-    <string name="apply_update_fail">Transferência falhada</string>
+    <string name="apply_update_fail">Erro na actualização</string>
     <string name="now">Reiniciar agora</string>
     <string name="need_reboot_now">Reiniciar para instalar a actualização.</string>
     <string name="welcome">Bem vindo</string>

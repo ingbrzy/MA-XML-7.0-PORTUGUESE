@@ -2,7 +2,7 @@
 <resources>
     <string name="sina_share_pendding">A enviar…</string>
     <string name="sina_share_success">Enviado</string>
-    <string name="sina_share_fail">Falha ao enviar</string>
+    <string name="sina_share_fail">Erro ao enviar</string>
     <string name="sina_token_expired_warning">Conta Weibo expirou: Por favor ligue novamente</string>
     <string name="sina_token_invalid_warning">Conta Weibo é inválida: Por favor ligue novamente</string>
     <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
@@ -48,7 +48,7 @@
     <string name="update_success_reboot_immediately">Dispositivo actualizado</string>
     <string name="download_success_reboot_immediately">Reiniciar para aplicar a actualização</string>
     <string name="update_success">Dispositivo actualizado</string>
-    <string name="install_failed">Actualização falhada</string>
+    <string name="install_failed">Actualização falhou</string>
     <string name="download_current_rom">Reiniciar para aplicar a actualização</string>
     <string name="later">Mais tarde</string>
     <string name="notification_update_new_version">Actualização disponível</string>

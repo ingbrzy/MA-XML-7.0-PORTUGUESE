@@ -76,7 +76,7 @@ Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fal
   <string name="cit_bluetooth_scanning_opening_bluetooth">A abrir o dispositivo Bluetooth…</string>
   <string name="cit_button_light_off">Luzes dos botões desligadas</string>
   <string name="cit_button_light_on">Luzes dos botões ligadas</string>
-  <string name="cit_calibration_fail">Falha na calibração</string>
+  <string name="cit_calibration_fail">Erro na calibração</string>
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_calibration_summary">"Instruções do teste:
 
@@ -297,7 +297,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_tool_wifi_txrx_chain_selection">Seleccione antena</string>
   <string name="cit_torch_off">Desligar o flash</string>
   <string name="cit_torch_on">Ligar o flash</string>
-  <string name="cit_touch_calib_fail">Falha na calibração do toque, tente novamente</string>
+  <string name="cit_touch_calib_fail">Erro na calibração do toque, tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
   <string name="cit_touch_calib_pass">Calibração do toque concluída</string>
   <string name="cit_touch_calib_summary">O próximo passo será calibrar o toque no ecrã, pressione confirmar e não toque no ecrã depois do início do teste e aguarde a mensagem de calibração bem sucedida</string>
@@ -309,7 +309,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_version_check_summary">Em baixo estão as informações da versão do SO. Confirme se a informação destacada em verde está correcta.</string>
   <string name="cit_version_check_title">Ver informação da versão</string>
   <string name="cit_vga_camera_capture">Câmara</string>
-  <string name="cit_vga_camera_capture_fail">Falha ao capturar imagem</string>
+  <string name="cit_vga_camera_capture_fail">Erro ao capturar imagem</string>
   <string name="cit_vga_camera_delete">Eliminar</string>
   <string name="cit_vga_camera_deleted">Fotografia eliminada</string>
   <string name="cit_vibrator_check_summary">Teste de funcionamento de vibração (longa e curta)</string>
@@ -324,12 +324,12 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_vibrator_show_advanced">Opções avançadas</string>
   <string name="cit_wifi_address_check_summary">Em baixo encontra-se o endereço da rede Wi-Fi a que o telemóvel está ligado. Confirme se a informação destacada em verde está correcta.</string>
   <string name="cit_wifi_address_check_title">Endereço Wi-Fi</string>
-  <string name="cit_wifi_address_error">Falha a obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está activado.</string>
+  <string name="cit_wifi_address_error">Erro ao obter o endereço Wi-Fi. Certifique-se de que o Wi-Fi está activado.</string>
   <string name="cit_wifi_ap_scan_check_summary">Em baixo encontra-se a informação dos APs detectados. Confirme se a informação destacada em verde está correcta.</string>
   <string name="cit_wifi_ap_scan_check_title">Pesquisar AP Wi-Fi</string>
   <string name="cit_wifi_ap_scan_retry">A pesquisar novamente…</string>
   <string name="cit_wifi_ap_scanning">A pesquisar…</string>
-  <string name="cit_wifi_fail_to_scan">Falha ao pesquisar por redes</string>
+  <string name="cit_wifi_fail_to_scan">Erro ao pesquisar por redes</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone da frente</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Fale com o microfone da frente pata teste ddo alto-falante.

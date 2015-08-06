@@ -787,14 +787,14 @@ There are %d remaining attempts."</string>
   <string name="pin2_invalid_or_name_is_too_long">Digitou um código PIN inválido ou o nome que digitou é muito comprido</string>
   <string name="pin2_lock_warning">"
 Funções relacionadas o código PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
-  <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
-  <string name="pin2_unblocked">PIN2 Unblocked!</string>
+  <string name="pin2_or_fdn_invalid">"FDN não foi actualizado. O PIN2 estava incorrecto, ou o número de telefone foi rejeitado."</string>
+  <string name="pin2_unblocked">PIN2 Desbloqueado!</string>
   <string name="pin_attempts">"
 Restam %d tentativas."</string>
   <string name="pin_changed">O PIN do SIM foi alterado com êxito.</string>
   <string name="pin_failed">O PIN que digitou está errado.</string>
   <string name="pin_lock_warning">"
-O telefone irá bloquear automaticamente após a outra tentativa falhada"</string>
+O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar o PIN…</string>
   <string name="pin_progress_change_pin2">A alterar o PIN2…</string>
   <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio NMF…</string>

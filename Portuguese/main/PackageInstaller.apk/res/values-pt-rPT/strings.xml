@@ -89,7 +89,7 @@ Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="uninstall_update_text">A aplicação será substituída pela versão de fábrica.</string>
     <string name="uninstalling">A desinstalar…</string>
     <string name="uninstall_done">Desinstalação concluída</string>
-    <string name="uninstall_failed">Falha na desinstalação</string>
+    <string name="uninstall_failed">Não foi possível desinstalar esta aplicação</string>
     <string name="uninstall_failed_device_policy_manager">Não é possível desinstalar: Este pacote é um administrador de dispositivo activo.</string>
     <string name="manage_device_administrators">Gerir administradores de dispositivo</string>
     <string name="uninstall_failed_msg">%1$s não foi possível desinstalar</string>

@@ -53,7 +53,7 @@
   <string name="add_to_desk_success">Adicionado ao ecrã inicial</string>
   <string name="add_to_quicklink">Adicionar à página inicial</string>
   <string name="added_to_bookmarks">Adicionado aos marcadores</string>
-  <string name="adjust_text_zoom_toast">Alterar o zoom do texto pode causar falhas na apresentação de alguns sites</string>
+  <string name="adjust_text_zoom_toast">Alterar o zoom do texto pode causar erros na apresentação de alguns sites</string>
   <string name="alert_tips">Este site pode ser um risco de segurança</string>
   <string name="allow">Permitir</string>
   <string name="app_new_version">Já está instalada a última versão desta aplicação</string>
@@ -258,7 +258,7 @@ Sair desta página?"</string>
   <string name="maximum_input_alert">Não pode introduzir mais de 2048 caracteres</string>
   <string name="media_error_action_refresh">Actualizar</string>
   <string name="media_error_action_replace_video_source">Substituir a fonte do vídeo</string>
-  <string name="media_error_failure">Falha ao iniciar o vídeo</string>
+  <string name="media_error_failure">Erro ao iniciar o vídeo</string>
   <string name="media_error_format">O formato do vídeo não é válido</string>
   <string name="media_error_nomemory">A memória do telemóvel está cheia</string>
   <string name="media_error_source">Erro da origem do vídeo</string>
@@ -417,7 +417,7 @@ Sair desta página?"</string>
   <string name="pref_version_info">Informação de Versão</string>
   <string name="pref_volume_key_action">Botões do volume: Página anterior/seguinte</string>
   <string name="private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
-  <string name="profiler_error_toast">Falha ao iniciar o vídeo</string>
+  <string name="profiler_error_toast">Erro ao iniciar o vídeo</string>
   <string name="profiler_no_storage_toast">Não é possível iniciar o vídeo porque o armazenamento externo não está pronto</string>
   <string name="profiler_started_toast">O vídeo iniciou</string>
   <string name="profiler_stopped_toast">O vídeo terminou. Resultados salvos em %1$s.</string>

@@ -51,7 +51,7 @@
     <string name="online_no_network">Não é possível ligar à internet</string>
     <string name="online_search_hint">Pesquisar recurso online</string>
     <string name="loading">A carregar…</string>
-    <string name="download_failed">Falha ao transferir</string>
+    <string name="download_failed">Erro ao transferir</string>
     <string name="download_preview_failed">Não é possível carregar a pré-visualização</string>
     <string name="resource_delete_confirm">Eliminar estes recursos?</string>
     <string name="all_resources">Todos</string>
@@ -159,7 +159,7 @@
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">O seu comentário será exibido depois de uma breve revisão.</string>
     <string name="resource_comment_sending">A enviar comentário…</string>
-    <string name="resource_comment_upload_failed">Falha ao enviar comentário</string>
+    <string name="resource_comment_upload_failed">Erro ao enviar comentário</string>
     <string name="resource_comment_upload_success">Comentário enviado! O seu comentário será exibido depois de uma breve revisão.</string>
     <string name="resource_comment_upload_data_invalid">Comentário inválido</string>
     <string name="resource_comment_upload_not_logined">Primeiro tem de iniciar a sessão</string>
