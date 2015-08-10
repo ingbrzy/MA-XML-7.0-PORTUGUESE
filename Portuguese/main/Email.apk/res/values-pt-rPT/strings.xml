@@ -17,6 +17,7 @@
   <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="abc_shareactionprovider_share_with">Partilhar com</string>
   <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
+  <string name="account_cache_provider">Fornecedor de conta do histórico de dados</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_folder_list_summary_drafts">Rascunhos</string>
@@ -312,6 +313,7 @@
   <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
+  <string name="compose_help_context">Escrever</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com sucesso</string>
   <string name="confirm">Confirmar</string>
@@ -327,6 +329,9 @@
   <string name="confirm_send_title">Enviar mensagem?</string>
   <string name="contact_content_provider">Contactos do fornecedor do histórico de dados de conta Conteúdos</string>
   <string name="contact_edit_set_black_list">Definir lista de bloqueio</string>
+  <string name="contact_edit_set_black_list_from">Eliminar todos os emails deste remetente</string>
+  <string name="contact_edit_set_black_list_receive">Eliminar os emails deste remetente</string>
+  <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
   <string name="contact_edit_set_phone_contact">Editar contactos</string>
   <string name="contact_edit_set_pop_up_tips">Dicas pop-up</string>
   <string name="contact_edit_set_unread_top">Mostrar primeiro os emails não lidos</string>
@@ -357,6 +362,7 @@
   <string name="contextmenu_send_mail">Enviar email</string>
   <string name="contextmenu_sharelink">Partilhar link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Fornecedor de Conteúdo de Conversa</string>
   <string name="conversation_folder_moved">Movida para %1$s</string>
   <string name="conversation_item_mark_read">Lida</string>
   <string name="conversation_item_mark_unread">Não lida</string>
@@ -375,6 +381,11 @@
   <string name="date_message_received_yesterday">Ontem, %1$s</string>
   <string name="debug_clear_webview_cache">Limpar histórico de dados do WebView</string>
   <string name="debug_disable_graphics_acceleration_label">Desactivar aceleração gráfica por hardware</string>
+  <string name="debug_enable_debug_logging_label">Activar relatório de depuração adicional?</string>
+  <string name="debug_enable_file_logging_label">Activar registos no cartão SD?</string>
+  <string name="debug_enable_strict_mode_label">Activar modo estrito (com registo)</string>
+  <string name="debug_enable_verbose_logging_label">Activar registo extremamente detalhado?</string>
+  <string name="debug_force_one_minute_refresh_label">Forçar actualizações de 1 minuto para POP/IMAP</string>
   <string name="debug_title">Depurar</string>
   <string name="default_">PREDEFINIDAS</string>
   <string name="default_exchange">EXCHANGE</string>
@@ -430,10 +441,12 @@
   <string name="drawer_open">Abrir área de navegação</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
+  <string name="eas_template">domain\\user</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="elided_padding_token"> </string>
   <string name="email_feedback_uri" />
   <string name="email_package_name">com.android.email</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Não foi possível encontrar a conta</string>
   <string name="empty_email_tip">É impossível enviar um email em branco</string>
   <string name="empty_spam">Esvaziar o spam</string>
@@ -504,6 +517,7 @@
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível encaminhar todos os anexos.</string>
   <string name="forward_download_failed_title">Anexo não encaminhado</string>
+  <string name="forward_subject_label">Fwd:</string>
   <string name="from">De</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
@@ -528,6 +542,7 @@
   <string name="head_only_enable_dialog_positive">Ligar</string>
   <string name="head_only_enable_dialog_title">Reduzir consumo de dados móveis</string>
   <string name="header_category_account">Contas</string>
+  <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Comentar</string>
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
@@ -553,6 +568,7 @@
   <string name="invalid_recipient_title">Endereço inválido</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Pesquisar na caixa de entrada no servidor</string>
   <string name="load_more">Carregar mais</string>
   <string name="loading_conversation">A carregar…</string>
@@ -581,6 +597,14 @@
   <string name="mailbox_name_display_starred">Favoritos</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lido</string>
+  <string name="mailbox_name_server_all_unread">Unread</string>
+  <string name="mailbox_name_server_drafts">Drafts</string>
+  <string name="mailbox_name_server_inbox">Inbox</string>
+  <string name="mailbox_name_server_junk">Junk</string>
+  <string name="mailbox_name_server_outbox">Outbox</string>
+  <string name="mailbox_name_server_sent">Sent</string>
+  <string name="mailbox_name_server_starred">Starred</string>
+  <string name="mailbox_name_server_trash">Trash</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
@@ -665,6 +689,7 @@ CC: %4$s
   <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Este recurso está inactivo por defeito para endereços de e-mail comerciais.</string>
   <string name="mibill_privacy_policy_link">Ao utilizar esse recurso, está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Concorda em Gerir contas automaticamente</string>
+  <string name="mock_content_provider">Fornecedor de Conteúdos Simulados</string>
   <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_atts_total">%1$d anexos</string>
   <string name="more_context">Mais</string>
@@ -786,6 +811,7 @@ CC: %4$s
   <string name="policy_screen_timeout">Exigir dispositivo inactivo para bloquear ecrã</string>
   <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
   <string name="pop3_name">POP3</string>
+  <string name="prefDefault_autoAdvance">listar</string>
   <string name="prefDialogTitle_conversationListIcon">Imagem do remetente</string>
   <string name="prefDialogTitle_removal_action">Acções de arquivar e eliminar</string>
   <string name="preference_eas_tips">A página de activação seguinte é solicitada pelo Servidor do Email.</string>
@@ -817,6 +843,16 @@ CC: %4$s
   <string name="provider_note_live">Apenas algumas contas \"Plus\" incluem o acesso POP permitindo que esta aplicação seja ligada. Se não for possível fazer login com o seu endereço de email e palavra-passe correctos, talvez não tenha uma conta \"Plus\" paga. Inicie o navegador da web para aceder a essas contas de email.</string>
   <string name="provider_note_t_online">Antes de configurar essa conta de email, aceda ao site T-Online e crie uma palavra para aceder ao email POP3.</string>
   <string name="pull_to_refresh">Puxe para actualizar</string>
+  <string name="push_wps_better_confirm_download">Transferir</string>
+  <string name="push_wps_better_confirm_exit">Agora não</string>
+  <string name="push_wps_better_confirm_message">Tente usar o WPS Office para abrir este anexo.</string>
+  <string name="push_wps_better_confirm_noshow_hint">Não mostrar novamente</string>
+  <string name="push_wps_better_confirm_title">Experimentar WPS Office</string>
+  <string name="push_wps_confirm_cancel">Agora não</string>
+  <string name="push_wps_confirm_download">Transferir</string>
+  <string name="push_wps_confirm_message">Tentar usar WPS Office para abrir este anexo.</string>
+  <string name="push_wps_confirm_title">Experimentar WPS Office</string>
+  <string name="push_wps_no_response_app">Sem aplicações para concluir esta acção</string>
   <string name="quick_1">Obrigado!</string>
   <string name="quick_2">Parece uma boa ideia!</string>
   <string name="quick_3">Irei ler isso mais tarde e dar-lhe-ei uma resposta.</string>
@@ -850,6 +886,9 @@ CC: %4$s
   <string name="quote_divider_qq_en">------------------ Original ------------------</string>
   <string name="quote_divider_qq_zh">------------------ Original ------------------</string>
   <string name="quoted_text">Incluir texto das mensagens anteriores</string>
+  <string name="quoted_text_background_color_string">@android:color/white</string>
+  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
+  <string name="quoted_text_label">Textos anteriores</string>
   <string name="re_download_message_button">Pressione para transferir novamente</string>
   <string name="re_download_message_info">Erro ao transferir o email</string>
   <string name="read_string">conversa lida</string>
@@ -874,9 +913,14 @@ CC: %4$s
   <string name="reply">Responder</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
+  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Responder a: "</string>
   <string name="report">Informar</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Parece boa</string>
+  <string name="report_rendering_improvement_desc">Esta mensagem parece boa.</string>
+  <string name="report_rendering_problem">Parece má</string>
+  <string name="report_rendering_problem_desc">Esta mensagem parece má.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="require_manual_sync_message">A sincronização desta conta é desactivada em roaming.</string>
@@ -1037,24 +1081,13 @@ Pressione "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar defin
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Pressione para concluir a configuração.</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
+  <string name="wait_help_context">aguarde</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Outros</string>
+  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">A palavra-passe que inseriu está errada</string>
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Enviar registo usando a a ligação de dados móveis? Se ultrapassar o limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
-  <string name="zip_viewer_no_file">Sem ficheiros.</string>
-  <string name="contact_edit_set_black_list_from">Eliminar todos os emails deste remetente</string>
-  <string name="contact_edit_set_black_list_receive">Eliminar os emails deste remetente</string>
-  <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
-  <string name="push_wps_better_confirm_download">Transferir</string>
-  <string name="push_wps_better_confirm_exit">Agora não</string>
-  <string name="push_wps_better_confirm_message">Tente usar o WPS Office para abrir este anexo.</string>
-  <string name="push_wps_better_confirm_noshow_hint">Não mostrar novamente</string>
-  <string name="push_wps_better_confirm_title">Experimentar WPS Office</string>
-  <string name="push_wps_confirm_cancel">Agora não</string>
-  <string name="push_wps_confirm_download">Transferir</string>
-  <string name="push_wps_confirm_message">Tentar usar WPS Office para abrir este anexo.</string>
-  <string name="push_wps_confirm_title">Experimentar WPS Office</string>
-  <string name="push_wps_no_response_app">Sem aplicações para concluir esta acção</string>
+  <string name="zip_viewer_no_file">Sem ficheiros.</string>  
 </resources>
