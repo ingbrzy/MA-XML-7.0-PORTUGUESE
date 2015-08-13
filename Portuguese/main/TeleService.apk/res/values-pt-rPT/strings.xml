@@ -480,6 +480,8 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
   <string name="incall_error_turn_off_airplane_mode">Desligar o modo de voo</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
+  <string name="incoming_video_show_pref_summary">Mostrar perfil de vídeo definido pelo remetente. Para utilizar esta função, active os cartões de contacto.</string>
+  <string name="incoming_video_show_pref_title">"Mostrar perfil de vídeo do remetente"</string>
   <string name="international_disable">Notícias Internacionais desactivo</string>
   <string name="international_enable">Notícias Internacionais activo</string>
   <string name="international_roaming_setting">Roaming international</string>
@@ -753,6 +755,7 @@ Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no e
 Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais soluções."</string>
   <string name="other_settings">Outras definições de chamada</string>
   <string name="other_settings_category">Outro</string>
+  <string name="overseas_roaming_setting">Roaming internacional</string>
   <string name="password_changed">Palavra-passe alterada</string>
   <string name="password_title">Palavra-passe</string>
   <string name="pause_prompt_no">No</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Eliminar ficheiros seleccionados?</string>
+  <string name="alert_message_delete_record_title">Eliminar Gravação</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>
   <string name="button_queue_for_wifi">Em fila</string>
@@ -26,6 +27,7 @@
   <string name="error_sdcard_access">É impossível aceder ao armazenamento interno ou externo</string>
   <string name="error_sdcard_unmounted">Insira agora o cartão SD</string>
   <string name="fm_record">Gravações do rádio (%d)</string>
+  <string name="loading_recording">A carregar</string>
   <string name="low_battery_error">Faltam menos de 5% na bateria. Para garantir que a gravação não será perdida, a gravação foi pausada e guardada.</string>
   <string name="message_file_size_error">Gravação alcançou o comprimento máximo suportado por %s</string>
   <string name="no_downloading_file">Não existem ficheiros a transferir.</string>
@@ -66,8 +68,7 @@
   <string name="record_list_cloud">Gravações na Nuvem</string>
   <string name="record_list_cloud_call">Gravações de chamadas na Nuvem</string>
   <string name="record_list_cloud_fm">Gravações FM na Nuvem</string>
-  <string name="record_list_fm">Gravações FM</string>
-  <string name="record_mark_point">%smark</string>
+  <string name="record_list_fm">Gravações FM</string>  
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Escolher uma gravação</string>
   <string name="recording">Gravação</string>

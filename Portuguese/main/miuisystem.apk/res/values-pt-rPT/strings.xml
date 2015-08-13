@@ -112,4 +112,7 @@
     <string name="mibi_license">Termos de Serviço de Créditos Mi</string>
     <string name="license_host_unreachable">Não é possível conectar à rede. Para ver esta informação agora, 
 vá a %s</string>
+   <string name="cloud_state_disabled">Sincronização com Nuvem Mi desligada</string>
+   <string name="cloud_state_finished">Sincronizado com a Nuvem Mi</string>
+   <string name="cloud_state_syncing">A sincronizar com a Nuvem Mi</string>
 </resources>
