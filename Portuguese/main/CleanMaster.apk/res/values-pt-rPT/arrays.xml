@@ -24,8 +24,25 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Limpar com notificação</item>
-        <item>Limpar em segundo plano</item>
-        <item>Mostrar notificação depois de limpar</item>
+        <item>Mostrar</item>
+        <item>"Não mostrar"</item>
+        <item>Mostrar depois</item>
+    </string-array>
+    <string-array name="cache_clean_menu">
+        <item>Limpar</item>
+        <item>Ficheiro</item>
+        <item>Excepção</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Limpar</item>
+        <item>Ficheiro</item>
+        <item>Excepção</item>
+        <item>Instalar</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Detalhes</item>
+        <item>Ficheiro</item>
+        <item>Copiar e desinstalar</item>
+        <item>Desinstalar</item>
     </string-array>
 </resources>

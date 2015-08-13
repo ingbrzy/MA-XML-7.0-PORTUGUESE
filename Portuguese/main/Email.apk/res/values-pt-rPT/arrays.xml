@@ -75,14 +75,7 @@
         <item>Responder</item>
         <item>Responder a todos</item>
         <item>Reencaminhar</item>
-    </string-array>
-    <string-array name="general_preference_text_zoom_size">
-        <item>0.8</item>
-        <item>0.9</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.5</item>
-    </string-array>
+    </string-array>    
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Minúsculo</item>
         <item>Pequeno</item>
@@ -96,17 +89,7 @@
         <item>normal</item>
         <item>large</item>
         <item>huge</item>
-    </string-array>
-    <array name="letter_tile_colors">
-        <item>#fff16364</item>
-        <item>#fff58559</item>
-        <item>#fff9a43e</item>
-        <item>#ffe4c62e</item>
-        <item>#ff67bf74</item>
-        <item>#ff59a2be</item>
-        <item>#ff2093cd</item>
-        <item>#ffad62a7</item>
-    </array>
+    </string-array>    
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Vistos recentemente</item>
         <item>Formato</item>
@@ -123,22 +106,7 @@
         <item>Mais recente</item>
         <item>Mais antiga</item>
         <item>Caixa de entrada</item>
-    </string-array>
-    <string-array name="prefEntries_removal_action">
-        <item>Mostrar só o ficheiro</item>
-        <item>Mostrar só eliminar</item>
-        <item>Mostrar o ficheiro e eliminar</item>
-    </string-array>
-    <string-array name="prefSummaries_autoAdvance">
-        <item>Mostrar conversa mais recente depois de eliminar</item>
-        <item>Mostrar conversa mais antiga depois de eliminar</item>
-        <item>Mostrar caixa de entrada depois de eliminar</item>
-    </string-array>
-    <string-array name="prefSummaries_removal_action_summary">
-        <item>Mostrar só o ficheiro</item>
-        <item>Mostrar só eliminar</item>
-        <item>Mostrar o ficheiro e eliminar</item>
-    </string-array>
+    </string-array>    
     <integer-array name="senders_lengths">
         <item>27</item>
         <item>27</item>

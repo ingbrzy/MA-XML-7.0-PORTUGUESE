@@ -77,6 +77,7 @@
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="delete">Eliminar</string>
   <string name="delete_backup_process">A eliminar…</string>
+  <string name="delete_backup_title">Eliminar cópia</string>
   <string name="delete_failed_backup_confirm">Esta cópia tem erros.</string>
   <string name="deselect_all">Desmarcar todos</string>
   <string name="digit_percent">%</string>
@@ -121,7 +122,6 @@
   <string name="local_select_account_contact">Contas e contactos</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
-  <string name="menu_patch_delete">Eliminar cópias</string>
   <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
   <string name="miliao_account_login">Inicio de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>

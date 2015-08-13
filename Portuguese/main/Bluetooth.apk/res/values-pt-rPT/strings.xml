@@ -120,8 +120,8 @@
   <string name="notification_sent">Partilha por Bluetooth: Enviado %1$s</string>
   <string name="notification_sent_complete">100% completo</string>
   <string name="notification_sent_fail">Partilha por Bluetooth: Ficheiro %1$s não foi enviado</string>
-  <string name="notify_device_lose_connection_text">%1$s perdeu conexão por muito tempo, clique para desemparelhar.</string>
-  <string name="notify_device_lose_connection_title">Dispositivo %1$s perdeu a conexão</string>
+  <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
+  <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>
   <string name="notify_server">Notificar o servidor TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferências enviadas</string>
@@ -159,8 +159,8 @@
   <string name="transfer_menu_clear_all">Eliminar lista</string>
   <string name="transfer_menu_open">Abrir</string>
   <string name="unbind_device_alert_cancel">Cancelar</string>
-  <string name="unbind_device_alert_content">Dispositivo %1$s perdeu conexão por muito tempo, desemparelhar vai aumentar o desempenho. Deseja desemparelhar?</string>
-  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_content">Conexão perdida com %1$s. Para poupar bateria, desemparelhe este dispositvo agora.</string>
+  <string name="unbind_device_alert_ok">Desemparelhar</string>
   <string name="unbind_device_alert_title">Desemparelhar dispositivo</string>
   <string name="unknownName">Nome desconhecido</string>
   <string name="unknownNumber">Desconhecido</string>

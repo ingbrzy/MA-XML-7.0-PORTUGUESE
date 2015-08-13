@@ -71,7 +71,8 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desactivar…</string>
   <string name="find_device_dspt">Localizar, bloquear, ou reiniciar o seu dispositivo remotamente</string>
-  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear, reiniciar. Pode ligar/desligar este recurso em qualquer altura nas Definições."</string>
+  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear, reiniciar. Pode ligar ou desligar este recurso em qualquer altura nas Definições.
+  "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Pode a qualquer momento activar ou desactivar esta função nas Definições.</string>
@@ -115,6 +116,7 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_check_sim_notify_title">Reactivar a Nuvem Mi</string>
   <string name="micloud_check_sim_title">"Verifique como mudou os cartões SIM. inicie sessão
 na sua conta Mi para reactivar a Nuvem Mi."</string>
+  <string name="micloud_detail_download_syncing">A transferir %s</string>
   <string name="micloud_detail_fail">Erro ao sincronizar</string>
   <string name="micloud_detail_lastest">Sincronizado</string>
   <string name="micloud_detail_pending">A aguardar</string>
@@ -122,6 +124,7 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_detail_preference_wlan">Sincronizar por Wi-Fi</string>
   <string name="micloud_detail_success">Sincronizado</string>
   <string name="micloud_detail_syncing">A sincronizar</string>
+  <string name="micloud_detail_upload_syncing">A enviar %s</string>
   <string name="micloud_detail_wlan">%d aguardam sincronizar</string>
   <string name="micloud_detail_wlan_contact">%d fotografias de contactos aguardam sincronizar</string>
   <string name="micloud_detail_wlan_mms">%d MMS aguardam sincronizar</string>
@@ -232,18 +235,18 @@ Toque no botão das Definições para ver mais opções"</string>
   <string name="mx_dspt">Mensagens Mi</string>
   <string name="mx_dspt_provision">"As Mensagens Mi permitem enviar mensagens para outros utilizadores MIUI sem encargos.
 
-Pode a qualquer momento desactivar esta função nas Definições."</string>
+Pode a qualquer momento ligar ou desligar esta função nas Definições."</string>
   <string name="mx_dspt_provision_privacy">"Este serviço pode exigir o seu número de telefone. A operadora poderá cobrar um SMS utilizado para activar este serviço.
 
 Este serviço encripta e envia o ID do dispositivo para os servidores MI."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Este serviço necessita do seu número de telefone. A sua operadora pode cobrar por dois SMS para activar este serviço.
 
 Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui.</string>
+  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
-  <string name="mx_voip_dspt">Comunicação Mi</string>
+  <string name="mx_voip_dspt">Voz Mi</string>
   <string name="next">Seguinte</string>
   <string name="noRemind">Não voltar a lembrar</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM</string>
@@ -252,10 +255,11 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do número de telefone. "</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do número de telefone. "</string>
   <string name="photo">Fotografias</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sincronizar os contactos com fotos de perfil apenas quando estiver ligado a uma rede Wi-Fi</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">"Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
+  <string name="pref_summary_sync_video_on_wifi_only">"Apenas sincronizar os perfis de vídeo dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas uma ligação Wi-Fi para mostrar fotografias</string>
-  <string name="pref_title_sync_my_profile_title">Sincronizar perfil</string>
+  <string name="pref_title_sync_video_on_wifi_only">Apenas usar Wi-Fi para sincronizar vídeo</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="remind_later">Mais tarde</string>
   <string name="restoreSync">Sincronizar agora</string>

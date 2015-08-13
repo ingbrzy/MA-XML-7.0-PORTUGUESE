@@ -26,11 +26,7 @@
         <item quantity="two">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
         <item quantity="few">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
         <item quantity="many">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
-    </plurals>
-    <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Rejeitar rascunhos das %1$d conversas?</item>
-        <item quantity="one">Rejeitar rascunhos da conversa?</item>
-    </plurals>
+    </plurals>    
     <plurals name="contact_num_selected">
         <item quantity="other">%d seleccionados</item>
         <item quantity="zero">%d seleccionados</item>
@@ -70,11 +66,7 @@
     <plurals name="conversation_spammed">
         <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> marcadas como spam</item>
         <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> marcada como spam</item>
-    </plurals>
-    <plurals name="conversation_unstarred">
-        <item quantity="other">A remover a estrela de %1$d conversas</item>
-        <item quantity="one">A remover a estrela de %1$d conversa</item>
-    </plurals>
+    </plurals>    
     <plurals name="draft">
         <item quantity="other">Rascunhos</item>
         <item quantity="one">Rascunho</item>
@@ -86,39 +78,7 @@
         <item quantity="two">%1$d mensagens serão eliminadas permanentemente.</item>
         <item quantity="few">%1$d mensagens serão eliminadas permanentemente.</item>
         <item quantity="many">%1$d mensagens serão eliminadas permanentemente.</item>
-    </plurals>
-    <plurals name="message_view_attachment_bytes">
-        <item quantity="other">%dB</item>
-        <item quantity="zero">%dB</item>
-        <item quantity="one">%dB</item>
-        <item quantity="two">%dB</item>
-        <item quantity="few">%dB</item>
-        <item quantity="many">%dB</item>
-    </plurals>
-    <plurals name="message_view_attachment_gigabytes">
-        <item quantity="other">%dGB</item>
-        <item quantity="zero">%dGB</item>
-        <item quantity="one">%dGB</item>
-        <item quantity="two">%dGB</item>
-        <item quantity="few">%dGB</item>
-        <item quantity="many">%dGB</item>
-    </plurals>
-    <plurals name="message_view_attachment_kilobytes">
-        <item quantity="other">%dKB</item>
-        <item quantity="zero">%dKB</item>
-        <item quantity="one">%dKB</item>
-        <item quantity="two">%dKB</item>
-        <item quantity="few">%dKB</item>
-        <item quantity="many">%dKB</item>
-    </plurals>
-    <plurals name="message_view_attachment_megabytes">
-        <item quantity="other">%dMB</item>
-        <item quantity="zero">%dMB</item>
-        <item quantity="one">%dMB</item>
-        <item quantity="two">%dMB</item>
-        <item quantity="few">%dMB</item>
-        <item quantity="many">%dMB</item>
-    </plurals>
+    </plurals>    
     <plurals name="move_conversation">
         <item quantity="other">Mover %1$d conversas</item>
         <item quantity="zero">Mover %1$d conversas</item>
@@ -126,15 +86,7 @@
         <item quantity="two">Mover %1$d conversas</item>
         <item quantity="few">Mover %1$d conversas</item>
         <item quantity="many">Mover %1$d conversas</item>
-    </plurals>
-    <plurals name="move_messages">
-        <item quantity="other">Mover mensagens</item>
-        <item quantity="zero">Mover mensagem</item>
-        <item quantity="one">Mover mensagem</item>
-        <item quantity="two">Mover mensagens</item>
-        <item quantity="few">Mover mensagens</item>
-        <item quantity="many">Mover mensagens</item>
-    </plurals>
+    </plurals>    
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostrar %1$d novas mensagens.</item>
         <item quantity="zero">Mostrar %1$d novas mensagens.</item>

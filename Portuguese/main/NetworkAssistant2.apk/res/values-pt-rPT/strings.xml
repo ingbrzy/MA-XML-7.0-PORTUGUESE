@@ -18,7 +18,7 @@
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="background_traffic">Segundo plano %s</string>
-  <string name="begin_date">Reajustamento da data do ciclo da utilização</string>
+  <string name="begin_date">Reajustamento da data de utilização</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_start_diagnostic">Iniciar</string>
   <string name="btn_stop_diagnostic">Terminar</string>
@@ -32,11 +32,11 @@
   <string name="connect_internet_by_usbshare">Ligar à internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Ligar à internet por WiFi</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
-  <string name="daily_limit_and_lock_screen">Utilização diária de dados e notificações</string>
+  <string name="daily_limit_and_lock_screen">Utilização de dados e notificações</string>
   <string name="daily_limit_network_available_body">Pressione para ver as estatísticas de utilização de dados.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os dados móveis.</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
-  <string name="daily_pkg_traffic">Definir limite da utilização de dados mensal</string>
+  <string name="daily_pkg_traffic">limite de utilização mensal</string>
   <string name="data_network_blocked_notification_title">Sem ligação à internet</string>
   <string name="data_usage_correction_timeout_body">Pressione para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
@@ -48,8 +48,8 @@
   <string name="data_usage_limit_snoozed_body">Excedeu o seu limite da utilização de dados para o mês.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Limite da utilização de dados excedido</string>
   <string name="data_usage_mobile_limit_title">Atingiu o limite de dados móveis</string>
-  <string name="data_usage_no_total_package_body">Pressione para definir o limite da utilização de dados.</string>
-  <string name="data_usage_no_total_package_body_dual">Pressione para definir o limite da utilização de dados para %s.</string>
+  <string name="data_usage_no_total_package_body">Toque para definir o limite de dados</string>
+  <string name="data_usage_no_total_package_body_dual">Sem limite de dados para %s.</string>
   <string name="data_usage_no_total_package_title">Limite da utilização de dados</string>
   <string name="data_usage_restricted_body">Pressione para permitir os dados em segundo plano</string>
   <string name="data_usage_restricted_title">Dados em segundo plano restringido</string>
