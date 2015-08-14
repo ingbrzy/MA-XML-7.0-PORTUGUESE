@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="group_name_translate">
-        <item>Modo Predefinido</item>
+        <item>Predefinido</item>
         <item>Modo Escondido</item>
         <item>Modo Leitura</item>
         <item>Modo Multimédia</item>
     </string-array>
     <string-array name="event_name_translate">
-        <item>A aplicação está em primeiro plano</item>
+        <item>Aplicação a correr em primeiro plano</item>
         <item>Ecrã ligado</item>
         <item>Ecrã desligado</item>
         <item>Ecrã desligado há mais de 10 minutos</item>
-        <item>Entrar em modo ecrã inteiro</item>
+        <item>Modo ecrã inteiro</item>
         <item>Sair do modo ecrã inteiro</item>
-        <item>A aplicação está em segundo plano</item>
+        <item>Aplicação a correr em segundo plano</item>
         <item>Telefone está a carregar</item>
         <item>Telefone não está a carregar</item>
         <item>O telefone está em modo standby</item>
@@ -25,18 +25,23 @@
         <item>Utilização da CPU</item>
         <item>Ligação de Dados</item>
         <item>Localização</item>
-        <item>Primeira mensagem de notificação</item>
-        <item>Notificação de bloqueio de ecrã</item>
+        <item>Primeira notificação</item>
+        <item>Notificações do ecrã de bloqueio</item>
+		<item>Restringir conexões de dados em segundo plano</item>
     </string-array>
     <string-array name="action_param_translate">
-        <item>Sem operações</item>
+        <item>Nada</item>
         <item>Predefinido</item>
         <item>Imagem</item>
         <item>Filme</item>
-        <item>Economia de bateria</item>
+        <item>Economizador de bateria</item>
         <item>Equilibrado</item>
         <item>Desempenho</item>
-        <item>Activo</item>
-        <item>Inactivo</item>
+        <item>Ligado</item>
+        <item>Desligado</item>
+		<item>Imediatamente</item>
+        <item>Depois de 10 min</item>
+        <item>Depois de 30 min</item>
+        <item>Quando o ecrã está desligado</item>
     </string-array>
 </resources>
