@@ -122,4 +122,12 @@
         <item quantity="other">%d pessoas</item>
         <item quantity="one">1 pessoa</item>
      </plurals>
+	 <plurals name="contacts_count">
+        <item quantity="other">%1$d contactos</item>
+        <item quantity="one">%1$d contacto</item>
+     </plurals>
+     <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d contactos não foram sincronizados"</item>
+        <item quantity="one">"1 contacto não foi sincronizado"</item>
+     </plurals>
 </resources>

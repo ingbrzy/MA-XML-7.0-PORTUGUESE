@@ -247,7 +247,7 @@
     <string name="theme_component_title_photo_frame">Quadros de imagens</string>
     <string name="theme_component_title_others">Outro</string>
     <string name="theme_component_title_all">Temas</string>
-    <string name="theme_import_from_sdcard">Importar do cartão SD</string>
+    <string name="theme_import_from_sdcard">Importar</string>
     <string name="theme_select_others">Navegar</string>
     <string name="third_party_pickers_activity_title">Definir %1$s</string>
     <string name="lockstyle_personal_settings">Personalizar</string>
@@ -358,4 +358,18 @@
     <string name="gift_received_list_empty">Ainda não recebeu nenhum presente.</string>
     <string name="gift_received_notification_title">%s ofereceu-lhe um tema.</string>
 	<string name="vip_level_value">LV%d</string>
+	<string name="choose_new_themes">Novos temas</string>
+	<string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
+    <string name="lockscreen_magazine_summary">Obter novos papeis de parede directamente para o seu ecrã de bloqueio</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s seleccionados</string>
+    <string name="lockscreen_magazine_system_title">Predefinido</string>
+    <string name="lockscreen_magazine_title">Ecrãs de bloqueio da Curadoria</string>
+	<string name="theme_apply_failured">"Não é possível aplicar o papel de parede"</string>
+    <string name="theme_apply_success">Ecrã de bloqueio aplicado</string>
+    <string name="theme_applying">A aplicar…</string>
+	<string name="theme_precast_update_notification_content">Toque para ver novos temas.</string>
+    <string name="theme_precast_update_notification_title">Actualizado para MIUI 7</string>
+    <string name="theme_provision_default_theme_title">Predefinido</string>
+    <string name="theme_provision_loading_tips">Aguarde um seg…</string>
+    <string name="theme_provision_title">Escolher um tema</string>
 </resources>

@@ -34,15 +34,15 @@
     <string name="unknown_source">Fonte desconhecida</string>
     <string name="menu_send_weibo">Enviar para Weibo</string>
     <string name="menu_send_wechat">Enviar para WeChat</string>
-    <string name="info_note_enter_desktop">Adicionada no Ecrã Principal</string>
-    <string name="alert_message_delete_notes">Eliminar %1$s?</string>
-    <string name="alert_message_delete_folders">Eliminar %1$s?</string>
-    <string name="alert_message_delete_folders_notes">Eliminar %1$s e %2$s?</string>
+    <string name="info_note_enter_desktop">Adicionada no Ecrã Principal</string>    
+    <string name="alert_message_delete">Eliminar %1$s?</string>	
     <string name="alert_message_delete_note">Eliminar esta nota?</string>
     <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
     <string name="format_move_notes_out_folder">Movida %1$s fora</string>
     <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>
+	<string name="alert_title_delete">Eliminar nota</string>
     <string name="alert_message_edit_anyway">Se editar esta nota alguns dos seus conteúdos podem ser perdidos.</string>
+	<string name="all_terms">%1$s e %2$s</string>
     <string name="alert_action_edit_anyway">Continuar a editar</string>
     <string name="error_note_not_exist">A nota não existe</string>
     <string name="error_note_empty_for_clock">Não é possível definir o tempo lembrete para uma nota vazia</string>
@@ -108,6 +108,7 @@
     <string name="sns_choose_quality_title">Escolha a qualidade de imagem</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Baixa</string>
+    <string name="micloud_state_total_count">%1$s</string>	
     <string name="welcome_note_for_cm">"Mais recursos!
     - Sincronizar com a Nuvem Mi
     - Guardar ao sair

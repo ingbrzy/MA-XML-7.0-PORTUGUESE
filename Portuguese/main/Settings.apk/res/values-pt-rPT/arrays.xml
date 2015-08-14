@@ -76,16 +76,18 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Pequeno</item>
-        <item>Normal</item>
-        <item>Grande</item>
-        <item>Muito grande</item>
+        <item>normal</item>
+        <item>médio</item>
+        <item>grande</item>
+        <item>enorme</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="entryvalues_font_size">
-        <item>0.85</item>
-        <item>1.0</item>
-        <item>1.15</item>
-        <item>1.30</item>
+        <item>normal</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>huge</item>
+        <item>godzilla</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito devagar</item>
@@ -1272,4 +1274,24 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>1440</item>
         <item>720</item>
     </string-array>
+    <integer-array name="alarm_repeat_type_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="alarm_repeat_type">
+        <item>Todos os dias</item>
+        <item>Dias de Semana</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Todos os dias</item>
+        <item>Dias de Semana</item>
+        <item>Personalizado</item>
+    </string-array>	
 </resources>

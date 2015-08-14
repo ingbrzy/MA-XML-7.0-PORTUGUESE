@@ -105,7 +105,7 @@
   <string name="conversation_style">Bolha</string>
   <string name="converting_to_picture_message">A converter em mensagem multimédia…</string>
   <string name="converting_to_text_message">A converter em mensagem de texto…</string>
-  <string name="copy_message_text">Copiar texto</string>
+  <string name="copy_message_text">Copiar</string>
   <string name="copy_message_text_success">Texto copiado</string>
   <string name="copy_to_sdcard">Guardar anexo</string>
   <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
@@ -252,8 +252,11 @@
   <string name="move_down">Mover para baixo</string>
   <string name="move_up">Mover para cima</string>
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensagem Mi</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
   <string name="msglist_continue_to_pull_for_more">Puxe para baixo para ver mais</string>
   <string name="msglist_more_refreshing">A actualizar…</string>
   <string name="msglist_no_more_to_refresh">Já actualizado</string>
@@ -335,7 +338,8 @@
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Definições adicionais</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueados na lista de conversas</string>
-  <string name="pref_show_sms_template_summary">Automaticamente copiar e preencher códigos de verificação</string>
+  <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
+  <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_sms_theme_title">Mostrar</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
@@ -354,6 +358,7 @@
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma mensagem nova</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
+  <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
   <string name="pref_time_auto_group_summary">Mensagens de grupo que são recebidas em momentos agrupadas dentro da mesma thread</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio WAP</string>
@@ -421,7 +426,7 @@
   <string name="resize_image_error_information">Esta imagem é muito grande para enviar, mesmo redimensionada.</string>
   <string name="resource_price_free">Gratuito</string>
   <string name="restore_all_button_msg">Restaurar todas as mensagens enviadas a partir deste número</string>
-  <string name="restore_blocked_message">Restaurar mensagem</string>
+  <string name="restore_blocked_message">Restaurar</string>
   <string name="restore_to_phone_memory_failed">Erro ao restaurar</string>
   <string name="restored_to_phone_memory">Restaurado</string>
   <string name="retrive_hms_tips">A recuperar…</string>
@@ -538,6 +543,7 @@
   <string name="title_date_type">Registo da hora</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
   <string name="title_show_sms_template">Verificar SMS para códigos de verificação</string>
+  <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
   <string name="title_timed_message_dialog">Configurar hora de envio</string>
   <string name="to_address_label">"Para: "</string>
   <string name="to_count">%d destinatários</string>

@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importar</string>
-  <string name="abandon">Abandonar</string>
+  <string name="abandon">Cancelar</string>
   <string name="accept">Aceitar</string>
   <string name="accept_or_deny">%1$s partilhou o album %2$s contigo.</string>
   <string name="activity_not_found">Não foi encontrada uma aplicação para esta acção</string>
   <string name="add_account">Adicionar conta</string>
+  <string name="add_automatically_alert_msg">Adicionar fotos de \"%1$s\" a este album automaticamente?</string>
+  <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
   <string name="add_event">Adicionar evento</string>
   <string name="add_event_hint">Introduzir legenda</string>
   <string name="add_sharer">Adicionar utilizador</string>
@@ -52,6 +54,7 @@
   <string name="alert_secret_album_title">Adicionado ao album secreto</string>
   <string name="all_video_album_display_name">Todos os vídeos</string>
   <string name="already_apply_album">Abrir %1$s?</string>
+  <string name="already_create_baby_album">Album do bebé já existe na Nuvem Mi.</string>
   <string name="always_rotate_alert_msg">Pode desactivar este recurso nas definições da Galeria.</string>
   <string name="always_rotate_alert_positive_button_text">Activar</string>
   <string name="always_rotate_alert_title">Rotação automática de fotos</string>
@@ -59,6 +62,8 @@
   <string name="androidesk_wallpapers">Papéis de parede Android</string>
   <string name="aperture">Abertura</string>
   <string name="app_name">Galeria</string>
+  <string name="app_name_view_picture">Ver imagem</string>
+  <string name="apply">Aplicar</string>
   <string name="appwidget_empty_text">Sem fotografias</string>
   <string name="appwidget_title">Galeria</string>
   <string name="auto">Auto</string>
@@ -66,12 +71,35 @@
   <string name="auto_create_recent_album_confirm">Galeria irá eliminar os dados do álbum favorito. Álbuns marcados manualmente não serão afetados.</string>
   <string name="auto_create_recent_album_over_ten_times">O álbum será marcado como favorito ao visualizar mais de 10 vezes</string>
   <string name="auto_upload_album_comfirm_to_share">É um álbum será sincronizado automaticamente.</string>
+  <string name="auto_upload_face">Adicionar fotos automaticamente</string>
+  <string name="auto_upload_face_summary">Corresponder e adicionar fotos automaticamente ao album de bebé</string>
+  <string name="auto_upload_face_summary_with_people_name_when_off">Adicionar fotos de \"%1$s\" a este album automaticamente</string>
+  <string name="auto_upload_face_summary_with_people_name_when_on">Adicionar fotos de \"%1$s\" a este album automaticamente</string>
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Enviar automaticamente as fotos das aplica&amp;#231;&amp;#245;es para a Nuvem Mi. Pode desactivar este recurso em &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Defini&amp;#231;&amp;#245;es da galeria&amp;gt;Sincronizar com a Nuvem Mi&amp;gt;Enviar automaticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">Sincronizar fotos com a Nuvem Mi</string>
   <string name="auto_upload_title">Sincronizar automaticamente</string>
   <string name="autofix">Ajuste automático</string>
   <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
   <string name="autohomemain">Autohomemain</string>
+  <string name="baby_album">Baby album</string>
+  <string name="baby_album_new_photo_page_title">"%1$s's album"</string>
+  <string name="baby_album_picker_default_title">"Select %1$s's face"</string>
+  <string name="baby_album_setting_title">Informação do bebé</string>
+  <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
+%4$s de %3$s partilhou o album de %5$s contigo"</string>
+  <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
+  <string name="baby_birthday">Aniversário</string>
+  <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
+  <string name="baby_lock_wallpaper_at_least_one_selected">Escolher um album</string>
+  <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
+  <string name="baby_lock_wallpaper_title">"Utilizar as fotos do bebé como papel de parede do ecrã de bloqueio"</string>
+  <string name="baby_name_cannot_empty">Introduzir nome</string>
+  <string name="baby_name_cannot_start_with">"Nome não pode começar com '%s'"</string>
+  <string name="baby_name_contain_invalidate_char">"Nome não pode conter '%s'"</string>
+  <string name="baby_name_reserved">Este nome está reservado para outro album</string>
+  <string name="baby_nick_name">Alcunha</string>
+  <string name="baby_sexy">Género</string>
+  <string name="baby_suffix">bebé</string>
   <string name="baidu_bdmobile_downloads">Móvel Baidu</string>
   <string name="baidu_flyflow_downloads">Navegador Baidu</string>
   <string name="beautyphone">Telemóvel Beauty</string>
@@ -101,6 +129,8 @@
   <string name="cannot_send_message_reason">Não há destinatários válidos</string>
   <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
   <string name="cant_delete_system_album">Não é possível eliminar %s porque é um album de sistema.</string>
+  <string name="choose_baby_sexy">Género</string>
+  <string name="choose_owner_relation">Relação</string>
   <string name="choose_cloud_album">Escolher album</string>
   <string name="cityname_1">Aba Tibetan and Qiang Autonomous Prefecture</string>
   <string name="cityname_10">Anshun</string>
@@ -487,7 +517,7 @@
   <string name="cloud_album_more_settings">Sincronizar com a Nuvem Mi</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_album_set_scan_qr_code">Código QR</string>
-  <string name="cloud_albums">Imagens na Nuvem</string>
+  <string name="cloud_albums">Nuvem</string>
   <string name="cloud_be_shared_guide_message">Pode ver fotografias dos seus amigos, e adicionar fotografias ao álbum.</string>
   <string name="cloud_be_shared_guide_title">Este álbum vem de um amigo</string>
   <string name="cloud_camera_display_name">Fotografias da câmara</string>
@@ -496,7 +526,7 @@
   <string name="cloud_gallery_space_full">Sem espaço suficiente na nuvem</string>
   <string name="cloud_gallery_space_full_buy_more">"Não é possível sincronizar mais fotos com a Nuvem Mi. Para sincronizar mais fotos, compre espaço adicional."</string>
   <string name="cloud_gallery_space_full_title">Nuvem Mi está cheia</string>
-  <string name="cloud_media_set_set">Álbuns na nuvem</string>
+  <string name="cloud_media_set_set">Nuvem</string>
   <string name="cloud_owner_album_share_guide">"Partilhar este álbum
 com os amigos"</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
@@ -540,8 +570,12 @@ com os amigos"</string>
   <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
   <string name="cool">​Fresco</string>
   <string name="cool_portrait">Retrato</string>
+  <string name="create_baby_album">Criar um album de bebé</string>
+  <string name="create_baby_album_dialog_msg">Criar um album para \"%s\"?</string>
   <string name="create_new_cloud_folder">Criar uma nova pasta</string>
   <string name="create_new_face">Nova pessoa</string>
+  <string name="create_quick_icon_on_desk">Criar atalhos</string>
+  <string name="creating_baby_album">A criar album…</string>
   <string name="crop">Cortar</string>
   <string name="crop_fail_to_load_image">Não é possível visualizar esta imagem</string>
   <string name="crop_label">Cortar</string>
@@ -640,10 +674,13 @@ com os amigos"</string>
   <string name="fail_to_download_n_items">Não foi possível transferir %s</string>
   <string name="fail_to_pick_email">Email inválido</string>
   <string name="fail_to_sync_album">Não foi possível sincronizar o álbum. Verifique a sua ligação de dados e tente novamente.</string>
+  <string name="family_member_invitation_text">Outro membro da família</string>
   <string name="file_not_exist_message">O ficheiro não existe</string>
   <string name="file_size">Tamanho</string>
   <string name="filllight">Preencher com luz</string>
   <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
+  <string name="finish_create_baby_album_toast">Album criado para \"%s\" na Nuvem Mi</string>
+  <string name="finish_fill_baby">Criar</string>
   <string name="fisheye">Olho de peixe</string>
   <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
   <string name="flash">Flash</string>
@@ -684,7 +721,7 @@ com os amigos"</string>
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
   <string name="home_my_captured_items">" fotografias no rolo da câmara"</string>
-  <string name="home_page_tab_cloud">Nuvem Mi</string>
+  <string name="home_page_tab_cloud">Nuvem</string>
   <string name="home_page_tab_face">Rosto</string>
   <string name="home_page_tab_local">Local</string>
   <string name="home_page_tab_photo">Fotografias</string>
@@ -717,7 +754,10 @@ com os amigos"</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
   <string name="initial_cloud_text">Armazenar e exibir suas fotografias em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
+  <string name="input_baby_name">Introduzir nome</string>
+  <string name="input_baby_nick_name">Introduzir alcunha</string>
   <string name="input_cloudfolder_name">Nome da pasta</string>
+  <string name="input_nickname_toast">"Introduzir nome do bebé"</string>
   <string name="internal_camera_folder_display_name">Fotografias da câmara interna</string>
   <string name="internal_miui_capture_screen_folder_display_name">Capturas de ecrã internas</string>
   <string name="internal_sd_card">Armazenamento interno</string>
@@ -725,7 +765,15 @@ com os amigos"</string>
   <string name="internal_sdcard_root">Directório raiz do cartão SD Interno</string>
   <string name="invalid_invition_url">URL de convite inválido</string>
   <string name="invalid_recipient_message">Os nomes dos destinatários que inseriu são inválidos</string>
-  <string name="is">Este é %s?</string>
+  <string name="invite_send_sms_tip">A sua operadora pode cobrar por uma mensagem utilizada para enviar este convite.</string>
+  <string name="invite_sharer_again_confirm_button_text">Convidar outra vez</string>
+  <string name="invite_sharer_confirm_button_text">Convidar</string>
+  <string name="invite_sharer_phone_number_tip">Introduzir número de telefone</string>
+  <string name="invite_sharer_relation_tip">Relacionado com %1$s</string>
+  <string name="invite_sharer_title">"Convidar %1$s's %2$s"</string>
+  <string name="invite_tip">"Partilhar as suas fotos do bebé"</string>
+  <string name="invited_tip">Convidado</string>
+  <string name="is">É</string>  
   <string name="iso">ISO</string>
   <string name="item_not_sync_for_origin_image">Não é possível transferir esta imagem porque ela não foi sincronizada com a nuvem</string>
   <string name="item_not_sync_for_origin_video">Não é possível transferir este vídeo porque ele não foi sincronizado com a nuvem.</string>
@@ -787,14 +835,14 @@ com os amigos"</string>
   <string name="moman_camera_icon">Caricatura de Câmara Moman</string>
   <string name="moman_camera_picture">Fotos de Câmara Moman</string>
   <string name="more">Mais</string>
+  <string name="more_face_album_name">Mais rosto</string>
   <string name="mosaic">Mosaico</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover para</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Toque num rosto para iniciar</string>
-  <string name="must_pick_file">Seleccionar imagem</string>
-  <string name="name_wrong">Este não é %s</string>
+  <string name="must_pick_file">Seleccionar imagem</string>  
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
   <string name="network_connected_rescan">Não é possível conectar à rede</string>
@@ -814,7 +862,7 @@ o dispositivo"</string>
   <string name="no_thumbnail">Sem miniatura</string>
   <string name="none_picture">Sem imagens</string>
   <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
-  <string name="not_is">Não %s?</string>
+  <string name="not_is">não</string>
   <string name="not_now">Agora não</string>
   <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
   <string name="old">Vintage</string>
@@ -825,10 +873,11 @@ o dispositivo"</string>
   <string name="open_public_title">Partilhar</string>
   <string name="open_single_image_failure">Erro ao ler a imagem</string>
   <string name="open_sync_title">Sincronizar com a Nuvem Mi</string>
-  <string name="operation_add_picture">Adicionar imagens</string>
+  <string name="operation_add_picture">Adicionar itens</string>
   <string name="operation_add_secret">Adicionar album secreto</string>
   <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será eliminado. "</string>
   <string name="operation_failed">A operação falhou</string>
+  <string name="operation_give_name">Nome</string>
   <string name="operation_in_process">A processar…</string>
   <string name="operation_refresh">Actualizar</string>
   <string name="operation_remove_from_face_album">Remover do album</string>
@@ -855,6 +904,8 @@ o dispositivo"</string>
   <string name="paint_highlight_cancel_title">Abandonar alterações</string>
   <string name="path">Caminho</string>
   <string name="people">Pessoas</string>
+  <string name="pet_album_display_name">Fotos do animal de estimação</string>
+  <string name="phone_number_empty_alert">Adicionar número de telefone</string>
   <string name="photo_page_always_rotate">Auto-rotação de imagens</string>
   <string name="photo_page_detail_show_in_the_map">Mostrar a localização no mapa</string>
   <string name="photo_page_save_image">Guardar</string>
@@ -898,6 +949,14 @@ o dispositivo"</string>
   <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
   <string name="redeye_tooltip">Toque para remover os olhos vermelhos</string>
   <string name="refocus_data_downloading">A transferir dados de reorientação…</string>
+  <string name="relation_text_empty_alert">Adicionar relacionamento</string>
+  <string name="relation_text_family">Membro da família</string>
+  <string name="relation_text_father">Pai</string>
+  <string name="relation_text_grandfather">Avô Paterno</string>
+  <string name="relation_text_grandmother">Avó Paterna</string>
+  <string name="relation_text_maternal_grandfather">Avô Materno</string>
+  <string name="relation_text_maternal_grandmother">Avó Materna</string>
+  <string name="relation_text_mother">Mãe</string>
   <string name="remove_from_secret_failed_message_with_count">%2$s ficheiros não podem ser adicionados ao album secreto: %1$s.</string>
   <string name="remove_from_secret_successfully_message">Removidos do album secreto</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s ficheiros não são removidos ao album secreto</string>
@@ -920,6 +979,7 @@ o dispositivo"</string>
   <string name="rotate">Rodar</string>
   <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
   <string name="rotate_tooltip">Arraste a fotografia para rodar</string>
+  <string name="same_name_album_exist_and_toast">"Já existe um album como esse nome. Criado como '%s' em vez."</string>
   <string name="same_name_album_exists_alert">As fotos serão adicionadas a um album existente com o mesmo nome.</string>
   <string name="saturation">Saturação</string>
   <string name="saturation_abbr">S</string>
@@ -937,8 +997,7 @@ o dispositivo"</string>
   <string name="screensaver_activate_only_charging">Só durante o carregamento</string>
   <string name="script">Script</string>
   <string name="sd_not_available">Não é possível aceder o cartão SD.</string>
-  <string name="sdcard_root">Directório raiz do cartão SD</string>
-  <string name="seconds">" segundos"</string>
+  <string name="sdcard_root">Directório raiz do cartão SD</string>  
   <string name="secret_album_display_name">Álbum secreto</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_auto_upload_albums">Seleccione os álbuns a sincronizar</string>
@@ -948,9 +1007,11 @@ o dispositivo"</string>
   <string name="select_too_much_to_send_tips">Não é possível enviar estes ficheiros (máximo %d ficheiros).</string>
   <string name="select_video">Seleccionar vídeo</string>
   <string name="send">Enviar</string>
+  <string name="send_invitation_fail">"Não foi possível enviar o convite"</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>
   <string name="send_public_url">Enviar endereço do álbum</string>
   <string name="sepia">Sépia</string>
+  <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
   <string name="set_hidden_album">Ocultar o album</string>
   <string name="set_label_all_albums">Todos os álbuns</string>
   <string name="set_label_local_albums">Álbuns locais</string>
@@ -1007,6 +1068,7 @@ o dispositivo"</string>
   <string name="straighten">Endireitar</string>
   <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
   <string name="straighten_tooltip">Arraste a fotografia para endireitar</string>
+  <string name="success_create_quick_icon_on_desk">Criado com sucesso</string>
   <string name="sync_album">Sincronizar álbuns</string>
   <string name="sync_album_error">Não é possível sincronizar as fotos neste álbum. Verifique sua ligação e tente novamente.</string>
   <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
@@ -1034,6 +1096,7 @@ o dispositivo"</string>
   <string name="times">Tempos</string>
   <string name="tint">Colorir</string>
   <string name="title">Nome do ficheiro</string>
+  <string name="title_set_name">Definir nome</string>
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (adicionou actualmente %1$s)</string>
   <string name="try_to_send">Enviar</string>
@@ -1071,7 +1134,7 @@ o dispositivo"</string>
   <string name="weixin">WeChat</string>
   <string name="where_is_barcode">Onde está o código QR​​?</string>
   <string name="white_balance">Balanço de brancos</string>
-  <string name="who_is_this">Quem é este?</string>
+  <string name="who_is_this">Quem?</string>
   <string name="widget_type">Escolher imagens</string>
   <string name="widget_type_album">Escolher um album</string>
   <string name="widget_type_photo">Escolher uma imagem</string>
@@ -1080,6 +1143,7 @@ o dispositivo"</string>
   <string name="wps">WPS</string>
   <string name="yellow_page">Directório</string>
   <string name="yes">Sim</string>
+  <string name="you_are"/>
   <string name="yunyi_pocket_camera">Câmera desportiva</string>
   <string name="download_without_wifi_msg">Utilizar os seus dados móveis para transferir fotos vai aumentar a sua utilização de dados.  Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais.</string>
   <string name="download_without_wifi_title">Aviso de utilização de dados</string>

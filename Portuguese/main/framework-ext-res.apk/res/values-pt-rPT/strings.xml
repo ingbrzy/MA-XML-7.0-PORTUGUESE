@@ -9,7 +9,9 @@
   <string name="caller_info_name_delimiter">" ou "</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
-  <string name="first_back_long_press_message">"Pressione &amp; segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
+  <string name="fc_dialog_body">Enviar relatório de erros para a Mi analizar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial.</string>
+  <string name="fc_dialog_jump_to_preview">Ver o resumo</string>
+  <string name="first_back_long_press_message">"Pressione e segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
 
 Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
@@ -19,6 +21,8 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
   <string name="global_actions_silent_mode">Silêncio</string>
+  <string name="handy_mode_enter_dlg_msg">Entrar no Modo de Uma mão?</string>
+  <string name="handy_mode_enter_dlg_title">Entrar no Modo de Uma mão</string>
   <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
   <string name="handy_mode_title">Modo de uma mão</string>
   <string name="key_btn_ok">OK</string>
@@ -59,29 +63,20 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="softap_notifif_title">P. Acesso \"%s\" ligado</string>
   <string name="status_bar_toggle_ac">Bloq. de ecrã</string>
   <string name="status_bar_toggle_auto_brightness">Brilho auto.</string>
-  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Brilho</string>
-  <string name="status_bar_toggle_data">Dados móv.</string>
-  <string name="status_bar_toggle_divider">Mais</string>
-  <string name="status_bar_toggle_drive_mode">Condução</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>  
+  <string name="status_bar_toggle_data">Dados móv.</string>    
   <string name="status_bar_toggle_flight_mode">Modo de vôo</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Bloqueio</string>
-  <string name="status_bar_toggle_mute">Silêncio</string>
-  <string name="status_bar_toggle_network_type">Rede</string>
+  <string name="status_bar_toggle_mute">Silêncio</string>  
   <string name="status_bar_toggle_paper_mode">Ler mais</string>
   <string name="status_bar_toggle_power_mode">Desempenho</string>
   <string name="status_bar_toggle_privacy_mode">Convidado</string>
-  <string name="status_bar_toggle_quiet_mode">Não Pertubar</string>
-  <string name="status_bar_toggle_reboot">Reiniciar</string>
+  <string name="status_bar_toggle_quiet_mode">Não Pertubar</string>  
   <string name="status_bar_toggle_rotate">Rotação</string>
   <string name="status_bar_toggle_screen_button">Desactivar</string>
-  <string name="status_bar_toggle_screenshot">Capt. ecrã</string>
-  <string name="status_bar_toggle_shutdown">Desligar</string>
-  <string name="status_bar_toggle_sync">Sincronizar</string>
-  <string name="status_bar_toggle_sync_auto">Sincronizar</string>
-  <string name="status_bar_toggle_sync_manual">Sincronizar</string>
-  <string name="status_bar_toggle_syncing">A sincronizar</string>
+  <string name="status_bar_toggle_screenshot">Capt. ecrã</string>  
+  <string name="status_bar_toggle_sync">Sincronizar</string>  
   <string name="status_bar_toggle_torch">Lanterna</string>
   <string name="status_bar_toggle_vibrate">Vibrar</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
