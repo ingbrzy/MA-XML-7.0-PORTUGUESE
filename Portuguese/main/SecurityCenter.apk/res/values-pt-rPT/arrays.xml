@@ -82,7 +82,7 @@
      </string-array>
      <string-array name="power_dialog_vibration_items">
         <item>Sem vibração</item>
-        <item>Vibrar quando estiver em silêncio</item>
+        <item>Vibrar quando em silêncio</item>
         <item>Vibrar sempre</item>
      </string-array>
      <string-array name="power_dialog_vibration_items_values">
@@ -93,7 +93,7 @@
      <string-array name="power_dialog_wifi_internet_state_items">
         <item>Desligar</item>
         <item>Ligar</item>
-        <item>Não alterar</item>
+        <item>Predefinido</item>
      </string-array>
      <string-array name="preferred_app_entries">
         <item>Launcher</item>
