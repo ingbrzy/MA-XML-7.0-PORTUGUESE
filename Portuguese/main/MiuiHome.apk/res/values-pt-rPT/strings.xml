@@ -38,7 +38,8 @@
   <string name="cant_remove_folder">Não é possível remover a pasta</string>
   <string name="cant_remove_retained_app">Não foi possível remover a aplicação</string>
   <string name="cant_remove_system_app">Não é possível remover a aplicação do sistema</string>
-  <string name="choose_theme">Tema</string>
+  <string name="children_folder_title">Crianças</string>
+  <string name="children_mode_exit">Sair</string>
   <string name="choose_wallpaper">Escolher o papel de parede</string>
   <string name="chooser_wallpaper">Escolha o papel de parede de</string>
   <string name="cloud_app_restore_title">Pendente</string>
@@ -52,7 +53,6 @@
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Ferramentas</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
-  <string name="default_theme_name">Predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
   <string name="delete_wallpapers_message">Eliminar %1$d papéis de parede?</string>
@@ -234,7 +234,7 @@
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_failed_message">Não foi possível aplicar</string>
   <string name="wallpaper_settings">Papel de parede</string>
-  <string name="wallpaper_settings_for_pad">Papel de parede</string>
+  <string name="wallpaper_auto_change_title">Ecrã de Bloqueio</string>
   <string name="wallpaper_success_message">Aplicado com êxito</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Contactos favoritos</string>
