@@ -53,7 +53,7 @@
     <string name="online_resource_entry">Recursos Online</string>
     <string name="status_bar_and_notification_bar">Notificação e barra de estado</string>
     <string name="status_bar_settings_manage_notification">Gerir notificações</string>
-    <string name="status_bar_settings_all_app_display_loading">A carregar…</string>
+    <string name="status_bar_settings_all_app_display_loading">Aguarde um seg…</string>
     <string name="status_bar_settings_enable_notification">Permitir notificações</string>
     <string name="status_bar_settings_show_home_message">Emblema da aplicação</string>
     <string name="status_bar_settings_show_keyguard_notification">Mostrar notificações flutuantes e bloquear ecrã</string>
@@ -70,14 +70,14 @@
     <string name="status_bar_settings_basic_settings">Definições Básicas</string>
     <string name="status_bar_settings_advanced">Definições adicionais</string>
     <string name="status_bar_settings_show_flow_info">Mostrar detalhes do fluxo</string>
-    <string name="status_bar_app_disable_notification">Vazio</string>
-    <string name="status_bar_app_enable_on_notificationBar">Notificação sombra</string>
+    <string name="status_bar_app_disable_notification">Esconder notificações</string>
+    <string name="status_bar_app_enable_on_notificationBar">Mostrar nas Notificações sombra</string>
     <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Notificação sombra no bloqueio do ecrã</string>
     <string name="status_bar_settings_show_carrier">Mostrar o nome da operadora</string>
     <string name="status_bar_settings_custom_carrier">Editar o nome da operadora</string>
     <string name="status_bar_settings_no_carrier">Nenhum</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
-    <string name="status_bar_settings_show_carrier_summary">Mostrar apenas no ecrã de bloqueio</string>
+    <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
     <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
     <string name="status_bar_settings_custom_wifi_name">Editar o nome do Wi-Fi</string>
     <string name="status_bar_settings_toggle_position">Posição dos atalhos</string>
@@ -1146,6 +1146,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
     <string name="advanced_settings">Definições avançadas</string>
     <string name="advanced_settings_summary">Activar mais opções de definições</string>
+	<string name="advanced_text_layout">Activar função de layout de texto avançada</string> 
     <string name="application_info_label">Informação das aplicações</string>
     <string name="storage_label">Armazenamento</string>
     <string name="auto_launch_label">Iniciar por padrão</string>
@@ -2354,10 +2355,10 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
     <string name="led_pulse_summary">Frequência de intermitência do LED quando recebe uma nova notificação</string>
     <string name="show_rounded_corners">Mostrar cantos arredondados</string>
-    <string name="pref_operational_key">Chave Operacional</string>
+    <string name="pref_operational_key">Botões de Navegação</string>
     <string name="pref_button_light">Luz dos botões</string>
-    <string name="pref_button_light_summary">Menu, Iniciar e indicator de voltar</string>
-    <string name="button_light_timeout">Definições de luz dos botões</string>
+    <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
+    <string name="button_light_timeout">Duração da luz dos botões</string>
     <string name="sim_change_failed_enable_sim_lock">Activar agora o bloqueio do SIM</string>
     <string name="sim_lock_change_not_supported">Não é possível activar agora o bloqueio SIM</string>
     <string name="apn_new">Novo ponto de acesso</string>
@@ -3072,6 +3073,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="dndm_wristband_detailed">"Ligar Não Pertubar se a Banda Mi detectar que está a dormir uma hora antes da hora de inicio marcada"</string>
     <string name="dndm_wristband_detailed2">"Desligar Não Pertubar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
 	<string name="every_day">Todos os dias</string>
+	<string name="experience_optimization_category">Optimização de experiência</string>
 	<string name="font_size_exhuge">Super Enorme</string>
 	<string name="legal_workday">Dias Úteis</string>
     <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>

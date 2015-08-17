@@ -442,4 +442,7 @@
     <string name="fullscreen">Ecrã cheio</string>
 	<string name="app_wifi_mode">Actualizar automaticamente por Wi-Fi</string>
     <string name="app_wifi_mode_summary">Quando em Wi-Fi, actualizar automaticamente para a última versão.</string>
+	<string name="need_upgrade_button">Verificar</string>
+    <string name="need_upgrade_summary">Esta função está disponível na nova versão, por favor prima actualizar para instalar a nova versão.</string>
+    <string name="need_upgrade_title">Disponível na nova versão</string>
 </resources>

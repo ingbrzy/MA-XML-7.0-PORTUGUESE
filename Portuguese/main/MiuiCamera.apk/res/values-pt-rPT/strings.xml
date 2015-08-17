@@ -19,6 +19,8 @@
   <string name="camera_error_title">Erro da Câmara</string>
   <string name="camera_label">Câmara</string>
   <string name="camera_settings_label">Câmara</string>
+  <string name="camera_snap_mode_title">Modo Disparo Rápido</string>
+  <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
   <string name="cannot_connect_camera_once">Não é possível ligar a câmara, por favor reinicie a câmara</string>
   <string name="cannot_connect_camera_twice">Não é possível ligar a câmara, por favor reinicie o telefone.</string>
   <string name="cannot_move_warning_message">A tirar fotografia, não mova o dispositivo</string>
@@ -251,6 +253,8 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_skinToneEnhancement_entry_auto">Aperfeiçoamento automático</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivado</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activado</string>
+  <string name="pref_camera_snap_enable_summary">Quando o ecrã está desligado, pressione e segure o botão de Volume Baixo para entrar no modo Disparo Rápido. Pressione novamente para tirar a foto.</string>
+  <string name="pref_camera_snap_enable_title">Modo Disparo Rápido</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
   <string name="pref_camera_touchafaec_entry_off">Desl.</string>
   <string name="pref_camera_touchafaec_entry_on">Lig.</string>
