@@ -149,7 +149,8 @@
   <string name="error_timed_msg">Hora inválida</string>
   <string name="ex_type_mx">Mensagens Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
-  <string name="exceed_message_size_limitation">Foi atingido o limite máximo da mensagem.</string>
+  <string name="exceed_message_size_limitation">Foi atingido o tamanho máximo da mensagem.</string>
+  <string name="exceed_message_text_limitation">Foi atingido o tamanho de texto máximo da mensagem.</string>
   <string name="expire_on">Expira: %s</string>
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem.</string>

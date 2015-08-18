@@ -96,6 +96,7 @@
   <string name="account_setup_failed_security">Não foi possível abrir a ligação com o servidor devido a um erro de segurança.</string>
   <string name="account_setup_failed_security_policies_unsupported">Este servidor pede recursos de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor.</string>
+  <string name="account_setup_failed_too_many_partnerships">Erro na autenticação, foi atingido o número máximo de conexões ao servidor permitido.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>  
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
@@ -560,11 +561,13 @@
   <string name="outbox_alert_certificate_error">Erro no certificado de Email. Actualize o seu certificado.</string>
   <string name="outbox_alert_description_auth_error">Erro do servidor durante sincronização da caixa de saída</string>
   <string name="outbox_alert_description_cannot_authenticate">Não é possível aotenticar %s.</string>
+  <string name="outbox_alert_description_email_size_error">O tamanho máximo do Email foi atingido.</string>
+  <string name="outbox_alert_description_fail_authentication">Utilizador ou palavra-passe incorrecto.</string>
   <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída.</string>
   <string name="outbox_alert_description_insufficient_storage_error">O espaço de armazenamento no servidor não é suficiente</string>
   <string name="outbox_alert_description_provision_error">Erro ao sincronizar a caixa de saída.</string>
   <string name="outbox_alert_description_reject_by_server">Rejeitado por %s</string>
-  <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do destinatário.</string>
+  <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do servidor.</string>
   <string name="outbox_alert_description_time_out">A ligação à rede falhou</string>
   <string name="outbox_alert_duplicate_click">Ainda está a sincronizar</string>
   <string name="outbox_alert_edit_resend">Editar e reenviar</string>

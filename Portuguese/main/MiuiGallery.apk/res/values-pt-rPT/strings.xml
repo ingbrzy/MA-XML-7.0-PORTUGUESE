@@ -626,7 +626,7 @@ com os amigos"</string>
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Adicionar Email partilhado</string>
   <string name="enable">Ligar</string>
-  <string name="enable_cloud_for_sharing">Tem de activar álbuns na nuvem para ver as imagens partilhadas.</string>
+  <string name="enable_cloud_for_sharing">Tem de ligar os álbuns na Nuvem para ver as imagens partilhadas.</string>
   <string name="enabling_face_feature">Aguarde um seg…</string>
   <string name="enter_email_hint">Inserir o endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -779,10 +779,10 @@ com os amigos"</string>
   <string name="item_not_sync_for_origin_video">Não é possível transferir este vídeo porque ele não foi sincronizado com a nuvem.</string>
   <string name="item_not_sync_for_refocus_data">Não é possível transferir dados para reorientar esta imagem porque não foi sincronizado com a nuvem.</string>
   <string name="kick_owner_user_positive_button_text">Eliminar</string>
-  <string name="kick_owner_user_title">Eliminar este membro?</string>
-  <string name="kick_sharer">Eliminar partilha utilizada</string>
-  <string name="kick_sharer_failed">Impossível remover utilizador</string>
-  <string name="kick_sharer_successfully">Utilizador removido</string>
+  <string name="kick_owner_user_title">Eliminar esta pessoa?</string>
+  <string name="kick_sharer">Eliminar visualização partilhada</string>
+  <string name="kick_sharer_failed">Impossível remover pessoa</string>
+  <string name="kick_sharer_successfully">Esta pessoa foi removida</string>
   <string name="last_chinese_new_year">Último Ano Novo Chinês</string>
   <string name="last_new_year">Último Ano Novo</string>
   <string name="last_valentine_day">Último dia dos Namorados</string>
@@ -892,7 +892,7 @@ o dispositivo"</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_category">Definições adicionais</string>
-  <string name="owner_album_subtitle">Partilhar com %1$s utilizadores</string>
+  <string name="owner_album_subtitle">Partilhar com %1$s pessoas</string>
   <string name="paint_brush">Pincel</string>
   <string name="paint_cancel_context">Não guardar as alterações efectuadas na foto?</string>
   <string name="paint_cancel_title">Abandonar alterações</string>
@@ -1036,7 +1036,7 @@ o dispositivo"</string>
   <string name="share_current_album">Partilhar este album</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja em %2$s</string>
   <string name="share_title_more">Mais</string>
-  <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de utilizadores.</string>
+  <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas.</string>
   <string name="sharpen">Escurecer</string>
   <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
   <string name="show_all">Imagens e vídeos</string>

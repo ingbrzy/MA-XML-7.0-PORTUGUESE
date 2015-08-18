@@ -192,7 +192,7 @@ Para activar a conta, siga em
     <string name="user_agreement_p6">Concordo com </string>
     <string name="privacy_policy">Política De Privacidade</string>
     <string name="user_agreement">Termos de Serviço</string>
-    <string name="loading">A carregar…</string>
+    <string name="loading">Aguarde um seg…</string>
     <string name="license_host_unreachable">Não é possível ligar à rede. Pode visualizar esta página em %s.</string>
     <string name="find_password_on_web_msg">Visite account.mi.com para repor a sua palavra passe.</string>
     <string name="relogin">Inicie sessão novamente</string>
@@ -236,8 +236,8 @@ Para activar a conta, siga em
     <string name="account_none">Nenhum</string>
     <string name="account_no_set">Nenhum</string>
     <string name="account_none_user_name">Nenhum</string>
-    <string name="account_user_base_info">Infor. do utilizador</string>
-    <string name="account_user_secure_info">Infor. de segurança</string>
+    <string name="account_user_base_info">Informação pessoal</string>
+    <string name="account_user_secure_info">Telefone e email</string>
     <string name="account_user_email">Email</string>
     <string name="account_user_phone">Número de telefone</string>
     <string name="account_user_recovery_phone">Restaurar telefone</string>
@@ -248,7 +248,7 @@ Para activar a conta, siga em
     <string name="account_user_gender_male">Masculino</string>
     <string name="account_user_birthday">Data de nascimento</string>
     <string name="account_user_id">ID da Conta MI</string>
-    <string name="account_user_details">Infor. do utilizador</string>
+    <string name="account_user_details">Informação pessoal</string>
     <string name="account_user_name_dialog_title">Inserir nome</string>
     <string name="account_user_using_weibo_avatar">Utilizar a foto de perfil Sina Weibo</string>
     <string name="account_user_using_qq_avatar">Utilizar a foto de perfil QQ</string>
@@ -355,4 +355,6 @@ Por favor insira a verificação no email"</string>
     <string name="empty_device_list_notice">Não existem dispositivos</string>
 	<string name="account_vip_level">Conta</string>
     <string name="account_vip_task">Progresso</string>
+	<string name="passport_account_identity_title">Verificar a sua identidade</string>
+	<string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Espere 24 horas e tente novamente.</string>
 </resources>

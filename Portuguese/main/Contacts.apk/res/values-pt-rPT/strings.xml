@@ -925,7 +925,7 @@ Escolha uma das seguintes opções:"</string>
     <string name="set_photo_failed_msg">Erro ao adicionar fotografia.</string>
     <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
     <string name="profile_name">Meu perfil</string>
-    <string name="profile_name_photo">Eu</string>
+    <string name="profile_name_photo">Foto</string>
     <string name="toast_copying">A copiar…</string>
     <string name="toast_copy_done">Concluído</string>
     <string name="group_name">Meus grupos</string>
@@ -1018,7 +1018,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="contact_detail_miprofile_binded_label">Adicionados</string>
    <string name="contact_detail_miprofile_exchange_closed">"Nenhum número de telefone está associado a esta conta Mi
  Cartões de contactos estão desligados"</string>
-   <string name="contact_detail_miprofile_privacy_settings">Contactos têm de ter a sua permissão para ver o seu cartão de contacto</string>
+   <string name="contact_detail_miprofile_privacy_settings">Necessário permissão para ver</string>
    <string name="contact_detail_miprofile_request">Toque para trocar cartões</string>
    <string name="contact_detail_miprofile_request_fail_toast">"Não foi possível enviar o pedido"</string>
    <string name="contact_detail_miprofile_request_subtitle">Depois do destinatário aceitar, a foto do perfil e informação do contacto vão ser actualizadas automaticamente</string>
@@ -1026,7 +1026,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="contact_detail_miprofile_save">Toque para obter cartão de contacto</string>
    <string name="contact_detail_miprofile_save_fail_toast">"Não foi possível obter o cartão de contacto"</string>
    <string name="contact_detail_miprofile_save_success_toast">Cartão de contacto recebido</string>
-   <string name="contact_detail_miprofile_settings_header">Definições da troca</string>
+   <string name="contact_detail_miprofile_settings_header">Definições adicionais</string>
    <string name="contact_detail_miprofile_subtitle">Cartões já trocados</string>
    <string name="contact_detail_profile_switch_fail_network_toast">"Não foi possível conectar à rede"</string>
    <string name="contact_detail_profile_switch_fail_toast">Alguma coisa correu mal no nosso servidor</string>
@@ -1048,7 +1048,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="in_call_show_demo_present">Prévisualizar</string>
    <string name="in_call_show_guide_start_recording">Gravar agora</string>
    <string name="in_call_show_long_press_to_record">Pressione e segure para gravar</string>
-   <string name="in_call_show_pick_video">Escolher</string>
+   <string name="in_call_show_pick_video">Escolher vídeo</string>
    <string name="in_call_show_preview">Prévisualizar</string>
    <string name="in_call_show_recording">A gravar…</string>
    <string name="in_call_show_reshoot">Repetir</string>
@@ -1056,7 +1056,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="in_call_show_save_failed">"Não foi possível gravar o vídeo"</string>
    <string name="in_call_show_tap_to_show_demo">Toque no ecrã para previsualizar</string>
    <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo.</string>
-   <string name="in_call_show_video_pick">Escolher vídeo</string>
+   <string name="in_call_show_video_pick">Escolher</string>
    <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos. "</string>
    <string name="in_call_show_view_play_error">Erro ao reproduzir vídeo, por favor repita</string>
    <string name="miprofile_account_type">Conta Mi</string>
@@ -1066,20 +1066,20 @@ Escolha uma das seguintes opções:"</string>
    <string name="miprofile_bind_account_alertdialog_message">"É necessário adicionar o número de telefone deste dispositivo para a sua conta Mi para usar este recurso."</string>
    <string name="miprofile_bind_account_alertdialog_positive">Adicionar número</string>
    <string name="miprofile_bind_account_alertdialog_title">Adicionar número de telefone</string>
-   <string name="miprofile_edit_title">Editar cartão</string>
+   <string name="miprofile_edit_title">Editar perfil</string>
    <string name="miprofile_error_accept_self">"Não é possível trocar o seu próprio cartão de contacto"</string>
    <string name="miprofile_error_no_miaccount">Iniciar sessão na sua conta Mi</string>
    <string name="miprofile_error_not_opened">Cartões de contacto estão desligados</string>
    <string name="miprofile_error_not_set">"O seu cartão de contacto ainda não foi sincronizado no servidor"</string>
    <string name="miprofile_error_unknown">Erro desconhecido</string>
-   <string name="miprofile_name">Meu cartão</string>
+   <string name="miprofile_name">Meu perfil</string>
    <string name="miprofile_notice_text">"Toque para ver a foto de perfil do contacto"</string>
    <string name="miprofile_request_agenda_date">%1$s quer trocar cartões de contacto</string>
    <string name="miprofile_request_agenda_today">%1$s quer trocar cartões de contacto</string>
    <string name="miprofile_request_agenda_yesterday">%1$s quer trocar cartões de contacto</string>
    <string name="miprofile_request_agree">Aceitar</string>
    <string name="miprofile_request_agree_exchange_profile">Cartões de contacto trocados</string>
-   <string name="miprofile_request_agreed">%1$s Aceitou trocar o cartão de contacto comigo</string>
+   <string name="miprofile_request_agreed">%1$s aceitou trocar cartão de contacto</string>
    <string name="miprofile_request_alertdialog_message">O seu cartão vai ser enviado automaticamente assim que esta pessoa aceitar.</string>
    <string name="miprofile_request_alertdialog_title">Trocar cartões de contacto</string>
    <string name="miprofile_request_clear_alertdialog_message">Limpar histórico de troca de cartões de contacto?</string>
