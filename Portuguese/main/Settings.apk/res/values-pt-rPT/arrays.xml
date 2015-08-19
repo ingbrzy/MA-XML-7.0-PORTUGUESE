@@ -76,11 +76,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>normal</item>
-        <item>médio</item>
-        <item>grande</item>
-        <item>enorme</item>
-        <item>godzilla</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>normal</item>
@@ -1259,8 +1259,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar animações de sistema</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Oculte as animações de sistema para aumentar o desempenho do dispositivo</item>
-        <item>As animações de sistema podem reduzir o desempenho do dispositivo</item>
+        <item>Aumentar o desempenho do dispositivo</item>
+        <item>Pode reduzir o desempenho do dispositivo</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reiniciar o dispositivo para aplicar esta definição?</item>

@@ -88,6 +88,7 @@
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
 %4$s de %3$s partilhou o album de %5$s contigo"</string>
   <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
+  <string name="baby_album_sharers_page_title">Partilhar com famílias</string>
   <string name="baby_birthday">Aniversário</string>
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_at_least_one_selected">Escolher um album</string>
@@ -546,9 +547,6 @@ com os amigos"</string>
   <string name="confirm_all_photo_not_this_people_face">Sem correspondências para %s?</string>
   <string name="confirm_delete">Eliminar %s fotos?</string>
   <string name="confirm_delete_album" formatted="false">Eliminar %s álbuns (%s total de ficheiros)?</string>
-  <string name="confirm_delete_has_cloud_image_video">" "&lt;Data&gt; Eliminar %s items da nuvem?&lt;/Data&gt;" "</string>
-  <string name="confirm_delete_has_cloud_local_image_video">" "&lt;Data&gt; Eliminar %s items do dispositivo e da nuvem?&lt;/Data&gt;" "</string>
-  <string name="confirm_delete_has_local_image_video">Eliminar %s ficheiros?</string>
   <string name="confirm_delete_init_message">As imagens serão eliminadas do dispositivo e da Nuvem Mi . Se deseja só eliminar do dispositivo, seleccione a janela \"Local\".</string>
   <string name="confirm_delete_init_title">Eliminar imagens</string>
   <string name="confirm_delete_system_album">%s é um álbum do sistema.</string>
@@ -1120,6 +1118,7 @@ o dispositivo"</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
   <string name="videos">" videos"</string>
+  <string name="view_baby_album">Ver album do bebé</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_sharers">Mostrar partilhados</string>
   <string name="vignette">Vinheta</string>

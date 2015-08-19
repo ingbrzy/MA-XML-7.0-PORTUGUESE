@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Armazenamento de Contactos</string>
-  <string name="call_log_provider_label">Registo de chamadas</string>
+  <string name="call_log_provider_label">Histórico de chamadas</string>
   <string name="create_contact">Criar contacto</string>
   <string name="debug_dump_database_message">Está prestes a 1) fazer uma cópia de segurança da sua base de dados, que inclui todos os contactos e informações relacionadas com todos registos de chamadas para o armazenamento interno, e 2) enviar um email. Lembre-se de eliminar a cópia de segurança que fez do dispositivo ou o email recebido.</string>
   <string name="debug_dump_delete_button">Eliminar agora</string>

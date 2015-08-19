@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <array name="account_birthday">
         <item>#ffe99080</item>
@@ -73,6 +72,18 @@
         <item>2 dias</item>
         <item>1 semana</item>
      </string-array>
+     <string-array name="miui_preferences_default_reminder_labels">
+         <item>Sem lembrete</item>
+         <item>0 minutos</item>
+         <item>5 minutos</item>
+         <item>10 minutos</item>
+         <item>15 minutos</item>
+         <item>30 minutos</item>
+         <item>1 hora</item>
+         <item>1 dia</item>
+         <item>2 dias</item>
+         <item>1 semana</item>
+     </string-array>	 
      <string-array name="ordinal_labels">
         <item>Primeiro</item>
         <item>Segundo</item>

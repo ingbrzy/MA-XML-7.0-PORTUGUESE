@@ -273,7 +273,7 @@
     <string name="wallpaper_set_as_destop">Definir como ecrã principal</string>
     <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
     <string name="wallpaper_crop">Cortar</string>
-    <string name="wallpaper_loading_text">A carregar…</string>
+    <string name="wallpaper_loading_text">Aguarde um seg…</string>
     <string name="wallpaper_decoded_error">Não é possível aplicar o papel de parede</string>
     <string name="close">Fechar</string>
     <string name="download_success">Transferência concluída</string>
@@ -360,10 +360,10 @@
 	<string name="vip_level_value">LV%d</string>
 	<string name="choose_new_themes">Novos temas</string>
 	<string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
-    <string name="lockscreen_magazine_summary">Obter novos papeis de parede directamente para o seu ecrã de bloqueio</string>
-    <string name="lockscreen_magazine_system_subscribe">%1$s seleccionados</string>
+    <string name="lockscreen_magazine_summary">Obter papéis de parede directamente para o seu ecrã de bloqueio todos os dias.</string>
+    <string name="lockscreen_magazine_system_subscribe">%1$s papéis de parede</string>
     <string name="lockscreen_magazine_system_title">Predefinido</string>
-    <string name="lockscreen_magazine_title">Ecrãs de bloqueio da Curadoria</string>
+    <string name="lockscreen_magazine_title">Ecrãs de bloqueio diários</string>
 	<string name="theme_apply_failured">"Não é possível aplicar o papel de parede"</string>
     <string name="theme_apply_success">Ecrã de bloqueio aplicado</string>
     <string name="theme_applying">A aplicar…</string>

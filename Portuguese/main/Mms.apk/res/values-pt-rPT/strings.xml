@@ -277,6 +277,9 @@
   <string name="mx_activate_int_hint_malformed_info">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_server">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_sim_change">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
+  <string name="mx_and_voip_enable">Mensagens e Voz Mi</string>
+  <string name="mx_and_voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="mx_and_voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
   <string name="mx_auto_resend_mms_summary">Enviar como MMS quando ligado à rede de dados, quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
   <string name="mx_auto_resend_sms">Enviar como texto</string>
@@ -585,6 +588,9 @@ Tentativas efectuadas: %s."</string>
   <string name="view_hms_attachment_fail">Não é possível transferir a imagem</string>
   <string name="view_hms_details">Detalhes</string>
   <string name="view_message_details">Ver detalhes</string>
+  <string name="voip_enable">Mensagens e Voz Mi</string>
+  <string name="voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviado em %ds</string>
   <string name="xiaomi_service_number">Número de serviço</string>

@@ -56,7 +56,7 @@
     <string name="name_model">"%1$s's %2$s"</string>
     <string name="download_settings">Transferir ecrã inicial: %s%%</string>
     <string name="recover_home_settings">Restaurar definições do ecrã de início</string>
-    <string name="cancel_recover_settings"><u>Cancelar</u></string>
+    <string name="cancel_recover_settings">&lt;u&gt;Cancelar&lt;/u&gt;</string>
     <string name="recover_settings_description">Mantenha o seu dispositivo ligado</string>
     <string name="recover_miui_settings">Restaurar definições de sistema MIUI</string>
     <string name="wait_icon_download">A transferir o ícone da aplicação</string>
@@ -72,4 +72,5 @@
     <string name="remove_task_unfinished">Remoção não terminada</string>
     <string name="back_up_task_unfinished">Cópia não terminada</string>
     <string name="about_to_recover">Aguarde um seg…</string>
+	<string name="click_try_to_restore_again">clique para tentar novamente</string>
 </resources>

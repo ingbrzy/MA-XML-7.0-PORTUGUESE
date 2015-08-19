@@ -1,25 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <plurals name="confirm_delete_album">
         <item quantity="other">Eliminar %1$s albuns (%2$s total)?</item>
         <item quantity="one">Eliminar %1$s album (%2$s total)?</item>
      </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados contêm fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados contêm fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado tem uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados contêm vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado tem um vídeo na Nuvem Mi &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados são fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados são fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado é uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">&lt;Data>Os itens selecionados são vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado é um vídeo na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo da Nuvem Mi?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste album?&lt;/Data></item>
+     </plurals>
+     <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Eliminar %s itens?</item>
+     </plurals>	 
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &lt;Data> Eliminar %s fotos da nuvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s foto da nuvem?&lt;/Data> "</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &lt;Data> Eliminar %s fotos do dispositivo e na nuvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s foto do dispositivo e da nuvem?&lt;/Data> "</item>
-     </plurals>
-     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &lt;Data> Eliminar %s vídeos do dispositivo e da nuvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s vídeo do dispositivo e da nuvem?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s fotos deste album?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s foto deste album?&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &lt;Data> Eliminar %s vídeos da nuvem?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s vídeo da nuvem?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Eliminar %s vídeos deste album?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Eliminar %s vídeo deste album?&lt;/Data> "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Eliminar %s fotos?</item>
@@ -102,7 +121,11 @@
          <item quantity="one">"%1$d ano "</item>
      </plurals>
      <plurals name="baby_age_subtitle_month">
-         <item quantity="other">%1$d meses</item>
-         <item quantity="one">%1$d mês</item>
+         <item quantity="other">"%1$d meses "</item>
+         <item quantity="one">"%1$d mês "</item>		 
      </plurals>
+     <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+     </plurals>	 
 </resources>
