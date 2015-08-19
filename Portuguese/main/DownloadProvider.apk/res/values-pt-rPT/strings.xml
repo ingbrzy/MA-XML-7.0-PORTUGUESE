@@ -53,7 +53,7 @@
   <string name="privacy_tip_ok">Confirmar</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
   <string name="recommended_file_more_in_mobile" formatted="false">Utilizar a sua conexão de dados para transferir estes %s ficheiros (%s ) vai aumentar a sua utilização de dados móveis.</string>
-  <string name="recommended_file_one_in_mobile">Utilizar a sua conexão de dados para transferir este %s ficheiro (%s ) vai aumentar a sua utilização de dados móveis.</string>
+  <string name="recommended_file_one_in_mobile" formatted="false">Utilizar a sua conexão de dados para transferir este %s ficheiro (%s ) vai aumentar a sua utilização de dados móveis.</string>
   <string name="recommended_file_size_download_in_mobile" formatted="false">"Não está conectado ao Wi-Fi neste momento. %s
 
 Não é possível obter a informação do tamanho do ficheiro. Para utilizar os dados móveis para transferir este ficheiro, toque %s. Para esperar e transferir este ficheiro quando estiver conectado ao Wi-Fi, toque %s."</string>
