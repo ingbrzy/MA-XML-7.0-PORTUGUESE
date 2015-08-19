@@ -5,15 +5,15 @@
         <item quantity="one">Eliminar %1$s album (%2$s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados contêm fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados contêm fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado tem uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado inclui uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto deste dispositivo e da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados contêm vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado tem um vídeo na Nuvem Mi &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado inclui um vídeo na Nuvem Mi &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo deste dispositivo e da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
         <item quantity="other">&lt;Data>Os itens selecionados são fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens da Nuvem Mi?&lt;/Data></item>
