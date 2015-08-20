@@ -353,15 +353,15 @@ Por favor insira a verificação no email"</string>
     <string name="get_device_list_failed">Não é possível obter dispositivos</string>
     <string name="delete_device_failed">Não foi possível remover o dispositivo</string>
     <string name="empty_device_list_notice">Não existem dispositivos</string>
-	<string name="account_vip_level">Conta</string>
+    <string name="account_vip_level">Conta</string>
     <string name="account_vip_task">Progresso</string>
-	<string name="passport_account_identity_title">Verificar a sua identidade</string>
-	<string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Espere 24 horas e tente novamente.</string>
-	<string name="passport_change_phone_number">Trocar números</string>
-	<string name="passport_confirm_recycle_account">Sim</string>
-	<string name="passport_identitfication_expired">Código de verifiação expirado, comece novamente</string>
-	<string name="passport_input_password_for_login">Este número está associado a uma conta existente, introduza a sua palavra-passe</string>
-	<string name="passport_recycle_account_prompt">É esta a sua conta Mi?</string>
+    <string name="passport_account_identity_title">Verificar a sua identidade</string>
+    <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Espere 24 horas e tente novamente.</string>
+    <string name="passport_change_phone_number">Trocar números</string>
+    <string name="passport_confirm_recycle_account">Sim</string>
+    <string name="passport_identitfication_expired">Código de verifiação expirado, comece novamente</string>
+    <string name="passport_input_password_for_login">Este número está associado a uma conta existente, introduza a sua palavra-passe</string>
+    <string name="passport_recycle_account_prompt">É esta a sua conta Mi?</string>
     <string name="passport_register_restricted">Foram associadas demasiadas contas a este número, tente um diferente</string>
     <string name="passport_register_restricted_title">"Não é possível usar este número"</string>
     <string name="passport_reject_recycle_account">Nope</string>
@@ -372,6 +372,6 @@ Por favor insira a verificação no email"</string>
     <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta.</string>
     <string name="passport_restart_register_title">Criar Conta Mi</string>
     <string name="passport_setting">A definir…</string>	
-	<string name="passport_wait_for_sms_prompt">"Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a ser entregues quando o telefone está dentro do alcance da rede da sua operadora."</string>
-	<string name="passport_wrong_password">Palavra-passe incorrecta</string>
+    <string name="passport_wait_for_sms_prompt">"Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a ser entregues quando o telefone está dentro do alcance da rede da sua operadora."</string>
+    <string name="passport_wrong_password">Palavra-passe incorrecta</string>
 </resources>
