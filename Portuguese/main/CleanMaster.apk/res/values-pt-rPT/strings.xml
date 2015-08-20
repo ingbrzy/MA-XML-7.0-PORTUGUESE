@@ -50,7 +50,7 @@
     <string name="button_text_select_all">Seleccionar tudo</string>
     <string name="button_text_select_pic">Seleccionar</string>
 	<string name="button_text_uninstall">Desinstalar</string>
-	<string name="button_text_uninstall_only">Desinstalar</string>
+	<string name="button_text_uninstall_only">Desinstalar %s</string>
 	<string name="button_text_unselect_all">Desmarcar tudo</string>
     <string name="button_text_unselect_pic">Desmarcar</string>
 	<string name="button_text_view_detail">Detalhes</string>
@@ -92,7 +92,7 @@
     <string name="empty_title_apk">Não foram encontrados pacotes</string>
 	<string name="empty_title_garbage_cache">Nada para limpar</string>
 	<string name="empty_title_garbage_white_list">Sem excepções.</string>
-	<string name="empty_title_installed_apps">vazio</string>
+	<string name="empty_title_installed_apps">Vazio</string>
 	<string name="empty_title_large_files">Vazio</string>
     <string name="empty_title_residual">Não foram encontrados resíduos</string>
 	<string name="header_optimizer">Ao usar este recurso, está a concordar com %s.</string>
@@ -145,6 +145,7 @@
     <string name="hints_title_garbage">lixo</string>
     <string name="item_title_process_mode">Escolha uma acção</string>
     <string name="last_check_canceled">A verificação anterior foi cancelada</string>
+	<string name="mainbtn_text_quick_cleanup">Limpar %s</string>
 	<string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
     <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
     <string name="msg_update_error_code_already_running">A actualizar</string>

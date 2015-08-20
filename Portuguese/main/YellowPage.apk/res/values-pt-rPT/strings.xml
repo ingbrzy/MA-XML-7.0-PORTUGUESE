@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Pág. amarelas</string>
+    <string name="app_label">Páginas amarelas</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="info_divider">|</string>
     <string name="express_info_divider">" / "</string>
@@ -119,7 +119,7 @@
     <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-lo? Ao pressionar \"Concodo\" concorda com a Xiaomi %1$s e %2$s.</string>
     <string name="about_smart_antispam_summary">Sobre este recurso</string>
     <string name="about_telephone_fraud">Cuidado com fraudes no telefone</string>
-    <string name="turn_on_yellowpage_service_title">Utilizar Páginas Amarelas</string>
+    <string name="turn_on_yellowpage_service_title">Utilizar Páginas amarelas</string>
     <string name="notify_connect_title">Notificação de ligação à internet</string>
     <string name="notify_connect_summary">Mostrar um aviso quando é efectuada uma ligação à internet</string>
     <string name="do_not_remind_me">Não mostrar novamente</string>
@@ -343,7 +343,7 @@ Verifique o seu número de rastreamento."</string>
     <string name="account_address">Moradas</string>
     <string name="account_title">Perfil</string>
     <string name="account_type_name">Conta Mi</string>
-    <string name="account_verify_password">Está a utilizar este serviço noutro dispositivo, por motivo de segurança, a sua conta MI necessita de ser verificada neste dispositivo.</string>
+    <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo, por motivo de segurança, a sua conta MI necessita de ser verificada neste dispositivo.</string>
     <string name="account_updating_device">A actualizar…</string>
     <string name="account_updating_device_failed">Não é possível inicar a sessão</string>
     <string name="quick_yellow_page_tab_phones">Telefone</string>
@@ -356,9 +356,9 @@ Verifique o seu número de rastreamento."</string>
     <string name="view_orders">Ver compras</string>
     <string name="pull_to_refresh_pull_label">Deslize para actualizar…</string>
     <string name="pull_to_refresh_release_label">Solte para actualizar…</string>
-    <string name="pull_to_refresh_refreshing_label">A actualizar…</string>
+    <string name="pull_to_refresh_refreshing_label">Aguarde um seg…</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Acesso à localização</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas Amarelas para aceder às suas informações de localização.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas para aceder às suas informações de localização.</string>
     <string name="yellowpage_navigation_network_location_enable">Permitir</string>
     <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
     <string name="yellowpage_navigation_network_location_enabled">O serviço está activado, pode desactivá-lo nas definições de localização</string>
@@ -373,11 +373,11 @@ Verifique o seu número de rastreamento."</string>
 	<string name="express_order_state">%1$s / %2$s</string>
 	<string name="general_follow_hint">Seguir %1$s para receber actualizações importantes</string>
 	<string name="order_info">Informação de encomenda</string>
-	<string name="phone_event_setting_notice_text">"Páginas Amarelas quer fazer upload de números de serviço verificados ( como por exemplo a sua operadora ) para os servidores Mi , de modo que a que possa receber actualizações de serviços relacionados."</string>
+	<string name="phone_event_setting_notice_text">"Páginas amarelas quer fazer upload de números de serviço verificados ( como por exemplo a sua operadora ) para os servidores Mi , de modo que a que possa receber actualizações de serviços relacionados."</string>
 	<string name="recharge_follow_name">Carregar</string>
 	<string name="recharge_phone_format">%1$s / %2$s</string>
 	<string name="CNY">CNY</string>
 	<string name="turn_on_phone_event_summary">Carregar o estado do telefone dos números de serviço</string>
     <string name="turn_on_phone_event_title">Receber informações do serviço</string>
-	<string name="express_location_failed">Erro na localização, por favor introduza o seu endereço.</string>
+	<string name="express_location_failed">"Não foi possível localizá-lo, por favor introduza o seu endereço."</string>
 </resources>
