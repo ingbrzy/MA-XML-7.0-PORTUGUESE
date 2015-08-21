@@ -5,7 +5,7 @@
         <item quantity="one">Eliminar %1$s album (%2$s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>		
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
         <item quantity="other">&lt;Data>Os itens selecionados incluem fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
@@ -33,12 +33,12 @@
         <item quantity="other">Eliminar %s itens?</item>
      </plurals>	 
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &lt;Data> Eliminar %s fotos deste album?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s foto deste album?&lt;/Data> "</item>
+        <item quantity="other">&lt;Data> Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste album?&lt;/Data></item>
+        <item quantity="one">&lt;Data> Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto deste album?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &lt;Data> Eliminar %s vídeos deste album?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Eliminar %s vídeo deste album?&lt;/Data> "</item>
+        <item quantity="other">&lt;Data> Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos deste album?&lt;/Data></item>		
+        <item quantity="one">&lt;Data> Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo deste album?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Eliminar %s fotos?</item>
