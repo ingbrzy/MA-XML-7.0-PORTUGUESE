@@ -5,29 +5,29 @@
         <item quantity="one">Eliminar %1$s album (%2$s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> itens deste dispositivo e da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado inclui uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem fotos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado inclui uma foto na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto deste dispositivo e da Nuvem Mi?&lt;/Data></item>		
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados incluem vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado inclui um vídeo na Nuvem Mi &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados incluem vídeos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vídeos deste dispositivo e da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado inclui um vídeo na Nuvem Mi &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vídeo deste dispositivo e da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados são fotos ou vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados são fotos ou vídeos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> itens da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados são fotos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotos da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado é uma foto na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> foto da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados são fotos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> fotos da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado é uma foto na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> foto da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">&lt;Data>Os itens selecionados são vídeos na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeos da Nuvem Mi?&lt;/Data></item>
-        <item quantity="one">&lt;Data>O item selecionado é um vídeo na Nuvem Mi, eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> vídeo da Nuvem Mi?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Os itens selecionados são vídeos na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vídeos da Nuvem Mi?&lt;/Data></item>
+        <item quantity="one">&lt;Data>O item selecionado é um vídeo na Nuvem Mi, eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> vídeo da Nuvem Mi?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%s&lt;/xliff:g> itens deste album?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Eliminar &amp;lt;xliff:g id=ITEM>%s&amp;lt;/xliff:g> itens deste album?&lt;/Data></item>
      </plurals>
      <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Eliminar %s itens?</item>
@@ -49,8 +49,8 @@
         <item quantity="one">Eliminar %s vídeo?</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%1$d vídeos&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%1$d vídeo&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Eliminar &amp;lt;xliff:g id=ITEM>%1$d vídeos&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Eliminar &amp;lt;xliff:g id=ITEM>%1$d vídeo&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d fotos</item>
@@ -91,8 +91,8 @@
         <item quantity="one">%1$d ficheiro</item>
      </plurals>
 	 <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%1$d imagens&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Eliminar &lt;xliff:g id=ITEM>%1$d imagem&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
+        <item quantity="other">&lt;Data>Eliminar &amp;lt;xliff:g id=ITEM>%1$d imagens&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Eliminar &amp;lt;xliff:g id=ITEM>%1$d imagem&lt;/xliff:g> de %2$d albuns?&lt;/Data></item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
