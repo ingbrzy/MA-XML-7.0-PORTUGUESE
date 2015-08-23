@@ -49,8 +49,8 @@
         <item quantity="one">Eliminar %s vídeo?</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">Eliminar %1$d vídeos&lt;/xliff:g> de %2$d albuns?</item>
-        <item quantity="one">Eliminar %1$d vídeo&lt;/xliff:g> de %2$d albuns?</item>
+        <item quantity="other">Eliminar %1$d vídeos de %2$d albuns?</item>
+        <item quantity="one">Eliminar %1$d vídeo de %2$d albuns?</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d fotos</item>
