@@ -420,7 +420,7 @@
         <item>Volume do Alarme</item>
         <item>Volume da Notificação</item>
         <item>Volume Bluetooth</item>
-        <item>Keep awake</item>
+        <item>Manter acordado</item>
         <item>Localização</item>
         <item>Localização</item>
     </string-array>
@@ -1099,6 +1099,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Galeria</item>
         <item>Música</item>
         <item>Email</item>
+		<item>Vídeo</item>
     </string-array>
     <string-array name="permission_risk_privacy">
         <item>android.permission.ACCESS_COARSE_LOCATION</item>

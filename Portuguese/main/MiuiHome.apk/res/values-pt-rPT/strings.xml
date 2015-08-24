@@ -40,6 +40,7 @@
   <string name="cant_remove_system_app">Não é possível remover a aplicação do sistema</string>
   <string name="children_folder_title">Crianças</string>
   <string name="children_mode_exit">Sair</string>
+  <string name="children_mode_tips">Voltar a Definições e gerir acesso às aplicações.</string>
   <string name="choose_wallpaper">Escolher o papel de parede</string>
   <string name="chooser_wallpaper">Escolha o papel de parede de</string>
   <string name="cloud_app_restore_title">Pendente</string>
@@ -233,6 +234,7 @@
   <string name="unnamed_folder_name">Pasta sem nome</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_failed_message">Não foi possível aplicar</string>
+  <string name="wallpaper_scaling_message">A dimensionar para um tamanho fixo</string>
   <string name="wallpaper_settings">Papel de parede</string>
   <string name="wallpaper_auto_change_title">Ecrã de Bloqueio</string>
   <string name="wallpaper_success_message">Aplicado com êxito</string>

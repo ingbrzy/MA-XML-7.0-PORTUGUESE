@@ -212,7 +212,7 @@
   <string name="manual_item_white_list_summary">Impedir que as aplicações seleccionadas sejam optimizadas</string>
   <string name="manual_item_white_list_title">Excepções</string>
   <string name="manual_white_list_header">%d excepções</string>
-  <string name="memory_check_content_none">None</string>
+  <string name="memory_check_content_none">Vazio</string>
   <string name="menu_item_about_content">Versão: %s</string>
   <string name="menu_item_about_summary">Versão: %s</string>
   <string name="menu_item_about_title">Acerca</string>
@@ -542,7 +542,7 @@
   <string name="summary_virus">Encontrado %2$d vírus</string>
   <string name="summary_virus_cloudscan">Carregar nomes de aplicações e dados e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Actualizar as definições de vírus automaticamente quando ligado ao WLAN</string>
-  <string name="system_check_content">%1$d ficheiros suspeitos</string>
+  <string name="system_check_content">%1$d riscos</string>
   <string name="system_header_title">Limpar %1$d processos para libertar %2$s da memória</string>
   <string name="text_antivirus">Enviar os nomes e os detalhes das aplicações</string>
   <string name="text_antivirus_oversea">Actualizar as definições de vírus</string>
