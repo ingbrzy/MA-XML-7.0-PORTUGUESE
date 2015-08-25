@@ -1030,7 +1030,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="contact_detail_miprofile_subtitle">Cartões já trocados</string>
    <string name="contact_detail_profile_switch_fail_network_toast">"Não foi possível conectar à rede"</string>
    <string name="contact_detail_profile_switch_fail_toast">Alguma coisa correu mal no nosso servidor</string>
-   <string name="contact_detail_profile_switch_off">Cartões de contactos estão desligados</string>
+   <string name="contact_detail_profile_switch_off">Desligar cartões de contactos</string>
    <string name="contact_detail_profile_switch_off_fail_toast">"Não foi possível desligar cartões de contacto"</string>
    <string name="contact_detail_profile_switch_off_success_toast">Cartões de contactos desligados</string>
    <string name="contact_detail_profile_switch_on">"Ver fotos de perfil do contacto"</string>
@@ -1042,7 +1042,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="details_list_group_header_more_action">Mais</string>
    <string name="details_list_group_header_other">Outros</string>
    <string name="in_call_show">Vídeo</string>
-   <string name="in_call_show_camera_open_error">Erro ao abrir a câmara, por favor repita</string>
+   <string name="in_call_show_camera_open_error">"Não foi possível abrir a câmara"</string>
    <string name="in_call_show_delete_message">Eliminar o seu vídeo?</string>
    <string name="in_call_show_delete_title">Eliminar vídeo?</string>
    <string name="in_call_show_demo_present">Prévisualizar</string>
@@ -1058,7 +1058,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo.</string>
    <string name="in_call_show_video_pick">Escolher</string>
    <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos. "</string>
-   <string name="in_call_show_view_play_error">Erro ao reproduzir vídeo, por favor repita</string>
+   <string name="in_call_show_view_play_error">"Não foi possível reproduzir vídeo"</string>
    <string name="miprofile_account_type">Conta Mi</string>
    <string name="miprofile_alertdialog_edit">Introduza nome</string>
    <string name="miprofile_alertdialog_message">Mostrar este nome aos contactos quando pedir para trocar cartões.</string>

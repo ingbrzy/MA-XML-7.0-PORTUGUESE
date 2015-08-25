@@ -130,6 +130,8 @@
   <string name="cannot_send_message_reason">Não há destinatários válidos</string>
   <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
   <string name="cant_delete_system_album">Não é possível eliminar %s porque é um album de sistema.</string>
+  <string name="change_to_face_mode">Mudar para modo rosto</string>
+  <string name="change_to_photo_mode">Mudar para modo foto</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_cloud_album">Escolher album</string>
@@ -570,6 +572,7 @@ com os amigos"</string>
   <string name="cool_portrait">Retrato</string>
   <string name="create_baby_album">Criar um album de bebé</string>
   <string name="create_baby_album_dialog_msg">Criar um album para \"%s\"?</string>
+  <string name="create_baby_album_later_toast">Pode criar um album de bebé mais tarde através do menu superior direito</string>
   <string name="create_new_cloud_folder">Criar uma nova pasta</string>
   <string name="create_new_face">Nova pessoa</string>
   <string name="create_quick_icon_on_desk">Criar atalhos</string>
@@ -862,6 +865,7 @@ o dispositivo"</string>
   <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
   <string name="not_is">não</string>
   <string name="not_now">Agora não</string>
+  <string name="not_remind_any_more">"Não lembrar mais tarde"</string>
   <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar apenas as fotografias do rolo da câmara</string>
@@ -881,6 +885,7 @@ o dispositivo"</string>
   <string name="operation_remove_from_face_album">Remover do album</string>
   <string name="operation_remove_secret">Remover album secreto</string>
   <string name="operation_rename">Renomear</string>
+  <string name="operation_rename_baby">Introduzir nome do bebé</string>
   <string name="operation_set_as_screensaver">Definir como protecção de ecrã</string>
   <string name="operation_share">Partilhar</string>
   <string name="operation_successful">Concluído</string>
