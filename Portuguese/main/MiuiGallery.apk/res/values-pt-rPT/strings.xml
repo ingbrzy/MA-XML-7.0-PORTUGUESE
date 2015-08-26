@@ -121,7 +121,7 @@
   <string name="camera_folder_display_name">Fotografias da câmara</string>
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Papel de parede</string>
-  <string name="camera_view_none_message">As fotografias e vídeos tiradas com a aplicação da câmara serão apresentadas aqui.</string>
+  <string name="camera_view_none_message">As fotos e vídeos tiradas com a aplicação da câmara serão apresentadas aqui.</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
@@ -130,8 +130,8 @@
   <string name="cannot_send_message_reason">Não há destinatários válidos</string>
   <string name="cant_delete_cloud_album">Não pode eliminar %s porque é um album de sistema.</string>
   <string name="cant_delete_system_album">Não é possível eliminar %s porque é um album de sistema.</string>
-  <string name="change_to_face_mode">Mudar para modo rosto</string>
-  <string name="change_to_photo_mode">Mudar para modo foto</string>
+  <string name="change_to_face_mode">Organizar por pessoas</string>
+  <string name="change_to_photo_mode">Organizar por albuns</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_cloud_album">Escolher album</string>
@@ -572,7 +572,7 @@ com os amigos"</string>
   <string name="cool_portrait">Retrato</string>
   <string name="create_baby_album">Criar um album de bebé</string>
   <string name="create_baby_album_dialog_msg">Criar um album para \"%s\"?</string>
-  <string name="create_baby_album_later_toast">Pode criar um album de bebé mais tarde através do menu superior direito</string>
+  <string name="create_baby_album_later_toast">Criar um album de bebé em qualquer altura nas Definições</string>
   <string name="create_new_cloud_folder">Criar uma nova pasta</string>
   <string name="create_new_face">Nova pessoa</string>
   <string name="create_quick_icon_on_desk">Criar atalhos</string>
@@ -627,7 +627,7 @@ com os amigos"</string>
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Adicionar Email partilhado</string>
   <string name="enable">Ligar</string>
-  <string name="enable_cloud_for_sharing">Tem de ligar os álbuns na Nuvem para ver as imagens partilhadas.</string>
+  <string name="enable_cloud_for_sharing">Tem de ligar os álbuns na Nuvem para ver as fotos partilhadas.</string>
   <string name="enabling_face_feature">Aguarde um seg…</string>
   <string name="enter_email_hint">Inserir o endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -753,7 +753,7 @@ com os amigos"</string>
   <string name="impunity_declaration_title">Notícia da rede</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Para esconder uma foto, pressione e segure-a, depois selecione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
-  <string name="initial_cloud_text">Armazenar e exibir suas fotografias em qualquer lugar.</string>
+  <string name="initial_cloud_text">Armazenar e ver as suas fotos em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
   <string name="input_baby_name">Introduzir nome</string>
   <string name="input_baby_nick_name">Introduzir alcunha</string>
@@ -836,7 +836,7 @@ com os amigos"</string>
   <string name="moman_camera_icon">Caricatura de Câmara Moman</string>
   <string name="moman_camera_picture">Fotos de Câmara Moman</string>
   <string name="more">Mais</string>
-  <string name="more_face_album_name">Mais rosto</string>
+  <string name="more_face_album_name">Mais pessoas</string>
   <string name="mosaic">Mosaico</string>
   <string name="move">Mover</string>
   <string name="move_to_cloud_album">Mover para</string>
@@ -865,7 +865,7 @@ o dispositivo"</string>
   <string name="not_auto_create_recent_album">Desfazer criar favoritos</string>
   <string name="not_is">não</string>
   <string name="not_now">Agora não</string>
-  <string name="not_remind_any_more">"Não lembrar mais tarde"</string>
+  <string name="not_remind_any_more">"Não mostrar novamente"</string>
   <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar apenas as fotografias do rolo da câmara</string>
@@ -926,7 +926,7 @@ o dispositivo"</string>
   <string name="picker_no_items_selected">Não foram seleccionados ficheiros</string>
   <string name="picker_select_album_title_empty">Seleccionar um álbum</string>
   <string name="picker_tab_photo">Fotografia</string>
-  <string name="pocket_camera_picture">Imagens da câmera de bolso</string>
+  <string name="pocket_camera_picture">Fotos da câmera de bolso</string>
   <string name="pocket_camera_video">Vídeos a câmera de bolso</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Poster</string>
@@ -1023,8 +1023,8 @@ o dispositivo"</string>
   <string name="set_lock_or_wallpaper">Definir como papel de parede</string>
   <string name="set_lockscreen">A definir como papel de parede do ecrã de bloqueio…</string>
   <string name="set_recent_album">Marcar como favorito</string>
-  <string name="set_screensaver_path_message">As imagens deste album serão exibidas na protecção do ecrã.</string>
-  <string name="set_screensaver_path_message_if_only_charging">As imagens deste álbum serão exibidas na protecção do ecrã quando o telemóvel estiver a carregar.</string>
+  <string name="set_screensaver_path_message">As fotos deste album serão exibidas na protecção do ecrã.</string>
+  <string name="set_screensaver_path_message_if_only_charging">As fotos deste álbum serão exibidas na protecção do ecrã quando o telemóvel estiver a carregar.</string>
   <string name="set_screensaver_path_title">Fotografias na protecção do ecrã</string>
   <string name="set_wallpaper">A definir como papel de parede…</string>
   <string name="settings">Definições</string>

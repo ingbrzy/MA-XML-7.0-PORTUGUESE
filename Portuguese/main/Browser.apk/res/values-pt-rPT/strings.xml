@@ -22,8 +22,8 @@
   <string name="action_menu_text_copy_url">Copiar URL</string>
   <string name="action_menu_text_create_qr_code">Código QR</string>
   <string name="action_menu_text_bandwidth">Economizador de Dados</string>
-  <string name="action_menu_text_bandwidth_off">Economizador de Dados desligado</string>
-  <string name="action_menu_text_bandwidth_on">Economizador de Dados ligado</string>
+  <string name="action_menu_text_bandwidth_off">Economizador de Dados</string>
+  <string name="action_menu_text_bandwidth_on">Economizador de Dados</string>
   <string name="action_menu_text_exit">Sair</string>
   <string name="action_menu_text_find_in_page">Localizar na página</string>
   <string name="action_menu_text_fullscreen">Ecrã completo</string>
@@ -43,7 +43,7 @@
   <string name="adblock_websites_settings_empyt_hint">Não bloqueou nenhuma página.</string>
   <string name="adblock_websites_settings_title">Bloquear páginas</string>
   <string name="add_bookmark_group">Adicionar grupo</string>
-  <string name="add_new_bookmark">Adicionar favorito</string>
+  <string name="add_new_bookmark">Adicionar marcador</string>
   <string name="add_new_quicklink">Adicionar à página inicial</string>
   <string name="add_ql_bm_title">Guardar</string>
   <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
@@ -74,11 +74,11 @@
   <string name="bookmark_folder_needs_title">Insira o nome da pasta</string>
   <string name="bookmark_group_lable">Grupo</string>
   <string name="bookmark_needs_title">Tem de atribuir o nome.</string>
-  <string name="bookmark_needs_url">É necessário a sua localização.</string>
+  <string name="bookmark_needs_url">Marcador tem de contem um URL.</string>
   <string name="bookmark_not_saved">Não foi possível guardar nos marcadores</string>
   <string name="bookmark_rename_group">Renomear grupo</string>
   <string name="bookmark_saved">Guardado nos marcadores</string>
-  <string name="bookmark_title">Nome do favorito</string>
+  <string name="bookmark_title">Nome do marcador</string>
   <string name="bookmark_title_lable">Título</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">Este URL já existe nos marcadores</string>
@@ -172,7 +172,7 @@
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="delete">Eliminar</string>
   <string name="delete_bookmark_group_warning">Eliminar \"%s\"? Todos os marcadores deste grupo irão ser eliminados.</string>
-  <string name="delete_bookmark_warning">Eliminar favorito \"%s\"?</string>
+  <string name="delete_bookmark_warning">Eliminar marcador \"%s\"?</string>
   <string name="dont_remind_again">Lembrar esta escolha</string>
   <string name="download_complete">Transferência concluída</string>
   <string name="download_default_path_txt">Lembrar a minha escolha</string>
@@ -247,7 +247,7 @@ Sair desta página?"</string>
   <string name="js_dialog_before_unload_title">Confirmar navegação</string>
   <string name="js_dialog_title">A página em \" %s \" diz:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="js_disable_confirm_message">Desactivar o JavaScript pode fazer com que alguns sites sejam exibidos incorrectamente</string>
+  <string name="js_disable_confirm_message">Desactivar o JavaScript pode fazer com que alguns sites sejam exibidos incorrectamente.</string>
   <string name="js_disable_confirm_title">Desactivar JavaScript?</string>
   <string name="last_month">Último mês</string>
   <string name="license_activity_title">Licenças de Sistema Webview</string>
@@ -357,7 +357,7 @@ Sair desta página?"</string>
   <string name="pref_content_search_engine">Definir motor de pesquisa para a barra de título</string>
   <string name="pref_content_search_engine_summary">Escolher motor de pesquisa</string>
   <string name="pref_enable_adblock_notification">Notificações de bloqueio de anúncios</string>
-  <string name="pref_extras_reset_default">Restaurar para predefinido</string>
+  <string name="pref_extras_reset_default">Restaurar para predefinidos</string>
   <string name="pref_extras_reset_default_dlg">Reverter as definições para os valores predefinidos?</string>
   <string name="pref_extras_reset_default_summary">Restaurar pré-definições</string>
   <string name="pref_extras_reset_default_title">Outra</string>
@@ -423,7 +423,7 @@ Sair desta página?"</string>
   <string name="profiler_stopped_toast">O vídeo terminou. Resultados salvos em %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">A definir papel de parede…</string>
   <string name="qr_code_title">Código QR</string>
-  <string name="quicklink_bookmark_save">Guardar em</string>
+  <string name="quicklink_bookmark_save">LOCALIZAÇÃO DO MARCADOR</string>
   <string name="quicklink_not_saved">Não foi possível adicionar à página inicial</string>
   <string name="quicklink_saved">Adicionado à página inicial</string>
   <string name="quicklink_saved_before">Este site já foi adicionado</string>
@@ -447,7 +447,7 @@ Sair desta página?"</string>
   <string name="readmode_recommend_message">já leu este livro. :)</string>
   <string name="readmode_refresh">Actualizar</string>
   <string name="readmodelist_bookmarks_to_show">Lista de leitura</string>
-  <string name="remove_bookmark">Eliminar favorito</string>
+  <string name="remove_bookmark">Eliminar marcador</string>
   <string name="remove_bookmark_group">Eliminar grupo</string>
   <string name="remove_from_bookmarks">Eliminar dos marcadores</string>
   <string name="remove_history_item">Remover do histórico</string>

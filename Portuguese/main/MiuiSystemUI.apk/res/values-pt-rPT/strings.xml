@@ -158,6 +158,13 @@ Utilize apenas o carregador fornecido."</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Rejeitar a chamada</string>
   <string name="return_to_incall_screen">Voltar à chamada</string>
+  <string name="screen_button_notification_text">Para os ligar, pressione o botão Home e o botão Ligar em simultâneo.</string>
+  <string name="screen_button_notification_title">Os botões de navegação foram desligados</string>
+  <string name="screen_pinning_description">Isto mantem se na vista enquanto não desprender. Toque e segure Voltar e Recentes ao mesmo tempo para desprender.</string>
+  <string name="screen_pinning_description_accessible">Isto mantem se na vista enquanto não desprender. Toque e segure Recentes para desprender.</string>
+  <string name="screen_pinning_negative">Não obrigado</string>
+  <string name="screen_pinning_positive">Percebi</string>
+  <string name="screen_pinning_title">Ecrã está preso</string>
   <string name="screenshot_failed_text">Não foi possível guardar a captura de ecrã. O armazenamento pode estar a ser utilizado.</string>
   <string name="screenshot_saved_text">Seleccione para ver a captura de ecrã guardada.</string>
   <string name="screenshot_saved_title">Captura de ecrã guardada</string>
@@ -236,6 +243,5 @@ Deslize para baixo para bloquear"</string>
   <string name="vpn_text_long">Ligado a %s. Toque para ver detalhes.</string>
   <string name="vpn_title">VPN activado</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
-  <string name="screen_button_notification_text">Para os ligar, pressione o botão Home e o botão Ligar em simultâneo.</string>
-  <string name="screen_button_notification_title">Os botões de navegação foram desligados</string>
+  
 </resources>

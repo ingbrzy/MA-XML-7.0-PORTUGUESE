@@ -149,7 +149,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="lock_screen_warning_value">Alerta de utilização de dados</string>
   <string name="main_alert_message_month_limit_error">Limite de dados incorrecto</string>
   <string name="main_alert_message_no_imsi">Não foi detectado nenhum cartão SIM</string>
-  <string name="main_alert_message_no_mobile_package">Sem limite de dados definido</string>  
+  <string name="main_alert_message_no_mobile_package">Definir limite de dados</string>  
   <string name="main_alert_message_slot_no_data_connection">"A ranhura do cartão SIM não suporta
 uma ligação de dados móveis "</string>
   <string name="main_button_idel_traffic">Menor tráfego</string>
@@ -158,6 +158,7 @@ uma ligação de dados móveis "</string>
   <string name="main_button_usage_adjust_manual">Definir limite da utilização de dados</string>
   <string name="main_button_usage_adjusting">A alterar…</string>
   <string name="main_button_usage_package_setting">Definir limite da utilização de dados</string>
+  <string name="main_message_no_package_by_dual">Definir limite de dados para %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Limite da utilização de dados no período de menor tráfego</string>
   <string name="main_primary_message_traffic_cur_normal">Abaixo do limite de dados</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Limite de dados excedido</string>

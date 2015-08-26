@@ -9,8 +9,8 @@
   <string name="btn_send">Enviar</string>
   <string name="bugreport_dump_complete_notification_summary">Clique para ver o relatório.</string>
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado com êxito</string>
-  <string name="bugreport_dump_start_notification_summary">Aguarde cerca de 1 minuto.</string>
-  <string name="bugreport_dump_start_notification_title">Criar relatório de erros</string>
+  <string name="bugreport_dump_start_notification_summary">Isto leva vários minutos.</string>
+  <string name="bugreport_dump_start_notification_title">A criar relatório de erros…</string>
   <string name="bugreport_tool_log">Create bug report</string>
   <string name="bugreport_tool_log_toast">Log saved to %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">A criar relatório de erro (Leva cerca de um minuto)</string>

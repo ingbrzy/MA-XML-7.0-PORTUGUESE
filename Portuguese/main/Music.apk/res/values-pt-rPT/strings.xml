@@ -28,7 +28,7 @@
     <string name="error_forbidden">Sincronização foi desligada devido a problemas com a sua conta Mi.</string>
     <string name="error_not_acceptable">Sincronização foi desligada.</string>
     <string name="impunity_declaration_title">Termos de utilização</string>
-    <string name="impunity_declaration">Esta aplicação precisa de ligar à internet para visualizar e fazer streaming de música on-line.</string>
+    <string name="impunity_declaration">Esta aplicação precisa de ligar à internet.</string>
     <string name="impunity_declaration_ignore">Não mostrar novamente</string>
     <string name="impunity_declaration_settings">Mostrar termos de utilização</string>
     <string name="impunity_declaration_summary">Exibir pop-up dos Termos de Utilização sempre que abrir aplicação para música online Baidu</string>
@@ -318,4 +318,7 @@
     <string name="atmd_music">Final</string>
     <string name="atmd_copyright_info">O serviço de transmissão é fornecido por Ultimate Inc.</string>
     <string name="atmd_mail">service1@ultimobi.com</string>
+    <string name="online_music_enabled_subtitle">Toque para fazer streaming das suas músicas favoritas.</string>
+    <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as tabelas de rankings e listas de reprodução a partir de qualquer lugar!</string>
+    <string name="online_music_enabled_title">Streaming de graça é aqui</string>
 </resources>

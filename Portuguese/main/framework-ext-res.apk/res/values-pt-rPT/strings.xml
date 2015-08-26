@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_call_livetalk_enable">Utilizar pacotes de recarga para chamadas nacionais e internacionais</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) | %2$s (%3$s)</string>
   <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Negar</string>
@@ -25,6 +27,10 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo de Uma mão</string>
   <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
   <string name="handy_mode_title">Modo de uma mão</string>
+  <string name="internal_livetalk_enable">Utilizar pacotes de recarga para chamadas nacionais</string>
+  <string name="internal_remain_mins">%1$s minutos restantes: (chamadas nacionais)</string>
+  <string name="international_livetalk_enable">Utilizar pacotes de recarga para chamadas internacionais</string>
+  <string name="international_remain_mins">%1$s minutos restantes: (%2$s chamadas)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espaço</string>
   <string name="location_usage_restricted_body">Toque para remover restrição.</string>
