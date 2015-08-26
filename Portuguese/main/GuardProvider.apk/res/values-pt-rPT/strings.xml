@@ -22,6 +22,5 @@
   <string name="tencent_dialog_header">"Esta funcionalidade encripta e envia o ID do seu dispositivo para o servidores Tencent(%s)."</string>
   <string name="tencent_dialog_policy">Ver Política de Privacidade</string>
   <string name="tencent_dialog_title">Política de Privacidade de Tencent</string>
-  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
-   <string name="title_activity_main">MainActivity</string>
+  <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>  
 </resources>
