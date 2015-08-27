@@ -15,13 +15,13 @@
     <string name="searchable_lable_app">Aplicação</string>
     <string name="searchable_lable_music">Música</string>
     <string name="searchable_lable_video">Vídeo</string>
-    <string name="searchable_lable_browser">Naveg.</string>
+    <string name="searchable_lable_browser">Web</string>
     <string name="searchable_lable_duokan">Duokan</string>
     <string name="searchable_lable_o2o">O2O</string>
     <string name="app_name">Pesquisar</string>
     <string name="search_widget">Pesquisar</string>
-    <string name="remove_from_history">Quer eliminar esse item do histórico de pesquisas?</string>
-    <string name="remove_from_history_failed">Não foi possível remover o ficheiro do histórico de pesquisas</string>
+    <string name="remove_from_history">Quer eliminar este item do histórico de pesquisas?</string>
+    <string name="remove_from_history_failed">Não foi possível remover o item do histórico de pesquisas</string>
     <string name="corpus_selection_heading">Pesquisar</string>
     <string name="corpus_label_global">Todos</string>
     <string name="corpus_label_web">Internet</string>
@@ -34,7 +34,7 @@
     <string name="google_settings_category_title">Pesquisa Google</string>
     <string name="device_settings_category_title">Eliminar atalhos</string>
     <string name="system_search_category_title">Telefone</string>
-    <string name="search_sources">Ficheiros pesquisáveis</string>
+    <string name="search_sources">Itens pesquisáveis</string>
     <string name="search_sources_summary">Escolher o que procurar no telefone</string>
     <string name="clear_shortcuts">Eliminar atalhos</string>
     <string name="clear_shortcuts_summary">Eliminar atalhos para sugestões de pesquisa recentemente escolhidos</string>
