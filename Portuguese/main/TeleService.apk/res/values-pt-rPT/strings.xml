@@ -584,7 +584,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Códigos curtos de números de serviço não são suportados neste momento. É necessário conectar à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. É necessário ligar o Escuta Gratuita para utilizar este serviço senão a sua operadora pode cobrá-lo por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Códigos curtos de números de serviço não são suportados neste momento. É necessário conectar à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Ligue o Escuta Gratuita para utilizar este serviço senão a sua operadora pode cobrá-lo por roaming.)"</string>
   <string name="livetalk_activate">Activar pacotes de recarga</string>
   <string name="livetalk_activate_number">Activar cartão SIM</string>
   <string name="livetalk_activate_number_1">Activar SIM 1</string>
@@ -604,8 +604,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_creat_account_fialed">Account error</string>
   <string name="livetalk_dial_direct">Marcação rápida</string>
   <string name="livetalk_experience_button">Tentar agora</string>
-  <string name="livetalk_introduction_text">"Baixo fluxo , baixo custo e alta qualidade 
-Chamadas internacionais super baratas através da Internet"</string>
+  <string name="livetalk_introduction_text">"Chamadas internacionais a baixo custo"</string>
   <string name="livetalk_last_step">Voltar</string>
   <string name="livetalk_login_experience_button">Iniciar sessão</string>
   <string name="livetalk_name">Pacote de Recarga</string>
@@ -631,7 +630,7 @@ Chamadas internacionais super baratas através da Internet"</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="load_rates_failed">"Não foi possível carregar"</string>
   <string name="loading">Aguarde um seg…</string>
-  <string name="loading_recent_failed">"Não foi possível carregar."</string>
+  <string name="loading_recent_failed">"Não foi possível carregar"</string>
   <string name="local_disable">Notícias Locais desactivo</string>
   <string name="local_enable">Notícias Locais activo</string>
   <string name="local_weather_disable">Tempo local desactivo</string>
@@ -776,10 +775,10 @@ Será utilizada a rede preferida."</string>
   <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi &amp; definições de rede).</string>
   <string name="no_wifi_available_title">Sem ligação á rede Wi-Fi</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"Top-up package hasn't been activated for the SIM card you selected. Try using your regular SIM to make this call instead. You will receive normal charges from your carrier."</string>  
+  <string name="not_activate_sim_card_content">"O pacote de reabastecimento não foi activado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada em vez. A sua operadora irá cobrá-lo por esta chamada."</string>  
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">O saldo da sua conta é demasiado baixo. Tente utilizar o SIM para fazer esta chamada em vez. Vai ser cobrado normalmente pela sua operadora.</string>
-  <string name="not_supported_number_content">"Pacote de reabastecimento não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada em vez. Vai ser cobrado normalmente pela sua operadora."</string>  
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada em vez. A sua operadora irá cobrá-lo por esta chamada.</string>
+  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada em vez. A sua operadora irá cobrá-lo por esta chamada."</string>  
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_action_end_call">Desligar</string>
   <string name="notification_dialing">A marcar</string>
