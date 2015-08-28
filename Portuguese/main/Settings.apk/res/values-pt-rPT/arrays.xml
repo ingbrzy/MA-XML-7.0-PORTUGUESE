@@ -221,8 +221,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_frequency_band_values">
         <item>0</item>
