@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="confirm_delete_album">
-        <item quantity="other">Eliminar %1$s albuns (%2$s total)?</item>
-        <item quantity="one">Eliminar %1$s album (%2$s total)?</item>
+        <item quantity="other">Eliminar %1$s álbuns (%2$s total)?</item>
+        <item quantity="one">Eliminar %1$s álbum (%2$s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
         <item quantity="other">Os itens selecionados incluem fotos ou vídeos na Nuvem Mi, eliminar %s itens deste dispositivo e da Nuvem Mi?</item>
@@ -27,18 +27,18 @@
         <item quantity="one">O item selecionado é um vídeo na Nuvem Mi, eliminar %s vídeo da Nuvem Mi?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
-        <item quantity="other">Eliminar %s itens deste album?</item>
+        <item quantity="other">Eliminar %s itens deste álbum?</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image_video">
         <item quantity="other">Eliminar %s itens?</item>
      </plurals>	 
      <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other"> Eliminar %s fotos deste album? "</item>
-        <item quantity="one"> Eliminar %s foto deste album? "</item>		
+        <item quantity="other"> Eliminar %s fotos deste álbum? "</item>
+        <item quantity="one"> Eliminar %s foto deste álbum? "</item>		
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Eliminar %s vídeos deste album? "</item>
-        <item quantity="one">Eliminar %s vídeo deste album? "</item>
+        <item quantity="other">Eliminar %s vídeos deste álbum? "</item>
+        <item quantity="one">Eliminar %s vídeo deste álbum? "</item>
      </plurals>
      <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Eliminar %s fotos?</item>
@@ -49,8 +49,8 @@
         <item quantity="one">Eliminar %s vídeo?</item>
      </plurals>
      <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">Eliminar %1$d vídeos de %2$d albuns?</item>
-        <item quantity="one">Eliminar %1$d vídeo de %2$d albuns?</item>
+        <item quantity="other">Eliminar %1$d vídeos de %2$d álbuns?</item>
+        <item quantity="one">Eliminar %1$d vídeo de %2$d álbuns?</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">%d fotos</item>
@@ -91,8 +91,8 @@
         <item quantity="one">%1$d ficheiro</item>
      </plurals>
 	 <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Eliminar %1$d imagens de %2$d albuns?</item>
-        <item quantity="one">Eliminar %1$d imagem de %2$d albuns?</item>
+        <item quantity="other">Eliminar %1$d imagens de %2$d álbuns?</item>
+        <item quantity="one">Eliminar %1$d imagem de %2$d álbuns?</item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
