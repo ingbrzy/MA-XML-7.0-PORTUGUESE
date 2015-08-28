@@ -504,7 +504,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_no_active_sim">O cartão SIM não foi activado</string>
   <string name="incall_error_no_phone_number_supplied">Impossível fazer chamada, número inválido.</string>
   <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
-  <string name="incall_error_power_off">Para efectuar uma chamada, desligue primeiro o modo de voo.</string>
+  <string name="incall_error_power_off">Para efectuar uma chamada, desligue primeiro o modo de vôo.</string>
   <string name="incall_error_supp_service_conference">Não é possível fazer chamadas de conferência.</string>
   <string name="incall_error_supp_service_hangup">Não é possível libertar chamada(s).</string>
   <string name="incall_error_supp_service_reject">Não é possível rejeitar chamada.</string>
@@ -512,7 +512,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_supp_service_switch">Não é possível trocar chamadas.</string>
   <string name="incall_error_supp_service_transfer">Não é possível transferir chamada.</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado.</string>
-  <string name="incall_error_turn_off_airplane_mode">Desligar o modo de voo</string>
+  <string name="incall_error_turn_off_airplane_mode">Desligar o modo de vôo</string>
   <string name="incall_status_dialed_mmi">Iniciar a sequência MMI…</string>
   <string name="incoming_video_show_pref_summary">Mostrar perfil de vídeo definido pelo remetente. Para utilizar esta função, active os cartões de contacto.</string>
   <string name="incoming_video_show_pref_title">"Mostrar perfil de vídeo do remetente"</string>
@@ -577,8 +577,8 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="lable_disable">Desactivo</string>
   <string name="lable_enable">Activo</string>
   <string name="lable_incoming_calls_except">Chamadas recebidas em roaming</string>
-  <string name="lafs_disable">Horários de voo local do Aeroporto estão desligados</string>
-  <string name="lafs_enable">Horários de voo local do Aeroporto estão ligados</string>
+  <string name="lafs_disable">Horários de vôo local do Aeroporto estão desligados</string>
+  <string name="lafs_enable">Horários de vôo local do Aeroporto estão ligados</string>
   <string name="left_minutes">" min"</string>
   <string name="list_language_dtitle">Idiomas</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
@@ -673,7 +673,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="mismatch_pin2">Os PIN2 que digitou não são iguais.</string>
   <string name="missed_call_notify_five_times">5 vezes</string>
   <string name="missed_call_notify_none">Não lembrar</string>
-  <string name="missed_call_notify_once">1 vezes</string>
+  <string name="missed_call_notify_once">1 vez</string>
   <string name="missed_call_notify_ten_times">10 vezes</string>
   <string name="missed_call_notify_thrice">3 vezes</string>
   <string name="missed_call_notify_times_summary">Seleccione o número de vezes que quer ser avisado das chamadas não atendidas (os avisos são separados em intervalos de 5 minutos)</string>
@@ -1120,7 +1120,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sim1_no_activated">Cartão SIM 1 não activado</string>
   <string name="sim2_activated">, Cartão SIM 2</string>
   <string name="sim2_no_activated">, Cartão SIM 2 não activado</string>
-  <string name="simContacts_airplaneMode">Para importar os contactos do cartão SIM, desligue primeiro o modo de voo.</string>
+  <string name="simContacts_airplaneMode">Para importar os contactos do cartão SIM, desligue primeiro o modo de vôo.</string>
   <string name="simContacts_empty">No contacts on your SIM card.</string>
   <string name="simContacts_emptyLoading">A ler…</string>
   <string name="simContacts_title">Gerir os contactos do cartão SIM</string>
