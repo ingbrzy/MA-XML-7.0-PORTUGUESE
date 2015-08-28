@@ -558,12 +558,8 @@ com os amigos"</string>
   <string name="confirm_face">Corresponder</string>
   <string name="confirm_left_photo_will_move_in">%s está em todas as fotos restantes?</string>
   <string name="confirm_left_photo_will_move_out">"%s não está em nenhuma das fotos restantes?"</string>
-<<<<<<< HEAD
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este Álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-=======
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Juntar este &amp;#225;lbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
->>>>>>> origin/master
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Juntar estes álbuns com %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Unir estes álbuns com %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Não desta pessoa</string>
   <string name="contact_photo">Definir como fotografia de contacto</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
