@@ -91,7 +91,7 @@
     <string name="play_quality_toast">Seleccione a qualidade da reprodução</string>
     <string name="app_to_share">Completar acção utilizando</string>
     <string name="share_text_other">Ouça %1$s em %2$s.</string>
-    <string name="share_text">do Rádio</string>
+    <string name="share_text">do Rádio Xiaomi [%1$s]</string>
     <string name="share_button">Partilhar</string>
     <string name="metered_play_toast">Utilizar ligação de dados móveis para stream</string>
     <string name="intelligent_model">Transferência de alta qualidade em Wi-Fi</string>
@@ -100,7 +100,7 @@
     <string name="tone_high_quality_summary">Utilizar ligação de dados móveis para transmitir áudio de alta qualidade</string>
     <string name="dialog_title_tone_quality">Qualidade das transferências</string>
     <string name="share">Partilhar</string>
-    <string name="qingting_logo"> | Qingting FM</string>
+    <string name="qingting_logo"> | %1$s </string>
     <string name="channel_off">Este programa já não está disponível</string>
     <string name="action_item_delete">Apagar</string>
     <string name="confirm_delete_history_text">Apagar ficheiros seleccionados?</string>
@@ -119,4 +119,5 @@
     <string name="multi_subscriptions_title">%1$d assinaturas actualizadas</string>
     <string name="multi_subscriptions_subtitle_title">Pressione para %1$s/%2$s.</string>
     <string name="one_subscription_title">%1$s actualizado</string>
+	<string name="default_cp_name">Qingting FM</string>
 </resources>

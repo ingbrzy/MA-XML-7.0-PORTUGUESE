@@ -664,7 +664,6 @@ Escolha uma das seguintes opções:"</string>
     <string name="edit_contact_card_title">Editar cartão de contacto</string>
     <string name="preview_contact_card_title">A importar contactos…</string>
     <string name="import_contact_card_button">Importar contacto</string>
-    <string name="success_message_import_from_account">Contacto importado</string>
     <string name="unknown_contact_name">Contacto desconhecido</string>
     <string name="contactDetailCalllog">Registo de chamada</string>
     <string name="add_blacklist">Adicionar à lista de bloqueio</string>
@@ -1036,7 +1035,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="contact_detail_profile_switch_on">"Ver fotos de perfil do contacto"</string>
    <string name="contact_detail_profile_switch_on_fail_toast">"Não foi possível ligar os cartões de contacto"</string>
    <string name="contact_detail_profile_switch_on_subtitle">Toque para ligar cartões de contacto</string>
-   <string name="contact_detail_profile_switch_on_success_toast">Cartões de contacto já estão ligados</string>
+   <string name="contact_detail_profile_switch_on_success_toast">Cartões de contacto ligados</string>
    <string name="contacts_in_call_show">"Vídeo do %s"</string>
    <string name="delete_call_log_message">Eliminar registos de chamadas?</string>
    <string name="details_list_group_header_more_action">Mais</string>
