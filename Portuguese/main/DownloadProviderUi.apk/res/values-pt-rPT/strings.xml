@@ -86,8 +86,12 @@
   <string name="download_title_sorted_by_size">Transferências - ordenadas por tamanho</string>
   <string name="download_wait_connect">Transferência a aguardar por ligação</string>
   <string name="download_when_network_connected">Transferir utilizando a rede móvel</string>
+  <string name="downloaded">Transferência concluída</string>
+  <string name="downloaded_empty">Vazio</string>
+  <string name="downloading">A transferir…</string>
+  <string name="downloading_empty">Vazio</string>
   <string name="downloads_operating">Em funcionamento…</string>
-  <string name="dredge_xunlei_account">Abertura do membro Xunlei</string>
+  <string name="dredge_xunlei_account">Criar uma conta Xunlei</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Partilhar</string>
   <string name="experience_xunlei_account_speed">Membros Xunlei para optimizar a experiência de serviço</string>
@@ -101,6 +105,8 @@
   <string name="high_speed_channel">Acelerador Xunlei (pago):</string>
   <string name="immediately_a_renewal">Renovar agora</string>
   <string name="input_valid_address">Introduza um caminho de ficheiro</string>
+  <string name="install">Instalar</string>
+  <string name="installing">A instalar…</string>
   <string name="invalid_address">O caminho de ficheiro que introduziu é inválido</string>
   <string name="keep_queued_download">Manter</string>
   <string name="media_filter">Multimédia</string>
@@ -119,12 +125,14 @@
   <string name="new_add">Novo</string>
   <string name="no_downloads">Não há transferências.</string>
   <string name="one_month">1 mês</string>
+  <string name="open">Abrir</string>
   <string name="open_download">Abrir</string>
   <string name="open_xunlei_speed_service">Iniciar serviço Xunlei de alta velocidade</string>
   <string name="original_price">Preço</string>
   <string name="other_filter">Outros</string>
   <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausa</string>
+  <string name="paused">Pausado</string>
   <string name="paused_by_app">Pausado</string>
   <string name="paused_insufficient_space">À espera de espaço suficiente</string>
   <string name="paused_queued_for_wifi">A aguardar por uma ligação Wi-Fi</string>
@@ -132,7 +140,7 @@
   <string name="paused_waiting_for_network">A aguardar por uma ligação à rede</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir</string>
   <string name="period_of_validity">Validade:</string>
-  <string name="pref_download_revert_default">Utilizar a localização das transferências predefinida</string>
+  <string name="pref_download_revert_default">Predefinido</string>
   <string name="pref_download_settings_title">Confirmar o uso dados</string>
   <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
   <string name="pref_summary_any_bytes_popup">Esperar sempre pela ligação a rede Wi-Fi para transferir</string>
@@ -208,8 +216,6 @@ Acelere as suas transferências em todos os seus dispositivos."</string>
   <string name="xunlei_speed_service">Xunlei optimiza o serviço</string>
   <string name="xunlei_switch">Optimizador de transferências Xunlei</string>
   <string name="download">Transferências</string>
-  <string name="downloaded_empty">Vazio</string>
-  <string name="downloading_empty">Vazio</string>
   <string name="expire_notification_msg">A filiação Xunlei vai expirar brevemente.</string>
   <string name="expire_today_notification_msg">A filiação Xunlei expira hoje.</string>
   <string name="no_vip_info">Obter filiação Xunlei para acelerar as suas transferências</string>

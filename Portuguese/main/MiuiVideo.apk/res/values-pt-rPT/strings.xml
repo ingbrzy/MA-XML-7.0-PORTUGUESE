@@ -388,7 +388,7 @@
     <string name="install_plugin">Instalar Plug-in</string>
     <string name="video_plugin">Plug-in de vídeo</string>
     <string name="video_plugin_prepare">Aguarde um segundo…</string>
-    <string name="video_plugin_downloading">A transferir…</string>
+    <string name="video_plugin_downloading">A transferir(%1$s), por favor espere um bocado</string>
     <string name="download_fail">Erro ao transferir</string>
     <string name="download_finished">Terminado</string>
     <string name="download_paused">Pausado</string>
@@ -445,4 +445,5 @@
 	<string name="need_upgrade_button">Verificar</string>
     <string name="need_upgrade_summary">Esta função está disponível na nova versão, por favor prima actualizar para instalar a nova versão.</string>
     <string name="need_upgrade_title">Disponível na nova versão</string>
+	<string name="vp_media_type_banned">Este tipo de multimédia não é suportado</string>
 </resources>
