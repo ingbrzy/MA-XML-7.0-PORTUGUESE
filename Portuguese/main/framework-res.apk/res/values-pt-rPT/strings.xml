@@ -67,7 +67,7 @@
   <string name="android_system_label">Sistema Android</string>
   <string name="android_upgrading_apk">A optimizar a aplicação %1$d de %2$d.</string>
   <string name="android_upgrading_complete">A concluir o arranque.</string>
-  <string name="android_upgrading_fstrim">Optimizing storage.</string>
+  <string name="android_upgrading_fstrim">A optimizar armazenamento interno.</string>
   <string name="android_upgrading_starting_apps">A iniciar aplicações</string>
   <string name="android_upgrading_title">O Android está a ser actualizado…</string>
   <string name="anr_activity_application">"%2$s não está a responder. 
@@ -307,9 +307,9 @@ utilizando %s"</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem êxito</string>
   <string name="dlg_ok">OK</string>
-  <string name="done_label">Done</string>
+  <string name="done_label">Concuido</string>
   <string name="double_tap_toast">Sugestão: pressione duas vezes para aumentar ou diminuir o zoom.</string>
-  <string name="downtime_condition_summary">Until your downtime ends at %1$s</string>
+  <string name="downtime_condition_summary">Até que o tempo de inatividade termine no %1$s</string>
   <string name="durationDayHour">%1$d day %2$d hr</string>
   <string name="durationDayHours">%1$d day %2$d hrs</string>
   <string name="durationDays">%1$d days</string>
@@ -1493,7 +1493,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="share_action_provider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with_application">Partilhar com %s</string>
-  <string name="show_ime">Show input method</string>
+  <string name="show_ime">Exibir método de entrada</string>
   <string name="shutdown_confirm">O dispositivo vai desligar.</string>
   <string name="shutdown_confirm_question">Pretende desligar?</string>
   <string name="shutdown_progress">A desligar…</string>
@@ -1553,8 +1553,8 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Pressione para definir.</string>
   <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
-  <string name="tethered_notification_no_device_message">No connected device</string>
-  <string name="tethered_notification_one_device_message">%1$s connected device</string>
+  <string name="tethered_notification_no_device_message">Nenhum dispositivo conectado</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
   <string name="tethered_notification_title">Ligação ponto a ponto ou hotspot activa</string>
   <string name="textSelectionCABTitle">Selecção do texto</string>
   <string name="text_copied">Texto copiado para a área de transferência.</string>
@@ -1697,7 +1697,7 @@ Pretende fechar?"</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_time_picker_dialog_title">Definir a hora</string>
   <string name="webviewchromium_week_picker_dialog_title">Definir semana</string>
-  <string name="week">semana</string>
+  <string name="week">Semana</string>
   <string name="weeks">semanas</string>
   <string name="whichApplication">Concluir acção utilizando</string>
   <string name="whichHomeApplication">Seleccionar uma aplicação para página inicial</string>
@@ -1727,7 +1727,7 @@ Pretende fechar?"</string>
   <string name="wireless_display_route_description">Mostrar Wi-Fi</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>
-  <string name="year">ano</string>
+  <string name="year">Ano</string>
   <string name="years">anos</string>
   <string name="yes">OK</string>
 </resources>
