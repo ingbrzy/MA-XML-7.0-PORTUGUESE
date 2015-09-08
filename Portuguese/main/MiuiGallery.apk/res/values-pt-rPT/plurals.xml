@@ -125,7 +125,31 @@
          <item quantity="one">"%1$d mês "</item>		 
      </plurals>
      <plurals name="baby_age_subtitle_day">
-        <item quantity="other">%1$d dias</item>
-        <item quantity="one">%1$d dia</item>
+         <item quantity="other">%1$d dias</item>
+         <item quantity="one">%1$d dia</item>
+     </plurals>
+	 <plurals name="number_of_images_to_upload">
+         <item quantity="other">%1$d imagens para enviar</item>
+         <item quantity="one">1 imagem para enviar</item>
+     </plurals>
+     <plurals name="number_of_videos_to_upload">
+         <item quantity="other">%1$d vídeos para enviar</item>
+         <item quantity="one">1 vídeo para enviar</item>
+     </plurals>
+     <plurals name="number_of_images_and_videos_to_upload">
+         <item quantity="other">%1$d vídeos e imagens para enviar</item>
+         <item quantity="one">1 vídeo e imagem para enviar</item>
+     </plurals>
+     <plurals name="number_of_uploading_images">
+         <item quantity="other">A enviar %1$d imagens…</item>
+         <item quantity="one">A enviar 1 imagem…</item>
+     </plurals>
+     <plurals name="number_of_uploading_videos">
+         <item quantity="other">A enviar %1$d vídeos…</item>
+         <item quantity="one">A enviar 1 vídeo…</item>
+     </plurals>
+     <plurals name="number_of_uploading_images_and_videos">
+         <item quantity="other">A enviar %1$d vídeos e imagens…</item>
+         <item quantity="one">A enviar 1 vídeo e imagem…</item>
      </plurals>	 
 </resources>

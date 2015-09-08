@@ -66,15 +66,16 @@
   <string name="apply">Aplicar</string>
   <string name="appwidget_empty_text">Sem fotografias</string>
   <string name="appwidget_title">Galeria</string>
+  <string name="associate_face_album">Escolha um álbum de rosto</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Criar automaticamente álbuns favoritos</string>
   <string name="auto_create_recent_album_confirm">Galeria irá eliminar os dados do álbum favorito. Álbuns marcados manualmente não serão afetados.</string>
   <string name="auto_create_recent_album_over_ten_times">O álbum será marcado como favorito ao visualizar mais de 10 vezes</string>
-  <string name="auto_upload_album_comfirm_to_share">É um álbum será sincronizado automaticamente.</string>
-  <string name="auto_upload_face">Adicionar fotos automaticamente</string>
-  <string name="auto_upload_face_summary">Corresponder e adicionar fotos automaticamente ao álbum de bebé</string>
-  <string name="auto_upload_face_summary_with_people_name_when_off">Adicionar fotos de \"%1$s\" a este álbum automaticamente</string>
-  <string name="auto_upload_face_summary_with_people_name_when_on">Adicionar fotos de \"%1$s\" a este álbum automaticamente</string>
+  <string name="auto_update_face">Adicionar fotos automaticamente</string>
+  <string name="auto_update_face_summary">Adicionar e corresponder fotos a um álbum de bebé automaticamente</string>
+  <string name="auto_update_off">Desligado</string>
+  <string name="auto_update_on">Ligado</string>
+  <string name="auto_upload_album_comfirm_to_share">Este álbum será sincronizado automaticamente.</string>  
   <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Enviar automaticamente as fotos das aplica&amp;#231;&amp;#245;es para a Nuvem Mi. Pode desactivar este recurso em &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Defini&amp;#231;&amp;#245;es da galeria&amp;gt;Sincronizar com a Nuvem Mi&amp;gt;Enviar automaticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
   <string name="auto_upload_guide_title">Sincronizar fotos com a Nuvem Mi</string>
   <string name="auto_upload_title">Sincronizar automaticamente</string>
@@ -843,7 +844,9 @@ com os amigos"</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Toque num rosto para iniciar</string>
-  <string name="must_pick_file">Seleccionar imagem</string>  
+  <string name="must_pick_file">Seleccionar imagem</string>
+  <string name="name_wrong">"Isto não é %s"</string>
+  <string name="need_to_turn_on_sync">Clique para ligar a Nuvem Mi</string>  
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
   <string name="network_connected_rescan">Não é possível conectar à rede</string>
@@ -1079,6 +1082,7 @@ o dispositivo"</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
   <string name="sync_history_power_on">Sincronizar o histórico de imagens apenas ao carregar</string>
   <string name="sync_in_progress_message">A sincronizar…</string>
+  <string name="sync_ok">sincronização ok</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="sync_only_in_wifi_alert">Desligar esta opção pode aumentar o uso de dados móveis.</string>
   <string name="sync_only_in_wifi_summary">Não utilizar a ligação de dados móveis para sincronizar fotos</string>
