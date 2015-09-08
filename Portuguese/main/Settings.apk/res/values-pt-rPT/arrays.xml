@@ -81,8 +81,10 @@
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
+		<item>XXXL</item>
     </string-array>
     <string-array name="entryvalues_font_size">
+		<item>small</item>
         <item>normal</item>
         <item>medium</item>
         <item>large</item>
