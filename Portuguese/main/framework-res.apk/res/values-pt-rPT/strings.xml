@@ -67,7 +67,7 @@
   <string name="android_system_label">Sistema Android</string>
   <string name="android_upgrading_apk">A optimizar a aplicação %1$d de %2$d.</string>
   <string name="android_upgrading_complete">A concluir o arranque.</string>
-  <string name="android_upgrading_fstrim">A optimizar armazenamento interno.</string>
+  <string name="android_upgrading_fstrim">A optimizar armazenamento.</string>
   <string name="android_upgrading_starting_apps">A iniciar aplicações</string>
   <string name="android_upgrading_title">O Android está a ser actualizado…</string>
   <string name="anr_activity_application">"%2$s não está a responder. 
@@ -307,7 +307,7 @@ utilizando %s"</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem êxito</string>
   <string name="dlg_ok">OK</string>
-  <string name="done_label">Concuido</string>
+  <string name="done_label">Concluído</string>
   <string name="double_tap_toast">Sugestão: pressione duas vezes para aumentar ou diminuir o zoom.</string>
   <string name="downtime_condition_summary">Até que o tempo de inatividade termine no %1$s</string>
   <string name="durationDayHour">%1$d day %2$d hr</string>
@@ -1493,7 +1493,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="share_action_provider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with_application">Partilhar com %s</string>
-  <string name="show_ime">Exibir método de entrada</string>
+  <string name="show_ime">Mostrar método de entrada</string>
   <string name="shutdown_confirm">O dispositivo vai desligar.</string>
   <string name="shutdown_confirm_question">Pretende desligar?</string>
   <string name="shutdown_progress">A desligar…</string>
@@ -1553,7 +1553,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Pressione para definir.</string>
   <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
-  <string name="tethered_notification_no_device_message">Nenhum dispositivo conectado</string>
+  <string name="tethered_notification_no_device_message">Sem dispositivos conectados</string>
   <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
   <string name="tethered_notification_title">Ligação ponto a ponto ou hotspot activa</string>
   <string name="textSelectionCABTitle">Selecção do texto</string>
