@@ -1084,8 +1084,8 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="rnw2_unlock_failed">O pedido de desbloqueio do cartão RUIM da rede 2 falhou.</string>
   <string name="rnw2_unlock_success">Cartão SIM da rede 2 desbloqueado.</string>
   <string name="roaming">Dados em roaming</string>
-  <string name="roaming_disable">Não ligar ao serviço de Dados quando em roaming</string>
-  <string name="roaming_enable">Ligar ao serviço de Dados quando em roaming</string>
+  <string name="roaming_disable">Conectar ao serviço de dados em roaming</string>
+  <string name="roaming_enable">Conectar ao serviço de dados em roaming</string>
   <string name="roaming_reenable_message">Perdeu a ligação de dados porque deixou a sua rede doméstica em roaming de dados desactivada.</string>
   <string name="roaming_warning">Permitir dados em roaming? Podem ocorrer custos de roaming significativos!</string>
   <string name="rsp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão RUIM falhou.</string>
