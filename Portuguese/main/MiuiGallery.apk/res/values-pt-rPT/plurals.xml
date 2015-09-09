@@ -129,27 +129,27 @@
          <item quantity="one">%1$d dia</item>
      </plurals>
 	 <plurals name="number_of_images_to_upload">
-         <item quantity="other">%1$d imagens para enviar</item>
-         <item quantity="one">1 imagem para enviar</item>
+         <item quantity="other">%1$d fotos à espera para sincronizar</item>
+         <item quantity="one">1 foto para enviar</item>
      </plurals>
      <plurals name="number_of_videos_to_upload">
-         <item quantity="other">%1$d vídeos para enviar</item>
+         <item quantity="other">%1$d vídeos à espera para sincronizar</item>
          <item quantity="one">1 vídeo para enviar</item>
      </plurals>
      <plurals name="number_of_images_and_videos_to_upload">
-         <item quantity="other">%1$d vídeos e imagens para enviar</item>
-         <item quantity="one">1 vídeo e imagem para enviar</item>
+         <item quantity="other">%1$d itens à espera para sincronizar</item>
+         <item quantity="one">1 item à espera para sincronizar</item>
      </plurals>
      <plurals name="number_of_uploading_images">
-         <item quantity="other">A enviar %1$d imagens…</item>
-         <item quantity="one">A enviar 1 imagem…</item>
+         <item quantity="other">A sincronizar %1$d fotos…</item>
+         <item quantity="one">A sincronizar 1 foto…</item>
      </plurals>
      <plurals name="number_of_uploading_videos">
-         <item quantity="other">A enviar %1$d vídeos…</item>
-         <item quantity="one">A enviar 1 vídeo…</item>
+         <item quantity="other">A sincronizar %1$d vídeos…</item>
+         <item quantity="one">A sincronizar 1 vídeo…</item>
      </plurals>
      <plurals name="number_of_uploading_images_and_videos">
-         <item quantity="other">A enviar %1$d vídeos e imagens…</item>
-         <item quantity="one">A enviar 1 vídeo e imagem…</item>
+         <item quantity="other">A sincronizar %1$d itens…</item>
+         <item quantity="one">A sincronizar 1 item…</item>
      </plurals>	 
 </resources>

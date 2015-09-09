@@ -66,7 +66,7 @@
   <string name="apply">Aplicar</string>
   <string name="appwidget_empty_text">Sem fotografias</string>
   <string name="appwidget_title">Galeria</string>
-  <string name="associate_face_album">Escolha um álbum de rosto</string>
+  <string name="associate_face_album">Escolha um álbum</string>
   <string name="auto">Auto</string>
   <string name="auto_create_recent_album">Criar automaticamente álbuns favoritos</string>
   <string name="auto_create_recent_album_confirm">Galeria irá eliminar os dados do álbum favorito. Álbuns marcados manualmente não serão afetados.</string>
@@ -846,7 +846,7 @@ com os amigos"</string>
   <string name="multiface_crop_help">Toque num rosto para iniciar</string>
   <string name="must_pick_file">Seleccionar imagem</string>
   <string name="name_wrong">"Isto não é %s"</string>
-  <string name="need_to_turn_on_sync">Clique para ligar a Nuvem Mi</string>  
+  <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi agora.</string>  
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
   <string name="network_connected_rescan">Não é possível conectar à rede</string>
@@ -1082,7 +1082,7 @@ o dispositivo"</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
   <string name="sync_history_power_on">Sincronizar o histórico de imagens apenas ao carregar</string>
   <string name="sync_in_progress_message">A sincronizar…</string>
-  <string name="sync_ok">sincronização ok</string>
+  <string name="sync_ok">Sincronizar</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="sync_only_in_wifi_alert">Desligar esta opção pode aumentar o uso de dados móveis.</string>
   <string name="sync_only_in_wifi_summary">Não utilizar a ligação de dados móveis para sincronizar fotos</string>

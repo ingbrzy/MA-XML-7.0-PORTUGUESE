@@ -237,8 +237,8 @@
   <string name="menu_item_app_permissions_control">Gestor de Permissões</string>
   <string name="menu_item_control_app_permissions">Solicitar permissão antes que as aplicações possam ler os contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder a câmara e outros recursos do dispositivo</string>
   <string name="menu_item_force_stop">Forçar paragem</string>
-  <string name="menu_item_notification_antispam_text_avail">Spam</string>
-  <string name="menu_item_notification_antispam_text_normal">Spam</string>
+  <string name="menu_item_notification_antispam_text_avail">Lista de bloqueio</string>
+  <string name="menu_item_notification_antispam_text_normal">Lista de bloqueio</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Erro</string>
   <string name="menu_item_notification_power_text">Energia</string>
@@ -261,7 +261,7 @@
   <string name="menu_text_networkassistants_danger">%s utilizados</string>
   <string name="menu_text_networkassistants_remain">%s disponíveis</string>
   <string name="menu_text_power_manager">Utilização de bateria</string>
-  <string name="menu_text_power_percent">%s bateria</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="month_report_activity_label">Relatório mensal</string>
   <string name="month_report_click_reconnect_network">Tente novamente</string>
   <string name="month_report_disconnect_tip">Não é possível conectar à rede</string>

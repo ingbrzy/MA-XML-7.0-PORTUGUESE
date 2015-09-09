@@ -446,4 +446,6 @@
     <string name="need_upgrade_summary">Esta função está disponível na nova versão, por favor prima actualizar para instalar a nova versão.</string>
     <string name="need_upgrade_title">Disponível na nova versão</string>
 	<string name="vp_media_type_banned">Este tipo de multimédia não é suportado</string>
+	<string name="vp_play_youku_failed_get_video_info">"Não foi possível obter informação do vídeo""</string>
+    <string name="vp_play_youku_time_out">Tempo da conexão expirou</string>
 </resources>

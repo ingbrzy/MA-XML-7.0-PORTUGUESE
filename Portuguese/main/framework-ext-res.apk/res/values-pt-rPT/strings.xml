@@ -48,6 +48,8 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="permdesc_manageLocationPolicy">Permitir que a aplicação gira as políticas de localização e definir regras específicas da aplicação.</string>
   <string name="permlab_manageLocationPolicy">gerir política de localização</string>
   <string name="reboot_confirm_title">O seu telefone vai reiniciar.</string>
+  <string name="reboot_info_auto_boot">O seu telefone vai iniciar às %s devido ao agendamento de início automático</string>
+  <string name="reboot_info_shutdown_alarm">O seu telefone vai iniciar e alarmar às %s</string>
   <string name="reboot_progress">A reiniciar…</string>
   <string name="replace">Substituir</string>
   <string name="screen_button_disabled_message">Botões de navegação desactivados. Para voltar a activar, pressione o botão Inicio e o botão Ligar/Desl. em simultâneo.</string>
