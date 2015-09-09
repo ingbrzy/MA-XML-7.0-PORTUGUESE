@@ -7,8 +7,26 @@
   <string name="adding_upload_tasks">A adicionar tarefas#8230;</string>
   <string name="already_signin_description">Já foi verificado hoje</string>
   <string name="app_name">Explorador</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
+  <string name="app_name_camera">Câmara</string>
+  <string name="app_name_downloadedrom">Pacotes</string>
+  <string name="app_name_downloads">Transferências</string>
+  <string name="app_name_market">Loja de Aplicações</string>
+  <string name="app_name_midrop">Mi Drop</string>
+  <string name="app_name_miui">MIUI</string>
+  <string name="app_name_miuimusic">Música</string>
+  <string name="app_name_miuiringtone">Toques</string>
+  <string name="app_name_miuiwallpaper">Papeis de Parede</string>
+  <string name="app_name_screenshot">Capt. Ecrã</string>
   <string name="archive_send_to">Enviar para…</string>
   <string name="background">Ocultar</string>
+  <string name="backup_cancel">Não obrigado</string>
+  <string name="backup_confirm">Fazer cópia agora</string>
+  <string name="backup_success_cancel">OK</string>
+  <string name="backup_success_confirm">Ver</string>
+  <string name="backup_success_message">Cópia feita para %1$s</string>
+  <string name="backup_success_title">Cópia feita</string>
+  <string name="backup_title">Cópias de Vídeos WeChat</string>
   <string name="big5_summary">Windows chinês tradicional codificação padrão</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Sincronizar conta existente</string>
@@ -51,6 +69,7 @@
   <string name="confirm">Confirmar</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Alertar ligação à rede</string>
+  <string name="connection_error">"Não foi possível conectar"</string>
   <string name="copy_failed">Não é possível copiar</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiro para Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Coloque no ecrã inicial</string>
@@ -132,6 +151,9 @@
   <string name="get_cloud_space">Adicionar 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="group_title">%2$s de %1$s</string>
+  <string name="group_title_extra_backup">Cópias de Segurança</string>
+  <string name="group_title_extra_expire">Mesmo a expirar</string>
+  <string name="group_title_extra_new">Novo</string>
   <string name="instruction">Introduza o seguinte endereço numa aplicação FTP:</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
   <string name="just_now">Agora mesmo</string>
@@ -229,12 +251,14 @@
   <string name="no_wifi_hint">Sem Ligação</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
+  <string name="notification_content_hint">Toque para ver</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Notificar e ornanizar automaticamente quando os ficheiros são adicionados ou alterados em %1$s.</string>
   <string name="notification_dialog_title">Notificações</string>
   <string name="notification_setting">Notificações</string>
   <string name="notification_summary">"%1$s não suporta este recurso ainda"</string>
   <string name="notification_title">Notificar quando novos ficheiros são adicionados a %1$s</string>
+  <string name="notification_wechat_title">Notificar me quando um vídeo do WeChat estiver a expirar</string>
   <string name="online_not_support">"Não é possível ver o ficheiro online neste momento."</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado por favor:
 1 Faça novamente a transferência do ficheiro para o actualizar.
@@ -373,6 +397,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="tab_source">Aplicações</string>
   <string name="tab_storage">Armazenamento</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_more_source">Mais aplicações</string>
   <string name="title_recent">Recentes</string>
   <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção.</string>

@@ -176,6 +176,7 @@
   <string name="attachment_decoding">Transferência do anexo foi concluída, a descodificar, aguarde por favor.</string>
   <string name="attachment_download_all">Transferir todos</string>
   <string name="attachment_image">Imagem</string>
+  <string name="attachment_list_search_hint">Pesquisar anexos</string>
   <string name="attachment_mgr_name">Anexo</string>
   <string name="attachment_not_exists">O anexo não está disponível!</string>  
   <string name="attachment_open_SecurityException_hint">Verifique as permissões, danos, etc.</string>
@@ -320,7 +321,7 @@
   <string name="download_complete_not_cancel">Transferência concluída</string>
   <string name="download_confirm_message">Transferir %1$s anexos?</string>
   <string name="download_confirm_title">Transferir anexos</string>  
-  <string name="download_message_failed_for_too_large">A mensagem é demasiado grande para transferir.</string>  
+  <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir.</string>  
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_open">Abrir área de navegação</string>
@@ -404,7 +405,7 @@
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro.</string>
-  <string name="get_database_exception">Base de dados anormal, por favor limpe os dados da aplicação</string>
+  <string name="get_database_exception">"Limpar os dados desta aplicação em Definições > Aplicações de Sistema e tente novamente."</string>
   <string name="gmail_acceleration">Usar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_confirm_to_use_proxy">Usar um servidor proxy para aceder à conta do Gmail?</string>  
   <string name="gmail_web_login_go">Sim</string>
@@ -567,7 +568,7 @@
   <string name="outbox_alert_description_insufficient_storage_error">O espaço de armazenamento no servidor não é suficiente</string>
   <string name="outbox_alert_description_provision_error">Erro ao sincronizar a caixa de saída.</string>
   <string name="outbox_alert_description_reject_by_server">Rejeitado por %s</string>
-  <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do servidor.</string>
+  <string name="outbox_alert_description_sent_failed">"O tamanho do anexo excede o limite do servidor."</string>
   <string name="outbox_alert_description_time_out">A ligação à rede falhou</string>
   <string name="outbox_alert_duplicate_click">Ainda está a sincronizar</string>
   <string name="outbox_alert_edit_resend">Editar e reenviar</string>

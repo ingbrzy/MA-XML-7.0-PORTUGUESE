@@ -128,5 +128,28 @@
         <item quantity="few">Recebeu %1$d ficheiros da Aplicação %2$s</item>
         <item quantity="many">Recebeu %1$d ficheiros da Aplicação %2$s</item>
     </plurals>
-
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Recebeu %1$d ficheiros do WeChat</item>
+        <item quantity="zero">Recebeu %1$d ficheiros do WeChat</item>
+        <item quantity="one">Recebeu %1$d ficheiro do WeChat</item>
+        <item quantity="two">Recebeu %1$d ficheiros do WeChat</item>
+        <item quantity="few">Recebeu %1$d ficheiros do WeChat</item>
+        <item quantity="many">Recebeu %1$d ficheiros do WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+        <item quantity="zero">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+        <item quantity="one">%1$d ficheiro do WeChat Vídeo vai expirar</item>
+        <item quantity="two">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+        <item quantity="few">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+        <item quantity="many">%1$d ficheiros do WeChat Vídeo vão expirar</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="zero">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="one">%1$d ficheiro temporário do WeChat vai ser limpo. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="two">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="few">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="many">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+    </plurals>
 </resources>
