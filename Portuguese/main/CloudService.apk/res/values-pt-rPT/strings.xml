@@ -258,8 +258,8 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
   <string name="pref_summary_sync_video_on_wifi_only">"Apenas sincronizar os perfis de vídeo dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Apenas usar Wi-Fi para sincronizar fotos</string>
-  <string name="pref_title_sync_video_on_wifi_only">Apenas usar Wi-Fi para sincronizar vídeos</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
+  <string name="pref_title_sync_video_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar vídeos</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="remind_later">Mais tarde</string>
   <string name="restoreSync">Sincronizar agora</string>
@@ -284,7 +284,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sub_alert_notif_dspt_no">Sincronizado</string>
   <string name="sub_alert_notif_title">Não sincronizar</string>
   <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotografias, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas uma ligação Wi-Fi para sincronizar MMS</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s adicionado</string>
   <string name="sync_dspt">Activar sincronização</string>
   <string name="sync_dspt_entrance_provision"> Sincronize fotografias, contactos, histórico de chamadas, e mensagens por todos os seus dispositivos Mi. Aceda às coisas que sincroniza de qualquer navegador em %s.</string>
