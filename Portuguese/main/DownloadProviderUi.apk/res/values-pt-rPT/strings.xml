@@ -153,6 +153,8 @@
   <string name="privacy_tip_content">Utilizar o optimizador Xunlei para aumentar a velocidade das transferência? O endereço das transferências serão enviados para o servidor Xunlei. Os detalhes da sua conta Mi também serão enviados e será verificado se tem o serviço activo.</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utilizar o optimizador Xunlei?</string>
+  <string name="quit_btn">Sair</string>
+  <string name="rebind_btn">Adicionar novamente</string>
   <string name="recommend_downloading">A transferir…</string>
   <string name="recommend_failed">Sem sucesso</string>
   <string name="recommend_install">Instalar</string>
@@ -192,6 +194,8 @@
   <string name="third_web_filesize">Tamanho</string>
   <string name="third_web_savepath">Caminho</string>
   <string name="third_web_title">Guardar</string>
+  <string name="title_tips">Atenção</string>
+  <string name="title_unbind_xunlei">Remover a sua conta Xunlei</string>
   <string name="toast_xunlei_engine_open">Optimizador de transferências Xunlei activado</string>
   <string name="turn_off_xunlei_message">Poderá detectar velocidades de transferência mais lentas.</string>
   <string name="turn_off_xunlei_tips">Xunlei - Optimização de transferências desligado</string>
@@ -205,6 +209,8 @@
   <string name="vip_expire_today_show_info">A filiação Xunlei expirou.</string>
   <string name="vip_show_info">"5 milhões de membros.
 Acelere as suas transferências em todos os seus dispositivos."</string>
+  <string name="xiaomi_account_not_exist_message">"Esta conta Mi não existe"</string>
+  <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
   <string name="xunlei_brand">Produzido por Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_close_tips_button">Activar</string>

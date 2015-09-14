@@ -73,9 +73,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Trás</string>
-  <string name="pref_audio_focus_title">Audio Focagem</string>
-  <string name="pref_audio_indicator_entry_off">Audio off</string>
-  <string name="pref_audio_indicator_entry_on">Audio on</string>
+  <string name="pref_audio_focus_title">Audio Focagem</string> 
   <string name="pref_burst_shoot_title">Fotografar Instantâneo</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Definições da câmara</string>
@@ -142,6 +140,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Auto</string>
   <string name="pref_camera_facedetection_title">Detecção pelo rosto</string>
+  <string name="pref_camera_fisheye_title">Olho-de-Peixe</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_off">Desligado</string>
   <string name="pref_camera_flashmode_entry_on">Ligado</string>
@@ -255,6 +254,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_snap_enable_summary">Quando o ecrã está desligado, pressione e segure o botão de Volume Baixo para entrar no modo Disparo Rápido. Pressione novamente para tirar a foto.</string>
   <string name="pref_camera_snap_enable_title">Modo Disparo Rápido</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
+  <string name="pref_camera_tilt_shift_title">Inclinação-Deslocamento</string>
   <string name="pref_camera_touchafaec_entry_off">Desl.</string>
   <string name="pref_camera_touchafaec_entry_on">Lig.</string>
   <string name="pref_camera_ubifocus_title">Refocar</string>
@@ -332,12 +332,14 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="setting_top_text">Opções</string>
   <string name="simple_mode_button_asd_flash">Desligar o flash</string>
   <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
+  <string name="simple_mode_button_text_audio_capture">Desligar o som de disparo</string>
   <string name="simple_mode_button_text_audio_capture">Fechar captura de audio</string>
   <string name="simple_mode_button_text_color_effect">Fechar filtros</string>
   <string name="simple_mode_button_text_countdown">Fechar contagem</string>
   <string name="simple_mode_button_text_delay_capture">Fechar contagem</string>
   <string name="simple_mode_button_text_face_beauty">Desactivar o melhoramento dos tons de pele</string>
   <string name="simple_mode_button_text_fast_video">Desactivar movimento lento da câmara</string>
+  <string name="simple_mode_button_text_fisheye">Desligar Olho-de-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
   <string name="simple_mode_button_text_hand_night">Fechar o modo nocturno</string>
   <string name="simple_mode_button_text_hdr">Fechar modo HDR</string>
@@ -345,6 +347,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="simple_mode_button_text_panorama">Fechar panorama</string>
   <string name="simple_mode_button_text_scene">Fechar modo cena</string>
   <string name="simple_mode_button_text_slow_video">Desactivar movimento rápido da câmara</string>
+  <string name="simple_mode_button_text_tilt_shift">Desligar Inclinação-Deslocamento</string>
   <string name="simple_mode_button_text_ubifocus">Desactivar o modo refocar</string>
   <string name="snapshot_lower_than_video">Tamanho de vídeo instantâneo mais pequeno do que o tamanho do vídeo. Analisar tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
   <string name="snapshotsize_low_powermode">A Resolução da imagem não é suportada pelas definições actuais de controlo de energia. Será utilizado o tamanho de vídeo instantâneo.</string>

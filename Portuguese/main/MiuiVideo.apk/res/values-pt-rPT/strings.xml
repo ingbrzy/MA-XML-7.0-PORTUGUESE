@@ -445,7 +445,14 @@
 	<string name="need_upgrade_button">Verificar</string>
     <string name="need_upgrade_summary">Esta função está disponível na nova versão, por favor prima actualizar para instalar a nova versão.</string>
     <string name="need_upgrade_title">Disponível na nova versão</string>
-	<string name="vp_media_type_banned">Este tipo de multimédia não é suportado</string>
+	<string name="vp_media_type_unsported">Este tipo de multimédia não é suportado</string>
 	<string name="vp_play_youku_failed_get_video_info">"Não foi possível obter informação do vídeo""</string>
     <string name="vp_play_youku_time_out">Tempo da conexão expirou</string>
+	<string name="tv_cp_info_format">produzido por %1$s</string>
+	<string name="vp_mobile_network_using_warning_line_1">Utilizar os seus dados móveis para ver vídeos vai aumentar a utilização de dados.</string>
+    <string name="vp_mobile_network_using_warning_line_2">Se fôr álem do seu limite de plano de dados, a sua operadora pode cobrar taxas adicionais.</string>
+    <string name="vp_mplayer_error_io">Erro na operação IO</string>
+    <string name="vp_mplayer_error_malformed">Conteúdo multimédia malformado</string>
+    <string name="vp_mplayer_error_server_died">Servidor de multimédia parou</string>
+    <string name="vp_mplayer_error_timed_out">A operação expirou</string>
 </resources>

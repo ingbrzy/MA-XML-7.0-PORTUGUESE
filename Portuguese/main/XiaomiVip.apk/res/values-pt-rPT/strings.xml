@@ -34,7 +34,7 @@
     <string name="task_begin">Em progresso…</string>
     <string name="in_progress">A pedir…</string>
     <string name="privilege">Privilégios</string>
-    <string name="promote">Complete desafios para ganhar Pontos</string>
+    <string name="promote">Complete desafios para ganhar pontos</string>
     <string name="level_info_format" formatted="false">"Nível %d %d/%d
 %s"</string>
     <string name="no_network">"Não é possível ligar à rede"</string>
@@ -61,7 +61,7 @@
 	<string name="days">%dd</string>
 	<string name="hello">Olá</string>
     <string name="hours">%dh</string>
-	<string name="millis">%d milisegundos</string>
+	<string name="millis">%dms</string>
     <string name="minutes">%dm</string>
 	<string name="seconds">%ds</string>
 	<string name="browse">Ver</string>

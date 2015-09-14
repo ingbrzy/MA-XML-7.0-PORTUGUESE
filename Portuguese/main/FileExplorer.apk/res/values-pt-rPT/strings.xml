@@ -67,6 +67,7 @@
   <string name="compress_message">Comprimir para…</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">Confirmar</string>
+  <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Alertar ligação à rede</string>
   <string name="connection_error">"Não foi possível conectar"</string>
@@ -81,8 +82,12 @@
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Erro na extracção: não é possível extrair ficheiros aqui.</string>
+  <string name="decompress_encrypted_rar_not_supported">O ficheiro rar encriptado não é suportado.</string>
   <string name="decompress_fail">Erro na extracção: ficheiro com o mesmo nome ou corrompido.</string>
+  <string name="decompress_input_password">Por favor introduza palavra-passe…</string>
+  <string name="decompress_password_error">Palavra-passe inválida. Por favor tente novamente…</string>
   <string name="decompress_success">Extracção concluída</string>
+  <string name="decompress_title">Extrair</string>
   <string name="decompress_to">Extrair para…</string>
   <string name="decompress_to_here">Extrair para aqui</string>
   <string name="delete_dialog_button">Eliminar</string>
@@ -383,6 +388,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="stay_awake_title">Ficar acordado</string>
   <string name="stop_server">Parar o servidor</string>
   <string name="storage_info">%1$s disponível</string>
+  <string name="storage_info_detail">Disponível:%1$s Total:%1$s</string>
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
@@ -400,6 +406,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_more_source">Mais aplicações</string>
   <string name="title_recent">Recentes</string>
+  <string name="title_select_volume">Seleccionar Volume</string>
   <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção.</string>
   <string name="tools">Ferramentas</string>
   <string name="trans_task">Transferência pela rede</string>

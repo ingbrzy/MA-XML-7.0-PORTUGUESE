@@ -846,7 +846,9 @@ com os amigos"</string>
   <string name="multiface_crop_help">Toque num rosto para iniciar</string>
   <string name="must_pick_file">Seleccionar imagem</string>
   <string name="name_wrong">"Isto não é %s"</string>
-  <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi agora.</string>  
+  <string name="need_to_turn_on_network">Conectar à internet</string>
+  <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi</string>  
+  <string name="need_to_turn_on_wlan">Conectar ao Wi-Fi</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
   <string name="network_connected_rescan">Não é possível conectar à rede</string>
@@ -870,6 +872,7 @@ o dispositivo"</string>
   <string name="not_now">Agora não</string>
   <string name="not_remind_any_more">"Não mostrar novamente"</string>
   <string name="not_show_hidden_albums">Não mostrar os álbuns ocultos</string>
+  <string name="number_of_uploading_finish">Todos os ficheiros enviados para a Nuvem Mi</string>
   <string name="old">Vintage</string>
   <string name="only_show_camera_in_first_page">Mostrar apenas as fotografias do rolo da câmara</string>
   <string name="only_show_camera_in_first_page_summary">Quando está desligado, as fotografias de todos os álbuns da nuvem serão exibidos na primeira página.</string>
@@ -1080,9 +1083,9 @@ o dispositivo"</string>
   <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
   <string name="sync_album_set_error">"Não é possível sincronizar estes álbuns. Verifique sua conexão e tente novamente."</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
+  <string name="sync_cloud_space_full">Espaço na Nuvem Mi cheio</string>
   <string name="sync_history_power_on">Sincronizar o histórico de imagens apenas ao carregar</string>
   <string name="sync_in_progress_message">A sincronizar…</string>
-  <string name="sync_ok">Sincronizar</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="sync_only_in_wifi_alert">Desligar esta opção pode aumentar o uso de dados móveis.</string>
   <string name="sync_only_in_wifi_summary">Não utilizar a ligação de dados móveis para sincronizar fotos</string>

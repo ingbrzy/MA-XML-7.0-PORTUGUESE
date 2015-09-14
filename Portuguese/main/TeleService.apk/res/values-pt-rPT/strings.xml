@@ -804,7 +804,7 @@ Será utilizada a rede preferida."</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Palavra-passe actual 4 dígitos</string>
-  <string name="old_pin2_label">Código PIN2 antigo</string>
+  <string name="old_pin2_label">Código PIN2</string>
   <string name="old_pin_label">PIN antigo</string>
   <string name="onHold">Em espera</string>
   <string name="onscreenAddCallText">Adicionar chamada</string>
@@ -822,7 +822,7 @@ Será utilizada a rede preferida."</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
   <string name="order_by_name">Ordem alfabética</string>
   <string name="order_by_recent">Utilizados frequentemente</string>
-  <string name="order_id">"Id Encomenda: "</string>
+  <string name="order_id">Id de Encomenda:%1$s</string>
   <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Estado encomenda: Falhado</string>
   <string name="order_status_successful">Estado encomenda: Completo</string>
@@ -1265,7 +1265,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="uplmn_list_setting_title">Redes preferidas</string>
   <string name="uplmn_numeric_is_empty">Insira ID da rede</string>
   <string name="use_history">Actividade</string>
-  <string name="use_history_duration_hour">%1$h</string>
+  <string name="use_history_duration_hour">%1$shora</string>
   <string name="use_history_duration_min">%1$smin</string>
   <string name="use_history_endtime">Finalizado: %1$s</string>
   <string name="use_history_starttime">Iniciado: %1$s</string>
