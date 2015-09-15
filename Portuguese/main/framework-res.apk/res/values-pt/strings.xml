@@ -12,8 +12,8 @@
   <string name="CndMmi">Mostrar o meu número</string>
   <string name="CnipMmi">O meu número está visível</string>
   <string name="CnirMmi">O meu número está oculto</string>
-  <string name="ColpMmi">Connected Line ID</string>
-  <string name="ColrMmi">Connected Line ID Restriction</string>
+  <string name="ColpMmi">Conectado a uma rede de ID</string>
+  <string name="ColrMmi">Conectado a uma rede com restrição de ID</string>
   <string name="CwMmi">Chamada em espera</string>
   <string name="DndMmi">Não perturbar</string>
   <string name="Midnight">Meia-noite</string>
@@ -67,7 +67,7 @@
   <string name="android_system_label">Sistema Android</string>
   <string name="android_upgrading_apk">A optimizar a aplicação %1$d de %2$d.</string>
   <string name="android_upgrading_complete">A concluir o arranque.</string>
-  <string name="android_upgrading_fstrim">Optimizing storage.</string>
+  <string name="android_upgrading_fstrim">A optimizar armazenamento.</string>
   <string name="android_upgrading_starting_apps">A iniciar aplicações</string>
   <string name="android_upgrading_title">O Android está a ser actualizado…</string>
   <string name="anr_activity_application">"%2$s não está a responder. 
@@ -307,9 +307,9 @@ utilizando %s"</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem êxito</string>
   <string name="dlg_ok">OK</string>
-  <string name="done_label">Done</string>
+  <string name="done_label">Concluído</string>
   <string name="double_tap_toast">Sugestão: pressione duas vezes para aumentar ou diminuir o zoom.</string>
-  <string name="downtime_condition_summary">Until your downtime ends at %1$s</string>
+  <string name="downtime_condition_summary">Até que o tempo de inatividade termine no %1$s</string>
   <string name="durationDayHour">%1$d day %2$d hr</string>
   <string name="durationDayHours">%1$d day %2$d hrs</string>
   <string name="durationDays">%1$d days</string>
@@ -854,6 +854,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_bindDeviceAdmin">Permite ao titular enviar intenções para um administrador do dispositivo. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindGadget">Permite que a aplicação informe o sistema acerca dos widgets que podem ser utilizados com cada aplicação. Com esta autorização, algumas aplicações podem conceder acesso a dados pessoais a outras aplicações. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_bindInputMethod">Permite ao titular vincular-se à interface de nível superior de um método de entrada. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindJobService">Permite ao sistema Android correr a aplicação em segundo plano quando requisitado.</string>
   <string name="permdesc_bindNfcService">Permite ao titular vincular-se a aplicações que estão emulando NFC cartões. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindNotificationListenerService">Permite ao titular vincular-se à interface de nível superior de notificação de um serviço de escuta. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindPackageVerifier">Permite ao titular solicitar verificadores de pacotes. Nunca deverá ser necessário para aplicações normais.</string>
@@ -1134,6 +1135,7 @@ para a conta %s."</string>
   <string name="permlab_bindDeviceAdmin">Interagir com um administrador do dispositivo</string>
   <string name="permlab_bindGadget">Escolher miniaplicações</string>
   <string name="permlab_bindInputMethod">Vincular a um método de entrada</string>
+  <string name="permlab_bindJobService">"Correr o trabalho agendado em segundo plano da aplicação"</string>
   <string name="permlab_bindNfcService">Vincular ao serviço NFC</string>
   <string name="permlab_bindNotificationListenerService">Adicionar a notificação a um serviço de escuta</string>
   <string name="permlab_bindPackageVerifier">Vincular a um verificador de pacotes</string>
@@ -1493,7 +1495,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="share_action_provider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with">Partilhar com</string>
   <string name="shareactionprovider_share_with_application">Partilhar com %s</string>
-  <string name="show_ime">Show input method</string>
+  <string name="show_ime">Mostrar método de entrada</string>
   <string name="shutdown_confirm">O dispositivo vai desligar.</string>
   <string name="shutdown_confirm_question">Pretende desligar?</string>
   <string name="shutdown_progress">A desligar…</string>
@@ -1553,8 +1555,8 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Pressione para definir.</string>
   <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
-  <string name="tethered_notification_no_device_message">No connected device</string>
-  <string name="tethered_notification_one_device_message">%1$s connected device</string>
+  <string name="tethered_notification_no_device_message">Sem dispositivos conectados</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
   <string name="tethered_notification_title">Ligação ponto a ponto ou hotspot activa</string>
   <string name="textSelectionCABTitle">Selecção do texto</string>
   <string name="text_copied">Texto copiado para a área de transferência.</string>
@@ -1697,7 +1699,7 @@ Pretende fechar?"</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="webviewchromium_time_picker_dialog_title">Definir a hora</string>
   <string name="webviewchromium_week_picker_dialog_title">Definir semana</string>
-  <string name="week">semana</string>
+  <string name="week">Semana</string>
   <string name="weeks">semanas</string>
   <string name="whichApplication">Concluir acção utilizando</string>
   <string name="whichHomeApplication">Seleccionar uma aplicação para página inicial</string>
@@ -1727,7 +1729,7 @@ Pretende fechar?"</string>
   <string name="wireless_display_route_description">Mostrar Wi-Fi</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>
-  <string name="year">ano</string>
+  <string name="year">Ano</string>
   <string name="years">anos</string>
   <string name="yes">OK</string>
 </resources>

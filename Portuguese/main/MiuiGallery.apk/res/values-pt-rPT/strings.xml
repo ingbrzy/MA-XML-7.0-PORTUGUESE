@@ -92,7 +92,7 @@
   <string name="baby_album_sharers_page_title">Partilhar com famílias</string>
   <string name="baby_birthday">Aniversário</string>
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
-  <string name="baby_lock_wallpaper_at_least_one_selected">Escolher um álbum</string>
+  <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
   <string name="baby_lock_wallpaper_title">"Utilizar as fotos do bebé como papel de parede do ecrã de bloqueio"</string>
   <string name="baby_name_cannot_empty">Introduzir nome</string>
@@ -124,6 +124,7 @@
   <string name="camera_setas_wallpaper">Papel de parede</string>
   <string name="camera_view_none_message">As fotos e vídeos tiradas com a aplicação da câmara serão apresentadas aqui.</string>
   <string name="cancel">Cancelar</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Cancelar papel de parede do bebé e reinicializar o papel de parede predefinido do ecrã de bloqueio?</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
   <string name="cannot_remove_creator">Não é possível eliminar o criador</string>
@@ -719,6 +720,7 @@ com os amigos"</string>
   <string name="group_by_time">Por tempo</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="height">Altura</string>
+  <string name="hidden_album_display_name">Álbum Escondido</string>
   <string name="highlight">Destacar</string>
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -1021,6 +1023,10 @@ o dispositivo"</string>
   <string name="send_public_url">Enviar endereço do álbum</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
+  <string name="set_baby_icon_picker_default_title">Definir ícone do bebé</string>
+  <string name="set_bg_file_exist_message">Conflitos entre nomes de fotos</string>
+  <string name="set_bg_picker_default_title">Definir miniaturas do topo</string>
+  <string name="set_bg_unknow_reasons">Erro desconhecido</string>
   <string name="set_hidden_album">Ocultar o álbum</string>
   <string name="set_label_all_albums">Todos os álbuns</string>
   <string name="set_label_local_albums">Álbuns locais</string>

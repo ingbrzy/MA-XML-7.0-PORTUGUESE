@@ -854,6 +854,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_bindDeviceAdmin">Permite ao titular enviar intenções para um administrador do dispositivo. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindGadget">Permite que a aplicação informe o sistema acerca dos widgets que podem ser utilizados com cada aplicação. Com esta autorização, algumas aplicações podem conceder acesso a dados pessoais a outras aplicações. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_bindInputMethod">Permite ao titular vincular-se à interface de nível superior de um método de entrada. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindJobService">Permite ao sistema Android correr a aplicação em segundo plano quando requisitado.</string>
   <string name="permdesc_bindNfcService">Permite ao titular vincular-se a aplicações que estão emulando NFC cartões. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindNotificationListenerService">Permite ao titular vincular-se à interface de nível superior de notificação de um serviço de escuta. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindPackageVerifier">Permite ao titular solicitar verificadores de pacotes. Nunca deverá ser necessário para aplicações normais.</string>
@@ -1134,6 +1135,7 @@ para a conta %s."</string>
   <string name="permlab_bindDeviceAdmin">Interagir com um administrador do dispositivo</string>
   <string name="permlab_bindGadget">Escolher miniaplicações</string>
   <string name="permlab_bindInputMethod">Vincular a um método de entrada</string>
+  <string name="permlab_bindJobService">"Correr o trabalho agendado em segundo plano da aplicação"</string>
   <string name="permlab_bindNfcService">Vincular ao serviço NFC</string>
   <string name="permlab_bindNotificationListenerService">Adicionar a notificação a um serviço de escuta</string>
   <string name="permlab_bindPackageVerifier">Vincular a um verificador de pacotes</string>
