@@ -63,7 +63,7 @@
   <string name="clean_trash_box">Esvaziar lixo</string>
   <string name="cleaning">A limpar…</string>
   <string name="close">Fechar</string>
-  <string name="compress_fail">A compressão falhou: Já existe um ficheiro com o mesmo nome.</string>
+  <string name="compress_fail">Não foi possível comprimir: Já existe um ficheiro com o mesmo nome.</string>
   <string name="compress_message">Comprimir para…</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">Confirmar</string>
@@ -81,14 +81,14 @@
   <string name="data_capacity">Dados %1$s</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
-  <string name="decompress_destination_error">Erro na extracção: não é possível extrair ficheiros aqui.</string>
-  <string name="decompress_encrypted_rar_not_supported">O ficheiro rar encriptado não é suportado.</string>
-  <string name="decompress_fail">Erro na extracção: ficheiro com o mesmo nome ou corrompido.</string>
-  <string name="decompress_input_password">Por favor introduza palavra-passe…</string>
-  <string name="decompress_password_error">Palavra-passe inválida. Por favor tente novamente…</string>
+  <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
+  <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados.</string>
+  <string name="decompress_fail">"Não foi possível extrair ficheiros.Já existe dm ficheiro com o mesmo nome ou o ficheiro está corrompido."</string>
+  <string name="decompress_input_password">Introduzir palavra-passe…</string>
+  <string name="decompress_password_error">Palavra-passe introduzida é inválida.</string>
   <string name="decompress_success">Extracção concluída</string>
   <string name="decompress_title">Extrair</string>
-  <string name="decompress_to">Extrair para…</string>
+  <string name="decompress_to">Extrair ficheiros para…</string>
   <string name="decompress_to_here">Extrair para aqui</string>
   <string name="delete_dialog_button">Eliminar</string>
   <string name="delete_failed">Não é possível eliminar</string>
@@ -145,7 +145,7 @@
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
   <string name="ftp_anonymous_login">Iniciar sessão anónima</string>
   <string name="ftp_invalid_username_or_password">O nome do utilizador ou palavra-passe é inválida.</string>
-  <string name="ftp_open_port_error">Erro ao abrir a porta: verifique a ligação de rede ou reinicie o número da porta.</string>
+  <string name="ftp_open_port_error">"Não foi possível abrir a porta: verifique a ligação de rede ou reinicie o número da porta."</string>
   <string name="ftp_password_hint">Palavra-passe</string>
   <string name="ftp_port_number">Número da porta</string>
   <string name="ftp_transfer_secure">Segurança</string>
@@ -373,7 +373,7 @@
   <string name="share_box">Partilhar</string>
   <string name="share_box_receive">Recebidos</string>
   <string name="share_box_send">Enviados</string>
-  <string name="share_link_failed">Erro ao criar o link.</string>
+  <string name="share_link_failed">"Não foi possível gerar o link."</string>
   <string name="show_message">Tem que transferir este ficheiro antes de o poder abrir.</string>
   <string name="sign_description">A iniciar sessão…</string>
   <string name="signin_error">Não é possível ligar ao servidor. Verifique a sua ligação de rede.</string>

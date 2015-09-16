@@ -2,8 +2,12 @@
 <!-- Parsed by jbart2a -->
 <resources>
      <plurals name="NTrackstoDownload">
-        <item quantity="other">%d músicas que vão ser transferidas</item>
-        <item quantity="one">Vai ser transferida 1 música</item>
+        <item quantity="other">%d músicas vão ser transferidas</item>
+        <item quantity="one">1 música vai ser transferida</item>
+     </plurals>
+	 <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Eliminar %d playlists?</item>
+        <item quantity="one">Eliminar %d playlist?</item>
      </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">faltam %d dias</item>
@@ -33,13 +37,33 @@
         <item quantity="one">%d música encontrada</item>
      </plurals>
      <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d músicas idênticas</item>
-        <item quantity="one">%d música idêntica</item>
+        <item quantity="other">%d músicas parecidas</item>
+        <item quantity="one">%d música parecida</item>
+     </plurals>
+	 <plurals name="Nartists_count">
+        <item quantity="other">%d artistas</item>
+        <item quantity="one">%d artista</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d bandas</item>
+        <item quantity="one">%d banda</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Eliminar %d músicas?</item>
+        <item quantity="one">Eliminar %d música?</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Remover %d músicas?</item>
+        <item quantity="one">Remover %d música?</item>
      </plurals>
      <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>
      </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Vai parar de tocar em %d minutos</item>
+        <item quantity="one">Vai parar de tocar em %d minuto</item>
+    </plurals>	 
      <plurals name="folder_songs_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">1 música</item>
@@ -47,5 +71,13 @@
      <plurals name="send_songs_toast">
         <item quantity="other">%d músicas vão ser enviadas</item>
         <item quantity="one">1 música vai ser enviada</item>
+     </plurals>
+	 <plurals name="multichoice_title">
+        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="one">%d item seleccionado</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Músicas adicionadas aos favoritos.</item>
+        <item quantity="one">Música adicionada aos favoritos.</item>
      </plurals>
 </resources>

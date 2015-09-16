@@ -252,7 +252,7 @@ Para adicionar um contacto à sua lista de favoritos:
     <string name="fail_reason_vcard_parse_error">Não foi possível analisar o vCard por um motivo inesperado.</string>
     <string name="fail_reason_not_supported">Formato não suportado.</string>
     <string name="vcard_import_failed">"Não foi possível importar vCard %s."</string>
-    <string name="import_failure_no_vcard_file">Nenhum ficheiro de vCard encontrado no armazenamento</string>
+    <string name="import_failure_no_vcard_file">Sem ficheiros vCard encontrados no armazenamento</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado ficheiro vCard.</string>
     <string name="fail_reason_failed_to_read_files">Um ou mais arquivos não podem ser importados (%s).</string>
     <string name="fail_reason_unknown">Erro desconhecido</string>
@@ -956,8 +956,8 @@ Escolha uma das seguintes opções:"</string>
     <string name="sim_error_email_full">Não há espaço suficiente no cartão SIM</string>
     <string name="sim_error_anr_full">Não há espaço suficiente no cartão SIM</string>
     <string name="sim_error_password_error">A palavra passe digitada está incorrecta</string>
-    <string name="yellowPageNavigationLabel">Páginas amarelas</string>
-    <string name="yellowPageNavigationIconLabel">Páginas amarelas</string>
+    <string name="yellowPageNavigationLabel">Directório</string>
+    <string name="yellowPageNavigationIconLabel">Directório</string>
     <string name="login_ok">Iniciar sessão</string>
     <string name="yellowpage_navigation_no_content">Não foi localizado</string>
     <string name="yellowpage_navigation_search_history">Histórico</string>
@@ -1078,7 +1078,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="miprofile_request_agenda_yesterday">%1$s quer trocar cartões de contacto</string>
    <string name="miprofile_request_agree">Aceitar</string>
    <string name="miprofile_request_agree_exchange_profile">Cartões de contacto trocados</string>
-   <string name="miprofile_request_agreed">%1$s aceitou trocar cartão de contacto</string>
+   <string name="miprofile_request_agreed">%1$s aceitou trocar cartão de contacto comigo</string>
    <string name="miprofile_request_alertdialog_message">O seu cartão vai ser enviado automaticamente assim que esta pessoa aceitar.</string>
    <string name="miprofile_request_alertdialog_title">Trocar cartões de contacto</string>
    <string name="miprofile_request_clear_alertdialog_message">Limpar histórico de troca de cartões de contacto?</string>
@@ -1108,4 +1108,6 @@ Escolha uma das seguintes opções:"</string>
   que irá tocar nos outros utilizadores MIUI quando telefonar"</string>
    <string name="in_call_show_guide_title">Vídeo de perfil</string>
    <string name="success_message_import_from_account">Importação concluída</string>
+   <string name="emergency_number_label">Número de Emergência</string>
+   <string name="in_call_show_preview_reshoot">Repetir</string>
 </resources>

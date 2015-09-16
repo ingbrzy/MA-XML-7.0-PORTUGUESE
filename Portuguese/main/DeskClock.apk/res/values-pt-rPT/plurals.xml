@@ -25,4 +25,12 @@
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
      </plurals>
+	 <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Suspender por %d minutos.</item>
+        <item quantity="one">Suspender por %d minuto.</item>
+     </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Alarmes irão desligar após %d minutos</item>
+        <item quantity="one">Alarmes irão desligar após %d minuto</item>
+     </plurals>
 </resources>
