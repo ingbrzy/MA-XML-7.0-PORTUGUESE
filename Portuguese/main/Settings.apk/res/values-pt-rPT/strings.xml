@@ -411,7 +411,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
     <string name="crypt_keeper_switch_input_method">Alternar o método de entrada</string>
     <string name="lock_settings_picker_title">Desbloqueio de segurança do ecrã</string>
     <string name="backup_lock_settings_picker_title">Escolher um bloqueio da Cópia de segurança</string>
-    <string name="unlock_set_unlock_launch_picker_title">Bloquear ecrã</string>
+    <string name="unlock_set_unlock_launch_picker_title">Bloqueio do ecrã</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Trocar ecrã de bloqueio</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desactivar o padrão, PIN ou palavra-passe de segurança</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Escolher um modo de bloqueio de ecrã</string>
@@ -782,9 +782,9 @@ A definição do telefone pode exigir a actividade de rede significativa."</stri
     <string name="media_volume_summary">Definir volume para música e vídeos</string>
     <string name="alarm_volume_title">Alarme</string>
     <string name="dock_settings_summary">As definições de áudio para o anexo ligado</string>
-    <string name="dtmf_tone_enable_title">Marcar tons de toque</string>
-    <string name="sound_effects_enable_title">Selecção audível</string>
-    <string name="lock_sounds_enable_title">Sons de bloqueio de ecrã</string>
+    <string name="dtmf_tone_enable_title">Tom de marcação</string>
+    <string name="sound_effects_enable_title">Sons de toque</string>
+    <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
     <string name="haptic_feedback_enable_title">Vibrar com toque</string>
     <string name="audio_record_proc_title">Redução de ruído</string>
     <string name="volume_media_description">Música, vídeo, jogos e outros meios de comunicação</string>
@@ -2354,7 +2354,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="led_settings">Definições da luz LED</string>
     <string name="led_colors_summary">Cor do LED nas notificações</string>
     <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
-    <string name="led_pulse_summary">Frequência de intermitência do LED quando recebe uma nova notificação</string>
+    <string name="led_pulse_summary">Activar LED quando recebe uma nova notificação</string>
     <string name="show_rounded_corners">Mostrar cantos arredondados</string>
     <string name="pref_operational_key">Botões de Navegação</string>
     <string name="pref_button_light">Luz dos botões</string>
@@ -2545,7 +2545,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="wfd_wps_pbc">Deseja introduzir PIN</string>
     <string name="virtual_sim_category_title">SIM Virtual</string>
     <string name="virtual_sim_title">Rede de dados roaming</string>
-    <string name="virtual_sim_description">Confia no serviço de roaming internacional</string>
+    <string name="virtual_sim_description">Serviço de roaming de confiança</string>
     <string name="power_mode">Definições de energia</string>
     <string name="high_performance_title">Parece que está a executar um teste de benchmark. Definir o gestor de energia para \"Desempenho\" para melhores resultados.</string>
     <string name="high_performance_notif_title">Cuidado com a utilização da bateria</string>
