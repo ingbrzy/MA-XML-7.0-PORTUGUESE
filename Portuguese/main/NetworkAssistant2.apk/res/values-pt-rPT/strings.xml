@@ -126,7 +126,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="gateway_exception_title">Teste o router</string>
   <string name="hints_input_roaming_daily_limit">Digite o limite de utilização de dados</string>
   <string name="hints_install_apps_new">Nunca utilizado</string>
-  <string name="hints_install_apps_today">Usado hoje</string>
+  <string name="hints_install_apps_today">Utilizado hoje</string>
   <string name="input_aviable_traffic">Definir a utilização de dados</string>
   <string name="input_traffic_pkg">Introduza a utilização dados</string>
   <string name="input_used_hint">Insira a utilização de dados</string>
@@ -186,9 +186,9 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="main_toolbar_statistic">Estatísticas da utilização de dados</string>
   <string name="main_traffic_overlimit_text">mais de</string>
   <string name="main_traffic_remian_text">restantes</string>
-  <string name="main_traffic_used">%s usados</string>
-  <string name="main_traffic_used_only">%s usados</string>
-  <string name="main_traffic_used_text">usados</string>
+  <string name="main_traffic_used">%s utilizados</string>
+  <string name="main_traffic_used_only">%s utilizados</string>
+  <string name="main_traffic_used_text">utilizados</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir a utilização de dados</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados móveis</string>

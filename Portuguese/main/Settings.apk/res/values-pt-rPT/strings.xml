@@ -311,10 +311,10 @@
     <string name="sdcard_settings_total_bytes_label">Total de bytes:</string>
     <string name="sdcard_settings_not_present_status">O armaz. USB não está montado.</string>
     <string name="sdcard_settings_available_bytes_label">Bytes disponíveis:</string>
-    <string name="sdcard_settings_mass_storage_status">O armaz. USB está a ser usado como um dispositivo de armaz. em massa</string>
+    <string name="sdcard_settings_mass_storage_status">O armaz. USB está a ser utilizado como um dispositivo de armaz. em massa</string>
     <string name="sdcard_settings_unmounted_status">Agora é seguro remover o armaz. USB</string>
     <string name="sdcard_settings_bad_removal_status">O armaz. USB foi removido enquanto ainda estava em uso!</string>
-    <string name="sdcard_settings_used_bytes_label">Bytes usados:</string>
+    <string name="sdcard_settings_used_bytes_label">Bytes utilizados:</string>
     <string name="sdcard_settings_scanning_status">Pesquisar média no armaz. USB…</string>
     <string name="sdcard_settings_read_only_status">Armaz. USB é apenas de leitura.</string>
     <string name="skip_label">Ignorar</string>
@@ -1255,7 +1255,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação, poderá perder as actualizações e alertas importantes.</string>
     <string name="app_ops_settings">Aplicações ops</string>
     <string name="app_ops_running">Em funcionamento</string>
-    <string name="app_ops_never_used">(Nunca usado)</string>
+    <string name="app_ops_never_used">(Nunca utilizado)</string>
     <string name="storageuse_settings_title">Armazenamento utilizado</string>
     <string name="storageuse_settings_summary">Mostrar espaço ocupado pelas aplicações</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2914,7 +2914,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="priority_storage_app_settings">Os dados do utilizador serão guardados em %1$s</string>
     <string name="enable_mobile_data_when_opening_hotspot">Activar também a ligação de dados móveis?</string>
     <string name="free_wifi_agreement_remind_never">Não mostrar novamente</string>
-    <string name="free_wifi_user_agreement">Quando utiliza WiWide para ligar a uma rede, o seu número de telefone será usado para verificar a sua identidade.</string>
+    <string name="free_wifi_user_agreement">Quando utiliza WiWide para ligar a uma rede, o seu número de telefone será utilizado para verificar a sua identidade.</string>
     <string name="free_wifi_user_agreement_allow">Permitir</string>
     <string name="free_wifi_user_agreement_title">Privacidade, cuidado</string>
     <string name="translation_contributors_title">Contribuidores</string>
