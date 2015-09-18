@@ -629,7 +629,7 @@ Escolha uma das seguintes opções:"</string>
     <string name="callrecordview_menu_delete_one">Eliminar do registo de chamadas</string>
     <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
     <string name="callrecordview_menu_edit_call_note">Editar nota de chamada</string>
-    <string name="delete_call_log_title">Seleccionar registo de chamadas</string>
+    <string name="delete_call_log_title">Escolher registo de chamadas</string>
     <string name="menu_dialpad_text">Teclado</string>
     <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
     <string name="dialer_empty_text_loading">Aguarde um seg…</string>
@@ -659,8 +659,8 @@ Escolha uma das seguintes opções:"</string>
     <string name="menu_dial_ip_number">Marcar chamada IP</string>
     <string name="delete_contact_calllog_title">Eliminar registos de chamadas?</string>
     <string name="delete_unknown_contact_calllog_title">Eliminar registos de chamadas?</string>
-    <string name="callrecordview_menu_batch_delete">Eliminar registos</string>
-    <string name="delete_call_log_selected_title">Eliminar registo de chamadas seleccionado?</string>
+    <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
+    <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
     <string name="edit_contact_card_title">Editar cartão de contacto</string>
     <string name="preview_contact_card_title">A importar contactos…</string>
     <string name="import_contact_card_button">Importar contacto</string>
@@ -1037,7 +1037,7 @@ Escolha uma das seguintes opções:"</string>
    <string name="contact_detail_profile_switch_on_subtitle">Toque para ligar cartões de contacto</string>
    <string name="contact_detail_profile_switch_on_success_toast">Cartões de contacto ligados</string>
    <string name="contacts_in_call_show">"Vídeo do %s"</string>
-   <string name="delete_call_log_message">Eliminar registos de chamadas?</string>
+   <string name="delete_call_log_message">Eliminar registo de chamadas?</string>
    <string name="details_list_group_header_more_action">Mais</string>
    <string name="details_list_group_header_other">Outros</string>
    <string name="in_call_show">Vídeo</string>
