@@ -877,7 +877,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_cache_filesystem">Permite à aplicação ler e escrever no sistema de ficheiros do histórico de dados.</string>
   <string name="permdesc_callPhone">Permite que a aplicação ligue para números de telefone sem a intervenção do utilizador. Esta acção pode resultar em cobranças ou chamadas inesperadas. Tenha em atenção que isto não permite que a aplicação ligue para números de emergência. As aplicações maliciosas podem fazer com que incorra em custos, fazendo chamadas sem a sua confirmação.</string>
   <string name="permdesc_callPrivileged">Permite que a aplicação marque qualquer número de telefone, incluindo números de emergência, sem a intervenção do utilizador. As aplicações maliciosas podem efectuar chamadas desnecessárias e ilegais para serviços de emergência.</string>
-  <string name="permdesc_camera">Permite que a aplicação tire fotografias e grave vídeos com a câmara. Esta autorização permite que a aplicação utilize a câmara sem a sua confirmação em qualquer altura.</string>
+  <string name="permdesc_camera">Permite que a aplicação tire fotos e grave vídeos com a câmara. Esta autorização permite que a aplicação utilize a câmara sem a sua confirmação em qualquer altura.</string>
   <string name="permdesc_cameraDisableTransmitLed">Permite que uma aplicação do sistema pré-instalada possa desactivar o indicador LED de utilização da câmara.</string>
   <string name="permdesc_captureAudioHotword">Permite à aplicação capturar áudio para detecção Palavra Quente. A captura pode acontecer no fundo, mas não impede outra captura de áudio (por exemplo, câmara de vídeo).</string>
   <string name="permdesc_captureAudioOutput">Permite à aplicação capturar e redireccionar a saída de áudio.</string>
@@ -1158,7 +1158,7 @@ para a conta %s."</string>
   <string name="permlab_cache_filesystem">aceder ao sistema de ficheiros do histórico de dados</string>
   <string name="permlab_callPhone">Marcar números de telefone directamente</string>
   <string name="permlab_callPrivileged">Marcar directamente quaisquer números de telefone</string>
-  <string name="permlab_camera">Tirar fotografias e vídeos</string>
+  <string name="permlab_camera">Tirar fotos e vídeos</string>
   <string name="permlab_cameraDisableTransmitLed">Desactivar a transmissão do indicador LED quando a câmara está a ser utilizado</string>
   <string name="permlab_captureAudioHotword">Detecção Palavra Quente</string>
   <string name="permlab_captureAudioOutput">Capturar a saída de áudio</string>

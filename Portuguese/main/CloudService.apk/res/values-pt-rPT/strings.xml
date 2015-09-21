@@ -126,17 +126,17 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_detail_syncing">A sincronizar</string>
   <string name="micloud_detail_upload_syncing">A enviar %s</string>
   <string name="micloud_detail_wlan">%d aguardam sincronizar</string>
-  <string name="micloud_detail_wlan_contact">%d fotografias de contactos aguardam sincronizar</string>
+  <string name="micloud_detail_wlan_contact">%d fotos de contactos aguardam sincronizar</string>
   <string name="micloud_detail_wlan_mms">%d MMS aguardam sincronizar</string>
   <string name="micloud_dspt">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilize a Nuvem Mi para sincronizar a localização e os dados do seu dispositivo, e partilhar coisas com os deus amigos.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
-  <string name="micloud_full_influence_dspt">"Todas as suas fotografias, vídeos, notas e aplicações continuarão na cópia de segurança da Nuvem. 
+  <string name="micloud_full_influence_dspt">"Todas as suas fotos, vídeos, notas e aplicações continuarão na cópia de segurança da Nuvem. 
 
 Desta forma, se perder ou danificar o seu dispositivo, os seus dados estarão seguros. 
 
-Quando Nuvem está cheia, os dados mais antigos não se perdem. No entanto, não será feita a cópia de segurança de qualquer conteúdo novo que adicione (por exemplo, fotografias, vídeos, notas e aplicações).
+Quando Nuvem está cheia, os dados mais antigos não se perdem. No entanto, não será feita a cópia de segurança de qualquer conteúdo novo que adicione (por exemplo, fotos, vídeos, notas e aplicações).
 
 Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
   <string name="micloud_full_influence_title">Quando a Nuvem Mi está cheia…</string>
@@ -254,7 +254,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="password">Introduza a palavra-passe</string>
   <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do número de telefone. "</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do número de telefone. "</string>
-  <string name="photo">Fotografias</string>
+  <string name="photo">Fotos</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
   <string name="pref_summary_sync_video_on_wifi_only">"Apenas sincronizar os perfis de vídeo dos contactos quando estiver ligado a uma rede Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
@@ -283,11 +283,11 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sub_alert_notif_dspt_add">%s ficheiros aguardam sincronizar</string>
   <string name="sub_alert_notif_dspt_no">Sincronizado</string>
   <string name="sub_alert_notif_title">Não sincronizar</string>
-  <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotografias, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
+  <string name="sub_sync_item_sms_summary">Sincronizar apenas as mensagens com fotos, áudio ou outros meios de comunicação quando está ligado a uma rede Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s adicionado</string>
   <string name="sync_dspt">Activar sincronização</string>
-  <string name="sync_dspt_entrance_provision"> Sincronize fotografias, contactos, histórico de chamadas, e mensagens por todos os seus dispositivos Mi. Aceda às coisas que sincroniza de qualquer navegador em %s.</string>
+  <string name="sync_dspt_entrance_provision"> Sincronize fotos, contactos, histórico de chamadas, e mensagens por todos os seus dispositivos Mi. Aceda às coisas que sincroniza de qualquer navegador em %s.</string>
   <string name="sync_dspt_entrance_provision_2">Saber mais</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Não utilizar"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplicações integradas precisa My Cloud para fazer cópia de segurança de suas fotos, contactos, notas e muito mais. Nuvem Mi é livre e pronto para usar.."</string>
@@ -295,7 +295,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Nuvem Mi?"</string>
   <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Saltar este passo&lt;/u&gt;</string>
   <string name="sync_dspt_provision">"A Nuvem Mi
- sincroniza fotografias, contactos, notas, e mais em todos os seus dispositivos Mi ou através do navegador em "</string>
+ sincroniza fotos, contactos, notas, e mais em todos os seus dispositivos Mi ou através do navegador em "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Pode a qualquer momento activar ou desactivar esta função nas Definições.
@@ -314,7 +314,7 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sync_sub_2_intl_sms">A operadora pode cobrar por duas mensagens SMS internacionais utilizadas para activar este serviço.</string>
   <string name="sync_sub_2_sms">A operadora pode cobrar por duas mensagens SMS utilizadas para activar este serviço.</string>
   <string name="sync_sub_dspt">A operadora pode cobrar por uma mensagem enviada para activar este serviço.</string>
-  <string name="sync_sub_dspt_provision">Sincronizar fotografias, contactos, músicas, aplicações, e muito mais em todos os dispositivos</string>
+  <string name="sync_sub_dspt_provision">Sincronizar fotos, contactos, músicas, aplicações, e muito mais em todos os dispositivos</string>
   <string name="sync_sub_int_dspt">A operadora pode cobrar por uma mensagem internacional enviada para activar este serviço.</string>
   <string name="title_reg">Criar uma conta Mi</string>
   <string name="total_space_upgraded_to">Espaço total :%s</string>

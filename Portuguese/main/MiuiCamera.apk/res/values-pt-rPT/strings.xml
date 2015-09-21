@@ -6,7 +6,7 @@
   <string name="accessibility_hdr">Botão mudar HDR</string>
   <string name="accessibility_module_picker">ModulePicker</string>
   <string name="accessibility_panorama_review_cancel">Cancelar a gravação da fotografia panorâmica</string>
-  <string name="accessibility_review_thumbnail">Fotografias mais recentes</string>
+  <string name="accessibility_review_thumbnail">Fotos mais recentes</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
@@ -223,7 +223,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_picturesize_title_simple_mode">Resolução da câmara</string>
   <string name="pref_camera_recordlocation_entry_off">Desl.</string>
   <string name="pref_camera_recordlocation_entry_on">Lig.</string>
-  <string name="pref_camera_recordlocation_title">Guardar localização nas fotografias</string>
+  <string name="pref_camera_recordlocation_title">Guardar localização nas fotos</string>
   <string name="pref_camera_referenceline_title">Linha de referência</string>
   <string name="pref_camera_saturation_title">Saturação</string>
   <string name="pref_camera_scenemode_entry_auto">Automático</string>
@@ -355,12 +355,12 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="tap_to_exposure">Tocar para ajustar a exposição manualmente</string>
   <string name="tap_to_focus">Tocar para focar</string>
   <string name="time_lapse_error">O tamanho de vídeo é inválido, para um curto tempo de gravação</string>
-  <string name="toast_burst_snap_finished_end">fotografias</string>
+  <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo do obturador terminado:</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Não é possível disparar enquanto a captura de áudio está ligada</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Não pode rever a imagem ou vídeo quando o ecrã está bloqueado.</string>
   <string name="toast_start_audio_capture">Criar um som para definir o som do obturador</string>
-  <string name="ubi_focus_capture_fail">Não é possível tirar fotografias</string>
+  <string name="ubi_focus_capture_fail">Não é possível tirar fotos</string>
   <string name="ubifocus_capture_warning_message">É melhor quando o ecrã de pré-visualização contém objectos próximos (inferior a um metro a partir da lente) e distantes</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Atingiu o tamanho máximo.</string>
