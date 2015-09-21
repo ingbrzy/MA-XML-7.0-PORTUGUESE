@@ -226,6 +226,8 @@
   <string name="collapse_recipient_details">Recolher detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
+  <string name="compose_attachment_number_limit">O número de anexos não pode exceder 10 !</string>
+  <string name="compose_picturesexceedlimits">O número de imagens inline não pode exceder 5 !</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com sucesso</string>
   <string name="confirm">Confirmar</string>  
@@ -244,6 +246,8 @@
   <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
   <string name="contact_edit_set_phone_contact">Editar contactos</string>  
   <string name="contact_edit_title_phone_contact">Lista de contactos no telefone</string>
+  <string name="contact_in_filter_call_phone_str">Telefonar: %s</string>
+  <string name="contact_in_filter_title">Vem dele(a).</string>
   <string name="contact_info_string">Mostrar informações do contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar informações de contacto</string>
   <string name="contact_list_add_btn">Adicionar</string>
@@ -446,7 +450,7 @@
   <string name="mail">Email</string>
   <string name="mail_body_turncated">Este email é muito grande para descarregar, apenas é possível mostrar uma parte dele, tente descarregar mais tarde no seu computador</string>  
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
-  <string name="mailbox_list_account_selector_combined_view">Visualização combinada</string>
+  <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
   <string name="mailbox_name_display_junk">Spam</string>

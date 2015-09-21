@@ -309,7 +309,7 @@ Motivo: \"%s\""</string>
     <string name="dialog_import_export">Importar/exportar contactos</string>
     <string name="dialog_import">Importar contactos</string>
     <string name="menu_share">Partilhar</string>
-    <string name="share_via">Enviar</string>
+    <string name="share_via">Enviar com</string>
     <string name="share_error">Este contacto não pode ser partilhado</string>
     <string name="nameLabelsGroup">Nome</string>
     <string name="nicknameLabelsGroup">Alcunha</string>
@@ -763,8 +763,8 @@ Escolha uma das seguintes opções:"</string>
     <string name="option_view_group">Mostrar</string>
     <string name="option_rename_group">Renomear</string>
     <string name="option_delete_group">Eliminar</string>
-    <string name="deleteConfirmation_title">Eliminar</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contém informações de várias contas. Informações apenas de leitura, as contas estarão ocultas na sua lista de contactos.</string>
+    <string name="deleteConfirmation_title">Eliminar este contacto?</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contém informações de várias contas. Qualquer informação que não possa ser eliminada será escondida da sua lista de contactos."</string>
     <string name="multipleContactDeleteConfirmationDetail">A eliminar \"%s\" irá suprimir informação de várias contas.</string>
     <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
     <string name="nickname_picker_name_column">Nome de contacto</string>
@@ -956,8 +956,8 @@ Escolha uma das seguintes opções:"</string>
     <string name="sim_error_email_full">Não há espaço suficiente no cartão SIM</string>
     <string name="sim_error_anr_full">Não há espaço suficiente no cartão SIM</string>
     <string name="sim_error_password_error">A palavra passe digitada está incorrecta</string>
-    <string name="yellowPageNavigationLabel">Directório</string>
-    <string name="yellowPageNavigationIconLabel">Directório</string>
+    <string name="yellowPageNavigationLabel">Pág. Amarelas</string>
+    <string name="yellowPageNavigationIconLabel">Pág. Amarelas</string>
     <string name="login_ok">Iniciar sessão</string>
     <string name="yellowpage_navigation_no_content">Não foi localizado</string>
     <string name="yellowpage_navigation_search_history">Histórico</string>

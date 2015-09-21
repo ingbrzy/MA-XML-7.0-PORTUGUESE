@@ -118,7 +118,7 @@ Para activar a conta, siga em
     <string name="passport_vcode_prompt_long">Digite o código de verificação</string>
     <string name="passport_vcode_notification_title">A sua verificação de inicio de sessão está incompleta</string>
     <string name="passport_checking_input">Verificação de entrada…</string>
-    <string name="passport_login_title">Inicie sessão na Conta MI</string>
+    <string name="passport_login_title">Inicie sessão na Conta Mi</string>
     <string name="passport_get_verify_code">Obter código</string>
     <string name="passport_re_get_verify_code">Obter código novamente</string>
     <string name="passport_getting_verify_code">Obter</string>
@@ -135,7 +135,7 @@ Para activar a conta, siga em
     <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
     <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Escolha um número de telefone</string>
-    <string name="app_name">Conta MI</string>
+    <string name="app_name">Conta Mi</string>
     <string name="account">Conta</string>
     <string name="login">Iniciar sessão</string>
     <string name="login_with_email_or_id"><u>Inicie sessão com outra conta</u></string>
@@ -149,8 +149,8 @@ Para activar a conta, siga em
     <string name="password">Insira a palavra passe</string>
     <string name="vcode">Código de verificação</string>
     <string name="bad_authentication">Nome de utilizador ou palavra passe inválida</string>
-    <string name="micloud_account_name">Conta MI</string>
-    <string name="micloud_reg_new">Crie uma conta MI</string>
+    <string name="micloud_account_name">Conta Mi</string>
+    <string name="micloud_reg_new">Crie uma conta Mi</string>
     <string name="micloud_error_empty_pwd">Insira a palavra passe</string>
     <string name="micloud_error_empty_captcha_code">Digite o código captcha</string>
     <string name="micloud_delete_account">Terminar sessão</string>
@@ -249,7 +249,7 @@ Para activar a conta, siga em
     <string name="account_user_gender_female">Feminino</string>
     <string name="account_user_gender_male">Masculino</string>
     <string name="account_user_birthday">Data de nascimento</string>
-    <string name="account_user_id">ID da Conta MI</string>
+    <string name="account_user_id">ID da Conta Mi</string>
     <string name="account_user_details">Informação pessoal</string>
     <string name="account_user_name_dialog_title">Inserir nome</string>
     <string name="account_user_using_weibo_avatar">Utilizar a foto de perfil Sina Weibo</string>
