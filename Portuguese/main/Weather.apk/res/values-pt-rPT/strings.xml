@@ -2,15 +2,12 @@
 <resources>
   <string name="accuweather_default_url">http://www.accuweather.com</string>
   <string name="accuweather_tag">accu</string>
-  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
   <string name="act_find_city_hint">Introduza a localização</string>
   <string name="act_find_city_hot_title">Adicionar</string>
   <string name="act_set_city_find_side">A localizar…</string>
-  <string name="act_set_city_find_side_error">Não é possível localizar o dispositivo</string>
-  <string name="act_weather_cycle_link_china">Tempo Portugal</string>
+  <string name="act_set_city_find_side_error">Não é possível localizar o dispositivo</string>  
   <string name="act_weather_find_city_added">Adicionado</string>
   <string name="act_weather_find_city_click_retry">Repetir</string>
-  <string name="act_weather_find_city_connect_net">Não é possível ligar à rede.</string>
   <string name="act_weather_find_city_net_no_good">Não é possível ligar à rede.</string>
   <string name="act_weather_find_city_no_result">Sem resultados</string>
   <string name="act_weather_find_city_searching">A pesquisar…</string>
@@ -18,8 +15,7 @@
   <string name="activity_find_city_dialog_message">Deixar o Tempo utilizar o Serviço de Localização</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Serviço de localização</string>
-  <string name="activity_main_refresh_fail">Não foi possíve conectar à rede</string>
-  <string name="activity_main_refresh_time">Última actualização %1$s</string>
+  <string name="activity_main_refresh_fail">Não foi possíve conectar à rede</string>  
   <string name="activity_main_refresh_timeout">Tempo Limite de Actualização</string>
   <string name="activity_main_time_format">dd/MM</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
@@ -29,8 +25,7 @@
   <string name="activity_weathermain_locationg_error">Não é possível localizar</string>
   <string name="add_city">Adicionar</string>
   <string name="app_label">Fornecedor do Tempo</string>
-  <string name="app_name">Tempo</string>
-  <string name="application_screenorientation">retrato</string>
+  <string name="app_name">Tempo</string>  
   <string name="aqi_quality_index_break">Qualidade do ar %1$s</string>
   <string name="aqi_quality_index_dangerous">Qualidade do ar %1$s</string>
   <string name="aqi_quality_index_good">Qualidade do ar %1$s</string>
@@ -48,14 +43,10 @@
   <string name="first_start_network_msg">Esta aplicação necessita de ligar à internet e aceder à sua localização para funcionar normalmente.</string>
   <string name="first_start_network_title">Conexão à Internet e Localização</string>
   <string name="gps_hint">Local actual</string>
-  <string name="international_detail_menu_title">Detalhes</string>
-  <string name="loading_weather">A carregar…</string>
-  <string name="location_allow_err">Não é possível encontrar a sua localização</string>
+  <string name="international_detail_menu_title">Detalhes</string>  
   <string name="location_management">Localização</string>
   <string name="location_tag">Localizar</string>
-  <string name="menu_add">Adicionar localização</string>
   <string name="menu_location">Localização</string>
-  <string name="menu_more">Detalhes</string>
   <string name="network_unavailable">Não é possível ligar à rede.</string>
   <string name="share_btn_cancel">Cancelar</string>
   <string name="share_btn_confirm">Partilhar</string>
@@ -79,7 +70,6 @@
   <string name="view_aqi_pubtime">Actualizado às %1$s</string>
   <string name="view_aqi_pubtime_format">HH:mm, dd MMM</string>
   <string name="view_aqi_source">Centro de Monitorização do Meio Ambiente de Portugal</string>
-  <string name="view_aqi_time_format">dd/MM/yyyy HH:mm</string>
   <string name="view_aqi_title">Qualidade do ar</string>
   <string name="view_dropwater_title">Precipitação</string>
   <string name="view_forecast_item_yesterday">Ontem</string>
@@ -94,9 +84,7 @@
   <string name="view_indexes_wind_unit">km/h</string>
   <string name="view_sun_titile">Nascer e pôr do sol</string>
   <string name="viewsun_time_format">HH:mm</string>
-  <string name="weather_unit">°</string>
-  <string name="weather_unit_middle">~</string>
-  <string name="weather_unit_with_c">℃</string>
+  <string name="weather_unit">°</string>  
   <string name="weatherchina_default_url">http://weather.com.cn</string>
   <string name="weatherchina_tag">weather.com.cn</string>
   <string name="button_confirm">Permitir</string>
