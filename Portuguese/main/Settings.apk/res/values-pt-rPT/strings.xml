@@ -326,7 +326,7 @@
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
     <string name="phone_info_label">Informações do telefone</string>
-    <string name="sd_card_settings_label">Armazenamento USB</string>
+    <string name="sd_card_settings_label">Cartão SD</string>
     <string name="proxy_settings_label">Definições Proxy</string>
     <string name="cancel">Cancelar</string>
     <string name="settings_label">Definições</string>
@@ -918,8 +918,8 @@ possívelmente o código PIN está errado."</string>
     <string name="sd_mount_summary" />
     <string name="sd_format">Formatar armazenamento USB</string>
     <string name="sd_format_summary">Elimina todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
-    <string name="memory_clear_cache_title">Eliminar dados em cache?</string>
-    <string name="memory_clear_cache_message">Isto elimina os dados em cache de todas as aplicações.</string>
+    <string name="memory_clear_cache_title">Limpar dados em cache?</string>
+    <string name="memory_clear_cache_message">Isto limpa os dados em cache de todas as aplicações.</string>
     <string name="mtp_ptp_mode_summary">A função MTP e PTP está activa</string>
     <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
     <string name="dlg_confirm_unmount_text">Se desactivar o armaz. USB algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB.</string>
@@ -983,8 +983,8 @@ possívelmente o código PIN está errado."</string>
     <string name="menu_restore">Redefinir para o predefinido</string>
     <string name="restore_default_apn_completed">Restaurar as definições predefinidas do APN completado.</string>
     <string name="master_clear_title">Restaurar definições de fábrica</string>
-    <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
-    <string name="master_clear_desc">Isto elimina todos os dados da <b>memória interna</b>" no seu telefone, incluindo:
+    <string name="master_clear_summary">Eliminar todos os dados do telefone</string>	  
+    <string name="master_clear_desc">"Isto vai eliminar todos os dados da <b>memória interna</b>" do seu telefone, incluindo:
 
 "<li>A sua conta do Google</li>"
 "<li>Sistema, dados de aplicações e definições</li>"
@@ -998,7 +998,7 @@ Está actualmente assinado para as seguintes contas:
 "<li>Outros dados do utilizador</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</b> tem de ser eliminado.</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</b> tem de ser eliminado.</string>
     <string name="erase_external_storage">Desactivar o armaz. USB</string>
     <string name="erase_external_storage_description">Eliminar todos os dados do armaz. USB, tais como música ou fotos</string>
     <string name="master_clear_button_text">Restaurar telefone</string>
@@ -1150,13 +1150,13 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
 	<string name="advanced_text_layout">Activar layouts de texto avançado</string> 
     <string name="application_info_label">Informação das aplicações</string>
     <string name="storage_label">Armazenamento</string>
-    <string name="auto_launch_label">Iniciar por padrão</string>
+    <string name="auto_launch_label">Iniciar por predefinição</string>
     <string name="auto_launch_label_generic">Predefinições</string>
     <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
     <string name="permissions_label">Permissões</string>
-    <string name="cache_header_label">Histórico de dados</string>
-    <string name="clear_cache_btn_text">Limpar histórico de dados</string>
-    <string name="cache_size_label">Histórico de dados</string>
+    <string name="cache_header_label">Cache</string>
+    <string name="clear_cache_btn_text">Limpar cache</string>
+    <string name="cache_size_label">Cache</string>
     <string name="controls_label">Controlos</string>
     <string name="force_stop">Forçar paragem</string>
     <string name="total_size_label">Total</string>
@@ -1169,12 +1169,12 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="install_text">Instalar</string>
     <string name="disable_text">Desligar</string>
     <string name="enable_text">Ligar</string>
-    <string name="clear_user_data_text">Eliminar dados</string>
+    <string name="clear_user_data_text">Limpar dados</string>
     <string name="app_factory_reset">Desinstalar actualizações</string>
-    <string name="auto_launch_enable_text">Seleccionou a inicialização padrão desta aplicação para algumas acções.</string>
+    <string name="auto_launch_enable_text">Optou por iniciar esta aplicação por predefinição para algumas acções.</string>
     <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
-    <string name="auto_launch_disable_text">Nenhum padrão definido.</string>
-    <string name="clear_activities">Eliminar padrão</string>
+    <string name="auto_launch_disable_text">Nenhuma predefinição definida.</string>
+    <string name="clear_activities">Limpar predefinições</string>
     <string name="screen_compatibility_text">Esta aplicação pode não ter sido definida para este ecrã. Pode controlar como a aplicação se ajusta melhor aqui.</string>
     <string name="ask_compatibility">Perguntar ao iniciar</string>
     <string name="enable_compatibility">Redimensionar aplicação</string>
@@ -1207,7 +1207,7 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="not_installed">Não instalado</string>
     <string name="no_applications">Não existem aplicações.</string>
     <string name="internal_storage">Armazenamento interno</string>
-    <string name="sd_card_storage">Armazenamento USB</string>
+    <string name="sd_card_storage">Cartão SD</string>
     <string name="recompute_size">A calcular o tamanho…</string>
     <string name="clear_data_dlg_title">Eliminar dados da aplicação?</string>
     <string name="clear_data_dlg_text">Todos os dados desta aplicação serão eliminados definitivamente. Isto inclui todos os ficheiros, definições, contas, bases de dados, etc.</string>
@@ -1215,11 +1215,11 @@ Não irá perder quaisquer dados das aplicações."</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
-    <string name="clear_data_failed">Não foi possível eliminar dados da aplicação.</string>
+    <string name="clear_data_failed">Não foi possível limpar dados da aplicação.</string>
     <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
     <string name="app_factory_reset_dlg_text">Todas as actualizações do sistema Android serão desinstaladas.</string>
-    <string name="clear_failed_dlg_title">Eliminar dados</string>
-    <string name="clear_failed_dlg_text">Erro ao eliminar os dados da aplicação</string>
+    <string name="clear_failed_dlg_title">Limpar dados</string>
+    <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
     <string name="security_settings_desc">Esta aplicação pode aceder aos seguintes itens neste telefone:</string>
     <string name="security_settings_desc_multi">Esta aplicação pode aceder aos seguintes ficheiros no telefone. A fim de melhorar o desempenho e reduzir utilização de memória, algumas dessas permissões estão disponíveis para %1$s, porque são executadas no mesmo processo como %2$s:</string>
     <string name="join_two_items">%1$s e %2$s</string>
@@ -1348,8 +1348,8 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="quick_launch_assign_application">Atribuir aplicação</string>
     <string name="quick_launch_no_shortcut">Sem atalho</string>
     <string name="quick_launch_shortcut">Pesquisar + %1$s</string>
-    <string name="quick_launch_clear_dialog_title">Eliminar</string>
-    <string name="quick_launch_clear_dialog_message">O seu atalho para %1$s (%2$s) será eliminado.</string>
+    <string name="quick_launch_clear_dialog_title">Limpar</string>
+    <string name="quick_launch_clear_dialog_message">O seu atalho para %1$s (%2$s) será limpo.</string>
     <string name="quick_launch_clear_ok_button">OK</string>
     <string name="quick_launch_clear_cancel_button">Cancelar</string>
     <string name="quick_launch_display_mode_applications">Aplicações</string>
@@ -2434,7 +2434,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
     <string name="master_clear_personal_data_application">Eliminar toda a sua informação pessoal e aplicações transferidas? Não pode reverter esta operação!</string>
     <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta operação!</string>
     <string name="master_clear_all">Eliminar toda a sua informação na memória interna do telefone? Não pode reverter esta operação!</string>
-    <string name="master_clear_erase_application_progress">Eliminar aplicações…</string>
+    <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
     <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
     <string name="erase_internal_storage_description">Eliminar música, fotos, vídeos, e outros dados do utilizador</string>
     <string name="storage_format">Formatar</string>
@@ -2604,7 +2604,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
     <string name="drive_mode_only_contact_reply">Responder apenas aos contactos</string>
     <string name="drive_mode_auto_sms_reply_content">Não posso atender agora... Ligo mais tarde</string>
     <string name="drive_mode_auto_sms_reply_content_title">Resposta rápida</string>
-    <string name="clear_activities_summary">Activar esta aplicação para algumas operações predefinidas</string>
+    <string name="clear_activities_summary">Utilizar esta aplicação para algumas operações predefinidas</string>
     <string name="permission_detail_info">Ver detalhes de permissão</string>
     <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
     <string name="permission_manage">Gerir permissões</string>
