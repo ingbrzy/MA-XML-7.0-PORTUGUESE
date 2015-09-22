@@ -109,8 +109,8 @@ Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fal
   <string name="cit_fm_start_service">Iniciar áudio</string>
   <string name="cit_front_camera_check_summary">"Instruções do teste: 
 
-1.Pressione o botão da câmara em baixo para entrar no interface da câmara frontal
-2.Pressione o botão do obturador
+1.Pressione o botão da câmara em baixo para entrar no interface da câmara frontal.
+2.Pressione o botão do obturador.
 3.Pressione o ícone verificar. O sistema vai guardar a fotografia automaticamente.
 4.A fotografia que tirou será exibida em baixo. Pressione em Eliminar para completar o teste."</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
@@ -162,15 +162,15 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
   <string name="cit_leds_check_summary">Luz do fundo, LED de notificação e LED do flash deverão funcionar quando for activado o botão correspondente no ecrã.</string>
   <string name="cit_leds_check_title">Luz de notificação (LED)</string>
-  <string name="cit_light_sensor_check_summary">O valor do DAC deverá aparecer em baixo</string>
+  <string name="cit_light_sensor_check_summary">O valor do DAC deverá aparecer em baixo.</string>
   <string name="cit_light_sensor_check_title">Sensor de iluminação</string>
   <string name="cit_magnetic_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer em baixo</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1.Pressione o botão da câmara em baixo para entrar no interface da câmara traseira
-2.Certifique-se de que o flash está activado
-3.Pressione o botão do obturador
+1.Pressione o botão da câmara em baixo para entrar no interface da câmara traseira.
+2.Certifique-se de que o flash está activado.
+3.Pressione o botão do obturador.
 4.Pressione o ícone verificar. O sistema vai guardar a fotografia automaticamente.
 5.A fotografia que tirou será exibida em baixo. Pressione em Eliminar para completar o teste."</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
@@ -271,29 +271,29 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Canal</string>
-  <string name="cit_tool_wifi_rx_count_error">O valor de saída não é um número</string>
+  <string name="cit_tool_wifi_rx_count_error">O valor de saída não é um número.</string>
   <string name="cit_tool_wifi_rx_dut_ip">192.168.1.12</string>
-  <string name="cit_tool_wifi_rx_error">Ocorreu um erro ao iniciar a aplicação</string>
+  <string name="cit_tool_wifi_rx_error">Ocorreu um erro ao iniciar a aplicação.</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Iniciar</string>
   <string name="cit_tool_wifi_rx_stop">Parar</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
   <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">largura de banda:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
+  <string name="cit_tool_wifi_rxn_test_bw">Largura de banda:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">Canal:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">datarate:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
-  <string name="cit_tool_wifi_tx_n_bandwidth">largura de banda:</string>
+  <string name="cit_tool_wifi_tx_n_bandwidth">Largura de banda:</string>
   <string name="cit_tool_wifi_tx_n_chan">canal:</string>
   <string name="cit_tool_wifi_tx_n_txpr">txpower:</string>
   <string name="cit_tool_wifi_tx_n_txrt">datarate: MCS</string>
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
-  <string name="cit_tool_wifi_tx_st_chan">canal:</string>
+  <string name="cit_tool_wifi_tx_st_chan">Canal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Seleccione antena</string>
   <string name="cit_torch_off">Desligar o flash</string>
   <string name="cit_torch_on">Ligar o flash</string>
@@ -312,7 +312,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD, toque no ecrã para o 
   <string name="cit_vga_camera_capture_fail">Erro ao capturar imagem</string>
   <string name="cit_vga_camera_delete">Eliminar</string>
   <string name="cit_vga_camera_deleted">Fotografia eliminada</string>
-  <string name="cit_vibrator_check_summary">Teste de funcionamento de vibração (longa e curta)</string>
+  <string name="cit_vibrator_check_summary">Teste de funcionamento de vibração (longa e curta).</string>
   <string name="cit_vibrator_check_title">Vibração</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Haptic</string>

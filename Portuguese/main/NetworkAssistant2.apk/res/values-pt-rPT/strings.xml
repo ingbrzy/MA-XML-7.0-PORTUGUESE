@@ -106,8 +106,9 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="firewall_fragment_sys_listempty">Vazio</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
-  <string name="firewall_network_restrict_notify_message">Pressione para alterar definições.</string>
-  <string name="firewall_network_restrict_notify_title">%1$s não permitido ligar a %2$s.</string>
+  <string name="firewall_network_restrict_notify_message">Pressione para alterar definições.</string>  
+  <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
+  <string name="firewall_network_restrict_notify_title">"%1$s não pode utilizar %2$s."</string>
   <string name="firewall_rule_group_title_mobile">Dados</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>

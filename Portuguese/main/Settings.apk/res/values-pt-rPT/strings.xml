@@ -2814,8 +2814,9 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="location_access_off">Desligado</string>
     <string name="preferred_app_settings">Predifinidas</string>
     <string name="preferred_app_settings_default">Predefinida</string>
-    <string name="preferred_app_settings_reset">Restaurar aplicações predefinidas?</string>
-    <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
+    <string name="preferred_app_settings_reset">Redefinir predefinições</string>
+	<string name="preferred_app_settings_reset_button">Redefinir</string>
+    <string name="preferred_app_settings_reset_message">Todos as aplicações serão redefinidas para as predefinições MIUI.</string>
     <string name="system_app_settings">Aplicações de sistema</string>
     <string name="connect_to_internet">Ligar à rede</string>
     <string name="wifi_setting_category">Redes disponives</string>
@@ -3003,6 +3004,7 @@ pode utilizar também as redes de outros utilizadores"</string>
     <string name="oldman_mode_settings_caption">Definições de modo leve</string>
     <string name="oldman_mode_enabled_name">Modo leve</string>
     <string name="oldman_mode_summary">Utilize o menu principal com menus simplificados</string>
+	<string name="oldman_mode_summary_cta">Modo Leve necessita de conectar à internet e ler os seus contactos, mensagens, e localização para funcionar normalmente.</string>
     <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
     <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar em modo leve.</string>
     <string name="oldman_mode_confirm_will_normal_mode_text">Sair do modo leve?</string>

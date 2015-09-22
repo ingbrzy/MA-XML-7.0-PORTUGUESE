@@ -79,6 +79,11 @@
   <string name="create_share_link_description">Criação de ligação#8230;</string>
   <string name="cution">Dicas</string>
   <string name="data_capacity">Dados %1$s</string>
+  <string name="data_consumption_cancel">Sair</string>
+  <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">Esta aplicação necessita de conectar à internet através de Wi-Fi para funcionar normalmente.</string>
+  <string name="data_consumption_title">Conexão à Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
@@ -260,6 +265,7 @@
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Notificar e ornanizar automaticamente quando os ficheiros são adicionados ou alterados em %1$s.</string>
   <string name="notification_dialog_title">Notificações</string>
+  <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Notificações</string>
   <string name="notification_summary">"%1$s não suporta este recurso ainda"</string>
   <string name="notification_title">Notificar quando novos ficheiros são adicionados a %1$s</string>

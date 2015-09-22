@@ -92,7 +92,7 @@
   <string name="baby_album_sharers_page_title">Partilhar com famílias</string>
   <string name="baby_birthday">Aniversário</string>
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
-  <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
+  <string name="baby_lock_wallpaper_cancelled">Restaurado o papel de parede predefinido do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
   <string name="baby_lock_wallpaper_title">"Utilizar as fotos do bebé como papel de parede do ecrã de bloqueio"</string>
   <string name="baby_name_cannot_empty">Introduzir nome</string>
@@ -124,7 +124,7 @@
   <string name="camera_setas_wallpaper">Papel de parede</string>
   <string name="camera_view_none_message">As fotos e vídeos tiradas com a aplicação da câmara serão apresentadas aqui.</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Cancelar papel de parede do bebé e reinicializar o papel de parede predefinido do ecrã de bloqueio?</string>
+  <string name="cancel_baby_lock_wallpaper_confirm_msg">Restaurar papel de parede predefinido do ecrã de bloqueio?</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_delete_sharer_photo">Não é possível eliminar %s ficheiros carregados por outros membros.</string>
   <string name="cannot_remove_creator">Não é possível eliminar o criador</string>
@@ -1023,9 +1023,9 @@ o dispositivo"</string>
   <string name="send_public_url">Enviar endereço do álbum</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
-  <string name="set_baby_icon_picker_default_title">Definir ícone do bebé</string>
-  <string name="set_bg_file_exist_message">Conflitos entre nomes de fotos</string>
-  <string name="set_bg_picker_default_title">Definir miniaturas do topo</string>
+  <string name="set_baby_icon_picker_default_title">Definir foto em miniatura</string>
+  <string name="set_bg_file_exist_message">Este item já existe</string>
+  <string name="set_bg_picker_default_title">Definir foto de capa</string>
   <string name="set_bg_unknow_reasons">Erro desconhecido</string>
   <string name="set_hidden_album">Ocultar o álbum</string>
   <string name="set_label_all_albums">Todos os álbuns</string>
@@ -1089,6 +1089,7 @@ o dispositivo"</string>
   <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
   <string name="sync_album_set_error">"Não é possível sincronizar estes álbuns. Verifique sua conexão e tente novamente."</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
+  <string name="sync_battery_low">Bateria fraca</string>
   <string name="sync_cloud_space_full">Espaço na Nuvem Mi cheio</string>
   <string name="sync_history_power_on">Sincronizar o histórico de imagens apenas ao carregar</string>
   <string name="sync_in_progress_message">A sincronizar…</string>

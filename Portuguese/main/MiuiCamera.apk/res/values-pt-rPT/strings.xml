@@ -332,7 +332,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="setting_top_text">Opções</string>
   <string name="simple_mode_button_asd_flash">Desligar o flash</string>
   <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Desligar o som de disparo</string>
+  <string name="simple_mode_button_text_audio_capture">Desligar o disparo de voz</string>
   <string name="simple_mode_button_text_color_effect">Fechar filtros</string>
   <string name="simple_mode_button_text_countdown">Fechar contagem</string>
   <string name="simple_mode_button_text_delay_capture">Fechar contagem</string>
@@ -359,7 +359,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="toast_burst_snap_finished_start">Disparo do obturador terminado:</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Não é possível disparar enquanto a captura de áudio está ligada</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Não pode rever a imagem ou vídeo quando o ecrã está bloqueado.</string>
-  <string name="toast_start_audio_capture">Criar um som para definir o som do obturador</string>
+  <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não é possível tirar fotos</string>
   <string name="ubifocus_capture_warning_message">É melhor quando o ecrã de pré-visualização contém objectos próximos (inferior a um metro a partir da lente) e distantes</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>

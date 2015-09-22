@@ -309,7 +309,7 @@
     <string name="i_know_it">Sim</string>
     <string name="atmd_music">Final</string>        
     <string name="online_music_enabled_subtitle">Toque para fazer streaming das suas músicas favoritas.</string>
-    <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as tabelas de rankings e listas de reprodução a partir de qualquer lugar!</string>
+    <string name="online_music_enabled_summary">Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!</string>
     <string name="online_music_enabled_title">Streaming de graça é aqui</string>
 	<string name="account_and_cloud">Conta</string>
 	<string name="action_item_add_song">Adicionar</string>
@@ -352,14 +352,15 @@
     <string name="impunity_declaration_content3">" e "</string>
     <string name="impunity_declaration_content4">Política de Privacidade</string>
     <string name="impunity_declaration_content5">.</string>	
-	<string name="is_scanning">A verificar, por favor aguarde.</string>
-    <string name="is_scanning_support_online">A verificar, por favor aguarde ou escolha músicas online.</string>
+	<string name="is_scanning">A verificar armazenamento…</string>
+    <string name="is_scanning_support_online">"A verificar armazenamento… 
+(Entretanto pode fazer streaming de músicas online)"</string>
     <string name="japan_korea_female">Cantoras (Japão/Coreia)</string>
     <string name="japan_korea_group">Bandas (Japão/Coreia)</string>
     <string name="japan_korea_male">Cantores (Japão/Coreia)</string>
 	<string name="list_detail_title">Detalhes</string>
 	<string name="male_artist">Artistas masculinos</string>
-	<string name="message_delete_playlist">Eliminar playlist %s ?</string>
+	<string name="message_delete_playlist">Eliminar playlist %s?</string>
 	<string name="miuishare_account_activate_confirmation">Necessária activação</string>
     <string name="miuishare_account_activate_ok">Activar</string>
     <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -421,7 +422,7 @@
     <string name="share_text_song">"Música na Música Mi: "</string>
 	<string name="song_is_empty">Nome da música não pode estar vazio.</string>
 	<string name="song_unit">itens</string>
-	<string name="start_to_download">A iniciar transferências…</string>
+	<string name="start_to_download">A transferir…</string>
 	<string name="sync_only_in_wifi">Apenas usar Wi-Fi para sincronizar</string>
     <string name="sync_only_in_wifi_summary">Sincronizar a sua música em todos os seus dispositivos com a Nuvem Mi. Utilizar os seus dados móveis para sincronizar música vai aumentar a utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
     <string name="tab_album">Álbuns</string>
