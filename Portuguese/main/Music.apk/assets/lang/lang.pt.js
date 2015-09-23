@@ -4,7 +4,7 @@
     "durationformatshort_padding_with_0": "%2$02d:%5$02d",
     "filter_by_size_max": "2MB",
     "filter_by_size_min": "0KB",
-    "action_item_add": "Adicionar",
+    "action_item_add": "Adicionar à Playlist",
     "action_item_send": "Enviar",
     "action_item_remove": "Remover",
     "action_item_delete": "Eliminar",
@@ -98,14 +98,14 @@
     "my_music_empty_goto_online": "Não foram encontradas músicas",
     "click_to_shuffle": "Pressione para misturar tudo",
     "send_to_title": "Enviar para (%1$s)",
-    "dialog_title_add_playlist": "Adicionar á lista de reprodução",
-    "dialog_title_name_playlist": "Nome da lista de reprodução",
+    "dialog_title_add_playlist": "Adicionar à Playlist",
+    "dialog_title_name_playlist": "Nome da Playlist",
     "dialog_title_track_picker": "Selecionar Música",
     "dialog_title_remove_tracks": "Remover",
     "dialog_title_delete_tracks": "Eliminar",
     "dialog_button_find_music": "Localize novas músicas",
     "dialog_button_editor_choice": "Escolhas do editor",
-    "dialog_button_create_playlist": "Criar lista de reprodução",
+    "dialog_button_create_playlist": "Criar Playlist",
     "cancel": "Cancelar",
     "ok": "OK",
     "done": "Concluido",
@@ -142,13 +142,13 @@
     "add_music": "Adicionar músicas",
     "button_add": "Adicionar",
     "find_music": "Procurar Músicas",
-    "favourite_music_left_half": "Para adcionar músicas á lista de reprodução, Pressione em",
+    "favourite_music_left_half": "Para adcionar músicas à Playlist, Pressione em",
     "favourite_music_right_half": "Ícone favorito à direita do título da música",
     "favorite_succeed": "Já adicionada aos favoritos",
     "favorite_canceled": "Eliminar dos favoritos",
     "playlist_deleted_message": "Eliminar Lista de Reprodução",
     "playlist_renamed_message": "Lista de Reprodução renomeada",
-    "available_playlist_name_format": "Nova lista de reprodução %d",
+    "available_playlist_name_format": "Nova Playlist %d",
     "select_device": "Seleccionar dispositivo",
     "project_device": "Telefone Mi",
     "project_device_mobile": "Dispositivo móvel",
@@ -273,7 +273,7 @@
     "bluetooth_device": "Dispositivo Áudio Bluetooth",
     "device_connected": "Ligado",
     "device_not_connected": "Não ligado",
-    "delete_file_as_well": "Eliminar ficheiro local",
+    "delete_file_as_well": "Eliminar esta música permanentemente",
     "delete_file_start": "Eliminar os ficheiros selecionados",
     "delete_file_end": "Eliminar permanentemente",
     "no_song": "Sem músicas",
@@ -311,7 +311,7 @@
     "online_music_enabled_summary": "Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!",
     "online_music_enabled_title": "Streaming de graça é aqui",
 	"account_and_cloud": "Conta",
-	"action_item_add_song": "Adicionar",
+	"action_item_add_song": "Adicionar à Playlist",
 	"action_item_cancel": "Cancelar",
 	"action_item_follow": "Seguir",
 	"action_item_multiple": "Editar",
@@ -471,16 +471,16 @@
 			"other": "\"${v} nova\""
 		 },
 		 "Ntracks_add_to_playlist": {
-			"other": "\"${v} músicas adicionadas à lista de reprodução\"",
-			"one": "\"1 música adicionada à lista de reprodução\""
+			"other": "\"${v} músicas adicionadas à Playlist\"",
+			"one": "\"1 música adicionada à Playlist\""
 		 },
 		 "Ntracks_count": {
 			"other": "\"${v} músicas\"",
 			"one": "\"${v} música\""
 		 },
 		 "Ntracks_remove_from_playlist": {
-			"other": "\"${v} músicas removidas da lista de reprodução\"",
-			"one": "\"1 música removida da lista de reprodução\""
+			"other": "\"${v} músicas removidas da Playlist\"",
+			"one": "\"1 música removida da Playlist\""
 		 },     
 		 "Ntracks_similar_count": {
 			"other": "\"${v} músicas parecidas\"",

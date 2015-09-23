@@ -21,16 +21,16 @@
         <item quantity="other">%d nova</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d músicas adicionadas à lista de reprodução</item>
-        <item quantity="one">1 música adicionada à lista de reprodução</item>
+        <item quantity="other">%d músicas adicionadas à Playlist</item>
+        <item quantity="one">1 música adicionada à Playlist</item>
      </plurals>
      <plurals name="Ntracks_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d músicas removidas da lista de reprodução</item>
-        <item quantity="one">1 música removida da lista de reprodução</item>
+        <item quantity="other">%d músicas removidas da Playlist</item>
+        <item quantity="one">1 música removida da Playlist</item>
      </plurals>
      <plurals name="Ntracks_search_result">
         <item quantity="other">%d músicas encontradas</item>
