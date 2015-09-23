@@ -6,8 +6,8 @@
         <item quantity="one">1 música vai ser transferida</item>
      </plurals>
 	 <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Eliminar %d playlists?</item>
-        <item quantity="one">Eliminar %d playlist?</item>
+        <item quantity="other">Eliminar %d Listas de reprodução?</item>
+        <item quantity="one">Eliminar %d Lista de reprodução?</item>
      </plurals>
      <plurals name="Nexpired_remind">
         <item quantity="other">faltam %d dias</item>
@@ -21,16 +21,16 @@
         <item quantity="other">%d nova</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d músicas adicionadas à Playlist</item>
-        <item quantity="one">1 música adicionada à Playlist</item>
+        <item quantity="other">%d músicas adicionadas à Lista de reprodução</item>
+        <item quantity="one">1 música adicionada à Lista de reprodução</item>
      </plurals>
      <plurals name="Ntracks_count">
         <item quantity="other">%d músicas</item>
         <item quantity="one">%d música</item>
      </plurals>
      <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d músicas removidas da Playlist</item>
-        <item quantity="one">1 música removida da Playlist</item>
+        <item quantity="other">%d músicas removidas da Lista de reprodução</item>
+        <item quantity="one">1 música removida da Lista de reprodução</item>
      </plurals>
      <plurals name="Ntracks_search_result">
         <item quantity="other">%d músicas encontradas</item>
