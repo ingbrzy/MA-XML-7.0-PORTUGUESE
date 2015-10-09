@@ -72,6 +72,14 @@
         <item quantity="few">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
         <item quantity="many">Ficheiros relacionados com a aplicação %1$s (%2$d itens)</item>
     </plurals>
+	<plurals name="file_count">
+        <item quantity="other"> %1$d itens</item>
+        <item quantity="zero"> %1$d itens</item>
+        <item quantity="one"> %1$d item</item>
+        <item quantity="two"> %1$d itens</item>
+        <item quantity="few"> %1$d itens</item>
+        <item quantity="many"> %1$d itens</item>
+    </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%1$s ficheiros relacionados (%2$d itens)</item>
         <item quantity="zero">%1$s ficheiros relacionados (%2$d itens)</item>
@@ -113,12 +121,12 @@
         <item quantity="many">%1$d dias atrás</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">encontrados %1$d novos ficheiros</item>
-        <item quantity="zero">encontrados %1$d novos ficheiros</item>
-        <item quantity="one">encontrado %1$d novo ficheiro</item>
-        <item quantity="two">encontrados %1$d novos ficheiros</item>
-        <item quantity="few">encontrados %1$d novos ficheiros</item>
-        <item quantity="many">encontrados %1$d novos ficheiros</item>
+        <item quantity="other">Encontrados %1$d novos ficheiros</item>
+        <item quantity="zero">Encontrados %1$d novos ficheiros</item>
+        <item quantity="one">Encontrado %1$d novo ficheiro</item>
+        <item quantity="two">Encontrados %1$d novos ficheiros</item>
+        <item quantity="few">Encontrados %1$d novos ficheiros</item>
+        <item quantity="many">Encontrados %1$d novos ficheiros</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Recebeu %1$d ficheiros da Aplicação %2$s</item>

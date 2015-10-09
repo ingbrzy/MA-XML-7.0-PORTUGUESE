@@ -8,8 +8,8 @@
   <string name="abc_searchview_description_query">Pesquisa</string>
   <string name="abc_searchview_description_search">Pesquisar</string>
   <string name="abc_searchview_description_submit">Submeter</string>
-  <string name="abc_searchview_description_voice">Pesquisa sem voz</string>  
-  <string name="account_duplicate_dlg_message_fmt">Já está a usar este nome do utilizador para a conta \"%s\".</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>  
+  <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>  
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
@@ -59,7 +59,7 @@
   <string name="account_settings_unsupported_summary">Nenhuma</string>
   <string name="account_settings_using_ringtone">Toque</string>
   <string name="account_settings_vibrate_when_label">Vibrar</string>  
-  <string name="account_setup_account_type_instructions">Que formato de conta é esta?</string>
+  <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
   <string name="account_setup_account_type_title">Configuração da conta</string>
   <string name="account_setup_address_label">Email</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Verifique se as informações de sua conta estão correctas.</string>
@@ -288,7 +288,7 @@
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
-  <string name="default_setup">Definições Predifinidas</string>
+  <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu Xiaomi</string>
   <string name="delete">Eliminar</string>  
   <string name="deleted">Eliminada</string>
@@ -367,9 +367,9 @@
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_en0">Lixo</string>
-  <string name="folder_junk_name_en1">Email em grande quantidade</string>
-  <string name="folder_list_display_all">Exibir todas as pastas</string>
-  <string name="folder_list_display_only_import">Exibir apenas pastas importantes</string>
+  <string name="folder_junk_name_en1">Email em massa</string>
+  <string name="folder_list_display_all">Mostrar todas as pastas</string>
+  <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
   <string name="folder_picker_title">Seleccionar pastas</string>
   <string name="folder_removed">Removido de %1$s</string>
   <string name="folder_sent_name_cn0">已发送</string>

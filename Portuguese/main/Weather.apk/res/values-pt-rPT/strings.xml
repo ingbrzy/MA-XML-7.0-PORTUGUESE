@@ -7,14 +7,18 @@
   <string name="act_set_city_find_side">A localizar…</string>
   <string name="act_set_city_find_side_error">Não é possível localizar o dispositivo</string>  
   <string name="act_weather_find_city_added">Adicionado</string>
+  <string name="act_weather_find_city_china"/>
   <string name="act_weather_find_city_click_retry">Repetir</string>
   <string name="act_weather_find_city_net_no_good">Não é possível ligar à rede.</string>
   <string name="act_weather_find_city_no_result">Sem resultados</string>
   <string name="act_weather_find_city_searching">A pesquisar…</string>
+  <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Cancelar</string>
   <string name="activity_find_city_dialog_message">Deixar o Tempo utilizar o Serviço de Localização</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Serviço de localização</string>
+  <string name="activity_main_alert"/>
+  <string name="activity_main_one_alert"/>
   <string name="activity_main_refresh_fail">Não foi possível conectar à rede</string>  
   <string name="activity_main_refresh_timeout">Tempo Limite de Actualização</string>
   <string name="activity_main_time_format">dd/MM</string>
@@ -39,6 +43,7 @@
   <string name="button_not_allow">Negar</string>
   <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ss"</string>
   <string name="data_source_timezone">GMT %1$s</string>
+  <string name="edit_alert_city_title"/>
   <string name="edit_city">Editar</string>
   <string name="first_start_network_msg">Esta aplicação necessita de ligar à internet e aceder à sua localização para funcionar normalmente.</string>
   <string name="first_start_network_title">Conexão à Internet e Localização</string>

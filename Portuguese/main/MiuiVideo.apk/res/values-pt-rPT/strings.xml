@@ -352,7 +352,7 @@
     <string name="router_download_task_with">%d tarefas</string>
     <string name="offline_status_loading">Transferir…</string>
     <string name="offline_status_waiting">Aguarde…</string>
-    <string name="offline_status_paused">Pausado</string>
+    <string name="offline_status_paused">Em pausa</string>
     <string name="offline_status_failed">Falhado</string>
     <string name="offline_status_finished">Completo</string>
     <string name="delete_with">Eliminar (%d)</string>
@@ -391,7 +391,7 @@
     <string name="video_plugin_downloading">A transferir(%1$s), por favor espere um bocado</string>
     <string name="download_fail">Erro ao transferir</string>
     <string name="download_finished">Terminado</string>
-    <string name="download_paused">Pausado</string>
+    <string name="download_paused">Em pausa</string>
     <string name="download_running">A transferir…</string>
     <string name="download_queue">A obter informação…</string>
     <string name="download_url_waiting">A obter informação URL…</string>

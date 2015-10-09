@@ -107,7 +107,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_network_restrict_notify_message">Pressione para alterar definições.</string>  
-  <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
+  <string name="firewall_network_restrict_notify_mobile">Dados móveis</string>
   <string name="firewall_network_restrict_notify_title">"%1$s não pode utilizar %2$s."</string>
   <string name="firewall_rule_group_title_mobile">Dados</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
@@ -279,6 +279,10 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="operator_setted_error_notify_title">Erro cartão SIM</string>
   <string name="other_exception_summary">Não tem uma ligação à internet</string>
   <string name="other_exception_title">Verificação de outras questões</string>
+  <string name="package_change_notification_summary">Toque para saber mais.</string>
+  <string name="package_change_notification_title">Ajustar limite de dados automáticamente</string>
+  <string name="package_setted_error_notification_summary">Toque para ver detalhes da utilização de dados.</string>
+  <string name="package_setted_error_notification_titile">"Não foi possível definir plano de dados"</string>
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="permission_exception_summary">Algumas aplicações não tem permissão para ligar à internet</string>

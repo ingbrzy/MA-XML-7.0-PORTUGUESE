@@ -123,6 +123,7 @@
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro.</string>
   <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção.</string>
   <string name="expand_all">Expandir tudo</string>
+  <string name="extract">Extrair</string>
   <string name="fail_to_create_folder">Espaço insuficiente ou a pasta já existe.</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
   <string name="fail_to_rename">Já existe um ficheiro com o mesmo nome.</string>
@@ -195,6 +196,9 @@
   <string name="load_err">Não é possível carregar</string>
   <string name="load_more">Ver mais</string>
   <string name="loading">A carregar…</string>
+  <string name="local_image">Fotos</string>
+  <string name="local_music">Música</string>
+  <string name="local_video">Vídeo</string>
   <string name="login_reg_content">Armazenar ficheiros e sincronizar entre vários dispositivos.</string>
   <string name="login_reg_content0">Utilizar o KuaiPan em qualquer lugar.</string>
   <string name="megabyteShort">MB</string>
@@ -214,6 +218,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">Não é possível cortar</string>
+  <string name="move_to">Mover para…</string>
   <string name="multi_select_title">%1$s seleccionado</string>
   <string name="my_app">Dados das aplicações</string>
   <string name="my_app_desc"/>
@@ -371,6 +376,9 @@
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Pesquisar</string>
   <string name="search_title_hint">Pesquisar</string>
+  <string name="select_image">Escolher fotos</string>
+  <string name="select_music">Escolher músicas</string>
+  <string name="select_video">Escolher vídeos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado.</string>
   <string name="server_control_advanced_settings">Definições de FTP</string>
@@ -394,10 +402,13 @@ Espaço livre adicionado %1$s"</string>
   <string name="stay_awake_title">Ficar acordado</string>
   <string name="stop_server">Parar o servidor</string>
   <string name="storage_info">%1$s disponível</string>
-  <string name="storage_info_detail">Disponível:%1$s Total:%1$s</string>
+  <string name="storage_info_detail">Disponível:%1$s Total:%2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
+  <string name="storage_internal_description">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
+  <string name="storage_sd_card_description">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
+  <string name="storage_usb_description">Armazenamento USB</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>
   <string name="sys_size_enable">" disponível"</string>
   <string name="system_alert">Ligação à Internet</string>

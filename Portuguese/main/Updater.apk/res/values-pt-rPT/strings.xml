@@ -19,7 +19,7 @@
     <string name="get_auto">Utilizar rede móvel ou Wi-Fi</string>
     <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
     <string name="test">Testar</string>
-    <string name="miui_summary_has_new_version">Actualização disponível</string>
+    <string name="miui_summary_has_new_version">" Actualização disponível "</string>
     <string name="miui_summary_now_version">Não é possível ligar à rede</string>
     <string name="miui_summary_no_new_version">Não existem actualizações disponíveis</string>
     <string name="button_text_check">Verificar actualizações</string>
@@ -221,4 +221,7 @@ Não foi possível submeter o comentário"</string>
     <string name="sogou_uninstall_title">Teclados compatíveis</string>
 	<string name="recovery_power_not_enough_msg">Ligar carregador para actualizar se a bateria estiver a menos de 30%</string>
     <string name="recovery_power_not_enough_title">Bateria fraca</string>
+	<string name="install_file_explorer">Instalar Explorador primeiro</string>
+	<string name="miui_summary_slogan">"  Teu por desenho  "</string>
+    <string name="miui_summary_updating">"  A actualizar…  "</string>
 </resources>

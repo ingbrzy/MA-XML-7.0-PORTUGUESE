@@ -37,7 +37,6 @@
   <string name="backup_items_sysdata_tailer">"  ficheiros de dados do sistema, "</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">A copiar os seus dados…</string>
-  <string name="backup_recently">" (cópia mais recente) "</string>
   <string name="backup_report">Ver detalhes</string>
   <string name="backup_update">Actualizar</string>
   <string name="batch_delete_backup_confirm">Eliminar cópias selecionadas?</string>
@@ -93,7 +92,10 @@
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar.</string>
   <string name="err_authentication_failed">A autenticação falhou</string>
   <string name="err_bakfile_broken">Não pode usar esta cópia</string>
-  <string name="err_low_storage">Não existe espaço</string>
+  <string name="err_filesystem_mount">"Não foi possível aceder ao armazenamento do router"</string>
+  <string name="err_low_storage">Não existe espaço suficiente</string>
+  <string name="err_router_disconnected">"Verifique a sua conexão ao router e tente novamente."</string>
+  <string name="err_router_files_delete">"Não foi possível eliminar os ficheiros de cópia no router"</string>
   <string name="err_unknown">Erro desconhecido</string>
   <string name="err_version_too_old">O ficheiro Cópia é muito antigo.</string>
   <string name="err_version_unsupported">A versão não é suportada.</string>
@@ -191,6 +193,7 @@
   <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="start_backup">Cópia de segurança</string>
   <string name="start_restore">Restaurar</string>
+  <string name="state_mounting">A aceder ao armazenamento do router…</string>
   <string name="state_waiting">Aguarde um seg…</string>
   <string name="succeed">Concluído.</string>
   <string name="summary_err_backup_encrypting">Iniciar sessão na sua conta Mi.</string>

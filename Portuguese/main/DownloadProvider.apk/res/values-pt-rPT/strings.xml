@@ -20,6 +20,7 @@
   <string name="download_unknown_title">&lt;Sem nome&gt;</string>
   <string name="enter_garbage_clean">Limpar armazenamento interno.</string>
   <string name="insufficient_space">"Sem espaço suficiente no armazenamento interno"</string>
+  <string name="mobile_recommended_title">Utilização de dados móveis</string>
   <string name="notif_text_engine_off">O optimizador de transferências Xunlei está desactivado.</string>
   <string name="notif_text_engine_on">A optimizar…</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
@@ -52,12 +53,8 @@
   <string name="privacy_tip_content">Aumentar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores do Xunlei. Os seus detalhes da conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">Confirmar</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Utilizar a sua conexão de dados para transferir estes %s ficheiros (%s ) vai aumentar a sua utilização de dados móveis.</string>
-  <string name="recommended_file_one_in_mobile" formatted="false">Utilizar a sua conexão de dados para transferir este %s ficheiro (%s ) vai aumentar a sua utilização de dados móveis.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Não está conectado ao Wi-Fi neste momento. %s
-
-Não é possível obter a informação do tamanho do ficheiro. Para utilizar os dados móveis para transferir este ficheiro, toque %s. Para esperar e transferir este ficheiro quando estiver conectado ao Wi-Fi, toque %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Não é possível obter a informação do tamanho do ficheiro. Para utilizar os dados móveis para transferir este ficheiro, toque %s. Para esperar e transferir este ficheiro quando estiver conectado ao Wi-Fi, toque %s."</string>
+  <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Utilizar conexão de dados móveis para transferir este ficheiro?</string>
   <string name="root_downloads">Transferências</string>
   <string name="task_already_exist">A tarefa já existe</string>
   <string name="warning_tip_cancel">Transferir</string>

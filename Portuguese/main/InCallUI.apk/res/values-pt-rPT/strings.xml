@@ -51,7 +51,7 @@
   <string name="cancel">Cancelar</string>
   <string name="card_title_call_ended">"Chamada terminada "</string>  
   <string name="card_title_conf_call">Chamada em conferência</string>
-  <string name="card_title_dialing">Marcar</string>
+  <string name="card_title_dialing">A ligar</string>
   <string name="card_title_hanging_up">A desligar</string>
   <string name="card_title_in_call">Em chamada</string>
   <string name="card_title_in_call_short">Em chamada</string>
@@ -104,9 +104,8 @@
   <string name="jeejen_end_call_text">Desligar a chamada</string>
   <string name="jeejen_reject_call_text">Rejeitar chamada</string>
   <string name="jeejen_toggle_dialpad_text">Teclado</string>  
-  <string name="livetalk_left_minute">%s min. restantes</string>
-  <string name="livetalk_provider_info">Fornecido por %s</string>
-  <string name="livetalk_waiting">A aguardar…</string>    
+  <string name="livetalk_left_minute">%s Min. restantes</string>
+  <string name="livetalk_dial">Utilizar Pacote de Recarga</string>  
   <string name="manageConferenceLabel">Gerir chamada em conferência</string>
   <string name="manage_fdn_list">Lista FDN</string>  
   <string name="miprofile_stranger_card">Cartão estrangeiro</string>  
@@ -131,8 +130,8 @@
   <string name="notification_action_end_call">Desligar</string>
   <string name="notification_dialing">Marcar</string>
   <string name="notification_incoming_call">Chamada recebida</string>    
-  <string name="notification_on_hold">Em Espera</string>
-  <string name="notification_ongoing_call">Em andamento</string>  
+  <string name="notification_on_hold">Em espera</string>
+  <string name="notification_ongoing_call">Chamada actual</string>  
   <string name="notification_requesting_video_call">Pedido de vídeo recebido</string>
   <string name="ok">OK</string>  
   <string name="online_check_provider_info">Identificado por %s</string>

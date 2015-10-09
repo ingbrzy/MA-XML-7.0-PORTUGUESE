@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="passport_app_name">Conta Mi</string>
+<resources>    
     <string name="passport_account_hint_text">Email ou número de telefone</string>
     <string name="passport_phone_num_hint_text">Número de telefone</string>
     <string name="passport_login">Iniciar sessão numa conta existente</string>
@@ -16,10 +15,7 @@
     <string name="passport_captcha">Insira o código</string>
     <string name="passport_vcode">Código de verificação</string>
     <string name="passport_bad_authentication">Nome de utilizador ou palavra passe errado</string>
-    <string name="passport_welcome_skip_login"><u>Saltar este passo</u></string>
-    <string name="passport_dspt_provision">"Utilize a sua conta Mi para entrar na Nuvem Mi, Loja MIUI Temas, e outros serviços de Mi, de qualquer lugar. "</string>
-    <string name="passport_dspt_provision2">Ler mais</string>
-    <string name="passport_provision_skip_login"><u>Saltar este passo</u></string>
+    <string name="provision_skip_login"><u>Saltar este passo</u></string>        
     <string name="passport_reg_new">Criar uma conta Mi de graça</string>
     <string name="passport_error_empty_username">Insira o seu utilizador</string>
     <string name="passport_error_empty_pwd">Insira a sua palavra passe</string>
@@ -46,8 +42,8 @@
     <string name="passport_click_email_to_valid">"
 
 Para activar a conta, siga em 
- link da mensagem que enviei para a sua caixa de entrada."</string>
-    <string name="passport_resend_active_email">Reenviar email de activação</string>
+ link que enviámos para a sua caixa de entrada."</string>
+    <string name="passport_resend_active_email">Reenviar email</string>
     <string name="passport_delete_account">Terminar sessão</string>
     <string name="passport_completed">Terminar</string>
     <string name="passport_title_reg">Criar uma conta</string>
@@ -92,9 +88,9 @@ Para activar a conta, siga em
     <string name="passport_email_reg_success_summary">%1$s A sua conta foi associada. Pode utiliza-la para iniciar sessão ou para redefinir a sua palavra passe.</string>
     <string name="passport_area_code_title">Código do país</string>
     <string name="passport_area_code_hot">Frequentemente utilizado</string>
-    <string name="passport_user_agreement_p1">Concordo com </string>
+    <string name="passport_user_agreement_p1">"Concordo com "</string>
     <string name="passport_user_agreement_p2">Contrato de Utilizador</string>
-    <string name="passport_user_agreement_p3"> e </string>
+    <string name="passport_user_agreement_p3">" e "</string>
     <string name="passport_user_agreement_p4">Política De Privacidade</string>
     <string name="passport_privacy_policy">Política De Privacidade</string>
     <string name="passport_user_agreement">Contrato de Utilizador</string>
@@ -130,8 +126,8 @@ Para activar a conta, siga em
     <string name="passport_skip_register">Saltar inicio de sessão</string>
     <string name="passport_account_not_activated">A conta não foi activada</string>
     <string name="passport_change_account"><u>Altere a sua conta</u></string>
-    <string name="passport_register_account_verified_confirm">Já verificou a sua conta</string>
-    <string name="passport_register_account_goto_email">Vá à sua caixa de entrada</string>
+    <string name="passport_register_account_verified_confirm">Conta verificada</string>
+    <string name="passport_register_account_goto_email">Vá à caixa de entrada</string>
     <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
     <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
     <string name="passport_choose_which_one_sim">Escolha um número de telefone</string>
@@ -189,13 +185,13 @@ Para activar a conta, siga em
     <string name="reging">A criar conta…</string>
     <string name="micloud_area_code_title">Código do País</string>
     <string name="user_agreement_p2">Termos de Serviço</string>
-    <string name="user_agreement_p3"> e </string>
+    <string name="user_agreement_p3">" e "</string>
     <string name="user_agreement_p4">Política De Privacidade</string>
-    <string name="user_agreement_p6">Concordo com </string>
+    <string name="user_agreement_p6">"Concordo com "</string>
     <string name="privacy_policy">Política De Privacidade</string>
     <string name="user_agreement">Termos de Serviço</string>
     <string name="loading">Aguarde um seg…</string>
-    <string name="license_host_unreachable">Não é possível ligar à rede. Pode visualizar esta página em %s.</string>
+    <string name="license_host_unreachable">"Não é possível ligar à rede. Pode visualizar esta página em %s."</string>
     <string name="find_password_on_web_msg">Visite account.mi.com para repor a sua palavra passe.</string>
     <string name="relogin">Inicie sessão novamente</string>
     <string name="removing_account">Terminar sessão…</string>
@@ -326,7 +322,7 @@ Por favor insira a verificação no email"</string>
     <string name="account_learn_more_title">Crie uma Conta Mi gratuita</string>
     <string name="cloud_service_dspt">Sincronize as suas fotos, contactos, notas, aplicações, e muito mais em todos os seus dispositivos.</string>
     <string name="theme_store">Loja de Temas MIUI</string>
-    <string name="theme_store_dspt">Personalise o seu telefone obtendo gratuitamente centenas de temas personalizados e fazer o seu telefone único.</string>
+    <string name="theme_store_dspt">Personalize o seu telefone obtendo gratuitamente centenas de temas personalizados e fazer o seu telefone único.</string>
     <string name="mi_account_dspt_provision">"Iniciar sessão na Nuvem Mi, Loja MIUI Tema, e outros serviços Mi, em qualquer lugar. "</string>
     <string name="authorize_title">Autorização</string>
     <string name="my_device_title">Dispositivo actual</string>

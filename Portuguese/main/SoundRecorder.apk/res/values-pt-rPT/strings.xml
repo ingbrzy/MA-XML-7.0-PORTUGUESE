@@ -57,7 +57,7 @@
   <string name="record_download_failed">Falhou</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>
   <string name="record_download_msg_reload">Esta gravação não existe</string>
-  <string name="record_download_paused">Pausado</string>
+  <string name="record_download_paused">Em pausa</string>
   <string name="record_download_pending">Pendente</string>
   <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">A transferir…</string>
@@ -83,7 +83,7 @@
   <string name="start">Resumir</string>
   <string name="status_bar_back">Para voltar, pressione na barra de estado</string>
   <string name="status_bar_recording">A gravar…</string>
-  <string name="status_bar_recording_pause">Gravação pausada</string>
+  <string name="status_bar_recording_pause">Gravação em pausa</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
   <string name="sync_only_in_wifi_summary">O gravador irá utilizar a sua ligação de dados móveis para fazer a transferência ou recarga de gravações quando esta opção estiver desligada</string>
   <string name="sync_records">Sincronizar com a Nuvem Mi</string>

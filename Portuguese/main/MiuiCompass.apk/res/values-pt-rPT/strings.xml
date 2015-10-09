@@ -7,8 +7,7 @@
   <string name="altitude_uncalibrate_refresh">Tente novamente</string>
   <string name="altitude_uncalibrate_tip">"Não é possível calibrar altitude"</string>
   <string name="altitude_unit">M</string>
-  <string name="app_label">Bússola</string>
-  <string name="calibrate_altitude">A calibrar…</string>
+  <string name="app_label">Bússola</string>  
   <string name="calibrate_failed">Não foi possível calibrar altitude</string>
   <string name="calibrate_failed_no_location">Não foi possível calibrar</string>
   <string name="calibrate_failed_timeout">Não foi possível conectar-se ao servidor</string>
@@ -32,8 +31,7 @@
   <string name="error_camera_unavailable">Verificar se outra aplicação está a usar a Câmara neste momento.</string>
   <string name="error_camera_unavailable_title">Câmara indisponível</string>
   <string name="first_using_dialog_message">A bússola necessita de utilizar a conexão de rede, câmara e os serviços de localização do seu dispositivo para funcionar correctamente.</string>
-  <string name="first_using_dialog_title">Permissão de Acesso</string>
-  <string name="getting_location">A calibrar…</string>
+  <string name="first_using_dialog_title">Permissão de Acesso</string>  
   <string name="guide_toast">Para calibrar a bússola, mova o telefone de acordo com o movimento exibido no ecrã</string>
   <string name="latitude">LAT</string>
   <string name="location_east">Long. L</string>
@@ -45,8 +43,7 @@
   <string name="location_not_enabled_title">Activar serviços de localização</string>
   <string name="location_south">Lat. S</string>
   <string name="location_west">Long. O</string>
-  <string name="longitude">LON</string>
-  <string name="menu_calibrate">Calibrar bússola</string>
+  <string name="longitude">LON</string>  
   <string name="mobiledata_alert_dialog_message">Ligar-se à Internet para calibrar a altitude?</string>
   <string name="mobiledata_alert_dialog_title">Aviso do uso de dados</string>
   <string name="pressure">%.1f</string>
