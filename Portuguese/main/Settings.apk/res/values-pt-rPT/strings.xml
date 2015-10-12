@@ -2245,6 +2245,7 @@ possívelmente o código PIN está errado."</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sons de toque</string>
   <string name="sound_settings">Som</string>
+  <string name="sound_vibrate_settings">Som e vibração</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
   <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
@@ -2746,7 +2747,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="vpn_username">Utilizador</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
-  <string name="wakeup_for_keyguard_notification_title" />
+  <string name="wakeup_for_keyguard_notification_title">Ligar ecrã de bloqueio para notificações</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede com movimento</string>
   <string name="wallpaper_lockscreen">Bloqueio do ecrã</string>

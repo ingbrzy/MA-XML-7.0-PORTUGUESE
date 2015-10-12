@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Eliminar ficheiros seleccionados?</string>
-  <string name="alert_message_delete_record_title">Eliminar Gravação</string>
+  <string name="alert_message_delete_record_title">Eliminar gravação?</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>
   <string name="button_queue_for_wifi">Em fila</string>
@@ -27,7 +27,6 @@
   <string name="error_sdcard_access">É impossível aceder ao armazenamento interno ou externo</string>
   <string name="error_sdcard_unmounted">Insira agora o cartão SD</string>
   <string name="fm_record">Gravações do rádio (%d)</string>
-  <string name="loading_recording">A carregar</string>
   <string name="low_battery_error">Faltam menos de 5% na bateria. Para garantir que a gravação não será perdida, a gravação foi pausada e guardada.</string>
   <string name="message_file_size_error">Gravação alcançou o comprimento máximo suportado por %s</string>
   <string name="no_downloading_file">Não existem ficheiros a transferir.</string>
@@ -45,20 +44,14 @@
   <string name="preference_led_indicator">Gravar quando o ecrã bloquear</string>
   <string name="preference_led_indicator_prompt">Quando estiver a gravar, informar na barra de estado e piscar uma luz vermelha no modo ecrã bloqueado</string>
   <string name="preference_record_scenes_dialog_title">Seleccione uma gravação de cena</string>
-  <string name="preference_record_type_dialog_title">Seleccionar tipo de gravação</string>
-  <string name="preference_record_type_title">Tipo de gravação</string>
   <string name="preference_scenes">Definições das cenas</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Se deseja mostrar diálogo renomear após parar a gravação</string>
   <string name="record_back_pressed_hint">Para parar de gravar, pressione voltar novamente</string>
   <string name="record_download">Transferir de Nuvem Mi</string>
   <string name="record_download_activity">Lista de transferências</string>
-  <string name="record_download_complete">Completo</string>
-  <string name="record_download_failed">Falhou</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>
-  <string name="record_download_msg_reload">Esta gravação não existe</string>
-  <string name="record_download_paused">Em pausa</string>
-  <string name="record_download_pending">Pendente</string>
+  <string name="record_download_msg_reload">Esta gravação não existe</string>  
   <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">A transferir…</string>
   <string name="record_downloading_notification_complete">Transferência concluída</string>
