@@ -521,6 +521,8 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_msg_today">Guardados hoje</string>
   <string name="traffic_saving_need_optimize">Pode ser optmiziado</string>
   <string name="traffic_saving_notification_button_start">Activar</string>
+  <string name="traffic_saving_notify_no_apps_saving">Não existem aplicações a utilizar o economizador de dados</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Toque para ligar o economizador de dados.</string>
   <string name="traffic_saving_notify_start_content">%s guardados este mês</string>
   <string name="traffic_saving_notify_start_title">Reduza a utilização de dados</string>
   <string name="traffic_saving_one_key_optimize">Optimizar para economizar dados</string>

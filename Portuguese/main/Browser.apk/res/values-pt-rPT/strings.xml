@@ -110,7 +110,7 @@
   <string name="cannot_download">Só é possível transferir \"http\" ou \"https\" endereços</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear_history">Eliminar histórico</string>
-  <string name="clear_most_visited">Gravar histórico</string>
+  <string name="clear_most_visited">Histórico recente</string>
   <string name="clear_search_history">Eliminar histórico</string>
   <string name="clip_dialog_title">Abrir o endereço copiado?</string>
   <string name="close_ads_choice_no">Permitir</string>
@@ -248,7 +248,7 @@
   <string name="homepage_delete_card_menu">Eliminar</string>
   <string name="homepage_get_location">Obter localização</string>
   <string name="homepage_get_location_failed">"Não foi possível obter localização, escolha uma cidade"</string>
-  <string name="homepage_more_cards">Mais cartões</string>
+  <string name="homepage_more_cards">Mais serviços</string>
   <string name="homepage_more_sites">Mais websites</string>
   <string name="homepage_search_hint">Pesquisa</string>
   <string name="homepage_top_card_menu">Topo</string>
@@ -333,7 +333,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="miuishare_share_editor_title">Partilhar</string>
   <string name="miuishare_title_more">Mais</string>
   <string name="miuishare_title_share">Partilhar</string>
-  <string name="miuishare_wechat_timeline_title">Linha temporal Wechat</string>
+  <string name="miuishare_wechat_timeline_title">Linha temporal WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">É necessário armazenamento USB para modificar este caminho.</string>
   <string name="month_picker_dialog_title">Definir mês</string>
@@ -362,7 +362,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Entrada rápida do endereço</string>
   <string name="pref_adblock_counts">bloqueados %d</string>
   <string name="pref_adblock_title">Bloqueio de anúncios</string>
-  <string name="pref_auto_update_under_wifi">Actualizar automáticamente em Wi-Fi</string>
+  <string name="pref_auto_update_under_wifi">Actualizar utilizando Wi-Fi</string>
   <string name="pref_category_hint">Categorias</string>
   <string name="pref_check_security_url_summary">Enviar URL actual ao aceder a um site para o servidor detectar a sua segurança</string>
   <string name="pref_check_security_url_title">Verificação de Segurança de URL</string>
@@ -382,15 +382,15 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_content_search_engine">Definir motor de pesquisa para a barra de título</string>
   <string name="pref_content_search_engine_summary">Escolher motor de pesquisa</string>
   <string name="pref_enable_adblock_notification">Notificações de bloqueio de anúncios</string>
-  <string name="pref_enable_news">Alerta de Notícias</string>
-  <string name="pref_enable_novels">Alerta de Novidades</string>
-  <string name="pref_enable_videos">Alerta de Vídeos</string>
+  <string name="pref_enable_news">Notícias</string>
+  <string name="pref_enable_novels">Livros</string>
+  <string name="pref_enable_videos">Vídeos</string>
   <string name="pref_extras_reset_default">Restaurar para predefinidos</string>
   <string name="pref_extras_reset_default_dlg">Reverter as definições para os valores predefinidos?</string>
   <string name="pref_extras_reset_default_summary">Restaurar pré-definições</string>
   <string name="pref_extras_reset_default_title">Outra</string>
   <string name="pref_extras_title">Definições avançadas</string>
-  <string name="pref_extras_title_version">Versão</string>
+  <string name="pref_extras_title_version">Informação de versão</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Guardar ficheiros para o caminho predefinido das transferências do Navegador"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaurar o caminho predefinido</string>
   <string name="pref_file_download_default_path_prefix">Caminho predefinido: %s</string>
@@ -404,7 +404,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_general_title">Geral</string>
   <string name="pref_key_gesture_title">Botões e gestos</string>
   <string name="pref_notifications_hint">Notificações</string>
-  <string name="pref_notifications_receive">Novas Notificações de Alertas</string>
+  <string name="pref_notifications_receive">Notificações</string>
   <string name="pref_notifications_title">Notificações</string>
   <string name="pref_other_title">Outro</string>
   <string name="pref_privacy_clear_cache">Limpar cache</string>
@@ -445,7 +445,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_set_homepage_to">Definir como</string>
   <string name="pref_setting_title">Definições de página</string>
   <string name="pref_ua_string">Sequência do Agente de Utilizador</string>
-  <string name="pref_version_info">Informação de Versão</string>
+  <string name="pref_version_info">Informação de versão</string>
   <string name="pref_volume_key_action">Botões do volume: Página anterior/seguinte</string>
   <string name="private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
   <string name="profiler_error_toast">Erro ao iniciar o vídeo</string>
@@ -599,9 +599,9 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="v5_edit_mode_title_empty">0 seleccionado</string>
   <string name="v5_select_all">Seleccionar todos</string>
   <string name="version_check_failed">Erro ao verificar actualizações</string>
-  <string name="version_check_button_default">A verificar atualizações</string>
-  <string name="version_check_button_checking">A verificar</string>
-  <string name="version_check_button_downloading">A transferir</string>
+  <string name="version_check_button_default">Verificar atualizações</string>
+  <string name="version_check_button_checking">A verificar…</string>
+  <string name="version_check_button_downloading">A transferir…</string>
   <string name="version_check_button_newest">Não existem atualizações</string>
   <string name="version_check_button_no_network">Não é possível ligar à rede</string>
   <string name="version_check_button_install">Instalar</string>

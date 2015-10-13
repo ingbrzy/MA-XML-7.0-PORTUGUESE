@@ -444,7 +444,8 @@
   <string name="fdn_contacts_empty">Não existem contactos na lista NMF.</string>
   <string name="fdn_disabled">Números de marcação fixa desligado</string>
   <string name="fdn_enable_puk2_requested">Palavra-passe errada, o PIN2 está Bloqueado. Tente novamente e altere o PIN2.</string>
-  <string name="fdn_enabled">Números de marcação fixa está ligado</string>
+  <string name="fdn_enabled">Números de marcação fixa estão ligados</string>
+  <string name="fdn_full">"FDN não foi actualizado porque a lista está cheia."</string>
   <string name="fdn_failed">Erro na operação FDN.</string>
   <string name="fdn_invalid_number">NMF não foi actualizado porque o número não pode exceder 20 dígitos.</string>
   <string name="fdn_service_unavailable">Serviço FDN não disponível.</string>

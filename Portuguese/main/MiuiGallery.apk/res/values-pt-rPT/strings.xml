@@ -565,7 +565,7 @@ com os amigos"</string>
   <string name="confirm_left_photo_will_move_out">"%s não está em nenhuma das fotos restantes?"</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Unir estes álbuns com %s? &lt;/Data&gt;" "</string>
-  <string name="confirm_not_face">Não desta pessoa</string>
+  <string name="confirm_not_face">Sem correspondências</string>
   <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido para \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Tem a certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
@@ -885,7 +885,7 @@ o dispositivo"</string>
   <string name="no_such_item">Ficheiro não encontrado</string>
   <string name="no_thumbnail">Sem miniatura</string>
   <string name="none_picture">Sem imagens</string>
-  <string name="not_ask_any_more">"Não perguntar outra vez quando clicar novamente em \"%s\""</string>
+  <string name="not_ask_any_more">"Não perguntar outra vez por \"%s\" respostas"</string>
   <string name="not_auto_create_recent_album">Anular criar favoritos</string>
   <string name="not_is">Não</string>
   <string name="not_now">Agora não</string>
@@ -910,7 +910,7 @@ o dispositivo"</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_secret">Remover álbum secreto</string>
   <string name="operation_rename">Renomear</string>
-  <string name="operation_rename_baby">Introduzir nome do bebé</string>
+  <string name="operation_rename_baby">Introduzir nome</string>
   <string name="operation_set_as_screensaver">Definir como protecção de ecrã</string>
   <string name="operation_share">Partilhar</string>
   <string name="operation_successful">Concluído</string>
