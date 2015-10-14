@@ -558,23 +558,23 @@ Tente novamente em %d segundos."</string>
   <string name="locale_codes" />
   <string name="locale_replacement" />
   <string name="lock_pattern_view_aspect">quadrado</string>
-  <string name="lock_to_app_description">Prender o ecrã bloqueia o ecrã numa vista única.
+  <string name="lock_to_app_description">Fixação do ecrã bloqueia o ecrã numa vista única.
 
-Para desprender, toque e segure os botões Voltar e Recentes ao mesmo tempo."</string>
-  <string name="lock_to_app_description_accessible">Prender o ecrã bloqueia o ecrã numa vista única.
+Para soltar, toque e segure os botões Voltar e Recentes ao mesmo tempo."</string>
+  <string name="lock_to_app_description_accessible">Fixação do ecrã bloqueia o ecrã numa vista única.
 
-Para desprender, toque e segure o botão Recentes.</string>
-  <string name="lock_to_app_exit">Ecrã desprendido</string>
+Para soltar, toque e segure o botão Recentes.</string>
+  <string name="lock_to_app_exit">Ecrã solto</string>
   <string name="lock_to_app_negative">NÃO, OBRIGADO</string>
   <string name="lock_to_app_positive">INICIAR</string>
   <string name="lock_to_app_start">Ecrã prendido</string>
-  <string name="lock_to_app_title">Utilizar o Prender o Ecrã?</string>
-  <string name="lock_to_app_toast">Para desprender este ecrã, toque e segure os botões Voltar e Recentes ao mesmo tempo.</string>
-  <string name="lock_to_app_toast_accessible">Para desprender este ecrã, toque e segure o botão Recentes.</string>
-  <string name="lock_to_app_toast_locked">Ecrã está prendido. Desprender Ecrã não é permitido pela sua organização.</string>
-  <string name="lock_to_app_unlock_password">Pedir por palavra-passe antes de desprender o ecrã</string>
-  <string name="lock_to_app_unlock_pattern">Pedir por padrão de desbloqueio antes de desprender o ecrã</string>
-  <string name="lock_to_app_unlock_pin">Pedir PIN antes de desprender o ecrã</string>
+  <string name="lock_to_app_title">Utilizar a Fixação do ecrã?</string>
+  <string name="lock_to_app_toast">Para soltar este ecrã, toque e segure os botões Voltar e Recentes ao mesmo tempo.</string>
+  <string name="lock_to_app_toast_accessible">Para soltar este ecrã, toque e segure o botão Recentes.</string>
+  <string name="lock_to_app_toast_locked">Ecrã fixado. Soltar o ecrã não é permitido pela sua organização.</string>
+  <string name="lock_to_app_unlock_password">Pedir por palavra-passe antes de soltar o ecrã</string>
+  <string name="lock_to_app_unlock_pattern">Pedir por padrão de desbloqueio antes de soltar o ecrã</string>
+  <string name="lock_to_app_unlock_pin">Pedir PIN antes de soltar o ecrã</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Sequência eliminada</string>
   <string name="lockscreen_access_pattern_detected">Sequência concluída</string>
