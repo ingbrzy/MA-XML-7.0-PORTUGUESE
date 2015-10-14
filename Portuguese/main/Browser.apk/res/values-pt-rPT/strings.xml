@@ -447,6 +447,8 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_ua_string">Sequência do Agente de Utilizador</string>
   <string name="pref_version_info">Informação de versão</string>
   <string name="pref_volume_key_action">Botões do volume: Página anterior/seguinte</string>
+  <string name="pref_weather_location_summary">"Utilizado pelo plug-in do tempo do navegador"</string>
+  <string name="pref_weather_location_title">Localização do tempo</string>
   <string name="private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
   <string name="profiler_error_toast">Erro ao iniciar o vídeo</string>
   <string name="profiler_no_storage_toast">Não é possível iniciar o vídeo porque o armazenamento externo não está pronto</string>
@@ -532,7 +534,8 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="select_download_device">Seleccionar dispositivo</string>
   <string name="share_page_text">Estou a divertir-me 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">O URL deste website será enviado para os servidores do Xiaomi para se certificar de que é seguro. Pode desactivar esse recurso a qualquer momento em Definições.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Verifique a segurança do URL</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Termos do Serviço</string>
+  <string name="show_weather_location_getter_tip_dialog_description">Serviços do tempo necessitam da sua informação de localização para lhe dar informação actualizada do tempo no seu navegador. Pode desligar este recurso nas Definições.</string>
   <string name="sign_in_to" formatted="false">Iniciar sessão em %s1 \"%s2\"</string>
   <string name="skip_button_label">Saltar</string>
   <string name="skip_current_version">Saltar esta versão</string>

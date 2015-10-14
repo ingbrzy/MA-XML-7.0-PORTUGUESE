@@ -15,14 +15,14 @@
   <string name="alter_message_open_hide_title">Gerir utilização da bateria pelas aplicações?</string>
   <string name="alter_message_switch_mode">Alternar modos?</string>
   <string name="alter_message_switch_mode_message">Quando você alternar os modos, as definições anteriores não serão aplicáveis a esta aplicação.</string>
-  <string name="app_frozen_app_list_summary">Definições de Aplicações</string>
-  <string name="app_list_title">Escolher aplicações para restringir</string>
+  <string name="app_frozen_app_list_summary">Aplicações em segundo plano</string>
+  <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Economizador de bateria</string>
   <string name="background">Aplicação está a correr em segundo plano</string>
   <string name="config_custom_description">Quando necessitar menos do que esperado, utilize uma configuração personalizada</string>
   <string name="config_custom_title">Personalizado</string>
   <string name="config_suggest_description">Para aplicações, utilizar configurações de economia de energia</string>
-  <string name="config_suggest_title">Sugestões MIUI</string>
+  <string name="config_suggest_title">Sugerido</string>
   <string name="disabled">Desligado</string>
   <string name="empty_title_apps_container_list">Sem aplicações</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo.</string>
@@ -41,7 +41,7 @@
   <string name="location_disable_title">Proíbido</string>
   <string name="location_enable_description">Aplicações podem utilizar o serviço de localização em segundo plano</string>
   <string name="location_enable_title">Permitir</string>
-  <string name="location_mode_title">Localização em Segundo Plano</string>
+  <string name="location_mode_title">Localização em segundo plano</string>
   <string name="low">Poupança de bateria</string>
   <string name="low_power_auto_title">Restringir aplicações quando a bateria está fraca</string>
   <string name="media">Modo multimédia</string>

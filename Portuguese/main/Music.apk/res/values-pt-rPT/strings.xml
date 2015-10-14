@@ -91,7 +91,7 @@
   <string name="disable_auto_payment_fail">"Não foi possível desligar"</string>
   <string name="disable_auto_payment_fail_message">"Não foi possível desligar a renovação e pagamento automático"</string>
   <string name="disable_auto_payment_success">Desligado</string>
-  <string name="disable_auto_payment_success_message">Renovação e pagamento automático desligado. A sua subscrição não irá ser renovada após o próximo pagamento estar vencido.</string>
+  <string name="disable_auto_payment_success_message">"Renovação automática desligada.  Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas."</string>
   <string name="disallow_add_to_personal_radio">O rádio pessoal é apenas de leitura</string>
   <string name="done">Concluido</string>
   <string name="download">Transferência</string>
@@ -121,9 +121,9 @@
   <string name="empty_page_no_document">Sem ficheiros áudio</string>
   <string name="empty_page_no_track">Sem músicas</string>
   <string name="enable_auto_payment_fail">"Não foi possível ligar"</string>
-  <string name="enable_auto_payment_fail_message">"Não foi possível ligar a renovação e pagamento automático"</string>
+  <string name="enable_auto_payment_fail_message">"Não foi possível ligar a renovação automática"</string>
   <string name="enable_auto_payment_success">Renovar automaticamente</string>
-  <string name="enable_auto_payment_success_message">Renovação e pagamento automático ligado. Próximo pagamento é em %s.</string>
+  <string name="enable_auto_payment_success_message">Renovação automática ligada. Próximo pagamento vence em %s.</string>
   <string name="enabled">Ligado</string>
   <string name="english_female">Cantoras (EUA/Europa)</string>
   <string name="english_group">Bandas (EUA/Europa)</string>
@@ -191,7 +191,7 @@
   <string name="handle_later">Agora não</string>
   <string name="headset_settings">Auscultadores e efeitos de áudio</string>
   <string name="high_quality">Alta</string>
-  <string name="higher_quality_music">Música de ultra qualidade</string>
+  <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Fluxo e Transferência de música a taxas de bits mais elevadas</string>
   <string name="home_tab_local">Minha Música</string>
   <string name="home_tab_online">Descobrir</string>
@@ -467,7 +467,7 @@
   <string name="vip_auto_renew_title">Renovação de subscrição</string>
   <string name="vip_recommend_title">Obter música de alta qualidade</string>
   <string name="vip_renew_message">"Não vai poder desfrutar de áudio de alta qualidade, mas ainda consegue fazer stream de músicas na qualidade normal."</string>
-  <string name="vip_renew_notification_message">"Não vai poder desfrutar de áudio de alta qualidade depois da sua subscrição expirar."</string>
+  <string name="vip_renew_notification_message">"Não vai poder fazer stream de áudio de alta qualidade depois da sua subscrição expirar."</string>
   <string name="vip_renew_notification_title">Subscrição expira amanhã</string>
   <string name="vip_renew_title">Subscrição expirada</string>
   <string name="vip_required">Desculpe, é necessário VIP</string>

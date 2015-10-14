@@ -46,6 +46,7 @@
   <string name="query_level_fail">Não foi possível obter informações</string>
   <string name="query_user_tasks_fail">Não é possível obter informação do desafio</string>
   <string name="seconds">%ds</string>
+  <string name="start_activity_error">"Não foi possível iniciar a aplicação: %s"</string>
   <string name="take_awarded_package">Resgatar</string>
   <string name="take_awarded_package_failed">Não foi possível resgatar o presente. Espere um minuto ou dois e tente novamente.</string>
   <string name="task">Desafios</string>

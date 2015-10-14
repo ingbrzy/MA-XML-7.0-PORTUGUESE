@@ -8,6 +8,12 @@
   <string name="button_start_now">Transferir</string>
   <string name="call_record">Gravações de chamadas (%d)</string>
   <string name="cloud_record">%d sincronizado</string>
+  <string name="cloud_record_open">Sincronizar gravações</string>
+  <string name="cloud_record_tip">Sincronizar gravações com a Nuvem Mi.</string>
+  <string name="cloud_status_full_dialog_cancel">Agora não</string>
+  <string name="cloud_status_full_dialog_msg">"O seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Melhore a sua conta para ter mais espaço de armazenamento."</string>
+  <string name="cloud_status_full_dialog_ok">Melhorar</string>
+  <string name="cloud_status_full_dialog_title">Armazenamento na Nuvem Mi cheio</string>
   <string name="data_connection_body">Utilizando a sua ligação de dados móveis para transferir este ficheiro irá aumentar a sua utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Aviso de utilização de dados</string>
@@ -29,7 +35,6 @@
   <string name="fm_record">Gravações do rádio (%d)</string>
   <string name="low_battery_error">Faltam menos de 5% na bateria. Para garantir que a gravação não será perdida, a gravação foi pausada e guardada.</string>
   <string name="message_file_size_error">Gravação alcançou o comprimento máximo suportado por %s</string>
-  <string name="no_downloading_file">Não existem ficheiros a transferir.</string>
   <string name="no_file">vazio</string>
   <string name="notification_message_all_paused">Pode aumentar o uso de dados móveis.</string>
   <string name="notification_playback">Em reprodução…</string>
@@ -49,10 +54,9 @@
   <string name="preference_tip_rename">Se deseja mostrar diálogo renomear após parar a gravação</string>
   <string name="record_back_pressed_hint">Para parar de gravar, pressione voltar novamente</string>
   <string name="record_download">Transferir de Nuvem Mi</string>
-  <string name="record_download_activity">Lista de transferências</string>
+  <string name="record_download_complete">Transferido</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>
   <string name="record_download_msg_reload">Esta gravação não existe</string>  
-  <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">A transferir…</string>
   <string name="record_downloading_notification_complete">Transferência concluída</string>
   <string name="record_downloading_notification_count">%d transferir</string>
@@ -81,7 +85,6 @@
   <string name="sync_only_in_wifi_summary">O gravador irá utilizar a sua ligação de dados móveis para fazer a transferência ou recarga de gravações quando esta opção estiver desligada</string>
   <string name="sync_records">Sincronizar com a Nuvem Mi</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_file_is_downloading">Este ficheiro está a ser transferido, por favor aguarde</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
   <string name="toast_uninstall_fileexplorer">Explorador de ficheiros não instalado</string>
   <string name="wifi_recommended_body" formatted="false">Utilizando a sua ligação de dados móveis para transferir este ficheiro (%s) irá aumentar a utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais. Para aguardar uma ligação Wi-Fi para transferir este ficheiro, pressione em %s.</string>
