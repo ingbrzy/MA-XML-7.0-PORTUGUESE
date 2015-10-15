@@ -34,7 +34,7 @@
   <string name="atmd_music">Final</string>
   <string name="audio_picker_title">Seleccionar a Música</string>
   <string name="auto_download_in_wifi">Transferir as músicas favoritas por WiFi</string>
-  <string name="auto_payment">Renovar automaticamente</string>
+  <string name="auto_payment">Renovação automática</string>
   <string name="auto_payment_date">Próximo pagamento: %s</string>
   <string name="avail_services">Disponível</string>
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
@@ -89,7 +89,7 @@
   <string name="dialog_title_remove_tracks">Remover</string>
   <string name="dialog_title_track_picker">Escolher músicas</string>
   <string name="disable_auto_payment_fail">"Não foi possível desligar"</string>
-  <string name="disable_auto_payment_fail_message">"Não foi possível desligar a renovação e pagamento automático"</string>
+  <string name="disable_auto_payment_fail_message">"Não foi possível desligar a renovação automática"</string>
   <string name="disable_auto_payment_success">Desligado</string>
   <string name="disable_auto_payment_success_message">"Renovação automática desligada.  Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas."</string>
   <string name="disallow_add_to_personal_radio">O rádio pessoal é apenas de leitura</string>
@@ -466,7 +466,7 @@
   <string name="vip_auto_renew_notification_title">Pagamento de subscrição</string>
   <string name="vip_auto_renew_title">Renovação de subscrição</string>
   <string name="vip_recommend_title">Obter música de alta qualidade</string>
-  <string name="vip_renew_message">"Não vai poder desfrutar de áudio de alta qualidade, mas ainda consegue fazer stream de músicas na qualidade normal."</string>
+  <string name="vip_renew_message">"Não vai poder fazer stream de áudio de alta qualidade, mas ainda consegue fazer stream de músicas na qualidade normal."</string>
   <string name="vip_renew_notification_message">"Não vai poder fazer stream de áudio de alta qualidade depois da sua subscrição expirar."</string>
   <string name="vip_renew_notification_title">Subscrição expira amanhã</string>
   <string name="vip_renew_title">Subscrição expirada</string>

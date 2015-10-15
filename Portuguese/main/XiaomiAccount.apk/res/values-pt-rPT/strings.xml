@@ -52,7 +52,7 @@ Para activar a conta, siga em
     <string name="passport_login_failed">Não é possível iniciar sessão</string>
     <string name="passport_verification_failed">Autenticação falhou</string>
     <string name="passport_error_network">Não é possível ligar à rede</string>
-    <string name="passport_error_ssl_hand_shake">Erro com a ligação ao servidor.</string>
+    <string name="passport_error_ssl_hand_shake">"Não é possível ligar ao servidor"</string>
     <string name="passport_error_device_id">Não é possível obter id do dispositivo</string>
     <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
     <string name="passport_error_phone_error">Núnero de telefone inválido</string>
