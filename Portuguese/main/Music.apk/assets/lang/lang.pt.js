@@ -6,7 +6,7 @@
     "being_disable_auto_payment": "A desligar…",
     "being_enable_auto_payment": "A ligar…",
     "confirm_to_renew": "Renovar",
-    "disable_auto_payment_fail": "Não foi possível desligar"</string>
+    "disable_auto_payment_fail": "Não foi possível desligar",
     "disable_auto_payment_fail_message": "Não foi possível desligar a renovação automática",
     "disable_auto_payment_success": "Desligado",
     "disable_auto_payment_success_message": "Renovação automática desligada.  Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas.",
