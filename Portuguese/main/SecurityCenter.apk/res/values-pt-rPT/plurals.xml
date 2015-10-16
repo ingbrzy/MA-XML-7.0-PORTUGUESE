@@ -13,12 +13,12 @@
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d aplicações podem iniciar automáticamente</item>
-        <item quantity="one">%d aplicação pode iniciar automáticamente</item>
+        <item quantity="other">%d aplicações podem iniciar automaticamente</item>
+        <item quantity="one">%d aplicação pode iniciar automaticamente</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d aplicações não são permitidas de iniciar automáticamente</item>
-        <item quantity="one">%d aplicação não é permitida de iniciar automáticamente</item>
+        <item quantity="other">%d aplicações não podem iniciar automaticamente</item>
+        <item quantity="one">%d aplicação não pode iniciar automaticamente</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permissões</item>
