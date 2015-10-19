@@ -80,6 +80,19 @@ Nota: Pressionar três vezes para ampliar funciona em todos os lugares excepto 
   <string name="add_auto_startup_application">Adicionar aplicações de inicio automático</string>
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
+  <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital.</string>
+  <string name="add_fingerprint_done_title">Feito!</string>
+  <string name="add_fingerprint_finished_button_text">Feito</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital, coloque o seu dedo no sensor.
+Certifique-se que o seu dedo cobre a todo o sensor"</string>
+  <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
+  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no digitalizador de impressão digital</string>
+  <string name="add_fingerprint_move_finger_title">Remova o dedo</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Depois de pressionar o sensor, remova o dedo, e repita novamente.</string>
+  <string name="add_fingerprint_put_finger_msg">Depois de pressionar o sensor, remova o dedo, e repita novamente.</string>
+  <string name="add_fingerprint_put_finger_title">Coloque o dedo</string>
+  <string name="add_fingerprint_text">Adicionar impressão digital</string>
+  <string name="add_fingerprint_toast_text">Coloque o seu dedo no digitalizador agora</string>
   <string name="additional_system_update" />
   <string name="additional_system_update_menu" />
   <string name="additional_system_update_settings_list_item_title">Outras actualizações adicionais do sistema</string>
@@ -184,7 +197,9 @@ Nota: Pressionar três vezes para ampliar funciona em todos os lugares excepto 
   <string name="applications_settings">Aplicações instaladas</string>
   <string name="applications_settings_header">Definições das aplicações</string>
   <string name="applications_settings_summary">Gerir aplicações, configurar controlos de inicialização rápida</string>
-  <string name="apply_now_button_text">Actualização</string>
+  <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
+  <string name="apply_now_button_text">Actualizar</string>
+  <string name="apply_password_to_category_title">Aplicar palavra-passe a…</string>
   <string name="apply_update_fail">Erro na actualização</string>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
   <string name="apps_with_restrictions_settings_button">Aplicar as definições para as aplicações</string>
@@ -774,6 +789,10 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="default_input_method">Escolher teclado predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
+  <string name="delete_fingerprint_text">Remover impressão digital</string>
+  <string name="delete_legacy_fingerprint">Eliminar</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar dados da impressão digital?</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -989,6 +1008,11 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus dese
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferido</string>
   <string name="filter_dlg_title">Seleccionar opções do filtro</string>
+  <string name="fingerprint_and_password_entrance_title">Palavra-passe e impressão digital</string>
+  <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
+  <string name="fingerprint_identify_input_password_msg">Introduza palavra-passe</string>
+  <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
+  <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar a paragem</string>
   <string name="finish_button_label">Terminar</string>
   <string name="firmware_version">Versão do Android</string>
@@ -1134,6 +1158,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus dese
   <string name="incoming_call_breathing_light_color_title">Cor do LED nas chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
   <string name="incoming_call_volume_title">Toques</string>
+  <string name="information_dialog_button_text">Entendi</string>
   <string name="input_method">Teclado</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
@@ -1179,6 +1204,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus dese
   <string name="join_many_items_last">%1$s e %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s e %2$s</string>
+  <string name="keep_legacy_fingerprint">Manter</string>
   <string name="keep_screen_on">Ecrã activo</string>
   <string name="keep_screen_on_summary">O ecrã nunca entrará em inactividade enquanto estiver a carregar</string>
   <string name="kernel_version">Versão do kernel</string>
@@ -1413,6 +1439,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta operação!</string>
   <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
+  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
   <string name="media_button">Botão de multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
   <string name="media_format_button_text">Formatar armaz. USB</string>
@@ -1691,6 +1718,7 @@ o %1$s reprodutor de música vai aparecer automaticamente no seu computador"</st
   <string name="page_layout_small_title">Muito pequeno</string>
   <string name="password_guard">Palavra-passe</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está errada</string>
+  <string name="password_entrance_title">Palavra-passe</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Desempenho do sistema</string>
   <string name="permission_detail_info">Ver detalhes de permissão</string>
@@ -2114,7 +2142,8 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">wallpaper</string>
   <string name="search_wifi">wifi</string>
-  <string name="search_wifi_display">mostrar wi-fi</string>
+  <string name="search_wifi_display">wifi display</string>
+  <string name="secure_keyguard_business_title">Palavra-passe de bloqueio de ecrã</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
@@ -2476,9 +2505,11 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="tts_status_ok">%1$s é totalmente compatível</string>
   <string name="tts_status_requires_network">%1$s necessita de uma ligação de rede</string>
   <string name="tts_status_title">Estado do idioma predefinido</string>
+  <string name="turn_off_common_password_confirm_msg">A palavra-passe irá ser desligada também.</string>
   <string name="turn_off_radio">Desligar o rádio</string>
   <string name="turn_off_security_lock">Desactivar bloqueio</string>
   <string name="turn_on_radio">Ligar o rádio</string>
+  <string name="turn_on_security_lock">Adicionar palavra-passe de segurança</string>
   <string name="under_keyguard">Bloqueio do ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>

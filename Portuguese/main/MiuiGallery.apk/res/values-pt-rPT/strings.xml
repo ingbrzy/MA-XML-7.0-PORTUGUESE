@@ -114,10 +114,13 @@
   <string name="black_white">Preto e branco</string>
   <string name="brannan">Manhã</string>
   <string name="browse_category">Mostrar</string>
+  <string name="buy_member_tip">tornar-se membro.</string>
   <string name="by_email">Email</string>
   <string name="by_others">Outros</string>
   <string name="by_sms">Mensagem de texto</string>
   <string name="byteShort">B</string>
+  <string name="calculated_pictures_time_tip">Fotos organizadas de %1$s até agora. As fotos restantes irão ser organizadas gradualmente. Para acelerar este processo, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_vip">Fotos organizadas de %1$s até agora. As fotos restantes irão ser organizadas em breve.</string>
   <string name="camera_black_white">Preto e branco</string>
   <string name="camera_connected">Câmara activa</string>
   <string name="camera_disconnected">Câmara desactiva</string>
@@ -1162,6 +1165,7 @@ o dispositivo"</string>
   <string name="view_baby_album">Ver álbum do bebé</string>
   <string name="view_baby_info">Editar informação do bebé</string>
   <string name="view_face_album">Ver álbum</string>
+  <string name="view_queuing_status">Verificar estado</string>
   <string name="view_sharers">Mostrar partilhados</string>
   <string name="vignette">Vinheta</string>
   <string name="vignette_polymorphism">photoeditor_effect_vignette</string>

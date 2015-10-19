@@ -13,7 +13,7 @@
   <string name="apn_exception_summary">Testar ponto de acesso da operadora</string>
   <string name="apn_exception_title">Verifique as configurações de APN</string>
   <string name="app_detail">Detalhes</string>
-  <string name="app_mobile">Dados</string>
+  <string name="app_mobile">Telemóvel</string>
   <string name="app_name">Utilização de dados</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
@@ -109,7 +109,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="firewall_network_restrict_notify_message">Pressione para alterar definições.</string>  
   <string name="firewall_network_restrict_notify_mobile">Dados móveis</string>
   <string name="firewall_network_restrict_notify_title">"%1$s não pode utilizar %2$s."</string>
-  <string name="firewall_rule_group_title_mobile">Dados</string>
+  <string name="firewall_rule_group_title_mobile">Telemóvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s foi restringido de utilizar %2$s redes</string>
@@ -197,10 +197,6 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Detalhes do Framework</string>
   <string name="mian_page_primary_txt">Internacional roaming</string>
-  <string name="miuishare_title_more">Mais</string>
-  <string name="miuishare_title_share">Partilhar</string>
-  <string name="miuishare_wechat_timeline_title">Tempo ligado a Wechat</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Pressione para ver os detalhes.</string>
   <string name="network_assistant_upgraded_title">Actualização concluída</string>
   <string name="network_blocked_connected_open_wifi">Ligado a uma rede pública</string>
@@ -215,8 +211,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
 
  2. Se acabou o tempo do saldo do seu dispositivo, reinicie o seu dispositivo e tente novamente.
 
- 3. O sinal a rede da rede da sua operadora pode ser fraco na sua localização actual."</string>
-  <string name="network_not_available">Não é possível ligar à rede</string>
+ 3. O sinal a rede da rede da sua operadora pode ser fraco na sua localização actual."</string>  
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora.</string>
   <string name="network_permission_exception_tips">Não é possível utilizar dados móveis para ligar à rede</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming ligar à rede.</string>
@@ -251,7 +246,6 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="network_speed_for_apps_total">Velocidade da conexão</string>
   <string name="networkchanged_exception_summary">A ligação de rede foi alterada. Por favor, teste novamente.</string>  
   <string name="networkchanged_exception_title">Ligação alterada</string>
-  <string name="no_network_btn">Tente novamente</string>
   <string name="none_mi_service_app_detail">Vazio</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal.</string>
   <string name="notify_daily_limit_body">Toque para definir o limite de dados.</string>
@@ -506,16 +500,16 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_button_start">Activar</string>
   <string name="traffic_saving_button_stop">Desactivar</string>
   <string name="traffic_saving_can_optimized">Optimizar</string>
+  <string name="traffic_saving_detail">Detalhes</string>
   <string name="traffic_saving_history_title">Histórico</string>
   <string name="traffic_saving_history_total_money">Total guardado</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Guardados este mês: "</string>
   <string name="traffic_saving_history_total_month_default">Média de poupança por mês</string>
-  <string name="traffic_saving_history_total_month_value"/>
-  <string name="traffic_saving_history_total_month_value_default"/>
   <string name="traffic_saving_history_total_rate">Avaliação</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Dados guardados</string>
+  <string name="traffic_saving_mobile_usage">Utilização dados móveis</string>
   <string name="traffic_saving_msg_month">Guardados este mês</string>
   <string name="traffic_saving_msg_not_started">Economizador de dados está desligado</string>
   <string name="traffic_saving_msg_today">Guardados hoje</string>
@@ -535,6 +529,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar Economizador de Dados automaticamente para reduzir a utilização de dados das aplicações.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Se tiver um plano de dados mensal, lembre-se de desligar o Economizador de dados para aplicações individuais para evitar gastos adicionais na sua operadora.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activar</string>
   <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
+  <string name="traffic_saving_tecsupport_international">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_title">Economizador de dados</string>
   <string name="traffic_saving_toast_start_mobile">Economizador de dados está ligado</string>
   <string name="traffic_saving_toast_start_none_mobile">O Economizador de dados será iniciado quando começar a utilizar os dados móveis</string>
@@ -547,6 +542,7 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_whitelist_btn_removed">Aplicação removida da lista</string>
   <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'>%1$d&lt;/font> não estão a ser restringidos a utilização de dados das aplicações"</string>
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
+  <string name="traffic_saving_wifi_usage">Utilização de Wi-Fi</string>
   <string name="traffic_setting_app_count">%d aplicações</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Definir plano de dados e limite de utilização</string>

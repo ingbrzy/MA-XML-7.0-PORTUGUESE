@@ -1,4 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Leitor de HTML</string>
+  <string name="app_name_which_call">Aplicação:%s</string>
+  <string name="app_version_which_call">Versão de Aplicação:%s</string>
+  <string name="license_host_unreachable">"Não foi possível conectar à rede. Para ver esta informação agora, 
+vá a %s"</string>
+  <string name="loading">A carregar…</string>
+  <string name="mibi_license">Termos do Serviço dos Créditos Mi</string>
+  <string name="policy_name">Condições:%s</string>
 </resources>
