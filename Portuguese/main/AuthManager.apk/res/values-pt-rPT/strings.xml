@@ -143,7 +143,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Network_UnknownAddr">Endereço desconhecido</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Mostrar notificações</string>
-  <string name="HIPS_Perm_Notification_Desc">mostrar notificações nas notificações sombra</string>
+  <string name="HIPS_Perm_Notification_Desc">mostrar notificações na área de notificações</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplicações podem mostrar notificações</string>
   <string name="HIPS_Perm_PhoneID">Ler a identidade do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Desc">Ler o IMEI e IMSI do dispositivo</string>

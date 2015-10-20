@@ -61,6 +61,7 @@
   <string name="androidesk_wallpapers">Papéis de parede Android</string>
   <string name="aperture">Abertura</string>
   <string name="app_name">Galeria</string>
+  <string name="app_name_edit_picture">Editar imagem</string>
   <string name="app_name_view_picture">Ver imagem</string>
   <string name="apply">Aplicar</string>
   <string name="appwidget_empty_text">Sem fotos</string>
@@ -120,6 +121,7 @@
   <string name="by_sms">Mensagem de texto</string>
   <string name="byteShort">B</string>
   <string name="calculated_pictures_time_tip">Fotos organizadas de %1$s até agora. As fotos restantes irão ser organizadas gradualmente. Para acelerar este processo, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Fotos organizadas de %1$s até agora. As fotos restantes irão ser organizadas gradualmente.</string>
   <string name="calculated_pictures_time_tip_for_vip">Fotos organizadas de %1$s até agora. As fotos restantes irão ser organizadas em breve.</string>
   <string name="camera_black_white">Preto e branco</string>
   <string name="camera_connected">Câmara activa</string>
@@ -930,8 +932,8 @@ o dispositivo"</string>
   <string name="paint_crop_cancel_context">Deseja guardar o resultado recortado?</string>
   <string name="paint_crop_cancel_title">Abandonar as alterações</string>
   <string name="paint_crop_tips">Coloque a área alvo da imagem perto do centro da grade.</string>
-  <string name="paint_highlight">Realçar</string>
-  <string name="paint_highlight_cancel_context">Gravar a imagem realçada?</string>
+  <string name="paint_highlight">Rabiscos</string>
+  <string name="paint_highlight_cancel_context">Gravar os rabiscos?</string>
   <string name="paint_highlight_cancel_title">Abandonar alterações</string>
   <string name="path">Caminho</string>
   <string name="people">Pessoas</string>

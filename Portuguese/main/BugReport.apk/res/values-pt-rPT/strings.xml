@@ -11,9 +11,9 @@
   <string name="bugreport_dump_complete_notification_title">Relatório de erros criado com êxito</string>
   <string name="bugreport_dump_start_notification_summary">Isto leva vários minutos.</string>
   <string name="bugreport_dump_start_notification_title">A criar relatório de erros…</string>
-  <string name="bugreport_tool_log">Create bug report</string>
-  <string name="bugreport_tool_log_toast">Log saved to %s</string>
-  <string name="bugreport_tool_log_toast_generate_bugreport">A criar relatório de erro (Leva cerca de um minuto)</string>
+  <string name="bugreport_tool_log">Criar relatório de erros</string>
+  <string name="bugreport_tool_log_toast">Registo gravado para %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">A criar relatório de erros (Leva cerca de um minuto)</string>
   <string name="common_problem_empty">Vazio</string>
   <string name="cta_cancel">Cancelar</string>
   <string name="cta_confirm">OK</string>
@@ -72,7 +72,7 @@
   <string name="submit_dialog_title">Enviar relatório para a Xiaomi</string>
   <string name="suggestion_description">Adicione aqui a descrição</string>
   <string name="system_app_select">Aplicações integradas</string>
-  <string name="systemui">Notificação sombra</string>
+  <string name="systemui">Área de notificações</string>
   <string name="title_nonsystem_app">Outras aplicações</string>
   <string name="title_system_app">Aplicações MIUI</string>
   <string name="toast_description_required">É necessário descrever a situação</string>

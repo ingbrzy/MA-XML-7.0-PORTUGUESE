@@ -3,12 +3,16 @@
   <string name="all_call_livetalk_enable">Utilizar pacotes de recarga para chamadas nacionais e internacionais</string>
   <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s Nacionais) | (%2$s %3$s)</string>
   <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
+  <string name="apply_password_action">Definir palavra-passe</string>
+  <string name="apply_password_confirm_dlg_msg">Exigir palavra-passe para %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Esta palavra-passe irá ser utilizada para %s</string>
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>
   <string name="call_record_or">" ou "</string>
   <string name="call_record_sample_prefix_miui">Chamada</string>
   <string name="caller_info_name_delimiter">" ou "</string>
+  <string name="cancel_action">Cancelar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analizar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial.</string>
@@ -63,6 +67,9 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada.</string>
   <string name="select">Selecionar</string>
   <string name="select_all">Selecionar tudo</string>
+  <string name="set_password_action">Definir palavra-passe</string>
+  <string name="set_password_message">Definir uma nova palavra-passe?</string>
+  <string name="set_password_title">Definir palavra-passe</string>
   <string name="shutdown_confirm_title">O seu telefone vai-se desligar.</string>
   <string name="shutdown_progress">A desligar…</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>

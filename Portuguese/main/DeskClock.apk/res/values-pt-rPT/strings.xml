@@ -85,6 +85,8 @@
   <string name="shutdown_alarm_enable_summary">Desligar o alarme quando está activo</string>
   <string name="shutdown_alarm_title">Desligar alarme</string>
   <string name="silent_alarm_summary">Silêncio</string>
+  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_once_hint">Desligar quando chegar a %s</string>
   <string name="slider_text">Deslize para cima para desligar</string>
   <string name="snooze_confirm_cancel">Cancelar suspensão</string>
   <string name="snooze_duration_title">Duração da suspensão</string>
@@ -108,7 +110,11 @@
   <string name="timer_notify_text">Suspender ou desactivar o temporizador.</string>
   <string name="timer_start_alarm">Terminou o tempo</string>
   <string name="timer_title">Temporizador</string>
-  <string name="timezone_exist_error_message">Já está a mostrar este horário</string>
+  <string name="timezone_exist_error_message">Já está a mostrar este fuso horário</string>
+  <string name="today">Hoje</string>
+  <string name="tomorrow">Amanhã</string>
+  <string name="turn_off_a_repeat_alarm">Desligar um alarme que repete</string>
+  <string name="turn_off_this_repeat_alarm">Desligar este alarme que repete</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>
   <string name="volume_button_setting_summary">Definir a função dos botões do volume durante o alarme</string>

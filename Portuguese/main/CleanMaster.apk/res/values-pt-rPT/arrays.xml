@@ -48,4 +48,9 @@
         <item>Copiar e desinstalar</item>
         <item>Desinstalar</item>
     </string-array>
+	<string-array name="auto_alert_apps_time">
+        <item>A cada 7 dias</item>
+        <item>A cada 15 dias</item>
+        <item>A cada 30 dias</item>
+    </string-array>
 </resources>

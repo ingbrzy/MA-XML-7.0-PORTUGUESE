@@ -351,8 +351,8 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"&lt;b> 1. Se activar o Economizador de Dados irá afectar a minha privacidade? &lt;/b>&lt;br />&lt;br />&lt;br />Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br />&lt;br />&lt;br />&lt;b>2. Porque não está o  Economizador de Dados a funcionar? &lt;/b>&lt;br />&lt;br /> O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
   <string name="pref_traffic_saving_no_compress">Sem compressão</string>
-  <string name="pref_traffic_saving_notify_switch">Mostrar na notificação sombra</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Mostrar informação do Economizador de Dados na notificação sombra</string>
+  <string name="pref_traffic_saving_notify_switch">Mostrar na área de notificações</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Mostrar estatística de utilização de dados na área de notificações</string>
   <string name="pref_traffic_saving_pic_compress_level">Compressão</string>
   <string name="pref_traffic_saving_switch">Reduzir a utilização de dados</string>
   <string name="pref_traffic_saving_switch_hint">Utilizar proxy para comprimir dados</string>
