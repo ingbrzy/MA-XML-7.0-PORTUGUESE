@@ -2,6 +2,8 @@
 <resources>
   <string name="agree">Concordar</string>
   <string name="congratulation_label"/>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Utilize a sua impressão digital para desbloquear o seu dispositivo, verificar transações de Pagamentos Mi, ou para iniciar sessão em aplicações e serviços.</string>
   <string name="disagree">Cancelar</string>
   <string name="ime_privacy_policy">Política de Privacidade para o teclado seleccionado</string>
   <string name="ime_privacy_policy_no_network">Não é possível ligar à Internet. Ver a Política de Privacidade para este teclado em %s.</string>
@@ -15,6 +17,7 @@
   <string name="multisim_settings_title">Detectados 2 cartões SIM</string>
   <string name="network_access_warning">Tem de ligar à Internet para activar os serviços Mi.</string>
   <string name="next">Próximo</string>
+  <string name="next_fingerprint">Próximo</string>
   <string name="other_settings">Definições adicionais</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
@@ -48,6 +51,7 @@ Ver Política de Privacidade do teclado seleccionado"</string>
 
 Deve concordar com os termos do nosso serviço e Política de Privacidade antes de utilizar a MIUI."</string>
   <string name="title_congratulation">Começar a utilizar a MIUI</string>
+  <string name="title_fingerprint">Adicionar a sua impressão digital</string>
   <string name="user_agreement">Termos do Serviço</string>
   <string name="welcome">Bem-vindo</string>
 </resources>

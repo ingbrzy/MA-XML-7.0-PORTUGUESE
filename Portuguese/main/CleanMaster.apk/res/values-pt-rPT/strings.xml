@@ -74,7 +74,7 @@
     <string name="clear_safe_notify">Barra de notificação de segurança</string>
     <string name="confirm_auto_cleaner">OK</string>
 	<string name="conn_of_function_safe">Conexão de rede para Segurança</string>
-    <string name="connecting">a conectar</string>
+    <string name="connecting">A conectar…</string>
     <string name="deepclean_app_content">Desinstalar aplicações não usadas em 30 dias</string>
     <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
     <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
@@ -155,6 +155,7 @@
     <string name="hints_privacy_header_left">Privacidade: %d</string>
     <string name="hints_quick_cleanning">A limpar…</string>
     <string name="hints_quick_cleanuping">A optimizar…</string>
+	<string name="hints_quick_prepare">A preparar…</string>
     <string name="hints_quick_scanning">A verificar…</string>
     <string name="hints_residual_header_left">Residuais</string>
     <string name="hints_scanfinish">Sem lixo</string>
@@ -247,7 +248,7 @@
     <string name="privacy_clipboard_type">Área de transferência</string>
     <string name="privacy_search_desc">Histórico de pesquisa</string>
     <string name="privacy_search_type">Pesquisa Google</string>
-	<string name="promotion">popularizar</string>
+	<string name="promotion">Escolhas dos editores</string>
     <string name="recommended">Em destaque</string>
     <string name="safety_check_detail">%1$d vezes, ganhou %2$d pontos</string>
     <string name="safety_rank">Á frente de %d%% utilizadores MIUI em termos de segurança</string>
@@ -273,7 +274,7 @@
     <string name="tips_of_garbage_cloud_scan">Pesquisar lixo escondido com a verificação da nuvem</string>
     <string name="tips_of_garbage_data_set">Actualizar base de dados de Limpeza para encontrar mais lixo no seu dispositivo</string>
     <string name="tips_of_network_speed_set">Ver a velocidade da rede na barra de estado</string>
-    <string name="tips_of_operators_set">Ajustar tráfego automaticamente</string>
+    <string name="tips_of_operators_set">Ajustar estatísticas de utilização de dados automaticamente</string>
     <string name="tips_of_package_set">Definir o seu plano de dados e controlar quantidade de tráfego que utiliza</string>
     <string name="tips_of_traffic_notification">Ver as estatísticas de dados móveis na área de notificações</string>
     <string name="tips_of_traffic_pack_threshold">"Comprar mais dados quando estiver prestes a chegar ao limite do tráfego"</string>

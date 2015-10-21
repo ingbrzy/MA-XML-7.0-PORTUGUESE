@@ -85,9 +85,7 @@ Ultima cópia de segurança: %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear, ou restaurar o telemóvel.
 Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reactivar este serviço."</string>
-  <string name="find_device_send_sms_alert">"
-
-Se trocar de cartão SIM, será enviada outra mensagem para reactivar este serviço."</string>
+  <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço.</string>
   <string name="find_device_status_ok">Encontre o seu dispositivo em qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Find your device from anywhere at www.mi.com/micloud</string>
   <string name="find_device_stop_noise">Pressione OK para silenciar</string>
@@ -110,6 +108,11 @@ Se trocar de cartão SIM, será enviada outra mensagem para reactivar este servi
   <string name="master_alert_notif_dspt_add">%s ficheiros aguardam sincronizar</string>
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Última sincronização à %s dias atrás</string>
+  <string name="micloud_all_sub_1_intl_sms">"Uma SMS internacional irá ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora. Quando liga o 'Localizar dispositivo', uma SMS de activação pode ser enviada depois de trocar os cartões SIM."</string>
+  <string name="micloud_all_sub_1_sms">"Uma SMS nacional irá ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora. Quando liga o 'Localizar dispositivo', uma SMS de activação pode ser enviada depois de trocar os cartões SIM."</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">"2 mensagens de texto(nacional e internacional) irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora. Quando liga o 'Localizar dispositivo', uma SMS de activação pode ser enviada depois de trocar os cartões SIM."</string>
+  <string name="micloud_all_sub_2_intl_sms">"2 mensagens de texto internacionais irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora. Quando liga o 'Localizar dispositivo', uma SMS de activação pode ser enviada depois de trocar os cartões SIM."</string>
+  <string name="micloud_all_sub_2_sms">"2 mensagens de texto nacionais irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora. Quando liga o 'Localizar dispositivo', uma SMS de activação pode ser enviada depois de trocar os cartões SIM."</string>
   <string name="micloud_buy_member">Conta</string>
   <string name="micloud_check_sim_notify_text">"Verifique como mudou os cartões SIM. inicie sessão
 na sua conta Mi para reactivar a Nuvem Mi."</string>
