@@ -2,7 +2,7 @@
 <resources>
   <string name="click_to_enter_text">Toque para desbloquear</string>
   <string name="confirm_pin_msg">Insira novamente o PIN</string>
-  <string name="default_lockscreen_unlock_hint_text">Deslize para cima para desbloquear</string>
+  <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="delete">Eliminar</string>
   <string name="emergency_call_string">Emergência</string>
   <string name="experimental_try_string">Experimente</string>
@@ -46,7 +46,7 @@
   <string name="missed_call_text">%d chamadas não atendidas</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
-  <string name="open_remote_center_hint_text">Deslizar para a direita para abrir o MiRemote</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita para abrir a lista de chamadas</string>
   <string name="open_wifi_settings">Ligação de rede aberta</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
