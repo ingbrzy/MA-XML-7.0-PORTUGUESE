@@ -159,10 +159,10 @@
   <string name="empty_title_virus_list">Nenhum vírus</string>
   <string name="every_day">Todos os dias</string>
   <string name="examination_score_100">Parece estar tudo bem!</string>
-  <string name="examination_score_100_with_recommend">%d ficheiros podem ser optimizados</string>
+  <string name="examination_score_100_with_recommend">%d itens podem ser optimizados</string>
   <string name="examination_score_60_0">Verificar agora</string>
   <string name="examination_score_80_100">Alguns itens podem ser optimizados</string>
-  <string name="examination_score_80_100_with_recommend">%d ficheiros podem ser optimizados</string>
+  <string name="examination_score_80_100_with_recommend">%d itens podem ser optimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas.</string>
   <string name="handle_text_cache">Cache</string>
@@ -604,7 +604,7 @@
   <string name="toast_cleaner_cloudscan">Limpeza irá utilizar definições online</string>
   <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
   <string name="toast_flow_notification">As notificações de utilização de dados está activada</string>
-  <string name="toast_garbage_lib">As actualizações automáticas para Cleaner estão activadas</string>
+  <string name="toast_garbage_lib">As actualizações automáticas para Limpeza estão activadas</string>
   <string name="toast_network_switch">Esta aplicação pode ligar à Internet</string>
   <string name="toast_root_apply_accept">Acesso root concedido a %s</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
