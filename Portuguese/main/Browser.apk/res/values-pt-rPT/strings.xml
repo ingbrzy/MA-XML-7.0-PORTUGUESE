@@ -4,6 +4,7 @@
   <string name="abc_action_bar_up_description">Navegar para cima</string>
   <string name="abc_action_menu_overflow_description">Mais</string>
   <string name="abc_action_mode_done">Concluído</string>
+  <string name="accept_cookies_confirm_message">Desligar este recurso pode causar alguns problemas em websites.</string>
   <string name="accessibility_button_clear">Limpar entrada</string>
   <string name="accessibility_content_view">Vista web</string>
   <string name="accessibility_date_picker_month">Mês</string>
@@ -206,6 +207,7 @@
   <string name="empty_bookmark">Vazio</string>
   <string name="empty_history_hint">Sem histórico</string>
   <string name="empty_snapshot_hint">Vazio</string>
+  <string name="enable_geolocation_confirm_message">Desligar este recurso pode causar alguns problemas em websites.</string>
   <string name="enter_developer_mode">Entrar no modo de programador</string>
   <string name="enter_incongnito_mode">Entrar no modo incógnito</string>
   <string name="error_console_eval_button_text">Avaliar</string>
@@ -358,6 +360,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="page_info_view">Ver informação da página</string>
   <string name="password">Palavra-passe</string>
   <string name="popup_window_attempt">Permitir que esta página abra janela pop-up?</string>
+  <string name="positive_confirm_message">Desligar na mesma</string>
   <string name="pref_accessibility_title">Accessibilidade</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Podem ser inseridas combinações de letras na barra de endereços</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Entrada rápida do endereço</string>
@@ -481,6 +484,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="readmode_recommend_message">Já leu este livro. :)</string>
   <string name="readmode_refresh">Actualizar</string>
   <string name="readmodelist_bookmarks_to_show">Lista de leitura</string>
+  <string name="remember_passwords_confirm_message">Desligar este recurso pode afectar utilização.</string>
   <string name="remove_bookmark">Eliminar marcador</string>
   <string name="remove_bookmark_group">Eliminar grupo</string>
   <string name="remove_from_bookmarks">Eliminar dos marcadores</string>
@@ -498,7 +502,8 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="save_button_text">Gravar</string>
   <string name="save_dialog_title">Gravar</string>
   <string name="save_file_already_exist_alert_message">O ficheiro já existe, deseja substituí-lo?</string>
-  <string name="save_file_already_exist_alert_title">Aviso</string>
+  <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
+  <string name="save_form_data_confirm_message">Desligar este recurso pode afectar utilização.</string>
   <string name="save_image_failed">Não foi possível guardar a imagem</string>
   <string name="save_image_success">Imagem guardada</string>
   <string name="save_page_capture_tip">Abrir notificação para ver captura de ecrã.</string>
@@ -530,7 +535,9 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="search_yahoo">Yahoo!</string>
   <string name="search_yicha">Yicha</string>
   <string name="secure_download_in_xiaomi_market">Transferir na Loja de Aplicações</string>
+  <string name="security_url_confirm_message">Desligar este recurso pode criar riscos de segurança.</string>
   <string name="security_warning">Aviso de segurança</string>
+  <string name="security_warnings_confirm_message">Desligar este recurso pode criar riscos de segurança.</string>
   <string name="select_dot">Seleccionar texto</string>
   <string name="select_download_device">Seleccionar dispositivo</string>
   <string name="share_page_text">Estou a divertir-me 【%1$s】 | %2$s</string>
@@ -643,6 +650,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="voice_title_listening">A ouvir…</string>
   <string name="voice_title_please">Comece a falar…</string>
   <string name="voice_title_speech_again">Não consigo percebê-lo</string>
+  <string name="weather_location_confirm_message">Desligar este recurso pode afectar utilização.</string>
   <string name="webpage_bookmark_title">Marcadores</string>
   <string name="webpage_history_title">Histórico</string>
   <string name="webpage_title">Marcadores e Histórico</string>

@@ -2,6 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Activar</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para activar \"Localizar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS do cartão SIM %s enviado para activar \"Localizar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_title">Activação cartão SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar o histórico das chamadas</string>
   <string name="activate_feature_find_device">A localizar dispositivo</string>
   <string name="activate_feature_mms_sync">Sincronizar mensagens</string>

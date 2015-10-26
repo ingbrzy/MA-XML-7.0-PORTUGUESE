@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_call_livetalk_enable">Utilizar pacotes de recarga para chamadas nacionais e internacionais</string>
-  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s Nacionais) | (%2$s %3$s)</string>
+  <string name="all_call_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais e internacionais</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) | (%2$s internacionais)</string>
   <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
   <string name="apply_password_action">Definir palavra-passe</string>
   <string name="apply_password_confirm_dlg_msg">Exigir palavra-passe para %s​?</string>
@@ -15,8 +15,9 @@
   <string name="cancel_action">Cancelar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
+  <string name="enable_livetalk">Activar Pacote de Restabelecimento</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analizar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial.</string>
-  <string name="fc_dialog_jump_to_preview">Ver o resumo</string>
+  <string name="fc_dialog_jump_to_preview">Ver resumo</string>
   <string name="first_back_long_press_message">"Pressione e segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
 
 Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
@@ -31,12 +32,13 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo de Uma mão</string>
   <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
   <string name="handy_mode_title">Modo de uma mão</string>
-  <string name="internal_livetalk_enable">Utilizar pacotes de recarga para chamadas nacionais</string>
-  <string name="internal_remain_mins">%1$s minutos restantes: (chamadas nacionais)</string>
-  <string name="international_livetalk_enable">Utilizar pacotes de recarga para chamadas internacionais</string>
-  <string name="international_remain_mins">%1$s minutos restantes: (%2$s chamadas)</string>
+  <string name="internal_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais</string>
+  <string name="internal_remain_mins">%1$s minutos restantes: (nacionais)</string>
+  <string name="international_livetalk_enable">A utilizar pacote de recarga para chamadas internacionais</string>
+  <string name="international_remain_mins">%1$s minutos restantes: (%2$s)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espaço</string>
+  <string name="livetalk_not_enable">Pacote de Restabelecimento Desactivado</string>
   <string name="location_usage_restricted_body">Toque para remover restrição.</string>
   <string name="location_usage_restricted_title">Localização em segundo plano restrita</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>

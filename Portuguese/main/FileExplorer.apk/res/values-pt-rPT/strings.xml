@@ -334,7 +334,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="operation_info">Detalhes</string>
   <string name="operation_move">Cortar</string>
   <string name="operation_moving">A mover…</string>
-  <string name="operation_moving_detail">A Mover (%1$d/%2$d)</string>
+  <string name="operation_moving_detail">A mover (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Abrir noutra aplicação</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_pasting">A copiar…</string>
   <string name="operation_pause">Pausar</string>
@@ -356,6 +357,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="paused">Em pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefone</string>
+  <string name="pick_folder">Escolher pasta</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="private_files">Privados</string>
   <string name="private_folder">Pasta Privada</string>
@@ -385,6 +387,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="search_app">Fonte</string>
   <string name="search_app_more">Mais</string>
   <string name="search_category">Tipo</string>
+  <string name="search_description">Pesquisar todos os ficheiros no dispositivo</string>
   <string name="search_empty_view_hint">Sem resultados</string>
   <string name="search_error_hint">Introduza palavra chave para procurar</string>
   <string name="search_file_type_apk">Apk</string>
