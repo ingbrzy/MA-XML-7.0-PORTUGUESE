@@ -20,12 +20,12 @@
         <item quantity="many">Eliminar estas %1$d conversas?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
-        <item quantity="zero">Esta conversa possui item unificado. Deseja eliminá-lo?</item>
-        <item quantity="one">Esta conversa possui item unificado. Deseja eliminá-lo?</item>
-        <item quantity="two">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
-        <item quantity="few">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
-        <item quantity="many">Esta conversa possui itens unificados. Deseja eliminá-los?</item>
+        <item quantity="other">Esta conversa contém itens unificados. Deseja eliminá-los?</item>
+        <item quantity="zero">Esta conversa contém itens unificados. Deseja eliminá-los?</item>
+        <item quantity="one">Esta conversa contém itens unificados. Deseja eliminá-lo?</item>
+        <item quantity="two">Esta conversa contém itens unificados. Deseja eliminá-los?</item>
+        <item quantity="few">Esta conversa contém itens unificados. Deseja eliminá-los?</item>
+        <item quantity="many">Esta conversa contém itens unificados. Deseja eliminá-los?</item>
     </plurals>    
     <plurals name="contact_num_selected">
         <item quantity="other">%d seleccionados</item>
@@ -60,8 +60,8 @@
         <item quantity="one">"&amp;amp;lt;b> %1$d &amp;amp;lt;/b> removida da pasta 'spam'"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagens denunciadas como spam</item>
-        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagem denunciada como spam</item>
+        <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagens reportadas como spam</item>
+        <item quantity="one">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> mensagem reportada como spam</item>
     </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">&amp;amp;lt;b> %1$d &amp;amp;lt;/b> marcadas como spam</item>

@@ -177,7 +177,7 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="instruction">Introduza o seguinte endereço numa aplicação FTP:</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
-  <string name="just_now">Agora mesmo</string>
+  <string name="just_now">agora mesmo</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Categorias</string>
   <string name="kp_category_doc">Word</string>
@@ -325,7 +325,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="operation_del_fav">A remover dos favoritos…</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_delete_confirm_message">Eliminar pasta/ficheiro?</string>
-  <string name="operation_delete_confirm_message_folder">Todos os conteúdos da pasta serão eliminados.</string>
+  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão eliminados. "</string>
   <string name="operation_deleting">A eliminar…</string>
   <string name="operation_deleting_detail">A eliminar (%1$d/%2$d)</string>
   <string name="operation_download_link">Criar link para transferir</string>
@@ -334,7 +334,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="operation_info">Detalhes</string>
   <string name="operation_move">Cortar</string>
   <string name="operation_moving">A mover…</string>
-  <string name="operation_moving_detail">A Mover (%1$d/%2$d)</string>
+  <string name="operation_moving_detail">A mover (%1$d/%2$d)</string>
+  <string name="operation_other_apps">Abrir noutra aplicação</string>
   <string name="operation_paste">Colar</string>
   <string name="operation_pasting">A copiar…</string>
   <string name="operation_pause">Pausar</string>
@@ -356,6 +357,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="paused">Em pausa</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Telefone</string>
+  <string name="pick_folder">Escolher pasta</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="private_files">Privados</string>
   <string name="private_folder">Pasta Privada</string>
@@ -370,7 +372,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>
   <string name="reset_password">Reinicializar palavra-passe</string>
   <string name="restoring">A restaurar…</string>
-  <string name="rlv_last_refreshing_time">Actualizado em %1$s</string>
+  <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
   <string name="rlv_loading_more">Aguarde um seg…</string>
   <string name="rlv_pull_to_refresh">Puxe para actualizar</string>
   <string name="rlv_refreshing">A verificar …</string>
@@ -385,6 +387,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="search_app">Fonte</string>
   <string name="search_app_more">Mais</string>
   <string name="search_category">Tipo</string>
+  <string name="search_description">Pesquisar todos os ficheiros no dispositivo</string>
   <string name="search_empty_view_hint">Sem resultados</string>
   <string name="search_error_hint">Introduza palavra chave para procurar</string>
   <string name="search_file_type_apk">Apk</string>
