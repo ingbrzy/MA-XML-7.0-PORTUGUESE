@@ -183,9 +183,9 @@
   <string name="attachment_unknown">Ficheiro %s</string>
   <string name="attachment_video">Vídeo</string>
   <string name="attachments_header">Anexos</string>  
-  <string name="auto_advance_help_title">Depois de eliminar a mensagem, ver…</string>
-  <string name="auto_advance_label">Eliminar fluxo de mensagens</string>
-  <string name="auto_advance_summary">Seleccione qual o ecrã a mostrar após eliminar uma mensagem</string>
+  <string name="auto_advance_help_title">Avançar para…</string>
+  <string name="auto_advance_label">Avanço automático</string>
+  <string name="auto_advance_summary">Mostrar lista de conversas após eliminar</string>
   <string name="auto_sync_off">A sincronização automática está desactivada.</string>
   <string name="bcc">Bcc</string>
   <string name="bcc_heading">"Bcc: "</string>
@@ -216,8 +216,8 @@
   <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc" />  
-  <string name="chat_view_description">Ver emails como vista de conversa</string> 
-  <string name="chat_view_title">Vista de Conversa</string>
+  <string name="chat_view_description">Emails de grupo na mesma conversa</string> 
+  <string name="chat_view_title">Vista de conversa</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>  
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear">Limpar</string>
@@ -400,7 +400,6 @@
   <string name="forward_attribution_no_headers">---------- Mensagem reencaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível reencaminhar todos os anexos.</string>
   <string name="forward_download_failed_title">Anexo não reencaminhado</string>  
-  <string name="forward_subject_label">FW:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
@@ -462,14 +461,6 @@
   <string name="mailbox_name_display_starred">Favoritos</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lidos</string>  
-  <string name="mailbox_name_server_all_unread">Não lidos</string>
-  <string name="mailbox_name_server_drafts">Rascunhos</string>
-  <string name="mailbox_name_server_inbox">Caixa de entrada</string>
-  <string name="mailbox_name_server_junk">Lixo</string>
-  <string name="mailbox_name_server_outbox">Caixa de saída</string>
-  <string name="mailbox_name_server_sent">Enviados</string>
-  <string name="mailbox_name_server_starred">Favoritos</string>
-  <string name="mailbox_name_server_trash">Lixo</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email de</string>
@@ -723,12 +714,7 @@
   <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>  
-  <string name="reply_subject_label">Re:</string>
   <string name="report_phishing">Denunciar phishing</string> 
-  <string name="report_rendering_improvement">Parece boa</string>
-  <string name="report_rendering_improvement_desc">Esta mensagem parece boa.</string>
-  <string name="report_rendering_problem">Parece mal</string>
-  <string name="report_rendering_problem_desc">Esta mensagem parece mal.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="respond_inline">Responder inline</string>
@@ -849,7 +835,6 @@
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
 Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente.</string>  
   <string name="wait_for_sync_title">A aguardar sincronização</string>
-  <string name="wait_help_context">aguarde</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Outros</string>
