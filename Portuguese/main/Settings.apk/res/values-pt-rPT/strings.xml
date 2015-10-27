@@ -771,7 +771,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="date_time_set_time">Definir a hora</string>
   <string name="date_time_set_timezone">Seleccionar o fuso horário</string>
   <string name="date_time_settings">Data e hora</string>
-  <string name="debug_app">Selecione a aplicação em depuração</string>
+  <string name="debug_app">Seleccione a aplicação em depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação em depuração activada</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
   <string name="debug_applications_category">Aplicações</string>
@@ -2160,9 +2160,9 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="select_all">Seleccionar todos</string>
   <string name="select_application">Seleccione uma aplicação</string>
   <string name="select_device_admin_msg">Administradores do dispositivo</string>
-  <string name="select_runtime_dialog_title">Selecionar execução</string>
-  <string name="select_runtime_title">Selecionar execução</string>
-  <string name="select_runtime_warning_message">Selecionar o tempo de execução de %1$s para %2$s?</string>
+  <string name="select_runtime_dialog_title">Seleccionar execução</string>
+  <string name="select_runtime_title">Seleccionar execução</string>
+  <string name="select_runtime_warning_message">Seleccionar o tempo de execução de %1$s para %2$s?</string>
   <string name="select_ssid_type_title">Seleccione SSID</string>
   <string name="selinux_status">Estado SELinux</string>
   <string name="selinux_status_disabled">Desactivado</string>
@@ -2586,7 +2586,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_ptp_summary">Permite transferir fotos através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
   <string name="usb_ptp_title">Câmara (PTP)</string>
   <string name="usb_tethering_active_subtext">Emparelhado</string>
-  <string name="usb_tethering_available_subtext">USB ligado, selecione para emparelhar</string>
+  <string name="usb_tethering_available_subtext">USB ligado, seleccione para emparelhar</string>
   <string name="usb_tethering_button_text">Emparelhar USB</string>
   <string name="usb_tethering_errored_subtext">Erro de emparelhamento USB</string>
   <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em utilização</string>
@@ -2682,6 +2682,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="vibrate_when_ringing_title">Vibrar quando toca</string>
   <string name="virtual_sim_category_title">SIM Virtual</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
+  <string name="virtual_sim_search_title">SIM Virtual</string>
   <string name="virtual_sim_title">Rede de dados roaming</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="virus_scan_app_continue">Continuar a verificar</string>

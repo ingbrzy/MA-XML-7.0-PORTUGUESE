@@ -34,7 +34,7 @@
   <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
   <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
   <string name="account_settings_mibill_resolve_label">Gerir contas automaticamente</string>
-  <string name="account_settings_name_label">Alcunha</string>
+  <string name="account_settings_name_label">Nome</string>
   <string name="account_settings_notifications">Notificações</string>
   <string name="account_settings_notify_label">Notificações de email</string>
   <string name="account_settings_notify_summary">Mostrar notificação quando chegarem emails</string>  
@@ -309,13 +309,13 @@
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
-  <string name="disturb_switch">Não pertubar</string>
+  <string name="disturb_switch">Não Pertubar</string>
   <string name="done">Concluído</string>
   <string name="done_action">Concluído</string>
   <string name="donot_disturb_endtime_title">Hora de fim</string>
   <string name="donot_disturb_starttime_title">Hora de início</string>
   <string name="donot_disturb_summary">Notificações de emails serão silenciadas durante o período definido</string>
-  <string name="donot_disturb_title">Não pertubar</string>
+  <string name="donot_disturb_title">Não Pertubar</string>
   <string name="downlaod_cancel_confirm_download">Parar</string>
   <string name="downlaod_cancel_continue_download">Continuar</string>
   <string name="downlaod_confirm_download">Transferir</string>
@@ -457,8 +457,8 @@
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Caixa de saída</string>
-  <string name="mailbox_name_display_sent">Enviados</string>
-  <string name="mailbox_name_display_starred">Favoritos</string>
+  <string name="mailbox_name_display_sent">Correio Enviado</string>
+  <string name="mailbox_name_display_starred">Com estrela</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lidos</string>  
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
@@ -709,7 +709,7 @@
   <string name="remove_account_confirm">\"%1$s\" será removida do Email.</string>
   <string name="remove_account_confirm_title">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
-  <string name="remove_star">Remover dos favoritos</string>
+  <string name="remove_star">Remover estrela</string>
   <string name="reply">Responder</string>
   <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>

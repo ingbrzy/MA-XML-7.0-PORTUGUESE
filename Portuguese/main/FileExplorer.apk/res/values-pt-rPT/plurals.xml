@@ -41,12 +41,12 @@
         <item quantity="many">%1$d ficheiros que faltam carregar</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d selecionado</item>
-        <item quantity="zero">%1$d selecionado</item>
-        <item quantity="one">%1$d selecionado</item>
-        <item quantity="two">%1$d selecionado</item>
-        <item quantity="few">%1$d selecionado</item>
-        <item quantity="many">%1$d selecionado</item>
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="two">%1$d seleccionados</item>
+        <item quantity="few">%1$d seleccionados</item>
+        <item quantity="many">%1$d seleccionados</item>
     </plurals>
     <plurals name="items_file">
         <item quantity="other"> (%1$d ficheiros)</item>
