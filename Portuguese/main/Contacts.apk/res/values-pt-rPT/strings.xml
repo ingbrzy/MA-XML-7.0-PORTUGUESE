@@ -967,13 +967,13 @@ Escolha uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_search_city_name_hint">Cidade</string>
     <string name="yellowpage_navigation_search_select_city">Seleccione uma cidade</string>
     <string name="yellowpage_navigation_search_result_no_more">Sem mais resultados</string>
-    <string name="yellowpage_navigation_search_result_network_error">Não foi possível ligar à rede</string>
+    <string name="yellowpage_navigation_search_result_network_error">Não é possível conectar à rede</string>
     <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>
     <string name="yellowpage_navigation_search_result_average_price">Média RMB %d</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao ecrã inicial</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">A transferir ícone…</string>
-    <string name="yellowpage_navigation_send_to_desktop_failed">Não é possível ligar à rede</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Não é possível conectar à rede</string>
     <string name="yellowpage_user_profile">Perfil</string>
     <string name="yellowpage_navigation_more_items">Mais</string>
     <string name="yellowpage_navigation_more_items_title">Mais serviços</string>
@@ -1111,5 +1111,5 @@ Escolha uma das seguintes opções:"</string>
    <string name="emergency_number_label">Número de Emergência</string>
    <string name="in_call_show_preview_reshoot">Repetir</string>
    <string name="voip_name">Voz Mi</string>
-   <string name="more_call_logs">Para mais registos de chamadas vá a i.mi.com</string>
+   <string name="more_call_logs">Ver registo de chamadas detalhado em i.mi.com</string>
 </resources>

@@ -276,7 +276,7 @@
   <string name="refreshing">Aguarde um segundo…</string>
   <string name="releasetorefresh">Libertar e actualizar</string>
   <string name="reload_sub_title">Tente novamente</string>
-  <string name="reload_title">Não é possível ligar à rede</string>
+  <string name="reload_title">Não é possível conectar à rede</string>
   <string name="reload_title_ep">Não foi possível obter séries completas</string>
   <string name="retry">Tente novamente</string>
   <string name="router">Offline remoto</string>
@@ -454,7 +454,7 @@
   <string name="vp_video_loading"><CDATA>A carregar…</CDATA></string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
   <string name="vp_VideoView_error_button">OK</string>
-  <string name="vp_VideoView_error_network_not_available">Não foi possível ligar à rede</string>
+  <string name="vp_VideoView_error_network_not_available">Não é possível conectar à rede</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>

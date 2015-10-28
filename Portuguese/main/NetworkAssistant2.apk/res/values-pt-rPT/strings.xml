@@ -73,7 +73,7 @@
   <string name="datausage_purchase_pay_captcha_tips">Depois de receber o código de verificação, introduza-o na caixa acima e pressione Comprar para concluir a compra. Observe que o código só é válido por 10 minutos.</string>
   <string name="datausage_purchase_pay_confirm">Comprar</string>
   <string name="datausage_purchase_pay_hint">Para cancelar, marque %s</string>
-  <string name="datausage_purchase_pkglist_networkerror">Não foi possível ligar à rede. Verifique a sua ligação de dados e tente novamente.</string>
+  <string name="datausage_purchase_pkglist_networkerror">Não foi possível conectar à rede. Verifique a sua ligação de dados e tente novamente.</string>
   <string name="datausage_purchase_pkglist_nodata">"Não há conflito entre o seu pacote de dados actual e do pacote de dados que está a tentar comprar.
 Verifique com a sua operadora para mais informações."</string>
   <string name="datausage_purchase_pkglist_servererror">Algo está errado com o servidor.</string>
@@ -109,6 +109,8 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="firewall_network_restrict_notify_message">Pressione para alterar definições.</string>  
   <string name="firewall_network_restrict_notify_mobile">Dados móveis</string>
   <string name="firewall_network_restrict_notify_title">"%1$s não pode utilizar %2$s"</string>
+  <string name="firewall_restrict_android_dialog_content">"Se não permitir que o Android conecte à internet, algumas funcionalidades chave, tais como P.Acesso, podem ser afectadas."</string>
+  <string name="firewall_restrict_android_dialog_title">Atenção</string>
   <string name="firewall_rule_group_title_mobile">Telemóvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -135,6 +137,7 @@ Para mais informações, verifique a mensagem que recebeu do seu provedor de ser
   <string name="international_roaming_setting">Dados em Roaming</string>
   <string name="international_roaming_whitelist_count">%d aplicações podem utilizar os dados móveis em roaming</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema, tente usar um endereço IP estático.</string>
+  <string name="kilobyte_per_second">KB/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Vazio</string>
   <string name="load_fail">Erro ao carregar</string>
@@ -192,6 +195,7 @@ Maior tráfego: %1$s%2$s restantes | %3$s utilizados"</string>
   <string name="main_traffic_used_text">utilizados</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir a utilização de dados</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="mi_service_app_detail">Detalhes da utilização de dados móveis</string>
   <string name="mi_service_framework">Framework de serviços Xiaomi</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -344,7 +348,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="pref_title_over_traffic_limit_warning">Quando excedido</string>
   <string name="pref_title_traffic_limit_number">Tamanho</string>
   <string name="pref_title_traffic_speed_state">Mostrar a velocidade da rede</string>
-  <string name="pref_title_update_notification">Mostrar notificações da utilização de dados</string>
+  <string name="pref_title_update_notification">Notificações de utilização de dados</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Permitir excepções inteligentes</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
@@ -402,7 +406,7 @@ T"</b>tente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h
   <string name="settings">Definições da utilização de dados</string>
   <string name="show_traffic_dialog_message">A utilização de dados estará visível na barra de notificações. Pode desactivar em &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar a utilização de dados na barra de notificações</string>
-  <string name="signal_exception_summary">Não é possível ligar à rede nesta área.</string>
+  <string name="signal_exception_summary">Não é possível conectar à rede nesta área.</string>
   <string name="signal_exception_title">Sinal de rede fraco</string>
   <string name="sim_state_exception_summary">O estado do cartão SIM indica que algo pode estar errado com o seu cartão SIM.</string>
   <string name="songs_number">18 músicas</string>
@@ -554,9 +558,9 @@ O Limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
-  <string name="traffic_setting_fragment_get_template_falure">Não é possível ligar à rede. Verifique a ligação de dados e tente novamente.</string>
+  <string name="traffic_setting_fragment_get_template_falure">Não é possível conectar à rede. Verifique a ligação de dados e tente novamente.</string>
   <string name="traffic_setting_fragment_loading_text">A obter informações de rede…</string>
-  <string name="traffic_setting_fragment_no_network">Não é possível ligar à rede</string>
+  <string name="traffic_setting_fragment_no_network">Não é possível conectar à rede</string>
   <string name="traffic_setting_fragment_null">Vazio</string>
   <string name="traffic_setting_fragment_operator">Operadora</string>
   <string name="traffic_setting_fragment_send_num">Número de telefone da operadora</string>

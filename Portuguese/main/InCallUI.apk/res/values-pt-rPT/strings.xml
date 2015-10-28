@@ -33,7 +33,7 @@
   <string name="call_description_recording">A gravar…</string>
   <string name="call_extension_conference_mode">Modo de Conferência</string>
   <string name="call_record_button_label">Gravação %s</string>
-  <string name="call_record_wait_label">Em espera</string>
+  <string name="call_record_wait_label">Á espera</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente: o seu cartão SD está muito cheio</string>
   <string name="call_recording_error_privacy">Não é possível gravar enquanto está no modo Visitante</string>
   <string name="call_recording_error_sd_access">Não é possível aceder o cartão SD</string>
@@ -54,11 +54,11 @@
   <string name="card_title_call_ended">"Chamada terminada "</string>  
   <string name="card_title_conf_call">Chamada em conferência</string>
   <string name="card_title_dialing">A ligar</string>
-  <string name="card_title_hanging_up">A desligar</string>
+  <string name="card_title_hanging_up">"A desligar "</string>
   <string name="card_title_in_call">Em chamada</string>
   <string name="card_title_in_call_short">Em chamada</string>
   <string name="card_title_incoming_call">Chamada de entrada</string>  
-  <string name="card_title_on_hold">Em espera</string>  
+  <string name="card_title_on_hold">"Em espera "</string>  
   <string name="card_title_threeway_call">Chamada de três vias</string>    
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s pessoas</string>  
@@ -158,7 +158,7 @@
   <string name="onscreen_call_record">Gravar</string>  
   <string name="onscreen_hold_text">Em espera</string>
   <string name="onscreen_merge_calls_text">Juntar chamadas</string>
-  <string name="onscreen_mute_text">Mudo</string>  
+  <string name="onscreen_mute_text">Silenciar</string>  
   <string name="onscreen_swap_calls_text">Trocar</string>  
   <string name="pause_prompt_no">Não</string>  
   <string name="pause_prompt_yes">Sim</string>

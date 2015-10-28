@@ -131,7 +131,7 @@
   <string name="never">Nunca</string>
   <string name="new_backup">Fazer Cópia</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
-  <string name="no_network">Não é possível ligar à rede</string>
+  <string name="no_network">Não é possível conectar à rede</string>
   <string name="note_title">Notas</string>
   <string name="nothing_searched">Sem resultados.</string>
   <string name="notif_backup_complete_title">Copiado com sucesso</string>
@@ -197,9 +197,9 @@
   <string name="state_waiting">Aguarde um seg…</string>
   <string name="succeed">Concluído.</string>
   <string name="summary_err_backup_encrypting">Iniciar sessão na sua conta Mi.</string>
-  <string name="summary_err_backup_no_network">Não é possível ligar à rede</string>
+  <string name="summary_err_backup_no_network">Não é possível conectar à rede</string>
   <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta Cópia foi feita utilizando a sua conta Mi.</string>    
-  <string name="summary_err_restore_no_network">Não é possível ligar à rede</string>
+  <string name="summary_err_restore_no_network">Não é possível conectar à rede</string>
   <string name="system_backup">Cópia</string>
   <string name="system_backup_info">Definições do sistema e disposição do ecrã inicial</string>
   <string name="task_backup_cancel_progress">A cancelar…</string>

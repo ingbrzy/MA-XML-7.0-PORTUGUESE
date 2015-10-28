@@ -462,7 +462,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="get_pin2">Digite o código PIN2</string>
   <string name="get_product_list_failed">"Não foi possível obter a lista"</string>
   <string name="get_purchase_history_failed">"Não foi possível obter o histórico de compras"</string>
-  <string name="get_smsc_address_error">Não é possível ligar à rede.</string>
+  <string name="get_smsc_address_error">Não é possível conectar à rede.</string>
   <string name="get_smsc_address_timeout">O tempo de ligação chegou ao fim</string>
   <string name="get_use_history_failed">"Não foi possível obter o histórico"</string>
   <string name="goPrivate">ir privado</string>
@@ -630,7 +630,8 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="load_rates_failed">"Não foi possível carregar"</string>
-  <string name="loading">Aguarde um seg…</string>
+  <string name="loading">Aguarde um seg</string>
+  <string name="loading_product">Aguarde um seg</string>
   <string name="loading_recent_failed">"Não foi possível carregar"</string>
   <string name="local_disable">Notícias Locais desactivo</string>
   <string name="local_enable">Notícias Locais activo</string>
@@ -914,7 +915,6 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="place_a_call2">Subscrição 2</string>
   <string name="place_a_call3">Subscrição 3</string>
   <string name="please_choose_the_duration">Escolher duração.</string>
-  <string name="please_choose_the_refueling_package">Escolher pacote de recarga</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desligado</string>
   <string name="preference_category_ringtone">Tocar e Vibrar</string>
@@ -1010,21 +1010,20 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="puk_unlock_success">Cartão desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
-  <string name="purchase_confirm">Comprar</string>
+  <string name="purchase_description_summary">"- Operador ilimitado, área ilimitada;
+- Sem conflitos com os serviços de operador;
+- Imediatamente após recarregar, nunca limpo;
+- Simples, utilize directamente."</string>
+  <string name="purchase_description_title">Descrição</string>
   <string name="purchase_limit">Atingiu o limite da recarga</string>
   <string name="purchase_list">Histórico de compras</string>
   <string name="purchase_notification">"Preços abaixo são para chamadas nacionais. Para chamadas internacionar ver o "</string>
-  <string name="purchase_notification_title">Verificar regiões suportadas</string>
-  <string name="purchase_rates_title">Tarifas</string>
   <string name="query">Pergunta</string>
   <string name="radio_off_error">Activar o radio antes de visualizar estas definições.</string>
   <string name="rates_correspond">A corresponder tarifas.</string>
   <string name="rc_unlock_failed">O pedido de desbloqueio do cartão RUIM da empresa falhou.</string>
   <string name="rc_unlock_success">Cartão SIM da empresa desbloqueado.</string>
   <string name="reading_settings">A carregar definições…</string>
-  <string name="refueling_package_a">Pacote A</string>
-  <string name="refueling_package_b">Pacote B</string>
-  <string name="refueling_package_c">Pacote C</string>  
   <string name="regional_disable">Notícias Regionais desactivo</string>
   <string name="regional_enable">Notícias Regionais activo</string>
   <string name="register_automatically">A registar automaticamente…</string>
@@ -1044,6 +1043,10 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="reject_via_sms">Respostas rápidas</string>
   <string name="reject_via_sms_summary">Editar respostas texto predefinidas</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
+  <string name="remain_mins_divider">Ou</string>
+  <string name="remain_mins_domestic">nacional permanece</string>
+  <string name="remain_mins_international">internacional permanece</string>
+  <string name="remain_mins_unit">Min</string>
   <string name="remember_my_choice">Utilizar sempre para fazer chamadas pela Internet</string>
   <string name="remove">Eliminar</string>
   <string name="remove_ims_account">Remover conta</string>
@@ -1243,7 +1246,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="time_statistic">%1$d minutos de rede poupados</string>
   <string name="title_country">Locais</string>
   <string name="title_duration">Duração</string>
-  <string name="title_purchase">Recargas</string>
+  <string name="title_purchase">Reabastecimento de Recargas</string>
   <string name="title_rates">Tarifas</string>
   <string name="title_user_config">Activar cartão SIM</string>
   <string name="transport_title">Tipo de transporte</string>
@@ -1269,6 +1272,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="uplmn_numeric_is_empty">Insira ID da rede</string>
   <string name="use_history">Actividade</string>
   <string name="use_history_duration_min">%1$s mins</string>
+  <string name="use_range">Utilizar Alcance</string>
   <string name="username_title">Utilizador</string>
   <string name="ussdRunning">Código USSD a decorrer…</string>
   <string name="ussd_dialog_sep">----------</string>

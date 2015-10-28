@@ -49,7 +49,6 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_metric"/>
-  <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Três dias até ao %3$s (%4$s)</string>
   <string name="birthday_notification_text_today">Não se esqueça de dizer feliz aniversário.</string>
@@ -101,6 +100,7 @@
   <string name="delete_topic_dialog_title">Confirma que deseja cancelar a inscrição\"%s\"？</string>
   <string name="delete_topic_success">Subscrição \"%s\" sucesso</string>
   <string name="deleting_calendar">Cancelar inscrição</string>
+  <string name="departure">embarque</string>
   <string name="description_label">Descrição</string>
   <string name="directory_searching_fmt">A pesquisar %s…</string>
   <string name="discard_label">Cancelar</string>
@@ -148,10 +148,12 @@
   <string name="event_view">Visualizar evento</string>
   <string name="every_weekday">Semanalmente (Seg-Sex)</string>
   <string name="exist_calendar">Subscrito</string>
+  <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
   <string name="from_google_group_calendar">Calendário Google</string>
   <string name="gadget_no_events">Nenhum evento para breve no calendário</string>
   <string name="gadget_title">Calendário</string>
   <string name="goto_today">Hoje</string>
+  <string name="guide_card_hint_text">点击进入订阅,发现精彩生活！</string>
   <string name="hide_controls">Ocultar controlos</string>
   <string name="hint_attendees">Convidados</string>
   <string name="hint_description">Descrição</string>
@@ -204,13 +206,12 @@
   <string name="no_title_label">(Sem título)</string>
   <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
   <string name="not_synced">Não sincronizado</string>
-  <string name="notice_button_ok">Concordar</string>
-  <string name="notice_button_ok_and_go_on">同意并继续</string>
-  <string name="notice_title_agreement">声明与条款</string>
+  <string name="notice_button_ok">Concordar</string>  
+  <string name="notice_title_agreement">Termos de Utilização</string>
   <string name="notice_title_request">Pedir</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">Subscrever para o calendário</string>
-  <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+  <string name="online_notice_message">"Ao utilizar este produto, está a concordar com %1$s e %2$s. Esta aplicação necessita de conectar à internet para funcionar normalmente."</string>
   <string name="online_reminder_change_text">Modificar lembrete</string>
   <string name="online_reminder_header_text">Lembrar</string>
   <string name="online_reminder_minutes_text">Tempo de lembrete</string>
@@ -322,7 +323,9 @@
   <string name="timezone_label">Fuso horário</string>
   <string name="today">Hoje</string>
   <string name="today_at_time_fmt">Hoje às %s</string>
+  <string name="today_flight_event">Vôo</string>
   <string name="today_no_events">Nada agendado para hoje</string>
+  <string name="today_train_event">Comboio</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
   <string name="topic_dialog_title">Apagar subscrição</string>
@@ -351,7 +354,6 @@
   <string name="travel_loaded">Desenvolvido por Veryzhun</string>
   <string name="travel_loading">Aguarde um seg…</string>
   <string name="travel_local">Destino</string>
-  <string name="travel_notice_message">O Calendário necessita de se conectar à internet e aceder à sua localização para mostrar informações da viagem.</string>
   <string name="travel_seat_number_text">Banco</string>
   <string name="travel_train_number_text">Comboio</string>
   <string name="travel_train_station">Estação de comboio</string>
@@ -367,7 +369,8 @@
   <string name="where_label">Onde</string>
   <string name="widget_events">Próximo evento</string>
   <string name="widget_no_events">Sem eventos</string>
-  <string name="widget_select_style">Seleccione um estilo</string>
+  <string name="widget_select_style">Escolha um estilo</string>
+  <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
   <string name="work_day_indication">: (</string>
   <string name="wuxing">Cinco</string>
   <string name="xiaomi_calendar_display_name">Calendário</string>
