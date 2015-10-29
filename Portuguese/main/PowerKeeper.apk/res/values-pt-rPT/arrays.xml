@@ -2,7 +2,7 @@
 <resources>
     <string-array name="group_name_translate">
         <item>Predefinido</item>
-        <item>Modo Escondido</item>
+        <item>Modo Oculto</item>
         <item>Modo Leitura</item>
         <item>Modo Multimédia</item>
     </string-array>
@@ -27,7 +27,7 @@
         <item>Localização</item>
         <item>Primeira notificação</item>
         <item>Notificações do ecrã de bloqueio</item>
-        <item>Restringir conexões de dados em segundo plano</item>
+        <item>Restringir ligações de dados em segundo plano</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Nada</item>

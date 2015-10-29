@@ -418,7 +418,7 @@
   <string name="error_type_account_208">"Não foi possível realizar a chamada para este número"</string>
   <string name="error_type_account_301">O código que inseriu está incorrecto</string>
   <string name="error_type_account_302">O código que inseriu já foi usado</string>
-  <string name="error_type_account_500">"Não foi possível conectar à rede móvel"</string>
+  <string name="error_type_account_500">"Não foi possível ligar à rede móvel"</string>
   <string name="error_type_account_inner">Erro interno</string>
   <string name="error_type_network">Erro de rede</string>
   <string name="error_type_unknown">Erro desconhecido</string>
@@ -462,7 +462,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="get_pin2">Digite o código PIN2</string>
   <string name="get_product_list_failed">"Não foi possível obter a lista"</string>
   <string name="get_purchase_history_failed">"Não foi possível obter o histórico de compras"</string>
-  <string name="get_smsc_address_error">Não é possível conectar à rede.</string>
+  <string name="get_smsc_address_error">Não é possível ligar à rede.</string>
   <string name="get_smsc_address_timeout">O tempo de ligação chegou ao fim</string>
   <string name="get_use_history_failed">"Não foi possível obter o histórico"</string>
   <string name="goPrivate">ir privado</string>
@@ -584,7 +584,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Códigos curtos de números de serviço não são suportados neste momento. É necessário conectar à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Ligue o Escuta Gratuita para utilizar este serviço senão a sua operadora pode cobrá-lo por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Códigos curtos de números de serviço não são suportados neste momento. É necessário ligar à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Ligue o Escuta Gratuita para utilizar este serviço senão a sua operadora pode cobrá-lo por roaming.)"</string>
   <string name="livetalk_activate">Activar pacotes de recarga</string>
   <string name="livetalk_activate_number">Verificar cartão SIM</string>
   <string name="livetalk_activate_number_1">Verificar SIM 1</string>
@@ -620,7 +620,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_provider">Fornecido por %1$s</string>
   <string name="livetalk_provision">Termos do Serviço</string>
   <string name="livetalk_provision_checkbox">Aceitar Termos do Serviço</string>
-  <string name="livetalk_provision_second">, e é necessário conectar à internet para funcionar normalmente.</string>
+  <string name="livetalk_provision_second">, e é necessário ligar à internet para funcionar normalmente.</string>
   <string name="livetalk_service_and_short_number_not_support">Números curtos e de serviço não são suportados.</string>
   <string name="livetalk_setting">Definições de Recargas</string>
   <string name="livetalk_sim_card_not_activated">"Este cartão não está activo"</string>
@@ -692,7 +692,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="msim_apn_not_set">Não definido</string>
   <string name="msim_default_setting">Definições predefinidas</string>
   <string name="msim_disable_sim_card_btn_text">OK</string>
-  <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como predefinido. Se parar de o utilizar, não será possível fazer chamadas ou utilizar a conexão de dados móveis. Você pode parar este cartão SIM depois de definir outro como seu cartão SIM predefinido.</string>
+  <string name="msim_disable_sim_card_summary_default_card">Este cartão está definido como predefinido. Se parar de o utilizar, não será possível fazer chamadas ou utilizar a ligação de dados móveis. Você pode parar este cartão SIM depois de definir outro como seu cartão SIM predefinido.</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Não é possível fazer chamadas ou utilizar os dados móveis. Parar de utilizar %s este cartão SIM?</string>
   <string name="msim_disable_sim_card_title">Parar de usar o cartão SIM</string>
   <string name="msim_enable_sim">Ligado</string>
@@ -730,7 +730,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (recommended)</string>
-  <string name="network_error_message">Não é possível conectar à rede</string>
+  <string name="network_error_message">Não é possível ligar à rede</string>
   <string name="network_forbidden">%s (Proibida)</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID da Rede</string>
@@ -993,8 +993,8 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="private_num">Número privado</string>
   <string name="proceed">Continuar</string>
   <string name="progress_dialog_exiting_ecm">Sair do modo de Chamada de Volta de emergência</string>
-  <string name="provision_content">Este recurso necessita duma conexão à internet para funcionar normalmente.</string>
-  <string name="provision_title">Conexão de Internet</string>
+  <string name="provision_content">Este recurso necessita duma ligação à internet para funcionar normalmente.</string>
+  <string name="provision_title">Ligação à Internet</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço d proxy de saída</string>
   <string name="pstn_connection_service_label">Built-in SIM cards</string>

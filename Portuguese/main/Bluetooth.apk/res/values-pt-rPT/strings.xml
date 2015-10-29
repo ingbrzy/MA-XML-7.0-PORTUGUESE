@@ -17,10 +17,10 @@
   <string name="ble_device_unbind">Limpar definições</string>
   <string name="ble_profile_1">ble_profile_mi_band</string>
   <string name="ble_profile_2">ble_profile_mi_key</string>
-  <string name="bluetooth_connected">Conectado</string>
+  <string name="bluetooth_connected">Ligado</string>
   <string name="bluetooth_connecting">A emparelhar…</string>
-  <string name="bluetooth_disconnected">Desconectado</string>
-  <string name="bluetooth_disconnecting">A desconectar…</string>
+  <string name="bluetooth_disconnected">Desligado</string>
+  <string name="bluetooth_disconnecting">A desligar…</string>
   <string name="bluetooth_in_airplane_mode">Em modo vôo</string>
   <string name="bluetooth_preference_connected_devices">Dispositivos emparelhados</string>
   <string name="bluetooth_preference_found_devices">Dispositivos disponíveis</string>
@@ -121,7 +121,7 @@
   <string name="notification_sent_complete">100% completo</string>
   <string name="notification_sent_fail">Partilha por Bluetooth: Ficheiro %1$s não foi enviado</string>
   <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
-  <string name="notify_device_lose_connection_title">Conexão perdida com %1$s</string>
+  <string name="notify_device_lose_connection_title">Ligação perdida com %1$s</string>
   <string name="notify_server">Notificar o servidor TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferências enviadas</string>
@@ -159,7 +159,7 @@
   <string name="transfer_menu_clear_all">Eliminar lista</string>
   <string name="transfer_menu_open">Abrir</string>
   <string name="unbind_device_alert_cancel">Cancelar</string>
-  <string name="unbind_device_alert_content">Conexão perdida com %1$s. Para poupar bateria, desemparelhe este dispositvo agora.</string>
+  <string name="unbind_device_alert_content">Ligação perdida com %1$s. Para poupar bateria, desemparelhe este dispositvo agora.</string>
   <string name="unbind_device_alert_ok">Desemparelhar</string>
   <string name="unbind_device_alert_title">Desemparelhar dispositivo</string>
   <string name="unknownName">Nome desconhecido</string>

@@ -129,8 +129,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_MMS_Desc">escrever e eliminar mensagens MMS</string>
   <string name="HIPS_Perm_MMS_Hint">%1$s aplicações podem escrever e eliminar mensagens MMS</string>
   <string name="HIPS_Perm_MobileNetwork">Utilizar dados móveis</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">utilizar a sua conexão de dados móveis</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem utilizar a sua conexão de dados móveis</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">utilizar a sua ligação de dados móveis</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s aplicações podem utilizar a sua ligação de dados móveis</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Alterar conectividade de rede</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Desc">ligar ou desligar dados móveis</string>
   <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s aplicações podem ligar ou desligar dados móveis</string>
@@ -205,8 +205,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_VideoRecorder_Desc">aceder à câmara para tirar fotografias ou vídeos</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s aplicações podem aceder à câmara para tirar fotografias ou vídeos</string>
   <string name="HIPS_Perm_WIFINetwork">Utilizar rede Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">conectar à internet utilizando o Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem conectar à internet utilizando o Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">ligar à internet utilizando o Wi-Fi</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplicações podem ligar à internet utilizando o Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Alterar conectividade do Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">ligar ou desligar o Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s aplicações podem ligar ou desligar o Wi-Fi</string>

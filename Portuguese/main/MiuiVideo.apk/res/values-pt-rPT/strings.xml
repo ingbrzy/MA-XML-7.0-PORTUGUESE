@@ -40,7 +40,7 @@
   <string name="app_upgrade_version">Actualização disponível</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi_mode">Actualizar automaticamente</string>
-  <string name="app_wifi_mode_summary">Actualizar aplicações automaticamente quando conectado a Wi-Fi</string>
+  <string name="app_wifi_mode_summary">Actualizar aplicações automaticamente quando ligado a Wi-Fi</string>
   <string name="authenticated_failed">Não é possível iniciar sessão</string>
   <string name="authenticating"><CDATA>A verificar…</CDATA></string>
   <string name="authenticating_manually">Não foi possível autenticar</string>
@@ -55,7 +55,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_favorite_success">Secundários</string>
   <string name="check_app_version">A verificar actualizações…</string>
-  <string name="check_network">"Não foi possível conectar à rede"</string>
+  <string name="check_network">"Não foi possível ligar à rede"</string>
   <string name="clarity_high">Alto</string>
   <string name="clarity_standard">Predifinido</string>
   <string name="clarity_supper">Super</string>
@@ -276,7 +276,7 @@
   <string name="refreshing">Aguarde um segundo…</string>
   <string name="releasetorefresh">Libertar e actualizar</string>
   <string name="reload_sub_title">Tente novamente</string>
-  <string name="reload_title">Não é possível conectar à rede</string>
+  <string name="reload_title">Não é possível ligar à rede</string>
   <string name="reload_title_ep">Não foi possível obter séries completas</string>
   <string name="retry">Tente novamente</string>
   <string name="router">Offline remoto</string>
@@ -427,7 +427,7 @@
   <string name="vp_offline_title">Offline</string>
   <string name="vp_offline_title_name">Episódio %d</string>
   <string name="vp_play_youku_failed_get_video_info">"Não foi possível obter informação do vídeo""</string>
-  <string name="vp_play_youku_time_out">Tempo da conexão expirou</string>
+  <string name="vp_play_youku_time_out">Tempo da ligação expirou</string>
   <string name="vp_player_plugin_dlg_neg_btn">Fechar</string>
   <string name="vp_player_plugin_dlg_no_content">Não existe plugin the reprodutor de vídeo</string>
   <string name="vp_player_plugin_dlg_title">Plugin do reprodutor de vídeo</string>
@@ -454,7 +454,7 @@
   <string name="vp_video_loading"><CDATA>A carregar…</CDATA></string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
   <string name="vp_VideoView_error_button">OK</string>
-  <string name="vp_VideoView_error_network_not_available">Não é possível conectar à rede</string>
+  <string name="vp_VideoView_error_network_not_available">Não é possível ligar à rede</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>

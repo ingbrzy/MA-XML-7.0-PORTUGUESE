@@ -36,9 +36,9 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="cloud_back_up_interval_long">7 dias</string>
   <string name="cloud_back_up_interval_short">1 dia</string>
   <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue-se à rede e tente novamente."</string>
-  <string name="cloud_back_up_open_info">"Fazer cópia quando conectado à Wi-Fi uma vez a cada %1$s
+  <string name="cloud_back_up_open_info">"Fazer cópia quando ligado à Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando conectado à Wi-Fi uma vez a cada %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado à Wi-Fi uma vez a cada %1$s</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
   <string name="cloud_back_up_title">Cópia do ecrã inicial</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança utilizando Nuvem Mi</string>
@@ -60,7 +60,7 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="error_data_in_transfer">A sincronização irá terminar em %s horas.</string>
   <string name="error_data_in_transfer_title">Nuvem Mi não disponível</string>
   <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
-  <string name="error_network">Não é possível conectar à rede</string>
+  <string name="error_network">Não é possível ligar à rede</string>
   <string name="error_not_acceptable">A sincronização foi desactivada.</string>
   <string name="error_server">Erro do servidor</string>
   <string name="error_title">Não foi possível sincronizar</string>
@@ -101,8 +101,8 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
-  <string name="internet_access_dspt">Esta aplicação necessita de conectar à internet para funcinonar normalmente.</string>
-  <string name="license_host_unreachable">Não é possível conectar à rede. Para ver estas informações, vá a %s.</string>
+  <string name="internet_access_dspt">Esta aplicação necessita de ligar à internet para funcinonar normalmente.</string>
+  <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações, vá a %s.</string>
   <string name="loading">Aguarde um seg…</string>
   <string name="loading_hint">A carregar</string>
   <string name="master_alert_notif_dspt_add">%s ficheiros aguardam sincronizar</string>
@@ -146,8 +146,8 @@ Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar l
   <string name="micloud_main_data_unsynced">%d ficheiros aguardam sincronizar</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização foi %s</string>
-  <string name="micloud_main_network_abnormal">Não é possível conectar à rede</string>
-  <string name="micloud_main_network_error">Não é possível conectar à rede</string>
+  <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
+  <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_set_internet">Rede</string>
   <string name="micloud_main_space_full">Não existe espaço de armazenamento</string>
   <string name="micloud_main_space_low">Quase sem espaço…</string>  
@@ -176,7 +176,7 @@ Toque nas definições de Sincronizar para ver mais opções."</string>
 %s Créditos Mi"</string>
   <string name="micloud_member_buy_title">Confirmar encomenda</string>
   <string name="micloud_member_net_error_alert_message">Não está ligado à internet.</string>
-  <string name="micloud_member_net_error_alert_title">Não é possível conectar à internet</string>
+  <string name="micloud_member_net_error_alert_title">Não é possível ligar à internet</string>
   <string name="micloud_member_pay_fail_toast">Não foi possível completar o pagamento</string>
   <string name="micloud_member_pay_miid_error_toast">Erro de conta</string>
   <string name="micloud_member_pay_order_error_toast">Erro de dados</string>
@@ -245,7 +245,7 @@ Este serviço encripta e envia o ID do dispositivo para os servidores MI."</stri
   <string name="mx_dspt_provision_privacy_2_sim">"Este serviço necessita do seu número de telefone. A sua operadora pode cobrar por dois SMS para activar este serviço.
 
 Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua conexão de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui</string>
+  <string name="mx_dspt_provision_with_voip">Telefone para outros utilizadores MIUI de graça utilizando a sua ligação de Internet. Pode ligar/desligar esta função a qualquer momento nas Definições.VoIP é suportado por Weihui. Ver política de privacidade da Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
@@ -278,8 +278,8 @@ Este recurso encripta e envia o ID do seu dispositivo para os servidores Mi."</s
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, o conteúdo já existe…</string>
   <string name="sina_share_pendding">A partilhar…</string>
   <string name="sina_share_success">Partilhado</string>
-  <string name="sina_token_expired_warning">A conta Weibo expirou: Volte a conectar</string>
-  <string name="sina_token_invalid_warning">A conta Weibo é inválida: Volte a conectar</string>
+  <string name="sina_token_expired_warning">A conta Weibo expirou: Volte a ligar</string>
+  <string name="sina_token_invalid_warning">A conta Weibo é inválida: Volte a ligar</string>
   <string name="sms">SMS</string>
   <string name="start_micloud">Iniciar</string>
   <string name="storage">Armazenamento</string>

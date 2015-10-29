@@ -155,8 +155,8 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="CndMmi">Mostrar o meu número</string>
   <string name="CnipMmi">O meu número está visível</string>
   <string name="CnirMmi">O meu número está oculto</string>
-  <string name="ColpMmi">Conectado a uma rede de ID</string>
-  <string name="ColrMmi">Conectado a uma rede com restrição de ID</string>
+  <string name="ColpMmi">Ligado a uma rede de ID</string>
+  <string name="ColrMmi">Ligado a uma rede com restrição de ID</string>
   <string name="common_last_name_prefixes" />
   <string name="common_name">Nome comum:</string>
   <string name="common_name_conjunctions" />
@@ -1550,8 +1550,8 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Pressione para definir.</string>
   <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
-  <string name="tethered_notification_no_device_message">Sem dispositivos conectados</string>
-  <string name="tethered_notification_one_device_message">%1$s dispositivo conectado</string>
+  <string name="tethered_notification_no_device_message">Sem dispositivos ligados</string>
+  <string name="tethered_notification_one_device_message">%1$s dispositivo ligado</string>
   <string name="tethered_notification_title">Ligação ponto a ponto ou hotspot activa</string>
   <string name="text_copied">Texto copiado para a área de transferência.</string>
   <string name="textSelectionCABTitle">Selecção do texto</string>

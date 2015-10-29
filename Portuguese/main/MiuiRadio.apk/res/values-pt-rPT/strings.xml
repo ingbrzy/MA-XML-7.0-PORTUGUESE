@@ -18,7 +18,7 @@
     <string name="local_program">Transferidos</string>
     <string name="hotlist_name">Destaque</string>
     <string name="updated">" actualizado"</string>
-    <string name="load_failed">Não é possível conectar à rede</string>
+    <string name="load_failed">Não é possível ligar à rede</string>
     <string name="broadcasting">"Tocar: "</string>
     <string name="loading_broadcasting">Aguarde um seg…</string>
     <string name="my_favorite">FAVORITOS</string>
@@ -58,7 +58,7 @@
     <string name="download_progress_toast">%1$d%%</string>
     <string name="download_network_is_not_available">Não é possivel ligar à rede</string>
     <string name="play_local_sound">Reproduzir o som local: %1$s</string>
-    <string name="no_network_text">Não é possível conectar à rede.</string>
+    <string name="no_network_text">Não é possível ligar à rede.</string>
     <string name="metered_network_text">Fluxo com rede calibrada</string>
     <string name="use_fm_radio_failed">Este dispositivo não pode utilizar o rádio FM</string>
     <string name="no_network_button_radio">Utilizar o rádio FM</string>

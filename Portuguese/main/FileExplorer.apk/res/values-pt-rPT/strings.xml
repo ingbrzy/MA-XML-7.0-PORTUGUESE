@@ -72,7 +72,7 @@
   <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Alertar ligação à rede</string>
-  <string name="connection_error">"Não foi possível conectar"</string>
+  <string name="connection_error">"Não foi possível ligar"</string>
   <string name="copy_failed">Não é possível copiar</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiro para Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Coloque no ecrã inicial</string>
@@ -84,8 +84,8 @@
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Esta aplicação necessita de conectar à internet através de Wi-Fi para funcionar normalmente.</string>
-  <string name="data_consumption_title">Conexão à Internet</string>
+  <string name="data_consumption_message">Esta aplicação necessita de ligar à internet através de Wi-Fi para funcionar normalmente.</string>
+  <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
@@ -263,7 +263,7 @@
   <string name="my_video_desc"/>
   <string name="name_empty">Deve introduzir um nome.</string>
   <string name="net_lose_connected">Ligação perdida.</string>
-  <string name="networkView_notConnected">Não é possível conectar à rede</string>
+  <string name="networkView_notConnected">Não é possível ligar à rede</string>
   <string name="network_connect_confirm_des">O Explorador necessita de ligar à internet para funcionar</string>
   <string name="network_spent_reminding">Abrir esta página requer algum tráfego do seu plano de dados.</string>
   <string name="network_spent_reminding_title">Notificação de utilização de dados</string>
@@ -287,7 +287,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="no_file">Vazio</string>
   <string name="no_local_sticker_tip">"Não foi possível encontrar adesivos transferidos. Confira os adesivos partilhados pelos fãs Mi."</string>
   <string name="no_more_space">Não há espaço suficiente.</string>
-  <string name="no_network_str">"Não foi possível conectar à rede. Verifique a sua conexão de rede e tente novamente."</string>
+  <string name="no_network_str">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
   <string name="no_recent_files">Sem ficheiros recentes</string>
   <string name="no_tasks">Sem tarefas.</string>
   <string name="no_wifi">Não foram detectadas redes</string>
@@ -432,8 +432,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="share_box_receive">Recebidos</string>
   <string name="share_box_send">Enviados</string>
   <string name="share_link_failed">"Não foi possível gerar o link."</string>
-  <string name="shared_sticker_network_permission_tip">"Não foi possível conectar à rede. Verifique a sua conexão de rede e tente novamente."</string>
-  <string name="shared_sticker_page_no_file">"Não foi possível conectar à rede. Verifique a sua conexão de rede e tente novamente."</string>
+  <string name="shared_sticker_network_permission_tip">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
+  <string name="shared_sticker_page_no_file">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
   <string name="shared_sticker_str">Partilhado por fãs Mi</string>
   <string name="shared_sticker_suffix">Adesivo em %s</string>
   <string name="shared_sticker_use_tip">"Pode enviar os adesivos que gravou nos diálogos WeChat da mesma maneira que envia imagens.

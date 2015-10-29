@@ -11,7 +11,7 @@
   <string name="add_user_define_title">Adicionar perfil</string>
   <string name="alter_message_abandon_title">Descartar alterações?</string>
   <string name="alter_message_delete">Eliminar?</string>
-  <string name="alter_message_open_hide_message">"Aplicações adicionadas a esta lista não se poderão conectar à rede Wi-Fi, dados móveis ou GPS e podem não funcionar normalmente."</string>
+  <string name="alter_message_open_hide_message">"Aplicações adicionadas a esta lista não se poderão ligar à rede Wi-Fi, dados móveis ou GPS e podem não funcionar normalmente."</string>
   <string name="alter_message_open_hide_title">Gerir utilização da bateria pelas aplicações?</string>
   <string name="alter_message_switch_mode">Alternar modos?</string>
   <string name="alter_message_switch_mode_message">Quando você alternar os modos, as definições anteriores não serão aplicáveis a esta aplicação.</string>
@@ -30,13 +30,13 @@
   <string name="full_screen_enter">Entrar no modo ecrã inteiro</string>
   <string name="full_screen_exit">Sair do modo ecrã inteiro</string>
   <string name="hide_mode">Gerir utilização da bateria pelas aplicações</string>
-  <string name="hide_mode_desc">"Quando uma aplicação corre em segundo plano, as suas actividades irão ser monitorizadas para reduzir a utilização de bateria. Conexão à rede, serviços de localização, Rádio, etc. podem ser afectadas por esta funcionalidade. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação particular se comportar de forma anormal enquanto corre em segundo plano, pode personalizar as definições da aplicação"</string>
+  <string name="hide_mode_desc">"Quando uma aplicação corre em segundo plano, as suas actividades irão ser monitorizadas para reduzir a utilização de bateria. Ligação à rede, serviços de localização, Rádio, etc. podem ser afectadas por esta funcionalidade. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação particular se comportar de forma anormal enquanto corre em segundo plano, pode personalizar as definições da aplicação."</string>
   <string name="hide_mode_desc_title">Gerir utilização da bateria pelas aplicações</string>
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde um seg…</string>
   <string name="invalid_size_value">"Não foi possível obter o tamanho do pacote."</string>
-  <string name="keep_connect_description">Aplicações podem conectar à rede em segundo plano</string>
-  <string name="keep_connect_title">Permanecer conectado</string>
+  <string name="keep_connect_description">Aplicações podem ligar à rede em segundo plano</string>
+  <string name="keep_connect_title">Permanecer ligado</string>
   <string name="location_disable_description">Aplicações em segundo plano apenas podem aceder aos serviços de localização por um breve período de tempo enquanto que o acesso contínuo está restricto</string>
   <string name="location_disable_title">Restringir</string>
   <string name="location_enable_description">Aplicações podem utilizar serviços de localização em segundo plano</string>
@@ -72,7 +72,7 @@
   <string name="power_config_cpu_freq_title">Frequência da CPU</string>
   <string name="power_config_cpu_mode_dialog_title">Modo da CPU</string>
   <string name="power_config_cpu_mode_title">Modo da CPU</string>
-  <string name="power_config_data_connect_summary">Permitir que as aplicações conectem à rede em segundo plano</string>
+  <string name="power_config_data_connect_summary">Permitir que as aplicações liguem à rede em segundo plano</string>
   <string name="power_config_data_connect_title">Ligação de dados</string>
   <string name="power_config_event_delete">Eliminar</string>
   <string name="power_config_idle_notification_summary">Apenas mostrar a primeira notificação da aplicação</string>
@@ -117,8 +117,8 @@
   <string name="power_mode_view_event_title">Eventos</string>
   <string name="power_mode_view_user_define_title">Novo evento</string>
   <string name="power_optimize_activity_profile_file_error">Erro no Economizador de Bateria</string>
-  <string name="quick_disconnect_description">Aplicações em segundo plano apenas podem conectar à rede por um breve período de tempo enquanto que o acesso contínuo está restricto</string>
-  <string name="quick_disconnect_title">Desconectar</string>
+  <string name="quick_disconnect_description">Aplicações em segundo plano apenas podem ligar à rede por um breve período de tempo enquanto que o acesso contínuo está restricto</string>
+  <string name="quick_disconnect_title">Desligar</string>
   <string name="reading">Modo Leitura</string>
   <string name="screen_off">Ecrã desligado</string>
   <string name="screen_off_10_min">Ecrã desligado há mais de 10 minutos</string>

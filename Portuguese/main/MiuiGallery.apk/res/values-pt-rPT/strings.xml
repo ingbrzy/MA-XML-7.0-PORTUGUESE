@@ -661,7 +661,7 @@ com os amigos"</string>
   <string name="error_socket_timeout">A ligação da rede excedeu o tempo limite</string>
   <string name="error_title">Não é possível sincronizar</string>
   <string name="error_unauthorized">Sincronização foi desactivada devido a muitas tentativas de ligação.</string>
-  <string name="error_unknown_host">Não é possível conectar à rede. Verifique sua ligação de dados e tente novamente.</string>
+  <string name="error_unknown_host">Não é possível ligar à rede. Verifique sua ligação de dados e tente novamente.</string>
   <string name="event_create_long_photo">A criar foto…</string>
   <string name="event_manage_photos">Gerir fotos</string>
   <string name="exit">Sair</string>
@@ -682,7 +682,7 @@ com os amigos"</string>
   <string name="face_albumset_detecting_tip">Aguarde um segundo…</string>
   <string name="face_albumset_empty">Vazio.</string>
   <string name="face_albumset_loading_data">A carregar dados…</string>
-  <string name="face_albumset_pending_enable_tip">Irá organizar as fotos quando o dispositivo estiver conectado a uma rede Wi-Fi</string>
+  <string name="face_albumset_pending_enable_tip">Irá organizar as fotos quando o dispositivo estiver ligado a uma rede Wi-Fi</string>
   <string name="face_albumset_use_tip">Organizar fotos automaticamente pelas pessoas que estão dentro delas.</string>
   <string name="face_choose_tip">Escolher dum álbum existente</string>
   <string name="face_move_dialog_title">Seleccione o álbum</string>
@@ -738,7 +738,7 @@ com os amigos"</string>
   <string name="group_by_time">Por tempo</string>
   <string name="has_invalid_recipient">Destinatários inválidos: %1$s</string>
   <string name="height">Altura</string>
-  <string name="hidden_album_display_name">Álbum Escondido</string>
+  <string name="hidden_album_display_name">Álbum Oculto</string>
   <string name="highlight">Destacar</string>
   <string name="highlight_abbr">H</string>
   <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
@@ -752,7 +752,7 @@ com os amigos"</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
-  <string name="hybrid_network_unavaliable">Não é possível conectar à rede</string>
+  <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
   <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde um seg…</string>
   <string name="hybrid_pull_to_refresh_release_label">Solte para actualizar…</string>
@@ -767,13 +767,13 @@ com os amigos"</string>
   <string name="Import">Importar</string>
   <string name="import_complete">Importar concluído</string>
   <string name="import_fail">Importar falhou</string>
-  <string name="impunity_declaration">"Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam duma conexão à internet para funcionar normalmente."</string>
+  <string name="impunity_declaration">"Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam duma ligação à internet para funcionar normalmente."</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Mostrar notificação da rede</string>
   <string name="impunity_declaration_summary">Mostrar aviso de rede cada vez que a aplicação Galeria inicia</string>
   <string name="impunity_declaration_title">Notícia da rede</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">Para esconder uma foto, pressione e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Para ocultar uma foto, pressione e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
   <string name="initial_cloud_text">Armazenar e ver as suas fotos em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
@@ -869,12 +869,12 @@ com os amigos"</string>
   <string name="multiface_crop_help">Toque num rosto para iniciar</string>
   <string name="must_pick_file">Seleccionar imagem</string>
   <string name="name_wrong">"Isto não é %s"</string>
-  <string name="need_to_turn_on_network">"Não tem uma conexão à internet."</string>
+  <string name="need_to_turn_on_network">"Não tem uma ligação à internet."</string>
   <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi primeiro</string>  
-  <string name="need_to_turn_on_wlan">Conectar ao Wi-Fi primeiro</string>
+  <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
-  <string name="network_connected_rescan">Não é possível conectar à rede</string>
+  <string name="network_connected_rescan">Não é possível ligar à rede</string>
   <string name="new_device_tips">"Pressione para ver 
 o dispositivo"</string>
   <string name="no">Não</string>
@@ -884,7 +884,7 @@ o dispositivo"</string>
   <string name="no_map_app">Não foi encontrada uma aplicação para ser utilizada com esta acção</string>
   <string name="no_network_connected">Nenhuma rede detectada</string>
   <string name="no_picture_or_video">Vazio</string>
-  <string name="no_secret_photo">Sem fotos escondidas</string>
+  <string name="no_secret_photo">Sem fotos ocultas</string>
   <string name="no_storage_disable_cloud_albums">A nuvem não está disponível.</string>
   <string name="no_such_album">Não foi encontrado nenhum álbum</string>
   <string name="no_such_item">Ficheiro não encontrado</string>
@@ -1090,7 +1090,7 @@ o dispositivo"</string>
   <string name="size_above">%1$s ou em cima</string>
   <string name="size_below">%1$s ou em baixo</string>
   <string name="size_between">%1$s a %2$s</string>
-  <string name="skip_hide_special_album">Não pode esconder álbuns do sistema (ex. Câmara, captura de ecrã)</string>
+  <string name="skip_hide_special_album">Não pode ocultar álbuns do sistema (ex. Câmara, captura de ecrã)</string>
   <string name="slideshow">Apresentação de slides</string>
   <string name="slideshow_category">Apresentação de imagens</string>
   <string name="slideshow_dream_name">Apresentação de slides</string>
@@ -1111,7 +1111,7 @@ o dispositivo"</string>
   <string name="sync_album">Sincronizar álbuns</string>
   <string name="sync_album_error">Não é possível sincronizar as fotos neste álbum. Verifique sua ligação e tente novamente.</string>
   <string name="sync_album_in_proecess">A sincronizar o álbum…</string>
-  <string name="sync_album_set_error">"Não é possível sincronizar estes álbuns. Verifique sua conexão e tente novamente."</string>
+  <string name="sync_album_set_error">"Não é possível sincronizar estes álbuns. Verifique sua ligação e tente novamente."</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
   <string name="sync_battery_low">Bateria fraca</string>
   <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem</string>

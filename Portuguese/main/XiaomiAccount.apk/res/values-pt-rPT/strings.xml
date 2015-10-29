@@ -111,7 +111,7 @@ Por favor insira a verificação no email"</string>
   <string name="mipay_center">Carteira Mi</string>
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
-  <string name="no_network_title">Não é possível conectar à rede</string>
+  <string name="no_network_title">Não é possível ligar à rede</string>
   <string name="no_response_retry">Sem resposta, tente novamente.</string>
   <string name="no_sim_card">Sem cartão SIM</string>
   <string name="nobind">Não adicionado</string>
@@ -158,7 +158,7 @@ Para activar a conta, siga o
   <string name="passport_error_invalid_dev_id">"O seu ID de dispositivo é inválido."</string>
   <string name="passport_error_invalid_phone_num">Número de telefone errado</string>
   <string name="passport_error_login">Não é possível iniciar sessão</string>
-  <string name="passport_error_network">Não é possível conectar à rede</string>
+  <string name="passport_error_network">Não é possível ligar à rede</string>
   <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. A rede móvel não está disponível.</string>
   <string name="passport_error_phone_error">Núnero de telefone inválido</string>
   <string name="passport_error_server">Erro do servidor</string>
@@ -180,7 +180,7 @@ Para activar a conta, siga o
   <string name="passport_input_password_hint">Insira palavra-passe</string>
   <string name="passport_input_phone_hint">Insira o número de telefone</string>
   <string name="passport_input_vcode_hint">Insira o código de verificação</string>
-  <string name="passport_license_host_unreachable">Não é possível conectar à rede. Pode visualizar esta página em %s.</string>
+  <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode visualizar esta página em %s.</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão numa conta existente</string>
   <string name="passport_login_failed">Não é possível iniciar sessão</string>
@@ -259,7 +259,7 @@ Para activar a conta, siga o
   <string name="passport_wrong_vcode">O código que inseriu está errado</string>
   <string name="passport_xiaomi_account_dspt">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja MIUI Temas, e outros serviços Mi, em qualquer lugar.</string>
   <string name="passport_xiaomi_account_sec_dspt" />
-  <string name="passport_xiaomi_account_sec_dspt2">Iniciar sessão na sua Conta Mi necessita duma conexão de internet. Além de que, o acesso à localização, a Nuvem Mi, o Vip Mi irão ser ligados automaticamente.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Iniciar sessão na sua Conta Mi necessita duma ligação à internet. Além de que, o acesso à localização, a Nuvem Mi, o Vip Mi irão ser ligados automaticamente.</string>
   <string name="phone_activated">%s activado</string>
   <string name="phone_send_verify_code_prompt">Enviar código de verficação para %s</string>
   <string name="phone_unactivated">Não activado</string>

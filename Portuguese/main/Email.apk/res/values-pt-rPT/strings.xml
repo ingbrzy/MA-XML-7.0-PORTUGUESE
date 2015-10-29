@@ -92,7 +92,7 @@
   <string name="account_setup_failed_security">Não foi possível abrir a ligação com o servidor devido a um erro de segurança.</string>
   <string name="account_setup_failed_security_policies_unsupported">Este servidor pede recursos de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor.</string>
-  <string name="account_setup_failed_too_many_partnerships">Erro na autenticação, foi atingido o número máximo de conexões ao servidor permitido.</string>
+  <string name="account_setup_failed_too_many_partnerships">Erro na autenticação, foi atingido o número máximo de ligações ao servidor permitido.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>  
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
@@ -225,7 +225,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
-  <string name="collapse_recipient_details">Esconder detalhes do destinatário</string>
+  <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
@@ -451,7 +451,7 @@
   <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
   <string name="mail">Email</string>
   <string name="mail_body_turncated">Este email é muito grande para descarregar, apenas é possível mostrar uma parte dele, tente descarregar mais tarde no seu computador</string>  
-  <string name="mail_header_network_not_available">Não tem uma conexão de rede</string>
+  <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -533,8 +533,8 @@
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>  
-  <string name="network_error">Sem conexão</string>
-  <string name="network_not_available">Não é possível conectar à rede</string>
+  <string name="network_error">Sem ligação</string>
+  <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
   <string name="new_messages">%1$d novas mensagens</string>
   <string name="next_action">Próximo</string>  
@@ -570,7 +570,7 @@
   <string name="outbox_alert_description_cannot_authenticate">Não foi possível autenticar %s.</string>
   <string name="outbox_alert_description_email_size_error">O tamanho máximo do Email foi atingido.</string>
   <string name="outbox_alert_description_fail_authentication">Utilizador ou palavra-passe incorrecto.</string>
-  <string name="outbox_alert_description_fail_network">Não foi possível conectar à rede.</string>
+  <string name="outbox_alert_description_fail_network">Não foi possível ligar à rede.</string>
   <string name="outbox_alert_description_http_error">Erro HTTP do servidor durante sincronização da caixa de saída.</string>
   <string name="outbox_alert_description_insufficient_storage_error">Espaço de armazenamento insuficinente no servidor</string>
   <string name="outbox_alert_description_provision_error">Erro ao sincronizar a caixa de saída.</string>
@@ -797,7 +797,7 @@
   <string name="tip_cannot_switchview_in_unread_folder">Não foi possível alternar vista no modo de agregação de e-mails não lidos</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
-  <string name="toast_bar_fail_synchronization">"Não é possível conectar à rede"</string>
+  <string name="toast_bar_fail_synchronization">"Não é possível ligar à rede"</string>
   <string name="toast_bar_insufficient_memory_space">Não existe espaço de armazenamento suficiente</string>
   <string name="toast_bar_invalid_account">Tem de iniciar sessão novamente</string>
   <string name="toast_bar_no_connection_network">"Sem ligação à Internet"</string>

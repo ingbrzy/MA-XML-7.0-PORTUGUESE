@@ -15,7 +15,7 @@
   <string name="app_version_which_call">Versão da aplicação: %s</string>
   <string name="birthday">Aniversário</string>
   <string name="check_phone_error_title">A sincronização está desligada</string>
-  <string name="check_phone_io_error">Não é possível conectar à rede</string>
+  <string name="check_phone_io_error">Não é possível ligar à rede</string>
   <string name="chinese_day_1">" "</string>
   <string name="chinese_day_10">" "</string>
   <string name="chinese_day_11">" "</string>
@@ -414,7 +414,7 @@
   <string name="heavenly_stems_yi">" "</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">"Não é possível conectar à rede. Para visualizar estas informações, 
+  <string name="license_host_unreachable">"Não é possível ligar à rede. Para visualizar estas informações, 
 vá a %s"</string>
   <string name="loading">A carregar…</string>
   <string name="mibi_license">Contrato do crédito MI</string>

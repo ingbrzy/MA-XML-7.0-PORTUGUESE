@@ -56,11 +56,11 @@
   <string name="dont_enable">Desligar</string>
   <string name="download_completed">Ficheiro guardado em %s</string>
   <string name="download_failed">A transferência falhou</string>
-  <string name="download_failed_blocked">Não é possível conectar à rede</string>
+  <string name="download_failed_blocked">Não é possível ligar à rede</string>
   <string name="download_failed_cannot_resume">Não é possível transferir</string>
   <string name="download_failed_file_exists">O ficheiro já existe</string>
   <string name="download_failed_gone">O ficheiro não existe</string>
-  <string name="download_failed_network">Não é possível conectar à rede</string>
+  <string name="download_failed_network">Não é possível ligar à rede</string>
   <string name="download_failed_server">A transferência falhou</string>
   <string name="download_failed_space">Não existe espaço insuficiente</string>
   <string name="download_failed_storage">A transferência falhou, verifique o seu cartão SD</string>
@@ -255,7 +255,7 @@ Verifique o seu número de rastreamento."</string>
   <string name="nearby_yellow_page_title">Próximo</string>
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Acesso à rede negado</string>
-  <string name="network_unavaliable">Não é possível conectar à rede</string>
+  <string name="network_unavaliable">Não é possível ligar à rede</string>
   <string name="no_brief">Nenhuma introdução</string>
   <string name="no_evaluation">Nenhuma opinião</string>
   <string name="no_more_result">Sem mais resultados</string>
