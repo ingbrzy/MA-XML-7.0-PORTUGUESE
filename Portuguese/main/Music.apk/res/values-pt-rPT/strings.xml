@@ -26,6 +26,7 @@
   <string name="all_music">Todas as Músicas</string>
   <string name="all_tracks">Todas as Músicas</string>
   <string name="all_tracks_short">Todas as músicas</string>
+  <string name="already_download">A transferir, por favor aguarde...</string>
   <string name="artist">Artistas</string>
   <string name="artist_is_empty">O nome do artista não pode estar vazio.</string>
   <string name="artist_name">Artista</string>
@@ -55,9 +56,9 @@
   <string name="chinese_male">Cantores (China)</string>
   <string name="choose_download_quality">Escolher qualidade de Transferência</string>
   <string name="choose_stream_quality">Qualidade de fluxo preferido</string>
-  <string name="click_modify">Pressione para modificar a letra.</string>
-  <string name="click_to_shuffle">Pressione para misturar tudo</string>
-  <string name="click_to_view_new_local_audios">Pressione para ver detalhes.</string>
+  <string name="click_modify">Toque para editar letras.</string>
+  <string name="click_to_shuffle">Toque para misturar tudo</string>
+  <string name="click_to_view_new_local_audios">Toque para ver detalhes.</string>
   <string name="close_music_time">"Tempo restante: "</string>
   <string name="cloud_enable">Sincronizar música com a Nuvem Mi</string>
   <string name="cloud_settings">Definições de sincronização</string>
@@ -106,11 +107,14 @@
   <string name="download_auto_when_all_network">Utilizar rede móvel e Wi-Fi</string>
   <string name="download_auto_when_free_network">Utilizar apenas Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Configurações adicionais para as suas músicas favoritas</string>
+  <string name="download_complete">Transferência concluída</string>
+  <string name="download_complete_start_install">Transferência concluída, a iniciar instalação...</string>
   <string name="download_completed">Transferida</string>
   <string name="download_method">Transferir</string>
   <string name="download_processing">A transferindo…</string>
   <string name="download_quality">Transferir qualidade</string>
   <string name="download_quality_summary">Configurações adicionais para as músicas que transferir</string>
+  <string name="download_start">A iniciar transferência...</string>
   <string name="download_while_playing_summary">Transferir automaticamente as músicas que está a ouvir on-line</string>
   <string name="download_while_playing_title">Transferir durante a transmissão</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
@@ -160,7 +164,7 @@
   <string name="favorite_singer">Artistas Favoritos</string>
   <string name="favorite_succeed">Já adicionada aos favoritos</string>
   <string name="favorite_tracks">Favoritos</string>
-  <string name="favourite_music_left_half">Para adcionar músicas à lista de reprodução, pressione em</string>
+  <string name="favourite_music_left_half">Para adcionar músicas à lista de reprodução, toque em</string>
   <string name="favourite_music_right_half">Ícone favorito à direita do título da música</string>
   <string name="female_artist">Artistas femininos</string>
   <string name="file_not_found">Ficheiro não encontrado</string>
@@ -220,7 +224,7 @@
   <string name="like">Gosto</string>
   <string name="list_detail_title">Detalhes</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
-  <string name="list_item_play_FM_radio">Pressione para reproduzir Rádio FM</string>
+  <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Aguarde um seg…</string>
   <string name="local_music">Música Local</string>

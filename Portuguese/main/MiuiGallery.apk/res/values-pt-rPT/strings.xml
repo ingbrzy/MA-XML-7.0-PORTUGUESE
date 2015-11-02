@@ -111,7 +111,7 @@
   <string name="bigscreen_slide_exit">Sair da apresentação de fotos</string>
   <string name="bigscreen_slide_fail_cause_loading">Reiniciar apresentação depois de carregar imagens</string>
   <string name="bigscreen_slide_playing">A apresentação está a ser reproduzida em em %s</string>
-  <string name="bigscreen_video_quit">Pressione para sair</string>
+  <string name="bigscreen_video_quit">Toque para sair</string>
   <string name="black_white">Preto e branco</string>
   <string name="brannan">Manhã</string>
   <string name="browse_category">Mostrar</string>
@@ -524,7 +524,7 @@
   <string name="clear_thumbnail_cache_confirm">Todas as miniaturas em cache na Galeria serão eliminados</string>
   <string name="clear_thumbnail_cache_summary">Eliminar histórico de miniaturas</string>
   <string name="click_to_add_picture">Prima para adicionar imagens</string>
-  <string name="click_top_right">Pressione o ícone</string>
+  <string name="click_top_right">Toque neste ícone</string>
   <string name="close">Encerrar</string>
   <string name="cloud_album_more_settings">Sincronizar com a Nuvem Mi</string>
   <string name="cloud_album_set_create">Novo</string>
@@ -575,7 +575,8 @@ com os amigos"</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Tem a certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
-  <string name="contact_photo">Definir como fotografia de contacto</string>
+  <string name="contact_photo">Definir como foto de contacto</string>
+  <string name="contact_tip">Contactos</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
   <string name="context_menu_copy">Copiar</string>
   <string name="context_menu_copy_notice">Copiados</string>
@@ -675,7 +676,7 @@ com os amigos"</string>
   <string name="external_usb_device">Armazenamento USB</string>
   <string name="external_usb_device_hm">Armazenamento USB externo</string>
   <string name="face_album">Pessoas</string>
-  <string name="face_album_long_tap_tip">Para seleccionar várias pessoas ou alterar as definições do grupo, pressione &amp; segure uma foto de perfil</string>
+  <string name="face_album_long_tap_tip">Para seleccionar várias pessoas ou alterar as definições do grupo, prima e segure uma foto de perfil</string>
   <string name="face_album_new_name_hint">Novo nome</string>
   <string name="face_album_not_named">Sem nome</string>
   <string name="face_album_rename_hint">Insira o nome</string>
@@ -773,14 +774,16 @@ com os amigos"</string>
   <string name="impunity_declaration_settings">Mostrar notificação da rede</string>
   <string name="impunity_declaration_summary">Mostrar aviso de rede cada vez que a aplicação Galeria inicia</string>
   <string name="impunity_declaration_title">Notícia da rede</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">Para ocultar uma foto, pressione e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">Para ocultar uma foto, prima e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
   <string name="initial_cloud_text">Armazenar e ver as suas fotos em qualquer lugar.</string>
   <string name="initializing_cloud">A iniciar…</string>
+  <string name="input_a_name">Introduzir nome</string>
   <string name="input_baby_name">Introduzir nome</string>
   <string name="input_baby_nick_name">Introduzir alcunha</string>
   <string name="input_cloudfolder_name">Nome da pasta</string>
   <string name="input_nickname_toast">"Introduzir nome do bebé"</string>
+  <string name="input_or_select_a_name">Introduzir ou escolher nome</string>
   <string name="internal_camera_folder_display_name">Fotos da câmara interna</string>
   <string name="internal_miui_capture_screen_folder_display_name">Capturas de ecrã internas</string>
   <string name="internal_sd_card">Armazenamento interno</string>
@@ -823,7 +826,7 @@ com os amigos"</string>
   <string name="location">Localização</string>
   <string name="locations">Localizações</string>
   <string name="lomoish">Lomo</string>
-  <string name="long_press_to_refocus">Pressione e segure para voltar a centrar</string>
+  <string name="long_press_to_refocus">Toque e segure para centrar novamente</string>
   <string name="make_download_dir_fail">Não é possível criar uma pasta para armazenar ficheiros</string>
   <string name="maker">Autor</string>
   <string name="manual">Manual</string>
@@ -875,8 +878,8 @@ com os amigos"</string>
   <string name="negative">Negativo</string>
   <string name="netease_newsreader_netease_down_pic">Leitor de Notícias</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
-  <string name="new_device_tips">"Pressione para ver 
-o dispositivo"</string>
+  <string name="new_device_tips">"Toque para ver 
+dispositivo"</string>
   <string name="no">Não</string>
   <string name="no_albums_alert">Sem álbuns disponíveis</string>
   <string name="no_connectivity">Alguns locais não puderam ser identificados devido a problemas de rede</string>
@@ -1144,12 +1147,12 @@ o dispositivo"</string>
   <string name="try_to_send">Enviar</string>
   <string name="ubifocus_data_invalid">Alguns dados desta imagem são inválidos</string>
   <string name="ubifocus_data_missing">Estão em falta alguns dados desta imagem</string>
-  <string name="ubifocus_guide_text">Pressione e segure para recentrar</string>
+  <string name="ubifocus_guide_text">Toque e segure para centrar novamente</string>
   <string name="ubifocus_map_error">Alguns dados para esta imagem contém erros</string>
-  <string name="ubifocus_refocus_data_invalid">Não é possível refocar porque alguns dados da imagem são inválidos</string>
-  <string name="ubifocus_refocus_data_missing">Não é possível recentrar porque alguns dos dados desta imagem estão em falta</string>
+  <string name="ubifocus_refocus_data_invalid">Não é possível centrar novamente porque alguns dados da imagem são inválidos</string>
+  <string name="ubifocus_refocus_data_missing">Não é possível centrar novamente porque alguns dos dados desta imagem estão em falta</string>
   <string name="ubifocus_refocus_download_tip">Deve transferir os dados desta imagem antes de redirecionar.</string>
-  <string name="ubifocus_refocus_map_error">Não é possível recentrar porque alguns dos dados desta imagem da contém erros</string>
+  <string name="ubifocus_refocus_map_error">Não é possível centrar novamente porque alguns dos dados desta imagem da contém erros</string>
   <string name="uc">UC</string>
   <string name="ucdownloads_screenshot">Navegador UC</string>
   <string name="unit_mm">mm</string>

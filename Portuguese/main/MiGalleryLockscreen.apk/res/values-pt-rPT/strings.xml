@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">galeria</string>
+  <string name="cancel">Sair</string>
+  <string name="declaration">"Ao utilizar este produto, está a concordar com a nossa &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acordo de Utilizador&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de Privacidade&lt;/a&gt;. Esta aplicação necessita de ligar à internet para funcionar normalmente."</string>
+  <string name="declaration_title">Termos de Utilização</string>
+  <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
+  <string name="lockscreen_magazine_summary">Obter papeis de parede entregues no seu ecrã de bloqueio todos os dias.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s papeis de parede</string>
+  <string name="lockscreen_magazine_system_title">Predefinido</string>
+  <string name="lockscreen_magazine_title">Papeis de parede diários</string>
+  <string name="no_long_show">Não mostrar novamente</string>
+  <string name="ok">Concordar</string>
+  <string name="resource_apply">Aplicar</string>
+  <string name="resource_no_network_text">Não é possível ligar à rede.</string>
+  <string name="theme_apply_failured">Não é possível aplicar papel de parede do ecrã de bloqueio</string>
+  <string name="theme_apply_success">Bloqueio de ecrã aplicado</string>
+  <string name="theme_applying">A aplicar…</string>
+</resources>

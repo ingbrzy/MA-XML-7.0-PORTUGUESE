@@ -151,6 +151,7 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Foi atingido o tamanho máximo da mensagem.</string>
   <string name="exceed_message_text_limitation">Foi atingido o tamanho de texto máximo da mensagem.</string>
+  <string name="exceed_message_size_limitation_add_slide">O tamanho da mensagem não é suficiente para adicionar um diapositivo</string>
   <string name="expire_on">Expira: %s</string>
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem.</string>
@@ -183,9 +184,9 @@
   <string name="group_message">Mensagem de grupo</string>
   <string name="group_message_failed_title">Erro ao enviar para %d contactos</string>
   <string name="group_resend_message">Reenviadas (%d)</string>
-  <string name="guild_add_attachments">Pressione para adicionar sorrisos e outros conteúdos</string>
-  <string name="guild_add_recipients">Pressione para adicionar destinatários a partir do livro de endereços</string>
-  <string name="guild_msim_switcher">Pressione para trocar de cartão SIM</string>
+  <string name="guild_add_attachments">Toque para adicionar sorrisos e outros conteúdos</string>
+  <string name="guild_add_recipients">Toque para adicionar destinatários a partir do livro de endereços</string>
+  <string name="guild_msim_switcher">Toque para trocar de cartão SIM</string>
   <string name="has_invalid_recipient">Destinatários inválidos: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Ocultar endereço do remetente</string>
   <string name="hint_search_sms">%d mensagens</string>
@@ -392,7 +393,7 @@
   <string name="pref_title_wake_up_screen">Despertar o ecrã</string>
   <string name="preferences_title">Definições</string>
   <string name="prepare_send">A preparar para enviar…</string>
-  <string name="press_recording">Para gravar pressione e mantenha o ícone de micro pressionado</string>
+  <string name="press_recording">Premir e segurar o ícone do Micro para gravar</string>
   <string name="preview">Visualizar</string>
   <string name="preview_slideshow">Pré-Visualizar</string>
   <string name="priority_high">Alta</string>
@@ -400,7 +401,7 @@
   <string name="priority_low">Baixa</string>
   <string name="priority_normal">Normal</string>
   <string name="privacy_mode_hint">Não pode enviar mensagens em modo convidado</string>
-  <string name="private_message">Mensagem privada</string>
+  <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações da mensagem</string>
   <string name="private_protect">Palavras passe</string>
   <string name="private_settings">Definições de mensagens privadas</string>
@@ -470,7 +471,7 @@
   <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
   <string name="send_message_dlg_mgs">Aviso CMCC: tem registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos terminais Ele fornece o serviço de. ajustes remotos e actualização app.). Uma mensagem de informação livre dispositivo será enviado para a inscrição. A mensagem será enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Seleccione OK para aceitar a matrícula e usar o serviço. Seleccione Cancelar para desistir e nenhum serviço será fornecido a partir CMCC.</string>
   <string name="send_message_dlg_title">Gestão de Dispositivos</string>
-  <string name="send_message_notification_msg">Pressione para ver os detalhes requeridos</string>
+  <string name="send_message_notification_msg">Toque para ver os detalhes pretendidos.</string>
   <string name="send_message_notification_tickerText">Pedido permissão de gestão dispositivo</string>
   <string name="send_message_notification_title">Permissão requerida</string>
   <string name="send_signature_confirm_dialog_message">Não foi encontrado nenhum corpo da mensagem. Enviar apenas a assinatura?</string>

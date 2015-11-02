@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s aplicações não podem mostrar notificações</item>
+        <item quantity="one">1 aplicação não pode mostrar notificações</item>
+     </plurals>
+     <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplicações podem mostrar notificações</item>
+        <item quantity="one">1 aplicação pode mostrar notificações</item>
+     </plurals>
      <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d letras.</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra.</item>

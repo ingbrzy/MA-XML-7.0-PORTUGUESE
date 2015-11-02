@@ -4,7 +4,7 @@
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_title">Bloquear aplicações individualmente</string>
   <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o modo Convidado</string>
-  <string name="ac_privacy_mode_title">Palavra-passe</string>
+  <string name="ac_privacy_mode_title">Bloqueio do Ecrã</string>
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
   <string name="accelerometer_summary_off">Rodar automaticamente ao girar o telefone</string>
   <string name="accelerometer_summary_on">Rodar automaticamente ao girar o telefone</string>
@@ -15,7 +15,7 @@
 "</string>
   <string name="access_control_need_to_unlock">Palavra-passe exigida:</string>
   <string name="access_control_no_back_footer">Toque [botão] para sair</string>
-  <string name="access_control_password_title">Palavra-passe</string>
+  <string name="access_control_password_title">Bloqueio do Ecrã</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio:</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
@@ -24,7 +24,7 @@
   <string name="accessibility_feature_state_on">Activado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando este recurso está activado, pode activar rapidamente recursos de acessibilidade em dois passos:
 
-Passo 1: Pressione e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
+Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
@@ -41,11 +41,11 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
 
 Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
-"<li>Ajuste o nível do zoom: Pressione dois ou mais dedos juntos ou afastados.</li></li></ul>"
+"<li>Ajuste o nível do zoom: Belisque dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
 Também pode aumentar temporáriamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
-Nota: Pressionar três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
+Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
   <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
@@ -104,7 +104,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
-  <string name="airplane_mode">Modo de Vôo</string>
+  <string name="airplane_mode">Modo de vôo</string>
   <string name="alarm_volume_title">Alarme</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Mostrar protecção de ecrã irá consumir energia adicional da bateria</string>
   <string name="alert_show_screensaver_when_not_charging_title">Utilização de bateria</string>
@@ -160,8 +160,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Nome do utilizador</string>
   <string name="app_backup">Cópia</string>
-  <string name="app_disable_dlg_text">Se desligar uma aplicação do sistema, outras aplicações podem funcionar mal.</string>
-  <string name="app_disable_dlg_title">Desligar aplicação do sistema?</string>
+  <string name="app_disable_dlg_text">Se desactivar uma aplicação do sistema, outras aplicações podem funcionar mal.</string>
+  <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação, poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
@@ -217,7 +217,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="auto_launch_label">Iniciar por predefinição</string>
   <string name="auto_launch_label_generic">Predefinições</string>
   <string name="auto_punctuate">Pontuação automática</string>
-  <string name="auto_punctuate_summary">Pressione a tecla de espaço duas vezes para inserir \".\"</string>
+  <string name="auto_punctuate_summary">Prima a tecla de espaço duas vezes para inserir \".\"</string>
   <string name="auto_replace">Correcção automática</string>
   <string name="auto_replace_summary">Corrigir erros ortográficos</string>
   <string name="auto_restore_summary">Ao reinstalar uma aplicação, restaurar dados e definições</string>
@@ -393,7 +393,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, pressione Return ou Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Return ou Enter.</string>
   <string name="bluetooth_dock_settings">Definições da Dock</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e multimédia</string>
   <string name="bluetooth_dock_settings_headset">Como altavoz do telefone</string>
@@ -473,12 +473,12 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_settings_summary">Gerir ligações, definir o nome e visibilidade do dispositivo</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Mostrar os ficheiros recebidos</string>
-  <string name="bluetooth_tether_checkbox_text">Emparelhar por Bluetooth</string>
+  <string name="bluetooth_tether_checkbox_text">Ancoragem Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">Partilhar ligação de Internet do telefone</string>
   <string name="bluetooth_tethering_device_connected_subtext">Partilhar ligação de Internet do telefone com 1 dispositivo</string>
   <string name="bluetooth_tethering_devices_connected_subtext">Partilhar ligação de Internet do telefone com %1$d dispositivos</string>
   <string name="bluetooth_tethering_errored_subtext">Não emparelhado</string>
-  <string name="bluetooth_tethering_off_subtext">Não partilhar ligação de Internet do telefone</string>
+  <string name="bluetooth_tethering_off_subtext">Não está a partilhar ligação de Internet deste telefone</string>
   <string name="bluetooth_tethering_overflow_error">Não pode ligar mais do que %1$d dispositivos.</string>
   <string name="bluetooth_turning_off">A desligar o Bluetooth…</string>
   <string name="bluetooth_turning_on">A ligar o Bluetooth…</string>
@@ -528,7 +528,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="button_text_reboot_now">Reiniciar</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
-  <string name="cached">Processos em cache em segundo plano</string>
+  <string name="cached">Processo em segundo plano em cache</string>
   <string name="call_settings_summary">Configurar o correio de voz, reencaminhamento de chamadas, chamada em espera, ID do chamador</string>
   <string name="call_settings_title">Definições de chamadas</string>
   <string name="camera_key_action_app_title">Abrir aplicação</string>
@@ -572,7 +572,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="cdma_security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, credêncial de bloqueio do armazenamento</string>
   <string name="cell_broadcast_settings">Definições de difusão móvel</string>
   <string name="cell_broadcast_settings_summary">Seleccione os tipos de alerta de emergência a mostrar</string>
-  <string name="change_password">Alterar palavra-passe</string>
+  <string name="change_password">Alterar bloqueio de segurança</string>
   <string name="change_security_lock">Experimente outras maneiras de desbloquear</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar o volume de chamada recebida para notificações</string>
@@ -856,7 +856,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_service_message">Premir OK para parar %1$s.</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
-  <string name="disabled">Desactivado</string>
+  <string name="disabled">Desactivada</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disconnect">desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
@@ -1205,7 +1205,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="key_settings_title">Botões</string>
   <string name="keyboard_layout_default_label">Predefinido</string>
   <string name="keyboard_layout_dialog_setup_button">Definir disposição do teclado</string>
-  <string name="keyboard_layout_dialog_switch_hint">Para trocar, pressione Control-Barra de espaço</string>
+  <string name="keyboard_layout_dialog_switch_hint">Para trocar, prima Control-Barra de espaços</string>
   <string name="keyboard_layout_dialog_title">Escolher disposição do teclado</string>
   <string name="keyboard_layout_picker_title">Disposição de teclado</string>
   <string name="keyboard_settings_category">Teclado e métodos de entrada</string>
@@ -1248,7 +1248,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="local_auto_backup_off">Desligado</string>
   <string name="local_auto_backup_on">Ligado</string>
   <string name="local_auto_backup_section_title">Cópia de segurança automática</string>
-  <string name="local_backup_password_summary_change">Tocar para alterar ou remover a palavra-passe para as cópias de segurança completas do ecrã principal</string>
+  <string name="local_backup_password_summary_change">Toque para alterar ou remover a palavra-passe para as cópias de segurança completas do ecrã principal</string>
   <string name="local_backup_password_summary_none">Cópias de segurança completas do ecrã principal não estão actualmente protegidas</string>
   <string name="local_backup_password_title">Palavra-passe da cópia de segurança do ecrã principal</string>
   <string name="local_backup_password_toast_confirmation_mismatch">A nova palavra-passe e confirmação não são iguais</string>
@@ -1366,7 +1366,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente.</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
-  <string name="lockpattern_recording_intro_footer">Pressione Menu para obter ajuda.</string>
+  <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda.</string>
   <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio:</string>
   <string name="lockpattern_restart_button_text">Redesenhar</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
@@ -1374,15 +1374,15 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Ligar/Desligar bloqueia o ecrã</string>
   <string name="lockpattern_settings_enable_summary">Deve desenhar um padrão para desbloquear o ecrã</string>
-  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao toque</string>
+  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao tocar</string>
   <string name="lockpattern_settings_enable_title">Necessário padrão</string>
-  <string name="lockpattern_settings_enable_visible_pattern_title">Ver padrão de desbloqueiol</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title">Ver padrão de desbloqueio</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_settings_title">Padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentativas incorrectas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
-  <string name="lockpattern_tutorial_continue_label">Próximo</string>
+  <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
@@ -1515,7 +1515,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="msd_install">Reinstalar o driver?</string>
   <string name="msd_install_download_zhushou">Já transferi o Mi Phone Manager</string>
   <string name="msd_install_finish">OK</string>
-  <string name="msd_install_next">Próximo</string>
+  <string name="msd_install_next">Seguinte</string>
   <string name="msd_install_retry">Se o seu computador ainda não detectar o dispositivo, tente o seguinte:</string>
   <string name="msd_install_retry_connect">Volte a ligar novamente o cabo USB.</string>
   <string name="msd_install_retry_reinstall">Volte a instalar o driver.</string>
@@ -1560,7 +1560,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_headset_calibrate">Atribuir botões</string>
   <string name="music_headset_calibrate_apply">Utilizar</string>
   <string name="music_headset_calibrate_confirm">Aplicar estas definições?</string>
-  <string name="music_headset_calibrate_hint">Pressionar o botão superior</string>
+  <string name="music_headset_calibrate_hint">Premir o botão superior</string>
   <string name="music_headset_calibrate_next_track">Faixa seguinte</string>
   <string name="music_headset_calibrate_prev_track">Faixa anterior</string>
   <string name="music_headset_calibrate_success">Definições aplicadas</string>
@@ -1592,8 +1592,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="networks">Seleccão de operadora</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Introduza uma nova palavra-passe para a cópia de segurança completa</string>
-  <string name="next_button_label">Próximo</string>
-  <string name="next_label">Próximo</string>
+  <string name="next_button_label">Seguinte</string>
+  <string name="next_label">Seguinte</string>
   <string name="nfc_category_title">NFC</string>
   <string name="nfc_payment_learn_more">Saber mais</string>
   <string name="nfc_payment_menu_item_add_service">Localizar aplicações</string>
@@ -1643,6 +1643,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="oldman_mode_settings_caption">Definições do modo leve</string>
   <string name="oldman_mode_summary">Utilizar menus simplificados</string>
   <string name="oldman_mode_summary_cta">Modo Leve necessita de ligar à internet e ler os seus contactos, mensagens, e localização para funcionar normalmente.</string>
+  <string name="onekey_migrate">Transferir</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro lançador.</string>
   <string name="only_when_charging">Apenas quando estiver a carregar</string>
@@ -1707,9 +1708,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_page2_small_title">Muito pequeno</string>
   <string name="page_layout_page2_title">Prévisualizar</string>
   <string name="page_layout_small_title">Muito pequeno</string>
-  <string name="password_guard">Palavra-passe</string>
+  <string name="password_guard">Bloqueio de segurança</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
-  <string name="password_entrance_title">Palavra-passe</string>
+  <string name="password_entrance_title">Bloqueio de segurança</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Desempenho</string>
   <string name="permission_detail_info">Detalhes</string>
@@ -1763,7 +1764,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
   <string name="pref_edge_handgrip">Controlos da borda</string>
   <string name="pref_operational_key">Botões de Navegação</string>
-  <string name="pref_volume_wake_summary">Pressionar os botões de volume acorda o dispositivo</string>
+  <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
   <string name="pref_volume_wake_title">Botões de volume</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
   <string name="preferred_app_settings">Predifinidas</string>
@@ -1806,7 +1807,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_service_disabled">Seviço desactivado</string>
   <string name="print_service_security_warning_summary">O documento pode passar por um ou mais servidores no seu caminho para a impressora.</string>
   <string name="print_service_security_warning_title">Utilizar %1$s?</string>
-  <string name="print_settings">A imprimir</string>
+  <string name="print_settings">Impressão</string>
   <string name="print_settings_title">Seviços de impressão</string>
   <string name="priority_storage_app_settings">Os dados do utilizador serão guardados em %1$s</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD, os dados do utilizador serão guardados automaticamente no armazenamento interno do seu dispositivo</string>
@@ -1845,7 +1846,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="profile_info_settings_title">Informações do perfil</string>
   <string name="progress_scanning">A pesquisar</string>
   <string name="provider_label">Carregar subscrições</string>
-  <string name="provision_next">Próximo</string>
+  <string name="provision_next">Seguinte</string>
   <string name="provision_page_layout_confirm_message">O seu dispositivo tem que reiniciar para aplicar estas alterações. Leva cerca de 1 minuto.</string>
   <string name="proxy_action_text">Concluído</string>
   <string name="proxy_clear_text">Limpar</string>
@@ -2242,7 +2243,7 @@ Possívelmente o código PIN está errado."</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="skip_label">Saltar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas irão ser desligados no ecrã de bloqueio.</string>
-  <string name="skip_step">Ignorar</string>
+  <string name="skip_step">Saltar</string>
   <string name="slot_status_title">Informação do IMEI:</string>
   <string name="small_font">Pequena</string>
   <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
@@ -2286,9 +2287,11 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="stable_build">" | Estável"</string>
   <string name="status_awake_time">Tempo em actividade</string>
   <string name="status_bar_and_notification_bar">Área de notificações e barra de estado</string>
-  <string name="status_bar_app_disable_notification">Ocultar notificações</string>
-  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Bloqueio de ecrã, área de notificações</string>
-  <string name="status_bar_app_enable_on_notificationBar">Área de notificações</string>
+  <string name="status_bar_app_des_separator">、</string>
+  <string name="status_bar_app_disable_notification">Notificações ocultas</string>
+  <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
+  <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
+  <string name="status_bar_app_enable_message">Emblemas</string>
   <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
   <string name="status_bar_screen_button_key">Botões virtuais do ecrã</string>
   <string name="status_bar_screen_key_back">Botão de Voltar</string>
@@ -2304,7 +2307,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_custom_wifi_name">Editar o nome do Wi-Fi</string>
   <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
-  <string name="status_bar_settings_long_click_sort">Pressione e segure para mudar</string>
+  <string name="status_bar_settings_long_click_sort">Prima e segure para mudar</string>
   <string name="status_bar_settings_manage_notification">Notificações da aplicacão</string>
   <string name="status_bar_settings_no_carrier">Nenhum</string>
   <string name="status_bar_settings_notification_bar">Área de Notificações</string>
@@ -2314,10 +2317,11 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_sound_vibrate">Som e vibração</string>
   <string name="status_bar_settings_show_carrier">Mostrar o nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
+  <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes irão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalhes do fluxo</string>
   <string name="status_bar_settings_show_home_message">Emblema da aplicação</string>
-  <string name="status_bar_settings_show_keyguard_notification">Flutuantes e ecrã de bloqueio</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">"Notificações flutuantes irão desaparecer automaticamente depois de aparecerem no topo do ecrã"</string>
+  <string name="status_bar_settings_show_keyguard_notification">Bloqueio de ecrã</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="status_bar_settings_show_notification_icon">Mostrar ícones de notificação</string>
   <string name="status_bar_settings_show_screenshot_notification">Mostrar notificação de captura do ecrã</string>
@@ -2406,10 +2410,10 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="testing_sim_toolkit">Ferramentas do SIM</string>
   <string name="testing_usage_stats">Estatísticas de utilização</string>
   <string name="testing_wifi_info">Informação Wi-Fi</string>
-  <string name="tether_settings_title_all">Emparelhar hotspot portátil</string>
-  <string name="tether_settings_title_bluetooth">Emparelhar Bluetooth</string>
-  <string name="tether_settings_title_usb">Emparelhar USB</string>
-  <string name="tether_settings_title_usb_bluetooth">Emparelhar</string>
+  <string name="tether_settings_title_all">Ancoragem USB e PA Móvel</string>
+  <string name="tether_settings_title_bluetooth">Ancoragem Bluetooth</string>
+  <string name="tether_settings_title_usb">Ancoragem USB</string>
+  <string name="tether_settings_title_usb_bluetooth">Ancoragem</string>
   <string name="tether_settings_title_wifi">Ponto de acesso móvel</string>
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="theme_settings_title">Temas</string>
@@ -2576,9 +2580,9 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_mtp_title">Dispositivo multimédia (MTP)</string>
   <string name="usb_ptp_summary">Permite transferir fotos através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
   <string name="usb_ptp_title">Câmara (PTP)</string>
-  <string name="usb_tethering_active_subtext">Emparelhado</string>
-  <string name="usb_tethering_available_subtext">USB ligado, seleccione para emparelhar</string>
-  <string name="usb_tethering_button_text">Emparelhar USB</string>
+  <string name="usb_tethering_active_subtext">Ancorado</string>
+  <string name="usb_tethering_available_subtext">USB ligado, seleccione para ancorar</string>
+  <string name="usb_tethering_button_text">Ancoragem USB</string>
   <string name="usb_tethering_errored_subtext">Erro de emparelhamento USB</string>
   <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em utilização</string>
   <string name="usb_tethering_unavailable_subtext">USB não está ligado</string>
@@ -2770,7 +2774,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="vpn_username">Utilizador</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
-  <string name="wakeup_for_keyguard_notification_title">Ligar ecrã de bloqueio para notificações</string>
+  <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>
   <string name="wallpaper_live">Papel de parede com movimento</string>
   <string name="wallpaper_lockscreen">Bloqueio do ecrã</string>
@@ -2992,7 +2996,7 @@ Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
   <string name="wifi_setup_detail">Detalhes da rede</string>
   <string name="wifi_setup_eap_not_supported">Não pode configurar uma ligação Wi-Fi EAP durante a instalação. Após a instalação, ir a Definições &gt; Redes e Wi-Fi.</string>
   <string name="wifi_setup_forget">Esquecer</string>
-  <string name="wifi_setup_next">Próximo</string>
+  <string name="wifi_setup_next">Seguinte</string>
   <string name="wifi_setup_not_connected">Não ligado</string>
   <string name="wifi_setup_refresh_list">Actualizar lista</string>
   <string name="wifi_setup_save">Guardar</string>
@@ -3067,10 +3071,10 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_subnet_mask">Máscara de sub-rede</string>
   <string name="wifi_suspend_optimizations">Optimização Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando a rede Wi-Fi está ligada</string>
-  <string name="wifi_tether_checkbox_text">Ponto Acesso Móvel</string>
+  <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso móvel</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-  <string name="wifi_tether_configure_subtext">Ponto de acesso móvel %1$s %2$s</string>
+  <string name="wifi_tether_configure_subtext">Ponto de acesso móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de acesso móvel %1$s activo</string>
   <string name="wifi_tether_failed_subtext">Erro de Ponto de acesso móvel</string>
   <string name="wifi_tether_setting_title">Definições</string>
@@ -3124,7 +3128,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wireless_on">Ligado</string>
   <string name="wizard_back">Anterior</string>
   <string name="wizard_finish">Concluído</string>
-  <string name="wizard_next">Próximo</string>
+  <string name="wizard_next">Seguinte</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Confirme que o router suporta WPS e se está activo</string>
   <string name="wps_connect_title">Ligar WPS</string>

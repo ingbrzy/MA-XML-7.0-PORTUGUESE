@@ -100,6 +100,7 @@
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Partilhar</string>
   <string name="engine_open">Abrir</string>
+  <string name="enter_search">Pesquisar</string>
   <string name="experience_xunlei_account_speed">Membros Xunlei para optimizar a experiência de serviço</string>   
   <string name="expire_notification_msg">A filiação Xunlei vai expirar brevemente.</string>
   <string name="expire_today_notification_msg">A filiação Xunlei expira hoje.</string>
@@ -160,7 +161,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="period_of_validity">Validade:</string>
   <string name="play">Reproduzir</string>
   <string name="pref_download_revert_default">Predefinido</string>
-  <string name="pref_download_settings_title">Confirmar o uso dados</string>
+  <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
   <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
   <string name="pref_summary_any_bytes_popup">Esperar sempre pela ligação a rede Wi-Fi para transferir</string>
   <string name="pref_summary_enable_max_bytes_popup">Ao utilizar a rede de dados, pedir confirmação se o tamanho do ficheiro excede o limite.</string>
@@ -193,6 +194,15 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="revert_default">Reinicializar</string>
   <string name="revert_download_path">Utilizar a localização das transferências predefinida?</string>
   <string name="save_path">"Gravar transferências para: "</string>
+  <string name="search_clear_history_btn">Limpar histórico de pesquisa</string>
+  <string name="search_clear_history_toast">Histórico limpo</string>
+  <string name="search_history">Pesquisar histórico</string>
+  <string name="search_hotwords">Palavras-chave</string>
+  <string name="search_hotwords_switch">Trocar</string>
+  <string name="search_input_empty_toast">Pesquisar ou introduzir URL</string>
+  <string name="search_input_hint">Pesquisar ou introduzir URL</string>
+  <string name="search_nonetwork_prompt">Verifique a sua ligação de rede e tente novamente</string>
+  <string name="search_nonetwork_refresh">Actualizar</string>
   <string name="select_all">Seleccionar todos</string>
   <string name="select_operation_items">Seleccione ficheiros</string>
   <string name="select_sub_file_download">Escolha um ficheiro para transferir</string>
@@ -202,6 +212,27 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="setting_debug_fail">"Não foi possível entrar no modo Depuração"</string>
   <string name="setting_open_debug">Modo Depuração ligado. Toque aqui 6 vezes para desligar o modo Depuração.</string>
   <string name="show_more">Mostrar %s mais</string>
+  <string name="sniff_bt_text">Ficheiro torrent</string>
+  <string name="sniff_btn_text">Pesquisar fonte</string>
+  <string name="sniff_connect_error_page_tips">Não foi possível abrir URL</string>
+  <string name="sniff_connect_error_refresh">Recarregar</string>
+  <string name="sniff_download_task_already_exist">Esta transferência já existe</string>
+  <string name="sniff_download_task_create_success">Transferência adicionada</string>
+  <string name="sniff_find_some_prefix">Encontrado</string>
+  <string name="sniff_find_some_suffix">itens</string>
+  <string name="sniff_finding_resource_prompt">Á procura de fontes…</string>
+  <string name="sniff_no_network_tip">Verifique a sua ligação de rede e tente novamente</string>
+  <string name="sniff_result_empty_prompt">Não foi possível localizar fontes</string>
+  <string name="sniff_result_num_prefix">Encontrado</string>
+  <string name="sniff_result_num_video_suffix">itens</string>
+  <string name="sniff_result_num_website_suffix">websites</string>
+  <string name="sniff_result_website_intro">共&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; itens | Fonte: %2$s</string>
+  <string name="sniff_sniffing_btn_text">Á procura de fontes…</string>
+  <string name="sniff_terms_agree">Aceitar</string>
+  <string name="sniff_terms_msg">Deve aceitar \"Termos de Utilização\" para começar a utilizar motores de pesquisa de terceiros.</string>
+  <string name="sniff_terms_reject">Rejeitar</string>
+  <string name="sniff_terms_title">Atenção</string>
+  <string name="sniff_text_sniff_next_page">Continuar &gt;</string>
   <string name="start_analysis">Verificar</string>
   <string name="start_download">Transferir</string>
   <string name="start_xunlei_speedup_info">Inicie sessão para acelarar as suas transferências.</string>
@@ -239,6 +270,8 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="vip_expire_today_show_info">A filiação Xunlei expirou.</string>
   <string name="vip_show_info">"5 milhões de membros.
 Acelere as suas transferências em todos os seus dispositivos."</string>
+  <string name="web_dialog_cancel">Cancelar</string>
+  <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">"Esta conta Mi não existe"</string>
   <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
   <string name="xunlei_brand">Produzido por Xunlei</string>
@@ -251,5 +284,5 @@ Acelere as suas transferências em todos os seus dispositivos."</string>
   <string name="xunlei_member_one_month">1 Mês</string>
   <string name="xunlei_open_info">Utilizar Motor Xunlei para abrir esses links?</string>
   <string name="xunlei_speed_service">Xunlei optimiza o serviço</string>
-  <string name="xunlei_switch">Optimizador de transferências Xunlei</string>      
+  <string name="xunlei_switch">Optimizador de transferências Xunlei</string>
 </resources>

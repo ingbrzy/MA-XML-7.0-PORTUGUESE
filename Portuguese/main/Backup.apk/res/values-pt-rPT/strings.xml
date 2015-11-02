@@ -26,7 +26,7 @@
   <string name="backup_data">Escolha os ficheiros a copiar</string>
   <string name="backup_delete">Eliminar:</string>
   <string name="backup_empty">Sem cópias</string>
-  <string name="backup_empty_info">Faça cópia de segurança dos seus dados, definições e aplicações</string>
+  <string name="backup_empty_info">" Fazer uma cópia de segurança dos seus dados, definições e aplicações"</string>
   <string name="backup_error">Não é possível fazer cópia</string>
   <string name="backup_failed">Não é possível fazer a cópia de segurança</string>
   <string name="backup_file_error">Não é possível fazer cópias</string>
@@ -52,6 +52,7 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_backup">Cancelar cópia de segurança</string>
   <string name="cancel_restore">Cancelar o restauro</string>
+  <string name="click_to_view">Toque para ver</string>
   <string name="cloud_app_name">Cópia na Nuvem Mi</string>
   <string name="cloud_backup_hint">Para aceder às suas cópias, inicie agora sessão</string>
   <string name="cloud_backup_login">Iniciar sessão na sua conta Mi</string>
@@ -60,7 +61,7 @@
   <string name="cloud_item_info_summary">" (Local : %1$s  | Nuvem : %2$s)"</string>
   <string name="cloud_last_backup">"Última cópia em: "</string>
   <string name="cloud_no_backup">Não existem cópias de segurança na Nuvem</string>
-  <string name="cloud_restore_guide">Para restaurar os dados do utilizador para %s, pressione Restaurar</string>
+  <string name="cloud_restore_guide">Para restaurar os dados do utilizador para %s, toque Restaurar</string>
   <string name="cloud_restore_title">Restaurar cópia de dados</string>
   <string name="cloud_restore_window_title">Restaurar cópia da Nuvem Mi</string>
   <string name="cloud_search">Pesquisar…</string>
@@ -82,9 +83,9 @@
   <string name="digit_percent">%</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="disable_encrypt_title">Encriptação desactivada</string>
-  <string name="enable_encrypt">Pressione para encriptar</string>
+  <string name="enable_encrypt">Activar encriptação</string>
   <string name="enable_encrypt_fail">Erro na encriptação</string>
-  <string name="enable_encrypt_indicator">Pressione para encriptar</string>
+  <string name="enable_encrypt_indicator">Toque para encriptar</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">Inicie sessão na sua conta Mi para aceder a cópias encriptadas.</string>
   <string name="enable_encrypt_summery2">As suas cópias de segurança serão encriptadas automaticamente. Para aceder tem que iniciar sessão na sua conta Mi.</string>
@@ -106,6 +107,7 @@
   <string name="feature_title_call_log">Histórico das chamadas</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">A enviar…</string>
+  <string name="files_backup_info">Todos os ficheiros no cartão SD (incluindo fotos, músicas, vídeos, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos da Nuvem Mi</string>
   <string name="guarded_mode_dialog_message">Esta função não é permitida no modo de convidado.</string>
@@ -114,7 +116,7 @@
 \u0009http://www.miliao.com
 
 2.\u0009Ir para definições MiTalk e seleccione ”Faça cópia dos seus contactos na conta Mi”"</string>
-  <string name="import_from_xiaomi_account_hint2">Se já fez a sua cópia, pressione Próximo.</string>
+  <string name="import_from_xiaomi_account_hint2">Se já fez a sua cópia, toque Seguinte.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para copiar os seus contactos entre dispositivos.</string>
   <string name="local_app_name">Cópias</string>
   <string name="local_backup_window_title">Cópia de dados local</string>
@@ -122,6 +124,7 @@
   <string name="local_no_backup">Não existem cópias de segurança locais</string>
   <string name="local_restore_window_title">Restauro local</string>
   <string name="local_select_account_contact">Contas e contactos</string>
+  <string name="local_select_files">Cartão SD</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
   <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
@@ -129,7 +132,7 @@
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
   <string name="never">Nunca</string>
-  <string name="new_backup">Fazer Cópia</string>
+  <string name="new_backup">Fazer Cópia de Segurança</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="note_title">Notas</string>
@@ -148,6 +151,7 @@
   <string name="prompt_writing">A gravar…</string>
   <string name="read_encrypt_fail">Não é possível ler cópias encriptadas</string>
   <string name="refresh">Actualizar</string>
+  <string name="remote_receive">Receber</string>
   <string name="restore">Restaurar</string>
   <string name="restore_backup">Restaurar</string>
   <string name="restore_contact">Restaurar contactos</string>
@@ -182,7 +186,7 @@
   <string name="select_all">Seleccionar todos</string>
   <string name="select_backup_item">Escolha os ficheiros</string>
   <string name="service_stoped">O serviço foi interrompido</string>
-  <string name="select_storage_location">Escolha a localização da Cópia</string>
+  <string name="select_storage_location">Escolher a localização da Cópia</string>
   <string name="settings_summary">Definições do telefone e mensagens</string>
   <string name="sms_title">Mensagens</string>
   <string name="software_backup_info">Dados das aplicações</string>
@@ -200,7 +204,7 @@
   <string name="summary_err_backup_no_network">Não é possível ligar à rede</string>
   <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta Cópia foi feita utilizando a sua conta Mi.</string>    
   <string name="summary_err_restore_no_network">Não é possível ligar à rede</string>
-  <string name="system_backup">Cópia</string>
+  <string name="system_backup">Cópia de Segurança</string>
   <string name="system_backup_info">Definições do sistema e disposição do ecrã inicial</string>
   <string name="task_backup_cancel_progress">A cancelar…</string>
   <string name="task_backup_finished_local">Cópia de segurança concluída</string>
@@ -221,15 +225,53 @@
   <string name="task_restore_cancel_progress">A cancelar…</string>
   <string name="task_restore_finished_local">Restauro concluído </string>
   <string name="task_restore_none">Nada a restaurar</string>
-  <string name="task_running_backup_dialog">Cópia em progresso. Pressione OK para ver.</string>
+  <string name="task_running_backup_dialog">Cópia em progresso. Toque OK para ver.</string>
   <string name="task_running_backup_hint">O serviço está a ser executado em segundo plano.</string>
-  <string name="task_running_dialog">A cópia e restauro está em progresso. Pressione OK para ver.</string>
+  <string name="task_running_dialog">A cópia e restauro está em progresso. Toque OK para ver.</string>
   <string name="task_running_hint">O serviço está a ser executado em segundo plano</string>
-  <string name="task_running_restore_dialog">Restauro em progresso. Pressione OK para ver.</string>
+  <string name="task_running_restore_dialog">Restauro em progresso. Toque OK para ver.</string>
   <string name="task_running_restore_hint">O serviço está a ser executado em segundo plano.</string>
   <string name="task_service_not_launched">A tarefa ainda não iniciou.</string>
   <string name="task_stopped_exception">Restauro interrompido</string>
-  <string name="total_num">%d itens,</string>
+  <string name="total_num">"%d itens, "</string>
+  <string name="trans_backingup">A copiar …</string>
+  <string name="trans_backingup_no_items">A sincronizar…</string>
+  <string name="trans_cancel_confirm">Transferência em progresso, cancelar agora?</string>
+  <string name="trans_cancelling">A cancelar</string>
+  <string name="trans_connect_failed_toast">Não foi possível ligar</string>
+  <string name="trans_connecting_toast">A ligar…</string>
+  <string name="trans_detail_category_account">Contas e contactos</string>
+  <string name="trans_detail_category_files">Ficheiros</string>
+  <string name="trans_detail_category_sysdata">Dados de sistema</string>
+  <string name="trans_detail_category_userdata">Aplicações</string>
+  <string name="trans_device_disconnected">Dispositivo desligado</string>
+  <string name="trans_main_tutor">Transferir contactos, registo de chamadas, mensagens, layout do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
+  <string name="trans_my_device">Meu dispositivo</string>
+  <string name="trans_one_key_migrate">Transferir</string>
+  <string name="trans_progress_subdescript_br_receiver">A receber %s</string>
+  <string name="trans_progress_subdescript_br_sender">A copiar %s</string>
+  <string name="trans_progress_subdescript_transing_receiver">A receber %s</string>
+  <string name="trans_progress_subdescript_transing_sender">A enviar %s</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros…</string>
+  <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros…</string>
+  <string name="trans_progress_subdescript_waiting">A aguardar para receber %s</string>
+  <string name="trans_receiver">Sou um destinatário</string>
+  <string name="trans_receiving_completed">Dados recebidos</string>
+  <string name="trans_restoring">A restaurar…</string>
+  <string name="trans_restoring_no_items">A sincronizar items</string>
+  <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados.</string>
+  <string name="trans_select_device_send">Seleccionar um dispositivo para transferir dados.</string>
+  <string name="trans_sender">Sou um remetente</string>
+  <string name="trans_sender_connectting">Confirmar no novo dispositivo</string>
+  <string name="trans_sender_searching">Pesquisar por novos dispositivos</string>
+  <string name="trans_sender_searching_ensurance">"Certifique se que o dispositivo antigo está ligado
+A aguardar que o dispositivo antigo se ligue…"</string>
+  <string name="trans_sending_completed">Dados enviados</string>
+  <string name="trans_time_format_second">menos de um minuto</string>
+  <string name="trans_time_remained">, pronto em</string>
+  <string name="trans_waiting_ensurance">"Certifique se que o dispositivo antigo está ligado
+e Transferências estão activas"</string>
+  <string name="trans_waiting_for_sender">A aguardar que o dispositivo antigo se ligue…</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" itens"</string>
   <string name="unknown_hint">Desconhecido</string>
