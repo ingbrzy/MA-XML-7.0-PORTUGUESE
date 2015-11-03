@@ -18,8 +18,8 @@
   <string name="administrative_disable">Administrativo desactivo</string>
   <string name="administrative_enable">Administrativo activo</string>
   <string name="advanced_settings">Definições opcionais</string>
-  <string name="advanced_settings_hide">▽ Pressionar para ocultar tudo</string>
-  <string name="advanced_settings_show">▷ Pressionar para mostrar tudo</string>
+  <string name="advanced_settings_hide">▽ Toque para ocultar tudo</string>
+  <string name="advanced_settings_show">▷ Toque para mostrar tudo</string>
   <string name="advertisements_disable">Propagandas estão desligados</string>
   <string name="advertisements_enable">Propagandas estão ligados</string>
   <string name="alert_dialog_close">Fechar o perfil</string>
@@ -137,7 +137,7 @@
   <string name="call_record_on_summary">As chamadas vão ser gravadas automaticamente</string>
   <string name="call_record_setting">Definições da gravação de chamada</string>
   <string name="call_record_whitelist_custom">Lista personalizada</string>
-  <string name="call_recording_notification_message">Pressionar para ver.</string>
+  <string name="call_recording_notification_message">Toque para ouvir.</string>
   <string name="call_recording_notification_message_low_storage">O cartão SD está cheio.</string>
   <string name="call_recording_notification_message_sd_unmounted">O cartão SD foi removido.</string>
   <string name="call_recording_notification_summary">Mostrar uma notificação na barra de estado quando a chamada estiver a ser gravada</string>
@@ -230,6 +230,8 @@
   <string name="china_mobile">China Mobile</string>
   <string name="china_telecom">China Telecom</string>
   <string name="china_unicom">China Unicom</string>
+  <string name="chose_product_summary">Chamadas baratas para qualquer telefone</string>
+  <string name="chose_product_title">Pacote de recarga</string>
   <string name="clir_choices_hide_number">Ocultar o número</string>
   <string name="clir_choices_network_default">Operadora (predefinida)</string>
   <string name="clir_choices_show_number">Mostrar o número</string>
@@ -630,8 +632,8 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
   <string name="load_rates_failed">"Não foi possível carregar"</string>
-  <string name="loading">Aguarde um seg</string>
-  <string name="loading_product">Aguarde um seg</string>
+  <string name="loading">Aguarde um seg…</string>
+  <string name="loading_product">Aguarde um seg…</string>
   <string name="loading_recent_failed">"Não foi possível carregar"</string>
   <string name="local_disable">Notícias Locais desactivo</string>
   <string name="local_enable">Notícias Locais activo</string>
@@ -842,9 +844,9 @@ Será utilizada a rede preferida."</string>
   <string name="ota_listen">Siga as instruções de voz.</string>
   <string name="ota_next">Seguinte</string>
   <string name="ota_progress">Aguarde enquanto o telemóvel é programado.</string>
-  <string name="ota_skip_activation_dialog_message">Se ignorar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
-  <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
-  <string name="ota_skip_activation_dialog_title">Ignorar a activação?</string>
+  <string name="ota_skip_activation_dialog_message">Se saltar a activação, não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
+  <string name="ota_skip_activation_dialog_skip_label">Saltar</string>
+  <string name="ota_skip_activation_dialog_title">Saltar a activação?</string>
   <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
   <string name="ota_speaker">Falar</string>
   <string name="ota_successful">O seu telemóvel está activado. Pode demorar cerca de 15 minutos a iniciar o serviço.</string>
@@ -1010,11 +1012,10 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="puk_unlock_success">Cartão desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
-  <string name="purchase_description_summary">"- Operador ilimitado, área ilimitada;
-- Sem conflitos com os serviços de operador;
-- Imediatamente após recarregar, nunca limpo;
-- Simples, utilize directamente."</string>
-  <string name="purchase_description_title">Descrição</string>
+  <string name="purchase_description_summary">"- Telefone para qualquer lado no mundo, não há restrições de operadora.
+- Sem conflitos entre este serviço e o seu plano actual.
+- Não é preciso configurar, recarrege e comece a telefonar."</string>
+  <string name="purchase_description_title">Acerca de</string>
   <string name="purchase_limit">Atingiu o limite da recarga</string>
   <string name="purchase_list">Histórico de compras</string>
   <string name="purchase_notification">"Preços abaixo são para chamadas nacionais. Para chamadas internacionar ver o "</string>
@@ -1043,10 +1044,10 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="reject_via_sms">Respostas rápidas</string>
   <string name="reject_via_sms_summary">Editar respostas texto predefinidas</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
-  <string name="remain_mins_divider">Ou</string>
-  <string name="remain_mins_domestic">nacional permanece</string>
-  <string name="remain_mins_international">internacional permanece</string>
-  <string name="remain_mins_unit">Min</string>
+  <string name="remain_mins_divider">ou</string>
+  <string name="remain_mins_domestic">Restante (nacional)</string>
+  <string name="remain_mins_international">Restante (internacional)</string>
+  <string name="remain_mins_unit">min</string>
   <string name="remember_my_choice">Utilizar sempre para fazer chamadas pela Internet</string>
   <string name="remove">Eliminar</string>
   <string name="remove_ims_account">Remover conta</string>
@@ -1246,7 +1247,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="time_statistic">%1$d minutos de rede poupados</string>
   <string name="title_country">Locais</string>
   <string name="title_duration">Duração</string>
-  <string name="title_purchase">Reabastecimento de Recargas</string>
+  <string name="title_purchase">Recargas</string>
   <string name="title_rates">Tarifas</string>
   <string name="title_user_config">Activar cartão SIM</string>
   <string name="transport_title">Tipo de transporte</string>
@@ -1272,7 +1273,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="uplmn_numeric_is_empty">Insira ID da rede</string>
   <string name="use_history">Actividade</string>
   <string name="use_history_duration_min">%1$s mins</string>
-  <string name="use_range">Utilizar Alcance</string>
+  <string name="use_range">Alcance de utilização</string>
   <string name="username_title">Utilizador</string>
   <string name="ussdRunning">Código USSD a decorrer…</string>
   <string name="ussd_dialog_sep">----------</string>

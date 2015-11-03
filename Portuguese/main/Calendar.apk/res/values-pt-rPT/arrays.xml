@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-     <array name="account_birthday">
-        <item>#ffe99080</item>
-        <item>#b3d5a198</item>
-        <item>#fffcefef</item>
-        <item>#ffce7e6f</item>
-     </array>
-     <array name="account_preset1">
-        <item>#ffb69dd0</item>
-        <item>#b3bfa5db</item>
-        <item>#fff6f1fa</item>
-        <item>#ffa894be</item>
-     </array>
-     <array name="account_preset2">
-        <item>#fff0a16f</item>
-        <item>#b3d88c5b</item>
-        <item>#fffdf3ec</item>
-        <item>#ffe4884d</item>
-     </array>
-     <array name="account_preset3">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-     </array>
-     <array name="account_preset4">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-     </array>
-     <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-     </array>
+<resources>     
      <string-array name="availability">
         <item>Ocupado</item>
         <item>Disponível</item>
@@ -141,6 +105,12 @@
         <item>2 dias</item>
         <item>1 semana</item>
      </string-array>
+     <string-array name="repeat_frequency_spinner_plural">
+        <item>dias</item>
+        <item>semanas</item>
+        <item>meses</item>
+        <item>anos</item>
+     </string-array>
      <string-array name="repeat_choose_day">
         <item>1º</item>
         <item>2º</item>
@@ -198,7 +168,7 @@
         <item>Segundo</item>
         <item>Terceiro</item>
         <item>Quarto</item>
-        <item>Ultimo</item>
+        <item>Último</item>
      </string-array>
      <string-array name="repeat_choose_week_right">
         <item>Seg. a Sex.</item>
@@ -214,7 +184,7 @@
         <item>Sáb.</item>
         <item>Dom.</item>
      </string-array>
-	 <string-array name="travel_reminder_minutes_labels">
+     <string-array name="travel_reminder_minutes_labels">
         <item>3 horas</item>
         <item>4 horas</item>
         <item>5 horas</item>

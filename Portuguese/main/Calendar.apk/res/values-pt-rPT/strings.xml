@@ -199,7 +199,7 @@
   <string name="movable_list_header_label">Breve introdução</string>
   <string name="new_event_dialog_label">Novo evento</string>
   <string name="new_event_dialog_option">Novo evento</string>
-  <string name="no_calendars_found">Depois pode adicionar um evento, Deve adicionar pelo menos uma conta de calendário para o seu dispositivo e fazer um calendário visível. Pressione em adicionar conta para adicionar uma conta (se acabou de adicionar uma conta, espere que termine a sincronização e tente novamente). Ou pressione em Cancelário e certifique-se pelo menos um calendário está visível.</string>
+  <string name="no_calendars_found">Esta conta não suporta a sincronização de calendários, ou a última sincronização ainda não acabou.</string>
   <string name="no_local_calendar">Nenhum calendário subscrito:)</string>
   <string name="no_network">Sem rede, por favor actualize novamente a rede :)</string>
   <string name="no_syncable_calendars">Sem calendários</string>
@@ -207,7 +207,7 @@
   <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
   <string name="not_synced">Não sincronizado</string>
   <string name="notice_button_ok">Concordar</string>  
-  <string name="notice_title_agreement">Termos de Utilização</string>
+  <string name="notice_title_agreement">Termos de Serviço</string>
   <string name="notice_title_request">Pedir</string>
   <string name="notification_online">%1$s: %2$s个新事件</string>
   <string name="online_calendar_activity_label">Subscrever para o calendário</string>
@@ -270,7 +270,7 @@
   <string name="repeat_end_label">Fim da repetição</string>
   <string name="repeat_end_times_unit">" vezes"</string>
   <string name="repeat_interval_dialog_title">A cada %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$ss</string>
+  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Definir o dia</string>
   <string name="repeat_label_choose_month">Definir o mês</string>
@@ -301,8 +301,8 @@
   <string name="setting_wifi_mode">Apenas sincronizar Wi-Fi</string>
   <string name="show_controls">Mostrar controlos</string>
   <string name="show_day_view">Mostrar dia</string>
-  <string name="show_newer_events">Pressione para visualizar os eventos depois %1$s</string>
-  <string name="show_older_events">Pressione para visualizar os eventos antes %1$s</string>
+  <string name="show_newer_events">Toque para ver os eventos depois de %1$s</string>
+  <string name="show_older_events">Toque para ver os eventos antes de %1$s</string>
   <string name="snooze_all_label">Adiar todos</string>
   <string name="snooze_label">Dispensar</string>
   <string name="subscribe_all">Subscrever</string>

@@ -3,8 +3,10 @@
   <string name="account_bind_prompt">Mover dados do utilizador… Isto pode demorar alguns minutos.</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
+  <string name="add_private_files">Adicionar ficheiros</string>
   <string name="add_task">Adicionar tarefas</string>
   <string name="adding_upload_tasks">A adicionar tarefas#8230;</string>
+  <string name="already_liked">Já adiconou este item aos Favoritos</string>
   <string name="already_signin_description">Já foi verificado hoje</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -37,7 +39,9 @@
   <string name="can_not_send_with_too_many">"Não é possível enviar todos os ficheiros"</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_error">"Não foi possível remover, tente novamente"</string>
+  <string name="cancel_operation">Cancelar operação</string>
   <string name="cancel_success">Removido com sucesso, todos os ficheiros movidos para sdcard/fileexplorer/decryption</string>
+  <string name="cancelled_by_user">Operação cancelada</string>
   <string name="category">Categorias</string>
   <string name="category_all">Todos</string>
   <string name="category_apk">Aplicações</string>
@@ -123,6 +127,7 @@
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Erro na transferência</string>
   <string name="download_link_completed">%1$s partilhado via KuaiPan. Seleccione o caminho em baixo para visualizar:</string>
+  <string name="downloaded_sticker_str">Transferido</string>
   <string name="downloading">A transferir</string>
   <string name="downloading_in_3g">Transferir em 3G…</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB.</string>
@@ -158,7 +163,7 @@
   <string name="folder_exist">A pasta já existe.</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Pressione&lt;/a&gt;para ir para a pasta do lixo</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Toque&lt;/a&gt;para ir para a pasta do lixo</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
   <string name="ftp_anonymous_login">Iniciar sessão anónima</string>
   <string name="ftp_invalid_username_or_password">O nome do utilizador ou palavra-passe é inválida.</string>
@@ -176,6 +181,8 @@
   <string name="group_title_extra_backup">Cópias de Segurança</string>
   <string name="group_title_extra_expire">Mesmo a expirar</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="if_cancel">Cancelar esta operação?</string>
+  <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="instruction">Introduza o seguinte endereço numa aplicação FTP:</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
   <string name="just_now">agora mesmo</string>
@@ -209,7 +216,7 @@
   <string name="loading">A carregar…</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Música</string>
-  <string name="local_sticker_str">Transferidos</string>
+  <string name="local_sticker_str">Desligado</string>
   <string name="local_video">Vídeo</string>
   <string name="login_reg_content">Armazenar ficheiros e sincronizar entre vários dispositivos.</string>
   <string name="login_reg_content0">Utilizar o KuaiPan em qualquer lugar.</string>
@@ -218,7 +225,8 @@
   <string name="menu_item_cleanup">Limpar</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Procurar</string>
-  <string name="menu_item_sort">Classificar por</string>
+  <string name="menu_item_sort">Ordenar por</string>
+  <string name="menu_item_sort_add_time">"Criado "</string>
   <string name="menu_item_sort_date">Data modificada</string>
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Tamanho</string>
@@ -282,6 +290,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="no">Não</string>
   <string name="no_app_tags">Vazio</string>
   <string name="no_display_file">Não é possível mostrar %1$s</string>
+  <string name="no_downloaded_sticker_tip">"Não foi possível encontrar adesivos transferidos. Verifique os adesivos partilhados pelos fãs MIUI."</string>
   <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio.</string>
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
@@ -294,7 +303,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="no_wifi_hint">Sem Ligação</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
-  <string name="notification_content_hint">Toque para ver</string>
+  <string name="notification_content_hint">Ver vídeos WeChat que estão para expirar.</string>
   <string name="notification_dialog_confirm">OK</string>
   <string name="notification_dialog_content">Notificar e ornanizar automaticamente quando os ficheiros são adicionados ou alterados em %1$s.</string>
   <string name="notification_dialog_title">Notificações</string>
@@ -302,7 +311,10 @@ e nunca perca os novos mais fixes!"</string>
   <string name="notification_setting">Notificações</string>
   <string name="notification_summary">"%1$s não suporta este recurso ainda"</string>
   <string name="notification_title">Notificar quando novos ficheiros são adicionados a %1$s</string>
-  <string name="notification_wechat_title">Notificar me quando um vídeo do WeChat estiver a expirar</string>
+  <string name="notification_wechat_expired_empty">Estes vídeoclips já foram eliminados pelo WeChat.</string>
+  <string name="notification_wechat_title">Notificações de vídeo WeChat</string>
+  <string name="notify_private_folder_msg">Toque para saber mais sobre pastas privadas.</string>
+  <string name="notify_private_folder_title">Proteger os seus ficheiros pessoais</string>
   <string name="online_not_support">"Não é possível ver o ficheiro online neste momento."</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado por favor:
 1 Faça novamente a transferência do ficheiro para o actualizar.
@@ -333,6 +345,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="operation_favorite">Favoritos</string>
   <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>
   <string name="operation_info">Detalhes</string>
+  <string name="operation_like">Adicionar aos Favoritos</string>
   <string name="operation_move">Cortar</string>
   <string name="operation_moving">A mover…</string>
   <string name="operation_moving_detail">A mover (%1$d/%2$d)</string>
@@ -364,6 +377,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="private_folder">Pasta Privada</string>
   <string name="promot_enctypt_password">Introduza palavra-passe utilizado para desbloquear o seu dispositivo ou desligar o modo Criança</string>
   <string name="pull_to_signin">Deslize para baixo para verificar.</string>
+  <string name="qq_not_installed">QQ não está instalado</string>
   <string name="release_to_signin">Solte para verificar</string>
   <string name="rename_alert">"Se mudar a extensão deste ficheiro, pode não conseguir abri-lo."</string>
   <string name="rename_description">A renomear…</string>
@@ -377,7 +391,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="rlv_loading_more">Aguarde um seg…</string>
   <string name="rlv_pull_to_refresh">Puxe para actualizar</string>
   <string name="rlv_refreshing">A verificar …</string>
-  <string name="rlv_release_to_refresh">Solte para actualizar</string>
+  <string name="rlv_release_to_refresh">Soltar para actualizar</string>
+  <string name="save_to_local">Transferir</string>
   <string name="sd_card_available">Disponível: %1$s</string>
   <string name="sd_card_size">Cartão SD: %1$s</string>
   <string name="sd_full">O seu cartão SD está cheio.</string>
@@ -405,6 +420,7 @@ e nunca perca os novos mais fixes!"</string>
   <string name="search_keyword_messge">Expresso</string>
   <string name="search_keyword_news">Notícias</string>
   <string name="search_keyword_wallet">Carteira</string>
+  <string name="search_result">Resultados</string>
   <string name="search_result_hint1">Relacionados</string>
   <string name="search_result_hint2">Todos</string>
   <string name="search_result_hint3">" "</string>
@@ -425,6 +441,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="select_video">Escolher vídeos</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado.</string>
+  <string name="send_to_qq">Enviar para QQ</string>
+  <string name="send_to_weixin">Enviar para WeChat</string>
   <string name="server_control_advanced_settings">Definições de FTP</string>
   <string name="server_control_charset">Transferência da codificação</string>
   <string name="server_control_settings">Definições</string>
@@ -486,17 +504,19 @@ Espaço livre adicionado %1$s"</string>
   <string name="trash_box_link">Para esvaziar o lixo, visite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
   <string name="trash_box_message1">Eliminar ficheiros desnecessários para libertar espaço.</string>
   <string name="trash_box_message2">Esvazie a reciclagem para libertar espaço.</string>
+  <string name="type_not_support">Este formato de ficheiro não é suportado. Descompacte este ficheiro e tente novamente.</string>
   <string name="ui_filechange_btn_download">Transferir ficheiro?</string>
   <string name="ui_filechange_btn_upload">Enviar ficheiros</string>
   <string name="ui_main_menu_option_sign_in">Iniciar sessão</string>
   <string name="ui_main_menu_option_task_manage">Gestor de transferências</string>
   <string name="ui_main_progress_txt_open_file">A transferir…</string>
+  <string name="ui_main_toast_favorite_added">Adicionado aos Favoritos</string>
   <string name="ui_main_toast_favorite_removed">Sem favoritos</string>
   <string name="ui_main_toast_operation_failed">Não é possível remover favorito %1$s</string>
   <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
   <string name="upload_failed">Erro no envio</string>
   <string name="upload_file_toolarge_message">%1$d não conseguiu fazer a transferência: não pode fazer transferência de ficheiros maiores que 300Mb.</string>
-  <string name="uploading">A transferir</string>
+  <string name="uploading">A enviar</string>
   <string name="usb_label">USB</string>
   <string name="used">Utilizado</string>
   <string name="user_guide">Saiba mais sobre KuaiPan</string>
@@ -517,6 +537,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="waiting">A aguardar</string>
   <string name="wangpan_root_path">Meu disco</string>
   <string name="wechat_video">Vídeo em %s</string>
+  <string name="weixin_not_installed">WeChat não está instalado</string>
   <string name="weixin_sticker_tag_str">Adesivos WeChat</string>
   <string name="wifi_state">Rede Wi-Fi</string>
   <string name="xiaomi_account">Conta Mi</string>
