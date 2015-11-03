@@ -152,7 +152,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="pref_camera_focusmode_entry_manual">Manual</string>
   <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
-  <string name="pref_camera_gradienter_title">Gradient</string>
+  <string name="pref_camera_gradienter_title">Inclinação</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Live</string>
@@ -339,7 +339,7 @@ As aplicações podem aceder a esta informação se activar esta opção."</stri
   <string name="simple_mode_button_text_face_beauty">Desactivar o melhoramento dos tons de pele</string>
   <string name="simple_mode_button_text_fast_video">Desactivar movimento lento da câmara</string>
   <string name="simple_mode_button_text_fisheye">Desligar Olho-de-Peixe</string>
-  <string name="simple_mode_button_text_gradienter">Turn off Gradient</string>
+  <string name="simple_mode_button_text_gradienter">Desligar Inclinação</string>
   <string name="simple_mode_button_text_hand_night">Fechar o modo nocturno</string>
   <string name="simple_mode_button_text_hdr">Fechar modo HDR</string>
   <string name="simple_mode_button_text_manual">Fechar o Modo Manual</string>
