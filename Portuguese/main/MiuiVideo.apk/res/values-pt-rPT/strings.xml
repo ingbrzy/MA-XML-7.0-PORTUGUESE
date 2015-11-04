@@ -14,7 +14,7 @@
   <string name="addon_category">Complementos</string>
   <string name="addon_install_complete_disc">%s Complementos instalados. Pode visualizá-los em /Meus videos/.</string>
   <string name="addon_update_desc">Nova versão encontrada, actualizar agora?</string>
-  <string name="adjust_position_next_media_notice">Próximo</string>
+  <string name="adjust_position_next_media_notice">Seguinte</string>
   <string name="adjust_position_prev_media_notice">Último</string>
   <string name="ads_control">Mostrar anúncios</string>
   <string name="ads_control_desc">Mostrar anúncios quando inicia a aplicação</string>
@@ -23,7 +23,7 @@
   <string name="airkan_device_xiaomi_phone">Telefone Mi</string>
   <string name="airkan_playing">Elenco</string>
   <string name="airkan_playing_to">" em "</string>
-  <string name="airkan_tips">Pressione para emitir o vídeo para a TV</string>
+  <string name="airkan_tips">Toque para transmitir</string>
   <string name="airkan_video_playing">Reproduzir</string>
   <string name="airkan_video_playing_in">"Video é "</string>
   <string name="alert_dialog_download_btn_hide">Ocultar</string>
@@ -33,6 +33,8 @@
   <string name="all">all</string>
   <string name="all_ep">Todos ep</string>
   <string name="all_episode">Todos os episódios</string>
+  <string name="app_charging_wifi_mode">Carregar bateria para actualizar aplicação</string>
+  <string name="app_charging_wifi_mode_summary">Actualizar aplicação automaticamente quando ligado ao Wi-Fi e a carregar bateria</string>
   <string name="app_latest_version">Não existem actualizações</string>
   <string name="app_name">Vídeos</string>
   <string name="app_plugin_ready">%1$s instalado</string>
@@ -40,7 +42,7 @@
   <string name="app_upgrade_version">Actualização disponível</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi_mode">Actualizar automaticamente</string>
-  <string name="app_wifi_mode_summary">Actualizar aplicações automaticamente quando ligado a Wi-Fi</string>
+  <string name="app_wifi_mode_summary">Actualizar aplicação automaticamente quando executar e estiver ligado ao Wi-Fi</string>
   <string name="authenticated_failed">Não é possível iniciar sessão</string>
   <string name="authenticating"><CDATA>A verificar…</CDATA></string>
   <string name="authenticating_manually">Não foi possível autenticar</string>
@@ -65,7 +67,7 @@
   <string name="clear_cache_summary">Limpar as imagens em memória a partir da aplicação Vídeo</string>
   <string name="clear_search_history">Limpar histórico de pesquisa</string>
   <string name="click_star_rate">Seleccione nas estrelas para classificar</string>
-  <string name="click_to_login">Pressione para iniciar sessão em</string>
+  <string name="click_to_login">Toque para iniciar</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comentários</string>
   <string name="comment_count_less_tip">O comentário deve ter pelo menos %1$s letras</string>
@@ -167,7 +169,7 @@
   <string name="info_video_loading">A carregar…</string>
   <string name="init">Inicialização</string>
   <string name="install_apk">Instalar</string>
-  <string name="install_comfirm">Pressione para instalar</string>
+  <string name="install_comfirm">Toque para instalar</string>
   <string name="install_plugin">Instalar Plug-in</string>
   <string name="introduce">Sumário</string>
   <string name="join_alert_title">Iniciar teste beta</string>
@@ -270,7 +272,7 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Filme</string>
   <string name="receive_develop_summary">Receba as actualizações para a versão beta desta aplicação</string>
-  <string name="receive_mipush">Conteúdo das notificações</string>
+  <string name="receive_mipush">Notificações de conteúdo</string>
   <string name="receive_mipush_summary">Receber notificações quando está disponível um novo conteúdo</string>
   <string name="recentplay">Reproduzidos recentemente</string>
   <string name="refreshing">Aguarde um segundo…</string>

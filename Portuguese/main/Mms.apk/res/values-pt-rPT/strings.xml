@@ -266,6 +266,7 @@
   <string name="multimedia_message">Mensagem multimédia</string>
   <string name="multimedia_notification">Notificação de mensagem multimédia</string>
   <string name="mx2_type_description">[%s]</string>
+  <string name="mx_activate_allow_notice">A sua operadora pode cobrar por uma mensagem SMS utilizada para activar as mensagens gratuitas e o serviço de voz.</string>
   <string name="mx_activate_dlg_title">Activar Mensagens Mi</string>
   <string name="mx_activate_dlg_title_ex">Activar Mensagens Mi &amp; Voz</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar Mensagens Mi para este cartão SIM.</string>
@@ -306,6 +307,9 @@
   <string name="mx_recommend_msg">Toque para activar as Mensagens Mi.</string>
   <string name="mx_type_guide">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
+  <string name="networking_allow_continue">OK</string>
+  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. É necessário ligar as Páginas amarelas e ligar à internet para utilizar este serviço.</string>
+  <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Tem uma mensagem nova</string>
   <string name="new_phrase">Adicionar resposta</string>
@@ -335,6 +339,7 @@
   <string name="playing_failed">Não foi possível reproduzir</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Definições adicionais</string>
+  <string name="pref_allow_network_access_summary">Ligar para obter as informações mais recentes em entregas e outros serviços.</string>
   <string name="pref_collapse_sp_messages_summary">Notificações de grupo da sua operadora na mesma thread</string>
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reenviar</string>
@@ -545,6 +550,7 @@
   <string name="timed_message_expired_title_2">Enviar agora?</string>
   <string name="timed_message_in_total">(%d mensagens)</string>
   <string name="timed_message_to">para</string>
+  <string name="title_allow_network_access">Actualizar informação automaticamente</string>
   <string name="title_collapse_sp_messages">Mensagens de grupo de suporte</string>
   <string name="title_date_type">Registo da hora</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
@@ -596,5 +602,6 @@ Tentativas efectuadas: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviado em %ds</string>
   <string name="xiaomi_service_number">Número de serviço</string>
+  <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens SMS da MIUI</string>
   <string name="yes">OK</string>
 </resources>

@@ -112,9 +112,9 @@ Se voltar a activar os dados móveis, poderá ter custos facturados pela operado
   <string name="gps_notification_found_text">Localização definida pelo GPS</string>
   <string name="gps_notification_searching_text">Pesquisar por GPS</string>
   <string name="headset_custom">Dispensar</string>
-  <string name="headset_info">Pressione para configurar as definições</string>
+  <string name="headset_info">Toque para ver as definições.</string>
   <string name="headset_settings">Auriculares ligados</string>
-  <string name="hint_for_long_press_app_switch_key">Pressionar e segurar para o menu</string>
+  <string name="hint_for_long_press_app_switch_key">Premir e segurar para o menu</string>
   <string name="invalid_charger">"O carregamento por USB não é suportado.
 Utilize apenas o carregador fornecido."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -158,7 +158,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="reject_call">Rejeitar a chamada</string>
   <string name="return_to_incall_screen">Voltar à chamada</string>
-  <string name="screen_button_notification_text">Para os ligar, pressione o botão Início e o botão Ligar em simultâneo.</string>
+  <string name="screen_button_notification_text">Para os ligar, prima o botão Início e o botão Ligar em simultâneo.</string>
   <string name="screen_button_notification_title">Os botões de navegação foram desligados</string>
   <string name="screen_pinning_description">Isto mantém se na vista até soltar. Toque e segure o botão Início e o botão Ligar em simultâneo para soltar.</string>
   <string name="screen_pinning_description_accessible">Isto mantém se na vista até soltar. Toque e segure o botão Início e o botão Ligar em simultâneo para soltar.</string>
@@ -202,7 +202,7 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_style_settings">Notificações</string>
   <string name="task_access_locked_app_msg">"Conteúdo da aplicação está oculto."</string>
   <string name="title_usb_accessory">Acessório USB</string>
-  <string name="torch_activity_hint">Pressione [icon] para ligar a lanterna no ecrã de bloqueio</string>
+  <string name="torch_activity_hint">Segure [icon] para ligar a lanterna no ecrã de bloqueio</string>
   <string name="torch_activity_name">Lanterna</string>
   <string name="torch_closed">Lanterna desligada</string>
   <string name="torch_opened">Lanterna ligada</string>
@@ -229,7 +229,7 @@ Deslize para baixo para bloquear"</string>
   <string name="usb_ptp_text">Fotos</string>
   <string name="usb_share_net_info">Utilizar a ligação de internet do computador</string>
   <string name="usb_storage_error_message">Ocorreu um erro ao tentar exibir o dispositivo como armazenamento em massa USB.</string>
-  <string name="usb_storage_message">Ligou-se ao computador via USB. Pressione no botão em baixo se quer copiar os ficheiros entre o computador e o armazenamento USB Android.</string>
+  <string name="usb_storage_message">Ligou-se ao computador via USB. Toque no botão abaixo se quer copiar os ficheiros entre o computador e o armazenamento USB Android.</string>
   <string name="usb_storage_notification_message">Seleccionar para copiar os ficheiros do / para o seu computador.</string>
   <string name="usb_storage_notification_title">USB ligado</string>
   <string name="usb_storage_stop_message">Antes de desligar o armazenamento USB, certifique-se de que desmonta ( ejectar ) o seu armazenamento USB Android a partir do seu computador.</string>

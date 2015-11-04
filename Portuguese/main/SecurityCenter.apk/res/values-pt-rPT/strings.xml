@@ -185,6 +185,7 @@
   <string name="hints_last_virus_scan_yesterday_safe">Verificado ontem: Seguro</string>
   <string name="hints_last_virus_scan_yesterday_virus">Verificado ontem: Perigoso</string>
   <string name="hints_loading_text">A carregar…</string>
+  <string name="hints_need_quick_clean">Localizar e eliminar ficheiros perigosos</string>
   <string name="hints_need_quick_scan">Verificação rápida recomendada</string>
   <string name="hints_need_regular_scan">Verificar o seu dispositivo regularmente</string> 
   <string name="hints_power_percent_title">bateria</string>
@@ -263,6 +264,7 @@
   <string name="menu_text_networkassistants_remain">%s disponíveis</string>
   <string name="menu_text_power_manager">Utilização de bateria</string>
   <string name="menu_text_power_percent">%s</string>
+  <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="month_report_month_report_switch">Mostrar Relatório mensal</string>
   <string name="never">1 vez</string>
   <string name="notification_button_text_of_low_memory">Limpar</string>
@@ -536,7 +538,7 @@
   <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais funcionalidades</string>
   <string name="summary_cmcc_app_check">"Algunas aplicações não puderam ser verificadas"</string>
   <string name="summary_data_flow">Evite ir além do limite mensal de dados do seu plano da operadora</string>
-  <string name="summary_default_app">%s não está predefinido como aplicação de sistema</string>
+  <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
   <string name="summary_dev">Evitar malware e proteger dados pessoais</string>
   <string name="summary_find_device">Localizar e bloquear o seu dispositivo de qualquer lado</string>
   <string name="summary_flow_notification">Mostre as suas estatísticas de utilização de dados mensais na barra de notificação</string>
@@ -544,7 +546,8 @@
   <string name="summary_flow_purchase_left">Já só tem %sMB de dados móveis este mês</string>
   <string name="summary_flow_verify">Ainda não sincronizou as estatísticas de utilização de dados da operadora em %d dias</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware e outros tipos de lixo indesejado</string>
-  <string name="summary_install_virus">Verifique as aplicações, procurando a existência de vírus antes da instalação</string>
+  <string name="summary_install_virus">Verificar as aplicações por vírus antes da instalação</string>
+  <string name="summary_live_talk_purchase">Apenas ¥ 0.05 por minuto para chamadas nacionais.</string>
   <string name="summary_miui_update">Actualização disponível para %s.</string>
   <string name="summary_mms">Bloquear spam de SMS automaticamente</string>
   <string name="summary_network_switch">Permitir à aplicação Segurança ligar à Internet</string>
@@ -580,6 +583,7 @@
   <string name="title_garbage_lib">Actualizações automáticas</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>
+  <string name="title_live_talk_purchase">Recarregar agora</string>
   <string name="title_miui_update">Actualização disponível</string>
   <string name="title_mms_no">Filtro de mensagens desactivado</string>
   <string name="title_mms_yes">Filtro de mensagens activado</string>
@@ -599,7 +603,7 @@
   <string name="title_virus_update_yes">Actualização automática de definições de vírus ligado</string>
   <string name="title_virus_yes">Não foram detectados vírus</string>
   <string name="toast_cleaner_cloudscan">Limpeza irá utilizar definições online</string>
-  <string name="toast_default_app">"%1$s set as system's default %2$s"</string>
+  <string name="toast_default_app">"%1$s definir como aplicação de sistema predefinida %2$s"</string>
   <string name="toast_flow_notification">As notificações de utilização de dados está activada</string>
   <string name="toast_garbage_lib">As actualizações automáticas para Limpeza estão activadas</string>
   <string name="toast_network_switch">Esta aplicação pode ligar à Internet</string>

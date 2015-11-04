@@ -19,4 +19,20 @@
         <item quantity="other">%d ficheiros bloqueados</item>
         <item quantity="one">%d ficheiro bloqueado</item>
     </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Limpar %1$d vídeos?</item>
+        <item quantity="one">Limpar %1$d vídeo?</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Removido %1$d vídeos com sucesso.</item>
+        <item quantity="one">Removido %1$d vídeo com sucesso.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Eliminar %1$d itens do histórico?</item>
+        <item quantity="one">Eliminar %1$d item do histórico?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d itens removidos do histórico.</item>
+        <item quantity="one">%1$d item removido do histórico.</item>
+    </plurals>	
 </resources>
