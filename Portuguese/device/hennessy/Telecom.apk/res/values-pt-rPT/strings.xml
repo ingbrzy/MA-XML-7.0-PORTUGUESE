@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Lch_dtmf_key">D</string>
+  <string name="accessibility_call_muted">Chamada silenciada.</string>
+  <string name="accessibility_speakerphone_enabled">Altavoz activado.</string>
+  <string name="add_vm_number_str">Adicionar número</string>
+  <string name="default_connection_manager_component"/>
+  <string name="handle_restricted">RESTRINGIDO</string>
+  <string name="headset_plugin_view_text">Auscultadores ligado.</string>
+  <string name="headset_plugin_view_title">Auscultadores</string>
+  <string name="incall_error_call_failed">"Não foi possível fazer a chamada."</string>
+  <string name="no_vm_number">Não existe número de correio de voz</string>
+  <string name="no_vm_number_msg">Não existe número de correio de voz no cartão SIM.</string>
+  <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
+  <string name="notification_missedCallTitle">Chamada não atendida</string>
+  <string name="notification_missedCall_call_back">Ligar de volta</string>
+  <string name="notification_missedCall_message">Mensagem</string>
+  <string name="notification_missedCallsMsg">%s chamadas não atendidas</string>
+  <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
+  <string name="outgoing_call_error_no_phone_number_supplied">Chamada não efectuada, não foi introduzido um número válido.</string>
+  <string name="outgoing_call_not_allowed">Não é permitido a este utilizador fazer chamadas telefónicas</string>
+  <string name="respond_via_sms_canned_response_1">"Não posso falar agora. O que é que se passa?"</string>
+  <string name="respond_via_sms_canned_response_2">"Telefono lhe daqui a nada."</string>
+  <string name="respond_via_sms_canned_response_3">"Telefono lhe mais tarde."</string>
+  <string name="respond_via_sms_canned_response_4">"Não posso falar agora. Telefona me mais tarde?"</string>
+  <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
+  <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Redefinir a aplicação predefinida</string>
+  <string name="respond_via_sms_setting_summary"/>
+  <string name="respond_via_sms_setting_title">Respostas rápidas</string>
+  <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
+  <string name="select_account_dialog_title">Seleccionar Conta</string>
+  <string name="telecommAppLabel">Telefone</string>
+  <string name="test_account_0_label">Q Mobile</string>
+  <string name="test_account_0_short_description">Conta com Q Mobile</string>
+  <string name="test_account_1_label">Market Wireless</string>
+  <string name="test_account_1_short_description">Conta com Market Wireless</string>
+  <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
+  <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
+  <string name="test_account_3_label">Bay Voice Chat Pro</string>
+  <string name="test_account_3_short_description">Chat with Chat Network users</string>  
+  <string name="unknown">Desconhecido</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Por favor desactive o modo TTY para fazer video-chamadas.</string>
+  <string name="voice_report_incoming_call">A ligar</string>
+  <string name="voice_report_unknown_num">Número desconhecido</string>
+</resources>
