@@ -103,6 +103,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="additional_system_update_menu" />
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
+  <string name="advanced_security_title">Avançado</string>
   <string name="advanced_settings">Definições avançadas</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
   <string name="advanced_text_layout">Activar layouts de texto avançado</string>
@@ -865,6 +866,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
+  <string name="disabled_because_no_backup_security">Para utilizar, defina uma bloqueio de ecrã primeiro</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disconnect">desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
@@ -1406,7 +1408,10 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="manage_mobile_plan_title">Plano móvel</string>
   <string name="manage_notification_access">Acesso a notificações</string>
   <string name="manage_notification_access_summary_zero">Aplicações não podem ler notificações</string>
+  <string name="manage_notification_access_title">Acesso às notificações</string>
   <string name="manage_space_text">Gerir espaço</string>
+  <string name="manage_trust_agents">Agentes de confiança</string>
+  <string name="manage_trust_agents_summary">Ver ou desactivar agentes de confiança</string>
   <string name="manage_xiaomi_router">Definições do Router MI</string>
   <string name="manageapplications_settings_summary">Gerir e remover aplicações instaladas</string>
   <string name="manageapplications_settings_title">Gerir aplicações</string>
@@ -2249,6 +2254,13 @@ Possívelmente o código PIN está errado."</string>
   <string name="sim_lock_settings_category">Configurar bloqueio do cartão SIM</string>
   <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
   <string name="sim_management_title">Cartões SIM e redes móveis</string>
+  <string name="sim_multi_sims_summary">Escolher o SIM que prefere para os dados móveis.</string>
+  <string name="sim_multi_sims_title">Encontrados vários SIMs</string>
+  <string name="sim_no_inserted_msg">Sem cartões SIM inseridos</string>
+  <string name="sim_other_call_settings">Outras definições de chamadas</string>
+  <string name="sim_outgoing_call_title">SIM para chamadas de saída</string>
+  <string name="sim_pin_attempts">"
+Tentativas restantes :"</string>
   <string name="sim_pin_change">Alterar o PIN do SIM</string>
   <string name="sim_pin_toggle">Bloquear cartão SIM</string>
   <string name="sim_pins_dont_match">Os PINs não coincidem</string>
@@ -2562,6 +2574,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="update_progress_for_updates">A actualizar (%s)</string>
   <string name="upload_debug_log_summary">Ajude a melhorar a MIUI enviando dados de utilização anónimos</string>
   <string name="upload_debug_log_title">Programa de Experiência de Utilizador</string>
+  <string name="usage_access_title">Aplicações com acesso de utilização</string>
   <string name="usage_log">Estatísticas de utilização das aplicações</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
   <string name="usage_stats_label">Estatísticas de utilização</string>
