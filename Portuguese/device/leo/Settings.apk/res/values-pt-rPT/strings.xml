@@ -2603,6 +2603,14 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_host_mode_subtext">Para utilizar controladores de jogos e outros periféricos na porta USB, pode diminuir a vida útil da bateria</string>
   <string name="usb_host_mode_text">Modo de USB host</string>
   <string name="usb_label_installer_cd">Instalar ferramentas de transferência de ficheiros</string>
+  <string name="usb_media_format_button_text">Eliminar armazenamento USB</string>
+  <string name="usb_media_format_desc">Eliminar armazenamento USB? Vai perder &lt;b&gt;todos&lt;/b&gt; os dados no armazenamento!</string>
+  <string name="usb_media_format_final_desc">"Eliminar armazenamento USB, eliminando todos os ficheiros? Não pode reverter esta acção!"</string>
+  <string name="usb_media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
+  <string name="usb_media_format_summary">Elimina todos os dados no armazenamento USB</string>
+  <string name="usb_media_format_title">Eliminar armazenamento USB</string>
+  <string name="usb_mount">Montar armazenamento USB</string>
+  <string name="usb_mount_summary"/>
   <string name="usb_msd_driver_installer_summary">Obter drivers de instalação para Windows ou OSX</string>
   <string name="usb_msd_driver_installer_title">Instalar o driver do disco (MSD)</string>
   <string name="usb_msd_summary">Transferir ficheiros para Windows ou OSX</string>
