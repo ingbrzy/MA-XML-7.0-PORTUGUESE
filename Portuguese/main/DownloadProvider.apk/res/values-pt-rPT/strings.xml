@@ -10,6 +10,10 @@
   <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno de transferências</string>
   <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
+  <string name="download_apk_desktop_installing">A instalar</string>
+  <string name="download_apk_desktop_pause">Em pausa</string>
+  <string name="download_apk_desktop_pending">Pendente</string>
+  <string name="download_apk_desktop_running">A transferir</string>
   <string name="download_error">Sem êxito</string>
   <string name="download_no_application_title">Não é possível aceder ao ficheiro</string>
   <string name="download_percent">%d%%</string>
@@ -47,7 +51,7 @@
   <string name="permlab_downloadManagerAdvanced">Funcionalidades avançadas do gestor de Transferências.</string>
   <string name="permlab_downloadWithoutNotification">Transferência de arquivos sem notificação</string>
   <string name="permlab_seeAllExternal">Ver todos os Transferências no armazenamento USB</string>
-  <string name="privacy_notif_content">Pressione para ver os detalhes.</string>
+  <string name="privacy_notif_content">Toque para ver os detalhes.</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está activo</string>
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">Aumentar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores do Xunlei. Os seus detalhes da conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
@@ -61,10 +65,12 @@
   <string name="warning_tip_content">Não se encontra ligado a uma rede. Usando a ligação de dados móvel para terminar esta transferência vai aumentar o uso de dados. Se ultrapassar o  limite de plano de dados , a operadora pode cobrar taxas adicionais.</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Aviso do uso de dados</string>
-  <string name="wifi_recommended_body" formatted="false">A partir desta %s a transferência já pode resultar em uso excessivo da sua ligação de dados móveis, o que pode levar a despesas de operador móvel dependendo do seu plano de dados movéis. Pressione em %s para começar esta transferência da próxima vez que estiver ligado a uma rede sem fios.</string>
+  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência já pode resultar em uso excessivo da sua ligação de dados móveis, o que pode levar a despesas de operador móvel dependendo do seu plano de dados movéis. 
+
+Toque em %s para começar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
   <string name="wifi_recommended_title">Aguardar para efectuar a transferência mais tarde?</string>
   <string name="wifi_required_body" formatted="false">"Deverá utilizar a rede sem fios para concluir esta %s Transferência. 
 
-Pressione %s para descarregar este ficheiro, da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+Toque em %s para começar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
 </resources>

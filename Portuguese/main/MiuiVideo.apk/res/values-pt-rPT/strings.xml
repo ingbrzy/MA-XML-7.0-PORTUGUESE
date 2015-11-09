@@ -54,6 +54,7 @@
   <string name="bmp_quality_mode_desc">"Melhorar qualidade de imagem do vídeo"</string>
   <string name="buffering">A fazer buffer…</string>
   <string name="buffering_video_netplay_label_v5">A ler…</string>
+  <string name="buy_vip">comprar vip</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_favorite_success">Secundários</string>
   <string name="check_app_version">A verificar actualizações…</string>
@@ -68,6 +69,9 @@
   <string name="clear_search_history">Limpar histórico de pesquisa</string>
   <string name="click_star_rate">Seleccione nas estrelas para classificar</string>
   <string name="click_to_login">Toque para iniciar</string>
+  <string name="clubber">clubber</string>
+  <string name="clubber_center">centro clubber</string>
+  <string name="clubber_info">informação clubber</string>
   <string name="cnlive">cnlive</string>
   <string name="comment">Comentários</string>
   <string name="comment_count_less_tip">O comentário deve ter pelo menos %1$s letras</string>
@@ -143,6 +147,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Sem resultados</string>
   <string name="error_empty_title">Algo está errado</string>
+  <string name="expire_time">tempo de expiração</string>
   <string name="favorite">Favorito</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Erro de ficheiro</string>
@@ -191,6 +196,7 @@
   <string name="memory_mode_desc">Reduzir consumo de memória</string>
   <string name="menu_item_enable_audio_enhance">Activar melhoramento de áudio</string>
   <string name="menu_name">Definições</string>
+  <string name="mibi">mibi</string>
   <string name="mine_info_account_summary_none">Sem sessão iniciada</string>
   <string name="mine_info_account_title">Informaçao da conta</string>
   <string name="minute"> Minuto</string>
@@ -214,7 +220,10 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Inicie sessão na Conta Mi para enviar comentários</string>
   <string name="no_longer_tips">Não mostrar novamente</string>
+  <string name="no_pay_record">sem registos pagos</string>
   <string name="no_sdcard_no_download">SNão existe espaço suficiente de armazenamento.</string>
+  <string name="not_buy_vip">sem vip</string>
+  <string name="not_exist_openid">a obter informação de conta, por favor aguarde...</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="nowifi_alert_dialog_continue">Transmitir</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
@@ -246,9 +255,11 @@
   <string name="online_video_oneweek_ago">Uma semana atrás</string>
   <string name="operator_test">Teste do operador</string>
   <string name="operator_test_summary">Correr aplicação no modo teste de operador</string>
+  <string name="original_price">preço original</string>
   <string name="other_info">Outros</string>
   <string name="other_setting">Adicional</string>
   <string name="pause">Pausa</string>
+  <string name="pay_record">registo pago</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Melhorar desempenho do reprodutor de vídeo</string>
   <string name="performance_mode_desc">"Maximizar desempenho do reprodutor de vídeo"</string>
@@ -368,9 +379,11 @@
   <string name="video_info_video_coding_label">Formato de codificação de vídeo:</string>
   <string name="video_plugin">Plug-in de vídeo</string>
   <string name="video_plugin_downloading">A transferir(%1$s), por favor espere um bocado</string>
-  <string name="video_plugin_prepare">Aguarde um segundo…</string>
+  <string name="video_plugin_prepare">Aguarde um seg…</string>
+  <string name="vip_package">pacote vip</string>
   <string name="vp_adapt_height">Ajustar altura</string>
   <string name="vp_adapt_width">Ajustar largura</string>
+  <string name="vp_app_download">Transferir aplicação</string>
   <string name="vp_app_name">Reprodutor de vídeo</string>
   <string name="vp_audio">Volume</string>
   <string name="vp_auto_select">Selecção automática</string>
@@ -387,6 +400,7 @@
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Aviso de uso de dados</string>
   <string name="vp_device_list">Dispositivos</string>
+   <string name="vp_download_apk_from_video_ad">Instalar a aplicação</string>
   <string name="vp_download_connect_fail">Não foi possível encontrar o caminho</string>
   <string name="vp_download_file_fail">A transferência falhou. Certifique-se de que há espaço suficiente no seu dispositivo.</string>
   <string name="vp_exit">Sair</string>

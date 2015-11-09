@@ -256,6 +256,8 @@
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mensagem Mi</string>
+  <string name="msg_type_hint_mx_b2c">Notificação de rede</string>
+  <string name="msg_type_hint_mx_b2c_omit">Notificação de rede</string>
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
@@ -287,6 +289,8 @@
   <string name="mx_auto_resend_sms">Enviar como texto</string>
   <string name="mx_auto_resend_sms_summary">Enviar como SMS quando ligado à rede de dados, quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
   <string name="mx_b2c_message_desc">Notificações de rede</string>
+  <string name="mx_b2c_message_resend_not_online">Não é possível reenviar mensagem. Mensagens Mi está offline.</string>
+  <string name="mx_b2c_message_server">Servidor</string>
   <string name="mx_btn_enable">Activado</string>
   <string name="mx_btn_enable_now">Activar</string>
   <string name="mx_count_dspt">Enviou %1$d SMS e %2$d MMS</string>
@@ -452,7 +456,7 @@
   <string name="sdcard_has_not_enough_space">Cartão SD sem espaço suficiente</string>
   <string name="search">Mensagens</string>
   <string name="search_empty">Sem resultados</string>
-  <string name="search_hint">Procurar mensagem</string>
+  <string name="search_hint">Pesquisar mensagens</string>
   <string name="search_label">Mensagens</string>
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>

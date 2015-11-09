@@ -71,11 +71,11 @@
      </plurals>
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contactos com números de telefone</item>
-        <item quantity="one">1 contacto com o número de telefone</item>
+        <item quantity="one">1 contacto com número de telefone</item>
      </plurals>
      <plurals name="merge_info">
-        <item quantity="other">fundir de %0$d origens</item>
-        <item quantity="one">não fundidos</item>
+        <item quantity="other">juntar de %0$d fontes</item>
+        <item quantity="one">não juntos</item>
      </plurals>
      <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d mensagens de voz</item>
