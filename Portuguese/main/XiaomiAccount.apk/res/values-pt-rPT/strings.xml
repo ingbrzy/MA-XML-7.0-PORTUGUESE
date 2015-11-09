@@ -183,7 +183,10 @@ Para activar a conta, siga o
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode visualizar esta página em %s.</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão numa conta existente</string>
+  <string name="passport_login_check_find_device">A verificar estado de Localizar dispositivo…</string>
+  <string name="passport_login_check_find_device_failed">Não foi possível verificar estado de Localizar dispositivo. Verifique a sua ligação de rede.</string>
   <string name="passport_login_failed">Não é possível iniciar sessão</string>
+  <string name="passport_login_find_device_bind">Este dispositivo está associado com a Conta Mi existente (%s). Inicie sessão para activar este dispositivo.</string>
   <string name="passport_login_instead_reg">Utilizar este número</string>
   <string name="passport_login_instead_reg_with_email">Utilizar este Email</string>
   <string name="passport_login_notice">Iniciar sessão em…</string>
@@ -257,7 +260,7 @@ Para activar a conta, siga o
   <string name="passport_wrong_password">Palavra-passe incorrecta</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que inseriu é inválido</string>
   <string name="passport_wrong_vcode">O código que inseriu está errado</string>
-  <string name="passport_xiaomi_account_dspt">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja MIUI Temas, e outros serviços Mi, em qualquer lugar.</string>
+  <string name="passport_xiaomi_account_dspt">Utilize a sua conta Mi para entrar na Nuvem Mi, Loja MIUI Temas, e Loja Mi, de qualquer lugar.</string>
   <string name="passport_xiaomi_account_sec_dspt" />
   <string name="passport_xiaomi_account_sec_dspt2">Iniciar sessão na sua Conta Mi necessita duma ligação à internet. Além de que, o acesso à localização, a Nuvem Mi, o Vip Mi irão ser ligados automaticamente.</string>
   <string name="phone_activated">%s activado</string>

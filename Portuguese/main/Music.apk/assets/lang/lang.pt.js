@@ -548,6 +548,12 @@
 			"other": "\"${v} itens seleccionados\"",
 			"one": "\"${v} item seleccionado\""
 		 },
+		 "Nalert_msg_vip_songs_for_download_upgrade": {
+			"other": "\"Apenas pode transferir %d Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais. \""
+		 },
+		 "Nalert_msg_vip_songs_for_download_limited": {
+			"other": "\" Apenas pode transferir %d Músicas Premium este mês. Ainda quer transferir as músicas seleccionadas?\""
+		 },
 		 "song_already_favorite": {
 			"other": "\"Músicas adicionadas aos favoritos.\"",
 			"one": "\"Música adicionada aos favoritos.\""

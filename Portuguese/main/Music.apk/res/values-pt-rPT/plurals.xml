@@ -72,7 +72,7 @@
         <item quantity="other">%d músicas vão ser enviadas</item>
         <item quantity="one">1 música vai ser enviada</item>
      </plurals>
-	 <plurals name="multichoice_title">
+     <plurals name="multichoice_title">
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
      </plurals>
@@ -80,4 +80,10 @@
         <item quantity="other">Músicas adicionadas aos favoritos.</item>
         <item quantity="one">Música adicionada aos favoritos.</item>
      </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Apenas pode transferir %d Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais. "</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">" Apenas pode transferir %d Músicas Premium este mês. Ainda quer transferir as músicas seleccionadas?"</item>
+    </plurals>
 </resources>
