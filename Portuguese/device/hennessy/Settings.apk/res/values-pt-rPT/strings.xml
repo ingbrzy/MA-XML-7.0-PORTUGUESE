@@ -693,6 +693,14 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
   <string name="data_size_label">Dados</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranopia (vermelho-verde)</string>
+  <string name="daltonizer_mode_disabled">Desactivado</string>
+  <string name="daltonizer_mode_monochromacy">Monocromacia</string>
+  <string name="daltonizer_mode_protanomaly">Protanopia (vermelho-verde)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanopia (azul-amarelo)</string>
+  <string name="daltonizer_type">Modo de correcção</string>
+  <string name="daltonizer_type_overridden">Substituído por %1$s</string>
+  <string name="dashboard_title">Definições</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
   <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas rede móveis. Será utilizado Wi-Fi, se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
