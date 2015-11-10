@@ -83,6 +83,7 @@
   <string name="hms_uri_param_err">"O endereço não pode estar vazio"</string>
   <string name="invalid_conversation">Conversa inválida</string>
   <string name="left_cancel">Deslize para a esquerda para cancelar</string>  
+  <string name="low_memory">low_memory!</string>
   <string name="menu_add_black">Bloquear este número</string>
   <string name="menu_add_contact">Adicionar a um contacto já existente</string>
   <string name="menu_call">Ligar</string>
@@ -170,7 +171,7 @@
   <string name="pref_title_show_recent_contacts">Mostrar contactos recentes</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
   <string name="prepare_send">A preparar para enviar…</string>
-  <string name="press_recording">Pressione &amp; segure o Microfone para gravar</string>
+  <string name="press_recording">Prima e segure o ícone do Micro para gravar</string>
   <string name="preview">Prévisualizar</string>
   <string name="private_new_notification">Notificações de mensagens</string>
   <string name="private_protect">Palavras-Passe</string>
@@ -184,9 +185,10 @@
   <string name="resize_image_error_information">Esta imagem é demasiado grande para enviar, mesmo redimensionada.</string>
   <string name="restore_blocked_message">Restaura mensagem</string>
   <string name="retrive_hms_tips">A receber…</string>
-  <string name="save">Gravar</string>
+  <string name="save">Guardar</string>
+  <string name="scan_result">pesquisar resultado</string>
   <string name="search_empty">Sem resultados</string>
-  <string name="search_hint">Procurar mensagens</string>
+  <string name="search_hint">Pesquisar mensagens</string>
   <string name="search_label">Mensagens</string>
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
@@ -213,7 +215,7 @@
   <string name="timed_message_expired_title_2">Enviá-las agora?</string>
   <string name="title_collapse_sp_messages">Mensagens de grupo da operadora</string>
   <string name="title_date_type">Timestamp</string>
-  <string name="title_show_sms_template">Procurar nas SMS por código de verificação</string>
+  <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Vai enviar às %s</string>
   <string name="too_many_unsent_mms">"Não é possível enviar a mensagem agora. Demasiadas mensagens multimédia por enviar."</string>

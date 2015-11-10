@@ -212,6 +212,7 @@
   <string name="contact_detail_profile_switch_on_subtitle">Toque para ligar cartões de contacto</string>
   <string name="contact_detail_profile_switch_on_success_toast">Cartões de contacto ligados</string>
   <string name="contact_directory_description">Directoria %1$s</string>
+  <string name="contact_edit_save_error_empty">Contacto está vazio</string>
   <string name="contact_edit_title_edit">Editar contacto</string>
   <string name="contact_edit_title_insert">Guardar em %s</string>
   <string name="contact_edit_title_readonly">Só de leitura</string>
@@ -239,6 +240,7 @@
   <string name="create_group_dialog_title">Criar novo grupo</string>
   <string name="create_group_item_label">Criar novo grupo</string>
   <string name="create_qrcode_fail_message">Erro ao criar código QR</string>  
+  <string name="create_voip_shortcut_success">Atalho criado</string>
   <string name="custom_list_filter">Definir vista personalizada</string>
   <string name="custom_nickname_hint">Introduzir a alcunha</string>
   <string name="customLabelPickerTitle">Nome de etiqueta personalizado</string>
@@ -614,7 +616,7 @@ Motivo: \"%s\""</string>
   <string name="menu_viewContact">Ver contacto</string>
   <string name="merge_contact_message">%1$d contactos com os dados parcialmente duplicados</string>
   <string name="messageShortcutActivityTitle">Escolher um número para enviar mensagem</string>
-  <string name="miprofile_account_type">Conta Mi</string>
+  <string name="miprofile_account_type">Cartões de contacto</string>
   <string name="miprofile_alertdialog_edit">Introduzir nome</string>
   <string name="miprofile_alertdialog_message">Mostrar este nome aos contactos quando pedir para trocar cartões.</string>
   <string name="miprofile_alertdialog_title">Introduzir nome</string>
@@ -757,7 +759,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_message">Contactos podem estar armazenados no seu cartão SIM. Podem estar armazenado na lista de contactos do cartão SIM, se assim for por favor importe as informações do cartão SIM para o seu telefone.</string>
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados.</string>
-  <string name="no_sdcard_message">Nenhum armazenamento encontrado.</string>    
+  <string name="no_sdcard_message">Nenhum armazenamento encontrado.</string>
+  <string name="no_voip_contacts">Sem contactos VOIP</string>
   <string name="non_phone_add_to_contacts">Adicionar aos contactos</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
@@ -1096,7 +1099,13 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_configure_voicemail">Configurar correio de voz.</string>
   <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor de correio de voz. Novas mensagens de voz em espera.</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de correio de voz.</string>
+  <string name="voip_contact_label">Voz Mi</string>
+  <string name="voip_contacts_entry">Voz Mi</string>
+  <string name="voip_contacts_entry_header">Mensagens e Voz Mi</string>
+  <string name="voip_loading_contact">Aguarde um seg…</string>
   <string name="voip_name">Voz Mi</string>
+  <string name="voip_recommend_msg">Toque para utilizar voip</string>
+  <string name="voip_shortcut_name">Voz Mi</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpar dados</string>

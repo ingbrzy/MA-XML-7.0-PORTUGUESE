@@ -164,8 +164,8 @@ Utilize apenas o carregador fornecido."</string>
   <string name="screen_pinning_negative">Não obrigado</string>
   <string name="screen_pinning_positive">Percebi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
-  <string name="screenshot_failed_text">Não foi possível guardar a captura de ecrã. O armazenamento pode estar a ser utilizado.</string>
-  <string name="screenshot_saved_text">Seleccione para ver a captura de ecrã guardada.</string>
+  <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento, ou não é permitido pela aplicação ou organização.</string>
+  <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã.</string>
   <string name="screenshot_saved_title">Captura de ecrã guardada</string>
   <string name="screenshot_saving_text">Captura de ecrã está a ser guardada</string>
   <string name="screenshot_saving_ticker">A guardar captura de ecrã…</string>

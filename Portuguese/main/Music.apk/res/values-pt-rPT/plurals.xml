@@ -40,7 +40,7 @@
         <item quantity="other">%d músicas parecidas</item>
         <item quantity="one">%d música parecida</item>
      </plurals>
-	 <plurals name="Nartists_count">
+     <plurals name="Nartists_count">
         <item quantity="other">%d artistas</item>
         <item quantity="one">%d artista</item>
      </plurals>
@@ -81,9 +81,9 @@
         <item quantity="one">Música adicionada aos favoritos.</item>
      </plurals>
      <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">"Apenas pode transferir %d Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais. "</item>
+        <item quantity="other">Pode transferir %d músicas Premium este mês. Actualize a sua subscrição Premium para transferir mais.</item>
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">" Apenas pode transferir %d Músicas Premium este mês. Ainda quer transferir as músicas seleccionadas?"</item>
+        <item quantity="other">Pode transferir %d músicas Premium este mês. Transferir as músicas seleccionadas?</item>
     </plurals>
 </resources>

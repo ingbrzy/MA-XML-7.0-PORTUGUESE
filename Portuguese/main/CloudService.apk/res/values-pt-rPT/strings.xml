@@ -250,6 +250,9 @@ Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi."
   <string name="mx_dspt_provision_privacy_2_sim">"Esta funcionalidade pode necessitar do seu número de telefone. A sua operadora poderá cobrar por dois SMS para activar esta funcionalidade.
 
 Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta funcionalidade pode necessitar do seu número de telefone. poderá cobrar um SMS utilizado para activar esta funcionalidade quando o cartão SIM for detectado.
+
+Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
   <string name="mx_dspt_provision_with_voip">Telefonar para outros utilizadores MIUI de graça utilizando a sua ligação de internet. Pode ligar ou desligar esta funcionalidade a qualquer momento nas Definições.VoIP é fornecido por Weihui. Ver política de privacidade da Weihui</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
