@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <plurals name="batch_delete_msg">
         <item quantity="other">Eliminar %d contactos?</item>
@@ -9,9 +8,13 @@
         <item quantity="other">Eliminar %d contactos</item>
         <item quantity="one">Eliminar contacto</item>
      </plurals>
+     <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d pessoas</item>
+        <item quantity="one">%1$d pessoa</item>
+    </plurals>
      <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Tocou %d vezes</item>
-        <item quantity="one">Tocou uma vez</item>
+        <item quantity="one">Tocou %d vez</item>
      </plurals>
      <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Eliminar %d contactos do cartão SIM?</item>
@@ -122,12 +125,12 @@
         <item quantity="other">%d pessoas</item>
         <item quantity="one">1 pessoa</item>
      </plurals>
-	 <plurals name="contacts_count">
+     <plurals name="contacts_count">
         <item quantity="other">%1$d contactos</item>
         <item quantity="one">%1$d contacto</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%d contactos não foram sincronizados"</item>
-        <item quantity="one">"1 contacto não foi sincronizado"</item>
+        <item quantity="other">"%d contactos ou fotos ainda não foram sincronizados"</item>
+        <item quantity="one">"1 contacto ou foto ainda não foi sincronizado"</item>
      </plurals>
 </resources>

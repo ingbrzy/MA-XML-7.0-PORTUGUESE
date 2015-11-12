@@ -17,6 +17,7 @@
   <string name="alter_message_switch_mode_message">Quando você alternar os modos, as definições anteriores não serão aplicáveis a esta aplicação.</string>
   <string name="app_frozen_app_list_summary">Aplicações em segundo plano</string>
   <string name="app_list_title">Escolher aplicações</string>
+  <string name="app_list_total">%d aplicações</string>
   <string name="app_name">Economizador de bateria</string>
   <string name="background">Aplicação está a correr em segundo plano</string>
   <string name="config_custom_description">Se as configurações sugeridas não forem de encontro aos seus requisitos, pode personalizá-las</string>
@@ -74,6 +75,10 @@
   <string name="power_config_cpu_mode_title">Modo da CPU</string>
   <string name="power_config_data_connect_summary">Permitir que as aplicações liguem à rede em segundo plano</string>
   <string name="power_config_data_connect_title">Ligação de dados</string>
+  <string name="power_config_disable_description">MIUI不会限制后台应用的功能</string>
+  <string name="power_config_disable_title">关闭</string>
+  <string name="power_config_enhance_description">MIUI将进一步尝试降低后台应用的活动性</string>
+  <string name="power_config_enhance_title">增强省电</string>
   <string name="power_config_event_delete">Eliminar</string>
   <string name="power_config_idle_notification_summary">Apenas mostrar a primeira notificação da aplicação</string>
   <string name="power_config_idle_notification_title">Apenas mostrar a primeira notificação</string>
@@ -83,11 +88,16 @@
   <string name="power_config_lcd_mode_title">Modo LCD</string>
   <string name="power_config_location_summary">Permitir que a aplicação veja a localização do seu dispositivo</string>
   <string name="power_config_location_title">Acesso à localização</string>
+  <string name="power_config_mode_title">后台功耗控制级别</string>
+  <string name="power_config_normal_description">依照应用配置，MIUI将限制后台应用的网络和定位功能</string>
+  <string name="power_config_normal_title">标准省电</string>
   <string name="power_config_phone_charging_title">A carregar</string>
   <string name="power_config_phone_idle_title">Standby</string>
   <string name="power_config_select_apps_empty">Toque para escolher aplicações</string>
   <string name="power_config_select_apps_title">Aplicações</string>
   <string name="power_config_title">Definições</string>
+  <string name="power_config_ultimate_description">MIUI将进一步尝试冻结后台应用</string>
+  <string name="power_config_ultimate_title">终极省电</string>
   <string name="power_configure_screen_brightness_enable">Definir brilho do ecrã</string>
   <string name="power_customize_giveup_change">Descartar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>

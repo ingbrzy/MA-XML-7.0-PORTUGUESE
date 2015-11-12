@@ -122,6 +122,7 @@
   <string name="callrecordview_menu_show_sim">%s chamadas</string>
   <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
   <string name="callrecordview_menu_show_title">Ecrã de registo de chamadas</string>  
+  <string name="calls_voip_prompt">VoIP</string>
   <string name="cancel_confirmation_dialog_message">Rejeitar as suas alterações?</string>
   <string name="cancel_confirmation_dialog_title">Cancelar</string>
   <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
@@ -454,6 +455,7 @@ Motivo: \"%s\""</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
   <string name="import_contact_card_button">Importar contacto</string>
   <string name="import_failure_no_vcard_file">Sem ficheiros vCard encontrados no armazenamento.</string>
+  <string name="import_from_onekey_migrate">Importar com Transferência</string>
   <string name="import_from_other_phone">Importar de outro telefone</string>
   <string name="import_from_sdcard">Importar do armazenamento</string>
   <string name="import_from_sim">Importar do cartão SIM</string>
@@ -760,7 +762,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
   <string name="no_contacts_selected">Sem contactos seleccionados.</string>
   <string name="no_sdcard_message">Nenhum armazenamento encontrado.</string>
-  <string name="no_voip_contacts">Sem contactos VOIP</string>
+  <string name="no_voip_contacts">Sem contactos Voz Mi</string>
   <string name="non_phone_add_to_contacts">Adicionar aos contactos</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
@@ -790,7 +792,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="percent_sign">%</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefone</string>
-  <string name="phone_call_type_voip">VoIP</string>
+  <string name="phone_call_type_voip">Voz Mi</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_primary">Primário</string>
   <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone.</string>
@@ -1101,10 +1103,9 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de correio de voz.</string>
   <string name="voip_contact_label">Voz Mi</string>
   <string name="voip_contacts_entry">Voz Mi</string>
-  <string name="voip_contacts_entry_header">Mensagens e Voz Mi</string>
   <string name="voip_loading_contact">Aguarde um seg…</string>
   <string name="voip_name">Voz Mi</string>
-  <string name="voip_recommend_msg">Toque para utilizar voip</string>
+  <string name="voip_recommend_msg">Toque para utilizar Voz Mi</string>
   <string name="voip_shortcut_name">Voz Mi</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>

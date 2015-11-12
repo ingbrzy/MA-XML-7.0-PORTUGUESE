@@ -412,6 +412,7 @@
   <string name="heavenly_stems_wu">" "</string>
   <string name="heavenly_stems_xin">" "</string>
   <string name="heavenly_stems_yi">" "</string>
+  <string name="hybrid_provider">A página web fornecida por %1$s .</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Não é possível ligar à rede. Para visualizar estas informações, 
@@ -463,6 +464,7 @@ vá a %s"</string>
   <string name="name">Nome</string>
   <string name="nickname">Alcunha</string>
   <string name="night">PM</string>
+  <string name="no_network">Não é possível ligar à rede</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM.</string>
   <string name="noon">PM</string>
   <string name="note">Nota</string>
@@ -524,7 +526,7 @@ vá a %s"</string>
   <string name="sunday">Domingo</string>
   <string name="sunday_short">Dom.</string>
   <string name="sunday_shortest">D</string>
-  <string name="sync_one_time_sync">Pressione para sincronizar ( %1$s )</string>
+  <string name="sync_one_time_sync">Toque para sincronizar ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da elevação a Lei Marcial</string>
   <string name="the_anti_aggression_day">Dia da anti-agressão</string>
   <string name="the_arbor_day">Dia da Árvore</string>
@@ -581,6 +583,7 @@ vá a %s"</string>
   <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="web_sso_login_message">A iniciar sessão…</string>
   <string name="website">Website</string>
+  <string name="webview_reload">repetir</string>
   <string name="wednesday">Quarta-feira</string>
   <string name="wednesday_short">Qua.</string>
   <string name="wednesday_shortest">Q</string>

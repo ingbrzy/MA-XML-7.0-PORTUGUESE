@@ -258,7 +258,7 @@
     "track_main_fragment_tab_track": "Música",
     "track_main_fragment_tab_album": "Álbum",
     "no_online_song_selected": "Não foi seleccionada nenhuma Música",
-    "is_loading_data": "A carregar as músicas. Espere um minuto ou dois e tente novamente.",
+    "is_loading_data": "A carregar as músicas. Aguarde um minuto ou dois e tente novamente.",
     "search_title_singer": "Artista",
     "search_title_album": "Álbum",
     "search_title_song": "Música",
