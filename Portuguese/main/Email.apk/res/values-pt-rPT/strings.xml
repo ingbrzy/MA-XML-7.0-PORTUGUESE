@@ -237,8 +237,8 @@
   <string name="confirm_discard_text">Rejeitar esta mensagem?</string>
   <string name="confirm_response">A enviar…</string>
   <string name="confirm_save_message_no">Rejeitar</string>
-  <string name="confirm_save_message_title">Gravar como rascunho?</string>
-  <string name="confirm_save_message_yes">Gravar</string>
+  <string name="confirm_save_message_title">Guardar como rascunho?</string>
+  <string name="confirm_save_message_yes">Guardar</string>
   <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem.</string>
   <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto.</string>
   <string name="confirm_send_title">Enviar mensagem?</string>  
@@ -580,7 +580,7 @@
   <string name="outbox_alert_edit_resend">Editar e reenviar</string>
   <string name="outbox_alert_failed_edit_resend">Não é possível enviar. Edite e tente novamente.</string>
   <string name="outbox_alert_mailbox_not_found">O endereço de email não foi encontrado</string>
-  <string name="outbox_alert_rw_io_error">Ocorreu um erro. Espere um minuto ou dois e tente novamente.</string>
+  <string name="outbox_alert_rw_io_error">Ocorreu um erro. Aguarde um minuto ou dois e tente novamente.</string>
   <string name="outbox_alert_select_operation">Escolha uma acção</string>
   <string name="outbox_alert_title_sent_failed">Não foi possível enviar email</string>
   <string name="outbox_no_mails">Vazio</string>
