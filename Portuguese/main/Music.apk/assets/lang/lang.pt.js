@@ -276,7 +276,7 @@
     "tab_local_folder_list": "Pasta",
     "song_not_find": "Esta música não está disponível.",
     "empty_page_no_track": "Sem músicas",
-    "empty_page_no_artist": "Sem artitas",
+    "empty_page_no_artist": "Sem artistas",
     "empty_page_no_album": "Sem álbuns",
     "empty_page_no_document": "Sem ficheiros áudio",
     "set_as_ring": "Definir como tom de toque",
