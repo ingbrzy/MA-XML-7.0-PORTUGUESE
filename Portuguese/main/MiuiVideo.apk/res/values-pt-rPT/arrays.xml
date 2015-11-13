@@ -4,4 +4,8 @@
         <item>Servidor de testes</item>
         <item>Servidor on-line</item>
      </string-array>
+     <string-array name="version_list_entries">
+        <item>Stable</item>
+        <item>Developer</item>
+    </string-array>
 </resources>
