@@ -9,7 +9,7 @@
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
         <item quantity="other">Os itens seleccionados incluem fotos na Nuvem Mi, eliminar %s fotos deste dispositivo e da Nuvem Mi?</item>
-        <item quantity="one">O item seleccionado inclui uma foto na Nuvem Mi, eliminar %s foto deste dispositivo e da Nuvem Mi?</item>		
+        <item quantity="one">O item seleccionado inclui uma foto na Nuvem Mi, eliminar %s foto deste dispositivo e da Nuvem Mi?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
         <item quantity="other">Os itens seleccionados incluem vídeos na Nuvem Mi, eliminar %s vídeos deste dispositivo e da Nuvem Mi?</item>
@@ -34,7 +34,7 @@
      </plurals>	 
      <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other"> Eliminar %s fotos deste álbum? "</item>
-        <item quantity="one"> Eliminar %s foto deste álbum? "</item>		
+        <item quantity="one"> Eliminar %s foto deste álbum? "</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video">
         <item quantity="other">Eliminar %s vídeos deste álbum? "</item>
@@ -68,7 +68,7 @@
         <item quantity="other">Não tem permissão para eliminar estes %d ficheiros</item>
         <item quantity="one">Não tem permissão para eliminar este %d ficheiro</item>
      </plurals>
-	 <plurals name="seconds">
+     <plurals name="seconds">
          <item quantity="other">%d segundos</item>
          <item quantity="one">1 segundo</item>
      </plurals>
@@ -86,11 +86,11 @@
         <item quantity="one">%1$d foto</item>
      </plurals>
      <plurals name="number_of_items">
-        <item quantity="other">%1$d ficheiros</item>
-        <item quantity="zero">%1$d ficheiros</item>
-        <item quantity="one">%1$d ficheiro</item>
+        <item quantity="other">%1$d itens</item>
+        <item quantity="zero">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
      </plurals>
-	 <plurals name="confirm_delete_image_from_many_albums">
+     <plurals name="confirm_delete_image_from_many_albums">
         <item quantity="other">Eliminar %1$d imagens de %2$d álbuns?</item>
         <item quantity="one">Eliminar %1$d imagem de %2$d álbuns?</item>
      </plurals>
@@ -105,10 +105,10 @@
         <item quantity="one">%1$d</item>
      </plurals>
      <plurals name="pick_with_limited_upper_bound_title">
-        <item quantity="other">Pode seleccionar %d ficheiros</item>
-        <item quantity="one">Pode seleccionar %d ficheiro</item>
+        <item quantity="other">Pode seleccionar %d itens</item>
+        <item quantity="one">Pode seleccionar %d item</item>
      </plurals>
-	 <plurals name="baby_album_sharer_recommand_old_pictures">
+     <plurals name="baby_album_sharer_recommand_old_pictures">
          <item quantity="other">%1$d fotos de %2$s para ser adicionadas</item>
          <item quantity="one">%1$d foto de %2$s para ser adicionada</item>
      </plurals>
@@ -122,7 +122,7 @@
      </plurals>
      <plurals name="baby_age_subtitle_month">
          <item quantity="other">"%1$d meses "</item>
-         <item quantity="one">"%1$d mês "</item>		 
+         <item quantity="one">"%1$d mês "</item>
      </plurals>
      <plurals name="baby_age_subtitle_day">
          <item quantity="other">%1$d dias</item>
@@ -155,5 +155,5 @@
      <plurals name="number_of_uploading_images_and_videos">
          <item quantity="other">A sincronizar %1$d itens…</item>
          <item quantity="one">A sincronizar 1 item…</item>
-     </plurals>	 
+     </plurals>
 </resources>
