@@ -183,8 +183,6 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="config_isoImagePath" />
   <string name="config_mms_user_agent">Android-Mms/2.0</string>
   <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-  <string name="config_networkLocationProviderPackageName">com.amap.android.location</string>
-  <string name="config_ntpServer">2.android.pool.ntp.org</string>
   <string name="config_partial_segment_expire_age">2592000000</string>
   <string name="config_persistentDataPackageName" />
   <string name="config_rat_2g">2G</string>
@@ -1537,6 +1535,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="stk_cc_ussd_to_ss">Pedido USSD é alterado para um pedido SS.</string>
   <string name="stk_cc_ussd_to_ussd">Pedido USSD é alterado para um novo pedido USSD.</string>
   <string name="storage_internal">Armazenamento interno</string>
+  <string name="storage_phone">Armazenamento do telefone</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_uicc">Armazenamento UICC</string>
   <string name="storage_usb">Armazenamento USB</string>
