@@ -160,4 +160,12 @@
         <item quantity="few">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
         <item quantity="many">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
     </plurals>
+	<plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d novos adesivos WeChat hoje</item>
+        <item quantity="zero">%1$d novos adesivos WeChat hoje</item>
+        <item quantity="one">%1$d novo adesivo WeChat hoje</item>
+        <item quantity="two">%1$d novos adesivos WeChat hoje</item>
+        <item quantity="few">%1$d novos adesivos WeChat hoje</item>
+        <item quantity="many">%1$d novos adesivos WeChat hoje</item>
+    </plurals>
 </resources>
