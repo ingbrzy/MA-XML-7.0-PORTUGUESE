@@ -804,6 +804,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
   <string name="debug_log">Programa de Experiência do utilizador</string>
   <string name="debug_monitoring_category">A monitorizar</string>
+  <string name="debug_view_attributes">Activar os atributos de inspecção de visualização</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Escolher teclado predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
@@ -1470,6 +1471,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
   <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
+  <string name="media_category">Multimédia</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
   <string name="media_format_button_text">Formatar armazenamento USB</string>
@@ -2203,6 +2205,8 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="select_runtime_dialog_title">Seleccionar execução</string>
   <string name="select_runtime_title">Seleccionar execução</string>
   <string name="select_runtime_warning_message">Reiniciar para alterar o tempo de execução de %1$s para %2$s?</string>
+  <string name="select_logd_size_dialog_title">Seleccionar tamanho de registo por ficheiros registados</string>
+  <string name="select_logd_size_title">Tamanhos de ficheiros de registo</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
   <string name="selinux_status">Estado SELinux</string>
   <string name="selinux_status_disabled">Desactivado</string>
@@ -2300,6 +2304,7 @@ Tentativas restantes :"</string>
   <string name="sim_radio_off">Não activado</string>
   <string name="sim_reenter_new">Insira novamente o PIN</string>
   <string name="sim_status_title">Estado do SIM</string>
+  <string name="simulate_color_space">Simular espaço de cor</string>
   <string name="skip_label">Saltar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas irão ser desligados no ecrã de bloqueio.</string>
   <string name="skip_step">Saltar</string>
@@ -2626,6 +2631,8 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Manter ligado</string>
   <string name="usage_type_wifi_running">Wi-Fi ligado</string>
+  <string name="usb_audio_disable_routing">Desactivar reencaminhamento de áudio USB</string>
+  <string name="usb_audio_disable_routing_summary">Desactivar reencaminhamento automático para periféricos de áudio USB</string>
   <string name="usb_charging_summary">Desligue todos os outros recursos de ligação USB para acelerar o carregamento.</string>
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
@@ -2660,6 +2667,8 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="use_default_tts_settings_title">Utilizar sempre as minhas definições</string>
   <string name="use_location_summary">Permitir que o Google utilize a sua localização para melhorar resultados de pesquisa e outros serviços</string>
   <string name="use_location_title">Localização e pesquisa Google</string>
+  <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
+  <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="user_account_title">Conta para conteúdo</string>
   <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicacões e conteúdos a partir da sua conta</string>
@@ -2873,6 +2882,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_advanced_mac_address_title">Endereço MAC</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
+  <string name="wifi_aggressive_handover">Transferência do Wi-Fi para telefone</string>
+  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
+  <string name="wifi_allow_scan_with_traffic">Permitir sempre pesquisas do Wi-Fi</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
   <string name="wifi_and_mobile_skipped_message">CUIDADO: Até que tenha uma ligação com a internet, o telefone não será capaz de verificar se o seu software está actualizado.</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Ligar automaticamente</string>
@@ -3155,6 +3168,8 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_unchanged">(não alterado)</string>
   <string name="wifi_unspecified">(não especificado)</string>
   <string name="wifi_update">Actualizar estatísticas</string>
+  <string name="wifi_verbose_logging">Activar o registo de Wi-Fi Detalhado</string>
+  <string name="wifi_verbose_logging_summary">Amum Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Criar uma directoria</string>
