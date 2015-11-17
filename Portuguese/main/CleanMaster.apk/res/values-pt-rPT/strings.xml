@@ -63,6 +63,7 @@
     <string name="cache_title_empty_folder">Pasta vazia (%d)</string>
     <string name="cache_title_empty_folder2">Pasta vazia</string>
     <string name="cache_title_system_cache">Cache do sistema</string>
+    <string name="cached_garbage">Cache</string>
     <string name="cancel">Cancelar</string>
     <string name="clean_content_all">Tudo</string>
     <string name="clean_content_one">1 item</string>
@@ -108,11 +109,13 @@
     <string name="empty_title_installed_apps">Vazio</string>
     <string name="empty_title_large_files">Vazio</string>
     <string name="empty_title_residual">Não foram encontrados resíduos</string>
+    <string name="flow_rank_title">Utilização de dados</string>
     <string name="garbage_clean_detail">Detalhes</string>
     <string name="garbage_cleanup_detail">%1$d vezes, limpou %2$s</string>
     <string name="garbage_month">Limpou %s este mês</string>
     <string name="go_to">Prosseguir</string>
     <string name="goto_set">Definir</string>
+    <string name="grabage_rank_title">Limpo hoje</string>
     <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
     <string name="header_optimizer">Ao usar este recurso, está a concordar com %s.</string>
     <string name="hint_bar_select_image">%d seleccionados</string>
@@ -175,7 +178,7 @@
     <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
     <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
     <string name="month_day_format">MMM dd</string>
-    <string name="msg_cleanup_db_update_checking">A procurar actualizações...</string>
+    <string name="msg_cleanup_db_update_checking">A verificar por actualizações...</string>
     <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
     <string name="msg_update_error_code_already_running">A actualizar</string>
     <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
@@ -249,7 +252,7 @@
     <string name="privacy_clipboard_type">Área de transferência</string>
     <string name="privacy_search_desc">Histórico de pesquisa</string>
     <string name="privacy_search_type">Pesquisa Google</string>
-    <string name="promotion">Escolhas dos editores</string>
+    <string name="promotion">Anúncio</string>
     <string name="recommended">Em destaque</string>
     <string name="safety_check_detail">%1$d vezes, ganhou %2$d pontos</string>
     <string name="safety_rank">Á frente de %d%% utilizadores MIUI em termos de segurança</string>
@@ -314,7 +317,9 @@
     <string name="toast_selecte_group_restore_succeed">Fotos restauradas</string>
     <string name="toast_uninstall_success">Desinstalação concluída</string>
     <string name="total_clean">Total limpo: %s</string>
+    <string name="total_clean_text">Limpar</string>
     <string name="traffic_top">TOP 5 aplicações a consumir dados </string>
+    <string name="unlike">Não obrigado</string>
     <string name="virus_scan">Verificar vírus</string>
     <string name="white_list_ad_header">Adicionar ficheiros: %d</string>
     <string name="white_list_apk_header">Instalar pacotes: %d</string>

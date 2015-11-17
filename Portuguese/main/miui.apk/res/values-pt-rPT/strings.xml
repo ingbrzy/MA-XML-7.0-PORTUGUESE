@@ -11,8 +11,6 @@
   <string name="address">Endereço</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
-  <string name="app_name_which_call">Aplicação: %s</string>
-  <string name="app_version_which_call">Versão da aplicação: %s</string>
   <string name="birthday">Aniversário</string>
   <string name="check_phone_error_title">A sincronização está desligada</string>
   <string name="check_phone_io_error">Não é possível ligar à rede</string>
@@ -415,10 +413,6 @@
   <string name="hybrid_provider">A página web fornecida por %1$s .</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">"Não é possível ligar à rede. Para visualizar estas informações, 
-vá a %s"</string>
-  <string name="loading">A carregar…</string>
-  <string name="mibi_license">Contrato do crédito MI</string>
   <string name="midnight">AM</string>
   <string name="monday">Segunda-feira</string>
   <string name="monday_short">Seg.</string>
@@ -475,7 +469,6 @@ vá a %s"</string>
   <string name="permlab_sendSmsNoConfirmation">Permitir mensagens SMS em segundo plano</string>
   <string name="phone">Telefone</string>
   <string name="pm">PM</string>
-  <string name="policy_name">Política: %s</string>
   <string name="privacy_policy">Política da Privacidade</string>
   <string name="saturday">Sábado</string>
   <string name="saturday_short">Sáb.</string>
@@ -583,7 +576,7 @@ vá a %s"</string>
   <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
   <string name="web_sso_login_message">A iniciar sessão…</string>
   <string name="website">Website</string>
-  <string name="webview_reload">repetir</string>
+  <string name="webview_reload">Tente novamente</string>
   <string name="wednesday">Quarta-feira</string>
   <string name="wednesday_short">Qua.</string>
   <string name="wednesday_shortest">Q</string>

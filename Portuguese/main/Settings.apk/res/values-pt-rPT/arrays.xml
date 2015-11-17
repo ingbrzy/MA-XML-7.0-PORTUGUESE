@@ -80,7 +80,7 @@
         <item>A autenticar…</item>
         <item>A obter endereço IP…</item>
         <item>Ligado</item>
-        <item>Suspenso</item>
+        <item>Suspendido</item>
         <item>A desligar…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
@@ -94,8 +94,8 @@
         <item>Autenticação com %1$s…</item>
         <item>A obter o endereço IP de %1$s…</item>
         <item>Ligado a %1$s</item>
-        <item>Suspenso</item>
-        <item>Desligar de %1$s…</item>
+        <item>Suspendido</item>
+        <item>A desligar de %1$s…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
@@ -132,7 +132,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Só ligado à tomada</item>
+        <item>Só quando ligado à corrente</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -167,7 +167,7 @@
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Desligado</item>
-        <item>Alerta</item>
+        <item>Avisar</item>
         <item>Vibrar</item>
     </string-array>
     <string-array name="apn_auth_entries">
@@ -321,13 +321,13 @@
         <item>Personalizar</item>
     </string-array>
     <string-array name="select_runtime_summaries">
-        <item>Utilize Dalvik</item>
-        <item>Utilize ART</item>
-        <item>Utilize ART debug build</item>
+        <item>Utilizar Dalvik</item>
+        <item>Utilizar ART</item>
+        <item>Utilizar ART debug build</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
-        <item>Verificar só o conteúdo DRM</item>
+        <item>Verificar só por conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -387,7 +387,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predifinido</item>
-        <item>Não há processos em segundo plano</item>
+        <item>Sem processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -481,11 +481,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nenhum</item>
-        <item>Iniciar painel recente</item>
-        <item>Iniciar o assistente de Voz</item>
-        <item>Iniciar agora o Google</item>
+        <item>Mostrar aplicações recentes</item>
+        <item>Iniciar Assistente</item>
+        <item>Iniciar Google Now</item>
         <item>Fechar aplicação actual</item>
-        <item>Mostrar o menu</item>
+        <item>Mostrar menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
@@ -578,7 +578,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Desbloquear com o rosto</item>
-        <item>Predefinido</item>
+        <item>Padrão</item>
         <item>PIN</item>
         <item>Palavra-passe</item>
     </string-array>
@@ -603,7 +603,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Galeria</item>
         <item>Música</item>
         <item>Email</item>
-        <item>Vídeo</item>
+        <item>Vídeos</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>A rede é lenta devido ao excesso de tráfego</item>
@@ -637,12 +637,12 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Todas as redes</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
-        <item>Pedir permissão para aplicações de risco</item>
-        <item>Permitir</item>
+        <item>Ligar (recomendado)</item>
+        <item>Não utilizar (perigoso)</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
-        <item>Pedir permissão</item>
-        <item>Permitir</item>
+        <item>Ligar</item>
+        <item>Não utilizar</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Imediatamente</item>
@@ -657,8 +657,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar animações de sistema</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>Aumentar o desempenho do dispositivo</item>
-        <item>Pode reduzir o desempenho do dispositivo</item>
+        <item>Aumentar desempenho do dispositivo</item>
+        <item>Pode reduzir desempenho do dispositivo</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Reiniciar o dispositivo para aplicar esta definição?</item>

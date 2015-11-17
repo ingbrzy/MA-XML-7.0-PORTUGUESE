@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_call_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais e internacionais</string>
-  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) | (%2$s internacionais)</string>
+  <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) ou (%2$s internacionais)</string>
   <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
   <string name="apply_password_action">Definir palavra-passe</string>
   <string name="apply_password_confirm_dlg_msg">Exigir palavra-passe para %s​?</string>
@@ -15,10 +15,12 @@
   <string name="cancel_action">Cancelar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
-  <string name="enable_livetalk">Ligar Pacote de Recarga</string>
+  <string name="default_name">Predefinido</string>
+  <string name="enable_livetalk_summary">¥ 0.05 por minuto para chamadas nacionais</string>
+  <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analizar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial.</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
-  <string name="first_back_long_press_message">"Pressione e segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
+  <string name="first_back_long_press_message">"Prima e segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
 
 Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
@@ -28,14 +30,17 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
   <string name="global_actions_silent_mode">Silêncio</string>
+  <string name="group_name_contacts">Contactos</string>
+  <string name="group_name_coworkers">Colegas</string>
+  <string name="group_name_family">Família</string>
+  <string name="group_name_friends">Amigos</string>
   <string name="handy_mode_enter_dlg_msg">Entrar no Modo de Uma mão?</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo de Uma mão</string>
   <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
   <string name="handy_mode_title">Modo de uma mão</string>
+  <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
   <string name="internal_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais</string>
-  <string name="internal_remain_mins">%1$s minutos restantes: (nacionais)</string>
   <string name="international_livetalk_enable">A utilizar pacote de recarga para chamadas internacionais</string>
-  <string name="international_remain_mins">%1$s minutos restantes: (%2$s)</string>
   <string name="key_btn_ok">OK</string>
   <string name="key_btn_space">Espaço</string>
   <string name="livetalk_not_enable">Pacote de Recarga desligado</string>
@@ -45,6 +50,7 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão completo</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
+  <string name="maml_component_customization_title">Definições</string>
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
   <string name="memory_clear_result">%1$sB limpos | %2$sB disponíveis</string>
   <string name="miui">miui</string>
@@ -58,11 +64,12 @@ Para activar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="reboot_info_shutdown_alarm">O seu telefone vai iniciar e alarmar às %s</string>
   <string name="reboot_progress">A reiniciar…</string>
   <string name="replace">Substituir</string>
-  <string name="screen_button_disabled_message">Botões de navegação desactivados. Para voltar a activar, pressione o botão Inicio e o botão Ligar/Desl. em simultâneo.</string>
+  <string name="resource_select">Seleccionar</string>
+  <string name="screen_button_disabled_message">Botões de navegação desactivados. Para reactivar, toque nos botões Inicio e Ligar/Desligar simultâneamente.</string>
   <string name="screen_button_enabled_message">Botões de navegação activados.</string>
-  <string name="screen_button_notification_text">Para voltar a ligar, pressione os botões Início e Ligar/Desligar simultâneamente.</string>
+  <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultâneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desligados.</string>
-  <string name="screen_on_proximity_sensor_hint">Para desligar este recurso, pressione os botões Voltar e Volume Acima simultâneamente.</string>
+  <string name="screen_on_proximity_sensor_hint">Para desligar este recurso, prima os botões Voltar e Volume Acima simultâneamente.</string>
   <string name="screen_on_proximity_sensor_summary">Não cubra a área laranja do ecrã</string>
   <string name="screen_on_proximity_sensor_title">Prevenir marcações no bolso</string>
   <string name="screen_paper_mode_enter_toast">Modo leitura ligado. Pode ligar ou desligar este recurso a qualquer altura em Definições Adicionais &gt; Modo Leitura.</string>

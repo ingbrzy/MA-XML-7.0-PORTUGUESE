@@ -127,34 +127,34 @@
         <item>Disponível</item>
         <item>Tentativa</item>
      </string-array>
-	 <string-array name="visibility">
+     <string-array name="visibility">
         <item>Predefinido</item>
         <item>Privado</item>
         <item>Público</item>
      </string-array>
-	 <string-array name="ordinal_labels">
+     <string-array name="ordinal_labels">
         <item>primeiro</item>
         <item>segundo</item>
         <item>terceiro</item>
         <item>quarto</item>
         <item>último</item>
      </string-array>
-	 <string-array name="response_labels1">
+     <string-array name="response_labels1">
         <item>Sem resposta</item>
         <item>Sim</item>
         <item>Talvez</item>
         <item>Não</item>
      </string-array>
-	 <string-array name="delete_repeating_labels">
+     <string-array name="delete_repeating_labels">
         <item>Apenas este evento</item>
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
      </string-array>
-	 <string-array name="delete_repeating_labels_no_selected">
+     <string-array name="delete_repeating_labels_no_selected">
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
      </string-array>
-	 <string-array name="change_response_labels">
+     <string-array name="change_response_labels">
         <item>Apenas este evento</item>
         <item>Todos os eventos da série</item>
      </string-array>
@@ -172,7 +172,7 @@
      </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
-        <item>Apenas quando em silêncio</item>
+        <item>Apenas no modo silêncio</item>
         <item>Nunca</item>
      </string-array>
      <string-array name="widget_style_list">
@@ -248,37 +248,37 @@
         <item>30º</item>
         <item>31º</item>
      </string-array>
-	 <string-array name="repeat_choose_weekday">
-        <item>Seg.</item>
-        <item>Ter.</item>
-        <item>Qua.</item>
-        <item>Qui.</item>
-        <item>Sex.</item>
-        <item>Sáb.</item>
-        <item>Dom.</item>
+     <string-array name="repeat_choose_weekday">
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+        <item>Dom</item>
      </string-array>
-	 <string-array name="repeat_choose_month">
-        <item>Jan.</item>
-        <item>Fev.</item>
-        <item>Mar.</item>
-        <item>Abr.</item>
-        <item>Mai.</item>
-        <item>Jun.</item>
-        <item>Jul.</item>
-        <item>Ago.</item>
-        <item>Set.</item>
-        <item>Out.</item>
-        <item>Nov.</item>
-        <item>Dez.</item>
+     <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
      </string-array>
-	 <string-array name="repeat_choose_week_left">
+     <string-array name="repeat_choose_week_left">
         <item>primeiro</item>
         <item>segundo</item>
         <item>terceiro</item>
         <item>quarto</item>
         <item>último</item>
      </string-array>
-	 <string-array name="repeat_choose_week_right">
+     <string-array name="repeat_choose_week_right">
         <item>Seg. a Sex.</item>
         <item>Fim de semana</item>
         <item>Semana inteira</item>

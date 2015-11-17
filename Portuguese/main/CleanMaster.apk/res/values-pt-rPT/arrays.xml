@@ -13,7 +13,7 @@
         <item>Tamanho</item>
     </string-array>
     <string-array name="auto_clean_time">
-        <item>Diáriamente</item>
+        <item>Todos os dias</item>
         <item>A cada 3 dias</item>
         <item>A cada 7 dias</item>
     </string-array>
@@ -25,7 +25,7 @@
     </string-array>
     <string-array name="auto_process_mode">
         <item>Mostrar</item>
-        <item>"Não mostrar"</item>
+        <item>Não mostrar</item>
         <item>Mostrar depois</item>
     </string-array>
     <string-array name="cache_clean_menu">
