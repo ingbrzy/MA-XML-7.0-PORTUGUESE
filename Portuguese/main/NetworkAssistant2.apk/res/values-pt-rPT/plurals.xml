@@ -8,29 +8,37 @@
         <item quantity="other">Monitorizar a utilização de dados para %d aplicações</item>
         <item quantity="one">Monitorizar a utilização de dados para %d aplicação</item>
     </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d aplicações optimizadas</item>
+        <item quantity="one">%d aplicação optimizada</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d aplicações podem ser optimizadas</item>
+        <item quantity="one">%d aplicação pode ser optimizada</item>
+    </plurals>
     <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">%d aplicações estão a utilizar o Economizador de Dados</item>
-        <item quantity="one">%d aplicação está a utilizar o Economizador de Dadoss</item>
+        <item quantity="other">%d aplicações estão a utilizar Economizador de Dados</item>
+        <item quantity="one">%d aplicação está a utilizar Economizador de Dados</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-        <item quantity="other">%d aplicações não estão a utilizar o Economizador de Dados</item>
-        <item quantity="one">%d aaplicação não está a utilizar o Economizador de Dados</item>
+        <item quantity="other">%d aplicações não estão a utilizar Economizador de Dados</item>
+        <item quantity="one">%d aaplicação não está a utilizar Economizador de Dados</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">Utilizado à %d dias atrás</item>
+        <item quantity="other">Utilizado há %d dias atrás</item>
         <item quantity="one">Utilizado ontem</item>
     </plurals>
     <plurals name="search_app_count_txt">
-        <item quantity="other">Perquisar %d aplicações</item>
-        <item quantity="one">Pequisar %d aplicação</item>
+        <item quantity="other">Pesquisar %d aplicações</item>
+        <item quantity="one">Pesquisar %d aplicação</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d aplicações podem usar dados móveis em roaming</item>
-        <item quantity="one">%d aplicação pode usar dados móveis em roaming</item>
+        <item quantity="other">%d aplicações podem utilizar dados móveis</item>
+        <item quantity="one">%d aplicação pode utilizar dados móveis</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d aplicações não podem usar dados móveis em roaming</item>
-        <item quantity="one">%d aplicação pode usar dados móveis em roaming</item>
+        <item quantity="other">%d aplicações não podem utilizar dados móveis</item>
+        <item quantity="one">%d aplicação não pode utilizar dados móveis</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d aplicações encontradas</item>
