@@ -2349,7 +2349,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
-  <string name="status_bar_app_enable_message">Emblemas</string>
+  <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
   <string name="status_bar_screen_button_key">Botões virtuais do ecrã</string>
   <string name="status_bar_screen_key_back">Botão de Voltar</string>
@@ -2378,10 +2378,10 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
   <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes irão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalhes do fluxo</string>
-  <string name="status_bar_settings_show_home_message">Emblema da aplicação</string>
-  <string name="status_bar_settings_show_keyguard_notification">Notificações de bloqueio de ecrã</string>
+  <string name="status_bar_settings_show_home_message">Ícone da aplicação</string>
+  <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
-  <string name="status_bar_settings_show_notification_icon">Mostrar ícones de notificação</string>
+  <string name="status_bar_settings_show_notification_icon">Mostrar ícones na notificação</string>
   <string name="status_bar_settings_show_screenshot_notification">Mostrar notificação de captura do ecrã</string>
   <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
