@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="weather_type">
-        <item>Sol</item>
+        <item>Ensolarado</item>
+        <item>Com nuvens</item>
         <item>Nublado</item>
-        <item>Nuvens escuras</item>
         <item>Nevoeiro</item>
-        <item>Chuva intensa</item>
-        <item>Aguaceiros</item>
+        <item>Tempestade forte</item>
+        <item>Chuvas torrenciais</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
-        <item>Aguaceiros</item>
+        <item>Chuviscos</item>
         <item>Chuvas fortes</item>
         <item>Chuva moderada</item>
         <item>Chuva fraca</item>
         <item>Chuva com neve</item>
+        <item>Nevasca</item>
         <item>Neve</item>
-        <item>Neve</item>
-        <item>Nevão forte</item>
+        <item>Nevão</item>
         <item>Neve moderada</item>
-        <item>Alguma neve</item>
+        <item>Fraca queda de neve</item>
         <item>Forte tempestade de areia</item>
         <item>Tempestade de areia</item>
-        <item>Areia</item>
+        <item>Areias</item>
         <item>Ventoso</item>
         <item>Granizo</item>
-        <item>Pó</item>
+        <item>Poeiras</item>
         <item>Neblina</item>
         <item>Chuva gelada</item>
-        <item>Sem dados disponíveis</item>
+        <item>Sem dados</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Muito fraco</item>
         <item>Fraco</item>
-        <item>Médio alcance</item>
+        <item>Moderado</item>
         <item>Forte</item>
         <item>Muito forte</item>
     </string-array>
@@ -47,14 +47,14 @@
         <item>Vento NW</item>
     </string-array>
     <string-array name="moon_desc">
-        <item>Lua Nova</item>
+        <item>Lua nova</item>
+        <item>Crescente convexo</item>
         <item>Quarto crescente</item>
-        <item>Primeiro trimestre</item>
-        <item>Quarto crescente</item>
-        <item>Lua Cheia</item>
-        <item>Lua minguante</item>
-        <item>Minguante crescente</item>
+        <item>Crescente concâvo</item>
+        <item>Lua cheia</item>
+        <item>Minguante concâvo</item>
         <item>Quarto minguante</item>
-        <item>Lua Escura</item>
+        <item>Minguante convexo</item>
+        <item>Lua escura</item>
     </string-array>
 </resources>

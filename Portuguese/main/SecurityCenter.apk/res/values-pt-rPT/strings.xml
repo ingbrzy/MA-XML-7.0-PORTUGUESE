@@ -299,8 +299,8 @@
   <string name="power_cell">Standby da bateria</string>
   <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
   <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar o dispositivo horário programado</string>
-  <string name="power_center_battery_full">A bateria está carregada</string>
-  <string name="power_center_charge_time">Carga completa em %1$s</string>
+  <string name="power_center_battery_full">Bateria completamente carregada</string>
+  <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_consume_rank">Utilização de bateria</string>
   <string name="power_center_consume_time">%1$s restante</string>
   <string name="power_center_custom_summary_default">Melhorar a vida da bateria com perfis personalizados</string>
@@ -471,7 +471,7 @@
   <string name="preferred_app_entries_music">Música</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
-  <string name="prompt_input_time_illegal">Não é possível definir agora, altere e tente novamente</string>
+  <string name="prompt_input_time_illegal">Não é possível definir esta hora, altere-a e tente novamente</string>
   <string name="protection_category_dangerous_title">Riscos (%d)</string>
   <string name="protection_category_recommend_title">Alterações recomendadas (%d)</string>
   <string name="protection_category_security_title">Limpas (%d)</string>
