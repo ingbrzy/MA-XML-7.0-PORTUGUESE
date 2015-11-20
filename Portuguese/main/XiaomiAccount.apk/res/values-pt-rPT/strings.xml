@@ -128,7 +128,7 @@ Por favor introduza o código de verificação no email"</string>
   <string name="passport_bad_authentication">Utilizador ou palavra-passe inválido</string>
   <string name="passport_btn_return">Voltar</string>
   <string name="passport_button_cancel">Cancelar</string>
-  <string name="passport_change_account">&lt;u&gt;Alterar conta&lt;/u&gt;</string>
+  <string name="passport_change_account"><u>Alterar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>
   <string name="passport_checking_input">A verificar método de entrada…</string>
@@ -169,7 +169,7 @@ Para activar a sua conta, siga o
   <string name="passport_error_verify_code">O código que introduziu é incorrecto.</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe.</string>
-  <string name="passport_forget_password">&lt;u&gt;Esqueceu a sua palavra-passe&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Esqueceu a sua palavra-passe</u></string>
   <string name="passport_forget_password_no_underline">Esqueceu a sua palavra-passe</string>
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
   <string name="passport_get_verify_code">Obter código</string>
@@ -192,7 +192,7 @@ Para activar a sua conta, siga o
   <string name="passport_login_notice">A iniciar sessão…</string>
   <string name="passport_login_short">Iniciar sessão</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
-  <string name="passport_login_with_email_or_id">&lt;u&gt;Inicie sessão com endereço de email ou ID de Conta Mi&lt;/u&gt;</string>
+  <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
   <string name="passport_password_req_notice">A palavra-passe deve ter 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas).</string>
@@ -212,7 +212,7 @@ Para activar a sua conta, siga o
   <string name="passport_reg_success">Conta criada</string>
   <string name="passport_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir sua palavra-passe.</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
-  <string name="passport_reg_type_other_ways">&lt;u&gt;Utilizar o seu endereço de email ou um número alternativo&lt;/u&gt;</string>
+  <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
   <string name="passport_reg_using_other_phone">Utilizar número de telefone alternativo</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta utilizando "</string>
@@ -222,7 +222,7 @@ Para activar a sua conta, siga o
   <string name="passport_register">Criar uma conta</string>
   <string name="passport_register_account_goto_email">Vá à caixa de entrada</string>
   <string name="passport_register_account_verified_confirm">Conta verificada</string>
-  <string name="passport_register_by_email">&lt;u&gt;Criar uma conta utilizando endereço de email&lt;/u&gt;</string>
+  <string name="passport_register_by_email"><u>Criar uma conta utilizando endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
   <string name="passport_reject_recycle_account">Nope</string>
@@ -268,7 +268,7 @@ Para activar a sua conta, siga o
   <string name="phone_unactivated">Não activado</string>
   <string name="phone_unknown">Desconhecido</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis.</string>
-  <string name="provision_skip_login">&lt;u&gt;Saltar este passo&lt;/u&gt;</string>
+  <string name="provision_skip_login"><u>Saltar este passo</u></string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
   <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, poderá precisar novamente de iniciar o processo de verificação quando iniciar sessão.​</string>
