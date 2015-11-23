@@ -5,14 +5,14 @@
         <item quantity="one">Eliminar este álbum (%s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other"><Data>Eliminar %s itens do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
+        <item quantity="other"><Data>Eliminar <xliff:g id="ITEM">%s</xliff:g> itens do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other"><Data>Eliminar %s fotos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
+        <item quantity="other"><Data>Eliminar <xliff:g id="ITEM">%s</xliff:g> fotos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
         <item quantity="one"><Data>Eliminar esta foto do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other"><Data>Eliminar %s vídeos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
+        <item quantity="other"><Data>Eliminar <xliff:g id="ITEM">%s</xliff:g> vídeos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
         <item quantity="one"><Data>Eliminar este vídeo do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
@@ -23,7 +23,7 @@
         <item quantity="one"><Data>Eliminar esta foto da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other"><Data>Eliminar %s vídeos da Nuvem Mi?</Data></item>
+        <item quantity="other"><Data>Eliminar <xliff:g id="ITEM">%s</xliff:g> vídeos da Nuvem Mi?</Data></item>
         <item quantity="one"><Data>Eliminar este vídeo da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
