@@ -170,13 +170,13 @@ com amigos"</string>
   <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode iniciar com '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"O nome do álbum não pode conter '%s'"</string>
   <string name="cloudfolder_fail_to_load_data">Não foi possível carregar dados. Aguarde um minuto ou dois e tente novamente.</string>
-  <string name="cloudfolder_loading_data">(A carregar…)</string>
+  <string name="cloudfolder_loading_data">Aguarde um seg…</string>
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
   <string name="comfirm_delete_current_album">Eliminar este álbum?</string>
   <string name="confirm">OK</string>  
   <string name="confirm_delete">Eliminar %s fotos?</string>
-  <string name="confirm_delete_init_message">Foto será eliminada deste dispositivo e da Nuvem Mi. Se apenas quer só eliminar deste dispositivo, tente eliminar a partir do separador Dispositivo.</string>
+  <string name="confirm_delete_init_message">Foto será eliminada do armazenamento interno deste dispositivo e da Nuvem Mi. Para eliminar apenas deste dispositivo e manter fotos na Nuvem Mi, vá para o separador Dispositivo.</string>
   <string name="confirm_delete_init_title">Eliminar foto</string>
   <string name="confirm_download">Tem que transferir %s.</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível.</string>
@@ -355,7 +355,7 @@ com amigos"</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
   <string name="hybrid_network_access_denied">Acesso à rede negado</string>
   <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
-  <string name="hybrid_pull_to_refresh_pull_label">Puxar para actualizar…</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Descer para actualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde um seg…</string>
   <string name="hybrid_pull_to_refresh_release_label">Soltar para actualizar…</string>
   <string name="hybrid_service_unavailiable">Serviço indisponível</string>

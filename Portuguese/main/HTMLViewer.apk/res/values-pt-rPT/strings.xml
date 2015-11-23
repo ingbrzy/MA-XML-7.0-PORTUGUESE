@@ -11,4 +11,11 @@ vá a %s"</string>
   <string name="open_wifi_connect_title">Ligar a %1$s</string>
   <string name="permdesc_accessDrm">Permitir que a aplicação aceda a conteúdo protegido por DRM.</string>
   <string name="policy_name">Condições:%s</string>
+  <string name="settings_license_activity_loading">A carregar…</string>
+  <string name="settings_license_activity_title">Licenças open source</string>
+  <string name="settings_license_activity_unavailable">Existe um problema com o carregamento das licenças.</string>
+  <string name="settings_safetylegal_activity_loading">A carregar…</string>
+  <string name="settings_safetylegal_activity_title">Informação de segurança</string>
+  <string name="settings_safetylegal_activity_unreachable">Não existe ligação de dados. Para ver esta informação agora, vá a %s de qualquer computador ligado à Internet.</string>
+  <string name="settings_safetylegal_title">Informação de segurança</string>
 </resources>

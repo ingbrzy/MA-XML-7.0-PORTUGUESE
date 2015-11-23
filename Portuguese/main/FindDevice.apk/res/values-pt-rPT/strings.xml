@@ -5,16 +5,16 @@
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
-  <string name="disable_find_device_success">Localizar dispositivo está desligado.</string>
+  <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
   <string name="enable_find_device_error">Não foi possível ligar Localizar dispositivo. %1$s</string>
-  <string name="enable_find_device_success">Localizar dispositivo está ligado.</string>
+  <string name="enable_find_device_success">Localizar dispositivo está ligado</string>
   <string name="find_device">Localizar dispositivo</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente.</string>
   <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente.</string>
   <string name="find_device_error_server">Erro de servidor</string>
   <string name="find_device_error_unknown">Erro desconhecido.</string>
-  <string name="find_device_noise_title">Som de localizar dispositivo</string>
+  <string name="find_device_noise_title">Alarme de Localizar dispositivo</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear, ou restaurar o seu telefone.
@@ -24,7 +24,7 @@ Se trocar de cartões SIM, outra SMS irá ser enviada automaticamente para react
   <string name="i_know">OK</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
   <string name="password">Palavra-Passe</string>
-  <string name="phone_locked">Este dispositivo pode estar associado com a sua Conta Mi (%s) existente. Por favor inicie sessão para activar este dispositivo.</string>
+  <string name="phone_locked">Este dispositivo pode estar associado com a sua Conta Mi (%s) existente. Inicie sessão para activar este dispositivo.</string>
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
   <string name="stop_on_empty_password">Palavra-Passe não pode estar em branco</string>
   <string name="unlock">Activar</string>
@@ -39,6 +39,6 @@ Se trocar de cartões SIM, outra SMS irá ser enviada automaticamente para react
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
   <string name="unlock_error_user_name">Utilizador inválido</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto.</string>
-  <string name="unlocking">A activar...</string>
+  <string name="unlocking">A activar…</string>
   <string name="verify_password_failed">Não foi possível verificar a Conta Mi. %s.</string>
 </resources>
