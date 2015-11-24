@@ -13,12 +13,12 @@ Permitir isso agora e no futuro?"</string>
   <string name="app_store_missing_message">Parece que ainda não instalou a nossa Loja de Aplicações oficial. Instalar agora?</string>
   <string name="app_store_missing_title">Loja de Aplicações não está instalada</string>
   <string name="auto_startup_dialog_msg">Esta aplicação pode iniciar automaticamente sem a sua permissão.</string>
+  <string name="btn_text_full_scan">Verificação completa</string>
   <string name="btn_text_install_new_version">Versão mais recente</string>
   <string name="btn_text_install_origin">Versão original</string>
   <string name="btn_text_install_security_version_in_appstore">Substituir com versão segura</string>
   <string name="btn_text_scaning">A verificar…</string>
   <string name="btn_text_security_install">Substituir com versão segura</string>
-  <string name="btn_text_security_scan">Verificação completa</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Eliminar</string>
   <string name="button_text_delete_timer">Eliminar (%d)</string>
@@ -59,12 +59,11 @@ Todos os dados existentes da aplicação serão guardados."</string>
   <string name="low_risk_perms">Permissões de baixo risco</string>
   <string name="manage_applications">Gerir aplicações</string>
   <string name="manage_device_administrators">Gerir administradores de dispositivo</string>
-  <string name="message_apk_checking">Verificação rápida…</string>
   <string name="message_appstore_verify_has_new_version">Está disponível uma nova versão desta aplicação na Loja de Aplicações. Deseja instalá-la?</string>
   <string name="message_appstore_verify_inconsistent">A assinatura desta aplicação é diferente da que está na Loja de Aplicações, será mais seguro instalar a aplicação de lá.</string>
   <string name="message_appstore_verify_ok">A versão desta aplicação na Loja de Aplicações passou nos nossos testes de segurança, nós recomendamos que instale a aplicação de lá.</string>
   <string name="message_install_in_market">Nós recomendamos que instale a aplicação da Play Store</string>
-  <string name="message_security_scaning">A fazer uma verificação completa…</string>
+  <string name="message_quick_scanning">A fazer uma verificação rápida…</string>
   <string name="ok">OK</string>
   <string name="other_relative">Outras</string>
   <string name="out_of_space_dlg_text">Não há espaço de armazenamento suficiente no dispositivo para instalar %1$s.</string>

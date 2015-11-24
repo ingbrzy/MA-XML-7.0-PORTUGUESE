@@ -77,7 +77,7 @@
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Perguntar por ligação à internet</string>
   <string name="connection_error">"Não foi possível ligar"</string>
-  <string name="copy_failed">Não é possível copiar</string>
+  <string name="copy_failed">Não foi possível copiar, parece que o armazenamento está cheio</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiro para Kuaipan</string>
   <string name="create_kuaipan_shortcut_pref">Colocar no ecrã inicial</string>
   <string name="create_new_folder_desctiption">A criar pasta…</string>
@@ -140,6 +140,7 @@
   <string name="encrypt_error">"Não foi possível ocultar ficheiros, tente novamente"</string>
   <string name="encrypt_prefix">Ocultos</string>
   <string name="encrypt_success">Todos os ficheiros foram ocultos</string>
+  <string name="encrypt_success_first_five">Encriptado com sucesso. Descer na página inicial do Explorador para ver ficheiros.</string>
   <string name="encrypting">A encriptar…</string>
   <string name="error_filename_too_long">O nome do ficheiro é muito longo.</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro.</string>
@@ -285,7 +286,7 @@
   <string name="never_notify_network_connect">Lembrar preferência</string>
   <string name="new_folder_name">Pasta sem nome</string>
   <string name="new_function">Pastas ocultas</string>
-  <string name="new_function_info">Para criar uma pasta oculta, puxe para baixo na página inicial do Explorador.</string>
+  <string name="new_function_info">Para criar uma pasta oculta, puxar para baixo na página inicial do Explorador.</string>
   <string name="new_function_str">"Adesivos WeChat podem agora ser colectados automaticamente.
 Transfira-os quando quiser
 e nunca perca os novos mais fixes!"</string>
@@ -380,11 +381,13 @@ e nunca perca os novos mais fixes!"</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Pasta oculta</string>
+  <string name="private_folder_no_file_hints">Segure um ficheiro ou pasta para o ocultar.</string>
+  <string name="private_folder_update">A actualizar pastas ocultas</string>
   <string name="private_toast_hint1">Toque para adicionar ficheiros a pastas ocultas</string>
   <string name="private_toast_hint2">Para ocultar um ficheiro, prima e segure-o, depois adicione-o a uma pasta oculta.</string>
-  <string name="private_toast_hint3">Puxar para baixo para abrir pastas Ocultas</string>
+  <string name="private_toast_hint3">Descer para abrir pastas Ocultas</string>
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo ou desligar o modo Criança</string>
-  <string name="pull_to_signin">Puxar para baixo para verificar.</string>
+  <string name="pull_to_signin">Deslizar para baixo para verificar.</string>
   <string name="qq_not_installed">QQ não está instalado</string>
   <string name="release_to_signin">Soltar para verificar</string>
   <string name="rename_alert">"Se mudar a extensão deste ficheiro, pode não conseguir abri-lo."</string>
@@ -393,11 +396,11 @@ e nunca perca os novos mais fixes!"</string>
   <string name="repair_done">Restaurados</string>
   <string name="repair_error">"Não foi possível restaurar"</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>
-  <string name="reset_password">Reinicializar palavra-passe</string>
+  <string name="reset_password">Alterar palavra-passe</string>
   <string name="restoring">A restaurar…</string>
   <string name="rlv_last_refreshing_time">Actualizado %1$s</string>
   <string name="rlv_loading_more">Aguarde um seg…</string>
-  <string name="rlv_pull_to_refresh">Puxe para actualizar</string>
+  <string name="rlv_pull_to_refresh">Descer para actualizar</string>
   <string name="rlv_refreshing">A verificar ficheiros…</string>
   <string name="rlv_release_to_refresh">Soltar para actualizar</string>
   <string name="save_to_local">Transferir</string>
@@ -547,5 +550,5 @@ Espaço livre adicionado %1$s"</string>
   <string name="xiaomi_account">Conta Mi</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yes">Sim</string>
-  <string name="yesterday">Ontem</string>
+  <string name="yesterday">ontem</string>
 </resources>

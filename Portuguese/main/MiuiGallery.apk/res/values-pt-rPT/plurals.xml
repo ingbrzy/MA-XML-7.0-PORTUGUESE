@@ -5,26 +5,26 @@
         <item quantity="one">Eliminar este álbum (%s total)?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
-        <item quantity="other">Eliminar %s itens do armazenamento interno deste dispositivo e da Nuvem Mi?</item>
+        <item quantity="other"><Data>Eliminar %s itens do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
-        <item quantity="other">Eliminar %s fotos do armazenamento interno deste dispositivo e da Nuvem Mi?</item>
-        <item quantity="one">Eliminar esta foto do armazenamento interno deste dispositivo e da Nuvem Mi?</item>
+        <item quantity="other"><Data>Eliminar %s fotos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
+        <item quantity="one"><Data>Eliminar esta foto do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
-        <item quantity="other">Eliminar %s vídeos do armazenamento interno deste dispositivo e da Nuvem Mi?</item>
-        <item quantity="one">Eliminar este vídeo do armazenamento interno deste dispositivo e da Nuvem Mi?</item>
+        <item quantity="other"><Data>Eliminar %s vídeos do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
+        <item quantity="one"><Data>Eliminar este vídeo do armazenamento interno deste dispositivo e da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
         <item quantity="other">Os itens seleccionados são fotos ou vídeos na Nuvem Mi, eliminar %s itens da Nuvem Mi?</item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Os itens seleccionados são fotos na Nuvem Mi, eliminar %s fotos da Nuvem Mi?</item>
-        <item quantity="one">Eliminar esta foto da Nuvem Mi?</item>
+        <item quantity="other"><Data>Eliminar %s fotos da Nuvem Mi?</Data></item>
+        <item quantity="one"><Data>Eliminar esta foto da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_video_from_homepage">
-        <item quantity="other">Eliminar %s vídeos da Nuvem Mi?</item>
-        <item quantity="one">Eliminar este vídeo da Nuvem Mi?</item>
+        <item quantity="other"><Data>Eliminar %s vídeos da Nuvem Mi?</Data></item>
+        <item quantity="one"><Data>Eliminar este vídeo da Nuvem Mi?</Data></item>
      </plurals>
      <plurals name="confirm_delete_has_cloud_image_video">
         <item quantity="other">Eliminar %s itens deste álbum?</item>
@@ -91,7 +91,7 @@
         <item quantity="one">%1$d item</item>
      </plurals>
      <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">Eliminar %1$d imagens de %2$d álbuns?</item>
+        <item quantity="other"><Data>Eliminar %1$d fotos de %2$d álbuns?</Data></item>
         <item quantity="one"><Data>Eliminar esta foto de %2$d álbuns?</Data></item>
      </plurals>
      <plurals name="number_of_items_selected">
