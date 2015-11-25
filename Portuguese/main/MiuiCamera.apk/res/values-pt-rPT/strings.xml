@@ -201,8 +201,13 @@
   <string name="pref_camera_skinToneEnhancement_entry_auto">Aperfeiçoamento automático</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivado</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activado</string>
-  <string name="pref_camera_snap_enable_summary">Quando o ecrã está desligado, prima e segure o botão de Volume Baixo para entrar no modo Disparo Rápido. Prima novamente para tirar uma foto.</string>
-  <string name="pref_camera_snap_enable_title">Modo Disparo Rápido</string>
+  <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
+  <string name="pref_camera_snap_entry_off">Desligado</string>
+  <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado, prima e segure o botão de Volume Baixo para iniciar a gravação de vídeo. Solte o para parar.</string>
+  <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado, prima e segure o botão de Volume Baixo para iniciar o disparo rápido de fotos. Solte o para parar.</string>
+  <string name="pref_camera_snap_value_off">Desligado</string>
+  <string name="pref_camera_snap_value_take_movie">Filme</string>
+  <string name="pref_camera_snap_value_take_picture">Imagem</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
   <string name="pref_camera_tilt_shift_title">Inclinação-Deslocamento</string>
   <string name="pref_camera_touchafaec_entry_off">Desligado</string>

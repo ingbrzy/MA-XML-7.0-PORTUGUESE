@@ -110,7 +110,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="firewall_network_restrict_notify_message">Toque para alterar definições.</string>  
   <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
   <string name="firewall_network_restrict_notify_title">%1$s não pode utilizar %2$s</string>
-  <string name="firewall_restrict_android_dialog_content">Se não permitir que o Android ligue à internet, algumas funcionalidades chave, tais como PA Móvel, podem ser afectadas.</string>
+  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente, algumas aplicações de sistema irão continuar a ligar à internet. Estas aplicações irão utilizar a ligação de dados móveis e podem gerar taxas pequenas da sua operadora.</string>
   <string name="firewall_restrict_android_dialog_title">Atenção</string>
   <string name="firewall_rule_group_title_mobile">Móvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
@@ -505,10 +505,10 @@ O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_msg_today">economizados hoje</string>
   <string name="traffic_saving_need_optimize">Pode ser optimizado</string>
   <string name="traffic_saving_notification_button_start">Activar</string>
-  <string name="traffic_saving_notify_no_apps_saving">Não existem aplicações a utilizar o Economizador de Dados</string>
+  <string name="traffic_saving_notify_no_apps_saving">Reduzir utilização de dados</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Toque para ligar o Economizador de Dados.</string>
   <string name="traffic_saving_notify_start_content">%s economizados este mês</string>
-  <string name="traffic_saving_notify_start_title">Reduziu a sua utilização de dados</string>
+  <string name="traffic_saving_notify_start_title">Utilização de dados reduzida</string>
   <string name="traffic_saving_one_key_optimize">Optimizar para economizar dados</string>
   <string name="traffic_saving_optimized">Já optimizado</string>
   <string name="traffic_saving_pic_compress_orig">Original</string>
@@ -522,7 +522,7 @@ O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_saving_tecsupport_international">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_title">Economizador de dados</string>
   <string name="traffic_saving_toast_start_mobile">Economizador de dados está ligado</string>
-  <string name="traffic_saving_toast_start_none_mobile">O Economizador de dados será iniciado quando começar a utilizar os dados móveis</string>
+  <string name="traffic_saving_toast_start_none_mobile">Economizador de dados irá ser activado sempre que utilizar dados móveis</string>
   <string name="traffic_saving_toast_start_unreachable">Não é possível iniciar o Economizador de Dados</string>
   <string name="traffic_saving_toast_stop">Economizador de dados está desligado</string>
   <string name="traffic_saving_whitelist_btn_add">Adicionar</string>
