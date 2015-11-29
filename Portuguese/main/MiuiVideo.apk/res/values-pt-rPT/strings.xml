@@ -44,7 +44,7 @@
   <string name="app_wifi_mode">Actualizar automaticamente</string>
   <string name="app_wifi_mode_summary">Actualizar aplicação automaticamente quando executar e estiver ligado ao Wi-Fi</string>
   <string name="authenticated_failed">Não é possível iniciar sessão</string>
-  <string name="authenticating">&lt;CDATA&gt;A verificar&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="authenticating">A verificar…</string>
   <string name="authenticating_manually">Não foi possível autenticar</string>
   <string name="average_score">Classificação média</string>
   <string name="avg_score">%.1f</string>
@@ -177,19 +177,19 @@
   <string name="install_comfirm">Toque para instalar</string>
   <string name="install_plugin">Instalar Plug-in</string>
   <string name="introduce">Resumo</string>
-  <string name="join_alert_title">Juntar se aos testes beta</string>
+  <string name="join_alert_title">Juntar-se aos testes beta</string>
   <string name="join_hint">Introduzir código do convite</string>
   <string name="key_back_down_toast">Toque no botão Voltar novamente para sair</string>
   <string name="lastrefresh">Última actualização</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="loading">&lt;CDATA&gt;A carregar &lt;/CDATA&gt;</string>
+  <string name="loading">A carregar</string>
   <string name="loading_video_netplay_label">A carregar…</string>
   <string name="loading_video_netplay_label_v5">A carregar…</string>
   <string name="local_favorite_empty_title">Vazio</string>
   <string name="local_media_empty_sub_title">Transferir e ver vídeos offline</string>
   <string name="local_media_empty_title">Sem vídeos</string>
-  <string name="local_video">Vídeo no dispositivo</string>
+  <string name="local_video">Dispositivo</string>
   <string name="login_tip_content">Inicie sessão na sua conta Mi para sincronizar e actualizar tudo que está a seguir.</string>
   <string name="login_tip_title">Iniciar sessão</string>
   <string name="media_name_comment">%s comentários</string>
@@ -279,7 +279,7 @@
   <string name="prefix_countdown">"Anúncios restantes: "</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Se disponível guardar automaticamente no cartão SD externo</string>
-  <string name="pulltorefresh">Puxar para actualizar</string>
+  <string name="pulltorefresh">Descer para actualizar</string>
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Filme</string>
   <string name="receive_develop_summary">Receba as actualizações para a versão beta desta aplicação</string>
@@ -330,7 +330,6 @@
   <string name="storage_total">"Espaço total: "</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">Definições da aplicação</string>
-  <string name="tab_loading">&lt;CDATA&gt;...&lt;/CDATA&gt;</string>
   <string name="temp_play_history_button_label">Histórico</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A seguir: "</string>
@@ -364,7 +363,6 @@
   <string name="user_tab">Conta</string>
   <string name="version_select">Escolher versão</string>
   <string name="version_select_summary">Escolher qual a versão a utilizar</string>
-  <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
   <string name="video">Vídeo</string>
   <string name="video_app_update">Actualizar</string>
   <string name="video_bbs">Junte-se ao forum</string>
@@ -418,8 +416,8 @@
   <string name="vp_hint">Atenção</string>
   <string name="vp_install">Instalar</string>
   <string name="vp_install_title">Instalar titulo</string>
-  <string name="vp_loading">&lt;CDATA&gt;A transferir&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;A transferir&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_loading">A transferir</string>
+  <string name="vp_loading_download">A transferir…</string>
   <string name="vp_loading_video">A carregar…</string>
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Ver vídeo HD em qualquer lugar</string>
@@ -472,7 +470,7 @@
   <string name="vp_using_4_3">Forçar 4:3</string>
   <string name="vp_video_bad_network_condition">Ligação de internet má. Tente novamente mais tarde</string>
   <string name="vp_video_invalid_cp_info">Informações inválidas do fornecedor do vídeo, reinicie a aplicação</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;A carregar&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading">A carregar…</string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
   <string name="waiting_to_download">A aguardar</string>
   <string name="wasu">Wasu</string>

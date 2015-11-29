@@ -20,7 +20,7 @@
   <string name="button_back">Voltar</string>
   <string name="button_exit_howitworks_flow">Sair</string>
   <string name="button_how_it_works">Ver como funciona</string>
-  <string name="button_next">Próximo</string>
+  <string name="button_next">Seguinte</string>
   <string name="button_uninstall_old_app">Desinstalar</string>
   <string name="cancel">Cancelar</string>
   <string name="change_security_lock">Mais ecrãs de bloqueio</string>
@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="error_qr">Não foi possível intrepertar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password">&lt;u&gt;Esqueceu palavra-passe&lt;/u&gt;</string>
+  <string name="forget_password"><u>Esqueceu a sua palavra-passe?</u></string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo.</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -88,9 +88,9 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_close_label">Fechar</string>
-  <string name="lockpattern_tutorial_continue_label">Próximo</string>
+  <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockpattern_tutorial_jump_label">Saltar</string>
-  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Esqueceu padrão de desbloqueio &lt;/u&gt;</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Esqueceu padrão de desbloqueio?</u></string>
   <string name="login">sign in</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
@@ -133,11 +133,11 @@ Antes de remover:
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Termos do Serviço</string>
   <string name="timesync_about_feature_preference_title">Acerca deste recurso</string>
-  <string name="timesync_about_feature_screen_details">"Se pressionar &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não serão mudadas. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
+  <string name="timesync_about_feature_screen_details">"Se premir &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não serão mudadas."</string>
   <string name="timesync_about_feature_screen_title">Acerca deste recurso</string>
-  <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
-  <string name="timesync_preference_screen_title">Time correction for codes</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_details">"There was a problem contacting 's server. Please check your network settings and try again."</string>
+  <string name="timesync_preference_screen_summary">Sincronizar relógio interno do Autenticador com os servidores</string>
+  <string name="timesync_preference_screen_title">Correcção de hora para códigos</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">Houve um problema ao contactar o servidor. Por favor verifique as suas definições de rede e tente novamente.</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Sincronizar agora</string>
   <string name="timesync_sync_now_preference_title">Sincronizar agora</string>
   <string name="timesync_sync_now_progress_dialog_details">A ligar ao servidor…</string>
