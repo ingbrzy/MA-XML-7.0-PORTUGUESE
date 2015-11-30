@@ -225,6 +225,10 @@
   <string name="not_buy_vip">sem vip</string>
   <string name="not_exist_openid">a obter informação de conta, por favor aguarde...</string>
   <string name="not_login">Sem sessão iniciada</string>
+  <string name="notification_default_title">Vídeo offline</string>
+  <string name="notification_sub_title">Total %d tarefa(s) de transferências concluídas</string>
+  <string name="notification_ticker_text">Transferência de vídeo offline em conclusão</string>
+  <string name="notification_title">\"%s\" transferência em conclusão</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
   <string name="nowifi_alert_dialog_message">Transmissão de vídeo com ligação de dados móveis pode resultar custos extra cobrado pela sua operadora.</string>

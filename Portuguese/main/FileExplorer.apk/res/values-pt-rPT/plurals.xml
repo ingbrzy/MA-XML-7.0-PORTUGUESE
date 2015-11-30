@@ -153,19 +153,27 @@
         <item quantity="many">%1$d ficheiros do WeChat Vídeo vão expirar</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
-        <item quantity="zero">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
-        <item quantity="one">%1$d ficheiro temporário do WeChat vai ser limpo. Necessita de fazer uma cópia de segurança?</item>
-        <item quantity="two">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
-        <item quantity="few">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
-        <item quantity="many">%1$d ficheiros temporários do WeChat vão ser limpos. Necessita de fazer uma cópia de segurança?</item>
+        <item quantity="other">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
+        <item quantity="zero">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
+        <item quantity="one">%1$d vídeo nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
+        <item quantity="two">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
+        <item quantity="few">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
+        <item quantity="many">%1$d vídeos nas conversas WeChat vão expirar. Fazer cópia para o armazenamento interno do seu dispositivo?</item>
     </plurals>
-	<plurals name="file_notify_title_wechat_sticker">
+    <plurals name="file_notify_title_wechat_sticker">
         <item quantity="other">%1$d novos adesivos WeChat hoje</item>
         <item quantity="zero">%1$d novos adesivos WeChat hoje</item>
         <item quantity="one">%1$d novo adesivo WeChat hoje</item>
         <item quantity="two">%1$d novos adesivos WeChat hoje</item>
         <item quantity="few">%1$d novos adesivos WeChat hoje</item>
         <item quantity="many">%1$d novos adesivos WeChat hoje</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Copiados %1$d vídeos WeChat.</item>
+        <item quantity="zero">Copiados %1$d vídeos WeChat.</item>
+        <item quantity="one">Copiado 1 vídeo WeChat.</item>
+        <item quantity="two">Copiados %1$d vídeos WeChat.</item>
+        <item quantity="few">Copiados %1$d vídeos WeChat.</item>
+        <item quantity="many">Copiados %1$d vídeos WeChat.</item>
     </plurals>
 </resources>

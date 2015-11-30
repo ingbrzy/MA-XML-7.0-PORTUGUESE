@@ -242,10 +242,11 @@
   <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem.</string>
   <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto.</string>
   <string name="confirm_send_title">Enviar mensagem?</string>  
-  <string name="contact_edit_set_black_list">Definir lista de bloqueio</string>
-  <string name="contact_edit_set_black_list_from">Eliminar todos os emails deste remetente</string>
-  <string name="contact_edit_set_black_list_receive">Eliminar os emails com este remetente</string>
+  <string name="contact_edit_set_black_list_filtering">A filtrar…</string>
+  <string name="contact_edit_set_black_list_from">Mover todos os emails deste remetente para Spam</string>
+  <string name="contact_edit_set_black_list_receive">Mover email com este destinatário para Spam(apenas novos emails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
+  <string name="contact_edit_set_black_list_title">Definir lista de bloqueio</string>
   <string name="contact_edit_set_phone_contact">Editar contactos do telefone</string>  
   <string name="contact_edit_title_phone_contact">Lista de contactos do telefone</string>
   <string name="contact_in_filter_call_phone_str">Chamada de %s</string>
@@ -350,6 +351,7 @@
   <string name="exchange_name">Exchange</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Expandir detalhes do destinatário</string>
+  <string name="fail_get_email_message">Obter mensagem falhou.</string>
   <string name="failed">Não foi possível carregar a imagem</string>
   <string name="feedback">Enviar comentários</string>
   <string name="feedback_body">Mensagem</string>
@@ -368,8 +370,11 @@
   <string name="folder_drafts_name_en2">[Gmail]/Rascunhos</string>  
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
+  <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
   <string name="folder_junk_name_en0">Lixo</string>
   <string name="folder_junk_name_en1">Email em massa</string>
+  <string name="folder_junk_name_en2">Correio electrónico não solicitado</string>
+  <string name="folder_junk_name_en3">Spam</string>
   <string name="folder_list_display_all">Mostrar todas as pastas</string>
   <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
   <string name="folder_picker_title">Seleccionar pastas</string>
@@ -651,7 +656,7 @@
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>  
-  <string name="pull_to_refresh">Puxar para actualizar</string>
+  <string name="pull_to_refresh">Descer para actualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
   <string name="push_wps_better_confirm_message">Tente usar o WPS Office para abrir este anexo.</string>
