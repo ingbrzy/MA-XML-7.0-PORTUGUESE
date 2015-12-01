@@ -8,7 +8,7 @@
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
-  <string name="burst_shoot_exit_button_text">Desligar Disparo Contínuo</string>
+  <string name="burst_shoot_exit_button_text">Desligar Disparo contínuo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="camera_label">Câmara</string>
@@ -70,7 +70,7 @@
   <string name="pref_camcorder_settings_category">Definições da câmara</string>
   <string name="pref_camera_antibanding_entry_0">Desligado</string>
   <string name="pref_camera_antibanding_entry_3">Automático</string>
-  <string name="pref_camera_antibanding_title">Anti Banding</string>
+  <string name="pref_camera_antibanding_title">Anti banding</string>
   <string name="pref_camera_asd_night_title">Melhorar imagens com pouca luz automaticamente</string>
   <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Áudio</string>
@@ -118,6 +118,7 @@
   <string name="pref_camera_focusmode_entry_normal">Standard</string>
   <string name="pref_camera_focusmode_title">Modo de focagem</string>
   <string name="pref_camera_gradienter_title">Inclinação</string>
+  <string name="pref_camera_hand_night_title">Noite</string>
   <string name="pref_camera_hdr_entry_off">Desligado</string>
   <string name="pref_camera_hfr_entry_off">Desligado</string>
   <string name="pref_camera_histogram_entry_disable">Desligar</string>
@@ -126,10 +127,10 @@
   <string name="pref_camera_iso_title">Seleccionar ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Alta</string>
   <string name="pref_camera_jpegquality_entry_low">Baixa</string>
-  <string name="pref_camera_jpegquality_entry_normal">Standard</string>
+  <string name="pref_camera_jpegquality_entry_normal">Média (padrão)</string>
   <string name="pref_camera_jpegquality_title">Qualidade de imagem</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Prima e segure botão de Disparo</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo Contínuo</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Prima e segure botão do obturador</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo contínuo</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
   <string name="pref_camera_long_pressing_shutter_title">Prima e segure o botão de Disparo para bloquear AE/AF/AWB</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
@@ -169,7 +170,7 @@
   <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Ecrã inteiro 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
+  <string name="pref_camera_picturesize_entry_standard">Padrão 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Frame da câmara</string>
   <string name="pref_camera_recordlocation_entry_off">Desligado</string>
   <string name="pref_camera_recordlocation_entry_on">Ligado</string>
@@ -194,9 +195,9 @@
   <string name="pref_camera_settings_category">Definições da câmara</string>
   <string name="pref_camera_settings_title">Definições</string>
   <string name="pref_camera_sharpness_title">Nitidez</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Beautify está ligado</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Embelezar está ligado</string>
   <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
-  <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e género quando Beautify está ligado</string>
+  <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e género quando Embelezar está ligado</string>
   <string name="pref_camera_show_gender_age_title">Idade e género</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Aperfeiçoamento automático</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivado</string>
@@ -234,7 +235,7 @@
   <string name="pref_camera_zsl_entry_off">Desligado</string>
   <string name="pref_camera_zsl_entry_on">Ligado</string>
   <string name="pref_capture_settings">Câmara</string>
-  <string name="pref_face_beauty_title">Beautify</string>
+  <string name="pref_face_beauty_title">Embelezar</string>
   <string name="pref_front_mirror_entry_auto">Quando um rosto é detectado</string>
   <string name="pref_front_mirror_entry_off">Desligado</string>
   <string name="pref_front_mirror_entry_on">Ligado</string>
@@ -252,7 +253,7 @@
   <string name="pref_video_focusmode_title">Modo de focagem</string>
   <string name="pref_video_quality_title">Qualidade de vídeo</string>
   <string name="pref_video_speed_entry_fast">Rápido</string>
-  <string name="pref_video_speed_entry_normal">Standard</string>
+  <string name="pref_video_speed_entry_normal">Médio (padrão)</string>
   <string name="pref_video_speed_entry_slow">Lento</string>
   <string name="pref_video_speed_fast_title">Intervalo de tempo</string>
   <string name="pref_video_speed_slow_title">Câmara lenta</string>
@@ -280,11 +281,11 @@
   <string name="simple_mode_button_text_audio_capture">Desligar disparo de voz</string>
   <string name="simple_mode_button_text_color_effect">Desligar filtros</string>
   <string name="simple_mode_button_text_delay_capture">Desligar temporizador</string>
-  <string name="simple_mode_button_text_face_beauty">Desligar Beautify</string>
+  <string name="simple_mode_button_text_face_beauty">Desligar Embelezar</string>
   <string name="simple_mode_button_text_fast_video">Desligar câmara lenta</string>
   <string name="simple_mode_button_text_fisheye">Desligar Olho-De-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Desligar Inclinação</string>
-  <string name="simple_mode_button_text_hand_night">Desligar HHT</string>
+  <string name="simple_mode_button_text_hand_night">Desligar Noite</string>
   <string name="simple_mode_button_text_hdr">Desligar HDR</string>
   <string name="simple_mode_button_text_manual">Desligar Manual</string>
   <string name="simple_mode_button_text_panorama">Desligar panorama</string>

@@ -218,7 +218,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="audio_record_proc_title">Redução de ruído</string>
   <string name="auto_caps">Maiúsculas automáticas</string>
   <string name="auto_caps_summary">Escrever a primeira letra nas frases com letra maiúscula</string>
-  <string name="auto_launch_disable_text">Sem predefinições definidas.</string>
+  <string name="auto_launch_disable_text">Sem predefinições definidas</string>
   <string name="auto_launch_enable_text">Optou por iniciar esta aplicação por predefinição para algumas acções.</string>
   <string name="auto_launch_label">Iniciar por predefinição</string>
   <string name="auto_launch_label_generic">Predefinições</string>
@@ -2787,7 +2787,13 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="voice_category">Voz</string>
   <string name="voice_input_output_settings">Entrada de voz e saída</string>
   <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
+  <string name="voice_input_settings">Definições de entrada de voz</string>
+  <string name="voice_input_settings_title">Entrada de voz</string>
+  <string name="voice_interaction_security_warning">Este serviço de entrada de voz vai poder ter monitorização de voz sempre activa e controlar aplicações activas por voz em seu nome. Vem de %s aplicação. Activar a utilização deste serviço?</string>
+  <string name="voice_interactor_preference_summary">Hotword e intreacção completos</string>
+  <string name="voice_recognizer_preference_summary">Voz simples para texto</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
+  <string name="voice_service_preference_section_title">Serviços de entrada de voz</string>
   <string name="volume_alarm_description">Alarmes</string>
   <string name="volume_alarm_mute">Silênciar alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
