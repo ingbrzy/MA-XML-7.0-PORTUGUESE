@@ -261,7 +261,7 @@
   <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
-  <string name="msglist_continue_to_pull_for_more">Puxe para baixo para ver mais</string>
+  <string name="msglist_continue_to_pull_for_more">Descer para ver mais</string>
   <string name="msglist_more_refreshing">A actualizar…</string>
   <string name="msglist_no_more_to_refresh">Já actualizado</string>
   <string name="msglist_release_to_more">Solte para ver mais</string>
@@ -281,6 +281,13 @@
   <string name="mx_activate_int_hint_malformed_info">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_server">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
   <string name="mx_activate_int_hint_sim_change">Uma SMS internacional será enviada para reactivar Mi Mensagem para o cartão SIM actual. Vai ter custos internacionais da sua operadora.</string>
+  <string name="mx_activate_status_desc_activating_now">A activar…</string>
+  <string name="mx_activate_status_desc_check_net_connection">Não foi possível ligar à rede</string>
+  <string name="mx_activate_status_desc_fail">Não foi possível activar Mensagens Mi</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">A enviar mensagem de activação…</string>
+  <string name="mx_activate_status_desc_query_activte_info">A verificar informação de cartão SIM…</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número de telefone introduzido é inválido</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">"Couldn't activate Mi Message"</string>
   <string name="mx_and_voip_enable">Mensagens e Voz Mi</string>
   <string name="mx_and_voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidade</string>
@@ -302,6 +309,10 @@
   <string name="mx_enable">Mensagens Mi</string>
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI.</string>
+  <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
+  <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Mensagens Mi com o cartão SIM 1</string>
@@ -348,6 +359,7 @@
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_key_mx_feedback">Comentários</string>
+  <string name="pref_message_recovery_introduction_title">Recuperar mensagem</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
   <string name="pref_mms_settings_title">Mensagens Multimédia (MMS)</string>
   <string name="pref_notification_settings_title">Notificações</string>
