@@ -98,8 +98,10 @@
   <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
   <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
+  <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
   <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
+  <string name="callrecordview_menu_conference">Chamada em conferência</string>
   <string name="callrecordview_menu_delete">Eliminar registo de chamadas</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
   <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
@@ -515,7 +517,7 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_reshoot">Gravar novamente</string>
   <string name="in_call_show_save_completed">Vídeo de perfil gravado</string>
   <string name="in_call_show_save_failed">"Não foi possível gravar o vídeo"</string>
-  <string name="in_call_show_tap_to_show_demo">Toque no ecrã para prévisualizar</string>
+  <string name="in_call_show_tap_to_show_demo">Toque no ecrã para pré-visualizar</string>
   <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo.</string>
   <string name="in_call_show_video_pick">Escolher</string>
   <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos. "</string>
@@ -661,6 +663,11 @@ Motivo: \"%s\""</string>
   <string name="missing_name">(Sem nome)</string>
   <string name="more_call_logs">Ver registo de chamadas detalhado em i.mi.com</string>
   <string name="move_and_resize">Mover e dimensionar</string>
+  <string name="multi_number_menu_call">Ligar</string>
+  <string name="multi_number_menu_delete">Eliminar</string>
+  <string name="multi_number_menu_group">Novo Grupo</string>
+  <string name="multi_number_menu_message">Mensagem</string>
+  <string name="multi_number_title">Chamada em conferência</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto irá eliminar informações de várias contas.</string>
   <string name="multipleContactDeleteConfirmationDetail">Eliminar \"%s\" eliminar informações de várias contas.</string>
   <string name="my_in_call_show">Meu vídeo</string>
@@ -879,7 +886,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="profile_display_name">Configurar o meu perfil</string>
   <string name="profile_name">Meu perfil</string>
   <string name="profile_name_photo">Foto</string>
-  <string name="pull_to_refresh_pull_label">Puxe para actualizar…</string>
+  <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">A carregar…</string>
   <string name="pull_to_refresh_release_label">Solte para actualizar…</string>
   <string name="qr_card_card">Código QR</string>
@@ -938,6 +945,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_settings_description">Nomes dos seus contactos</string>  
   <string name="searching_vcard_message">A pesquisar por dados vCard no armazenamento…</string>
   <string name="select_all">Seleccionar todos</string>
+  <string name="select_done">Sem mais para seleccionar</string>
   <string name="select_groups">Seleccionar grupos</string>
   <string name="select_none">Nada seleccionado</string>
   <string name="select_show_contacts">Lista de contactos</string>
@@ -1082,6 +1090,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="vcard_import_will_start_message">%s será importado em breve.</string>
   <string name="vcard_import_will_start_message_with_default_name">O ficheiro será importado em breve.</string>
   <string name="vcard_unknown_filename">contacto</string>
+  <string name="video_call">Vídeo-chamada</string>
   <string name="video_chat">Conversa de vídeo</string>
   <string name="view_updates_from_group">Ver actualizações</string>
   <string name="viewContactDesription">Ver contacto</string>

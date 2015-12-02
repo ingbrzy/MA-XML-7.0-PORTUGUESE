@@ -4,7 +4,7 @@
     <string name="activity_title_apk">Pacotes</string>
     <string name="activity_title_cache">Cache</string>
     <string name="activity_title_cache_data">Dados da aplicação</string>
-    <string name="activity_title_deep_clean">Limpeza profunda</string>
+    <string name="activity_title_deep_clean">Limpeza Profunda</string>
     <string name="activity_title_garbage_cleanup">Limpeza</string>
     <string name="activity_title_ignored_image">Ignorado</string>
     <string name="activity_title_image_gallery">Eliminar duplicados</string>
@@ -80,6 +80,11 @@
     <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
     <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
     <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
+    <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
+    <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
+    <string name="deepclean_list_item_from_download">Transferências</string>
+    <string name="deepclean_list_item_from_gallery">Galeria</string>
+    <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
     <string name="deepclean_similar_ignore">Ignorar</string>
     <string name="deepclean_title_large_file">Eliminar ficheiros grandes</string>
     <string name="deepclean_title_uninstall_apps">Aplicações raramente utilizadas</string>
@@ -126,6 +131,7 @@
     <string name="hints_app_uninstall_residual">Limpar resíduos de ficheiros desinstalados?</string>
     <string name="hints_cache_header_left">Ficheiros de cache</string>
     <string name="hints_cleanfinish">Limpeza concluída</string>
+    <string name="hints_deepclean_list_item_from">De %s</string>
     <string name="hints_deepclean_scanning">A verificar %s</string>
     <string name="hints_finish_quick_cleanup">Concluído</string>
     <string name="hints_finish_quick_cleanup_title">Limpar %s lixo</string>
