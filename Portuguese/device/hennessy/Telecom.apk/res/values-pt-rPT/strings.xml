@@ -5,6 +5,8 @@
   <string name="accessibility_speakerphone_enabled">Altavoz activado.</string>
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="default_connection_manager_component"/>
+  <string name="dial_conference_fail_prompt">Não é possível marcar chamadas de conferência directamente porque a rede actual não suporta VoLTE.</string>
+  <string name="dial_vt_fail_prompt">A rede actual não suporta. Trocar para chamadas de voz normais?</string>
   <string name="handle_restricted">RESTRINGIDO</string>
   <string name="headset_plugin_view_text">Auscultadores ligado.</string>
   <string name="headset_plugin_view_title">Auscultadores</string>
@@ -41,6 +43,7 @@
   <string name="test_account_3_short_description">Chat with Chat Network users</string>  
   <string name="unknown">Desconhecido</string>
   <string name="video_call_not_allowed_if_tty_enabled">Por favor desactive o modo TTY para fazer video-chamadas.</string>
+  <string name="voice_dial_out">Chamada de voz</string>
   <string name="voice_report_incoming_call">A ligar</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
 </resources>
