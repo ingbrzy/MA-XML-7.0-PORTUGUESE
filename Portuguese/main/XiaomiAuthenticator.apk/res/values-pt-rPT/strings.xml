@@ -113,15 +113,15 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="remove_account_dialog_message">"Remover esta conta irá remover a sua capacidade de gerar códigos. Isto pode impedi-lo de iniciar sessão na sua conta.
 
 Antes de remover:
-—Desligar a verificação em 2 passos para esta conta, ou
-—Certifique-se que tem um método alternativo para gerar códigos."</string>
+-Desligar a verificação em 2 passos para esta conta, ou
+-Certifique-se que tem um método alternativo para gerar códigos."</string>
   <string name="remove_account_dialog_title">Remover conta?</string>
   <string name="rename">Renomear</string>
   <string name="rename_message">Renomear %1$s</string>
   <string name="resetbtn_patternforgotten">Reiniciar</string>
   <string name="save_key_message">Guardar chave para</string>
   <string name="scan_barcode">Digitalizar ID Mi</string>
-  <string name="scan_barcode_info">Colocar e digitalizar um código de barras ID Mi no interior deste visor.</string>
+  <string name="scan_barcode_info">Colocar e digitalizar um código de barras ID Mi no interior deste quadrado.</string>
   <string name="secret_saved">Segredo guardado</string>
   <string name="security_setting">Definições de segurança</string>
   <string name="settings_menu_item">Definições</string>
@@ -170,7 +170,7 @@ Pode："</string>
   <string name="update_pattern_jump">&lt;u&gt;Remover palavra-passe&lt;/u&gt;</string>
   <string name="version_preference_title">Versão</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi, não será possível iniciar sessão na sua conta."</string>
-  <string name="welcome_page_details">"— Mantenha a sua conta segura.
-— Previna que pessoas estranhas utilizem o seu dispositivo para iniciar sessão na sua conta."</string>
-  <string name="welcome_page_title">Utilizado para Inicío de Sessão Seguro</string>
+  <string name="welcome_page_details">"- Mantenha a sua conta segura.
+- Previna que pessoas estranhas utilizem o seu dispositivo para iniciar sessão na sua conta."</string>
+  <string name="welcome_page_title">Utilizado para Inicío de Sessão Segura</string>
 </resources>

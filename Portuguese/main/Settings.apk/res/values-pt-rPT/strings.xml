@@ -574,8 +574,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="checking_find_device_status">A verificar estado de Localizar dispositivo…</string>
   <string name="children_mode_enable_title">Modo Criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
-  <string name="children_mode_tips_off">Após ligar o modo Criança, toque no botão Início para retornar ao Ecrã inicial.</string>
-  <string name="children_mode_tips_on">Após desligar o modo Criança, toque no botão Início para retornar ao Ecrã inicial.</string>
+  <string name="children_mode_tips_off">Após ligar o modo Criança, toque no botão início para retornar ao ecrã inicial</string>
+  <string name="children_mode_tips_on">Após desligar o modo Criança, toque no botão início para retornar ao ecrã inicial.</string>
   <string name="children_mode_title">Modo Criança</string>
   <string name="choose_smartcover_type">Escolher tipo de capa</string>
   <string name="choose_timezone">Escolher fuso horário</string>
@@ -629,7 +629,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Apenas software</string>
-  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais.</string>
+  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais foi activado.</string>
   <string name="credentials_erased">O armazenamento de credenciais foi eliminado.</string>
   <string name="credentials_install">Instalar do armazenamento</string>
@@ -1533,7 +1533,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
   <string name="multi_touch_points_preference">Esta definição apenas irá ter efeito assim que reiniciar o seu dispositivo</string>
-  <string name="music_audio_effect_optimize">Definições de Áudio</string>
+  <string name="music_audio_effect_optimize">Definições de áudio</string>
   <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
   <string name="music_audio_effect_settings">Definições de efeitos de áudio</string>
