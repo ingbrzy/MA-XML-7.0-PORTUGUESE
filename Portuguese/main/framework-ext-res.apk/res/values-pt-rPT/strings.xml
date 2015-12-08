@@ -36,7 +36,7 @@ Para ligar esta funcionalidade, ir a Definições &gt; Sistema &gt; Botões"</st
   <string name="group_name_friends">Amigos</string>
   <string name="handy_mode_enter_dlg_msg">Entrar no Modo de uma mão?</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo de uma mão</string>
-  <string name="handy_mode_summary">Para fechar, toque na área escurecida</string>
+  <string name="handy_mode_summary">Para sair toque na área escurecida</string>
   <string name="handy_mode_title">Modo de uma mão</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
   <string name="internal_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais</string>
@@ -84,8 +84,8 @@ Para ligar esta funcionalidade, ir a Definições &gt; Sistema &gt; Botões"</st
   <string name="sim_added_reboot_title">O cartão SIM vai ficar activo assim que reiniciar o seu dispositivo</string>
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
-  <string name="status_bar_toggle_ac">Bloquear Aps.</string>
-  <string name="status_bar_toggle_auto_brightness">Brilho Auto.</string>
+  <string name="status_bar_toggle_ac">Bloquear Aps</string>
+  <string name="status_bar_toggle_auto_brightness">Brilho Auto</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>  
   <string name="status_bar_toggle_data">Dados Móveis</string>    
   <string name="status_bar_toggle_flight_mode">Modo Avião</string>
