@@ -20,7 +20,7 @@
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade está em testes e pode afectar o desempenho.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Correção de Cor</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Em testes) Pode afectar o desempenho</string>
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
   <string name="accessibility_display_title">Ecrã</string>
@@ -33,7 +33,7 @@ Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporáriamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -48,12 +48,12 @@ Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
 "<li>Ajuste o nível do zoom: Belisque dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
-Também pode aumentar temporáriamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
+  <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
   <string name="accessibility_service_no_apps_title">Necessita de um leitor de ecrã?</string>
   <string name="accessibility_services_title">Serviços</string>
   <string name="accessibility_settings">Acessibilidade</string>
