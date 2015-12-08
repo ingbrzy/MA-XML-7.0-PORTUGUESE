@@ -164,6 +164,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="pref_download_revert_default">Predefinido</string>
   <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
   <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
+  <string name="pref_sniff_shortcut">Criar atalho</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação popup quando utilizar ligação de dados móveis para transferir conteúdo</string>
   <string name="pref_summary_max_bytes_limit_format">Aguardar por Wi-Fi se o tamanho do ficheiro exceder %s</string>
@@ -212,6 +213,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="setting_debug_fail">"Não foi possível entrar no modo Depuração"</string>
   <string name="setting_open_debug">Modo Depuração ligado. Toque aqui 6 vezes para desligar o modo Depuração.</string>
   <string name="show_more">Mostrar %s mais</string>
+  <string name="sniff_associate_text">Toque na palavra-chave abaixo para localizar mais fontes</string>
   <string name="sniff_bt_text">Ficheiro torrent</string>
   <string name="sniff_btn_text">Localizar fonte</string>
   <string name="sniff_connect_error_page_tips">Não foi possível abrir URL</string>
@@ -222,6 +224,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_find_some_suffix">itens</string>
   <string name="sniff_finding_resource_prompt">A procurar fontes…</string>
   <string name="sniff_no_network_tip">Verifique a sua ligação de rede e tente novamente</string>
+  <string name="sniff_no_result_text">Sem resultados encontrados</string>
   <string name="sniff_result_empty_prompt">Não foi possível localizar fontes</string>
   <string name="sniff_result_num_prefix">Localizado</string>
   <string name="sniff_result_num_video_suffix">itens</string>
@@ -229,6 +232,13 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_result_website_intro">Total&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; itens | Fonte: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
+  <string name="sniff_shortcut_cloudconfig_btn">Entendi</string>
+  <string name="sniff_shortcut_cloudconfig_context">A actualizar fonte…</string>
+  <string name="sniff_shortcut_cloudconfig_title">Aguarde um seg…</string>
+  <string name="sniff_shortcut_create">Atalho criado</string>
+  <string name="sniff_shortcut_name">Localizar Fonte</string>
+  <string name="sniff_shortcut_tip">Adicionar atalhos para localizar fontes mais rápido.</string>
+  <string name="sniff_shortcut_tip2">Localizar fontes para as transferências do seu Ecrã inicial.</string>
   <string name="sniff_sniffing_btn_text">A procurar fontes…</string>
   <string name="sniff_terms_agree">Aceitar</string>
   <string name="sniff_terms_msg">Deve aceitar \"Termos de Utilização\" para começar a utilizar motores de pesquisa de terceiros.</string>
@@ -275,7 +285,23 @@ em todos os seus dispositivos com Xunlei"</string>
 Acelere as suas transferências em todos os seus dispositivos."</string>
   <string name="web_dialog_cancel">Cancelar</string>
   <string name="web_dialog_confirm">OK</string>
-  <string name="xiaomi_account_not_exist_message">"Esta Conta Mi não existe"</string>
+  <string name="xiaomi_account_not_exist_message">Esta Conta Mi não existe</string>
+  <string name="xl_annual_vip_open">Filiação anual (%1$s Créditos Mi ou %2$s mensalmente)</string>
+  <string name="xl_annual_vip_renew">Renovar por 1 ano (%1$s Créditos Mi ou %2$s mensalmente)</string>
+  <string name="xl_bind_account">Adicionar conta Xunlei existente </string>
+  <string name="xl_highway_autoopen">Canal de alta velocidade</string>
+  <string name="xl_highway_autoopen_info">Ligar canal de alta velocidade automaticamente</string>
+  <string name="xl_highway_title">"Canal de alta velocidade:   "</string>
+  <string name="xl_month_vip_open">Filiação mensal (%1$s Créditos Mi)</string>
+  <string name="xl_month_vip_renew">Renovar por 1 mês (%1$s Créditos Mi)</string>
+  <string name="xl_privilege_play">Transferir playback</string>
+  <string name="xl_privilege_play_info">Transmitir transferências não concluídas em vários dispositivos</string>
+  <string name="xl_privilege_speedup">Transferir acelerador</string>
+  <string name="xl_privilege_speedup_info">Canal de alta velocidade e suporte para transferências offline</string>
+  <string name="xl_privilege_storage">Armazenamento online</string>
+  <string name="xl_privilege_storage_info">Existe espaço suficiente para todas as suas transferências</string>
+  <string name="xl_privilege_title">Filiação Xunlei</string>
+  <string name="xl_validate_title">"Válido até:  "</string>
   <string name="xunlei_account_has_unbind_message">Conta Xunlei removida</string>
   <string name="xunlei_brand">Fornecido por Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

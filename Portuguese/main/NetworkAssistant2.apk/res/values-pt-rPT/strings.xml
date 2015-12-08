@@ -444,6 +444,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tips_dialog_title">Não sabe o seu limite</string>
   <string name="tips_message">Para ver o detalhe do seu plano de dados, marque %2$s (%1$s).</string>
   <string name="title_limit_traffic_per_day">Limite diário de dados</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Plano mensal alterado para %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Plano de dados actualizado</string>
+  <string name="traffic_alert_auto_modify_package_summary">Ajustar pacote de dados automaticamente consoante a informação de operadora</string>
+  <string name="traffic_config_alert_auto_modify">Actualizar plano de dados automaticamente</string>
   <string name="traffic_config_alert_body">"A sua conta na operadora mostra :%s.
 
 Vai aproveitar esta?"</string>
@@ -457,9 +461,8 @@ O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
 O limite de utilização de dados do seu plano mensal é %1$s. Não definiu um limite de uso de dados."</string>
   <string name="traffic_config_alert_body_normal">"
 O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %2$s que definiu manualmente."</string>
-  <string name="traffic_config_alert_cancel">Cancelar</string>
-  <string name="traffic_config_alert_nomore">Não mostrar novamente</string>
-  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_package">"
+Passou dados extra"</string>
   <string name="traffic_config_alert_setted">Definições aplicadas</string>
   <string name="traffic_config_alert_title">%s Correcção</string>
   <string name="traffic_correction_failed">Não é possível obter informações</string>
@@ -467,9 +470,10 @@ O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %
   <string name="traffic_correction_start_correction_failed">Pedido falhou, por favor, verifique as configurações da operadora</string>
   <string name="traffic_correction_success">Utilização de dados actualizada</string>
   <string name="traffic_correction_success_notify_message">Toque para ver detalhes.</string>
-  <string name="traffic_limit_error_alert_body">Segundo a operadora tem %1$s até à renovação do plano de dados. É mais que o limite de %2$s que definiu manualmente.</string>
-  <string name="traffic_limit_error_alert_iknow">OK</string>
-  <string name="traffic_limit_error_alert_reset">Repôr limite</string>
+  <string name="traffic_limit_error_alert_body">Os seus dados restantes para este mês (%1$s) são maiores que o seu plano mensal (%2$s). Marcar dados extra como pacote de recarga?</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes.</string>

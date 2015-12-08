@@ -324,6 +324,7 @@
   <string name="share_device">Dispositivo partilhado</string>
   <string name="similar">Semelhante</string>
   <string name="sina">Sina</string>
+  <string name="sniff">Sniff</string>
   <string name="souhu">Souhu</string>
   <string name="source_error">Erro ao obter recurso</string>
   <string name="star1">1 estrela</string>
@@ -412,6 +413,7 @@
    <string name="vp_download_apk_from_video_ad">Instalar a aplicação</string>
   <string name="vp_download_connect_fail">Não foi possível obter o link</string>
   <string name="vp_download_file_fail">A transferência falhou. Certifique-se de que há espaço suficiente no seu dispositivo.</string>
+  <string name="vp_downloading_apk_title">A transferir %1$s</string>
   <string name="vp_exit">Sair</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Ecrã inteiro</string>
@@ -442,6 +444,7 @@
   <string name="vp_mplayer_error_timed_out">A operação expirou</string>
   <string name="vp_newest_ep">Novo</string>
   <string name="vp_next_ci">Seguinte</string>
+  <string name="vp_notify_apk_installed">Instalar aplicação %1$s com sucesso</string>
   <string name="vp_offline">Desligado</string>
   <string name="vp_offline_status_done">Concluído</string>
   <string name="vp_offline_status_dowloading">A transferir</string>

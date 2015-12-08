@@ -31,18 +31,19 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="click_to_enabled">Toque para sincronizar.</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque para fazer cópia de segurança</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora, não poderá usar esta cópia de segurança para restaurar aplicações."</string>
-  <string name="cloud_back_up_interval_long">7 dias</string>
-  <string name="cloud_back_up_interval_short">1 dia</string>
+  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora, não poderá usar esta cópia de segurança para restaurar aplicações."</string>  
   <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue se ao Wi-Fi e tente novamente."</string>
   <string name="cloud_back_up_open_info">"Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
-  <string name="cloud_back_up_title">Cópia das aplicações</string>
+  <string name="cloud_back_up_summary">Copiar quando ligado ao Wi-Fi</string>
+  <string name="cloud_back_up_title">Cópia de dispositivo</string>
+  <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
+  <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar dispositivo</string>
+  <string name="cloud_restore_title">Restaurar da cópia</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>  
@@ -103,8 +104,10 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Cerca de 18,50 € por ano</string>
+  <string name="header_cloud_backup_settings">Cópia e Restauro</string>
+  <string name="header_cloud_restore_summary">Reinstalar aplicações e restaurar disposição de Ecrã inicial e definições de sistema duma cópia na Nuvem Mi</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
-  <string name="header_other_settings">Definições adicionais</string>
+  <string name="header_find_device_settings">Localizar dispositivo</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
   <string name="internet_access_dspt">Esta aplicação necessita de ligar à internet para funcinonar normalmente.</string>
