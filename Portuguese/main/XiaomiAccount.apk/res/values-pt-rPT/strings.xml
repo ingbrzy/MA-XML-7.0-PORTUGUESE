@@ -161,12 +161,12 @@ Para activar a sua conta, siga o
   <string name="passport_error_network">Não é possível ligar à rede</string>
   <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. Rede móvel não está disponível.</string>
   <string name="passport_error_phone_error">Núnero de telefone inválido</string>
-  <string name="passport_error_server">Erro do servidor</string>
-  <string name="passport_error_sim_not_ready">Não é possível encontrar cartão SIM</string>
-  <string name="passport_error_ssl_hand_shake">"Não é possível ligar ao servidor"</string>
+  <string name="passport_error_server">Erro de servidor</string>
+  <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
+  <string name="passport_error_ssl_hand_shake">Não é possível ligar ao servidor</string>
   <string name="passport_error_unknown">Não é possível iniciar sessão</string>
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido.</string>
-  <string name="passport_error_verify_code">O código que introduziu é incorrecto.</string>
+  <string name="passport_error_verify_code">O código que introduziu está incorrecto.</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe.</string>
   <string name="passport_forget_password"><u>Esqueceu a sua palavra-passe</u></string>
@@ -204,7 +204,7 @@ Para activar a sua conta, siga o
   <string name="passport_quick_login_step2_title">Verificação em 2 passos</string>
   <string name="passport_quick_login_title">Introduza a sua palavra-passe</string>
   <string name="passport_re_get_verify_code">Obter código novamente</string>
-  <string name="passport_re_register">Iniciar sessão novamente</string>
+  <string name="passport_re_register">Inscrever-se novamente</string>
   <string name="passport_recycle_account_prompt">É esta a sua Conta Mi?</string>
   <string name="passport_reg_failed">Não é possível configurar conta</string>
   <string name="passport_reg_new">Criar uma Conta Mi de graça</string>
@@ -242,7 +242,7 @@ Para activar a sua conta, siga o
   <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Saltar início de sessão</string>
   <string name="passport_skip_register">Saltar inscrição</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar mais tarde uma Conta Mi em Definições.</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições.</string>
   <string name="passport_skip_setup_account_title">Saltar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Confiar neste dispositivo</string>
@@ -263,6 +263,7 @@ Para activar a sua conta, siga o
   <string name="passport_xiaomi_account_dspt">Utilize a sua Conta Mi para entrar na Nuvem Mi, Loja de Temas MIUI, e Loja Mi, de qualquer lugar.</string>
   <string name="passport_xiaomi_account_sec_dspt" />
   <string name="passport_xiaomi_account_sec_dspt2">Iniciar sessão na sua Conta Mi necessita duma ligação à internet. Além de que, o acesso à localização, a Nuvem Mi, e Vip Mi irão ser ligados automaticamente.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Iniciar sessão na sua Conta Mi necessita duma ligação à internet. Além de que, o acesso à localização, a Nuvem Mi, e Vip Mi irão ser ligados automaticamente.</string>
   <string name="phone_activated">%s activado</string>
   <string name="phone_send_verify_code_prompt">Enviar código de verficação para %s</string>
   <string name="phone_unactivated">Não activado</string>
