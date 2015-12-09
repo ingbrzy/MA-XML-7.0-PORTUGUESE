@@ -830,9 +830,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="device_status_summary">Número de telefone, sinal, etc.</string>
   <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
   <string name="dialog_no">Não</string>
-  <string name="dialog_title_color_calibration">Correção de cores predefinido</string>
+  <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_font_size">Tamanho do tipo de letra</string>
-  <string name="dialog_title_hdmi_color_calibration">Correção de cores predefinido</string>
+  <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_login">Iniciar sessão na sua conta Mi</string>
   <string name="dialog_yes">Sim</string>
   <string name="dirac_control">Optimizar qualidade de audio</string>
@@ -1395,7 +1395,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="make_sure_cancel_update">Cancelar actualização?</string>
   <string name="man_add_application">Adicionar aplicações de inicio automático</string>
   <string name="manage_device_admin">Administradores do dispositivo</string>
-  <string name="manage_device_admin_summary">Ver ou desativar administradores do dispositivo</string>
+  <string name="manage_device_admin_summary">Ver ou desactivar administradores do dispositivo</string>
   <string name="manage_mobile_plan_title">Plano móvel</string>
   <string name="manage_notification_access">Acesso a notificações</string>
   <string name="manage_notification_access_summary_zero">Aplicações não podem ler notificações</string>
@@ -2423,14 +2423,14 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Seleccionar Fuso Horário</string>
   <string name="timezone_settings">Fuso horário</string>
-  <string name="title_color_calibration">Correção de Cores</string>
+  <string name="title_color_calibration">Correcção de Cores</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Tipo de letra</string>
   <string name="title_font2">Tipo de letra</string>
   <string name="title_font_current">Tipo de letra do sistema</string>
   <string name="title_font_current2">Tipo de letra do sistema</string>
   <string name="title_font_size">Tamanho do tipo de letra</string> 
-  <string name="title_hdmi_color_calibration">Correção de Cores</string>
+  <string name="title_hdmi_color_calibration">Correcção de Cores</string>
   <string name="title_layout_current">Tamanho do tipo de letra</string>
   <string name="title_layout_current2">Tamanho do tipo de letra</string>
   <string name="title_local_resource">Recursos locais</string>
@@ -2669,7 +2669,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verifique aplicações instaladas via ADB/ADT por um comportamento prejudicial.</string>
+  <string name="verify_apps_over_usb_summary">Verifique aplicações instaladas via ADB/ADT por um comportamento prejudicial</string>
   <string name="verify_apps_over_usb_title">Verifique aplicações sobre USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>

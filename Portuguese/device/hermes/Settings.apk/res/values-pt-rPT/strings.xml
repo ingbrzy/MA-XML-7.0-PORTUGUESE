@@ -188,7 +188,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="app_ops_running">Em funcionamento</string>
   <string name="app_ops_settings">Aplicações ops</string>
   <string name="app_process_limit_title">Limite de processos em segundo plano</string>
-  <string name="app_restrictions_custom_label">Establecer restrições da aplicação</string>
+  <string name="app_restrictions_custom_label">Estabelecer restrições da aplicação</string>
   <string name="app_sees_restricted_accounts">Esta aplicação pode aceder às suas contas</string>
   <string name="app_special_disable_dlg_text">Se desactivar uma aplicação de sistema, outras aplicações podem funcionar mal. Os seus dados também serão eliminados.</string>
   <string name="app_special_disable_dlg_title">Eliminar dados e desactivar aplicação?</string>
@@ -211,8 +211,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="apps_with_restrictions_settings_button">Expandir as definições para a aplicação</string>
   <string name="ask_compatibility">Perguntar ao iniciar</string>
   <string name="assisted_gps">Utilizar GPS assistido</string>
-  <string name="assisted_gps_disabled">Utilizar o servidor para assitir GPS (desactivar para melhorar o desempenho do GPS)</string>
-  <string name="assisted_gps_enabled">Utilizar servidor para assitir GPS (desactivar para reduzir a utilização de rede)</string>
+  <string name="assisted_gps_disabled">Utilizar o servidor para assistir GPS (desactivar para melhorar o desempenho do GPS)</string>
+  <string name="assisted_gps_enabled">Utilizar servidor para assistir GPS (desactivar para reduzir a utilização de rede)</string>
   <string name="audio_list_loading">A carregar…</string>
   <string name="audio_profile_settings_title">Perfis de áudio</string>
   <string name="audio_record_proc_title">Redução de ruído</string>
@@ -352,7 +352,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_ask_enablement_detected">" quer ligar o Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar telefone visível para outros dispositivos Bluetooth. Pode alterar isto mais tarde nas definições do Bluetooth.</string>
   <string name="bluetooth_auto_connect">Ligação automática</string>
-  <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique-se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">Ligado</string>
   <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia)</string>
@@ -398,11 +398,11 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e multimédia</string>
   <string name="bluetooth_dock_settings_headset">Como altavoz do telefone</string>
   <string name="bluetooth_dock_settings_remember">Lembrar definições</string>
-  <string name="bluetooth_dock_settings_title">Utilizr a dock para áudio</string>
-  <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos, ligue o Bluetooth.</string>
+  <string name="bluetooth_dock_settings_title">Utilizar a dock para áudio</string>
+  <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos ligue o Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
-  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e prima Enter ou Return</string>
+  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e prima Avançar ou Retroceder</string>
   <string name="bluetooth_enter_passkey_other_device">Poderá ter que inserir esta palavra-chave no outro dispositivo.</string>
   <string name="bluetooth_enter_pin_msg">Dispositivo</string>
   <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
@@ -423,15 +423,15 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_menu_advanced">Avançado</string>
   <string name="bluetooth_name_not_set">Não há nenhum nome definido, a utilizar o nome da conta</string>
   <string name="bluetooth_no_devices_found">Não foram encontrados dispositivos Bluetooth.</string>
-  <string name="bluetooth_not_visible_to_other_devices">Não vísivel para outros dispositivos Bluetooth</string>
+  <string name="bluetooth_not_visible_to_other_devices">Não visível para outros dispositivos Bluetooth</string>
   <string name="bluetooth_notif_message">Toque para emparelhar com %1$s</string>
   <string name="bluetooth_notif_ticker">Pedido de emparelhamento por Bluetooth</string>
   <string name="bluetooth_notif_title">Pedido de emparelhamento</string>
-  <string name="bluetooth_on_time">Duração em bluetooth</string>
+  <string name="bluetooth_on_time">Duração em Bluetooth</string>
   <string name="bluetooth_only_visible_to_paired_devices">Apenas visível para os dispositivos emparelhados</string>
   <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Não ligado ao servidor de transferência de ficheiros</string>
-  <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferencia de ficheiros</string>
+  <string name="bluetooth_opp_profile_summary_use_for">Utilizar para transferência de ficheiros</string>
   <string name="bluetooth_pairing">A emparelhar…</string>
   <string name="bluetooth_pairing_accept">Emparelhar</string>
   <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -486,7 +486,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_turning_on">A ligar o Bluetooth…</string>
   <string name="bluetooth_unknown" />
   <string name="bluetooth_unlock_add_device">Adicionar dispositivo</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituido pelo novo.</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">O dispositivo antigo será substituído pelo novo.</string>
   <string name="bluetooth_unlock_change_matched_device">Escolher outro dispositivo</string>
   <string name="bluetooth_unlock_confirm_device_text">Junte os dispositivos para desbloquear.</string>
   <string name="bluetooth_unlock_delete_device">Eliminar este dispositivo</string>
@@ -549,7 +549,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_alert">Rejeitar as suas alterações?</string>
   <string name="cancel_download_buton_text">Cancelar</string>
-  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporáriamente os dados em segundo plano e a sincronização automática.</string>
+  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporariamente os dados em segundo plano e a sincronização automática.</string>
   <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
   <string name="capabilities_list_title">%1$s precisa de:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Receber notificações quando está a interagir com uma aplicação.</string>
@@ -571,7 +571,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="carrier_enabled">Activar/desactivar APN</string>
   <string name="carrier_enabled_summaryOff">APN desactivado</string>
   <string name="carrier_enabled_summaryOn">APN activado</string>
-  <string name="cdma_security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, credêncial de bloqueio do armazenamento</string>
+  <string name="cdma_security_settings_summary">Definir A Minha Localização, ecrã de desbloqueio, credencial de bloqueio do armazenamento</string>
   <string name="cell_broadcast_settings">Definições de difusão móvel</string>
   <string name="cell_broadcast_settings_summary">Seleccione os tipos de alerta de emergência a mostrar</string>
   <string name="change_password">Alterar bloqueio de segurança</string>
@@ -616,9 +616,9 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="common_settings">Definições rápidas</string>
   <string name="complete_settings">Definições gerais</string>
   <string name="computing_size">A calcular…</string>
-  <string name="config_charging_function_name">charging</string>
+  <string name="config_charging_function_name">Carregamento</string>
   <string name="config_list_label">Definir redes</string>
-  <string name="config_mass_storage_function_name">mass_storage</string>
+  <string name="config_mass_storage_function_name">Armazenamento em massa</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Configurar modos de entrada</string>
@@ -651,7 +651,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="credentials_reset">Limpar credenciais</string>
   <string name="credentials_reset_hint">Tem certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
-  <string name="credentials_reset_warning">Insira a palavra-passe. Tem mais uma tentactiva para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
+  <string name="credentials_reset_warning">Insira a palavra-passe. Tem mais uma tentativa para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_title">Armazenamento de credenciais</string>
   <string name="credentials_unlock" />
@@ -696,15 +696,15 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="daltonizer_type_overridden">Substituído por %1$s</string>
   <string name="dashboard_title">Definições</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas rede móveis. Será utilizado Wi-Fi, se disponível.</string>
+  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado Wi-Fi, se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
   <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando estiver apenas redes móveis disponíveis.
 
 Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
-  <string name="data_usage_app_restricted">restringido</string>
+  <string name="data_usage_app_restricted">Restringido</string>
   <string name="data_usage_app_settings">Ver definições da aplicação</string>
-  <string name="data_usage_auto_sync_off_dialog">Isto vai convservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. E não vai receber notificações quando ocorrerem actualizações.</string>
+  <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. E não vai receber notificações quando ocorrerem actualizações.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas na web serão automaticamente copiadas para o seu telefone.
 
@@ -716,7 +716,7 @@ Para escolher quais os tipos de informações a sincronizar dentro de cada conta
   <string name="data_usage_cycle">Ciclo de utilização de dados</string>
   <string name="data_usage_cycle_editor_positive">Definir</string>
   <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
-  <string name="data_usage_cycle_editor_title">Repôr data de ciclo de utilização</string>
+  <string name="data_usage_cycle_editor_title">Repor data de ciclo de utilização</string>
   <string name="data_usage_disable_3g_limit">Definir limite de dados 2G-3G</string>
   <string name="data_usage_disable_4g_limit">Definir limite de dados 4G</string>
   <string name="data_usage_disable_mobile">Desactivar dados móveis?</string>
@@ -747,7 +747,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_title">Pontos de acesso móveis</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso, ligue o Wi-Fi.</string>
-  <string name="data_usage_pick_cycle_day">Dia do mês para para repôr o ciclo de utilização de dados:</string>
+  <string name="data_usage_pick_cycle_day">Dia do mês para para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
   <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
   <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi.
@@ -790,7 +790,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="debug_applications_category">Aplicações</string>
   <string name="debug_debugging_category">Em depuração</string>
   <string name="debug_drawing_category">A desenhar</string>
-  <string name="debug_hw_drawing_category">Acelaração da prestação do hardware</string>
+  <string name="debug_hw_drawing_category">Aceleração da prestação do hardware</string>
   <string name="debug_hw_overdraw">Depurar o exagero do GPU</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
@@ -812,7 +812,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="deny_sms_title">Bloquear SMS</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="details_title">Detalhes de utilização</string>
-  <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas.</string>
+  <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instalado.</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
   <string name="developer_build">" | Beta"</string>
   <string name="development_enable">Opções de programador</string>
@@ -848,16 +848,16 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="device_status_summary">Número de telefone, sinal, etc.</string>
   <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
   <string name="dialog_no">Não</string>
-  <string name="dialog_title_color_calibration">Correção de cores predefinido</string>
+  <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_font_size">Tamanho do tipo de letra</string>
-  <string name="dialog_title_hdmi_color_calibration">Correção de cores predefinido</string>
+  <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_login">Iniciar sessão na sua conta Mi</string>
   <string name="dialog_yes">Sim</string>
-  <string name="dirac_control">Optimizar qualidade de audio</string>
+  <string name="dirac_control">Optimizar qualidade de áudio</string>
   <string name="dirac_mode_earbuds">Auriculares Mi</string>
   <string name="dirac_mode_general">Geral</string>
   <string name="dirac_mode_general_earbuds">Auriculares genéricos</string>
-  <string name="dirac_mode_general_inear">Intrauriculares genéricos</string>
+  <string name="dirac_mode_general_inear">Intraauriculares genéricos</string>
   <string name="dirac_mode_in_ear">Auriculares Mi</string>
   <string name="dirac_mode_off">Dirac desligado</string>
   <string name="dirac_mode_piston_1">Mi pistão-1</string>
@@ -872,8 +872,8 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_because_no_backup_security">Para utilizar, defina uma bloqueio de ecrã primeiro</string>
-  <string name="disableNetwork">disableNetwork</string>
-  <string name="disconnect">desligar</string>
+  <string name="disableNetwork">Desactivar rede</string>
+  <string name="disconnect">Desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
   <string name="display_label">Ecrã</string>
   <string name="display_order_text">Ordenar por:</string>
@@ -906,12 +906,12 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
   <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não perturbar estiver ligado.</string>
   <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
-  <string name="dndm_mute_all">Silênciar chamadas e mensagens</string>
+  <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não Perturbar está ligado</string>
   <string name="dndm_open">Não Perturbar</string>
   <string name="dndm_repeated_call_setting_title">Chamadas repetidas</string>
   <string name="dndm_repeated_call_summary_3min">Tocar quando receber uma chamada do mesmo número num espaço de três minutos</string>
-  <string name="dndm_repeated_call_summary_none">Silênciar chamadas repetidas do mesmo número</string>
+  <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas do mesmo número</string>
   <string name="dndm_special_call_setting_group">Excepções</string>
   <string name="dndm_twelve_hour_time_format">a h:mm</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
@@ -930,26 +930,26 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_wristband_detailed2">"Desligar Não Perturbar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
   <string name="do_not_disturb_mode">Não Perturbar</string>
   <string name="dock_audio_settings_title">Áudio</string>
-  <string name="dock_audio_summary_car">Definições para a ligação dock do carro</string>
-  <string name="dock_audio_summary_desk">Definições para a ligação dock da área de trabalho</string>
+  <string name="dock_audio_summary_car">Definições para a ligação do suporte do carro</string>
+  <string name="dock_audio_summary_desk">Definições para a ligação do suporte da área de trabalho</string>
   <string name="dock_audio_summary_none">Telefone não ligado</string>
-  <string name="dock_audio_summary_unknown">Definições para a ligação dock</string>
-  <string name="dock_not_found_text">O telefone deve estar ligado para definir o áudio da dock</string>
-  <string name="dock_not_found_title">Ligação dock não encontrada</string>
+  <string name="dock_audio_summary_unknown">Definições para a ligação do suporte</string>
+  <string name="dock_not_found_text">O telefone deve estar ligado para definir o áudio do suporte</string>
+  <string name="dock_not_found_title">Ligação do suporte não foi encontrada</string>
   <string name="dock_settings">Ligação</string>
-  <string name="dock_settings_summary">Definições de áudio para aligação dock</string>
-  <string name="dock_settings_title">Definições de ligação dock</string>
-  <string name="dock_sounds_enable_summary_off">Não reproduzir sons ao inserir ou remover o telefone da dock.</string>
-  <string name="dock_sounds_enable_summary_on">Reproduzir sons ao inserir ou remover o telefone da dock.</string>
-  <string name="dock_sounds_enable_title">Som ao inserir dock</string>
+  <string name="dock_settings_summary">Definições de áudio para a ligação do suporte</string>
+  <string name="dock_settings_title">Definições de ligação do suporte</string>
+  <string name="dock_sounds_enable_summary_off">Não reproduzir sons ao inserir ou remover o telefone do suporte.</string>
+  <string name="dock_sounds_enable_summary_on">Reproduzir sons ao inserir ou remover o telefone do suporte.</string>
+  <string name="dock_sounds_enable_title">Som ao inserir o suporte</string>
   <string name="does_not_exist">A aplicação não existe.</string>
   <string name="dolby_bassboost_high">Forte</string>
   <string name="dolby_bassboost_low">Leve</string>
   <string name="dolby_bassboost_normal">Normal</string>
   <string name="dolby_bassboost_title">Baixo:</string>
   <string name="dolby_effects">Efeitos Dolby</string>
-  <string name="dolby_eq_enter_alert_msg">Activar modo Dolby music para utilizar Equalizador?</string>
-  <string name="dolby_eq_enter_alert_title">Activar Dolby music</string>
+  <string name="dolby_eq_enter_alert_msg">Activar música em modo Dolby para utilizar Equalizador?</string>
+  <string name="dolby_eq_enter_alert_title">Activar música em modo Dolby</string>
   <string name="dolby_mode_movie">Vídeo</string>
   <string name="dolby_mode_music">Música</string>
   <string name="dolby_mode_off">Desligado</string>
@@ -958,7 +958,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dolby_roomsize_high">Exterior</string>
   <string name="dolby_roomsize_low">Interior</string>
   <string name="dolby_roomsize_normal">Normal</string>
-  <string name="dolby_roomsize_summary">Definições de som Surround apenas disponiveis para auriculares</string>
+  <string name="dolby_roomsize_summary">Definições de som Surround apenas disponíveis para auriculares</string>
   <string name="dolby_roomsize_title">Surround:</string>
   <string name="done_button">Concluído</string>
   <string name="download_current_rom">Obter a última versão MIUI</string>
@@ -994,7 +994,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="enable_wifi_display">Visualização sem fios</string>
   <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicações devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até serem actualizado pelos seus programadores."</string>
+Algumas aplicações podem não funcionar até serem actualizadas pelos seus programadores."</string>
   <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
   <string name="enforce_read_external_summary">Aplicações devem pedir permissão para ler o armazenamento USB</string>
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
@@ -1424,7 +1424,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="make_sure_cancel_update">Cancelar actualização?</string>
   <string name="man_add_application">Adicionar aplicações de inicio automático</string>
   <string name="manage_device_admin">Administradores do dispositivo</string>
-  <string name="manage_device_admin_summary">Ver ou desativar administradores do dispositivo</string>
+  <string name="manage_device_admin_summary">Ver ou desactivar administradores do dispositivo</string>
   <string name="manage_mobile_plan_title">Plano móvel</string>
   <string name="manage_notification_access">Acesso a notificações</string>
   <string name="manage_notification_access_summary_zero">Aplicações não podem ler notificações</string>
@@ -2480,14 +2480,14 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Seleccionar Fuso Horário</string>
   <string name="timezone_settings">Fuso horário</string>
-  <string name="title_color_calibration">Correção de Cores</string>
+  <string name="title_color_calibration">Correcção de Cores</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Tipo de letra</string>
   <string name="title_font2">Tipo de letra</string>
   <string name="title_font_current">Tipo de letra do sistema</string>
   <string name="title_font_current2">Tipo de letra do sistema</string>
   <string name="title_font_size">Tamanho do tipo de letra</string> 
-  <string name="title_hdmi_color_calibration">Correção de Cores</string>
+  <string name="title_hdmi_color_calibration">Correcção de Cores</string>
   <string name="title_layout_current">Tamanho do tipo de letra</string>
   <string name="title_layout_current2">Tamanho do tipo de letra</string>
   <string name="title_local_resource">Recursos locais</string>
@@ -2740,7 +2740,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verifique aplicações instaladas via ADB/ADT por um comportamento prejudicial.</string>
+  <string name="verify_apps_over_usb_summary">Verifique aplicações instaladas via ADB/ADT por um comportamento prejudicial</string>
   <string name="verify_apps_over_usb_title">Verifique aplicações sobre USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>

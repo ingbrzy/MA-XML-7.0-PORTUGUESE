@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="weather_type">
-        <item>Ensolarado</item>
+        <item>Sol</item>
         <item>Com nuvens</item>
         <item>Nublado</item>
         <item>Nevoeiro</item>
@@ -50,9 +50,9 @@
         <item>Lua nova</item>
         <item>Crescente convexo</item>
         <item>Quarto crescente</item>
-        <item>Crescente concâvo</item>
+        <item>Crescente côncavo</item>
         <item>Lua cheia</item>
-        <item>Minguante concâvo</item>
+        <item>Minguante côncavo</item>
         <item>Quarto minguante</item>
         <item>Minguante convexo</item>
         <item>Lua escura</item>
