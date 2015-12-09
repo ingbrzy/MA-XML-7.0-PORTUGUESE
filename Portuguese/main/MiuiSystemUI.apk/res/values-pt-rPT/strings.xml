@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_airplane_mode">Modo Avião</string>
+  <string name="accessibility_airplane_mode">Modo de Avião</string>
   <string name="accessibility_back">Voltar</string>
   <string name="accessibility_battery_level">Bateria a %d por cento.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth activado.</string>
@@ -151,7 +151,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="notification_otg_unknow_in">Dispositivo OTG ligado</string>
   <string name="notification_otg_unknow_out">Dispositivo OTG desligado</string>
   <string name="notification_template_text">Nova notificação. Toque para ver.</string>
-  <string name="oldman_airplane_mode_text">Modo Avião</string>
+  <string name="oldman_airplane_mode_text">Modo de Avião</string>
   <string name="oldman_incall_text">Em chamada</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
@@ -194,7 +194,7 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Voltar ao Gravador</string>
   <string name="status_bar_recording_pause">Gravador em pausa</string>
-  <string name="status_bar_settings_airplane">Modo Avião</string>
+  <string name="status_bar_settings_airplane">Modo de Avião</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sem ligação à internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi activado</string>
