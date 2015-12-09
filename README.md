@@ -1,7 +1,7 @@
 XML_MIUI-v7
 ===========
 
-MIUI-v7 translation for all supported devices. MIUI Translation: **Efex, KcNirvana**
+MIUI-v7 translation for all supported devices. MIUI Translation: **Efex, KcNirvana, Lippe35**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
