@@ -616,9 +616,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="common_settings">Definições rápidas</string>
   <string name="complete_settings">Definições gerais</string>
   <string name="computing_size">A calcular…</string>
-  <string name="config_charging_function_name">Carregamento</string>
   <string name="config_list_label">Definir redes</string>
-  <string name="config_mass_storage_function_name">Armazenamento em massa</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Configurar modos de entrada</string>
@@ -857,7 +855,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dirac_mode_earbuds">Auriculares Mi</string>
   <string name="dirac_mode_general">Geral</string>
   <string name="dirac_mode_general_earbuds">Auriculares genéricos</string>
-  <string name="dirac_mode_general_inear">Intraauriculares genéricos</string>
+  <string name="dirac_mode_general_inear">Intrauriculares genéricos</string>
   <string name="dirac_mode_in_ear">Auriculares Mi</string>
   <string name="dirac_mode_off">Dirac desligado</string>
   <string name="dirac_mode_piston_1">Mi pistão-1</string>
@@ -872,7 +870,6 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_because_no_backup_security">Para utilizar, defina uma bloqueio de ecrã primeiro</string>
-  <string name="disableNetwork">Desactivar rede</string>
   <string name="disconnect">Desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
   <string name="display_label">Ecrã</string>
