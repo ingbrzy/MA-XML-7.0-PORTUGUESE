@@ -48,7 +48,7 @@
   <string name="address">Endereço</string>
   <string name="address_choose_hint">%1$s, %2$s, e %3$d outras localizações</string>
   <string name="addwhitelist">Adicionar às excepções</string>
-  <string name="all_address_choose_hint">Todos os números nesta província</string>
+  <string name="all_address_choose_hint">Todos os números nesta área</string>
   <string name="antispam_notificaiton_type_show_all">Todos os números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números fora da lista de bloqueio</string>
   <string name="antispam_notificaiton_type_show_none">Nunca</string>
@@ -203,7 +203,7 @@
   <string name="quiet">Não Incomodar</string>
   <string name="quiet_group">Não Incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
-  <string name="quiet_mode">Silenciar todas os distúrbios</string>
+  <string name="quiet_mode">Silenciar todos os distúrbios</string>
   <string name="quiet_off_mode">Permitir sempre distúrbios</string>
   <string name="read_all_sms">Ler tudo</string>
   <string name="repeated_marked_number_summary">Não bloquear uma segunda chamada do mesmo número reportado em 3 minutos.</string>

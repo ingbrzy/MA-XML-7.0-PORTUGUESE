@@ -116,7 +116,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_EndCall">Terminar chamadas</string>
   <string name="HIPS_Perm_External_Storage">Aceder e alterar ficheiros no armazenamento interno</string>
   <string name="HIPS_Perm_External_Storage_Desc">Adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
-  <string name="HIPS_Perm_GetCallState">Aceder ao estados precisos do telefone</string>
+  <string name="HIPS_Perm_GetCallState">Aceder aos estados precisos do telefone</string>
   <string name="HIPS_Perm_ListenCallState">Ler os estados precisos do telefone</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
   <string name="HIPS_Perm_Location_Access">Obter localização exacta (baseada no GPS e na rede)</string>

@@ -11,7 +11,7 @@
   <string name="app_name">Autenticador Xiaomi</string>
   <string name="app_name_lockpattern">Padrão de Bloqueio</string>
   <string name="app_name_short">Autenticador</string>
-  <string name="authenticator_invalid_tip">É possível este recurso tenha sido desligado através do seu navegador de desktop ou tenha sido activo outro token de segurança Mi.</string>
+  <string name="authenticator_invalid_tip">É possível que este recurso tenha sido desligado através do navegador do seu computador ou tenha sido activo outro token de segurança Mi.</string>
   <string name="authenticator_invalid_title">Conta：%1$s o token de segurança expirou.</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
   <string name="button_add_account">Adicionar uma conta</string>
@@ -32,7 +32,7 @@
   <string name="correct_enter_password">A palavra-passe que introduziu está correcta</string>
   <string name="correct_enter_update_password">A palavra-passe que introduziu está correcta</string>
   <string name="counter_pin">Obter código</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Os dados foram importados com sucesso a partir da aplicação Autenticador Xiaomi obsoleto. Agora é seguro para desinstalar a versão anterior da aplicação clicando abaixo.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Os dados foram importados com sucesso a partir da aplicação Autenticador Xiaomi. Agora é seguro desinstalar a versão anterior da aplicação clicando abaixo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importação com sucesso</string>
   <string name="decoding_exception">Descodificar excepção</string>
   <string name="details_patternforgotten">"Reactivar: 
@@ -47,7 +47,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="enter_pin">Introduza este código de verificação se for pedido durante o inicio de sessão:</string>
   <string name="error_empty_secret">Não é possível guardar segredo vazio</string>
   <string name="error_exists">Desculpe, esse nome já está a ser utilizado.</string>
-  <string name="error_qr">Não foi possível intrepertar o código QR.</string>
+  <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
   <string name="forget_password">&lt;u&gt;Esqueceu palavra-passe&lt;/u&gt;</string>
@@ -57,7 +57,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="howitworks_page_enter_code_details">Esta aplicação vai gerar o código necessário para proceder com o inicio de sessão.</string>
   <string name="howitworks_page_enter_code_title">Se estiver num novo computador, introduza um código do seu telefone</string>
   <string name="howitworks_page_enter_password_details">No entanto, se está num novo computador ou dispositivo, a Xiaomi irá pedir um código especial para se certificar de que é realmente você.</string>
-  <string name="howitworks_page_enter_password_title">Para iniciar sessão, vai introduzir a sua password.</string>
+  <string name="howitworks_page_enter_password_title">Para iniciar sessão, vai introduzir a sua palavra-passe.</string>
   <string name="howitworks_page_verify_device_details">Também pode escolher para guardar o computador e a Xiaomi não voltará a pedir um código quando estiver lá.</string>
   <string name="howitworks_page_verify_device_title">Depois fica com a sessão iniciada.</string>
   <string name="install_button">Instalar</string>
@@ -78,11 +78,11 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio:</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Conecte pelo menos %d pontos. Tente novamente:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente:</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando estiver pronto.</string>
   <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
-  <string name="lockpattern_retry_text">Reiniciar palavra-passe de padrão</string>
+  <string name="lockpattern_retry_text">Reiniciar palavra-passe padrão</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
@@ -91,7 +91,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockpattern_tutorial_jump_label">Saltar</string>
   <string name="lockscreen_forgot_pattern_button_text"><u>Esqueceu padrão de desbloqueio?</u></string>
-  <string name="login">sign in</string>
+  <string name="login">Entrar</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
   <string name="new_pattern_tip">A sua palavra-passe tem que ser maior que 4 caracteres</string>
@@ -103,7 +103,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="opensource_preference_title">Projecto Open-source</string>
   <string name="original_pattern_tip">Introduza padrão de desbloqueio</string>
   <string name="password_error">A palavra-passe que introduziu está incorrecta</string>
-  <string name="password_forget">Esquecer palavra-passe?</string>
+  <string name="password_forget">Esqueceu palavra-passe?</string>
   <string name="password_hint">Introduza a sua palavra-passe da conta Mi</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Políticas de Privacidade</string>
@@ -150,7 +150,7 @@ Antes de remover:
 As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Hora corrigida</string>
   <string name="tip1_patternforgotten">Reinstalar e reactivar</string>
-  <string name="tip2_patternforgotten">Toque em Reset para limpar os dados da conta e reactivar.</string>
+  <string name="tip2_patternforgotten">Toque em Reiniciar para limpar os dados da conta e reactivar.</string>
   <string name="tip_lockpattern">A sua palavra-passe tem que ser maior que 4 caracteres</string>
   <string name="title_change_lockpattern">Definir padrão de bloqueio</string>
   <string name="title_createpattern">Criar palavra-passe</string>
@@ -162,15 +162,15 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_nopassword_dialog">Limite diário</string>
   <string name="title_password">Palavra-passe</string>
   <string name="title_password_threshold">Limite diário = ￥%1$s</string>
-  <string name="title_patternforgotten">"Esquecer palavra-passe？
+  <string name="title_patternforgotten">"Esqueceu palavra-passe？
 Pode："</string>
   <string name="title_updatepattern">Alterar palavra-passe</string>
-  <string name="title_visible_pattern">Meter padrão visivel</string>
+  <string name="title_visible_pattern">Meter padrão visível</string>
   <string name="type_prompt">Tipo de chave</string>
   <string name="update_pattern_jump">&lt;u&gt;Remover palavra-passe&lt;/u&gt;</string>
   <string name="version_preference_title">Versão</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi, não será possível iniciar sessão na sua conta."</string>
   <string name="welcome_page_details">"— Mantenha a sua conta segura.
 — Previna que pessoas estranhas utilizem o seu dispositivo para iniciar sessão na sua conta."</string>
-  <string name="welcome_page_title">Utilizado para Inicío de Sessão Seguro</string>
+  <string name="welcome_page_title">Utilizado para Inicío de Sessão Segura</string>
 </resources>
