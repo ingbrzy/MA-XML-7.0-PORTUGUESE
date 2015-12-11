@@ -7,9 +7,9 @@
   <string name="app_details">Detalhes das aplicações:</string>
   <string name="app_name">Digitalizador</string>
   <string name="back">Voltar</string>
-  <string name="barcode_into_rectangle">Para digitalizar, alinhe o código no rectângulo do visor</string>
+  <string name="barcode_into_rectangle">Para digitalizar alinhe o código no interior do quadrado que surge no ecrã</string>
   <string name="birthday">Aniversário:</string>
-  <string name="camera_error">Existe algo errado com a câmara</string>
+  <string name="camera_error">Problema inesperado com a câmara</string>
   <string name="cancel">Cancelar</string>
   <string name="choose_picture">Escolha a imagem do código QR</string>
   <string name="close_flash_error">Não é possível ligar o Flash</string>
@@ -43,7 +43,7 @@
   <string name="open_flash_error">Não é possível ligar o Flash</string>
   <string name="phone">Telefone:</string>
   <string name="picker_lable">Imagem</string>
-  <string name="place_barcode_into_rectangle">Para digitalizar, alinhe o código no rectângulo do visor</string>
+  <string name="place_barcode_into_rectangle">Para digitalizar alinhe o código no interior do quadrado que surge no ecrã</string>
   <string name="qq_details">Detalhes QQ:</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
   <string name="recognize">A ler</string>
