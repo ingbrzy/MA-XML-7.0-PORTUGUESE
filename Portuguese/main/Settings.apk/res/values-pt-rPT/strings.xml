@@ -112,8 +112,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Deseja criar widget e permitir acesso?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
-  <string name="allow_mock_location">Permitir locais fictícios</string>
-  <string name="allow_mock_location_summary">Permitir locais fictícios</string>
+  <string name="allow_mock_location">Permitir localizações fictícias</string>
+  <string name="allow_mock_location_summary">Permitir localizações fictícias</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
@@ -2945,7 +2945,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardado</string>
-  <string name="wifi_required_info_text">Para completar a instalação, o seu telemóvel necessita de acceso à Wi-Fi. Depois da instalação, pode alterar entre os dados móveis e a Wi-Fi.</string>
+  <string name="wifi_required_info_text">Para completar a instalação, o seu telemóvel necessita de acesso à Wi-Fi. Depois da instalação, pode alterar entre os dados móveis e a Wi-Fi.</string>
   <string name="wifi_save">Guardar</string>
   <string name="wifi_scan_always_available">Localizar está sempre disponível</string>
   <string name="wifi_scan_always_available_summary">Deixe o serviço de localização do Google e outras aplicações pesquisar redes, mesmo quando Wi-Fi está desligado</string>
@@ -3073,7 +3073,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando a rede Wi-Fi está ligada</string>
   <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso móvel</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
+  <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de acesso móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de acesso móvel %1$s activo</string>
   <string name="wifi_tether_failed_subtext">Erro de Ponto de acesso móvel</string>
