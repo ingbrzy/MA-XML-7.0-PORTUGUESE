@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Não foi possível aceder armazenamento USB.</string>
-  <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
+  <string name="access_sd_fail">Não foi possível aceder ao armazenamento USB.</string>
+  <string name="accessibility_audio_shutter_bg">Som de fundo do disparo</string>
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
-  <string name="accessibility_countdown">Count Down button</string>
+  <string name="accessibility_countdown">Botão contagem decrescente</string>
   <string name="accessibility_hdr">Botão trocar HDR</string>
   <string name="accessibility_panorama_review_cancel">Cancelar gravação de panorama</string>
-  <string name="accessibility_peak">Focus Peak button</string>
+  <string name="accessibility_peak">Botão foco máximo</string>
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
-  <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
+  <string name="audio_focus_exit_button_text">Desligar áudio focagem </string>
   <string name="burst_shoot_exit_button_text">Desligar disparo contínuo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>

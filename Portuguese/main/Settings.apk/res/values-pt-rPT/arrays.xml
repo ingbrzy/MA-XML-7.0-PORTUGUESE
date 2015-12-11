@@ -5,7 +5,7 @@
         <item>Europa</item>
         <item>África</item>
         <item>Asia</item>
-        <item>Australia</item>
+        <item>Austrália</item>
         <item>Pacífico</item>
         <item>Todos</item>
     </string-array>
@@ -174,7 +174,7 @@
         <item>Nenhum</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -250,7 +250,7 @@
         <item>Localização</item>
         <item>Vibrar</item>
         <item>Ler contactos</item>
-        <item>Modificar contacots</item>
+        <item>Modificar contactos</item>
         <item>Ler registo das chamadas</item>
         <item>Modificar registo das chamadas</item>
         <item>Ler calendário</item>
@@ -310,7 +310,7 @@
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>Nenhum</item>
-        <item>Outline</item>
+        <item>Contorno</item>
         <item>Sombra projectada</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
@@ -370,23 +370,23 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desligado</item>
-        <item>Desenhe no clipe não retangular na região em azul</item>
+        <item>Desenhe no clipe não rectangular na região em azul</item>
         <item>Destaque dos comandos de desenho testado em verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
         <item>No ecrã como barras</item>
         <item>No ecrã como linhas</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
-        <item>Mostrar áreas overdraw</item>
-        <item>Mostrar áreas Deuteranomaly</item>
-        <item>Mostrar contador overdraw</item>
+        <item>Desligado</item>
+        <item>Mostrar áreas de limite</item>
+        <item>Mostrar áreas de deuteranopia</item>
+        <item>Mostrar limite do contador</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Limite predifinido</item>
+        <item>Limite predefinido</item>
         <item>Sem processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
