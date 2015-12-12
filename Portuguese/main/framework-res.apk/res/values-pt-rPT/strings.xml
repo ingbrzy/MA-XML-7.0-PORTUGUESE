@@ -922,7 +922,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_manageNetworkPolicy">Permite que a aplicação faça a gestão de políticas de rede e defina regras específicas de aplicações.</string>
   <string name="permdesc_manageUsb">Permite à aplicação gerir as preferências e permissões para dispositivos USB.</string>
   <string name="permdesc_manageUsers">Permite que as aplicações possam gerir utilizadores no dispositivo, incluindo a consulta, criação e eliminação.</string>
-  <string name="permdesc_markNetworkSocket">Permite que a aplicação modifique o socket de rede para conceder acesso root</string>
+  <string name="permdesc_markNetworkSocket">Permite que a aplicação modifique o socket de rede para encaminhamento</string>
   <string name="permdesc_masterClear">Permite que a aplicação reponha totalmente as definições de fábrica do sistema, eliminando todos os dados, configurações e aplicações instaladas.</string>
   <string name="permdesc_mediaContentControl">Permite à aplicação controlar a reprodução de media e aceder às informações de media (título, autor ...).</string>
   <string name="permdesc_mediaStorageWrite">Permite que a aplicação modifique o conteúdo de armazenamento de suportes internos.</string>
