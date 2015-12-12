@@ -13,7 +13,7 @@
   <string name="auto_button_examine_immediately">Ver</string>
   <string name="auto_button_sure_cancel">Cancelar</string>
   <string name="auto_check_clause_button">Ver</string>
-  <string name="auto_dialog_msg">"Nós actualizamos nossa Política de Privacidade. Leia-a cuidadosamente antes de actualizar o seu sistema. "</string>
+  <string name="auto_dialog_msg">"Foi actualizada a nossa Política de Privacidade. Leia-a cuidadosamente antes de actualizar o seu sistema. "</string>
   <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
   <string name="auto_update">Transferir actualizações automaticamente</string>
@@ -34,12 +34,12 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização.</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
-  <string name="check_local_package_wipe_msg">Vai trocar para a versão MIUI %s, que é mais antiga que a versão actual. Os seus dados pessoais irão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo.</string>
+  <string name="check_local_package_wipe_msg">Vai trocar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais irão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo.</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
-  <string name="check_update_when_wifi_available">Verificar actualizações apenas em Wi-Fi</string>
-  <string name="check_update_when_wifi_available_sum">Utilizar apenas Wi-Fi para verificar as actualizações</string>
+  <string name="check_update_when_wifi_available">Verificar actualizações por Wi-Fi</string>
+  <string name="check_update_when_wifi_available_sum">Utilizar apenas o Wi-Fi para verificar as actualizações</string>
   <string name="clean_up_button">Limpar</string>
   <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
   <string name="comment_publish">Submeter</string>
@@ -53,7 +53,7 @@
   <string name="download_cancel">Cancelar</string>
   <string name="download_current_rom">Reiniciar para aplicar a actualização</string>
   <string name="download_diff">Transferência de comparação</string>
-  <string name="download_error">Algo está errado. Aguarde um ou dois minutos e tente novamente.</string>
+  <string name="download_error">Erro inesperado. Aguarde um ou dois minutos e tente novamente.</string>
   <string name="download_failed">Erro na transferência</string>
   <string name="download_full">Transferência completa</string>
   <string name="download_success_reboot_immediately">Reiniciar para aplicar a actualização</string>
@@ -84,7 +84,7 @@
   <string name="later">Mais tarde</string>
   <string name="loading">A solicitar…</string>
   <string name="log_share">Partilhar</string>
-  <string name="menu_title_current_version_log">O que há de novo</string>
+  <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_download_current_rom">Transferir actualização</string>
   <string name="menu_title_pick_rom_file">Seleccionar actualização</string>
   <string name="menu_title_recovery">Reiniciar em modo de restauro</string>
@@ -104,7 +104,7 @@
   <string name="new_updates_found_notification_title">Actualização disponível</string>
   <string name="next">Seguinte</string>
   <string name="no_log">Não há resumo disponível</string>
-  <string name="no_wifi_msg">Utilizando a sua ligação de dados móveis irá aumentar a utilização de dados. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="no_wifi_msg">Se utilizar a ligação de dados móveis irá aumentar o volume de dados. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais.</string>
   <string name="no_wifi_title">Aviso de utilização de dados</string>
   <string name="not_open">Agora não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automaticamente</string>
@@ -127,13 +127,13 @@
   <string name="open_now">Abrir agora</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pausa</string>
-  <string name="pm_root_acquired_button">Acesso Root</string>
+  <string name="pm_root_acquired_button">Acesso root</string>
   <string name="pm_root_acquired_notification_title">A obter acesso root</string>
   <string name="pm_root_acquired_rooting">A obter acesso root %s</string>
   <string name="pm_root_checking">A verificar informação de sistema…</string>
   <string name="pm_root_fail_button_retry">Repetir</string>
   <string name="pm_root_fail_msg">Esta aplicação não conseguiu ter acesso root. Tente novamente.</string>
-  <string name="pm_root_fail_service_busy">Aguarde até que o seu dispositivo tenha concluido a actualização e tente novamente.</string>
+  <string name="pm_root_fail_service_busy">Aguarde até que o seu dispositivo tenha concluído a actualização e tente novamente.</string>
   <string name="pm_root_fail_title">Não foi possível obter acesso root</string>
   <string name="pm_root_notification_download_title">A transferir</string>
   <string name="pm_root_success_msg">Reinicie o dispositivo para concluir o último passo.</string>
@@ -151,12 +151,12 @@
   <string name="repeat">Tente novamente</string>
   <string name="root_acquired">Permitir acesso root</string>
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
-  <string name="root_dangerous_msg">Permitir o acesso root e extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer dano ao seu dispositivo ou perca de dados que resultem da permissão de acesso root.</string>
+  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root?</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
   <string name="set_auto_msg">Transferir actualizações automaticamente quando estiver ligado ao Wi-Fi.</string>
   <string name="set_auto_update_title">Transferir actualizações automaticamente</string>
-  <string name="set_installfail_full_msg">Algo está errado. Toque OK para reportar este erro.</string>
-  <string name="set_installfail_msg">Transferir esta actualização através de sua ligação de dados móveis vai aumentar muito o consumo de dados.</string>
+  <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro.</string>
+  <string name="set_installfail_msg">Transferir esta actualização através de sua ligação de dados móveis vai aumentar excessivamente o consumo de dados.</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
   <string name="set_network_msg">Para transferir esta actualização, ligue à rede.</string>
@@ -218,10 +218,10 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="updater_nonetwork_clause">Não é possível ligar à rede</string>
   <string name="updater_service_busy_msg">Esta aplicação utiliza o serviço de Actualizar para obter acesso root aos ficheiros de origem necessários.</string>
   <string name="updater_service_busy_title">Serviço de Actualizar está ocupado</string>
-  <string name="updater_wait_for_unzip">A descomprimir actualização…</string>
+  <string name="updater_wait_for_unzip">A descompactar actualização…</string>
   <string name="upgrade_close">Fechar</string>
   <string name="upgrade_kernel">Versão do kernel desactualizado</string>
-  <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI. Precisa de actualizar o kernel manualmente. Consulte o tutorial de actualização:
+  <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI. É necessário actualizar o kernel manualmente. Consulte o tutorial de actualização:
 "</string>
   <string name="user_begin">Transferir</string>
   <string name="user_intertup_download_msg">A Transferência foi pausada. Pode retomá-la a qualquer momento no aplicação Transferências.</string>
