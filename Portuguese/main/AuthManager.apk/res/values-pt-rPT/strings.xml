@@ -25,7 +25,7 @@ Tem certeza que deseja desactivá-lo?"</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso root está indisponível na compilação estável da MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"A concessão de acesso root a aplicações de terceiros pode causar instabilidades no sistema, perda de dados ou até mesmo danificar o seu hardware.
 
-Tem que instalar a versão de desenvolvimento da MIUI para conceder acesso root."</string>
+Tem que instalar a versão Developer da MIUI para conceder acesso root."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Transferir MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Acesso root</string>
@@ -72,7 +72,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Group_Location">Localização</string>
   <string name="HIPS_Group_PIM">Dados do utilizador</string>
   <string name="HIPS_Group_PhoneID">Identidade do dispositivo</string>
-  <string name="HIPS_Group_ROOT">Acesso Root</string>
+  <string name="HIPS_Group_ROOT">Acesso root</string>
   <string name="HIPS_Perm_AdjustRingerVolume">Ajustar o volume do toque</string>
   <string name="HIPS_Perm_AdjustVolumeInCall">Ajustar o volume da chamada</string>
   <string name="HIPS_Perm_AllowAll">Permitir tudo</string>
@@ -236,7 +236,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Acesso root</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Conceder %1$s acesso root?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">A concessão de permissões root a uma aplicação pode causar instabilidades no dispositivo.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras passes e mensagens) podem ser comprometidas.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras-passes e mensagens) podem ser comprometidas.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">A concessão de acesso root a aplicações também pode danificar o hardware do dispositivo.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda estas permissões por sua conta e risco.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder %1$s acesso root?</string>
@@ -260,7 +260,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="Privacy_Perm_Count">%1$d permitido | %2$d negado</string>
   <string name="Su_Enable_Dialog">%1$s está a solicitar acesso root.</string>
   <string name="Su_Package_Forbidden">%1$s não possui acesso root.</string>
-  <string name="Su_Unavailable">O acesso root não está disponível nesta versão da MIUI. Tem de instalar a compilação de desenvolvimento da MIUI para conceder o acesso root.</string>
+  <string name="Su_Unavailable">O acesso root não está disponível nesta versão da MIUI. Tem de instalar a versão Developer da MIUI para conceder o acesso root.</string>
   <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
   <string name="SysOpt_Boost_AutoStart_Group">Início automático</string>
   <string name="SysOpt_Boost_Boot">Inicialização</string>
