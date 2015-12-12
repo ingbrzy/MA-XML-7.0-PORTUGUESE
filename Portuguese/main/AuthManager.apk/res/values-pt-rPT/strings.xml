@@ -22,7 +22,7 @@ Tem certeza que deseja desactivá-lo?"</string>
   <string name="Dashboard_Perm_SU">Gerir acesso root</string>
   <string name="Dashboard_Perm_SU_Desc">A monitorizar %1$d aplicações com acesso root</string>
   <string name="Dashboard_Perm_SU_Disabled">Acesso root desactivado</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso root está indisponível na compilação estável da MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">O acesso root está indisponível na versão Stable da MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"A concessão de acesso root a aplicações de terceiros pode causar instabilidades no sistema, perda de dados ou até mesmo danificar o seu hardware.
 
 Tem que instalar a versão Developer da MIUI para conceder acesso root."</string>
@@ -44,7 +44,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="Generic_InvalidInput">Entrada inválida</string>
   <string name="Generic_Loading">A carregar…</string>
   <string name="Generic_MonitoredApp">A observar (%1$d)</string>
-  <string name="Generic_Operating">Em andamento…</string>
+  <string name="Generic_Operating">Em progresso…</string>
   <string name="Generic_Optimize">Optimizar</string>
   <string name="Generic_Service_Disabled">Desligado</string>
   <string name="Generic_Service_Enabled">Ligado</string>
@@ -154,7 +154,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_PhoneID_Hint">%1$s aplicações podem ler o IMEI e IMSI do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_ICCID">Ler o ICCD do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_IMEI">Ler o IMEI do dispositivo</string>
-  <string name="HIPS_Perm_PhoneID_IMEISN">Ler o IMEI SN do dispositivo</string>
+  <string name="HIPS_Perm_PhoneID_IMEISN">Ler o IMEI S/N do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_IMSI">Ler o número IMSI do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_Number">Ler a identidade do dispositivo</string>
   <string name="HIPS_Perm_PromptAll">Perguntar tudo</string>
@@ -226,8 +226,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_get_accounts_Desc">Aceder a todas as contas no dispositivo</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder aplicação Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizar e terminar chamadas</string>
-  <string name="HIPS_Perm_use_sip">Serviços de Vídeo</string>
-  <string name="HIPS_Perm_use_sip_Desc">Utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
+  <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
+  <string name="HIPS_Perm_use_sip_Desc">Utilizar protocolo de início de sessão para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Permitir uma vez (%d)</string>
@@ -252,7 +252,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="Privacy_App_Log">Registos</string>
   <string name="Privacy_App_Manage">Detalhes</string>
   <string name="Privacy_App_Trust">Pedir permissão</string>
-  <string name="Privacy_App_TrustDialog_Content">Não será perguntado sobre permissões quando esta aplicação aceder outras partes do sistema.</string>
+  <string name="Privacy_App_TrustDialog_Content">Não será questionado sobre permissões quando esta aplicação aceder a outras partes do sistema.</string>
   <string name="Privacy_App_TrustDialog_Title">Permissões da aplicação</string>
   <string name="Privacy_App_Trust_Summary_Off">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>
   <string name="Privacy_App_Trust_Summary_On">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>

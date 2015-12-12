@@ -1818,7 +1818,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_mode_enable_title">Modo Convidado</string>
   <string name="privacy_mode_summary">Bloqueie aplicações individualmente ou oculte dados pessoais</string>
   <string name="privacy_mode_title">Definições de privacidade</string>
-  <string name="privacy_protect_title">Proteção de privacidade</string>
+  <string name="privacy_protect_title">Protecção de privacidade</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="privacy_settings">Cópia e restauro</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
@@ -2899,7 +2899,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_menu_scan">Verificar</string>
   <string name="wifi_menu_wfd">Visualização sem fios</string>
   <string name="wifi_menu_wps_pbc">Botão WPS</string>
-  <string name="wifi_menu_wps_pin">Pin de entrada WPS</string>
+  <string name="wifi_menu_wps_pin">PIN de entrada WPS</string>
   <string name="wifi_more">Mais</string>
   <string name="wifi_network_prefix_length">Comprimento do prefixo de rede</string>
   <string name="wifi_network_prefix_length_hint">24</string>
@@ -3051,7 +3051,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_show_password">Mostrar palavra-passe</string>
   <string name="wifi_signal">Potência do sinal:</string>
   <string name="wifi_signal_found_msg">Ligar a um PA Wi-Fi?</string>
-  <string name="wifi_skip_anyway">Saltar na mesma</string>
+  <string name="wifi_skip_anyway">Ignorar na mesma</string>
   <string name="wifi_skipped_message">"Cuidado: Pode incorrer em encargos adicionais.
 
 A configuração do telefone pode exigir a actividade de rede significativa."</string>
@@ -3076,7 +3076,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de acesso móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de acesso móvel %1$s activo</string>
-  <string name="wifi_tether_failed_subtext">Erro de Ponto de acesso móvel</string>
+  <string name="wifi_tether_failed_subtext">Erro de ponto de acesso móvel</string>
   <string name="wifi_tether_setting_title">Definições</string>
   <string name="wifi_tether_starting">A ligar PA móvel…</string>
   <string name="wifi_tether_stopping">A desligar PA móvel…</string>
@@ -3092,15 +3092,15 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_delet_subdir">Seleccionar um certificado compatível</string>
   <string name="wifi_wapi_cert_install">Instalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS, por favor, verifique.</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correcto.</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS, por favor verifique.</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor instale o certificado AS correcto.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma directoria com este nome.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da directoria.</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de Certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor, instale o certificado de utilizador correcto.</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong"> certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
@@ -3110,14 +3110,14 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
   <string name="wifi_wps_complete">A instalação WPS foi bem sucedida. A Ligar à rede…</string>
   <string name="wifi_wps_connected">Ligado à rede WiFi %s</string>
-  <string name="wifi_wps_failed_auth">Erro de autenticação. Por favor, tente novamente.</string>
-  <string name="wifi_wps_failed_generic">WPS falhou. Por favor, tente novamente dentro de alguns minutos.</string>
-  <string name="wifi_wps_failed_overlap">Foi detectada outra sessão de WPS. Por favor, tente novamente daqui a uns minutos.</string>
+  <string name="wifi_wps_failed_auth">Erro de autenticação. Por favor tente novamente.</string>
+  <string name="wifi_wps_failed_generic">WPS falhou. Por favor tente novamente mais tarde.</string>
+  <string name="wifi_wps_failed_overlap">Foi detectada outra sessão de WPS. Por favor tente novamente mais tarde.</string>
   <string name="wifi_wps_failed_tkip">Não há suporte para a definição de segurança (TKIP) do router wireless</string>
   <string name="wifi_wps_failed_wep">Não há suporte para a definição de segurança (WEP) do router wireless</string>
-  <string name="wifi_wps_in_progress">O WPS encontra-se em andamento e pode levar algum tempo para concluir</string>
+  <string name="wifi_wps_in_progress">O WPS encontra-se em progresso e pode levar alguns minutos até ficar concluído</string>
   <string name="wifi_wps_onstart_pbc">Toque no botão Wi-Fi Instalação Protegida no seu router. Poderá chamar-se \"WPS\" ou ter este símbolo:</string>
-  <string name="wifi_wps_onstart_pin">Introduza PIN de %1$s no seu router Wi-Fi. A configuração poderá demorar até dois minutos para ficar concluída.</string>
+  <string name="wifi_wps_onstart_pin">Introduza PIN de %1$s no seu router Wi-Fi. A configuração poderá demorar alguns minutos até ficar concluída.</string>
   <string name="wifi_wps_overlap_error">Foi detectada outra sessão de Wi-Fi. Tente novamente mais tarde.</string>
   <string name="wifi_wps_setup_msg">A iniciar WPS…</string>
   <string name="wifi_wps_setup_title">Instalação Wi-Fi protegida</string>
@@ -3130,15 +3130,15 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wizard_finish">Concluído</string>
   <string name="wizard_next">Seguinte</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Confirme que o router suporta WPS e se está activo</string>
+  <string name="wps_connect_summary">Confirme se o router suporta WPS e se este se encontra activo</string>
   <string name="wps_connect_title">Ligar WPS</string>
-  <string name="wrong_pin_code_pukked">O Código PIN do cartão SIM está errado deve entrar em conctato com a sua operadora para desbloquear o dispositivo.</string>
+  <string name="wrong_pin_code_pukked">O Código PIN do seu cartão SIM está incorrecto. Deve entrar em contacto com a sua operadora para desbloquear o dispositivo.</string>
   <string name="xiaomi_account">Conta Mi</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>
   <string name="xiaomi_money_service">Crédito Mi</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações.</string>
   <string name="xiaomi_router_available_notif_title">Router MI disponível</string>
-  <string name="xiaomi_router_notif_summary">Notificar me quando estiver disponível um Router MI</string>
+  <string name="xiaomi_router_notif_summary">Notificar-me quando estiver disponível um Router MI</string>
   <string name="xiaomi_router_notif_title">Notificação de Router MI</string>
   <string name="yes">Sim</string>
   <string name="zone_auto">Fuso horário automático</string>
