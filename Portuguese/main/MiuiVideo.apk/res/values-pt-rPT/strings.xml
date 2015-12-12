@@ -21,10 +21,10 @@
   <string name="ads_ignore">Ignorar</string>
   <string name="airkan_control_device_des">Para controlar a reprodução, toque na barra na parte inferior</string>
   <string name="airkan_device_xiaomi_phone">Mi</string>
-  <string name="airkan_playing">elenco</string>
+  <string name="airkan_playing">Elenco</string>
   <string name="airkan_playing_to">" em "</string>
   <string name="airkan_tips">Toque para transmitir</string>
-  <string name="airkan_video_playing">reproduzir</string>
+  <string name="airkan_video_playing">Reproduzir</string>
   <string name="airkan_video_playing_in">"Video é "</string>
   <string name="alert_dialog_download_btn_hide">Ocultar</string>
   <string name="alert_dialog_download_dup_task">Aguarde que a transferência existente termine…</string>
@@ -40,7 +40,7 @@
   <string name="app_plugin_ready">%1$s instalado</string>
   <string name="app_update_background">Actualize a sua aplicação em segundo plano</string>
   <string name="app_upgrade_hint">Clique para ver a polimerização completa, vídeo HD online.</string>
-  <string name="app_upgrade_title">Vídeos já está actualizada com a versão mais recente.</string>
+  <string name="app_upgrade_title">Vídeos já está actualizado com a versão mais recente.</string>
   <string name="app_upgrade_version">Actualização disponível</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi_mode">Actualizar automaticamente</string>
@@ -67,7 +67,7 @@
   <string name="clarity_unknown">Desconhecido</string>
   <string name="clear_cache">Limpar imagens em cache</string>
   <string name="clear_cache_success">Cache limpa</string>
-  <string name="clear_cache_summary">Limpar as imagens em cache a partir da aplicação Vídeos</string>
+  <string name="clear_cache_summary">Limpar as imagens em cache desde a aplicação Vídeos</string>
   <string name="clear_search_history">Limpar histórico de pesquisa</string>
   <string name="click_star_rate">Toque nas estrelas para classificar</string>
   <string name="click_to_login">Toque para iniciar.</string>
@@ -102,7 +102,7 @@
   <string name="declaration_allow">Concordar</string>
   <string name="declaration_content">1. Ao utilizar este serviço, concorda com Sohu Video, iQiyi, e outros fornecedores de conteúdo<a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Termos de Utilização</a>".
 2. Ajude a melhorar este produto, através do envio automático de diagnósticos e de dados de utilização para a Mi.
-3. O vosso plug-in HD Video será instalado automaticamente.
+3. O vosso plugin HD Video será instalado automaticamente.
 4. Este serviço necessita de uma ligação à internet para funcionar normalmente."</string>
   <string name="declaration_content_td_custom">Esta aplicação tem que ligar à internet para trabalhar normalmente.</string>
   <string name="defaults">Predefinido</string>
@@ -123,7 +123,7 @@
   <string name="dlna_name">Dispositivo partilhado</string>
   <string name="douban_score">Classificação</string>
   <string name="download">Transferir</string>
-  <string name="download_add_success">Adicionado à fila de transferências</string>
+  <string name="download_add_success">Adicionado à lista de transferências</string>
   <string name="download_error">Erro offline</string>
   <string name="download_fail">Erro ao transferir</string>
   <string name="download_file_fail">Erro no acesso ao ficheiro local, talvez não haja espaço no cartão SD</string>
@@ -148,8 +148,8 @@
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_filter_title">Sem resultados</string>
-  <string name="error_empty_title">Algo está errado</string>
-  <string name="expire_time">tempo de expiração</string>
+  <string name="error_empty_title">Erro inesperado</string>
+  <string name="expire_time">Tempo expirado</string>
   <string name="favorite">Favorito</string>
   <string name="fenghuang">iFeng</string>
   <string name="file_error">Erro de ficheiro</string>
@@ -177,11 +177,11 @@
   <string name="init">Inicialização</string>
   <string name="install_apk">Instalar</string>
   <string name="install_comfirm">Toque para instalar</string>
-  <string name="install_plugin">Instalar Plug-in</string>
+  <string name="install_plugin">Instalar plugin</string>
   <string name="introduce">Resumo</string>
   <string name="join_alert_title">Juntar-se aos testes beta</string>
   <string name="join_hint">Introduzir código do convite</string>
-  <string name="key_back_down_toast">Toque no botão Voltar novamente para sair</string>
+  <string name="key_back_down_toast">Toque no botão voltar novamente para sair</string>
   <string name="lastrefresh">Última actualização</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -222,10 +222,10 @@
   <string name="netease">NetEase</string>
   <string name="no_login_xiaomi_account">Para enviar comentários, inicie sessão na sua Conta Mi</string>
   <string name="no_longer_tips">Não mostrar novamente</string>
-  <string name="no_pay_record">sem registos pagos</string>
+  <string name="no_pay_record">Sem registos pagos</string>
   <string name="no_sdcard_no_download">Não existe espaço suficiente de armazenamento.</string>
-  <string name="not_buy_vip">sem vip</string>
-  <string name="not_exist_openid">a obter informação de conta, por favor aguarde...</string>
+  <string name="not_buy_vip">Sem vip</string>
+  <string name="not_exist_openid">A obter informação de conta, por favor aguarde...</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="notification_default_title">Vídeo offline</string>
   <string name="notification_sub_title">Total %d tarefa(s) de transferências concluídas</string>
@@ -233,7 +233,7 @@
   <string name="notification_title">\"%s\" transferência em conclusão</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
-  <string name="nowifi_alert_dialog_message">Transmissão de vídeo com ligação de dados móveis pode resultar custos extra cobrado pela sua operadora.</string>
+  <string name="nowifi_alert_dialog_message">Transmissão de vídeos com ligação de dados móveis podem resultar em custos adcionais cobrados pela sua operadora.</string>
   <string name="nowifi_alert_dialog_title">Aviso de utilização de dados móveis</string>
   <string name="offline">Desligado</string>
   <string name="offline_add_queue_fail">Não foi possível transferir \"%1$s\"</string>
@@ -249,7 +249,7 @@
   <string name="offline_no_selected_item_hint">Escolher um vídeo</string>
   <string name="offline_no_source">Não é possível ver no modo desligado</string>
   <string name="offline_setting">Desligado</string>
-  <string name="offline_status_failed">Falhado</string>
+  <string name="offline_status_failed">Com erro</string>
   <string name="offline_status_finished">Concluído</string>
   <string name="offline_status_loading">A transferir…</string>
   <string name="offline_status_paused">Em pausa</string>
@@ -261,16 +261,16 @@
   <string name="online_video_oneweek_ago">Há uma semana atrás</string>
   <string name="operator_test">Teste do operador</string>
   <string name="operator_test_summary">Correr aplicação no modo teste de operador</string>
-  <string name="original_price">preço original</string>
+  <string name="original_price">Preço original</string>
   <string name="other_info">Outros</string>
   <string name="other_setting">Adicional</string>
   <string name="pause">Pausar</string>
-  <string name="pay_record">registo pago</string>
+  <string name="pay_record">Registo pago</string>
   <string name="percent_status">%.0f%%</string>
   <string name="performance_mode">Melhorar desempenho do reprodutor de vídeo</string>
   <string name="performance_mode_desc">"Maximizar desempenho do reprodutor de vídeo"</string>
   <string name="personal_center">Conta</string>
-  <string name="pick_addon_to_delete">escolher itens</string>
+  <string name="pick_addon_to_delete">Escolher itens</string>
   <string name="place_at">No.%d</string>
   <string name="play">Reproduzir</string>
   <string name="play_fail">Não foi possível reproduzir</string>
@@ -340,7 +340,7 @@
   <string name="temp_play_history_button_label">Histórico</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A seguir: "</string>
-  <string name="toast_back_key_pressed_notice">Para sair, toque Voltar novamente</string>
+  <string name="toast_back_key_pressed_notice">Para sair, toque voltar novamente</string>
   <string name="toast_message_continue_play_from">Reproduzir a partir de </string>
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
@@ -354,12 +354,12 @@
   <string name="tv_cp_info_format">Fornecido por %1$s</string>
   <string name="ui_style">Disposição do conteúdo</string>
   <string name="ui_style_summary">Escolher estilo da disposição de conteúdo</string>
-  <string name="unfavorite">Remover de Favoritos</string>
+  <string name="unfavorite">Remover dos Favoritos</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="update">Actualizado</string>
   <string name="update_to_count_ji">Actualizado para Ep. %1$s</string>
   <string name="update_to_count_qi">Actualizado para %s</string>
-  <string name="updatedalready">actualizado</string>
+  <string name="updatedalready">Actualizado</string>
   <string name="upgrade">Actualizar</string>
   <string name="use_cellular_network">Ligação de dados móveis</string>
   <string name="use_cellular_network_summary">Utilizar ligação de dados móveis para transferir vídeos. Vai aumentar o consumo de dados móveis.</string>
@@ -378,14 +378,14 @@
   <string name="video_info_audio_bitrate_label">Taxa de amostragem de áudio:</string>
   <string name="video_info_audio_coding_label">Formato de codificação de áudio:</string>
   <string name="video_info_audio_null">Nenhum</string>
-  <string name="video_info_frame_rate_label">Framerate:</string>
+  <string name="video_info_frame_rate_label">Cadência:</string>
   <string name="video_info_length_label">Tamanho:</string>
   <string name="video_info_resolution_label">Resolução de vídeo:</string>
   <string name="video_info_video_coding_label">Formato de codificação de vídeo:</string>
-  <string name="video_plugin">Plug-in de vídeo</string>
+  <string name="video_plugin">Plugin de vídeo</string>
   <string name="video_plugin_downloading">A transferir (%1$s)</string>
   <string name="video_plugin_prepare">Aguarde um seg…</string>
-  <string name="vip_package">pacote vip</string>
+  <string name="vip_package">Pacote vip</string>
   <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Não é possível ligar à rede</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
@@ -396,7 +396,7 @@
   <string name="vp_app_download">Transferir aplicação</string>
   <string name="vp_app_name">Reprodutor de vídeo</string>
   <string name="vp_audio">Volume</string>
-  <string name="vp_auto_select">Automatico</string>
+  <string name="vp_auto_select">Automático</string>
   <string name="vp_back">Voltar</string>
   <string name="vp_brightness">Brilho</string>
   <string name="vp_cancel">Cancelar</string>
@@ -427,7 +427,7 @@
   <string name="vp_loading">A transferir</string>
   <string name="vp_loading_download">A transferir…</string>
   <string name="vp_loading_video">A carregar…</string>
-  <string name="vp_low_definition">LOW</string>
+  <string name="vp_low_definition">Baixo</string>
   <string name="vp_maintitlearea">Ver vídeo HD em qualquer lugar</string>
   <string name="vp_media_info">Mostrar informação do vídeo</string>
   <string name="vp_media_type_unsported">Este tipo de multimédia não é suportado</string>
@@ -435,11 +435,11 @@
   <string name="vp_milink_function">Transmitir para o ecrã</string>
   <string name="vp_mobile_network_using_negative">Cancelar</string>
   <string name="vp_mobile_network_using_positive">Continuar</string>
-  <string name="vp_mobile_network_using_warning">Reprodução do vídeo na rede móvel pode resultar em custos de utilização de dados.</string>
-  <string name="vp_mobile_network_using_warning_line_1">Utilizar os seus dados móveis para ver vídeos vai aumentar a utilização de dados.</string>
-  <string name="vp_mobile_network_using_warning_line_2">Se fôr álem do seu limite de plano de dados, a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="vp_mobile_network_using_warning">Reprodução de vídeo na rede móvel pode resultar em custos adcionais na utilização de dados.</string>
+  <string name="vp_mobile_network_using_warning_line_1">Utilizar os dados móveis para ver vídeos vai aumentar a utilização de dados.</string>
+  <string name="vp_mobile_network_using_warning_line_2">Se exceder o limite do plano de dados a sua operadora pode cobrar taxas adicionais.</string>
   <string name="vp_mplayer_error_io">Erro na operação IO</string>
-  <string name="vp_mplayer_error_malformed">Conteúdo multimédia malformado</string>
+  <string name="vp_mplayer_error_malformed">Conteúdo multimédia com formato incorrecto</string>
   <string name="vp_mplayer_error_server_died">Servidor de multimédia parou</string>
   <string name="vp_mplayer_error_timed_out">A operação expirou</string>
   <string name="vp_newest_ep">Novo</string>
@@ -459,7 +459,7 @@
   <string name="vp_player_plugin_dlg_neg_btn">Fechar</string>
   <string name="vp_player_plugin_dlg_no_content">Não existe plugin do reprodutor de vídeo</string>
   <string name="vp_player_plugin_dlg_title">Plugin do reprodutor de vídeo</string>
-  <string name="vp_plugin_message">Instalar o pugin de vídeo HD?</string>
+  <string name="vp_plugin_message">Instalar o plugin de vídeo HD?</string>
   <string name="vp_retry">Repetir</string>
   <string name="vp_scale_screen">Taxa de proporção</string>
   <string name="vp_screen_shot">Capturar</string>
@@ -477,7 +477,7 @@
   <string name="vp_unknown_source">Fonte desconhecida</string>
   <string name="vp_using_16_9">Forçar 16:9</string>
   <string name="vp_using_4_3">Forçar 4:3</string>
-  <string name="vp_video_bad_network_condition">Ligação de internet má. Tente novamente mais tarde</string>
+  <string name="vp_video_bad_network_condition">Ligação de internet fraca. Tente novamente mais tarde</string>
   <string name="vp_video_invalid_cp_info">Informações inválidas do fornecedor do vídeo, reinicie a aplicação</string>
   <string name="vp_video_loading">A carregar…</string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>

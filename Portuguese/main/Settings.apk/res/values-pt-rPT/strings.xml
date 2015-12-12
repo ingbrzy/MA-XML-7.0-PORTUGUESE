@@ -1715,7 +1715,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
   <string name="permission_manage">Gestor de permissões</string>
-  <string name="permission_manage_summary">Pedir permissão antes permitir que as aplicações leiam os seus contactos, vejam o registo de chamadas, modifiquem definições de sistema, ou acedam à câmara ou outros recursos do dispositivo</string>
+  <string name="permission_manage_summary">Pedir permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
@@ -2804,7 +2804,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_advanced_mac_address_title">Endereço MAC</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
-  <string name="wifi_and_mobile_skipped_message">CUIDADO: Até que tenha uma ligação com a internet, o telefone não será capaz de verificar se o seu software está actualizado.</string>
+  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o telefone fica impedido de verificar se o software está actualizado</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Ligar automaticamente</string>
   <string name="wifi_available_title">Ligar a Wi-Fi</string>
