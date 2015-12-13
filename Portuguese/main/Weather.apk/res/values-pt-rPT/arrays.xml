@@ -2,39 +2,39 @@
 <resources>
      <string-array name="weather_type">
         <item>Sol</item>
-        <item>Com nuvens</item>
+        <item>Com Nuvens</item>
         <item>Nublado</item>
         <item>Nevoeiro</item>
-        <item>Tempestade forte</item>
-        <item>Chuvas torrenciais</item>
+        <item>Tempestade Forte</item>
+        <item>Chuvas Torrenciais</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
         <item>Chuviscos</item>
-        <item>Chuvas fortes</item>
-        <item>Chuva moderada</item>
-        <item>Chuva fraca</item>
-        <item>Chuva com neve</item>
-        <item>Nevasca</item>
+        <item>Chuvas Fortes</item>
+        <item>Chuva Moderada</item>
+        <item>Chuva Fraca</item>
+        <item>Chuva com Neve</item>
+        <item>Nevão</item>
         <item>Neve</item>
         <item>Nevão</item>
-        <item>Neve moderada</item>
-        <item>Fraca queda de neve</item>
-        <item>Forte tempestade de areia</item>
-        <item>Tempestade de areia</item>
+        <item>Neve Moderada</item>
+        <item>Fraca Queda de Neve</item>
+        <item>Forte Tempestade de Areia</item>
+        <item>Tempestade de Areia</item>
         <item>Areias</item>
         <item>Ventoso</item>
         <item>Granizo</item>
         <item>Poeiras</item>
         <item>Neblina</item>
-        <item>Chuva gelada</item>
-        <item>Sem dados</item>
+        <item>Chuva Gelada</item>
+        <item>Sem dados disponíveis</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Muito fraco</item>
+        <item>Muito Fraco</item>
         <item>Fraco</item>
         <item>Moderado</item>
         <item>Forte</item>
-        <item>Muito forte</item>
+        <item>Muito Forte</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vento N</item>
@@ -47,14 +47,14 @@
         <item>Vento NW</item>
     </string-array>
     <string-array name="moon_desc">
-        <item>Lua nova</item>
-        <item>Crescente convexo</item>
-        <item>Quarto crescente</item>
-        <item>Crescente côncavo</item>
-        <item>Lua cheia</item>
-        <item>Minguante côncavo</item>
-        <item>Quarto minguante</item>
-        <item>Minguante convexo</item>
-        <item>Lua escura</item>
+        <item>Lua Nova</item>
+        <item>Crescente Convexo</item>
+        <item>Quarto Crescente</item>
+        <item>Crescente Côncavo</item>
+        <item>Lua Cheia</item>
+        <item>Minguante Côncavo</item>
+        <item>Quarto Minguante</item>
+        <item>Minguante Convexo</item>
+        <item>Lua Escura</item>
     </string-array>
 </resources>

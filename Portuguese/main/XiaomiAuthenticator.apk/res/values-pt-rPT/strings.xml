@@ -74,7 +74,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_need_to_confirm">Desenhe o padrão outra vez para confirmar</string>
   <string name="lockpattern_need_to_confirm_wrong">Inconsistente com o registo anterior, por favor reintroduza:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Palavra-passe errada, pode tentar mais %d vezes&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Palavra-passe errada. Pode tentar mais %d vezes&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio:</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado.</string>
