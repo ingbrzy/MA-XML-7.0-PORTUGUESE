@@ -2065,7 +2065,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="screensaver_settings_when_to_dream">Quando em DayDream</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
-  <string name="sd_eject">Desmontar partilha de armazenamento</string>
+  <string name="sd_eject">Desmontar cartão SD</string>
   <string name="sd_eject_summary">Desmontar o armazenamento USB</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
@@ -3100,7 +3100,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da directoria.</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de Certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong"> certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong"> O certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
