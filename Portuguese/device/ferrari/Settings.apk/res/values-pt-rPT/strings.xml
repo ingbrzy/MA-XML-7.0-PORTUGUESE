@@ -1478,7 +1478,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Média</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplicações (dados das aplic. e cont. multimédia)</string>
+  <string name="memory_apps_usage">Aplicações (dados e conteúdo multimédia)</string>
   <string name="memory_available">Disponível</string>
   <string name="memory_available_read_only">Disponível (apenas leitura)</string>
   <string name="memory_calculating_size">A calcular…</string>
@@ -1489,7 +1489,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="memory_media_cache_usage">Dados em cache</string>
   <string name="memory_media_misc_usage">Diversos</string>
   <string name="memory_media_usage">Multimédia</string>
-  <string name="memory_music_usage">Áudio (música, toques, etc.)</string>
+  <string name="memory_music_usage">Áudio (música, toques, podcasts, etc.)</string>
   <string name="memory_size">Espaço total</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_cancel">Rejeitar</string>
@@ -3183,7 +3183,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da directoria.</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de Certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong"> O certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
