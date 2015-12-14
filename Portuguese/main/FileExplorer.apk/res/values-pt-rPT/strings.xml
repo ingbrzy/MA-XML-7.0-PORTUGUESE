@@ -72,6 +72,7 @@
   <string name="cleaning">A limpar…</string>
   <string name="close">Fechar</string>
   <string name="compress_fail">Não foi possível comprimir. Já existe um ficheiro com o mesmo nome.</string>
+  <string name="compress_fail_unknown">Não foi possível comprimir. Armazenamento está cheio ou ocorreu um erro desconhecido.</string>
   <string name="compress_message">Comprimir para…</string>
   <string name="compress_title">Comprimir</string>
   <string name="confirm">OK</string>
@@ -102,7 +103,7 @@
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
   <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados.</string>
-  <string name="decompress_fail">"Não foi possível extrair ficheiros.Já existe dm ficheiro com o mesmo nome ou o ficheiro está corrompido."</string>
+  <string name="decompress_fail">Não foi possível extrair. Armazenamento está cheio ou ocorreu um erro desconhecido</string>
   <string name="decompress_input_password">Introduzir palavra-passe…</string>
   <string name="decompress_password_error">A palavra-passe que introduziu está incorrecta.</string>
   <string name="decompress_success">Extracção concluída</string>
@@ -252,7 +253,9 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Não é possível cortar</string>
+  <string name="move_icon_to_desktop_hint">Criar um atalho no Ecrã inicial para o Explorador para gerir ficheiros mais eficientemente.</string>
   <string name="move_to">Mover para…</string>
+  <string name="move_to_confirm">Criar</string>
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
   <string name="multi_select_title">%1$s seleccionado</string>
   <string name="my_app">Dados da aplicação</string>

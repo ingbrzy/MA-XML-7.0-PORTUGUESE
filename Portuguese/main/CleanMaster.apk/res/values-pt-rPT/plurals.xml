@@ -45,4 +45,20 @@
         <item quantity="other">%d grupos</item>
         <item quantity="one">%d grupo</item>
     </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Pode limpar dados não importantes para %d aplicações</item>
+        <item quantity="one">Pode limpar dados não importantes para %d aplicação</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d aplicações instaladas, pode eliminar aplicações raramente utilizadas</item>
+        <item quantity="one">%d aplicação instalada, pode eliminar esta</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Encontrou %d ficheiros grandes, pode eliminar os não importantes</item>
+        <item quantity="one">Encontrou %d ficheiro grande, pode eliminar este</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Encontrou %d fotos, pode eliminar imagens duplicadas ou redundantes</item>
+        <item quantity="one">Encontrou %d foto, pode eliminar imagens duplicadas ou redundantes</item>
+    </plurals>
 </resources>

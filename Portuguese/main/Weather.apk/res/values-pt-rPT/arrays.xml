@@ -27,34 +27,44 @@
         <item>Poeiras</item>
         <item>Neblina</item>
         <item>Chuva Gelada</item>
-        <item>Sem dados disponíveis</item>
+        <item></item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Muito Fraco</item>
+    <string-array name="indices_uv_level">
         <item>Fraco</item>
         <item>Moderado</item>
         <item>Forte</item>
-        <item>Muito Forte</item>
     </string-array>
+    <string-array name="indices_sport">
+        <item>Adequado</item>
+        <item>Impróprio</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Adequado</item>
+        <item>Impróprio</item>
+     </string-array>
     <string-array name="wind_direction">
-        <item>Vento N</item>
-        <item>Vento NE</item>
-        <item>Vento E</item>
-        <item>Vento SE</item>
-        <item>Vento S</item>
-        <item>Vento SW</item>
-        <item>Vento W</item>
-        <item>Vento NW</item>
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
     </string-array>
-    <string-array name="moon_desc">
-        <item>Lua Nova</item>
-        <item>Crescente Convexo</item>
-        <item>Quarto Crescente</item>
-        <item>Crescente Côncavo</item>
-        <item>Lua Cheia</item>
-        <item>Minguante Côncavo</item>
-        <item>Quarto Minguante</item>
-        <item>Minguante Convexo</item>
-        <item>Lua Escura</item>
-    </string-array>
+    <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
 </resources>

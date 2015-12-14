@@ -54,10 +54,10 @@ Nota: Dados das aplicações que instalou não irão ser copiados para a Nuvem M
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
   <string name="cloud_backup_detail_frequence_day">%1$s Copiar uma vez</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Copiar, ocupar tamanho:%2$s</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Cópias, tamanho:%2$s</string>
   <string name="cloud_backup_detail_state">Cópias Nuvem Mi</string>
   <string name="cloud_backup_detail_state_summary">Aplicações, Ecrã inicial e definições de sistema</string>
-  <string name="cloud_backup_detail_time">, Tempo da cópia:%1$s</string>
+  <string name="cloud_backup_detail_time">, tempo da cópia:%1$s</string>
   <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possivel reverter esta acção.</string>
   <string name="cloud_restore_task">A restaurar…</string>
   <string name="cloud_task_in_process">Parar %s e eliminar esta cópia de segurança? Não é possivel reverter esta acção.</string>

@@ -76,6 +76,8 @@
   <string name="close_music_time">"Tempo restante: "</string>
   <string name="cloud_enable">Sincronizar música com a Nuvem Mi</string>
   <string name="cloud_settings">Definições de sincronização</string>
+  <string name="cloud_space_full">Sem espaço de armazenamento disponível</string>
+  <string name="cloud_space_full_message">Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço, actualize a sua Conta Mi.</string>
   <string name="confirm_download">Transferir</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="cp_info_first">O serviço de streaming é oferecido por Ultimate Inc.</string>
@@ -109,7 +111,8 @@
   <string name="disable_auto_payment_success">Desligado</string>
   <string name="disable_auto_payment_success_message">"Renovação automática desligada.  Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas."</string>
   <string name="disallow_add_to_personal_radio">O rádio pessoal é apenas de leitura</string>
-  <string name="done">Concluído</string>
+  <string name="do_not_remind_again">Não mostrar novamente</string>
+  <string name="done">Concluido</string>
   <string name="download">Transferência</string>
   <string name="download_all_song">Transferir todas</string>
   <string name="download_auto_after_favorite_no_vip_summary">Transferir automaticamente músicas que adicionou aos Favoritos (Excepto conteúdo pago)</string>
@@ -155,7 +158,7 @@
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Remover</string>
-  <string name="eq_delete_success">Concluído</string>
+  <string name="eq_delete_success">Concluido</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Flat</string>
   <string name="eq_hiphop">Hip Hop</string>
@@ -329,6 +332,7 @@
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
   <string name="normal_quality">Boa</string>
   <string name="not_login">Sem sessão iniciada</string>
+  <string name="not_now">Agora não</string>
   <string name="not_selected">Seleccionar canção</string>
   <string name="nowplaying_menu_item_delete">Eliminar</string>
   <string name="ok">OK</string>
@@ -486,6 +490,7 @@
   <string name="upgrade">Actualizar:</string>
   <string name="upgrade_force">Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.</string>
   <string name="upgrade_immediate">Actualizar agora</string>
+  <string name="upgrade_membership">Obter mais espaço</string>
   <string name="upgrade_nobeta">Estamos a descontinur o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente :(</string>
   <string name="upgrade_remind">Actualização disponível</string>
   <string name="upgrade_services">Actualizações</string>

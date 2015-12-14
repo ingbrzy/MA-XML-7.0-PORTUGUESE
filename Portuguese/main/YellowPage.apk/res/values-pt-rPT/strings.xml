@@ -1,20 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_fraud_num_online_identification">Acerca desta funcionalidade</string>
-  <string name="about_phone_event">Acerca da Informação de Serviço</string>
-  <string name="about_smart_antispam_summary">Acerca desta funcionalidade</string>
-  <string name="about_telephone_fraud">Cuidado com as fraudes</string>
+  <string name="about_fraud_num_online_identification">Acerca da identificação online de phishing</string>
+  <string name="about_phone_event">Acerca do serviço de mensagens</string>
+  <string name="about_smart_antispam_summary">Acerca de identificação de números desconhecidos</string>
+  <string name="about_telephone_fraud">Cuidado com fraudes</string>
   <string name="account_address">Endereços</string>
   <string name="account_order">Histórico de encomendas</string>
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Conta Mi</string>
   <string name="account_updating_device">A actualizar…</string>
-  <string name="account_updating_device_failed">Não é possível iniciar a sessão</string>
-  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança a sua Conta Mi necessita de ser verificada neste dispositivo.</string>
+  <string name="account_updating_device_failed">Não é possível inicar a sessão</string>
+  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança, a sua Conta Mi necessita de ser verificada neste dispositivo.</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_followed">Contas verificadas</string>
   <string name="account_yellowpage_recent">Ver histórico</string>
   <string name="agree">Concordar</string>
+  <string name="agree_to_continue">Continuar</string>
+  <string name="agree_to_turn_on">Concordar</string>
   <string name="all_services">Todos</string>
   <string name="allow">Permitir</string>
   <string name="app_label">Páginas amarelas</string>
@@ -22,7 +24,7 @@
   <string name="average_price">Média %d CNY</string>
   <string name="back">Voltar</string>
   <string name="balance_inquiry_send_sms_fail_hint">Não é possível obter o saldo</string>
-  <string name="balance_inquiry_send_sms_hint">Vai ser enviada uma mensagem de texto gratuita à sua operadora para consulta do saldo.</string>
+  <string name="balance_inquiry_send_sms_hint">Vai ser enviada uma mensagem de texto gratuita a sua operadora para consulta do saldo.</string>
   <string name="balance_inquiry_send_sms_summmary">Verificar saldo</string>
   <string name="balance_inquiry_title">Consulta do saldo</string>
   <string name="call">Ligar</string>
@@ -212,6 +214,7 @@ Verifique o seu número de rastreio."</string>
   <string name="group_name_title" />
   <string name="hms_no_subject_view">(Sem assunto)</string>
   <string name="hms_notification">Mensagens</string>
+  <string name="homepage_barcode_prompt">Digitalizar para entrar na minha página.</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="login_before_use">Tem de iniciar sessão primeiro</string>
@@ -289,10 +292,10 @@ Verifique o seu número de rastreio."</string>
   <string name="payment_failed_common_problems">Ocorreu um problema durante o pagamento</string>
   <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente.</string>
   <string name="payment_unknown_status_title">Não foi possível confirmar o estado do pagamento</string>
-  <string name="phone_event_setting_notice_text">"Páginas amarelas quer enviar números de serviço verificados ( como por exemplo a sua operadora ) para os servidores Mi , de modo que a que possa receber actualizações de serviços relacionados."</string>
+  <string name="phone_event_setting_notice_text">Identificação de números desconhecidos ajuda-o a entender que fornecedor de serviços lhe telefonou ou enviou mensagem. Uma mensagem contendo a informação do fornecedor de serviços irá ser puxada para o seu telefone depois de ser verificada pela Xiaomi. Deve ler e concordar com %1$s e %2$s para utilizar esta funcionalidade.</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
-  <string name="pull_to_refresh_pull_label">Puxe para actualizar…</string>
+  <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">Aguarde um seg…</string>
   <string name="pull_to_refresh_release_label">Solte para actualizar…</string>
   <string name="quick_yellow_page_tab_call_log">Registo de chamadas</string>
@@ -355,6 +358,10 @@ Total: CNY %3$s"</string>
   <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tentar novamente</string>
+  <string name="turn_off_hint_title">Dica</string>
+  <string name="turn_off_phone_event_hint">Se desligar esta funcionalidade, não poderá utilizá-la depois de desligar.</string>
+  <string name="turn_off_smart_antispam_hint">Desligar a protecção para chamadas de desconhecidos?</string>
+  <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de números</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>
   <string name="turn_on_phone_event_title">Receber informações de serviço</string>
   <string name="turn_on_smart_antispam_hint">Identificar chamadas de números desconhecidos utilizando a base de dados da Xiaomi</string>
