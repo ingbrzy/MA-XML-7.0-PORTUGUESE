@@ -87,6 +87,9 @@
   <string name="control_vol_by_cellphone">Utilizar dispositivo para controlar volume</string>
   <string name="controller_list">Controlos remotos</string>
   <string name="cool_mode">Frio</string>
+  <string name="create_shortcut_cancel">Não obrigado</string>
+  <string name="create_shortcut_confirm">Criar</string>
+  <string name="create_shortcut_done">Criado com sucesso</string>
   <string name="current_place">"Localização actual: "</string>
   <string name="current_play">A reproduzir: </string>
   <string name="current_stb">"Actual: "</string>
@@ -120,15 +123,26 @@
   <string name="edit_controller">Editar controlo remoto</string>
   <string name="edit_ir_device">Renomear dispositivo</string>
   <string name="eject">Ejectar</string>
+  <string name="empty_name_tip">遥控器还没有名字哦~</string>
+  <string name="epg_all_channels">全部频道</string>
+  <string name="epg_bookable">预约</string>
+  <string name="epg_booked">已预约</string>
   <string name="epg_booked_str">Programado</string>
   <string name="epg_bottom_subtitle_textview_str">Emparelhar set-top box para ver mais detalhes</string>
   <string name="epg_bottom_subtitle_textview_str2">Toque para ver controlo remoto</string>
   <string name="epg_bottom_title_textview_str">Toque para emparelhar set-top box</string>
+  <string name="epg_change_channel">换台</string>
   <string name="epg_channel_group_open">Mostrar tudo</string>
   <string name="epg_detail_title_text">Descrição</string>
+  <string name="epg_details_episode">第%1$s集</string>
   <string name="epg_episode_open">Mostrar tudo</string>
+  <string name="epg_fav_channels">频道收藏</string>
+  <string name="epg_hot_channels">热门频道</string>
+  <string name="epg_hot_programs">热门节目</string>
+  <string name="epg_loading_hint">手机控制机顶盒一键换台</string>
   <string name="epg_name">Séries de TV</string>
   <string name="epg_status_playing_text">A reproduzir…</string>
+  <string name="epg_status_playing_text_v5">直播中</string>
   <string name="epg_unbooked_str">Não programado</string>
   <string name="episode_intro_title_text">Resumo do episódio</string>
   <string name="episode_title">Episódio %1$d</string>
@@ -161,6 +175,7 @@
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume.</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
+  <string name="get_location_fail_tip">自动获取位置失败，请手动选择城市</string>
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo alvo</string>
   <string name="guid_three">· Alguns controlos podem não estar disponíveis se a sua TV ou set-top box não suportar Android</string>
   <string name="guid_two">· Desligar isolamento do PA do router</string>
@@ -211,6 +226,7 @@
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Controlo remoto Wi-Fi</string>
   <string name="jump_to_mivideo">Ver num dispositivo móvel</string>
+  <string name="just_now">Agora mesmo</string>
   <string name="just_used">Agora mesmo</string>
   <string name="key_press_vibrate">Vibrar ao tocar</string>
   <string name="last_use_frame">%1$s atrás</string>
@@ -238,8 +254,8 @@
   <string name="match_count_frame">Emparelhar %1$d/%2$d controlo remoto</string>
   <string name="match_count_tip_frame">Testar botões (%1$d/%2$d)</string>
   <string name="match_data">Informação de emparelhamento</string>
-  <string name="match_data_error_tips">"没有获取到可用数据，十分抱歉
-如需继续使用，请返回"</string>
+  <string name="match_data_error_tips">"Não foi possível obter informação
+Volte para continuar"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Os botões de direcção funcionam?</string>
   <string name="match_dvd_intro_pause">Soltar quando a reprodução DVD estiver em pausa</string>
@@ -256,7 +272,7 @@
   <string name="match_guide_sub_frame">%1$d botões emparelhados</string>
   <string name="match_intro_power">Soltar quando o dispositivo ligar</string>
   <string name="match_is_respond">O dispositivo responde?</string>
-  <string name="match_main_tip_frame">"Aponte o controlo remoto para %1$s e segure o botão
+  <string name="match_main_tip_frame">"Aponte o controlo remoto para %1$s e prima o botão
 Solte quando %1$s responder"</string>
   <string name="match_mibox_first">    Mi TV encontrada</string>
   <string name="match_mibox_sencond">    · Controlar a sua Mi TV com este dispositivo.</string>
@@ -311,6 +327,8 @@ aguarde um momento depois da acção."</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Assistente Mi TV versão %1$s</string>
   <string name="mode">Modo</string>
+  <string name="month">月</string>
+  <string name="month_day_format">dd MMM</string>
   <string name="more">Mais</string>
   <string name="mute">Silenciar</string>
   <string name="network_diagnosis">Testar rede</string>
@@ -318,7 +336,7 @@ aguarde um momento depois da acção."</string>
   <string name="network_ok">Sem problemas detectados</string>
   <string name="network_unstable">· Tem uma ligação estável</string>
   <string name="next_step">Seguinte</string>
-  <string name="no">Cancelar</string>
+  <string name="no">Não</string>
   <string name="no_brand_service">Marca actualmente não disponível</string>
   <string name="no_current_play">"A reproduzir: - "</string>
   <string name="no_data">Sem informação</string>
@@ -480,19 +498,20 @@ Para activar a sua conta, siga o
   <string name="passport_xiaomi_account_sec_dspt2">Iniciar sessão na sua Conta Mi necessita duma ligação à internet. Além de que, o acesso à localização, a Nuvem Mi, e Vip Mi irão ser ligados automaticamente.</string>
   <string name="place_frame">"Localização: "</string>
   <string name="play_on_tv">Reproduzir na TV</string>
+  <string name="playing_time">播出时间</string>
   <string name="please_enter">Não pode estar vazio</string>
   <string name="power">Energia</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
-  <string name="privacy_content">Ao utilizar este produto, está a concordar com a nossa <u>Política de Privacidade</u> e <u>Termos de Serviço</u>. C.Remoto Mi necessita de ligar à internet para funcionar normalmente.</string>
-  <string name="privacy_nohit">"Don't show again"</string>
-  <string name="privacy_title">Terms and Conditions</string>
+  <string name="privacy_content">"Ler "<a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à internet e aos serviços de localização para a aplicação funcionar normalmente.</string>
+  <string name="privacy_nohit">Não mostrar novamente</string>
+  <string name="privacy_title">Termos e Condições</string>
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>
   <string name="province">Província</string>
   <string name="pull_down_refresh">Descer para actualizar</string>
   <string name="pull_up_refresh">Subir para actualizar</string>
-  <string name="push_add">发现一个分享的遥控器</string>
-  <string name="push_add_desc">是否使用它来遥控附近的%1$s</string>
+  <string name="push_add">Encontrou um controlo remoto partilhado consigo</string>
+  <string name="push_add_desc">Controlar %1$s com este controlo remoto?</string>
   <string name="rc">Controlo remoto</string>
   <string name="rc_name">Controlo remoto</string>
   <string name="refreshing">A actualizar…</string>
@@ -565,6 +584,8 @@ Para activar a sua conta, siga o
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Partilhar utilizando Sina Weibo</string>
   <string name="share_to_others">Partilhar</string>
+  <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto Mi frequentemente. Criar um atalho no Ecrã principal?</string>
+  <string name="shortcut_pop_title">Atalho</string>
   <string name="similar">Relacionado</string>
   <string name="somthing_wrong">Com problemas?</string>
   <string name="sorry">Erro</string>
@@ -593,6 +614,8 @@ Para activar a sua conta, siga o
   <string name="to_qq">Abrir QQ e juntar-se ao nosso grupo</string>
   <string name="to_qq_maintext">Juntar-se ao nosso grupo QQ e enviar nos feedback</string>
   <string name="to_qq_subtext">Grupo QQ: 259685862</string>
+  <string name="today">Hoje</string>
+  <string name="tomorrow">Amanhã</string>
   <string name="tv_broadcast">TV e rádio</string>
   <string name="tv_mirror">Mostrar controlos</string>
   <string name="tv_mirror_intro">Mostrar controlos de ecrã no modo paisagem</string>
@@ -607,7 +630,7 @@ Para activar a sua conta, siga o
   <string name="upgrade_found_new_version">Actualização disponível (%1s)</string>
   <string name="upgrade_later">Agora não</string>
   <string name="upgrade_loading">A transferir…</string>
-  <string name="upgrade_log">O que há de novo?</string>
+  <string name="upgrade_log">O que há de novo</string>
   <string name="upgrade_now">Actualizar</string>
   <string name="upgrade_title_frame">%1s</string>
   <string name="upgrading">A actualizar…</string>
@@ -631,6 +654,11 @@ Para activar a sua conta, siga o
   <string name="video_play_count_label">"Vistos: "</string>
   <string name="virtual_keyhboard">Utilizar teclado do dispositivo</string>
   <string name="virtual_keyhboard_intro">Utilizar o teclado do seu dispositivo para escrever no ecrã</string>
+  <string name="voice_download_tips">未检测到科大讯飞语音服务，点击\"确认\"下载...</string>
+  <string name="voice_download_title">提示</string>
+  <string name="voice_engine_ifly_fail">启动讯飞语音识别失败</string>
+  <string name="voice_record_start">开始录制语音</string>
+  <string name="voice_resolving">正在进行语音识别</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wind_direct">Direcção</string>
@@ -643,5 +671,7 @@ Para activar a sua conta, siga o
   <string name="wind_speed_low">Baixo</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Ventoinha</string>
-  <string name="yes">Eliminar</string>
+  <string name="year_month_day_format">yyyy, dd MMM</string>
+  <string name="yes">Sim</string>
+  <string name="yesterday">Ontem</string>
 </resources>
