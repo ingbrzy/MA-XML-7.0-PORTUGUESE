@@ -2857,7 +2857,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wallpaper_lockscreen">Bloqueio do ecrã</string>
   <string name="wallpaper_settings_fragment_title">Escolher papel de parede de</string>
   <string name="wallpaper_settings_title">Papel de parede</string>
-  <string name="welcome">Bem vindo</string>
+  <string name="welcome">Bem-vindo</string>
   <string name="wfd_available_devices">Dispositivos disponíveis</string>
   <string name="wfd_disconnect_diag_msg">A sua ligação a %1$s irá terminar.</string>
   <string name="wfd_disconnect_diag_title">Desligar monitor?</string>
@@ -2882,10 +2882,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
   <string name="wifi_aggressive_handover">Transferência do Wi-Fi para telefone</string>
-  <string name="wifi_aggressive_handover_summary">When enabled, Wi‑Fi will be more aggressive in handing over the data connection to Cellular, when Wi‑Fi signal is low</string>
+  <string name="wifi_aggressive_handover_summary">Quando activado o Wi-Fi será mais agressivo a entregar a conexão de dados para o dispositivo, quando a força do sinal Wi-Fi estiver em baixo</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre pesquisas do Wi-Fi</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Allow/Disallow Wi‑Fi Roam Scans based on the amount of data traffic present at the interface</string>
-  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o telefone fica impedido de verificar se o software está actualizado</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Permitir/Proibir o Wi-Fi de verificar o acesso de dados com base na quantidade de tráfego presente na interface</string>
+  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o dispositivo fica impedido de verificar se o software está actualizado</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Ligar automaticamente</string>
   <string name="wifi_available_title">Ligar a Wi-Fi</string>
