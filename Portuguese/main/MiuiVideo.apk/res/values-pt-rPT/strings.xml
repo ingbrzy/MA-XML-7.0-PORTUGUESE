@@ -54,15 +54,15 @@
   <string name="birthday">Aniversário</string>
   <string name="bmp_quality_mode">Melhorar qualidade do vídeo</string>
   <string name="bmp_quality_mode_desc">"Melhorar qualidade de imagem do vídeo"</string>
-  <string name="buffering">A fazer buffer…</string>
-  <string name="buffering_video_netplay_label_v5">A fazer buffer…</string>
+  <string name="buffering">A carregar…</string>
+  <string name="buffering_video_netplay_label_v5">A carregar…</string>
   <string name="buy_vip">comprar vip</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_favorite_success">Remover dos Favoritos</string>
   <string name="check_app_version">A verificar actualizações…</string>
   <string name="check_network">"Não foi possível ligar à rede"</string>
   <string name="clarity_high">Alto</string>
-  <string name="clarity_standard">Standard</string>
+  <string name="clarity_standard">Média</string>
   <string name="clarity_supper">Super</string>
   <string name="clarity_unknown">Desconhecido</string>
   <string name="clear_cache">Limpar imagens em cache</string>
@@ -88,7 +88,7 @@
   <string name="count_ge_media">%d vídeos</string>
   <string name="count_ji_quan">Todos %d Eps</string>
   <string name="count_qi">Ep. %s</string>
-  <string name="data_buffering">A fazer buffer…</string>
+  <string name="data_buffering">A carregar…</string>
   <string name="datastream_alert_download">Utilizar a sua ligação de dados móveis para transferir vídeos irá aumentar a sua utilização de dados. Se ultrapassar o seu limite de utilização de dados, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="datastream_alert_hint">Pode deslgiar as notificações de utilização de dados a qualquer momento em Definições.</string>
   <string name="datastream_alert_negative_button">Cancelar</string>
