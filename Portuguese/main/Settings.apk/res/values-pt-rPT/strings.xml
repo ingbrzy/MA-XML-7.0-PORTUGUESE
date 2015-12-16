@@ -124,7 +124,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro, e depois toque no conteúdo que quer transferir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
-  <string name="animator_duration_scale_title">Escala da duração da animação</string>
+  <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="anti_spam">Lista de Bloqueio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
@@ -1652,7 +1652,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="other_advanced_settings">Definições adicionais</string>
   <string name="other_personal_settings">Definições pessoais</string>
   <string name="other_relative">Outra</string>
-  <string name="overlay_display_devices_title">Simular monitores secundários</string>
+  <string name="overlay_display_devices_title">Simular apresentações secundárias</string>
   <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar no ecrã de bloqueio</string>
   <string name="owner_info_settings_summary" />
   <string name="owner_info_settings_title">Info. do proprietário</string>
@@ -2196,16 +2196,16 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
   <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
-  <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
+  <string name="show_hw_screen_updates_summary">Mostrar vizualização dentro da janela quando desenhado com a GPU</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
-  <string name="show_non_rect_clip">Depuração de operações clipe não-retangulares</string>
+  <string name="show_non_rect_clip">Depuração de operações clipe não rectangulares</string>
   <string name="show_owner_info_on_lockscreen_label">Ver as suas informações quando o ecrã está bloqueado</string>
   <string name="show_password">Mostrar Palavras-passe</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil no ecrã de bloqueio</string>
   <string name="show_rounded_corners">Mostrar cantos arredondados</string>
   <string name="show_running_services">Mostrar serviços activos</string>
   <string name="show_screen_updates">Mostrar actualizações do ecrã</string>
-  <string name="show_screen_updates_summary">Intermitências do ecrã ao actualizarem</string>
+  <string name="show_screen_updates_summary">Destacar a superfície da janela ao actualizar</string>
   <string name="show_touches">Mostrar toques</string>
   <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>

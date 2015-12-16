@@ -236,7 +236,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Acesso root</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Conceder %1$s acesso root?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">A concessão de permissões root a uma aplicação pode causar instabilidades no dispositivo.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras-passes e mensagens) podem ser comprometidas.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras-passe e mensagens) podem ser comprometidas.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">A concessão de acesso root a aplicações também pode danificar o hardware do dispositivo.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda estas permissões por sua conta e risco.</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder %1$s acesso root?</string>
