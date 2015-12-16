@@ -33,8 +33,8 @@
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula.</item>
      </plurals>
      <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">%d apps provide conditions</item>
-        <item quantity="one">%d app provides conditions</item>
+        <item quantity="other">%d condições proporcionadas pelas aplicações</item>
+        <item quantity="one">%d condições proporcionadas pelas aplicações</item>
      </plurals>
      <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">%d aplicações podem ler as notificações</item>
@@ -45,20 +45,20 @@
         <item quantity="one">%1$s impressora encontrada</item>
      </plurals>
      <plurals name="show_cit_countdown">
-        <item quantity="other">Está a %1$d passos de entrar em cit.</item>
-        <item quantity="one">Está a %1$d passos de entrar em cit.</item>
+        <item quantity="other">Está a %1$d passos de entrar em teste de hardware</item>
+        <item quantity="one">Está a %1$d passo de entrar em teste de hardware</item>
      </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="other">Está agora %1$d passos de ser um programador.</item>
-        <item quantity="one">Está agora %1$d passo de ser um programador.</item>
+        <item quantity="other">Está agora %1$d passos de ser um programador</item>
+        <item quantity="one">Está agora %1$d passo de ser um programador</item>
      </plurals>
      <plurals name="show_pho_countdown">
-        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone.</item>
-        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone.</item>
+        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
+        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone</item>
      </plurals>
      <plurals name="show_rep_countdown">
-        <item quantity="other">Está a %1$d passos de enviar de erros.</item>
-        <item quantity="one">Está a %1$d passo de enviar de erros.</item>
+        <item quantity="other">Está a %1$d passos de enviar relatório de erros.</item>
+        <item quantity="one">Está a %1$d passo de enviar relatório de erros.</item>
      </plurals>
      <plurals name="wrong_pin_code">
         <item quantity="other">Código PIN do cartão SIM está errado, tem %d tentativas restantes.</item>

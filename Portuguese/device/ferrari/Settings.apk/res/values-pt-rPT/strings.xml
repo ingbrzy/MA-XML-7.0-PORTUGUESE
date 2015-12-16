@@ -1590,7 +1590,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Desligado</string>
   <string name="music_equalizer">Equalizador</string>
-  <string name="music_equalizer_summary">Ajustar os níveis individuais para diferentes tipos de música</string>
+  <string name="music_equalizer_summary">Ajustar os níveis de equalização para diferentes tipos de música</string>
   <string name="music_headphone_settings">Escolher tipo de auricular</string>
   <string name="music_headset_button_settings">Atribuir botões</string>
   <string name="music_headset_calibrate">Atribuir botões</string>
@@ -1611,7 +1611,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_hifi_volume">Volume Hi-Fi</string>
-  <string name="music_mi_effect_summary">Utilizar o melhoramento de som Mi quando utilizar auriculares</string>
+  <string name="music_mi_effect_summary">Activar o melhoramento de som Mi quando utilizar auriculares</string>
   <string name="music_mi_effect_title">Melhoramento de som Mi</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Efeitos da música</string>
@@ -1752,7 +1752,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
   <string name="permission_manage">Gestor de permissões</string>
-  <string name="permission_manage_summary">Pedir permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
+  <string name="permission_manage_summary">Pedir permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
@@ -2264,7 +2264,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="silent_mode_title">Modo silêncio</string>
   <string name="sim_bad_pin">Introduza um PIN com 4 a 8 números</string>
   <string name="sim_change_failed">"Não é possível alterar o PIN.
-Possívelmente o PIN está errado."</string>
+Possivelmente o PIN está errado."</string>
   <string name="sim_change_failed_enable_sim_lock">Activar agora o bloqueio do SIM</string>
   <string name="sim_change_pin">PIN do SIM</string>
   <string name="sim_change_succeeded">PIN do SIM alterado com sucesso</string>
@@ -2277,7 +2277,7 @@ Possívelmente o PIN está errado."</string>
   <string name="sim_enter_pin">PIN</string>
   <string name="sim_lock_change_not_supported">Não é possível alterar o bloqueio do SIM</string>
   <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-Possívelmente o código PIN está errado."</string>
+Possivelmente o código PIN está errado."</string>
   <string name="sim_lock_off">Pedir PIN para utilizar o telefone</string>
   <string name="sim_lock_on">Pedir PIN para utilizar o telefone</string>
   <string name="sim_lock_settings">Definições de bloqueio do cartão SIM</string>
@@ -2305,7 +2305,7 @@ Tentativas restantes :"</string>
   <string name="small_font">Pequena</string>
   <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
   <string name="smartcover_sensitive_title">Modo de capa inteligente</string>
-  <string name="sms_application_title">Aplicações predefinida de mensagens</string>
+  <string name="sms_application_title">Aplicações predefinidas de mensagens</string>
   <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de mensagens?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de mensagens?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilizar %s como aplicação de mensagens?</string>
@@ -2329,7 +2329,7 @@ Tentativas restantes :"</string>
   <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
   <string name="spellcheckers_settings_title">Correcção ortográfica</string>
   <string name="ssid_label">SSID:</string>
-  <string name="ssl_ca_cert_dialog_title">Monitorizacão de rede</string>
+  <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
@@ -2338,7 +2338,7 @@ O seu administrador pode monitorizar a sua actividade da rede, incluido emails, 
 Para mais informação contacte o seu administrador."</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
   <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
-  <string name="ssl_ca_cert_warning_message">"Terceiras partes podem monitorizar a sua actividade na rede, incluiendo mensagens de correio electrónico, aplicaçõesps e páginas de internet seguras. 
+  <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de correio electrónico, aplicações e páginas de internet seguras. 
 
 Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
   <string name="stable_build">" | Estável"</string>
@@ -2365,7 +2365,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="status_bar_settings_long_click_sort">Prima e segure para mudar</string>
-  <string name="status_bar_settings_manage_notification">Notificações da aplicacão</string>
+  <string name="status_bar_settings_manage_notification">Notificações da aplicação</string>
   <string name="status_bar_settings_no_carrier">Nenhum</string>
   <string name="status_bar_settings_notification_bar">Área de Notificações</string>
   <string name="status_bar_settings_notification_led">Luz da notificação</string>
@@ -2507,11 +2507,11 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="translation_contributors_summary" />
   <string name="translation_contributors_title">Contribuidores</string>
   <string name="trusted_credentials">Credenciais fiáveis</string>
-  <string name="trusted_credentials_disable_confirmation">Desactivar o Certificado de Autênticidade do sistema?</string>
+  <string name="trusted_credentials_disable_confirmation">Desactivar o Certificado de Autenticidade do sistema?</string>
   <string name="trusted_credentials_disable_label">Desactivar</string>
-  <string name="trusted_credentials_enable_confirmation">Activar o Certificado de Autênticidade do sistema?</string>
+  <string name="trusted_credentials_enable_confirmation">Activar o Certificado de Autenticidade do sistema?</string>
   <string name="trusted_credentials_enable_label">Ligar</string>
-  <string name="trusted_credentials_remove_confirmation">Remover definitivamente o Certificado de Autênticidade do utilizador?</string>
+  <string name="trusted_credentials_remove_confirmation">Remover definitivamente o Certificado de Autenticidade do utilizador?</string>
   <string name="trusted_credentials_remove_label">Remover</string>
   <string name="trusted_credentials_summary">Mostrar certificados da AC fiáveis</string>
   <string name="trusted_credentials_system_tab">Sistema</string>
@@ -2576,7 +2576,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
   <string name="unlock_set_enter_system">Aceder directamente ao bloqueio de ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após ligar</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixa (experimental)</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivado pelo administrador</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Alterar ou desactivar o padrão, PIN ou palavra-passe</string>
