@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>38707163</item>
+        <item>-9135517</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
      <string-array name="app_ops_labels">
         <item>A tentar aceder à localização</item>
         <item>A tentar aceder à localização</item>
