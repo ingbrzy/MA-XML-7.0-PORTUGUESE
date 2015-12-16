@@ -36,7 +36,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_popup_desc_error_device_id">Marcar *#06# para verificar IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">O número que introduziu é inválido.</string>
   <string name="activate_popup_desc_failed_query_info">Não é possível localizar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Certifique se que o número introduzido está correcto e que o seu cartão SIM foi activado.</string>
+  <string name="activate_popup_desc_failed_receive_sms">Certifique-se que o número introduzido está correcto e que o seu cartão SIM foi activado.</string>
   <string name="activate_popup_desc_failed_send_sms">Não é possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.</string>
   <string name="activate_popup_desc_failed_server">Verifique a sua ligação de rede e tente novamente.</string>
   <string name="activate_popup_desc_find_device_postfix">Uma SMS de activação pode ser enviado depois de trocar os cartões SIM.</string>

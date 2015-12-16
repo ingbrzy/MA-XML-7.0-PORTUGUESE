@@ -345,7 +345,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="bluetooth_ask_enablement_detected">" quer ligar o Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar telefone visível para outros dispositivos Bluetooth. Pode alterar isto mais tarde nas definições do Bluetooth.</string>
   <string name="bluetooth_auto_connect">Ligação automática</string>
-  <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Para emparelhar com:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Certifique-se que está a mostrar esta palavra-chave:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
   <string name="bluetooth_connected">Ligado</string>
   <string name="bluetooth_connected_no_a2dp">Ligado (sem multimédia)</string>
@@ -1744,7 +1744,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Célula em espera</string>
   <string name="power_center">Energia</string>
-  <string name="power_hide_mode_summary">"Economizar bateria restringindo processos em segundo plano das aplicacões individualmente, ligações de Wi-Fi e dados móveis, e utilização de GPS"</string>
+  <string name="power_hide_mode_summary">"Economizar bateria restringindo processos em segundo plano das aplicações individualmente, ligações de Wi-Fi e dados móveis, e utilização de GPS"</string>
   <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_mgr">Bateria</string>
@@ -2210,7 +2210,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique se que o seu dispositivo está ligado à internet.</string>
+  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à internet.</string>
   <string name="shut_down_find_device_network_failure_title">Não é possível ligar à rede</string>
   <string name="shuting_down_find_device">A desligar Localizar dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
@@ -2570,13 +2570,13 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
   <string name="usb_host_mode_subtext">Para utilizar controladores de jogos e outros periféricos na porta USB, pode diminuir a vida útil da bateria</string>
-  <string name="usb_host_mode_text">Modo de USB host</string>
+  <string name="usb_host_mode_text">Modo anfitrião de USB</string>
   <string name="usb_label_installer_cd">Instalar ferramentas de transferência de ficheiros</string>
   <string name="usb_msd_driver_installer_summary">Obter drivers de instalação para Windows ou OSX</string>
   <string name="usb_msd_driver_installer_title">Instalar o driver do disco (MSD)</string>
   <string name="usb_msd_summary">Transferir ficheiros para Windows ou OSX</string>
   <string name="usb_msd_title">Dispositivo de armazenamento em Massa</string>
-  <string name="usb_mtp_summary">Permite transferir ficheiros multimédia no Windows, ou através da aplicação Android File Transfer no Mac (ver www.android.com/filetransfer)</string>
+  <string name="usb_mtp_summary">Permite transferir ficheiros multimédia no Windows ou através da aplicação Android File Transfer no Mac (ver www.android.com/filetransfer)</string>
   <string name="usb_mtp_title">Dispositivo multimédia (MTP)</string>
   <string name="usb_ptp_summary">Permite transferir fotos através do software da câmara e transferir todos os ficheiros em computadores que não suportem MTP</string>
   <string name="usb_ptp_title">Câmara (PTP)</string>
@@ -2593,9 +2593,9 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="use_location_title">Localização e pesquisa Google</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="user_account_title">Conta para conteúdo</string>
-  <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicacões e conteúdos a partir da sua conta</string>
+  <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicações e conteúdos a partir da sua conta</string>
   <string name="user_add_profile_item_title">Perfil restrito</string>
-  <string name="user_add_user_item_summary">Os utilizadores tem as suas próprias aplicações e conteúdos</string>
+  <string name="user_add_user_item_summary">Os utilizadores têm as suas próprias aplicações e conteúdos</string>
   <string name="user_add_user_item_title">Utilizador</string>
   <string name="user_add_user_menu">Adicionar utilizador ou perfil</string>
   <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã, etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
@@ -2608,7 +2608,7 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
 Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada em nome de todos os utilizadores."</string>
   <string name="user_add_user_title">Adicionar novo utilizador</string>
   <string name="user_add_user_type_title">Adicionar</string>
-  <string name="user_adding_new_user">A adicionar novo utilizadpr…</string>
+  <string name="user_adding_new_user">A adicionar novo utilizador…</string>
   <string name="user_cannot_add_accounts_message">Os utilizadores restritos não podem adicionar contas</string>
   <string name="user_cannot_manage_message">Apenas o proprietário do telefone pode gerir os utilizadores</string>
   <string name="user_confirm_remove_message">O espaço e dados deste utilizador serão eliminados do telefone. Não pode reverter esta acção.</string>
@@ -2641,7 +2641,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_image_take_photo">Tirar fotografia</string>
   <string name="user_info_settings_title">Infor. do utilizador</string>
   <string name="user_list_title">Utilizadores e perfis</string>
-  <string name="user_need_lock_message">Antes de criar um perfil restrito, é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
+  <string name="user_need_lock_message">Antes de criar um perfil restrito é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
   <string name="user_new_profile_name">Novo perfil</string>
   <string name="user_new_user_name">Novo utilizador</string>
   <string name="user_nickname">Alcunha</string>
@@ -2657,7 +2657,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_settings_title">Utilizadores</string>
   <string name="user_setup_button_setup_later">Agora não</string>
   <string name="user_setup_button_setup_now">Configurar agora</string>
-  <string name="user_setup_dialog_message">Certifique se que essa pessoa está disponível para utilizar o tablet e definir o seu próprio espaço</string>
+  <string name="user_setup_dialog_message">Certifique-se que essa pessoa está disponível para utilizar o tablet e definir o seu próprio espaço</string>
   <string name="user_setup_dialog_title">Configurar o utilizador agora?</string>
   <string name="user_setup_profile_dialog_message">Configurar o perfil agora?</string>
   <string name="user_summary_not_set_up">Não configurado</string>
@@ -2673,7 +2673,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="vibrate_in_normal_title">Vibrar quando toca</string>
   <string name="vibrate_in_silent_title">Vibrar em modo silêncio</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>
-  <string name="vibrate_input_devices_summary">Redirecionar vibração para o controlador de jogo quando ligado.</string>
+  <string name="vibrate_input_devices_summary">Redireccionar vibração para o controlador de jogo quando ligado.</string>
   <string name="vibrate_when_ringing_title">Vibrar quando toca</string>
   <string name="virtual_sim_category_title">SIM Virtual</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
@@ -2682,7 +2682,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="virus_scan_app_continue">Continuar a verificar</string>
   <string name="virus_scan_app_find_risk">%d riscos encontrados</string>
-  <string name="virus_scan_app_finish">Verificação concluida</string>
+  <string name="virus_scan_app_finish">Verificação concluída</string>
   <string name="virus_scan_app_force_stop">Verificação em pausa</string>
   <string name="virus_scan_app_is_stop_scan">Parar a verificação?</string>
   <string name="virus_scan_app_multi_engines">A verificação pode demorar mais tempo. Está a utilizar mais do que um conjunto de definições.</string>
@@ -2690,7 +2690,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="virus_scan_app_passed">Verificado</string>
   <string name="virus_scan_app_risk">Risco detectado</string>
   <string name="virus_scan_app_safe_scanning">A verificar…</string>
-  <string name="virus_scan_app_scan_finish">Verificação concluida</string>
+  <string name="virus_scan_app_scan_finish">Verificação concluída</string>
   <string name="virus_scan_app_scanning">A verificar…</string>
   <string name="virus_scan_app_stop_scan">Parar a verificação</string>
   <string name="virus_scan_app_uninstall">Remover %d</string>
@@ -2706,10 +2706,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="virus_scanner_scanning">A verificar…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
   <string name="virus_scanner_select_OK">OK</string>
-  <string name="virus_scanner_select_lib">Seleccionar definições de virus</string>
+  <string name="virus_scanner_select_lib">Seleccionar definições de vírus</string>
   <string name="virus_scanner_select_multi">Seleccionar mais do que um conjunto de definições irá diminuir a velocidade da instalação e verificação</string>
   <string name="virus_scanner_select_single">Apenas utilizar definições de fontes seguras.</string>
-  <string name="virus_scanner_select_trust_lib">Seleccionar definições de virus</string>
+  <string name="virus_scanner_select_trust_lib">Seleccionar definições de vírus</string>
   <string name="virus_scanner_title">Antivírus</string>
   <string name="virus_scanner_update_lib">Actualizar definições</string>
   <string name="voice_category">Voz</string>
