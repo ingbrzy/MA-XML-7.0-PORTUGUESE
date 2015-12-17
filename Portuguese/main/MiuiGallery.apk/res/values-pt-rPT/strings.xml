@@ -169,7 +169,7 @@ com amigos"</string>
   <string name="cloudfolder_already_exists">Um álbum com o mesmo nome já existe</string>
   <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode iniciar com '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"O nome do álbum não pode conter '%s'"</string>
-  <string name="cloudfolder_fail_to_load_data">Não foi possível carregar dados. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="cloudfolder_fail_to_load_data">Não foi possível carregar dados. Aguarde alguns minutos e tente novamente.</string>
   <string name="cloudfolder_loading_data">Aguarde um seg…</string>
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
@@ -525,7 +525,7 @@ dispositivo"</string>
   <string name="operation_set_as_screensaver">Definir como protecção de ecrã</string>
   <string name="operation_share">Partilhar</string>
   <string name="operation_successful">Concluído</string>
-  <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde alguns minutos e tente novamente.</string>
   <string name="operation_unset_as_screensaver">Cancelar protecção de ecrã</string>
   <string name="orientation">Orientação</string>
   <string name="original">Original</string>

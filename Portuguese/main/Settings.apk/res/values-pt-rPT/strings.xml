@@ -990,10 +990,10 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
-  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde alguns minutos e tente novamente.</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de Localizar dispositivo</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
-  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar dispositivo. Aguarde alguns minutos e tente novamente.</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar Localizar dispositivo</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="filter">Filtro</string>
@@ -1048,7 +1048,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="free_wifi_connect_dialog_summary">%1$s é fornecido por %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponível</string>
   <string name="free_wifi_connect_fail">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente.</string>
-  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde alguns minutos e tente novamente.</string>
   <string name="free_wifi_connect_summary">Toque para ligar a %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponível</string>
   <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>
