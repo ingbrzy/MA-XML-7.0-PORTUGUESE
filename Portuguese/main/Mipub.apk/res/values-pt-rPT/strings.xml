@@ -141,7 +141,7 @@
   <string name="play">Reproduzir</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Definições adicionais</string>
-  <string name="pref_collapse_sp_messages_summary">As notificações agrupadas da sua operadora ficam organizadas por dias</string>
+  <string name="pref_collapse_sp_messages_summary">>As notificações agrupadas da sua operadora ficam organizadas por data desde a primeira mensagem recebida</string>
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_key_mx_feedback">Comentários</string>
@@ -159,7 +159,7 @@
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
   <string name="pref_summary_show_recent_contacts">Mostrar contactos recentes ao redigir uma mensagem nova</string>
   <string name="pref_system_title">Sistema</string>
-  <string name="pref_time_auto_group_summary">As mensagens agrupadas ficam organizadas por dias</string>
+  <string name="pref_time_auto_group_summary">As mensagens agrupadas ficam organizadas por data desde a primeira mensagem recebida</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio WAP</string>
   <string name="pref_title_card_format">Formato da partilha do cartão</string>
