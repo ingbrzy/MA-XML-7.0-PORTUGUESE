@@ -13,11 +13,11 @@
   <string name="auto_button_examine_immediately">Ver</string>
   <string name="auto_button_sure_cancel">Cancelar</string>
   <string name="auto_check_clause_button">Ver</string>
-  <string name="auto_dialog_msg">"Foi actualizada a nossa Política de Privacidade. Leia-a cuidadosamente antes de actualizar o seu sistema. "</string>
+  <string name="auto_dialog_msg">"A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema."</string>
   <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
-  <string name="auto_update">Transferir actualizações automaticamente</string>
-  <string name="auto_update_sum">Transferir automaticamente quando ligado ao Wi-Fi</string>
+  <string name="auto_update">Actualizações automáticas</string>
+  <string name="auto_update_sum">Transferir actualizações automaticamente quando o Wi-Fi estiver ligado</string>
   <string name="autosetmode">Definições</string>
   <string name="best_update">Melhor actualização</string>
   <string name="boot_recovery">Reiniciar em modo de restauro?</string>
@@ -34,7 +34,7 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização.</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
-  <string name="check_local_package_wipe_msg">Vai trocar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais irão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo.</string>
+  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais irão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo.</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
@@ -159,9 +159,9 @@
   <string name="set_installfail_msg">Transferir esta actualização através de sua ligação de dados móveis vai aumentar excessivamente o consumo de dados.</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
-  <string name="set_network_msg">Para transferir esta actualização, ligue à rede.</string>
+  <string name="set_network_msg">Para transferir esta actualização tem de ligar o acesso à rede</string>
   <string name="set_network_root_msg">Para obter acesso root, ligue a uma rede Wi-Fi.</string>
-  <string name="set_network_title">Ligar à rede</string>
+  <string name="set_network_title">Ligar acesso à rede</string>
   <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
   <string name="share">Partilhar</string>
   <string name="share_qq">Partilhar via Tencent weibo</string>
