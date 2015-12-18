@@ -85,12 +85,12 @@
   <string name="conn_of_function_safe">Ligação de rede para Segurança</string>
   <string name="connecting">A ligar…</string>
   <string name="deepclean_app_content">Desinstalar aplicações não usadas em 30 dias</string>
-  <string name="deepclean_app_summary_empty">Tudo parece bem, sem aplicações para eliminar​</string>
+  <string name="deepclean_app_summary_empty">Verificação concluída. Sem aplicações para eliminar​</string>
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
-  <string name="deepclean_cache_summary_empty">Tudo parece bem, sem dados para limpar</string>
+  <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
-  <string name="deepclean_large_summary_empty">Tudo parece bem, sem ficheiros para eliminar</string>    
+  <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>    
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
   <string name="deepclean_list_item_from_download">Transferências</string>
@@ -99,7 +99,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
-  <string name="deepclean_similar_summary_empty">Tudo parece bem, sem fotos para eliminar​</string>
+  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar​</string>
   <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
   <string name="deepclean_size_summary_more">Disponível espaço de armazenamento suficiente</string>
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
@@ -300,7 +300,7 @@
   <string name="summary_delete_large_file">"Alguns ficheiros grandes podem ser úteis quando não houver uma ligação à internet (ex.: mapas, eventos, etc). Certifique-se de que não precisa deste ficheiro."</string>
   <string name="summary_optimizer">Este recurso envia nomes da pasta para actualizar o banco de dados on line do Cheetah Mobile e requer identificação do seu dispositivo.</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
-  <string name="there_is_no">Tudo parece bem, volte mais tarde</string>
+  <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à internet para utilizar o conjunto completo de funcionalidades de Segurança</string>
