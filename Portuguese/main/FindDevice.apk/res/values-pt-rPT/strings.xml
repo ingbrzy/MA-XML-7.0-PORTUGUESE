@@ -4,6 +4,9 @@
   <string name="app_name">Localizar dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
+  <string name="default_lock_msg_words">Oi! Eu perdi o meu telefone. Eu irei conctatá-lo mais tarde. Obrigado por compreender!</string>
+  <string name="default_lock_msg_words_with_phone">Oi! Eu perdi o meu telefone. Por favor pode me contactar? Obrigado!</string>
+  <string name="device_lost">Este dispositivo está perdido</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
   <string name="enable_find_device_error">Não foi possível ligar Localizar dispositivo. %1$s</string>
@@ -22,6 +25,7 @@ Se trocar de cartões SIM, outra SMS irá ser enviada automaticamente para react
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
   <string name="i_know">OK</string>
+  <string name="lock_msg_phone">Informação de contacto: %s</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
   <string name="password">Palavra-Passe</string>
   <string name="phone_locked">Este dispositivo pode estar associado com a sua Conta Mi (%s) existente. Inicie sessão para activar este dispositivo.</string>
