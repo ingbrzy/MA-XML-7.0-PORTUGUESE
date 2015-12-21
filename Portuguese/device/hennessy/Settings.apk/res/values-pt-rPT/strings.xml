@@ -1267,7 +1267,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="legal_workday">Dias Úteis</string>
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
   <string name="legal_workday_invalidate_message">Toque para actualizar informações de feriados.</string>
-  <string name="legal_workday_message">(Saltar feriados)</string>
+  <string name="legal_workday_message">(Ignorar feriados)</string>
   <string name="license_title">Licença</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
@@ -1343,7 +1343,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_secure_after_timeout_immediately_summary">Bloquear imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
   <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
-  <string name="lock_screen_unlock_show">Saltar o ecrã de bloqueio</string>
+  <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
   <string name="lock_settings">Bloqueio do ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
@@ -2298,9 +2298,9 @@ Tentativas restantes :"</string>
   <string name="sim_reenter_new">Insira novamente o PIN</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
-  <string name="skip_label">Saltar</string>
+  <string name="skip_label">Ignorar</string>
   <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas irão ser desligados no ecrã de bloqueio.</string>
-  <string name="skip_step">Saltar</string>
+  <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI:</string>
   <string name="small_font">Pequena</string>
   <string name="smallwindow_smartcover_title">Capa com frente transparente</string>
@@ -3081,7 +3081,7 @@ Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
   <string name="wifi_setup_not_connected">Não ligado</string>
   <string name="wifi_setup_refresh_list">Actualizar lista</string>
   <string name="wifi_setup_save">Guardar</string>
-  <string name="wifi_setup_skip">Saltar</string>
+  <string name="wifi_setup_skip">Ignorar</string>
   <string name="wifi_setup_status_connecting">A ligar…</string>
   <string name="wifi_setup_status_eap_not_supported">EAP não é suportado.</string>
   <string name="wifi_setup_status_edit_network">Definições do tipo de rede</string>

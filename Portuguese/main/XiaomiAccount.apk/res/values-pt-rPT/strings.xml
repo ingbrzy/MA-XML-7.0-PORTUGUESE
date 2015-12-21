@@ -240,10 +240,10 @@ Para activar a sua conta, siga o
   <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="passport_setting">A configurar…</string>
   <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
-  <string name="passport_skip_login">Saltar início de sessão</string>
-  <string name="passport_skip_register">Saltar inscrição</string>
+  <string name="passport_skip_login">Ignorar início de sessão</string>
+  <string name="passport_skip_register">Ignorar inscrição</string>
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições.</string>
-  <string name="passport_skip_setup_account_title">Saltar configuração</string>
+  <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Confiar neste dispositivo</string>
   <string name="passport_user_agreement">Contrato de Utilizador</string>
@@ -269,7 +269,7 @@ Para activar a sua conta, siga o
   <string name="phone_unactivated">Não activado</string>
   <string name="phone_unknown">Desconhecido</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis.</string>
-  <string name="provision_skip_login"><u>Saltar este passo</u></string>
+  <string name="provision_skip_login"><u>Ignorar este passo</u></string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">O que gostaria de fazer com as mensagens, contactos e outros dados que foram sincronizados a partir da sua Conta Mi?</string>
   <string name="remove_device_success_notice">Se remover este dispositivo dos seus dispositivos confiáveis, poderá precisar novamente de iniciar o processo de verificação quando iniciar sessão.​</string>
