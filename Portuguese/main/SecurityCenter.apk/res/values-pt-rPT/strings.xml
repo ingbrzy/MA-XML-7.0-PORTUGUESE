@@ -279,7 +279,7 @@
   <string name="permission_action_accept">Aceitar</string>
   <string name="permission_action_prompt">Notificar</string>
   <string name="permission_action_reject">Negar</string>
-  <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder à câmara e outros recursos do dispositivo.</string>
+  <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo as aplicações não vão pedir a sua permissão para ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder à câmara e outros recursos do dispositivo.</string>
   <string name="permission_close_permission_control_dialog_title">Desligar?</string>
   <string name="permission_group_title_others">Outros</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">As aplicações não vão pedir a sua permissão para ler os seus contactos, ver o registo de chamadas, alterar definições do sistema, ou aceder à câmara e outros recursos do dispositivo. Pode activar esta função em - Definições de Permissões.</string>
@@ -476,8 +476,8 @@
   <string name="risk_list_header_title">%d aplicações suspeitas detectadas</string>
   <string name="root_apply_step_1">Conceder o acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder o acesso root às aplicações pode causar instabilidade no dispositivo.</string>
-  <string name="root_apply_step_3">A segurança de seus dados de utilizador (contas, palavras passe e mensagens) podem ser comprometidos.</string>
-  <string name="root_apply_step_4">Conceder às aplicações o acesso root pelo seu próprio risco.</string>
+  <string name="root_apply_step_3">A segurança de seus dados de utilizador (contas, palavras-passe e mensagens) podem ficar comprometidas.</string>
+  <string name="root_apply_step_4">Ao conceder o acesso root às aplicações faça-o por sua conta própria e risco.</string>
   <string name="root_apply_step_5">Conceder o acesso root a %s?</string>
   <string name="root_apply_title">Aviso importante</string>
   <string name="scanning_bar_cache_title">A verificar lixo…</string>
