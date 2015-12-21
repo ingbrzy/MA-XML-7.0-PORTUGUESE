@@ -4,8 +4,8 @@
   <string name="app_name">Localizar dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
-  <string name="default_lock_msg_words">Oi! Eu perdi o meu telefone. Eu irei conctatá-lo mais tarde. Obrigado por compreender!</string>
-  <string name="default_lock_msg_words_with_phone">Oi! Eu perdi o meu telefone. Por favor pode me contactar? Obrigado!</string>
+  <string name="default_lock_msg_words">Olá! Eu perdi o meu telefone. Entro em contacto consigo mais tarde. Obrigado pela compreensão!</string>
+  <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor pode-me contactar? Obrigado!</string>
   <string name="device_lost">Este dispositivo está perdido</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
@@ -21,7 +21,7 @@
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear, ou restaurar o seu telefone.
-Se trocar de cartões SIM, outra SMS irá ser enviada automaticamente para reactivar esta funcionalidade."</string>
+Se trocar de cartões SIM outra SMS irá ser enviada automaticamente para reactivar esta funcionalidade."</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
   <string name="i_know">OK</string>
