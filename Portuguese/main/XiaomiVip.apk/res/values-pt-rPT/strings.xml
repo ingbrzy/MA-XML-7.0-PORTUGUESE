@@ -73,8 +73,8 @@
   <string name="miuishare_title_share">Partilhar</string>
   <string name="miuishare_wechat_timeline_title">Momentos Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="my_award">Meus prémios</string>
-  <string name="my_rank">Meu rank</string>
+  <string name="my_award">Os Meus prémios</string>
+  <string name="my_rank">A minha classificação</string>
   <string name="my_rank_not_ready">N/D</string>
   <string name="no_achievements">Vazio</string>
   <string name="no_app">Instale primeiro a aplicação</string>
@@ -116,5 +116,5 @@
   <string name="use">Usar</string>
   <string name="use_immediately">Utilizar agora</string>
   <string name="validity">Expira em %s</string>
-  <string name="validity_unknown">Expiração desconhecida</string>
+  <string name="validity_unknown">Validade desconhecida</string>
 </resources>
