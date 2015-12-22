@@ -96,7 +96,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_title_activating_msim">A activar cartão SIM %s…</string>
   <string name="app_name">Serviço Xiaomi framework</string>
   <string name="error_device_id_message">"ID de Dispositivo inválido: %s
-ID de Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispositivo algumas funcionalidades de conta e nuvem vão estar indisponíveis."</string>
+ID do Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispositivo algumas funcionalidades de conta e nuvem vão ficar indisponíveis."</string>
   <string name="error_device_id_title">Não é possível um ID de Dispositivo válido</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
   <string name="sync_notification_title_format">A sincronizar item: %1$s</string>
