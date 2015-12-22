@@ -269,9 +269,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
-  <string name="operator_setted_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
-  <string name="operator_setted_error_notify_message">Toque para alterar localização do SIM.</string>
-  <string name="operator_setted_error_notify_title">Erro cartão SIM</string>
   <string name="other_exception_summary">Não tem uma ligação à internet</string>
   <string name="other_exception_title">A verificar por outros problemas</string>
   <string name="package_change_notification_summary">Toque para saber mais.</string>
@@ -400,6 +397,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área.</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
+  <string name="sim_location_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
+  <string name="sim_location_error_notify_message">Toque para alterar localização do SIM.</string>
+  <string name="sim_location_error_notify_title">Erro cartão SIM</string>
   <string name="sim_state_exception_summary">O estado do cartão SIM indica que algo pode estar errado com o seu cartão SIM.</string>
   <string name="songs_number">18 músicas</string>
   <string name="songs_unit">" músicas"</string>
@@ -549,6 +549,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_setting_fragment_button1_text">Cancelar</string>
   <string name="traffic_setting_fragment_button2_text">Guardar</string>
   <string name="traffic_setting_fragment_get_template_falure">Não é possível ligar à rede. Verifique a ligação de dados e tente novamente.</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Não mostrar novamente</string>
   <string name="traffic_setting_fragment_loading_text">A obter informações de rede…</string>
   <string name="traffic_setting_fragment_no_network">Não é possível ligar à rede</string>
   <string name="traffic_setting_fragment_null">Vazio</string>
