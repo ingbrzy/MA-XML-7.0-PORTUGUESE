@@ -1812,9 +1812,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD os dados do utilizador serão guardados automaticamente no armazenamento interno do dispositivo.</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
-  <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições, e chamadas recebidas?</string>
+  <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
-  <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições, e chamadas recebidas</string>
+  <string name="privacy_mode_enable_sum">Ocultar mensagens, notas, fotos, definições e chamadas recebidas</string>
   <string name="privacy_mode_enable_title">Modo Convidado</string>
   <string name="privacy_mode_summary">Bloqueie aplicações individualmente ou oculte dados pessoais</string>
   <string name="privacy_mode_title">Definições de privacidade</string>
@@ -1824,10 +1824,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
   <string name="private_gallery_need_to_unlock">Palavra-passe exigida:</string>
   <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-  <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe, inicie sessão na sua conta MI</string>
+  <string name="private_gallery_reset_by_account">Para redefinir a palavra-passe inicie sessão na sua conta MI</string>
   <string name="private_sms_need_to_unlock">Palavra-passe exigida:</string>
   <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
-  <string name="private_sms_reset_by_account">Para redefinir a palavra-passe, inicie a sessão na sua conta MI</string>
+  <string name="private_sms_reset_by_account">Para redefinir a palavra-passe inicie a sessão na sua conta MI</string>
   <string name="process_kernel_label">Sistema Android</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="process_provider_in_use_description">Fornecedor %1$s está em utilização.</string>
