@@ -105,7 +105,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Cerca de 18,50 € por ano</string>
   <string name="header_cloud_backup_settings">Cópia e Restauro</string>
-  <string name="header_cloud_restore_summary">Reinstalar aplicações e restaurar disposição de Ecrã inicial e definições de sistema duma cópia na Nuvem Mi</string>
+  <string name="header_cloud_restore_summary">Reinstalar aplicações e restaurar disposição de Ecrã inicial e definições de sistema de uma cópia na Nuvem Mi</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="header_find_device_settings">Localizar dispositivo</string>
   <string name="i_know">OK</string>
@@ -119,9 +119,9 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="master_alert_notif_title">Última sincronização há %s dias atrás</string>
   <string name="micloud_all_sub_1_intl_sms">Uma SMS internacional irá ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
   <string name="micloud_all_sub_1_sms">Uma SMS nacional irá ser enviada para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
-  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto(nacional e internacional) irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
-  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
-  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais irão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
+  <string name="micloud_all_sub_1_sms_1_intl_sms">2 mensagens de texto(nacional e internacional) vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
+  <string name="micloud_all_sub_2_intl_sms">2 mensagens de texto internacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
+  <string name="micloud_all_sub_2_sms">2 mensagens de texto nacionais vão ser enviadas para activar o seu cartão SIM. Irá ser cobrado pela operadora.</string>
   <string name="micloud_all_sub_resend_sms">"Quando liga 'Localizar dispositivo', uma SMS de activação pode ser enviada após trocar de cartões SIM."</string>
   <string name="micloud_battery_low_notification_message">carregue e sincronize novamente</string>
   <string name="micloud_battery_low_notification_title">Sem energia suficiente</string>

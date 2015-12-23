@@ -46,7 +46,7 @@ Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de b
 
 Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
-"<li>Ajuste o nível do zoom: Belisque dois ou mais dedos juntos ou afastados.</li></li></ul>"
+"<li>Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
@@ -747,8 +747,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso, ligue o Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi.
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi."
 
 Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
@@ -878,7 +878,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="display_settings">Ecrã</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o cartão SD algumas aplicações que estiver a utilizar irão parar e poderão não estar disponíveis até que volte a montar o cartão SD​.​</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o cartão SD algumas aplicações que estiver a utilizar vão parar e poderão não estar disponíveis até que volte a montar o cartão SD​.​</string>
   <string name="dlg_confirm_unmount_title">Desmontar cartão SD?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde.</string>
   <string name="dlg_error_unmount_title" />
@@ -2039,7 +2039,7 @@ Não irá perder quaisquer dados das aplicações."</string>
   <string name="roaming_warning">Quando permite roaming de dados, poderá acarretar custos significativos!</string>
   <string name="roaming_warning_multiuser">"Quando permite dados em roaming, poderá acarretar custos significativos de roaming!
 
-Estas definições irão afectar todos os  utilizadores deste telefone."</string>
+Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Utilizador removido</string>
   <string name="running_process_item_user_label">Utilizador: %1$s</string>
@@ -2050,7 +2050,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidade não irão funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço algumas funcionalidades não vão funcionar correctamente até reiniciar o telefone.</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2299,7 +2299,7 @@ Tentativas restantes :"</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
   <string name="skip_label">Ignorar</string>
-  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas irão ser desligados no ecrã de bloqueio.</string>
+  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio.</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI:</string>
   <string name="small_font">Pequena</string>
@@ -2375,7 +2375,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_show_carrier">Mostrar o nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes irão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalhes do fluxo</string>
   <string name="status_bar_settings_show_home_message">Ícone da aplicação</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
@@ -2803,7 +2803,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="volume_notification_description">Notificações</string>
   <string name="volume_notification_mute">Silenciar notificações</string>
   <string name="volume_restore">Restaurar volumes</string>
-  <string name="volume_restore_alert">Todos os níveis de volume irão ser restaurados.</string>
+  <string name="volume_restore_alert">Todos os níveis de volume vão ser restaurados.</string>
   <string name="volume_ring_description">Toques e notificações</string>
   <string name="volume_ring_mute">Silenciar toques e notificações</string>
   <string name="volume_system_description">Disparo da câmara, ecrã de bloqueio e outras notificações de sistema</string>

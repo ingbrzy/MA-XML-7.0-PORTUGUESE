@@ -31,7 +31,7 @@
   <string name="full_screen_enter">Entrar no modo ecrã inteiro</string>
   <string name="full_screen_exit">Sair do modo ecrã inteiro</string>
   <string name="hide_mode">Gerir utilização da bateria pelas aplicações</string>
-  <string name="hide_mode_desc">"Quando uma aplicação corre em segundo plano, as suas actividades irão ser monitorizadas para reduzir a utilização de bateria. Ligação à rede, serviços de localização, Rádio, etc. podem ser afectadas por esta funcionalidade. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação particular se comportar de forma anormal enquanto corre em segundo plano, pode personalizar as definições da aplicação."</string>
+  <string name="hide_mode_desc">"Quando uma aplicação corre em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Ligação à rede, serviços de localização, Rádio, etc. podem ser afectadas por esta funcionalidade. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação particular se comportar de forma anormal enquanto corre em segundo plano, pode personalizar as definições da aplicação."</string>
   <string name="hide_mode_desc_title">Gerir utilização da bateria pelas aplicações</string>
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde um seg…</string>
@@ -90,7 +90,7 @@
   <string name="power_config_location_summary">Permitir que a aplicação veja a localização do seu dispositivo</string>
   <string name="power_config_location_title">Acesso à localização</string>
   <string name="power_config_mode_title">Modos de economia de energia</string>
-  <string name="power_config_normal_description">Acesso aos serviços de localização e rede em segundo plano irão ser restritos</string>
+  <string name="power_config_normal_description">Acesso aos serviços de localização e rede em segundo plano vão ser restritos</string>
   <string name="power_config_normal_title">Standard</string>
   <string name="power_config_phone_charging_title">A carregar</string>
   <string name="power_config_phone_idle_title">Standby</string>

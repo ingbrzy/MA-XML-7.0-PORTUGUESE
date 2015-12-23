@@ -31,7 +31,7 @@
 	"miuishare_app_name": "Partilha Miui",
 	"miuishare_no_network": "Não é possível ligar à rede.",
 	"miuishare_share_done": "Partilhado com sucesso",
-	"online_list_delete_message": "Todas as músicas transferidas nesta lista de reprodução irão ser eliminadas do dispositivo.",
+	"online_list_delete_message": "Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do dispositivo.",
 	"song_offline": "Esta música não está mais disponível.",
 	"stream_normal": "Reproduzir na qualidade standard",
 	"toast_cancel_download": "Transferência cancelada",

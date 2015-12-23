@@ -118,9 +118,9 @@
   <string name="by_others">Outros</string>
   <string name="by_sms">Mensagem de texto</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Fotos organizadas de %1$s até agora. As restantes fotos irão ser organizadas gradualmente. Para acelerar este processo, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Fotos organizadas de %1$s até agora. As restantes fotos irão ser organizadas gradualmente.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Fotos organizadas de %1$s até agora. As restantes fotos irão ser organizadas em breve.</string>
+  <string name="calculated_pictures_time_tip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas gradualmente. Para acelerar este processo, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas gradualmente.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas em breve.</string>
   <string name="camera_black_white">Preto e Branco</string>
   <string name="camera_connected">Câmara ligada</string>
   <string name="camera_disconnected">Câmara desligada</string>
@@ -142,7 +142,7 @@
   <string name="choose_cloud_album">Escolher álbum</string>
   <string name="cleaning_cache">A limpar cache…</string>
   <string name="clear_thumbnail_cache">Limpar miniaturas em cache</string>
-  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas em cache na Galeria irão ser limpas.</string>
+  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas em cache na Galeria vão ser limpas.</string>
   <string name="clear_thumbnail_cache_summary">Limpar cache de miniaturas na Galeria</string>
   <string name="click_to_add_picture">Toque para adicionar imagens</string>
   <string name="click_top_right">Toque neste ícone</string>
@@ -369,7 +369,7 @@ com amigos"</string>
   <string name="Import">Importar</string>
   <string name="import_complete">Importar concluído</string>
   <string name="import_fail">Importação falhou</string>
-  <string name="impunity_declaration">"Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam duma ligação à internet para funcionar normalmente."</string>
+  <string name="impunity_declaration">"Ao utilizar este serviço, está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam de uma ligação à internet para funcionar normalmente."</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Notificação de ligação à internet</string>
@@ -660,8 +660,8 @@ dispositivo"</string>
   <string name="set_lock_or_wallpaper">Definir como papel de parede</string>
   <string name="set_lockscreen">A definir como papel de parede…</string>
   <string name="set_recent_album">Marcar como favorito</string>
-  <string name="set_screensaver_path_message">As fotos neste álbum irão ser mostradas na protecção de ecrã.</string>
-  <string name="set_screensaver_path_message_if_only_charging">As fotos neste álbum irão ser mostradas na protecção de ecrã quando o telefone estiver a carregar.</string>
+  <string name="set_screensaver_path_message">As fotos neste álbum vão ser mostradas na protecção de ecrã.</string>
+  <string name="set_screensaver_path_message_if_only_charging">As fotos neste álbum vão ser mostradas na protecção de ecrã quando o telefone estiver a carregar.</string>
   <string name="set_screensaver_path_title">Apresentação de protecção do ecrã</string>
   <string name="set_wallpaper">A definir papel de parede…</string>
   <string name="settings">Definições</string>

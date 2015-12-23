@@ -110,7 +110,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="firewall_network_restrict_notify_message">Toque para alterar definições.</string>  
   <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
   <string name="firewall_network_restrict_notify_title">%1$s não pode utilizar %2$s</string>
-  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente, algumas aplicações de sistema irão continuar a ligar à internet. Estas aplicações irão utilizar a ligação de dados móveis e podem gerar taxas pequenas da sua operadora.</string>
+  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona correctamente algumas aplicações de sistema vão continuar a ligar-se à internet. Estas aplicações vão utilizar a ligação de dados móveis e podem gerar taxas adicionais cobradas pela sua operadora.</string>
   <string name="firewall_restrict_android_dialog_title">Atenção</string>
   <string name="firewall_rule_group_title_mobile">Móvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
@@ -400,7 +400,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sim_location_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
   <string name="sim_location_error_notify_message">Toque para alterar localização do SIM.</string>
   <string name="sim_location_error_notify_title">Erro cartão SIM</string>
-  <string name="sim_state_exception_summary">O estado do cartão SIM indica que algo pode estar errado com o seu cartão SIM.</string>
+  <string name="sim_state_exception_summary">O estado do cartão SIM indica que pode existir algum problema com o seu cartão SIM.</string>
   <string name="songs_number">18 músicas</string>
   <string name="songs_unit">" músicas"</string>
   <string name="sorted_button">Ordenar por</string>

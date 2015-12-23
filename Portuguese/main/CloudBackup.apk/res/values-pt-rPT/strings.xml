@@ -31,12 +31,12 @@
   <string name="cloud_app_restore_success">Aplicações restauradas</string>
   <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Estes itens irão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
+  <string name="cloud_back_up_detail_discription">"Estes itens vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
 *\u0009\u0009\u0009\u0009Aplicações, disposição do Ecrã Inicial e papeis de parede 
 *\u0009\u0009\u0009\u0009Alarmes e definições de horas 
 *\u0009\u0009\u0009\u0009Definições de notificações 
 *\u0009\u0009\u0009\u0009Definições MIUI e de sistema 
-Nota: Dados das aplicações que instalou não irão ser copiados para a Nuvem Mi."</string>
+Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi."</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todo os dias</string>
@@ -60,7 +60,7 @@ Nota: Dados das aplicações que instalou não irão ser copiados para a Nuvem M
   <string name="cloud_restore_task">A restaurar…</string>
   <string name="cloud_task_in_process">Parar %s e eliminar esta cópia de segurança? Não é possivel reverter esta acção.</string>
   <string name="confirm_restore">Restaurar</string>
-  <string name="confirm_restore_summary">Ecrã inicial vai reiniciar e as aplicações irão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
+  <string name="confirm_restore_summary">Ecrã inicial vai reiniciar e as aplicações vão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization">
     <u>Personalizar</u>
@@ -92,7 +92,7 @@ Nota: Dados das aplicações que instalou não irão ser copiados para a Nuvem M
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
   <string name="query_restore_back_view">Cópias Nuvem Mi</string>
-  <string name="query_restore_description">Restaurar aplicações do Ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia irão ser movidas para o último Ecrã inicial.</string>
+  <string name="query_restore_description">Restaurar aplicações do Ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último Ecrã inicial.</string>
   <string name="query_restore_summary">Encontrou uma cópia Nuvem Mi para este dispositivo. Restaurar aplicações do Ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias Nuvem Mi anteriores?</string>
   <string name="recover_from_micloud">Restaurar da Nuvem Mi</string>
   <string name="recover_home_settings">Restaurar definições do ecrã de início</string>
@@ -101,7 +101,7 @@ Nota: Dados das aplicações que instalou não irão ser copiados para a Nuvem M
   <string name="recovering">A restaurar %s</string>
   <string name="remove_task_in_process">A eliminar…</string>
   <string name="remove_task_unfinished">Remoção não terminada</string>
-  <string name="restore_data_summary">Esta funcionalidade necessita duma ligação à internet.</string>
+  <string name="restore_data_summary">Esta funcionalidade necessita de uma ligação à internet.</string>
   <string name="restore_from_cloud">Restaurar da Nuvem Mi</string>
   <string name="restore_from_this_device">Restaurar utilizando esta cópia</string>
   <string name="restore_home_screen_apps">Restaurar das cópias Nuvem Mi</string>
