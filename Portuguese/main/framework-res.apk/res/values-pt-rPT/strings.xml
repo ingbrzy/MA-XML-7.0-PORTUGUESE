@@ -879,7 +879,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_control_keyguard">Permite que uma aplicação controle a protecção do teclado</string>
   <string name="permdesc_controlWifiDisplay">Permite à aplicação controlar os recursos de baixo nível de exibição do Wi-Fi.</string>
   <string name="permdesc_copyProtectedData">Permite que a aplicação invoque o serviço de contentor predefinido para copiar conteúdo. Não se destina a ser utilizado por aplicações normais.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet, pelo que esta autorização não é necessária para enviar dados para a Internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet. Esta autorização não é necessária para enviar dados para a internet.</string>
   <string name="permdesc_deleteCacheFiles">Permite à aplicação eliminar ficheiros do histórico de dados.</string>
   <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar isto para eliminar aplicações importantes.</string>
   <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telemóvel.</string>
@@ -908,14 +908,14 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_installPackages">Permite que a aplicação instale novos pacotes ou actualizados do Android. As aplicações maliciosas podem utilizar isto para adicionar novas aplicações com autorizações arbitrariamente fortes.</string>
   <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções em diferentes usuários no dispositivo. As aplicações maliciosas podem utilizar isso para violar a protecção entre os usuários.</string>
   <string name="permdesc_interactAcrossUsersFull">Permite todas as interacções possíveis em todos os utilizadores.</string>
-  <string name="permdesc_internalSystemWindow">Permite que a aplicação crie janelas que se destinam a ser utilizadas ​​pela interface de utilizador do sistema interno. Nunca é necessário para aplicações normais.</string>
+  <string name="permdesc_internalSystemWindow">Permite que a aplicação crie janelas que se destinam a ser utilizadas ​​pela interface de utilizador do sistema interno. Nunca será necessário para aplicações normais.</string>
   <string name="permdesc_invokeCarrierSetup">Permite ao titular invocar a aplicação de configuração fornecida pelo transportador. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_killBackgroundProcesses">Permite que a aplicação termine processos em segundo plano de outras aplicações. Isto pode fazer com que outras aplicações deixem de funcionar.</string>
   <string name="permdesc_locationUpdates">Permite que a aplicação active/desactive as notificações de actualização de localização do rádio. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_magnify_display">Permite à aplicação ampliar o conteúdo de um ecrã. As aplicações maliciosas podem transformar o conteúdo do ecrã de uma forma que torna o aparelho inutilizável.</string>
   <string name="permdesc_manageAccounts">Permite que a aplicação execute operações, como adicionar e remover contas e eliminar a respectiva palavra-passe.</string>
   <string name="permdesc_manageActivityStacks">Permite à aplicação adicionar, remover e modificar uma grande quantidade de actividades em outras aplicações executadas. As aplicações maliciosas podem perturbar o comportamento de outras aplicações.</string>
-  <string name="permdesc_manageAppTokens">Permite que a aplicação crie e faça a gestão dos seus próprios tokens, ignorando a ordenação normal dos mesmos pelo eixo dos Z. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_manageAppTokens">Permite que a aplicação crie e faça a gestão dos seus próprios tokens, ignorando a ordenação normal dos mesmos pelo eixo dos Z. Nunca será necessário para aplicações normais.</string>
   <string name="permdesc_manageCaCertificates">Permite à aplicação instalar e desinstalar certificados CA como credenciais confiáveis.</string>
   <string name="permdesc_manageDeviceAdmins">Permite ao proprietário adicionar ou remover administradores do dispositivo activos. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_manageDocs">Permite à aplicação gerir o armazenamentos de documentos.</string>
