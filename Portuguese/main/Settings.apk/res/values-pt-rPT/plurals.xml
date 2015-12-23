@@ -57,11 +57,11 @@
         <item quantity="one">Está a %1$d passos de entrar nas informações do telefone</item>
      </plurals>
      <plurals name="show_rep_countdown">
-        <item quantity="other">Está a %1$d passos de enviar relatório de erros.</item>
-        <item quantity="one">Está a %1$d passo de enviar relatório de erros.</item>
+        <item quantity="other">Está a %1$d passos de enviar relatório de erros</item>
+        <item quantity="one">Está a %1$d passo de enviar relatório de erros</item>
      </plurals>
      <plurals name="wrong_pin_code">
-        <item quantity="other">Código PIN do cartão SIM está errado, tem %d tentativas restantes.</item>
-        <item quantity="one">Código PIN do cartão SIM está errado, tem %d tentativa restante deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
+        <item quantity="other">Código PIN do cartão SIM está errado tem %d tentativas restantes.</item>
+        <item quantity="one">Código PIN do cartão SIM está errado tem %d tentativa restante. Deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
      </plurals>
 </resources>
