@@ -109,6 +109,7 @@
   <string name="not_open">Agora não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automaticamente</string>
   <string name="notification_downloading">A transferir actualização…</string>
+  <string name="notification_fail_msg">Tente transferir a ROM inteira</string>
   <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo.</string>
   <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo.</string>
   <string name="notification_load_title_alpha">Inicie sessão na sua conta Mi</string>
@@ -119,6 +120,7 @@
   <string name="notification_reboot_summary_hm">Tocar para reiniciar o dispositivo.</string>
   <string name="notification_reboot_title">Reiniciar para aplicar a actualização</string>
   <string name="notification_reboot_title_hm">Reiniciar para aplicar a actualização</string>
+  <string name="notification_restart">Actualizar novamente</string>
   <string name="notification_share">Partilhar</string>
   <string name="notification_update_new_version">Actualização disponível</string>
   <string name="notification_update_now">Actualizar agora</string>

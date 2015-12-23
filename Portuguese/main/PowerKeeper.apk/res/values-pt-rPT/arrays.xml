@@ -44,4 +44,30 @@
         <item>Depois de 30 min</item>
         <item>Quando o ecrã está desligado</item>
     </string-array>
+	<string-array name="power_checker_group_prefix">
+         <item>a utilizar</item>
+         <item></item>
+         <item></item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+         <item>Kernel WakeLock</item>
+         <item>WakeLock</item>
+         <item>WIFI scan</item>
+         <item>GPS</item>
+         <item>CPU</item>
+         <item>Wake Up</item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+         <item>Kernel WakeLock</item>
+         <item>WakeLock</item>
+         <item>WIFI scan</item>
+         <item>GPS</item>
+         <item>CPU</item>
+         <item>Wake Up</item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+         <item></item>
+         <item>demasiado neste momento</item>
+         <item>demasiado neste dia</item>
+     </string-array>
 </resources>

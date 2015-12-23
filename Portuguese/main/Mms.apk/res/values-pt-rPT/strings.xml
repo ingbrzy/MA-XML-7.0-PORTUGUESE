@@ -54,6 +54,7 @@
   <string name="cannot_resend_audio">Não foi possível enviar a gravação</string>
   <string name="cannot_send_message">É impossível enviar a mensagem</string>
   <string name="cannot_send_message_reason">A sua mensagem não tem destinatários válidos.</string>
+  <string name="card_insert_to_contact">Importar contacto</string>
   <string name="change_duration_activity">Alterar duração</string>
   <string name="check_all">Seleccionar todas</string>
   <string name="chenghu_disable_mms">Não pode utilizar apelidos nas MMS</string>
@@ -179,6 +180,7 @@
   <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>  
   <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Nuvem Mi, inicie sessão na sua Conta Mi e ligue a sincronização de SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Nuvem Mi nas Definições de Mensagens.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Sincronização ainda não começou</string>
   <string name="found_wild_messages_title">Sincronizar mensagens da Nuvem Mi</string>
   <string name="from_label">"De: "</string>
   <string name="group_message">Mensagem de grupo</string>
@@ -617,6 +619,8 @@ Tentativas efectuadas: %s."</string>
   <string name="voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviado em %ds</string>
+  <string name="wild_msg_processing">A processar…</string>
+  <string name="wild_msg_title">Activar sincronização da nuvem</string>
   <string name="xiaomi_service_number">Número de serviço</string>
   <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens SMS da MIUI</string>
   <string name="yes">OK</string>

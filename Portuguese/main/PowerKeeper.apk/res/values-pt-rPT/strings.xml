@@ -61,6 +61,11 @@
   <string name="normal">Modo Predefinido</string>
   <string name="operation_create_group">Nome</string>
   <string name="operation_create_group_message">Introduza um novo nome de grupo</string>
+  <string name="power_checker_recent_btn_title">A definir energia</string>
+  <string name="power_checker_recent_group_title">Recentemente</string>
+  <string name="power_checker_running_btn_title">Matar processo</string>
+  <string name="power_checker_running_group_title">A correr</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_chooser_user_define_title">Novo modo</string>
   <string name="power_config_alarm_sync_summary">Permitir acordar aplicação alarme em segundo plano</string>
   <string name="power_config_alarm_sync_title">Acordar alarme</string>

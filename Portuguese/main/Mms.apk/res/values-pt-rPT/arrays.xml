@@ -76,6 +76,10 @@
         <item>SMS</item>
         <item>Mensagem Mi</item>
      </string-array>
+	 <string-array name="wild_msg_sync_options">
+         <item>Sincronizar todas as mensagens</item>
+         <item>Sincronizar mensagens dos cartões SIM seleccionados</item>
+     </string-array>
      <string-array name="select_dialog_items">
         <item>1 segundo</item>
         <item>2 segundos</item>
