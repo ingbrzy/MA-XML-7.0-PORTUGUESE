@@ -45,8 +45,8 @@
         <item quantity="one">%1$s impressora encontrada</item>
      </plurals>
      <plurals name="show_cit_countdown">
-        <item quantity="other">Está a %1$d passos de entrar em teste de hardware</item>
-        <item quantity="one">Está a %1$d passo de entrar em teste de hardware</item>
+        <item quantity="other">Está a %1$d passos de entrar em modo de teste do hardware</item>
+        <item quantity="one">Está a %1$d passo de entrar em modo de teste do hardware</item>
      </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="other">Está agora %1$d passos de ser um programador</item>
