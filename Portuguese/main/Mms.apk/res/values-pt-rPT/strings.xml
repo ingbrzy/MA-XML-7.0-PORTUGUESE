@@ -289,7 +289,7 @@
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">O número de telefone introduzido é inválido</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Não foi possível activar Mensagens Mi</string>
   <string name="mx_and_voip_enable">Mensagens e Voz Mi</string>
-  <string name="mx_and_voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="mx_and_voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI gratuitamente. VoIP é suportado pelo Weihui. Ver Política de Privacidade de Weihui."</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
   <string name="mx_auto_resend_mms_summary">Enviar como MMS quando ligado à rede de dados e quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
@@ -302,9 +302,9 @@
   <string name="mx_btn_enable_now">Activar</string>
   <string name="mx_count_dspt">Enviou %1$d SMS e %2$d MMS</string>
   <string name="mx_current_status">Definições de utilização de dados</string>
-  <string name="mx_dspt">Enviar mensagens para outros utilizadores MIUI de graça</string>
+  <string name="mx_dspt">Enviar mensagens para outros utilizadores MIUI gratuitamente</string>
   <string name="mx_dspt_provision">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI. Será cobrado um SMS de activação do serviço.</string>
-  <string name="mx_dspt_provision_ex">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="mx_dspt_provision_ex">"Envie mensagens e faça chamadas para outros utilizadores MIUI gratuitamente. VoIP é suportado pelo Weihui. Ver Política de Privacidade de Weihui."</string>
   <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
   <string name="mx_enable">Mensagens Mi</string>
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
@@ -613,7 +613,7 @@ Tentativas efectuadas: %s."</string>
   <string name="view_hms_details">Detalhes</string>
   <string name="view_message_details">Ver detalhes</string>
   <string name="voip_enable">Mensagens e Voz Mi</string>
-  <string name="voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI de graça. VoIP é suportado pelo Weihui. Ver Politica de Privacidade de Weihui."</string>
+  <string name="voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI gratuitamente. VoIP é suportado pelo Weihui. Ver Política de Privacidade de Weihui."</string>
   <string name="voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Enviado em %ds</string>

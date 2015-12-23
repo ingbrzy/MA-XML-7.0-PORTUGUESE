@@ -376,7 +376,7 @@
     "atmd_music": "Final",        
     "online_music_enabled_subtitle": "Toque para fazer streaming das suas músicas favoritas.",
     "online_music_enabled_summary": "Ouvir e transferir as suas músicas favoritas. Consulte as músicas top e listas de reprodução a partir de qualquer lugar!",
-    "online_music_enabled_title": "Streaming de graça é aqui",
+    "online_music_enabled_title": "Streaming gratuito é aqui",
 	"account_and_cloud": "Conta",
 	"action_item_add_song": "Adicionar à lista de reprodução",
 	"action_item_cancel": "Cancelar",
