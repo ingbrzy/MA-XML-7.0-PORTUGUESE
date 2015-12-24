@@ -258,7 +258,7 @@
   <string name="pref_video_speed_entry_fast">Rápido</string>
   <string name="pref_video_speed_entry_normal">Médio (padrão)</string>
   <string name="pref_video_speed_entry_slow">Lento</string>
-  <string name="pref_video_speed_fast_title">Intervalo de tempo</string>
+  <string name="pref_video_speed_fast_title">Time Lapse</string>
   <string name="pref_video_speed_slow_title">Câmara lenta</string>
   <string name="pref_video_speed_title">Velocidade de captura de vídeo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Intervalo de 0.3 segundos (10 vezes)</string>
@@ -274,7 +274,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_60">Intervalo de 2 segundos(60 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Intervalo de 3 segundos(90 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalo de 30 segundos(900 vezes)</string>
-  <string name="pref_video_time_lapse_frame_interval_title">Intervalo de tempo decorrido</string>
+  <string name="pref_video_time_lapse_frame_interval_title">Intervalo de Time Lapse</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
   <string name="record_back_pressed_hint">Toque novamente para parar de gravar</string>
   <string name="see_qrcode_detals">Ver detalhes</string>
@@ -293,7 +293,7 @@
   <string name="simple_mode_button_text_manual">Desligar Manual</string>
   <string name="simple_mode_button_text_panorama">Desligar panorama</string>
   <string name="simple_mode_button_text_scene">Desligar modo de Cena</string>
-  <string name="simple_mode_button_text_slow_video">Desligar intervalo de tempo</string>
+  <string name="simple_mode_button_text_slow_video">Desligar Time Lapse</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar Inclinação-Deslocamento</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
   <string name="snapshot_lower_than_video">Resolução de vídeo instantâneo é mais pequena do que o tamanho do vídeo. A nivelar para o tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
@@ -302,7 +302,7 @@
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Toque para ajustar exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
-  <string name="time_lapse_error">Não é possível utilizar este tamanho de vídeo para gravação de intervalo de tempo</string>
+  <string name="time_lapse_error">Não é possível utilizar este tamanho de vídeo para gravação de Time Lapse</string>
   <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo contínuo</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Não é possível disparar enquanto a captura de áudio está ligada</string>
