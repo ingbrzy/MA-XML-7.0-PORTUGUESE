@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
-  <string name="accessibility_audio_shutter_bg">Som de fundo do disparo</string>
+  <string name="accessibility_audio_shutter_bg">Som do disparo</string>
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_countdown">Botão contagem decrescente</string>
   <string name="accessibility_hdr">Botão trocar HDR</string>
@@ -10,7 +10,7 @@
   <string name="accessibility_review_thumbnail">Foto mais recente</string>
   <string name="accessibility_setting_button">Botão de definições adicionais</string>
   <string name="accessibility_shutter_button">Botão de disparo</string>
-  <string name="audio_focus_exit_button_text">Desligar áudio focagem </string>
+  <string name="audio_focus_exit_button_text">Desligar áudio na focagem </string>
   <string name="burst_shoot_exit_button_text">Desligar disparo contínuo</string>
   <string name="camera_disabled">A câmara foi desactivada</string>
   <string name="camera_error_title">Erro da câmara</string>
@@ -20,9 +20,9 @@
   <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
   <string name="cannot_connect_camera_once">Não é possível ligar à câmara</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo.</string>
-  <string name="cannot_move_warning_message">A tirar fotografia, mantenha o dispositivo quieto</string>
+  <string name="cannot_move_warning_message">Ao tirar a fotografia mantenha o dispositivo quieto</string>
   <string name="confirm_location_alert">Lembrar localização das fotos</string>
-  <string name="confirm_location_message">Etiquetar a suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas.</string>
+  <string name="confirm_location_message">Etiquetar as suas fotos e vídeos com as localizações de onde foram tiradas. Outras aplicações podem aceder a esta informação assim como às imagens guardadas.</string>
   <string name="confirm_location_title">Lembrar localização das fotos?</string>
   <string name="confirm_recording_fail_calling_alert">Não é possível gravar durante uma chamada.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Outra aplicação poderá já estar a usar o microfone para gravar.</string>
@@ -32,7 +32,7 @@
   <string name="dialog_ok">OK</string>
   <string name="effect_setting_top_text">Filtros</string>
   <string name="empty">" "</string>
-  <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a captura de áudio</string>
+  <string name="error_fail_to_start_audio_capture">Não foi possível iniciar a gravação de áudio</string>
   <string name="face_analyze_info">Idade: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Feminino</string>
   <string name="face_analyze_info_male">Masculino</string>
@@ -55,7 +55,7 @@
   <string name="find_other_qrcode">Código QR encontrado</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
-  <string name="object_track_enable_toast">Toque em ambas as extremidades do objecto com dois dedos para o observar.</string>
+  <string name="object_track_enable_toast">Toque em ambas as extremidades do objecto com dois dedos para o observar</string>
   <string name="pano_dialog_panorama_failed">Não foi possível guardar panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">A aguardar que o panorama anterior termine</string>
@@ -67,7 +67,7 @@
   <string name="pref_audio_focus_entry_front">Frente</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Trás</string>
-  <string name="pref_audio_focus_title">Focagem Áudio</string> 
+  <string name="pref_audio_focus_title">Áudio da focagem</string> 
   <string name="pref_burst_shoot_title">Disparo contínuo</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Definições da câmara</string>
@@ -77,7 +77,7 @@
   <string name="pref_camera_asd_night_title">Melhorar imagens com pouca luz automaticamente</string>
   <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Áudio</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto-Capturar quando estável</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto capturar quando estável</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
@@ -149,7 +149,7 @@
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_peak_entry_off">Desligado</string>
   <string name="pref_camera_peak_entry_on">Ligado</string>
-  <string name="pref_camera_peak_title">Desfocagem da Lente</string>
+  <string name="pref_camera_peak_title">Desfocagem da lente</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
   <string name="pref_camera_picturesize_entry_1024x768">0.8M(1024x768)</string>
@@ -198,17 +198,17 @@
   <string name="pref_camera_settings_category">Definições da câmara</string>
   <string name="pref_camera_settings_title">Definições</string>
   <string name="pref_camera_sharpness_title">Nitidez</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando Embelezar está ligado</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Mostrar idade quando embelezar está ligado</string>
   <string name="pref_camera_show_gender_age_entry_off">Desligado</string>
-  <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e género quando Embelezar está ligado</string>
+  <string name="pref_camera_show_gender_age_entry_on">Mostrar idade e género quando embelezar está ligado</string>
   <string name="pref_camera_show_gender_age_title">Idade e género</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Aperfeiçoamento automático</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Desactivado</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activado</string>
   <string name="pref_camera_snap_enable_title">Modo disparo rápido</string>
   <string name="pref_camera_snap_entry_off">Desligado</string>
-  <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado, prima e segure o botão de Volume menos para iniciar a gravação de vídeo. Solte-o para parar.</string>
-  <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado, prima e segure o botão de Volume menos para iniciar o disparo rápido de fotos. Solte-o para parar.</string>
+  <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar a gravação de vídeo. Solte-o para parar.</string>
+  <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar o disparo rápido de fotos. Solte-o para parar.</string>
   <string name="pref_camera_snap_value_off">Desligado</string>
   <string name="pref_camera_snap_value_take_movie">Filme</string>
   <string name="pref_camera_snap_value_take_picture">Imagem</string>
@@ -281,10 +281,10 @@
   <string name="setting_top_text">Modos da câmara</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
   <string name="simple_mode_button_asd_hdr">Desligar HDR</string>
-  <string name="simple_mode_button_text_audio_capture">Desligar disparo de voz</string>
+  <string name="simple_mode_button_text_audio_capture">Desligar áudio na captura de imagem</string>
   <string name="simple_mode_button_text_color_effect">Desligar filtros</string>
   <string name="simple_mode_button_text_delay_capture">Desligar temporizador</string>
-  <string name="simple_mode_button_text_face_beauty">Desligar Embelezar</string>
+  <string name="simple_mode_button_text_face_beauty">Desligar embelezar</string>
   <string name="simple_mode_button_text_fast_video">Desligar câmara lenta</string>
   <string name="simple_mode_button_text_fisheye">Desligar Olho-De-Peixe</string>
   <string name="simple_mode_button_text_gradienter">Desligar Inclinação</string>
@@ -296,19 +296,19 @@
   <string name="simple_mode_button_text_slow_video">Desligar time lapse</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar Inclinação-Deslocamento</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
-  <string name="snapshot_lower_than_video">Resolução de vídeo instantâneo é mais pequena do que o tamanho do vídeo. A nivelar para o tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
+  <string name="snapshot_lower_than_video">Resolução de vídeo instantâneo é mais pequeno do que o tamanho do vídeo. A nivelar para o tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
   <string name="snapshotsize_low_powermode">Resolução de imagem não é suportada pelas definições actuais de gestão de energia. Será utilizado o tamanho de vídeo instantâneo.</string>
-  <string name="spaceIsLow_content">O armazenamento USB está a ficar sem espaço</string>
+  <string name="spaceIsLow_content">cartão SD está a ficar sem espaço</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Toque para ajustar exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
-  <string name="time_lapse_error">Não é possível utilizar este tamanho de vídeo para gravação de time lapse</string>
+  <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de time lapse</string>
   <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo contínuo</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Não é possível disparar enquanto a captura de áudio está ligada</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está activo</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
-  <string name="ubifocus_capture_warning_message">Para melhores resultados, a sua imagem deve conter objectos próximos (inferior a um metro a partir da lente) e distantes</string>
-  <string name="video_reach_size_limit">Atingiu o limite do tamanho.</string>
+  <string name="ubifocus_capture_warning_message">Para melhores resultados a imagem deve conter objectos próximos (inferior a um metro a partir da lente) e distantes</string>
+  <string name="video_reach_size_limit">Atingiu o limite do tamanho</string>
   <string name="wait">Aguarde um seg…</string>
 </resources>
