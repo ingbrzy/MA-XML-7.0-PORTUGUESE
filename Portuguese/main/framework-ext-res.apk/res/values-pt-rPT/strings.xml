@@ -20,13 +20,13 @@
   <string name="enable_livetalk_title">Turn on Top-up package</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analizar? Este relatório poderá conter informações pessoais. O seu relatório será utilizado para ajudar a corrigir este erro e nunca será partilhado em qualquer contexto comercial.</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
-  <string name="first_back_long_press_message">"Prima e segure o botão Voltar para terminar o processo actual e os seus serviços em segundo plano.
+  <string name="first_back_long_press_message">"Prima e segure o botão voltar para terminar o processo actual e os seus serviços em segundo plano.
 
 Para ligar esta funcionalidade, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
   <string name="force_exit_message">Forçar encerrar %1$s</string>
   <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Pode voltar ao seu Ecrã inicial ao premir o botão Início. Mas pode escolher fazê-lo com apenas um toque. Personalize o seu botão Início em Definições &gt; Definições adicionais &gt; Botões.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Pode voltar ao seu ecrã inicial ao premir o botão Início. Mas pode escolher fazê-lo com apenas um toque. Personalize o seu botão Início em Definições &gt; Definições adicionais &gt; Botões.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Não obrigado</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Personalizar botão Início</string>
@@ -68,14 +68,14 @@ Para ligar esta funcionalidade, ir a Definições &gt; Sistema &gt; Botões"</st
   <string name="reboot_progress">A reiniciar…</string>
   <string name="replace">Substituir</string>
   <string name="resource_select">Seleccionar</string>
-  <string name="screen_button_disabled_message">Botões de navegação desactivados. Para reactivar, toque nos botões Inicio e Ligar/Desligar simultâneamente.</string>
+  <string name="screen_button_disabled_message">Botões de navegação desactivados. Para reactivar toque nos botões início e ligar/desligar simultaneamente.</string>
   <string name="screen_button_enabled_message">Botões de navegação activados.</string>
-  <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultâneamente.</string>
+  <string name="screen_button_notification_text">Para activar prima os botões Início e Ligar/Desligar simultaneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desligados.</string>
-  <string name="screen_on_proximity_sensor_hint">Para desligar este recurso, prima os botões Voltar e Volume Acima simultâneamente.</string>
+  <string name="screen_on_proximity_sensor_hint">Para desligar este recurso prima os botões Voltar e Volume para cima simultaneamente.</string>
   <string name="screen_on_proximity_sensor_summary">Não cubra a área laranja do ecrã</string>
   <string name="screen_on_proximity_sensor_title">Prevenir marcações no bolso</string>
-  <string name="screen_paper_mode_enter_toast">Modo leitura ligado. Pode ligar ou desligar este recurso a qualquer altura em Definições Adicionais &gt; Modo Leitura.</string>
+  <string name="screen_paper_mode_enter_toast">Modo leitura ligado. Pode ligar ou desligar este recurso a qualquer altura em definições adicionais &gt; modo leitura.</string>
   <string name="screen_rotation_freeze_message">Rotação automática desligada.</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tudo</string>
@@ -100,7 +100,7 @@ Para ligar esta funcionalidade, ir a Definições &gt; Sistema &gt; Botões"</st
   <string name="status_bar_toggle_paper_mode">Modo Leitura</string>
   <string name="status_bar_toggle_power_mode">Desempenho</string>
   <string name="status_bar_toggle_privacy_mode">Convidado</string>
-  <string name="status_bar_toggle_quiet_mode">Não Incomodar</string>  
+  <string name="status_bar_toggle_quiet_mode">Não incomodar</string>  
   <string name="status_bar_toggle_rotate">Rotação</string>
   <string name="status_bar_toggle_screen_button">Botões</string>
   <string name="status_bar_toggle_screenshot">Captura Ecrã</string>  

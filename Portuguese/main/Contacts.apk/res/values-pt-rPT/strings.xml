@@ -172,8 +172,8 @@
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
   <string name="config_prohibited_phone_number_regexp" />
-  <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
-  <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
+  <string name="confirm_delete_contact_all_call_logs">Eliminar registo de chamada?</string>
+  <string name="confirm_delete_selected_all_call_logs">Eliminar registo de chamada?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
   <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s.</string>
   <string name="confirm_export_title">Exportar contactos?</string>
@@ -953,7 +953,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="select_none">Nada seleccionado</string>
   <string name="select_show_contacts">Lista de contactos</string>
   <string name="select_vcard_title">Escolher ficheiro vCard</string>
-  <string name="send_contact_shortcut_todesktop_success">Adicionado ao Ecrã inicial</string>
+  <string name="send_contact_shortcut_todesktop_success">Adicionado ao ecrã inicial</string>
   <string name="send_to_voicemail_checkbox">Enviar chamadas directamente para o correio de voz</string>
   <string name="separatorJoinAggregateAll">Todos os contactos</string>
   <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
@@ -1140,7 +1140,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="yellowpage_navigation_search_select_city">Escolher uma cidade</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">A transferir…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Não é possível ligar à rede</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao Ecrã inicial</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao ecrã inicial</string>
   <string name="yellowpage_search_the_yellowpage">Pesquisar Pág. Amarelas</string>
   <string name="yellowpage_user_profile">Perfil</string>  
   <string name="zero_items_selected">Seleccionar itens</string>

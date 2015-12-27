@@ -123,7 +123,7 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="cancel">Cancelar</string>
   <string name="candidates_style"><u>candidatos</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Os scripts podem ser instalados para tornar o conteúdo da aplicação mais acessível.</string>
-  <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras passe.</string>
+  <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe.</string>
   <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã pode ser explorado através de gestos.</string>
   <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela que está a interagir.</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Ligue para melhorar a sua acessibilidade web</string>
@@ -284,7 +284,7 @@ utilizando %s"</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem êxito</string>
   <string name="dlg_ok">OK</string>
-  <string name="DndMmi">Não Incomodar</string>
+  <string name="DndMmi">Não incomodar</string>
   <string name="done_label">Concluído</string>
   <string name="double_tap_toast">Sugestão: pressione duas vezes para aumentar ou diminuir o zoom.</string>
   <string name="downtime_condition_summary">Até que o tempo de inatividade termine no %1$s</string>
@@ -827,7 +827,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_asec_destroy">Permite à aplicação destruir o armazenamento interno.</string>
   <string name="permdesc_asec_mount_unmount">Permite à aplicação montar/desmontar o armazenamento interno.</string>
   <string name="permdesc_asec_rename">Permite à aplicação mudar o nome do armazenamento interno.</string>
-  <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize as funcionalidades de autênticador de conta do Gestor de Conta, incluindo a criação de contas e a obtenção e definição das respectivas palavras passe.</string>
+  <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize as funcionalidades de autênticador de conta do Gestor de Conta, incluindo a criação de contas e a obtenção e definição das respectivas palavras-passe.</string>
   <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de cópia de segurança e de restauro do sistema. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas colectadas da bateria. Não deve ser utilizado em aplicações normais.</string>
   <string name="permdesc_bind_call_service">Permite à aplicação controlar quando e como o utilizador vê o ecrã de chamada.</string>
@@ -963,7 +963,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_recordAudio">Permite que a aplicação grave áudio com o microfone. Esta autorização permite que a aplicação grave áudio em qualquer altura sem a confirmação do utilizador.</string>
   <string name="permdesc_removeTasks">Permite que a aplicação remova tarefas e elimine as respetivas aplicações. As aplicações maliciosas podem perturbar o comportamento de outras aplicações.</string>
   <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação poderá fazê-lo sem qualquer entrada do utilizador.</string>
-  <string name="permdesc_retrieve_window_content">Permite que a aplicação obtenha o conteúdo da janela activa. As aplicações maliciosas podem obter todo o conteúdo da janela e examinar todo o texto, excepto as palavras passe.</string>
+  <string name="permdesc_retrieve_window_content">Permite que a aplicação obtenha o conteúdo da janela activa. As aplicações maliciosas podem obter todo o conteúdo da janela e examinar todo o texto, excepto as palavras-passe.</string>
   <string name="permdesc_retrieve_window_info">Permite que uma aplicação recupere informação sobre as janelas do gerenciador. As aplicações maliciosas podem recuperar a informação que se destina ao uso interno do sistema.</string>
   <string name="permdesc_route_media_output">Permite que a aplicação reencaminhe a saída de som multimédia para outros dispositivos externos.</string>
   <string name="permdesc_runSetActivityWatcher">Permite que uma aplicação monitore e controle a forma como o sistema inicia actividades. As aplicações maliciosas podem comprometer totalmente o sistema. Esta autorização só é necessária para programação, nunca para utilização normal.</string>
@@ -1108,7 +1108,7 @@ para a conta %s."</string>
   <string name="permlab_asec_destroy">Destruir armazenamento interno</string>
   <string name="permlab_asec_mount_unmount">Montar/desmontar armazenamento interno</string>
   <string name="permlab_asec_rename">Mudar o nome do armazenamento interno</string>
-  <string name="permlab_authenticateAccounts">criar contas e definir palavras passe</string>
+  <string name="permlab_authenticateAccounts">Criar contas e definir palavras-passe</string>
   <string name="permlab_backup">Controlar a cópia de segurança e restauro do sistema</string>
   <string name="permlab_batteryStats">Modificar estatísticas da bateria</string>
   <string name="permlab_bind_call_service">Interagir com o ecrã de chamada</string>
@@ -1165,7 +1165,7 @@ para a conta %s."</string>
   <string name="permlab_deletePackages">Eliminar aplicações</string>
   <string name="permlab_devicePower">Ligar ou desligar o telefone</string>
   <string name="permlab_diagnostic">Ler/escrever em recursos das propriedades de diagnóstico</string>
-  <string name="permlab_disableKeyguard">desactivar o bloqueio do ecrã</string>
+  <string name="permlab_disableKeyguard">Desactivar o bloqueio do ecrã</string>
   <string name="permlab_dump">Obter o estado interno do sistema</string>
   <string name="permlab_enableCarMode">Activar o Modo de Condução</string>
   <string name="permlab_expandStatusBar">Expandir/fechar barra de estado</string>
@@ -1337,10 +1337,10 @@ Tentativas restantes :"</string>
   <string name="policydesc_encryptedStorage">Solicitar encriptação dos dados armazenados da aplicação.</string>
   <string name="policydesc_expirePassword">Controla a frequência com que a palavra-passe do bloqueio do ecrã deve ser alterada.</string>
   <string name="policydesc_forceLock">Controlar como e quando ocorre o bloqueio do ecrã.</string>
-  <string name="policydesc_limitPassword">Controlar o comprimento e os caracteres permitidos nas palavras passe de desbloqueio do ecrã.</string>
+  <string name="policydesc_limitPassword">Controlar o comprimento e os caracteres permitidos nas palavras-passe de desbloqueio do ecrã.</string>
   <string name="policydesc_resetPassword">Alterar a palavra-passe de desbloqueio do ecrã.</string>
   <string name="policydesc_setGlobalProxy">Definir o proxy global do dispositivo a ser utilizado quando a política estiver activa. Só o primeiro administrador do dispositivo define o proxy global efectivo.</string>
-  <string name="policydesc_watchLogin">Monitorizar o número de palavras passe incorrectas introduzidas ao desbloquear o ecrã e bloquear o telemóvel ou eliminar todos os dados do telemóvel caso tenham sido introduzidas demasiadas palavras passe.</string>
+  <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o ecrã e bloquear o telemóvel ou eliminar todos os dados do telemóvel caso tenham sido introduzidas demasiadas palavras-passe.</string>
   <string name="policydesc_wipeData">Eliminar os dados do telemóvel sem avisar através da reposição dos dados de fábrica.</string>
   <string name="policylab_disableCamera">Desactivar as câmaras</string>
   <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>

@@ -13,7 +13,7 @@
   <string name="account_duplicate_dlg_title">Conta duplicada</string>    
   <string name="account_name_toast">Já existe uma conta com este nome</string>  
   <string name="account_options_sync_title">Sincronizar</string>
-  <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras passe com espaços.</string>
+  <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços.</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas definições de segurança.</string>
   <string name="account_security_dialog_title">Actualização de segurança</string>
   <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de alguns recursos de segurança do seu dispositivo Android.</string>
@@ -309,13 +309,13 @@
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
-  <string name="disturb_switch">Não Incomodar</string>
+  <string name="disturb_switch">Não incomodar</string>
   <string name="done">Concluído</string>
   <string name="done_action">Concluído</string>
   <string name="donot_disturb_endtime_title">Hora de fim</string>
   <string name="donot_disturb_starttime_title">Hora de início</string>
   <string name="donot_disturb_summary">Notificações de emails serão silenciadas durante o período definido</string>
-  <string name="donot_disturb_title">Não Incomodar</string>
+  <string name="donot_disturb_title">Não incomodar</string>
   <string name="downlaod_cancel_confirm_download">Parar</string>
   <string name="downlaod_cancel_continue_download">Continuar</string>
   <string name="downlaod_confirm_download">Transferir</string>
@@ -629,8 +629,8 @@
   <string name="policy_dont_allow_wifi">Não permitir Wi-Fi</string>
   <string name="policy_email_age">Limitar o número de emails sincronizados</string>
   <string name="policy_html_truncation">Restringir tamanho do email em HTML</string>  
-  <string name="policy_password_expiration">Exigir expiração de palavras passe</string>
-  <string name="policy_password_history">Restringir a reutilização de palavras passe antigas</string>
+  <string name="policy_password_expiration">Exigir expiração de palavras-passe</string>
+  <string name="policy_password_history">Restringir a reutilização de palavras-passe antigas</string>
   <string name="policy_require_encryption">Exigir encriptação do dispositivo</string>
   <string name="policy_require_manual_sync_roaming">Permitir sincronização manual somente em roaming</string>
   <string name="policy_require_password">Exigir palavra-passe no dispositivo</string>
@@ -711,7 +711,7 @@
   <string name="read_string">conversa lida</string>  
   <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
   <string name="recipient_needed_title">Alerta</string>  
-  <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não Incomodar está ligado</string>
+  <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando não incomodar está ligado</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing">A actualizar…</string>

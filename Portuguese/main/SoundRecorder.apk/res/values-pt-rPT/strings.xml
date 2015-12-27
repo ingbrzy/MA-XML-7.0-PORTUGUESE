@@ -45,14 +45,14 @@
   <string name="notification_warning">Baixo armazenamento (menos de %d minutos)</string>
   <string name="pause">Pausar</string>
   <string name="preference_enable_earpiece_summary">Quando activo os auriculares reproduzem as gravações</string>
-  <string name="preference_enable_earpiece_title">Utilizar auriculares para reproduzir áudio</string>
-  <string name="preference_led_indicator">Notificações de ecrã de bloqueio</string>
+  <string name="preference_enable_earpiece_title">Utilizar auriculares para o áudio</string>
+  <string name="preference_led_indicator">Notificações no ecrã de bloqueio</string>
   <string name="preference_led_indicator_prompt">Quando a gravação está activa informar sempre na barra de estado e activar a luz de notificação no ecrã de bloqueio</string>
   <string name="preference_record_scenes_dialog_title">Escolher tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Dar nome às gravações manualmente</string>
-  <string name="record_back_pressed_hint">Para parar de gravar, toque Voltar novamente</string>
+  <string name="record_back_pressed_hint">Toque voltar para terminar gravação</string>
   <string name="record_download">Transferir de Nuvem Mi</string>
   <string name="record_download_complete">Transferido</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>

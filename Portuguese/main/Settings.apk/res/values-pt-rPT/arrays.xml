@@ -85,7 +85,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -99,7 +99,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Apertar o botão</item>
@@ -556,7 +556,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_title">
         <item>Contraste automático</item>
         <item>Aumentar contraste</item>
-        <item>Predifinido</item>
+        <item>Predefinido</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Ajustar contraste para a luz disponível</item>
@@ -666,7 +666,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Bloqueio de Ecrã</item>
-        <item>Modo Criança</item>
+        <item>Modo criança</item>
         <item>Explorador</item>
     </string-array>
     <string-array name="alarm_repeat_type">

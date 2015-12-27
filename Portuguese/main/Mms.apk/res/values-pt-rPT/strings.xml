@@ -426,7 +426,7 @@
   <string name="privacy_mode_hint">Não pode enviar mensagens em modo convidado</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações da mensagem</string>
-  <string name="private_protect">Palavras passe</string>
+  <string name="private_protect">Palavras-passe</string>
   <string name="private_settings">Definições de mensagens privadas</string>
   <string name="processing">A processar…</string>
   <string name="prvate_contact">Contacto privado</string>
@@ -572,8 +572,8 @@
   <string name="title_collapse_sp_messages">Mensagens de grupo da operadora</string>
   <string name="title_date_type">Registo da hora</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
-  <string name="title_show_sms_template">Verificar SMS para códigos de verificação</string>
-  <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
+  <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
+  <string name="title_show_sms_template_in">Verificar OTP das SMS</string>
   <string name="title_timed_message_dialog">Configurar hora de envio</string>
   <string name="to_address_label">"Para: "</string>
   <string name="to_count">%d destinatários</string>

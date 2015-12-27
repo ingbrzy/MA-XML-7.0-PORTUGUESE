@@ -9,7 +9,7 @@
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Antivírus</string>
   <string name="activity_title_apps_manager">Aplicações</string>
-  <string name="activity_title_auto_start_manager">Inicio automático</string>
+  <string name="activity_title_auto_start_manager">Início automático</string>
   <string name="activity_title_create_shortcut">Gerir atalhos</string>
   <string name="activity_title_default_apps_manager">Aplicações predefinidas</string>
   <string name="activity_title_garbage_cleanup">Limpeza</string>
@@ -99,7 +99,7 @@
   <string name="button_text_cancel_optimize">Cancelar</string>
   <string name="button_text_cleanup">Limpar</string>
   <string name="button_text_clear">Limpar</string>
-  <string name="button_text_create_shortcut">Criar atalho no Ecrã inicial</string>
+  <string name="button_text_create_shortcut">Criar atalho no ecrã inicial</string>
   <string name="button_text_fix">Corrigir</string>
   <string name="button_text_ignore">Ignorar</string>
   <string name="button_text_ignore_alert_title">Ignorar este alerta?</string>
@@ -111,7 +111,7 @@
   <string name="button_text_reject_timer">Rejeitar (%d)</string>
   <string name="button_text_security">Segurança</string>
   <string name="button_text_start_optimize">Verificar</string>
-  <string name="button_text_uninstall_shortcut">Remover atalho do Ecrã inicial</string>
+  <string name="button_text_uninstall_shortcut">Remover atalho do ecrã inicial</string>
   <string name="button_text_view">Optimizar</string>  
   <string name="button_text_view_power">Ver</string>
   <string name="cache_header_title">Limpar %1$d ficheiros de cache para libertar %2$s de espaço</string>
@@ -150,7 +150,7 @@
   <string name="details_subtitle">Utilizar detalhes</string>
   <string name="dialog_msg_auto_start_declare">Algumas aplicações de segurança podem indicar incorrectamente que a MIUI os impediu de iniciar. Para verificar as permissões que foram concedidas a aplicações individuais, vá para Definições &gt; Aplicações.</string>    
   <string name="dialog_msg_stop_virus_scan">Parar a verificação de vírus antes que termine?</string>
-  <string name="dialog_title_auto_start_declare">Acerca do inicio automático</string>
+  <string name="dialog_title_auto_start_declare">Acerca do início automático</string>
   <string name="dialog_title_stop_virus_scan">Parar a verificação de vírus</string>
   <string name="empty_title_auto_start_list">Sem aplicações a poder iniciar automaticamente.</string>
   <string name="empty_title_manual_item_white_list">Sem excepções.</string>
@@ -574,7 +574,7 @@
   <string name="toast_network_switch">Esta aplicação pode ligar à internet</string>
   <string name="toast_root_apply_accept">Acesso root concedido a %s</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
-  <string name="toast_shortcut_install">Atalho colocado no Ecrã inicial</string>
+  <string name="toast_shortcut_install">Atalho colocado no ecrã inicial</string>
   <string name="toast_shortcut_uninstall">Atalho removido</string>
   <string name="toast_show_notification">Fixado na área de notificações</string>
   <string name="toast_virus_cloudscan">A verificação de vírus irá utilizar definições online</string>

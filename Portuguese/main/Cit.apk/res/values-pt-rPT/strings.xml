@@ -27,7 +27,7 @@ Antes de calibrar o telemóvel, pouse-o numa superfície plana."</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de feedback do altifalante de microfone central</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone no altifalante</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone para teste de comentário do alto-falante. 
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone para testar coluna. 
 
 Desligue o telemóvel e fale para trás do microfone. Deve ouvir a voz no altifalante"</string>
   <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de feedback de microfone frontal para altifalante. 
@@ -81,7 +81,7 @@ Segure no telemóvel como se estivesse a falar com outra pessoa, em seguida, fal
   <string name="cit_camera_calibration_summary">"Instruções do teste:
 
 1.Pressione no botão de calibração abaixo para entrar na interface da câmara
-2.Pressione o botão Voltar para sair da interface da câmara
+2.Pressione o botão voltar para sair da interface da câmara
 3.Haverá um rótulo a dizer calibração concluída para indicar que o ois foi calibrado"</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio.</string>
   <string name="cit_charger_plugin_check_summary">Quando ligar o carregador USB, deverá aparecer em baixo o texto \"A carregar por USB/AC\".</string>

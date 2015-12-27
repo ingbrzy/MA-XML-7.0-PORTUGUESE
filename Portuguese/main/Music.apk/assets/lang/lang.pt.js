@@ -323,7 +323,7 @@
     "select_local_lyric": "Escolha a letra",
     "please_search_or_select": "Pesquise ou seleccione a letra",
     "in_searching_please_wait": "A pesquisar…",
-    "no_file_picker_find": "O explorador de ficheiros não está instalado no dispositivo",
+    "no_file_picker_find": "O Explorador de ficheiros não está instalado no dispositivo",
     "set_lyric_successful": "A letra foi definida com sucesso",
     "set_album_successful": "O álbum foi definido com sucesso",
     "set_id3_successful": "Informações sobre a música definidas com sucesso",

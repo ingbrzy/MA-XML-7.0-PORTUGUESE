@@ -4,7 +4,7 @@
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_title">Bloquear aplicações individualmente</string>
   <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o modo Convidado</string>
-  <string name="ac_privacy_mode_title">Bloqueio do Ecrã</string>
+  <string name="ac_privacy_mode_title">Bloqueio do ecrã</string>
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
   <string name="accelerometer_summary_off">Rodar automaticamente ao girar o telefone</string>
   <string name="accelerometer_summary_on">Rodar automaticamente ao girar o telefone</string>
@@ -15,7 +15,7 @@
 "</string>
   <string name="access_control_need_to_unlock">Palavra-passe exigida:</string>
   <string name="access_control_no_back_footer">Toque [botão] para sair</string>
-  <string name="access_control_password_title">Bloqueio do Ecrã</string>
+  <string name="access_control_password_title">Bloqueio do ecrã</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio:</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
@@ -33,7 +33,7 @@ Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tem vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver vários utilizadores, ao usar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -48,7 +48,7 @@ Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
 "<li>Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
-Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
@@ -89,7 +89,7 @@ Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na ba
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital.</string>
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_finished_button_text">Feito</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital, coloque o seu dedo no sensor.
+  <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital coloque o seu dedo no sensor.
 Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Coloque o seu dedo no digitalizador de impressão digital</string>
@@ -238,7 +238,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="background_data_dialog_message">Desactivar dados em segundo plano aumenta a vida útil da bateria e reduz a utilização de dados. Algumas aplicações podem ainda fazer utilização da ligação de dados em segundo plano.</string>
   <string name="background_data_dialog_title">Desactivar dados em segundo plano?</string>
   <string name="background_data_summary">As aplicações podem sincronizar, enviar e receber dados em qualquer momento</string>
-  <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está a ser mantido para ser mais rápido no caso de voltar a ser necessário. Geralmente, não há nenhuma razão para parar.</string>
+  <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessária novamente. Por norma não existe nenhuma razão para o terminar.</string>
   <string name="backup_configure_account_default_summary">Nenhuma conta está actualmente a armazenar a cópia de segurança</string>
   <string name="backup_configure_account_title">Conta da cópia de segurança</string>
   <string name="backup_data_summary">Fazer cópia de segurança das definições actuais e outros dados de aplicações nos servidores do Google</string>
@@ -549,7 +549,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_alert">Rejeitar as suas alterações?</string>
   <string name="cancel_download_buton_text">Cancelar</string>
-  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporariamente os dados em segundo plano e a sincronização automática.</string>
+  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição active temporariamente os dados em segundo plano e a sincronização automática.</string>
   <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
   <string name="capabilities_list_title">%1$s precisa de:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Receber notificações quando está a interagir com uma aplicação.</string>
@@ -581,11 +581,11 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar o volume de chamada recebida para notificações</string>
   <string name="checking_for_updates">A verificar actualizações…</string>
   <string name="checking_find_device_status">A verificar estado de Localizar dispositivo…</string>
-  <string name="children_mode_enable_title">Modo Criança</string>
+  <string name="children_mode_enable_title">Modo criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
-  <string name="children_mode_tips_off">Após ligar o modo Criança, toque no botão início para retornar ao ecrã inicial</string>
-  <string name="children_mode_tips_on">Após desligar o modo Criança, toque no botão início para retornar ao ecrã inicial.</string>
-  <string name="children_mode_title">Modo Criança</string>
+  <string name="children_mode_tips_off">Após ligar o modo criança, toque no botão início para retornar ao ecrã inicial</string>
+  <string name="children_mode_tips_on">Após desligar o modo criança, toque no botão início para retornar ao ecrã inicial</string>
+  <string name="children_mode_title">Modo criança</string>
   <string name="choose_smartcover_type">Escolher tipo de capa</string>
   <string name="choose_timezone">Escolher fuso horário</string>
   <string name="cleaner">Limpeza</string>
@@ -892,20 +892,20 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_alarm_content_event_and_sms">Notificações e mensagens</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
-  <string name="dndm_auto_button_title">Repetir hora de Não Incomodar</string>
+  <string name="dndm_auto_button_title">Repetir hora de não incomodar</string>
   <string name="dndm_auto_setting_group">Agendado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Hora de fim</string>
-  <string name="dndm_auto_time_turn_off_title">Desligar automaticamente Não Incomodar</string>
+  <string name="dndm_auto_time_turn_off_title">Desligar automaticamente não incomodar</string>
   <string name="dndm_auto_time_turn_on">Hora de início</string>
-  <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não Incomodar</string>
+  <string name="dndm_auto_time_turn_on_title">Ligar automaticamente não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
-  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não Incomodar estiver ligado.</string>
+  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando não incomodar estiver ligado</string>
   <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
-  <string name="dndm_notification">Não Incomodar está ligado</string>
-  <string name="dndm_open">Não Incomodar</string>
+  <string name="dndm_notification">Não incomodar está ligado</string>
+  <string name="dndm_open">Não incomodar</string>
   <string name="dndm_repeated_call_setting_title">Chamadas repetidas</string>
   <string name="dndm_repeated_call_summary_3min">Tocar quando receber uma chamada do mesmo número num espaço de três minutos</string>
   <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas do mesmo número</string>
@@ -923,9 +923,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Excepções</string>
   <string name="dndm_wristband">Banda Mi</string>
-  <string name="dndm_wristband_detailed">"Ligar Não Incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de inicio marcada"</string>
-  <string name="dndm_wristband_detailed2">"Desligar Não Incomodar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
-  <string name="do_not_disturb_mode">Não Incomodar</string>
+  <string name="dndm_wristband_detailed">"Ligar não incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de início marcada"</string>
+  <string name="dndm_wristband_detailed2">"Desligar não incomodar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
+  <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_settings_title">Áudio</string>
   <string name="dock_audio_summary_car">Definições para a ligação do suporte do carro</string>
   <string name="dock_audio_summary_desk">Definições para a ligação do suporte da área de trabalho</string>
@@ -1054,7 +1054,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="font_size_preview_text">Sirva a este homem uma cerveja e kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Menor</string>
-  <string name="font_size_summary">"Alterar o tamanho do texto para o Ecrã inicial, notificações, telefone, e menus de sistema.
+  <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone, e menus de sistema.
 
 "</string>
   <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
@@ -1116,7 +1116,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="google_backup_section_title">Cópia do Google e restauro</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo de uma mão</string>
-  <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo de uma mão</string>
+  <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
   <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar o ecrã para mais perto de um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
@@ -1419,7 +1419,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="macaddr_label">Endereço MAC:</string>
   <string name="main_running_process_description">Processo principal em utilização.</string>
   <string name="make_sure_cancel_update">Cancelar actualização?</string>
-  <string name="man_add_application">Adicionar aplicações de inicio automático</string>
+  <string name="man_add_application">Adicionar aplicações de início automático</string>
   <string name="manage_device_admin">Administradores do dispositivo</string>
   <string name="manage_device_admin_summary">Ver ou desactivar administradores do dispositivo</string>
   <string name="manage_mobile_plan_title">Plano móvel</string>
@@ -1915,8 +1915,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="quick_launch_shortcut">Pesquisar + %1$s</string>
   <string name="quick_launch_summary">Definir atalhos do teclado para iniciar aplicações</string>
   <string name="quick_launch_title">Início rápido</string>
-  <string name="quiet">Não Incomodar</string>
-  <string name="quiet_group">Não Incomodar</string>
+  <string name="quiet">Não incomodar</string>
+  <string name="quiet_group">Não incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
   <string name="quiet_mode">Silenciar todos os distúrbios</string>
   <string name="quiet_off_mode">Permitir sempre distúrbios</string>
@@ -2073,26 +2073,26 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screen_optimize">Contraste</string>
   <string name="screen_paper_mode_adjust_level">Ajuste o modo do efeito de leitura</string>
   <string name="screen_paper_mode_apps_loading">Aguarde um seg…</string>
-  <string name="screen_paper_mode_apps_title">Utilizar modo de Leitura</string>
-  <string name="screen_paper_mode_global_summary">Utilizar modo de Leitura para todas as aplicações</string>
+  <string name="screen_paper_mode_apps_title">Utilizar modo de leitura</string>
+  <string name="screen_paper_mode_global_summary">Utilizar modo de leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
-  <string name="screen_paper_mode_local_summary">Utilizar modo de Leitura nas aplicações que seleccionou</string>
+  <string name="screen_paper_mode_local_summary">Utilizar modo de leitura nas aplicações que seleccionou</string>
   <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
-  <string name="screen_paper_mode_off_apps_title">"Não utilizar modo de Leitura"</string>
+  <string name="screen_paper_mode_off_apps_title">"Não utilizar modo de leitura"</string>
   <string name="screen_paper_mode_range_title">Definições</string>
-  <string name="screen_paper_mode_set_apps_title">Aplicações em modo de Leitura</string>
+  <string name="screen_paper_mode_set_apps_title">Aplicações em modo de leitura</string>
   <string name="screen_paper_mode_summary">Reduzir brilho de fundo do ecrã</string>
-  <string name="screen_paper_mode_title">Modo de Leitura</string>
+  <string name="screen_paper_mode_title">Modo de leitura</string>
   <string name="screen_paper_mode_turn_off">Desligado</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de Leitura, é necessário ligar à internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
-  <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o modo de Leitura automáticamente</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de leitura é necessário ligar à internet.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o modo de leitura automáticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
   <string name="screen_resolution_confirm">Confirmar e reiniciar</string>
-  <string name="screen_resolution_summary">Reduzir a resolução irá reduzir o grau da resolução fina, para em certas medidas melhorar a performance e fluídez, e vice versa. As alterações necessitam de reiniciar o sistema.</string>
+  <string name="screen_resolution_summary">Reduzir a resolução irá diminuir o grau da resolução fina que em determinadas medidas pode melhorar a performance, fluídez e vice versa. As alterações necessitam de reiniciar o sistema.</string>
   <string name="screen_resolution_switch">Alterar resolução de ecrã</string>
   <string name="screen_resolution_title">Resolução de ecrã</string>
   <string name="screen_saturation">Saturação</string>
@@ -2182,7 +2182,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de Segurança</string>
-  <string name="security_passwords_title">Desbloqueio do Ecrã</string>
+  <string name="security_passwords_title">Desbloqueio do ecrã</string>
   <string name="security_patch">Nível do patch de segurança do Android</string>
   <string name="security_privacy_settings_title">Privacidade</string>
   <string name="security_relative">Segurança</string>
@@ -2217,7 +2217,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="service_stop_description">O serviço da aplicação está em execução. Parar pode causar erros.</string>
   <string name="services_subtitle">Serviços</string>
   <string name="set_password_action">Definir palavra-passe</string>
-  <string name="set_password_message">Definir uma palavra-passe para desligar o modo Criança assim como desbloquear o dispositivo.</string>
+  <string name="set_password_message">Definir uma palavra-passe para desligar o modo criança assim como desbloquear o dispositivo.</string>
   <string name="set_password_title">Definir palavra-passe</string>
   <string name="settings_backup">Definições da cópia de segurança</string>
   <string name="settings_backup_summary">Fazer cópia das definições</string>
@@ -2326,7 +2326,7 @@ Tentativas restantes :"</string>
   <string name="sound_vibrate_settings">Som e vibração</string>
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Definições</string>
-  <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
+  <string name="spellchecker_security_warning">Este corrector ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como palavras-passe e números de cartões de crédito. Tem origem na aplicação %1$s. Quer utilizar este corrector ortográfico?</string>
   <string name="spellcheckers_settings_title">Correcção ortográfica</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Monitorização de rede</string>
@@ -2536,7 +2536,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="tts_engine_name_settings">Definições de %s</string>
   <string name="tts_engine_network_required">Este idioma necessita de uma ligação de rede para o texto falado.</string>
   <string name="tts_engine_preference_section_title">Mecanismo preferido</string>
-  <string name="tts_engine_security_warning">Este mecanismo de síntese de voz pode recolher todo texto que ditar, inclusive dados pessoais como palavras passe e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja activar a utilização deste mecanismo de síntese de voz?</string>
+  <string name="tts_engine_security_warning">Este mecanismo de síntese de voz pode recolher todo texto que ditar, inclusive dados pessoais como palavras-passe e números de cartão de crédito. Ele é proveniente do mecanismo %s. Deseja activar a utilização deste mecanismo de síntese de voz?</string>
   <string name="tts_engine_settings_button">Executar definições do mecanismo</string>
   <string name="tts_engine_settings_section">Definições do mecanismo</string>
   <string name="tts_engine_settings_title">Definições para %s</string>
@@ -3243,11 +3243,11 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="zen_mode_from_starred">Apenas contactos favoritos</string>
   <string name="zen_mode_important_category">Interrupções com prioridade</string>
   <string name="zen_mode_messages">Mensagens</string>
-  <string name="zen_mode_miui_disturb_category">Não Incomodar</string>
+  <string name="zen_mode_miui_disturb_category">Não incomodar</string>
   <string name="zen_mode_miui_silent_category">Permitir</string>
   <string name="zen_mode_option_important_interruptions">Apenas interrupções com prioridade</string>
   <string name="zen_mode_option_miui_silent">Modo silêncio</string>
-  <string name="zen_mode_option_miui_vibrate">Não Incomodar</string>
+  <string name="zen_mode_option_miui_vibrate">Não incomodar</string>
   <string name="zen_mode_option_no_interruptions">Não interromper</string>
   <string name="zen_mode_option_off">Interromper sempre</string>
   <string name="zen_mode_option_title">Ao receber chamadas e notificações</string>

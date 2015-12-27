@@ -27,10 +27,10 @@
   <string name="enable_sync_desc">Sincronizar as suas notas com a sua Conta Mi (%1$s)?</string>
   <string name="error_contact_not_exist">O contacto não existe</string>
   <string name="error_note_empty_for_clock">Não é possível definir um tempo de lembrete para uma nota vazia</string>
-  <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas no Ecrã inicial</string>
+  <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas no ecrã inicial</string>
   <string name="error_note_not_exist">A nota não existe</string>
   <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, toque aqui para actualizar a aplicação</string>
-  <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no Ecrã inicial</string>
+  <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
   <string name="format_move_notes_out_folder">Movida %1$s fora</string>
   <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
@@ -94,7 +94,7 @@
   <string name="sns_footer_text">Criado com Notas Mi</string>
   <string name="sns_hint_content">O que vai na sua mente?</string>
   <string name="sns_hint_title">Assunto (Opcional)</string>
-  <string name="sns_message_disconnect">Não é possível ligar à rede. Verifique a sua ligação e tente novamente.</string>
+  <string name="sns_message_disconnect">Não é possível ligar à rede. Tente novamente mais tarde.</string>
   <string name="sns_title_edit">Editar título</string>
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar um comentário vazio</string>

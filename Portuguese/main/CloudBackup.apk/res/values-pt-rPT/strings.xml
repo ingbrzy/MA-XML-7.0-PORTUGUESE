@@ -2,7 +2,7 @@
 <resources>
   <string name="about_to_recover">Aguarde um seg…</string>
   <string name="app_name">Cópias Nuvem Mi​</string>
-  <string name="as_new_device">Substituir o Ecrã inicial e definições anteriores</string>
+  <string name="as_new_device">Substituir o ecrã inicial e definições anteriores</string>
   <string name="as_new_device_summary">Eliminar cópias Nuvem Mi anteriores</string>
   <string name="back_up_task_in_process">A fazer cópia…</string>
   <string name="back_up_task_unfinished">Cópia não terminada</string>
@@ -32,7 +32,7 @@
   <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes itens vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
-*\u0009\u0009\u0009\u0009Aplicações, disposição do Ecrã Inicial e papeis de parede 
+*\u0009\u0009\u0009\u0009Aplicações, disposição do ecrã inicial e papeis de parede 
 *\u0009\u0009\u0009\u0009Alarmes e definições de horas 
 *\u0009\u0009\u0009\u0009Definições de notificações 
 *\u0009\u0009\u0009\u0009Definições MIUI e de sistema 
@@ -54,7 +54,7 @@ Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Cópias, tamanho:%2$s</string>
   <string name="cloud_backup_detail_state">Cópias Nuvem Mi</string>
-  <string name="cloud_backup_detail_state_summary">Aplicações, Ecrã inicial e definições de sistema</string>
+  <string name="cloud_backup_detail_state_summary">Aplicações, ecrã inicial e definições de sistema</string>
   <string name="cloud_backup_detail_time">, tempo da cópia:%1$s</string>
   <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possivel reverter esta acção.</string>
   <string name="cloud_restore_task">A restaurar…</string>
@@ -92,8 +92,8 @@ Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
   <string name="query_restore_back_view">Cópias Nuvem Mi</string>
-  <string name="query_restore_description">Restaurar aplicações do Ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último Ecrã inicial.</string>
-  <string name="query_restore_summary">Encontrou uma cópia Nuvem Mi para este dispositivo. Restaurar aplicações do Ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias Nuvem Mi anteriores?</string>
+  <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial.</string>
+  <string name="query_restore_summary">Encontrou uma cópia Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias Nuvem Mi anteriores?</string>
   <string name="recover_from_micloud">Restaurar da Nuvem Mi</string>
   <string name="recover_home_settings">Restaurar definições do ecrã de início</string>
   <string name="recover_miui_settings">Restaurar definições de sistema</string>
@@ -111,7 +111,7 @@ Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi
   <string name="settings_backup">Definições do sistema</string>
   <string name="start_backup_to_micloud">Fazer cópia das aplicações na Nuvem Mi</string>
   <string name="start_recover">Restaurar %s</string>
-  <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do Ecrã inicial</string>
+  <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do ecrã inicial</string>
   <string name="wait_icon_download">A transferir os ícones das aplicações</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
