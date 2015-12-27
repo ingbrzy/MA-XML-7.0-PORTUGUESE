@@ -1821,6 +1821,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_blocked_state_title_template">Impressora bloqueada %1$s</string>
   <string name="print_cancel">Cancelar</string>
   <string name="print_cancelling_state_title_template">A cancelar %1$s</string>
+  <string name="print_enable">Activar impressão</string>
   <string name="print_failed_state_title_template">Erro da impressora %1$s</string>
   <string name="print_feature_state_off">Desligado</string>
   <string name="print_feature_state_on">Ligado</string>
@@ -1836,6 +1837,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_print_job">Trabalho de impressão</string>
   <string name="print_print_jobs">Trabalhos de impressão</string>
   <string name="print_printing_state_title_template">A imprimir %1$s</string>
+  <string name="print_remind">Activar impressão primeiro</string>
   <string name="print_restart">Reiniciar</string>
   <string name="print_search_box_hidden_utterance">Ocultar caixa de pesquisa</string>
   <string name="print_search_box_shown_utterance">Mostrar caixa de pesquisa</string>
@@ -2115,7 +2117,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_eject_summary">Desmontar o cartão SD para removê-lo em segurança</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
-  <string name="sd_format">Apagar cartão SD</string>
+  <string name="sd_format">Apagar o cartão SD</string>
   <string name="sd_format_summary">Elimina todos os dados do cartão SD como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
