@@ -358,11 +358,11 @@
   <string name="power_dialog_cpu_state_save_desc">Tornar a duração da bateria uma prioridade sobre o desempenho da CPU</string>
   <string name="power_dialog_cpu_state_title">Utilização do CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">Está a utilizar este perfil actualmente</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">O seu dispositivo está definido para mudar para este perfil quando a bateria está fraca. Deve alterar as definições da bateria antes de eliminar este perfil.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">O seu dispositivo está definido para mudar para este perfil quando a bateria está fraca. Deve alterar as suas definições da bateria antes de eliminar este perfil.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">O seu dispositivo está definido para alterar para este perfil quando a bateria está fraca. Deve alterar as definições da bateria antes de eliminar este perfil.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">O seu dispositivo está definido para alterar para este perfil quando a bateria está fraca. Deve alterar as suas definições da bateria antes de eliminar este perfil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">O seu dispositivo está definido para alterar para este perfil quando a bateria recupera, Deve alterar as definições antes de poder eliminar este perfil.</string>
   <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">O seu dispositivo está programado para alterar mais tarde para este perfil. Deve alterar as suas definições da bateria antes de eliminar esta configuração.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">O seu dispositivo está programado para mudar mais tarde para este perfil. Deve alterar as suas definições da bateria antes de eliminar este perfil.</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_on_time">O seu dispositivo está programado para alterar mais tarde para este perfil. Deve alterar as suas definições da bateria antes de eliminar este perfil.</string>
   <string name="power_dialog_delete_dialog_delete">Eliminar este perfil da bateria?</string>
   <string name="power_dialog_delete_dialog_title">Eliminar perfil</string>
   <string name="power_dialog_ok">OK</string>
@@ -435,7 +435,7 @@
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Fim</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Após este período mudar para</string>
+  <string name="power_save_on_time_goout_title">Após este período alterar para</string>
   <string name="power_save_on_time_option_recovery_title">Quando este período acabar, alterar para</string>
   <string name="power_save_on_time_option_summary">No final deste período o dispositivo voltará ao perfil utilizado mais recentemente</string>
   <string name="power_save_on_time_option_title">Durante este período alterar para</string>
