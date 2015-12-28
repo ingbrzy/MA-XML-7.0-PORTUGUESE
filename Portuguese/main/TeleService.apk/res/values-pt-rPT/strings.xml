@@ -44,7 +44,7 @@
   <string name="atr_enable">Relatórios de Trânsito estão ligados</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Auriculares</string>
-  <string name="audio_mode_speaker">Colunas</string>
+  <string name="audio_mode_speaker">Altifalante</string>
   <string name="audio_mode_wired_headset">Auscultadores com fios</string>
   <string name="auth_username_summary">Utilizador usado para autenticar</string>
   <string name="auth_username_title">Utilizador de autenticação</string>
@@ -1096,7 +1096,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="roaming_disable">Ligar a serviço de dados quando em roaming</string>
   <string name="roaming_enable">Ligar a serviço de dados quando em roaming</string>
   <string name="roaming_reenable_message">Perdeu a ligação de dados porque deixou a sua rede doméstica em roaming de dados desactivada.</string>
-  <string name="roaming_warning">Permitir dados em roaming? Podem ocorrer custos de roaming significativos!</string>
+  <string name="roaming_warning">Permitir dados em roaming? Podem surgir custos de roaming significativos!</string>
   <string name="rsp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão RUIM falhou.</string>
   <string name="rsp_unlock_success">Serviço da operadora do cartão RUIM desbloqueado.</string>
   <string name="ruim_unlock_failed">O pedido de desbloqueio do cartão RUIM falhou.</string>

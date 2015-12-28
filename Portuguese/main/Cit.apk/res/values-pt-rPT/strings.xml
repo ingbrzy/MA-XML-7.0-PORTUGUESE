@@ -23,26 +23,26 @@ Antes de calibrar o telemóvel pouse-o numa superfície plana."</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">A calibrar...</string>
-  <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone secundário na coluna do telemóvel</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal na coluna do telemóvel</string>
-  <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone no auricular</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Teste de funcionamento do microfone secundário no altifalante</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal no altifalante</string>
+  <string name="cit_audio_lb_mainmic_to_earpiece_title">Teste de funcionamento do microfone principal no auricular</string>
   <string name="cit_audio_lb_phonecall_title">Teste de simulação de chamada</string>
-  <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone secundário para testar coluna do telemóvel
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Voltar ao microfone secundário para testar altifalante
 
 
-Vire o telemóvel e fale para o microfone secundário. Deverá ouvir a sua voz na coluna do telemóvel"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para a coluna do telemóvel. 
+Vire o telemóvel e fale para o microfone secundário. Deverá ouvir a sua voz no altifalante"</string>
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Teste de funcionamento do microfone frontal para o altifalante. 
 
-Fale para o microfone frontal. Deverá ouvir a sua voz na coluna do telemóvel"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal no altifalante. 
+Fale para o microfone frontal. Deverá ouvir a sua voz no altifalante"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Teste de funcionamento do microfone principal no auricular. 
 
-Segure o telemóvel como se estivesse a fazer uma chamada e fale para o microfone. Deverá ouvir a sua voz no altifalante"</string>
+Segure o telemóvel como se estivesse a fazer uma chamada e fale para o microfone. Deverá ouvir a sua voz no altifalante/frontal"</string>
   <string name="cit_audio_lb_summary_phonecall">"Simulação de teste de chamada.
 
-Segure o telemóvel como se estivesse a fazer uma chamada e fale para o microfone principal. Deverá ouvir a sua voz no altifalante."</string>
-  <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone frontal/superior para testar coluna do telemóvel.
+Segure o telemóvel como se estivesse a fazer uma chamada e fale para o microfone principal. Deverá ouvir a sua voz no altifalante/frontal."</string>
+  <string name="cit_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone frontal para testar o altifalante.
 
- Vire o telemóvel até o jack dos auriculares ficar virado para baixo e fale para o microfone. Deverá ouvir a sua voz na coluna do telemóvel"</string>
+ Vire o telemóvel até o jack dos auriculares ficar virado para baixo e fale para o microfone. Deverá ouvir a sua voz no altifalante"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_audio_loopback_check_one_title">Teste de funcionamento do microfone principal</string>
   <string name="cit_audio_loopback_check_summary_first">"Teste de funcionamento do microfone principal. 
@@ -50,7 +50,7 @@ Segure o telemóvel como se estivesse a fazer uma chamada e fale para o microfon
 Segure o telemóvel como se estivesse a responder a uma chamada e fale para o microfone. Deverá ouvir a sua voz no altifalante."</string>
   <string name="cit_audio_loopback_check_summary_second">"Teste de funcionamento do microfone secundário. 
 
-Vire o telemóvel até o jack dos auriculares ficar virado para baixo e fale para o microfone. Deverá ouvir a sua voz na coluna do telemóvel"</string>
+Vire o telemóvel até o jack dos auriculares ficar virado para baixo e fale para o microfone. Deverá ouvir a sua voz no altifalante"</string>
   <string name="cit_audio_loopback_check_two_title">Teste de funcionamento do microfone secundário</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Teste de redução de ruído ambiente</string>
   <string name="cit_audio_loopback_next">Avançar</string>
@@ -99,7 +99,7 @@ Segure o telemóvel como se estivesse a responder uma chamada e fale para o micr
   <string name="cit_fail">Erro</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
-  <string name="cit_fm_audio_path_speaker">Coluna</string>
+  <string name="cit_fm_audio_path_speaker">Altifalante</string>
   <string name="cit_fm_check_summary">Isto irá testar a função do Rádio FM do telemóvel.</string>
   <string name="cit_fm_check_title">Rádio FM</string>
   <string name="cit_fm_close">Fechar Rádio FM</string>
@@ -184,7 +184,7 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_pass">O teste foi bem sucedido</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido no dispositivo Wi-Fi associado."</string>
   <string name="cit_play_sd_mp3_hifi_title">Reproduzir MP3 (Hi-Fi) do cartão SD</string>
-  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido nas colunas do telemóvel."</string>
+  <string name="cit_play_sd_mp3_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido no altifalante."</string>
   <string name="cit_play_sd_mp3_title">Reproduzir MP3 do cartão SD</string>
   <string name="cit_playing_sd_mp3">A reproduzir music.mp3…</string>
   <string name="cit_pointer_location_title">Sensor de toque</string>
@@ -333,10 +333,10 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD toque no ecrã para o r
   <string name="cit_wifi_fail_to_scan">Erro ao pesquisar por redes</string>
   <string name="cit_wifi_state_refresh">Actualizar</string>
   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Teste de funcionamento do microfone frontal</string>
-  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Fale para o microfone frontal para testar coluna do telemóvel.
+  <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Fale para o microfone frontal para testar o altifalante.
 
 Vire o telemóvel e fale para o microfone superior. Deverá ouvir a sua voz no altifalante."</string>
-  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone frontal/superior para testar coluna do telemóvel. 
+  <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Teste de funcionamento do microfone frontal para testar o altifalante. 
 
 Vire o telemóvel e fale para o microfone. Deverá ouvir a sua voz no altifalante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Relatório de teste do microfone</string>
