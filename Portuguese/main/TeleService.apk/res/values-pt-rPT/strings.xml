@@ -670,11 +670,11 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="messageCFU">Utilizar sempre este número</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está ligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital activo</string>
-  <string name="mismatchPin">Os PINs que introduziu não coincidem. Tente novamente.</string>
-  <string name="mismatchPin2">Os PIN2s que introduziu não coincidem. Tente novamente.</string>
-  <string name="mismatch_password">A palavra-passe que inseriu não coincide</string>
-  <string name="mismatch_pin">O PIN que digitou não coincide.</string>
-  <string name="mismatch_pin2">O PIN2 que digitou não coincide.</string>
+  <string name="mismatchPin">Os PINs que introduziu não correspondem. Tente novamente.</string>
+  <string name="mismatchPin2">Os PIN2s que introduziu não correspondem. Tente novamente.</string>
+  <string name="mismatch_password">A palavra-passe que inseriu não corresponde</string>
+  <string name="mismatch_pin">O PIN que digitou não corresponde.</string>
+  <string name="mismatch_pin2">O PIN2 que digitou não corresponde.</string>
   <string name="missed_call_notify_five_times">5 vezes</string>
   <string name="missed_call_notify_none">Não lembrar</string>
   <string name="missed_call_notify_once">1 vez</string>
