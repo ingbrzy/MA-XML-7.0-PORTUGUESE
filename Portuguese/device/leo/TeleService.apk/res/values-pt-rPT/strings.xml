@@ -586,7 +586,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Códigos curtos de números de serviço não são suportados neste momento. É necessário ligar à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Ligue o Escuta Gratuita para utilizar este serviço senão a sua operadora pode cobrá-lo por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Os códigos curtos de números é um serviço que não é suportado neste momento. É necessário ligar à Internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Utilize uma aplicação gratuita para utilizar este serviço ou a sua operadora pode cobrar taxas extra por roaming.)"</string>
   <string name="livetalk_activate">Activar pacotes de recarga</string>
   <string name="livetalk_activate_number">Verificar cartão SIM</string>
   <string name="livetalk_activate_number_1">Verificar SIM 1</string>
@@ -622,7 +622,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_provider">Fornecido por %1$s</string>
   <string name="livetalk_provision">Termos do Serviço</string>
   <string name="livetalk_provision_checkbox">Aceitar Termos do Serviço</string>
-  <string name="livetalk_provision_second">e é necessário ligar à internet para funcionar normalmente.</string>
+  <string name="livetalk_provision_second">e é necessário ligar à Internet para funcionar normalmente.</string>
   <string name="livetalk_service_and_short_number_not_support">Números curtos e de serviço não são suportados.</string>
   <string name="livetalk_setting">Definições de Recargas</string>
   <string name="livetalk_sim_card_not_activated">"Este cartão não está activo"</string>
@@ -997,7 +997,7 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="private_num">Número privado</string>
   <string name="proceed">Continuar</string>
   <string name="progress_dialog_exiting_ecm">Sair do modo de Chamada de Volta de emergência</string>
-  <string name="provision_content">Este recurso necessita de uma ligação à internet para funcionar correctamente.</string>
+  <string name="provision_content">Este recurso necessita de uma ligação à Internet para funcionar normalmente.</string>
   <string name="provision_title">Ligação à Internet</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>

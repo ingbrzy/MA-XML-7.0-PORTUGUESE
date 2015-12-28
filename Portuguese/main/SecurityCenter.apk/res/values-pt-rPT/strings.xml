@@ -125,9 +125,9 @@
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancelar</string>
   <string name="cta_checkbox_title">Não mostrar novamente</string>
-  <string name="cta_dialog_msg">O centro de Segurança pode necessitar de ligar à internet para obter actualizações.</string>
+  <string name="cta_dialog_msg">O centro de Segurança pode necessitar de ligar à Internet para obter actualizações.</string>
   <string name="cta_dialog_title">Termos e Condições</string>
-  <string name="cta_settings">Permitir a ligação à internet</string>  
+  <string name="cta_settings">Permitir a ligação à Internet</string>  
   <string name="delete">Eliminar</string>
   <string name="delete_from_manual_item_white_list">Remover de excepções</string>
   <string name="descx_cleanuping_item">A optimizar %s</string>
@@ -515,7 +515,7 @@
   <string name="summary_live_talk_purchase">Apenas ¥ 0.05 por minuto para chamadas nacionais.</string>
   <string name="summary_miui_update">Actualização disponível para %s.</string>
   <string name="summary_mms">Bloquear spam de SMS automaticamente</string>
-  <string name="summary_network_switch">Permitir à aplicação Segurança ligar à internet</string>
+  <string name="summary_network_switch">Permitir à aplicação Segurança ligar à Internet</string>
   <string name="summary_never_flow_verify">Este número não foi verificado com a sua operadora</string>
   <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
   <string name="summary_permission_root">O dispositivo e os dados pessoais são mais vulneráveis a ataques de aplicações que têm acesso root</string>
@@ -552,7 +552,7 @@
   <string name="title_miui_update">Actualização disponível</string>
   <string name="title_mms_no">Filtro de mensagens desactivado</string>
   <string name="title_mms_yes">Filtro de mensagens activado</string>
-  <string name="title_network_switch">Permitir ligação à internet</string>
+  <string name="title_network_switch">Permitir ligação à Internet</string>
   <string name="title_permission_no">Monitor de permissões desligado</string>
   <string name="title_permission_root">Aviso de acesso root</string>
   <string name="title_permission_yes">Monitor de permissões ligado</string>
@@ -571,7 +571,7 @@
   <string name="toast_default_app">"%1$s definir como aplicação de sistema predefinida %2$s"</string>
   <string name="toast_flow_notification">Notificações de utilização de dados ligada</string>
   <string name="toast_garbage_lib">Actualizações automáticas de Limpeza ligada</string>
-  <string name="toast_network_switch">Esta aplicação pode ligar à internet</string>
+  <string name="toast_network_switch">Esta aplicação pode ligar à Internet</string>
   <string name="toast_root_apply_accept">Acesso root concedido a %s</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
   <string name="toast_shortcut_install">Atalho colocado no ecrã inicial</string>

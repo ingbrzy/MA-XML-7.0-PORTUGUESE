@@ -139,8 +139,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="apn_auth_type_none">Nenhum</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">Ligação à internet para utilizadores de banda larga Wal</string>
-  <string name="apn_chinaunicom_3gwap_general">Utilizadores de internet móvel de banda larga Waugh</string>
+  <string name="apn_chinaunicom_3gnet_general">Ligação à Internet para utilizadores de banda larga Wal</string>
+  <string name="apn_chinaunicom_3gwap_general">Utilizadores de Internet móvel de banda larga Waugh</string>
   <string name="apn_cm_net">CMNET</string>
   <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Editar ponto de acesso</string>
@@ -1529,7 +1529,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED nas mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas mensagens</string>
-  <string name="mobile_connect_to_internet">Por favor active a ligação à internet</string>
+  <string name="mobile_connect_to_internet">Por favor active a ligação à Internet</string>
   <string name="mobile_insert_sim_card">Insira um cartão SIM e reinicie</string>
   <string name="mobile_no_provisioning_url">%1$s não tem serviço de web</string>
   <string name="mobile_unknown_sim_operator">Operador SIM desconhecido</string>
@@ -1676,9 +1676,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="oldman_mode_enabled_name">Modo Leve</string>
   <string name="oldman_mode_entry_name">Modo Leve</string>
   <string name="oldman_mode_entry_title">Modo Leve</string>
-  <string name="oldman_mode_settings_caption">Definições do modo leve</string>
+  <string name="oldman_mode_settings_caption">Definições do modo Leve</string>
   <string name="oldman_mode_summary">Utilizar menus simplificados</string>
-  <string name="oldman_mode_summary_cta">Modo Leve necessita de ligar à internet e ler os seus contactos, mensagens, e localização para funcionar normalmente.</string>
+  <string name="oldman_mode_summary_cta">Modo Leve necessita de ligar à Internet para ler os seus contactos, mensagens e localização para funcionar normalmente</string>
   <string name="onekey_migrate">Transferir</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro lançador.</string>
@@ -2089,8 +2089,8 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de leitura é necessário ligar à internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de leitura é necessário ligar à Internet.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o modo de leitura automáticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
   <string name="screen_resolution_confirm">Confirmar e reiniciar</string>
@@ -2173,7 +2173,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="search_status_bar">barra de estado</string>
   <string name="search_storage">armazenamento</string>
   <string name="search_sync">sincronização</string>
-  <string name="search_tether">compartilhamento internet</string>
+  <string name="search_tether">compartilhamento Internet</string>
   <string name="search_unlock_set">desbloqueio</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">papel de parede</string>
@@ -2260,7 +2260,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à internet.</string>
+  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à Internet.</string>
   <string name="shut_down_find_device_network_failure_title">Não é possível ligar à rede</string>
   <string name="shuting_down_find_device">A desligar Localizar dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
@@ -2335,12 +2335,12 @@ Tentativas restantes :"</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
-O seu administrador pode monitorizar a sua actividade da rede, incluido emails, aplicações e páginas de internet seguras.
+O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de Internet seguras.
 
-Para mais informação contacte o seu administrador."</string>
+Para mais informações contacte o seu administrador."</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
   <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
-  <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de correio electrónico, aplicações e páginas de internet seguras. 
+  <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de Internet seguras.</string>
 
 Uma credencial de confiança instalada no seu dispositivo está a fazer isto possível."</string>
   <string name="stable_build">" | Estável"</string>
@@ -2887,7 +2887,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_aggressive_handover_summary">Quando activado o Wi-Fi será mais agressivo a entregar a conexão de dados para o dispositivo, quando a força do sinal Wi-Fi estiver em baixo</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre pesquisas do Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/Proibir o Wi-Fi de verificar o acesso de dados com base na quantidade de tráfego presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o dispositivo fica impedido de verificar se o software está actualizado</string>
+  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à Internet o dispositivo fica impedido de verificar se o software está actualizado</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Ligar automaticamente</string>
   <string name="wifi_available_title">Ligar a Wi-Fi</string>

@@ -879,7 +879,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_control_keyguard">Permite que uma aplicação controle a protecção do teclado</string>
   <string name="permdesc_controlWifiDisplay">Permite à aplicação controlar os recursos de baixo nível de exibição do Wi-Fi.</string>
   <string name="permdesc_copyProtectedData">Permite que a aplicação invoque o serviço de contentor predefinido para copiar conteúdo. Não se destina a ser utilizado por aplicações normais.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet. Esta autorização não é necessária para enviar dados para a internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet. Esta autorização não é necessária para enviar dados para a Internet.</string>
   <string name="permdesc_deleteCacheFiles">Permite à aplicação eliminar ficheiros do histórico de dados.</string>
   <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar isto para eliminar aplicações importantes.</string>
   <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telemóvel.</string>
