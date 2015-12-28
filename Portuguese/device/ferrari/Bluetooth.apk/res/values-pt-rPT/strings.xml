@@ -2,9 +2,9 @@
 <resources>
   <string name="ErrorTooManyRequests">Estão a ser processados muitos pedidos. Tente mais tarde.</string>
   <string name="ack_record">Registo Ack</string>
-  <string name="airplane_can_not_share">Não é possível utilizar o Bluetooth para partilhar em Modo de Avião</string>
-  <string name="airplane_error_msg">Não pode usar o Bluetooth em Modo de Avião</string>
-  <string name="airplane_error_title">Modo de Avião</string>
+  <string name="airplane_can_not_share">Não é possível utilizar o Bluetooth para partilhar em modo de avião</string>
+  <string name="airplane_error_msg">Não pode usar o Bluetooth em modo de avião</string>
+  <string name="airplane_error_title">Modo de avião</string>
   <string name="app_name">Partilha Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
@@ -18,7 +18,7 @@
   <string name="bluetooth_connecting">A emparelhar…</string>
   <string name="bluetooth_disconnected">Desemparelhado</string>
   <string name="bluetooth_disconnecting">A desemparelhar…</string>
-  <string name="bluetooth_in_airplane_mode">Em Modo de Avião</string>
+  <string name="bluetooth_in_airplane_mode">Em modo de avião</string>
   <string name="bluetooth_map_settings_app_icon">Ícone da Aplicação</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Vagas disponíveis:</string>
