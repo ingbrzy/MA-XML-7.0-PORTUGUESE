@@ -458,7 +458,7 @@
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.
 Contacte a sua operadora se este problema persistir."</string>
   <string name="fw_get_in_vm_failed">"Não foi possível recuperar e guardar as definições actuais do número de reencaminhamento.
-Mudar para um novo fornecedor de qualquer maneira?"</string>
+Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="general_news_settings">Notícias Gerais</string>
   <string name="general_setting">Definições</string>
   <string name="get_pin2">Digite o código PIN2</string>
@@ -671,10 +671,10 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está ligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital activo</string>
   <string name="mismatchPin">Os PINs que introduziu não coincidem. Tente novamente.</string>
-  <string name="mismatchPin2">Os PIN2s que introduziu não conferem. Tente novamente.</string>
+  <string name="mismatchPin2">Os PIN2s que introduziu não coincidem. Tente novamente.</string>
   <string name="mismatch_password">A palavra-passe que inseriu não coincide</string>
-  <string name="mismatch_pin">Os PIN que digitou não são iguais.</string>
-  <string name="mismatch_pin2">Os PIN2 que digitou não são iguais.</string>
+  <string name="mismatch_pin">O PIN que digitou não coincide.</string>
+  <string name="mismatch_pin2">O PIN2 que digitou não coincide.</string>
   <string name="missed_call_notify_five_times">5 vezes</string>
   <string name="missed_call_notify_none">Não lembrar</string>
   <string name="missed_call_notify_once">1 vez</string>
@@ -754,7 +754,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
 Será utilizada a rede preferida."</string>
   <string name="network_settings_turn_off">Desactivar</string>
   <string name="network_settings_warn_message">Utilizar apenas a rede que seleccionou manualmente.</string>
-  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado pela operadora.</string>
+  <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora.</string>
   <string name="network_unconnected_title">Erro de rede</string>
   <string name="network_unlock">Desbloquear</string>
   <string name="networks">Operadores de rede</string>
@@ -862,7 +862,7 @@ Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operad
   <string name="ota_unsuccessful">"O telemóvel não ficou activado. 
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
-Tente de novo ou ligue para o serviço de apoio ao cliente para obter mais informações."</string>
+Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais informações."</string>
   <string name="other">Outros</string>
   <string name="other_countries_and_regions">Outras localizações</string>
   <string name="other_settings">Outras definições de chamada</string>

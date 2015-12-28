@@ -3,7 +3,7 @@
   <string name="about">Acerca de</string>
   <string name="action_settings">Definições</string>
   <string name="ad_title">Pessoas também transferiram estes com  %1$s </string>
-  <string name="add_flow_fail_haveget_msg">O período de experimental expirou.</string>
+  <string name="add_flow_fail_haveget_msg">O período experimental expirou.</string>
   <string name="add_flow_fail_vip_msg">Acelerador de transferências Xunlei está ligado</string>
   <string name="add_flow_success_msg">%s adicionados este mês</string>
   <string name="all_downloads">Todas as transferências</string>
@@ -115,7 +115,7 @@
   <string name="free_high_speed_channel">Acelerador Xunlei (grátis)</string>
   <string name="free_speedup_exp">Testar acelerador de transferências Xunlei gratuitamente</string>
   <string name="get_account_dialog_msg">A obter informações de conta…</string>
-  <string name="get_data_failed">Não foi possível obter informação, tente novamente mais tarde</string>
+  <string name="get_data_failed">Não foi possível obter informação. Tente novamente mais tarde</string>
   <string name="get_order_dialog_msg">A obter informações de encomenda…</string>
   <string name="get_order_fail_msg">Não é possível criar encomenda</string>  
   <string name="high_speed_channel">Acelerador Xunlei (pago):</string>
@@ -126,7 +126,7 @@
   <string name="install_failed">Não foi possível instalar %1$s</string>
   <string name="installing">A instalar…</string>
   <string name="invalid_address">O caminho de ficheiro que introduziu é inválido</string>
-  <string name="jump_rank_hint">"Dê uma olhada nos rankings de transferências de hoje &gt;"</string>
+  <string name="jump_rank_hint">"Visualize a tabela de transferências de hoje &gt;"</string>
   <string name="keep_queued_download">Manter</string>
   <string name="load_finish_hint">Pode continuar a ver amanhã</string>
   <string name="loading">Aguarde um seg…</string>
@@ -143,7 +143,7 @@
   <string name="mi_money">Créditos Mi</string>
   <string name="mi_money_">Créditos Mi</string>
   <string name="missing_title">&lt;Desconhecido&gt;</string>
-  <string name="net_error">Não é possível ligar à rede, tente novamente</string>
+  <string name="net_error">Não é possível ligar à rede. Tente novamente</string>
   <string name="network_error">Não é possível ligar à rede</string>
   <string name="new_add">Nova transferência</string>
   <string name="new_add_bt">Adicionar torrent</string>
@@ -187,10 +187,10 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Utilizar Acelerador Xunlei?</string>
   <string name="quit_btn">Sair</string>
-  <string name="rank">Rankings</string>
-  <string name="rank_data_empty">Sem rankings</string>
+  <string name="rank">Tabelas</string>
+  <string name="rank_data_empty">Tabela sem dados</string>
   <string name="rank_guide_confirm">Verifique</string>
-  <string name="rank_guide_content">Rankings são actualizados diariamente para mostrar as aplicações mais populares</string>
+  <string name="rank_guide_content">A tabela é actualizada diariamente para mostrar as aplicações mais populares</string>
   <string name="rank_guide_title">Aplicações que outras pessoas instalam</string>
   <string name="rebind_btn">Adicionar novamente</string>
   <string name="recommend_downloading">A transferir…</string>
