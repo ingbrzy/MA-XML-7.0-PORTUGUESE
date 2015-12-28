@@ -45,8 +45,8 @@
   <string name="account_settings_ringtone">Som de notificação</string>
   <string name="account_settings_servers">Definições do servidor</string>
   <string name="account_settings_summary">Frequência de sincronização, notificações, etc.</string>
-  <string name="account_settings_sync_calendar_enable">Sincronizar calendário</string>
-  <string name="account_settings_sync_calendar_summary">Sincronizar eventos do calendário para esta conta</string>
+  <string name="account_settings_sync_calendar_enable">Sincronizar Calendário</string>
+  <string name="account_settings_sync_calendar_summary">Sincronizar eventos do Calendário para esta conta</string>
   <string name="account_settings_sync_contacts_enable">Sincronizar contactos</string>
   <string name="account_settings_sync_contacts_summary">Sincronizar contactos para esta conta</string>
   <string name="account_settings_sync_email_enable">Sincronizar email</string>
@@ -305,7 +305,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>  
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
-  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados.</string>
+  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do Calendário e outros dados.</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -613,7 +613,7 @@
   <string name="policy_app_blacklist">Não permitir aplicações especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicações especificadas</string>
   <string name="policy_bluetooth_restricted">Restringir a utilização de Bluetooth</string>
-  <string name="policy_calendar_age">Limitar o número de eventos do calendário sincronizados</string>
+  <string name="policy_calendar_age">Limitar o número de eventos do Calendário sincronizados</string>
   <string name="policy_dont_allow_attachments">Não permitir anexos</string>
   <string name="policy_dont_allow_browser">Não permitir navegadores</string>
   <string name="policy_dont_allow_camera">Bloquear a utilização da câmara do dispositivo</string>
