@@ -32,13 +32,13 @@
   <string name="connect_internet_by_mobiledata">Ligação de dados móveis</string>
   <string name="connect_internet_by_usbshare">Internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
-  <string name="current_network_state_not_need_diagnose">Ligação de Internet está normal.</string>
+  <string name="current_network_state_not_need_diagnose">Ligação de internet está normal.</string>
   <string name="daily_limit_and_lock_screen">Limite de dados e notificações</string>
   <string name="daily_limit_network_available_body">Toque para ver as estatísticas de utilização de dados.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os Dados móveis.</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
   <string name="daily_pkg_traffic">Limite de utilização mensal</string>
-  <string name="data_network_blocked_notification_title">Sem ligação à Internet</string>
+  <string name="data_network_blocked_notification_title">Sem ligação à internet</string>
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
   <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização de dados do seu plano. Se ultrapassar o limite, a sua operadora pode cobrar taxas adicionais.</string>
@@ -110,7 +110,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="firewall_network_restrict_notify_message">Toque para alterar definições.</string>  
   <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
   <string name="firewall_network_restrict_notify_title">%1$s não pode utilizar %2$s</string>
-  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente algumas aplicações de sistema vão continuar a ligar-se à Internet. Estas aplicações vão utilizar a ligação de dados móveis e podem gerar taxas adicionais cobradas pela sua operadora.</string>
+  <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente algumas aplicações de sistema vão continuar a ligar-se à internet. Estas aplicações vão utilizar a ligação de dados móveis e podem gerar taxas adicionais cobradas pela sua operadora.</string>
   <string name="firewall_restrict_android_dialog_title">Atenção</string>
   <string name="firewall_rule_group_title_mobile">Móvel</string>
   <string name="firewall_rule_group_title_roaming">Roaming</string>
@@ -209,7 +209,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="network_connected_exception_title">Testar rede</string>
   <string name="network_control">Ver definições da aplicação</string>
   <string name="network_diagnostics">Testar rede</string>
-  <string name="network_mobile_exception_detail">"O seu dispositivo não consegue ligar à Internet:
+  <string name="network_mobile_exception_detail">"O seu dispositivo não consegue ligar à internet:
 
  1. Certifique-se de que não excedeu o limite de dados móveis do plano da sua operadora.
 
@@ -224,8 +224,8 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
  "&lt;b&gt;"1. Problemas de redes Wi-Fi públicas
 "&lt;/b&gt;"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
 
- 2."&lt;b&gt;" Problemas do prestador de serviços de Internet
-T"&lt;/b&gt;"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de Internet.
+ 2."&lt;b&gt;" Problemas do prestador de serviços de internet
+T"&lt;/b&gt;"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de internet.
 
  3."&lt;b&gt;" Problemas de router
 T"&lt;/b&gt;"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
@@ -234,7 +234,7 @@ T"&lt;/b&gt;"ente reiniciar o seu router ou verificar as definições de adminis
 L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
 
  5."&lt;b&gt;" Verifique se o seu router está ligado correctamente
-T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet.</string>
+T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de internet.</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
  1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente.
@@ -269,7 +269,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
-  <string name="other_exception_summary">Não tem uma ligação à Internet</string>
+  <string name="other_exception_summary">Não tem uma ligação à internet</string>
   <string name="other_exception_title">A verificar por outros problemas</string>
   <string name="package_change_notification_summary">Toque para saber mais.</string>
   <string name="package_change_notification_title">Ajustar limite de dados automáticamente</string>
@@ -277,7 +277,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="package_setted_error_notification_titile">"Não foi possível definir plano de dados"</string>
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
-  <string name="permission_exception_summary">Algumas aplicações não têm permissão para ligar à Internet</string>
+  <string name="permission_exception_summary">Algumas aplicações não têm permissão para ligar à internet</string>
   <string name="permission_exception_title">Ver permissões de rede</string>
   <string name="permit_running_network">Dados em segundo plano</string>
   <string name="person_hotpot">Pontos de Acesso Móveis</string>
@@ -298,7 +298,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_automatic_adjust">Sincronizar utilização de dados da operadora</string>
   <string name="pref_avaible_traffic">Plano de dados</string>
   <string name="pref_category_title_other">Definições adicionais</string>
-  <string name="pref_check_network_diagnostics">Testar ligação de Internet do seu dispositivo</string>
+  <string name="pref_check_network_diagnostics">Testar ligação de internet do seu dispositivo</string>
   <string name="pref_connect_settings_enable_background">Permitir dados em segundo plano</string>
   <string name="pref_connect_settings_enable_background_hint">Permitir que as aplicações utilizem dados móveis quando não estiver a usá-las</string>
   <string name="pref_connect_settings_exceed_limit">Restringir utilização de dados</string>
@@ -388,7 +388,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="saving_conflict_dialog_ok">OK</string>
   <string name="saving_conflict_dialog_title">Atenção</string>
   <string name="saving_conflict_restrictbackground_msg">"Não é possível utilizar Economizador de Dados quando os dados em segundo plano estão restringidos. Permitir dados em segundo plano e ligar Economizador de Dados?"</string>
-  <string name="sc_allow_network_dialog_message">Esta aplicação necessita de ligar à Internet para funcionar normalmente.</string>
+  <string name="sc_allow_network_dialog_message">Esta aplicação necessita de ligar à internet para funcionar normalmente.</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
   <string name="see_detail">Detalhes</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
@@ -563,14 +563,14 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_setting_open">Ligado</string>
   <string name="traffic_setting_step_num">Definições de plano de dados</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
-  <string name="unable_connect_internet">Sem ligação à Internet</string>
+  <string name="unable_connect_internet">Sem ligação à internet</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>
   <string name="usage_sorted_loading_text">Aguarde um sec…</string>
-  <string name="usbsharenet_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação USB do dispositivo e reinicie o Mi PC Suite.</string>
+  <string name="usbsharenet_exception_summary">Não é possível ligar à internet partilhada por USB. Verifique a ligação USB do dispositivo e reinicie o Mi PC Suite.</string>
   <string name="usbsharenet_exception_title">Teste de rede partilhada por USB</string>
-  <string name="usbsharenet_pc_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação da Internet do computador.</string>
+  <string name="usbsharenet_pc_exception_summary">Não é possível ligar à internet partilhada por USB. Verifique a ligação da internet do computador.</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
   <string name="wifi_exception_title">Testar rede Wi-Fi</string>
-  <string name="wifi_network_blocked_notification_title">Sem ligação à Internet</string>
+  <string name="wifi_network_blocked_notification_title">Sem ligação à internet</string>
 </resources>

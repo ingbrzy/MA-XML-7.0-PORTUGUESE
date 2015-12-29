@@ -626,7 +626,7 @@
   <string name="policy_dont_allow_camera">Bloquear a utilização da câmara do dispositivo</string>
   <string name="policy_dont_allow_consumer_email">Não permitir email do consumidor</string>
   <string name="policy_dont_allow_html">Não permitir email em HTML</string>
-  <string name="policy_dont_allow_internet_sharing">Não permitir partilha pela Internet</string>
+  <string name="policy_dont_allow_internet_sharing">Não permitir partilha pela internet</string>
   <string name="policy_dont_allow_irda">Não permitir comunicação via infravermelhos</string>
   <string name="policy_dont_allow_pop_imap">Não permitir contas POP3 ou IMAP</string>
   <string name="policy_dont_allow_storage_cards">Não permitir cartões de armazenamento</string>
@@ -818,7 +818,7 @@
   <string name="toast_bar_fail_synchronization">"Não é possível ligar à rede"</string>
   <string name="toast_bar_insufficient_memory_space">Não existe espaço de armazenamento suficiente</string>
   <string name="toast_bar_invalid_account">Tem de iniciar sessão novamente</string>
-  <string name="toast_bar_no_connection_network">"Sem ligação à Internet"</string>
+  <string name="toast_bar_no_connection_network">"Sem ligação à internet"</string>
   <string name="toast_bar_open_gmail_synchronization">Toque para utilizar um servidor proxy para o Gmail</string>
   <string name="too_large_to_attach_additional">O tamanho do não pode exceder %1$s.</string>
   <string name="too_large_to_attach_multiple">Um ou mais ficheiros não foram anexados. O tamanho não pode exceder %1$s.</string>

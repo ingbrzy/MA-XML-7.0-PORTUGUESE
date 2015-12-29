@@ -78,7 +78,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
-  <string name="connect_network_setting_des">Perguntar por ligação à Internet</string>
+  <string name="connect_network_setting_des">Perguntar por ligação à internet</string>
   <string name="connection_error">"Não foi possível ligar"</string>
   <string name="copy_failed">Não foi possível copiar, parece que o armazenamento está cheio</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiro para Kuaipan</string>
@@ -97,8 +97,8 @@
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Esta aplicação necessita de ligar à Internet através de Wi-Fi para funcionar normalmente.</string>
-  <string name="data_consumption_title">Ligação à Internet</string>
+  <string name="data_consumption_message">Esta aplicação necessita de ligar à internet através de Wi-Fi para funcionar normalmente.</string>
+  <string name="data_consumption_title">Ligação à internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
@@ -288,7 +288,7 @@
   <string name="name_empty">Deve introduzir um nome.</string>
   <string name="net_lose_connected">Ligação perdida.</string>
   <string name="networkView_notConnected">Não é possível ligar à rede</string>
-  <string name="network_connect_confirm_des">Explorador necessita de ligar à Internet para funcionar normalmente.</string>
+  <string name="network_connect_confirm_des">Explorador necessita de ligar à internet para funcionar normalmente.</string>
   <string name="network_spent_reminding">Abrir esta página requer algum tráfego do seu plano de dados.</string>
   <string name="network_spent_reminding_title">Notificação de utilização de dados</string>
   <string name="never_notify_network_connect">Lembrar preferência</string>
@@ -498,7 +498,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="storage_usb_description">Armazenamento USB</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>
   <string name="sys_size_enable">" disponível"</string>
-  <string name="system_alert">Ligação à Internet</string>
+  <string name="system_alert">Ligação à internet</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_expand">Expandir</string>
   <string name="tab_local">Dispositivo</string>

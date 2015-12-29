@@ -879,7 +879,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_control_keyguard">Permite que uma aplicação controle a protecção do teclado</string>
   <string name="permdesc_controlWifiDisplay">Permite à aplicação controlar os recursos de baixo nível de exibição do Wi-Fi.</string>
   <string name="permdesc_copyProtectedData">Permite que a aplicação invoque o serviço de contentor predefinido para copiar conteúdo. Não se destina a ser utilizado por aplicações normais.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet. Esta autorização não é necessária para enviar dados para a Internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet. Esta autorização não é necessária para enviar dados para a internet.</string>
   <string name="permdesc_deleteCacheFiles">Permite à aplicação eliminar ficheiros do histórico de dados.</string>
   <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar isto para eliminar aplicações importantes.</string>
   <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telemóvel.</string>
@@ -1002,7 +1002,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_updateAppOpsStats">Permite à aplicação modificar as estatísticas colectadas de funcionamento da aplicação. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas colectadas da bateria. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_updateLock">Permite ao titular disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para actualização do aparelho.</string>
-  <string name="permdesc_use_sip">Permite que uma aplicação utilize o serviço SIP para fazer e receber chamadas pela Internet</string>
+  <string name="permdesc_use_sip">Permite que uma aplicação utilize o serviço SIP para fazer e receber chamadas pela internet</string>
   <string name="permdesc_useCredentials">Permite que a aplicação solicite tokens de autênticação.</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>
   <string name="permdesc_wakeLock">Permite que uma aplicação impeça o tellemóvel de entrar em modo de inactividade.</string>
@@ -1287,7 +1287,7 @@ para a conta %s."</string>
   <string name="permlab_updateAppOpsStats">Modificar estatísticas de funcionamento da aplicação</string>
   <string name="permlab_updateBatteryStats">Modificar estatísticas da bateria</string>
   <string name="permlab_updateLock">Desaconselhar actualizações automáticas do dispositivo</string>
-  <string name="permlab_use_sip">Fazer/receber chamadas pela Internet</string>
+  <string name="permlab_use_sip">Fazer/receber chamadas pela internet</string>
   <string name="permlab_useCredentials">Utilizar contas no dispositivo</string>
   <string name="permlab_vibrate">Controlar vibração</string>
   <string name="permlab_wakeLock">Impedir modo de inactividade do telefone</string>
@@ -1724,7 +1724,7 @@ Pretende fechar?"</string>
   <string name="wifi_p2p_turnon_message">Iniciar o Wi-Fi Directo. Esta opção desactivará o cliente/zona Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Não foi possível ligar a redes Wi-Fi</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à Internet fraca."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à internet fraca."</string>
   <string name="wireless_display_route_description">Mostrar Wi-Fi</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>
