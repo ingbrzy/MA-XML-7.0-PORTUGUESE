@@ -369,7 +369,7 @@
     "service_stop": "Serviço discontinuado",
     "upgrade_suggest": "Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.",
     "upgrade_force": "Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.",
-    "upgrade_nobeta": "Estamos a descontinur o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente :(",
+    "upgrade_nobeta": "Estamos a descontinuar o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente :(",
     "upgrade_waringing": "Só pode ouvir músicas que tenha armazenadas",
     "upgrade_immediate": "Actualizar agora",
     "i_know_it": "Sim",

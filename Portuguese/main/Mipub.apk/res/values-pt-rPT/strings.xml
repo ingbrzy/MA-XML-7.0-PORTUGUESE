@@ -141,7 +141,7 @@
   <string name="play">Reproduzir</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Definições adicionais</string>
-  <string name="pref_collapse_sp_messages_summary">As notificações agrupadas da sua operadora ficam organizadas por data desde a primeira mensagem recebida</string>
+  <string name="pref_collapse_sp_messages_summary">As notificações agrupadas de serviços e suporte ficam organizadas por data desde a primeira mensagem recebida</string>
   <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_key_mx_feedback">Comentários</string>
@@ -202,7 +202,7 @@
   <string name="send">Enviar</string>
   <string name="send_sms">Enviar mensagem</string>
   <string name="send_to">Para:</string>
-  <string name="service_unavailiable">Serviço indisponivel</string>
+  <string name="service_unavailiable">Serviço indisponível</string>
   <string name="share_img">Partilhar</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
@@ -212,11 +212,11 @@
   <string name="snippet_audio">[audio]</string>
   <string name="snippet_picture">[picture]</string>
   <string name="sp_mark_as_read_title">Marcar tudo como lido</string>
-  <string name="stick">Prender</string>
-  <string name="sticked_conversation">Conversa já está presa</string>
+  <string name="stick">Anexar</string>
+  <string name="sticked_conversation">Conversa já está anexada</string>
   <string name="subject_hint">Assunto</string>
   <string name="timed_message_expired_title_2">Enviá-las agora?</string>
-  <string name="title_collapse_sp_messages">Mensagens de grupo da operadora</string>
+  <string name="title_collapse_sp_messages">Mensagens de grupo de serviços e suporte</string>
   <string name="title_date_type">Timestamp</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="to_label">"Para "</string>
@@ -231,8 +231,8 @@
   <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
   <string name="undelivered_msg_dialog_title">Mensagem não enviada</string>
-  <string name="unstick">Desprender</string>
-  <string name="unsticked_conversation">Conversa já está despresa</string>
+  <string name="unstick">Desanexar</string>
+  <string name="unsticked_conversation">Conversa já está desanexada</string>
   <string name="unsupported_media_format">Formato %1$s não suportado.</string>
   <string name="view">Ver</string>
   <string name="view_hms_attachment_fail">"Não foi possível transferir a imagem"</string>
