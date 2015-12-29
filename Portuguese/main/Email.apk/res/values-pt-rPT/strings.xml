@@ -2,16 +2,16 @@
 <resources>  
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="SMTP_password_text">Palavra-passe</string>
-  <string name="SMTP_username_text">Nome de utilizador</string>  
-  <string name="abc_action_mode_done">Concluído</string>  
+  <string name="SMTP_username_text">Nome de utilizador</string>
+  <string name="abc_action_mode_done">Concluído</string>
   <string name="abc_searchview_description_clear">Limpar pesquisa</string>
   <string name="abc_searchview_description_query">Pesquisa</string>
   <string name="abc_searchview_description_search">Pesquisar</string>
   <string name="abc_searchview_description_submit">Submeter</string>
-  <string name="abc_searchview_description_voice">Pesquisa por voz</string>  
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
-  <string name="account_duplicate_dlg_title">Conta duplicada</string>    
-  <string name="account_name_toast">Já existe uma conta com este nome</string>  
+  <string name="account_duplicate_dlg_title">Conta duplicada</string>  
+  <string name="account_name_toast">Já existe uma conta com este nome</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços.</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas definições de segurança.</string>
@@ -21,14 +21,14 @@
   <string name="account_set_up_change_type_note">Para alterar o tipo de conta entre POP3 e IMAP, elimine a sua conta e crie uma nova com as definições desejadas.</string>
   <string name="account_settings_action">Definições de conta</string>
   <string name="account_settings_background_attachments_label">Transferência de anexos</string>
-  <string name="account_settings_background_attachments_summary">Transferir anexos via Wi-Fi</string>  
+  <string name="account_settings_background_attachments_summary">Transferir anexos via Wi-Fi</string>
   <string name="account_settings_data_usage">Definições de sincronização</string>
   <string name="account_settings_description_label">Nome da conta</string>
   <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
   <string name="account_settings_edit_quick_responses_summary">Edite o texto que costuma inserir nos seus emails</string>
   <string name="account_settings_enforced_label">Políticas</string>
   <string name="account_settings_enforced_summary">Nenhuma</string> 
-  <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras definições do servidor</string>  
+  <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras definições do servidor</string>
   <string name="account_settings_login_dialog_content_fmt">O nome de utilizador ou a palavra-passe de %s está incorrecto. Deseja actualizar agora?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Não foi possível iniciar sessão em %s. O servidor diz: %s</string>
   <string name="account_settings_login_dialog_title">Não foi possível iniciar sessão</string>
@@ -37,7 +37,7 @@
   <string name="account_settings_name_label">Nome</string>
   <string name="account_settings_notifications">Notificações</string>
   <string name="account_settings_notify_label">Notificações de email</string>
-  <string name="account_settings_notify_summary">Mostrar notificação quando chegarem emails</string>  
+  <string name="account_settings_notify_summary">Mostrar notificação quando chegarem emails</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_retry_label">Tentativa de sincronização</string>
@@ -54,7 +54,7 @@
   <string name="account_settings_unsupported_label">Políticas não suportadas</string>
   <string name="account_settings_unsupported_summary">Nenhuma</string>
   <string name="account_settings_using_ringtone">Toque</string>
-  <string name="account_settings_vibrate_when_label">Vibrar</string>  
+  <string name="account_settings_vibrate_when_label">Vibrar</string>
   <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
   <string name="account_setup_account_type_title">Configuração da conta</string>
   <string name="account_setup_address_label">Email</string>
@@ -72,21 +72,25 @@
   <string name="account_setup_deleting_account_msg">A eliminar conta…</string>
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
   <string name="account_setup_exchange_device_id_label">ID do dispositivo</string>
-  <string name="account_setup_exchange_no_certificate">Nenhum</string>  
+  <string name="account_setup_exchange_no_certificate">Nenhum</string>
   <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor.</string>
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível.</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
   <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador, a palavra-passe e tente novamente.</string>
   <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe errados.</string>
+  <string name="account_setup_failed_dlg_bar_title">Login tips of %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">Não foi possível iniciar sessão. A sua conta foi bloqueada.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Editar detalhes</string>
+  <string name="account_setup_failed_dlg_error_code">Código do erro: %s</string>
   <string name="account_setup_failed_dlg_server_message">Não é possível ligar ao servidor.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível ligar ao servidor.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Não foi possível configurar a conta</string>
+  <string name="account_setup_failed_dlg_todo1">Por favor configure a conta como abaixo ou tente iniciar sessão com exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Por favor configure a conta como abaixo.</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido.</string>
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor.</string>
   <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta.</string>
@@ -94,10 +98,10 @@
   <string name="account_setup_failed_security_policies_unsupported">Este servidor pede recursos de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor.</string>
   <string name="account_setup_failed_too_many_partnerships">Erro na autenticação, foi atingido o número máximo de ligações ao servidor permitido.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>  
+  <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nunca</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Opcional</string>
-  <string name="account_setup_incoming_imap_path_prefix_label">Prefixo do caminho IMAP</string>  
+  <string name="account_setup_incoming_imap_path_prefix_label">Prefixo do caminho IMAP</string>
   <string name="account_setup_incoming_password_label">Palavra-passe</string>
   <string name="account_setup_incoming_port_label">Porta</string>
   <string name="account_setup_incoming_security_label">Tipo de segurança</string>
@@ -106,15 +110,15 @@
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Aceitar todos os certificados)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Aceitar todos os certificados)</string>
-  <string name="account_setup_incoming_server_label">Servidor</string>  
+  <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nome do utilizador</string>
-  <string name="account_setup_incoming_username_label_default_hint">Pode incluir um domínio</string>  
-  <string name="account_setup_need_password_verification">A sua conta possui uma verificação adicional de segurança. Autenticação necessária</string>  
+  <string name="account_setup_incoming_username_label_default_hint">Pode incluir um domínio</string>
+  <string name="account_setup_need_password_verification">A sua conta possui uma verificação adicional de segurança. Autenticação necessária</string>
   <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
   <string name="account_setup_options_mail_check_frequency_12hour">A cada 12 horas</string>
   <string name="account_setup_options_mail_check_frequency_1hour">A cada hora</string>
   <string name="account_setup_options_mail_check_frequency_4hour">A cada 4 horas</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push, se o servidor suportar)</string>  
+  <string name="account_setup_options_mail_check_frequency_imap_push">Automático (Push, se o servidor suportar)</string>
   <string name="account_setup_options_mail_check_frequency_never">Nunca</string>
   <string name="account_setup_options_mail_check_frequency_push">Automático (Push)</string>
   <string name="account_setup_options_mail_window_1day">Ontem</string>
@@ -125,32 +129,32 @@
   <string name="account_setup_options_mail_window_all">Tudo</string>
   <string name="account_setup_options_mail_window_auto">Automático</string>
   <string name="account_setup_options_mail_window_default">Utilizar conta predefinida</string>
-  <string name="account_setup_options_mail_window_label">Sincronizar emails de:</string>  
+  <string name="account_setup_options_mail_window_label">Sincronizar emails de:</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Manter por</string>
-  <string name="account_setup_options_title">Definições da conta</string>  
+  <string name="account_setup_options_title">Definições da conta</string>
   <string name="account_setup_outgoing_port_label">Porta</string>
-  <string name="account_setup_outgoing_require_login_label">É necessário iniciar sessão</string>  
-  <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>  
+  <string name="account_setup_outgoing_require_login_label">É necessário iniciar sessão</string>
+  <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
   <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controlo remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
   <string name="account_setup_security_required_title">Administração de segurança remota</string>
-  <string name="account_setup_server_acc_manager_title">Contas</string>  
-  <string name="account_setup_username_password_toast">Introduza um endereço de email e palavra-passe válida.</string>  
-  <string name="account_sync_off">A sincronização da conta está desactivada.</string>  
-  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>  
-  <string name="actionbar_large_unread_count">%1$d+ não lidas</string>  
+  <string name="account_setup_server_acc_manager_title">Contas</string>
+  <string name="account_setup_username_password_toast">Introduza um endereço de email e palavra-passe válida.</string>
+  <string name="account_sync_off">A sincronização da conta está desactivada.</string>
+  <string name="account_waiting_for_folders_msg">A carregar as pastas…</string>
+  <string name="actionbar_large_unread_count">%1$d+ não lidas</string>
   <string name="activity_folder_selection">Escolher pasta</string>
   <string name="activity_mailbox_selection">Escolher conta</string>
   <string name="add_account">Adicionar conta</string>
-  <string name="add_attachment">Adicionar anexo</string>  
-  <string name="add_calendar">Lembrar</string>  
-  <string name="add_label">Adicionar pasta</string>  
+  <string name="add_attachment">Adicionar anexo</string>
+  <string name="add_calendar">Lembrar</string>
+  <string name="add_label">Adicionar pasta</string>
   <string name="add_pre_message_attachments">Adicionar os anexos de pré-mensagem?</string>
   <string name="add_pre_message_attachments_no">Não adicionar</string>
   <string name="add_pre_message_attachments_yes">Adicionar</string>
-  <string name="add_star">Estrela</string>  
+  <string name="add_star">Estrela</string>
   <string name="allread">Lêr todos</string>
   <string name="always_bcc_myself">Enviar sempre Cco para mim</string>
-  <string name="always_show_images">Mostrar sempre imagens deste remetente</string>  
+  <string name="always_show_images">Mostrar sempre imagens deste remetente</string>
   <string name="app_name">Email</string>
   <string name="archive">Arquivar</string>
   <string name="archived">Arquivada</string>
@@ -169,14 +173,14 @@
   <string name="attachment_application_pdf">PDF</string>
   <string name="attachment_application_vnd_ms_excel">Folha de cálculo</string>
   <string name="attachment_application_vnd_ms_powerpoint">Apresentação</string>
-  <string name="attachment_audio">Áudio</string>  
+  <string name="attachment_audio">Áudio</string>
   <string name="attachment_canceling">A cancelar…</string>
   <string name="attachment_decoding">A desempacotar anexos…</string>
   <string name="attachment_download_all">Transferir todos</string>
   <string name="attachment_image">Imagem</string>
   <string name="attachment_list_search_hint">Pesquisar anexos</string>
   <string name="attachment_mgr_name">Anexos</string>
-  <string name="attachment_not_exists">O anexo não está disponível!</string>  
+  <string name="attachment_not_exists">O anexo não está disponível!</string>
   <string name="attachment_open_SecurityException_hint">Pode não ter permissões para abrir este ficheiro ou o ficheiro pode estar danificado.</string>
   <string name="attachment_open_SecurityException_title">Não é possível abrir o ficheiro</string>
   <string name="attachment_stop_all">Parar</string>
@@ -184,7 +188,7 @@
   <string name="attachment_type_blocked">Não pode guardar nem abrir este tipo de anexo.</string>
   <string name="attachment_unknown">Ficheiro %s</string>
   <string name="attachment_video">Vídeo</string>
-  <string name="attachments_header">Anexos</string>  
+  <string name="attachments_header">Anexos</string>
   <string name="auto_advance_help_title">Avançar para…</string>
   <string name="auto_advance_label">Avanço automático</string>
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
@@ -194,7 +198,7 @@
   <string name="blank_feedback_toast">Deve escrever um comentário</string>
   <string name="body_forward_email_text">[Avançar]</string>
   <string name="body_hint">Escrever email</string>
-  <string name="body_inline_pic_text">[Imagem]</string>  
+  <string name="body_inline_pic_text">[Imagem]</string>
   <string name="bottom_bar_more_quickreply">Resposta rápida</string>
   <string name="bottom_bar_more_share">Partilhar</string>
   <string name="bottom_bar_no_quickreply_toast">Sem resposta rápida</string>
@@ -202,7 +206,7 @@
   <string name="calendar_remind_dialog_title">Lembrar</string>
   <string name="calendar_remind_gridview_pick_date">Escolher data</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_action">Cancelar</string>  
+  <string name="cancel_action">Cancelar</string>
   <string name="cant_move_or_change_labels">Não é possível mover porque a selecção contém várias contas.</string>
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
@@ -212,10 +216,10 @@
   <string name="change_sync_settings">Alterar definições de sincronização</string>
   <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
-  <string name="chat_item_msg_user_etc" />  
+  <string name="chat_item_msg_user_etc"/>  
   <string name="chat_view_description">Emails de grupo na mesma conversa</string> 
   <string name="chat_view_title">Vista de conversa</string>
-  <string name="check_setup_data">A confirmar as definições do servidor…</string>  
+  <string name="check_setup_data">A confirmar as definições do servidor…</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear">Limpar</string>
   <string name="clear_display_images_whitelist_dialog_message">Não mostrar mais imagens em linha do remetentes que autorizou anteriormente.</string>
@@ -229,7 +233,7 @@
   <string name="compose_picturesexceedlimits">Não é possível exceder as 5 imagens inline na mensagem</string>
   <string name="compose_send">Enviar</string>
   <string name="compose_sent">Enviado com sucesso</string>
-  <string name="confirm">OK</string>  
+  <string name="confirm">OK</string>
   <string name="confirm_delete_conversation_title">Eliminar</string>
   <string name="confirm_discard_text">Rejeitar esta mensagem?</string>
   <string name="confirm_response">A enviar…</string>
@@ -238,7 +242,7 @@
   <string name="confirm_save_message_yes">Guardar</string>
   <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem.</string>
   <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto.</string>
-  <string name="confirm_send_title">Enviar mensagem?</string>  
+  <string name="confirm_send_title">Enviar mensagem?</string>
   <string name="contact_edit_set_black_list_filtering">A filtrar…</string>
   <string name="contact_edit_set_black_list_from">Mover todos os emails deste remetente para Lixo</string>
   <string name="contact_edit_set_black_list_receive">Mover email com este destinatário para Lixo (apenas novos emails)</string>
@@ -274,16 +278,16 @@
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_folder_moved">Movida para %1$s</string>
   <string name="conversation_item_mark_read">Lida</string>
-  <string name="conversation_item_mark_unread">Não lida</string>  
+  <string name="conversation_item_mark_unread">Não lida</string>
   <string name="conversation_photo_welcome_text">Toque na imagem do remetente para seleccionar a conversa.</string>
   <string name="copied">Copiado</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
   <string name="create_action">Novo</string>
-  <string name="custom_from_account_label">Enviar como:</string>  
+  <string name="custom_from_account_label">Enviar como:</string>
   <string name="date_heading">"Data: "</string>
   <string name="date_message_received">%1$s %2$s</string>
-  <string name="date_message_received_today">Hoje, %1$s</string>  
+  <string name="date_message_received_today">Hoje, %1$s</string>
   <string name="default_">PREDEFINIDAS</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -291,7 +295,7 @@
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
   <string name="del_account_questionnair_hint">Pode nos dizer porque está a eliminar esta conta?</string>
-  <string name="delete">Eliminar</string>  
+  <string name="delete">Eliminar</string>
   <string name="deleted">Eliminada</string>
   <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activar actualização completa de serviço de correio e activar definições de segurança</string>
@@ -299,10 +303,10 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
   <string name="device_not_activiey_lint2">O serviço de correio não funciona em Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>  
+  <string name="dialog_account_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>
   <string name="dialog_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>
   <string name="dialog_change_sync_lookback">O email recebido %s atrás irá ser eliminado automaticamente. Toque para alterar.</string>
-  <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>  
+  <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
   <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do Calendário e outros dados.</string>
@@ -322,13 +326,13 @@
   <string name="downlaod_nonWifi_confirm_message">Utilizar os dados móveis para transferir o anexo?</string>
   <string name="downlaod_nonWifi_confirm_title">Transferir o anexo?</string>
   <string name="download_again">Transferir novamente</string>
-  <string name="download_before_sharing">" a transferência ainda não terminou."</string>  
+  <string name="download_before_sharing">" a transferência ainda não terminou."</string>
   <string name="download_cancel_confirm_message">A transferência será interrompida</string>
   <string name="download_cancel_confirm_title">Transferir anexo?</string>
   <string name="download_complete_not_cancel">Transferência concluída</string>
   <string name="download_confirm_message">Transferir %1$s anexos?</string>
-  <string name="download_confirm_title">Transferir anexo</string>  
-  <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir.</string>  
+  <string name="download_confirm_title">Transferir anexo</string>
+  <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir.</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_open">Abrir área de navegação</string>
@@ -336,14 +340,17 @@
   <string name="eas_outlook_email">outlook.com</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="elided_padding_token"> </string>
-  <string name="email_feedback_uri" />
+  <string name="email_feedback_uri"/>
+  <string name="email_netease">Email NetEase</string>
+  <string name="email_qq">Email QQ</string>
+  <string name="email_sina">Email Sina</string>
   <string name="empty_account_tip">Não foi possível encontrar a conta</string>
   <string name="empty_email_tip">Não é possível enviar uma mensagem em branco</string>
   <string name="empty_spam">Esvaziar spam</string>
   <string name="empty_spam_dialog_title">Esvaziar spam?</string>
   <string name="empty_trash">Esvaziar lixo</string>
   <string name="empty_trash_dialog_title">Esvaziar lixo?</string>
-  <string name="enable_sync_in_account_settings">Active em %1$s.</string>  
+  <string name="enable_sync_in_account_settings">Active em %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="exception_cancel">Este evento foi cancelado para: %s</string>
   <string name="exception_updated">Os detalhes deste evento foram alterados para: %s</string>
@@ -366,7 +373,7 @@
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
   <string name="folder_drafts_name_en0">Rascunhos</string>
   <string name="folder_drafts_name_en1">Rascunho</string>
-  <string name="folder_drafts_name_en2">[Gmail]/Rascunhos</string>  
+  <string name="folder_drafts_name_en2">[Gmail]/Rascunhos</string>
   <string name="folder_junk_name_cn0">垃圾邮件</string>
   <string name="folder_junk_name_cn1">垃圾箱</string>
   <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
@@ -404,7 +411,7 @@
   <string name="forward_attribution">---------- Mensagem reencaminhada ----------&lt;br>De: %1$s&lt;br>Data: %2$s&lt;br>Assunto: %3$s&lt;br>Para: %4$s&lt;br></string>
   <string name="forward_attribution_no_headers">---------- Mensagem reencaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível reencaminhar todos os anexos.</string>
-  <string name="forward_download_failed_title">Anexo não reencaminhado</string>  
+  <string name="forward_download_failed_title">Anexo não reencaminhado</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de eliminar</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
@@ -418,7 +425,7 @@
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro.</string>
   <string name="get_database_exception">"Limpar os dados desta aplicação em Definições > Aplicações de Sistema e tente novamente."</string>
   <string name="gmail_acceleration">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
-  <string name="gmail_login_confirm_to_use_proxy">Utilizar um servidor proxy para aceder à conta do Gmail?</string>  
+  <string name="gmail_login_confirm_to_use_proxy">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Não foi possível aceder ao servidor Gmail</string>
   <string name="gmail_server_authorization_deleted">Não foi possível autenticar. Tente adicionar esta conta novamente.</string>
   <string name="gmail_web_login_go">OK</string>
@@ -434,8 +441,8 @@
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_password_error">A palavra passe para o servidor de entrada de correio está errada</string>    
-  <string name="inline_picture_deleted">A transferir imagem perdida…</string>  
+  <string name="imap_password_error">A palavra passe para o servidor de entrada de correio está errada</string>  
+  <string name="inline_picture_deleted">A transferir imagem perdida…</string>
   <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
   <string name="invalid_recipient">O endereço %s é inválido.</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
@@ -454,7 +461,7 @@
   <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa, e então toque para seleccionar mais conversas.</string>
   <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
   <string name="mail">Email</string>
-  <string name="mail_body_turncated">Este email é muito grande para descarregar, apenas é possível mostrar uma parte dele, tente descarregar mais tarde no seu computador</string>  
+  <string name="mail_body_turncated">Este email é muito grande para descarregar, apenas é possível mostrar uma parte dele, tente descarregar mais tarde no seu computador</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
@@ -464,7 +471,7 @@
   <string name="mailbox_name_display_sent">Correio enviado</string>
   <string name="mailbox_name_display_starred">Com estrela</string>
   <string name="mailbox_name_display_trash">Lixo</string>
-  <string name="mailbox_name_display_unread">Não lidos</string>  
+  <string name="mailbox_name_display_unread">Não lidos</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Opções de sincronização (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sincronizar email desde</string>
@@ -500,11 +507,11 @@
   <string name="menu_att_mgr_order_default">Vistos recentemente</string>
   <string name="menu_att_mgr_order_mime">Ordenar por formato</string>
   <string name="menu_att_mgr_order_name">Ordenar por nome</string>
-  <string name="menu_att_mgr_order_rev_date">Ordenar por data recebida</string>  
+  <string name="menu_att_mgr_order_rev_date">Ordenar por data recebida</string>
   <string name="menu_att_mgr_order_size">Ordenar por tamanho</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Escrever</string>
-  <string name="menu_folder_options">Opções de sincronização</string>  
+  <string name="menu_folder_options">Opções de sincronização</string>
   <string name="menu_move_to">Mover para</string>
   <string name="menu_move_to_inbox">Mover para a Caixa de entrada</string>
   <string name="menu_photo_save_all">Guardar tudo</string>
@@ -512,8 +519,8 @@
   <string name="menu_photo_share_all">Partilhar tudo</string>
   <string name="menu_resend_all">Reenviar tudo</string>
   <string name="menu_search">Pesquisar</string>
-  <string name="menu_settings">Definições</string>  
-  <string name="merged_mailbox_compose_select_account">Seleccionar conta</string>  
+  <string name="menu_settings">Definições</string>
+  <string name="merged_mailbox_compose_select_account">Seleccionar conta</string>
   <string name="message_compose_insert_quick_response_list_title">Inserir resposta rápida</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Não é possível descodificar a mensagem</string>
@@ -524,19 +531,19 @@
   <string name="message_invite_decline">Não</string>
   <string name="message_invite_tentative">Talvez</string>
   <string name="message_invite_title">Convite do Calendário</string>
-  <string name="message_saved">Mensagem guardada como rascunho.</string>  
+  <string name="message_saved">Mensagem guardada como rascunho.</string>
   <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem reencaminhada serão transferidos antes do envio.</string>
   <string name="mibill_privacy_policy_button1">Não concordo</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
   <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Este recurso está inactivo por defeito para endereços de email de empresa.</string>
   <string name="mibill_privacy_policy_link">Ao utilizar este recurso, está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
-  <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>  
-  <string name="more_atts_remaining">%1$d mais restantes</string>  
+  <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
+  <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_context">Mais</string>
-  <string name="more_string">+%1$s</string>  
+  <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
-  <string name="mute">Silenciar</string>  
+  <string name="mute">Silenciar</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
@@ -550,9 +557,9 @@
   <string name="no_content_in_body">[Sem conteúdo]</string>
   <string name="no_conversations">Sem mensagens</string>
   <string name="no_mails">Sem emails</string>
-  <string name="no_matched_attachment">Sem resultados.</string>    
+  <string name="no_matched_attachment">Sem resultados.</string>  
   <string name="not_subject">(Sem assunto)</string>
-  <string name="not_synced_title">Conta não sincronizada</string>  
+  <string name="not_synced_title">Conta não sincronizada</string>
   <string name="notification_action_archive">Arquivar</string>
   <string name="notification_action_delete">Eliminar</string>
   <string name="notification_action_remove_label">Remover marcador</string>
@@ -596,7 +603,7 @@
   <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
   <string name="password_expired_dialog_content_fmt">Os dados da %s estão a ser eliminados do seu dispositivo. Pode restaurá-los alterando o PIN ou a palavra-passe do seu ecrã de bloqueio. Deseja alterar isso agora?</string>
   <string name="password_expired_dialog_title">A palavra-passe do ecrã de bloqueio está expirada</string>
-  <string name="password_expired_ticker">A sua palavra-passe ou PIN do ecrã de bloqueio expirou.</string>  
+  <string name="password_expired_ticker">A sua palavra-passe ou PIN do ecrã de bloqueio expirou.</string>
   <string name="perference_change_pw_notnull_tips">Insira a sua Palavra-passe</string>
   <string name="perference_change_pw_ok_tips">Palavra-passe alterada</string>
   <string name="perference_setup_pop_del">Remover o email do servidor</string>
@@ -608,8 +615,8 @@
   <string name="permission_read_attachment_label">Ler anexos</string>
   <string name="phone">telefone</string>
   <string name="photo_load_failed">Não foi possível carregar a imagem</string>
-  <string name="photo_view_count" formatted="false">%d de %d</string>  
-  <string name="please_fill_in_your_mailbox_information2">Introduza as informações da sua caixa de correio</string>  
+  <string name="photo_view_count" formatted="false">%d de %d</string>
+  <string name="please_fill_in_your_mailbox_information2">Introduza as informações da sua caixa de correio</string>
   <string name="policy_app_blacklist">Não permitir aplicações especificadas</string>
   <string name="policy_app_whitelist">Permitir apenas aplicações especificadas</string>
   <string name="policy_bluetooth_restricted">Restringir a utilização de Bluetooth</string>
@@ -628,7 +635,7 @@
   <string name="policy_dont_allow_unsigned_installers">Não permitir instalações de aplicações não assinadas</string>
   <string name="policy_dont_allow_wifi">Não permitir Wi-Fi</string>
   <string name="policy_email_age">Limitar o número de emails sincronizados</string>
-  <string name="policy_html_truncation">Restringir tamanho do email em HTML</string>  
+  <string name="policy_html_truncation">Restringir tamanho do email em HTML</string>
   <string name="policy_password_expiration">Exigir expiração de palavras-passe</string>
   <string name="policy_password_history">Restringir a reutilização de palavras-passe antigas</string>
   <string name="policy_require_encryption">Exigir encriptação do dispositivo</string>
@@ -638,23 +645,23 @@
   <string name="policy_require_smime">Exigir mensagens em SMIME</string>
   <string name="policy_screen_timeout">Exigir dispositivo inactivo para bloquear ecrã</string>
   <string name="policy_text_truncation">Restringir o tamanho do email em texto</string>
-  <string name="pop3_name">POP3</string>  
-  <string name="preference_eas_tips">Toque Activar para configurar o servidor de email.</string>  
-  <string name="preference_imap_tips" />
-  <string name="preference_pop_tips">Em POP3, os anexos serão transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis.</string>  
+  <string name="pop3_name">POP3</string>
+  <string name="preference_eas_tips">Toque Activar para configurar o servidor de email.</string>
+  <string name="preference_imap_tips"/>
+  <string name="preference_pop_tips">Em POP3, os anexos serão transferidos automaticamente com o email. Isto pode aumentar o consumo de dados móveis.</string>
   <string name="preference_sender_image_description">Mostrar fotos de perfil ao lado do nome na caixa de entrada</string>
-  <string name="preference_sender_image_title">Mostrar fotos de perfil na caixa de entrada</string>  
+  <string name="preference_sender_image_title">Mostrar fotos de perfil na caixa de entrada</string>
   <string name="preferences_signature_dialog_title">Assinatura</string>
   <string name="preferences_signature_summary_not_set">Não definida</string>
-  <string name="preferences_signature_title">Assinatura</string>  
+  <string name="preferences_signature_title">Assinatura</string>
   <string name="preview_attachment">Pré-visualizar</string>
   <string name="previous_action">Voltar</string>
   <string name="print">Imprimir</string>
-  <string name="prompt_title">Perguntar</string>  
+  <string name="prompt_title">Perguntar</string>
   <string name="protocol_eas">eas</string>
   <string name="protocol_imap">imap</string>
   <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>  
+  <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Descer para actualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
@@ -685,7 +692,7 @@
   <string name="quick_reply_hint_cc">"(Em CC) "</string>
   <string name="quick_responses_empty_view">Sem respostas rápidas</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
-  <string name="quote_divider_1">-------- a mensagem original --------</string>  
+  <string name="quote_divider_1">-------- a mensagem original --------</string>
   <string name="quote_divider_11">----- original -----</string>
   <string name="quote_divider_12"> a mensagem original </string>
   <string name="quote_divider_2">---a mensagem original---</string>
@@ -693,7 +700,7 @@
   <string name="quote_divider_4">-----Mensagem Original-----</string>
   <string name="quote_divider_5">-----------A linha de separação é utilizada para fazer referência-------------</string>
   <string name="quote_divider_6">---Original---</string>
-  <string name="quote_divider_7">Mensagem Original</string>  
+  <string name="quote_divider_7">Mensagem Original</string>
   <string name="quote_divider_apple">"
 &gt;"</string>
   <string name="quote_divider_huawei_zh">Enviado do meu Huawei</string>
@@ -708,9 +715,9 @@
   <string name="quoted_text_label">Texto citado</string>
   <string name="re_download_message_button">Toque para transferir novamente</string>
   <string name="re_download_message_info">Não foi possível transferir o email</string>
-  <string name="read_string">conversa lida</string>  
+  <string name="read_string">conversa lida</string>
   <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
-  <string name="recipient_needed_title">Alerta</string>  
+  <string name="recipient_needed_title">Alerta</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando não incomodar está ligado</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
   <string name="refresh">Actualizar</string>
@@ -724,19 +731,19 @@
   <string name="reply">Responder</string>
   <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>
-  <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>  
+  <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
   <string name="report_phishing">Denunciar phishing</string> 
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="respond_inline">Responder inline</string>
   <string name="save_action">Guardar</string>
-  <string name="save_attachment">Guardar</string>  
+  <string name="save_attachment">Guardar</string>
   <string name="save_draft_failed">Erro ao guardar rascunho</string>
   <string name="save_power_summary">Definir tempo de poupança de energia</string>
   <string name="save_power_title">Poupança de bateria</string>
   <string name="saved">Guardado, %s</string>
   <string name="saving">A guardar…</string>
-  <string name="sdcard_cannot_use">Não é possível utilizar o cartão SD</string>  
+  <string name="sdcard_cannot_use">Não é possível utilizar o cartão SD</string>
   <string name="search_hint">Pesquisar email</string>
   <string name="search_result">Resultados</string> 
   <string name="search_tabs_name_all">Todos</string>
@@ -744,7 +751,7 @@
   <string name="search_tabs_name_sender">Remetente</string>
   <string name="search_tabs_name_subject">Assunto</string>
   <string name="search_title">Email unificado</string>
-  <string name="search_txt_size_limit_prompt">Os termos de pesquisa devem ser maiores que 3 caracteres</string>  
+  <string name="search_txt_size_limit_prompt">Os termos de pesquisa devem ser maiores que 3 caracteres</string>
   <string name="security_changed_ticker_fmt">Conta \"%s\" alterou as suas definições de segurança. Não é necessária nenhuma acção do utilizador.</string>
   <string name="security_needed_ticker_fmt">Conta \"%s\" exige a actualização das definições de segurança.</string>
   <string name="security_notification_content_change_title">Políticas de segurança alteradas</string>
@@ -753,7 +760,7 @@
   <string name="security_unsupported_ticker_fmt">Conta \"%s\" não pode ser sincronizada devido a requisitos de segurança.</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
-  <string name="send">Enviar</string>  
+  <string name="send">Enviar</string>
   <string name="send_failed">A mensagem não foi enviada.</string>
   <string name="sender_whitelist_cleared">As imagens não serão mostradas automaticamente.</string>
   <string name="senders_elided">..</string>
@@ -775,18 +782,18 @@
   <string name="sharing">Partilhar</string>
   <string name="shortcut_name_title">Nome do atalho da pasta</string>
   <string name="show_elided">▶ Mostrar citação</string>
-  <string name="show_images">Transferir e mostrar imagens</string>  
+  <string name="show_images">Transferir e mostrar imagens</string>
   <string name="signature">"
 
 
 
-%s"</string>  
+%s"</string>
   <string name="silent_ringtone">Silêncio</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">A palavra passe do servidor de correio de saída está incorrecta</string>
-  <string name="sort_attachment">Ordenar por</string>   
+  <string name="sort_attachment">Ordenar por</string> 
   <string name="storage">Armazenamento</string>
   <string name="str_select_all">Seleccionar tudo</string>
   <string name="str_select_none">Desmarcar tudo</string>
@@ -803,8 +810,8 @@
   <string name="system_folders_trash_summary">Seleccione a pasta de lixo do servidor</string>
   <string name="system_folders_trash_title">Pasta de lixo</string>
   <string name="tablet">tablet</string>
-  <string name="tap_to_configure">Toque para configurar.</string>  
-  <string name="tap_to_enable_sync">Toque para activar.</string>  
+  <string name="tap_to_configure">Toque para configurar.</string>
+  <string name="tap_to_enable_sync">Toque para activar.</string>
   <string name="tip_cannot_switchview_in_unread_folder">Não foi possível alternar vista no modo de agregação de e-mails não lidos</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
@@ -818,17 +825,18 @@
   <string name="too_large_to_attach_single">Não é possível anexar maiores que %1$s.</string>
   <string name="trash_folder_selection_title">Seleccione a pasta de lixo do servidor para %s</string>
   <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>  
-  <string name="trigger_y_char">y</string>  
+  <string name="trigger_refresh_char">u</string>
+  <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Tente iniciar sessão com exchange</string>
   <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, serão sincronizadas entre a web, os seus dispositivos e o seu %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
-  <string name="undo">Anular</string>  
+  <string name="undo">Anular</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-  <string name="updated_at">Actualizado em %1$s</string>  
+  <string name="updated_at">Actualizado em %1$s</string>
   <string name="upload_log">Enviar registos</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
@@ -837,14 +845,14 @@
   <string name="upload_log_yes">A enviar</string>
   <string name="uploading_logs">Aguarde um seg…</string>
   <string name="validation_failed_prompt">Não foi possível verificar a conta, verifique as definições do servidor %s</string>
-  <string name="veiled_address" />
-  <string name="veiled_alternate_text" />
-  <string name="veiled_alternate_text_unknown_person" />
-  <string name="veiled_summary_unknown_person" />
+  <string name="veiled_address"/>
+  <string name="veiled_alternate_text"/>
+  <string name="veiled_alternate_text_unknown_person"/>
+  <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
-Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente.</string>  
+Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente.</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
@@ -852,5 +860,5 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="wrong_password">A palavra-passe que inseriu está errada</string>
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Enviar registo usando a ligação de dados móveis? Se ultrapassar o limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
-  <string name="zip_viewer_no_file">Sem ficheiros.</string>  
+  <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>
