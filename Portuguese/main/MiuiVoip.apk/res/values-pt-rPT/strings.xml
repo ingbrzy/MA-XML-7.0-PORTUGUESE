@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="__leak_canary_class_has_leaked">%s vazou</string>
-  <string name="__leak_canary_display_activity_label">Vazamentos</string>
-  <string name="__leak_canary_leak_list_title">Vazamento encontrado em %s</string>
+  <string name="__leak_canary_class_has_leaked">%s foi divulgado</string>
+  <string name="__leak_canary_display_activity_label">Divulgações</string>
+  <string name="__leak_canary_leak_list_title">Divulgação encontrada em %s</string>
   <string name="__leak_canary_notification_message">Toque para ver detalhes</string>
   <string name="__leak_canary_share_heap_dump">Partilhar despejo de pilha</string>
   <string name="__leak_canary_share_leak">Partilhar</string>
@@ -13,10 +13,10 @@
   <string name="app_version_which_call">Versão da aplicação:%s</string>
   <string name="confirm_activation">Activar</string>
   <string name="cur_activated_number_tag">%s (número actual)</string>
-  <string name="engine_activate_successfully">Voz Mi activado</string>
+  <string name="engine_activate_successfully">Voz Mi activada</string>
   <string name="engine_activate_unsuccessfully">Não foi possível activar Voz Mi</string>
   <string name="engine_activating">Aguarde um seg…</string>
-  <string name="license_host_unreachable">"Não é possível ligar à rede. Para ver esta informação agora, 
+  <string name="license_host_unreachable">"Não foi possível ligar à rede. Para ver esta informação agora, 
 vá a %s"</string>
   <string name="loading">Aguarde um seg…</string>
   <string name="msim_sim1">"SIM 1 "</string>
@@ -44,20 +44,20 @@ vá a %s"</string>
   <string name="pref_key_cur_activated_number_summary">Os seus contactos podem utilizar este número para o encontrar</string>
   <string name="pref_key_cur_activated_number_title">Número de telefone</string>
   <string name="pref_key_enable_voip_title">Activar Voz Mi</string>
-  <string name="pref_key_leak_canary">Canário de Vazamento</string>
+  <string name="pref_key_leak_canary">Divulgação de link</string>
   <string name="pref_key_only_voip_with_contacts_title">Apenas utilizar para chamadas com contactos</string>
   <string name="pref_key_version_title">Versão</string>
   <string name="pref_key_voip_contact_list">Contactos online</string>
   <string name="pref_print_key_logs">Imprimir registos de chave</string>
   <string name="pref_users_list_title">Utilizadores</string>
-  <string name="show_dev_on">É agora um programador Voz Mi!</string>
+  <string name="show_dev_on">Agora é um programador Voz Mi!</string>
   <string name="show_nondev_on">Não é um programador Voz Mi!</string>
   <string name="st_show_num_number">" números"</string>
   <string name="statusbar_notification_action_end_call">Desligar</string>
   <string name="statusbar_notification_dialing">A marcar…</string>
   <string name="statusbar_notification_incoming_call">Chamada recebida</string>
   <string name="statusbar_notification_ongoning_call">Chamada em curso</string>
-  <string name="unknown">Ocorreu um erro desconhecido.</string>
+  <string name="unknown">Ocorreu um erro desconhecido</string>
   <string name="user_agreement">Política de Privacidade</string>
   <string name="voip_about">Voz Mi</string>
   <string name="voip_about_gif_desc">Faça chamadas utilizando Voz Mi directamente do marcador ou da página de informação dos contactos.</string>
@@ -83,9 +83,9 @@ vá a %s"</string>
 A trocar para GSM  em %1$d seg…"</string>
   <string name="voip_droped_call">%1$s desligado</string>
   <string name="voip_ending_call">A desligar…</string>
-  <string name="voip_free_video_tip">Vídeo-chamada Voz Mi</string>
+  <string name="voip_free_video_tip">Videochamada Voz Mi</string>
   <string name="voip_gsm_online">Não pode configurar Voz Mi enquanto GSM estiver em utilização</string>
   <string name="voip_incall">Não pode configurar Voz Mi durante uma chamada.</string>
-  <string name="voip_support_net_tips">Utilizar Wi-Fi ou 3G ou ligação de dados móveis mais rápida</string>
+  <string name="voip_support_net_tips">Utilizar Wi-Fi, 3G ou dados móveis para melhorar ligação à rede</string>
   <string name="voip_the_other_is_on_the_phone">Ocupado</string>
 </resources>

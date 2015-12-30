@@ -2,8 +2,8 @@
 <resources>
   <string name="about_fraud_num_online_identification">Acerca da identificação online de phishing</string>
   <string name="about_phone_event">Acerca do serviço de mensagens</string>
-  <string name="about_smart_antispam_summary">Acerca de identificação de números desconhecidos</string>
-  <string name="about_telephone_fraud">Cuidado com as fraudes</string>
+  <string name="about_smart_antispam_summary">Acerca da identificação de números desconhecidos</string>
+  <string name="about_telephone_fraud">Acerca das fraudes</string>
   <string name="account_address">Endereços</string>
   <string name="account_order">Histórico de encomendas</string>
   <string name="account_title">Perfil</string>
@@ -237,7 +237,7 @@ Verifique o seu número de registo."</string>
   <string name="menu_correct_yellow_page">Reportar um erro</string>
   <string name="menu_delete_call_log">Eliminar registos de chamadas</string>
   <string name="menu_delete_one">Remover dos registos de chamadas</string>
-  <string name="menu_enroll_in_yellow_page">Iniciar sessão nas páginas amarelas</string>
+  <string name="menu_enroll_in_yellow_page">Iniciar sessão nas Páginas amarelas</string>
   <string name="menu_follow_yellow_page">Seguir</string>
   <string name="menu_remove_black_list">Remover da lista de bloqueio</string>
   <string name="menu_remove_from_favorite">Remover dos favoritos</string>
@@ -358,7 +358,7 @@ Total: CNY %3$s"</string>
   <string name="toast_finish_delete_call_log">Registo de chamada(s) eliminado(s)</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tentar novamente</string>
-  <string name="turn_off_hint_title">Dica</string>
+  <string name="turn_off_hint_title">Aviso</string>
   <string name="turn_off_phone_event_hint">Se desligar esta funcionalidade, não poderá utilizá-la depois de desligar.</string>
   <string name="turn_off_smart_antispam_hint">Desligar a protecção para chamadas de desconhecidos?</string>
   <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de números</string>
@@ -380,12 +380,12 @@ Total: CNY %3$s"</string>
   <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do directório de classificação estão desactualizadas. Quer actualizá-las? Ao utilizar este serviço concorda com %1$s e %2$s da Xiaomi.</string>
   <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-lo? Ao utilizar este serviço concorda com %1$s e %2$s da Xiaomi.</string>
   <string name="view_orders">Ver encomendas</string>
-  <string name="voicemail">Correio de voz</string>
-  <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar correctamente.</string>
+  <string name="voicemail">Voice Mail</string>
+  <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar normalmente.</string>
   <string name="yellow_page_website">Website oficial</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
   <string name="yellowpage_navigation_network_location_enabled">Acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas de aceder às suas informações de localização.</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas aceder às suas informações de localização.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Acesso à localização</string>
 </resources>
