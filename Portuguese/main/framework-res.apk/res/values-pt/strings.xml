@@ -257,7 +257,7 @@ utilizando %s"</string>
   <string name="default_sms_application">com.android.mms</string>
   <string name="default_text_encoding">Latin-1</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Correio de voz</string>
+  <string name="defaultVoiceMailAlphaTag">Voice Mail</string>
   <string name="delete">Eliminar</string>
   <string name="deleted_key">%1$s deleted</string>
   <string name="deleteText">Eliminar</string>
@@ -820,7 +820,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
   <string name="permdesc_accessWimaxState">Permite que a aplicação determine se o WiMAX está activado e aceda a informações acerca de qualquer rede WiMAX que esteja ligada.</string>
   <string name="permdesc_accountManagerService">Permite que a aplicação efectue chamadas para Autênticadores de Conta.</string>
-  <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada de correio de voz.</string>
+  <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada do Voice Mail.</string>
   <string name="permdesc_anyCodecForPlayback">Permite que a aplicação utilize qualquer descodificador de multimédia instalado para descodificar a reprodução.</string>
   <string name="permdesc_asec_access">Permite à aplicação obter informações sobre o armazenamento interno.</string>
   <string name="permdesc_asec_create">Permite à aplicação criar armazenamento interno.</string>
@@ -1048,7 +1048,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_syncSettings">Acesso às definições de sincronização.</string>
   <string name="permgroupdesc_systemClock">Alterar a hora do dispositivo ou o fuso horário.</string>
   <string name="permgroupdesc_systemTools">Acesso e controlo de nível inferior do sistema.</string>
-  <string name="permgroupdesc_voicemail">Acesso directo ao correio de voz.</string>
+  <string name="permgroupdesc_voicemail">Acesso directo ao Voice Mail.</string>
   <string name="permgroupdesc_wallpaper">Alterar as definições do papel de parede do dispositivo.</string>
   <string name="permgroupdesc_writeDictionary">Adicionar palavras ao dicionário do utilizador.</string>
   <string name="permgrouplab_accessibilityFeatures">Os recursos de acessibilidade</string>
@@ -1079,7 +1079,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgrouplab_syncSettings">Definições de sincronização</string>
   <string name="permgrouplab_systemClock">Relógio</string>
   <string name="permgrouplab_systemTools">Ferramentas do sistema</string>
-  <string name="permgrouplab_voicemail">Correio de voz</string>
+  <string name="permgrouplab_voicemail">Voice Mail</string>
   <string name="permgrouplab_wallpaper">Papel de parede</string>
   <string name="permgrouplab_writeDictionary">Escrever o dicionário do utilizador</string>
   <string name="permission">Permissão</string>
@@ -1101,7 +1101,7 @@ para a conta %s."</string>
   <string name="permlab_accessWifiState">Ver ligações Wi-Fi</string>
   <string name="permlab_accessWimaxState">Ver ligações WiMAX</string>
   <string name="permlab_accountManagerService">Funciona como Serviço de Gestor de Conta</string>
-  <string name="permlab_addVoicemail">Adicionar correio de voz</string>
+  <string name="permlab_addVoicemail">Adicionar Voice Mail</string>
   <string name="permlab_anyCodecForPlayback">Utilizar qualquer descodificador de multimédia para a reprodução</string>
   <string name="permlab_asec_access">Obter informações sobre o armazenamento interno</string>
   <string name="permlab_asec_create">Criar armazenamento interno</string>

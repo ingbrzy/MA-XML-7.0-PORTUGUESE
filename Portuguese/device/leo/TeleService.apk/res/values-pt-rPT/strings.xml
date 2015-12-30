@@ -295,7 +295,7 @@
   <string name="description_image_button_three">três</string>
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_zero">zero</string>
-  <string name="description_voicemail_button">voicemail</string>
+  <string name="description_voicemail_button">Voice Mail</string>
   <string name="dial">Marcar</string>
   <string name="dial_emergency_empty_error">O número que marcou não está registado como um número de emergência. Marque um número de emergência.</string>
   <string name="dial_emergency_error">%s não é um número de emergência.</string>
@@ -502,7 +502,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incall_default_recording_service_class">com.android.incallui.CallRecordingService</string>
   <string name="incall_error_call_failed">Não é possível fazer a chamada.</string>
   <string name="incall_error_emergency_only">Não registado na rede.</string>
-  <string name="incall_error_missing_voicemail_number">Número de Voicemail desconhecido.</string>
+  <string name="incall_error_missing_voicemail_number">Número de Voice Mail desconhecido.</string>
   <string name="incall_error_no_active_sim">O cartão SIM não foi activado</string>
   <string name="incall_error_no_phone_number_supplied">Impossível fazer chamada número inválido.</string>
   <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
@@ -773,8 +773,8 @@ Será utilizada a rede preferida."</string>
   <string name="no_product_list">Vazio</string>
   <string name="no_sip_account_found">Não há contas de chamadas pela internet neste telemóvel. Quer adicionar uma conta agora?</string>
   <string name="no_sip_account_found_title">Sem conta de chamada pela internet</string>
-  <string name="no_vm_number">Número de voicemail em falta</string>
-  <string name="no_vm_number_msg">Não existe número de voicemail gravado no cartão SIM.</string>
+  <string name="no_vm_number">Número de Voice Mail em falta</string>
+  <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
   <string name="no_voip">Chamadas pela internet não suportadas</string>
   <string name="no_volte">Não é possível fazer chamadas IMS</string>
   <string name="no_vt_allowed">Para efectuar uma videochamada, desligue o modo TTY</string>
@@ -803,7 +803,7 @@ Será utilizada a rede preferida."</string>
   <string name="notification_network_selection_title">Sem serviço</string>
   <string name="notification_on_hold">Em espera</string>
   <string name="notification_ongoing_call">Chamada em curso</string>
-  <string name="notification_voicemail_no_vm_number">Número de Voicemail desconhecido</string>
+  <string name="notification_voicemail_no_vm_number">Número de Voice Mail desconhecido</string>
   <string name="notification_voicemail_text_format">Marcar %s</string>
   <string name="notification_voicemail_title">Nova mensagem de voz</string>
   <string name="notification_voicemail_title_count">Nova mensagem de voz (%d)</string>
@@ -1203,7 +1203,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sum_search_networks">Procurar por todas as redes disponíveis</string>
   <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>
   <string name="sum_show_caller_id">Mostrar o meu número</string>
-  <string name="sum_voicemail_choose_provider">Escolha o serviço de voicemail</string>
+  <string name="sum_voicemail_choose_provider">Escolha o serviço de Voice Mail</string>
   <string name="sum_xdivert_disabled">X-Divert Desactivo</string>
   <string name="sum_xdivert_enabled">X-Divert Activo</string>
   <string name="summary_manage_subscriptions">Gerir as definições de cada rede subscrita</string>
@@ -1280,14 +1280,14 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="ussdRunning">Código USSD a decorrer…</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="vibrate_on_ring_title">Vibrar quando tocar</string>
-  <string name="vm_change_failed">"Não foi possível alterar o número do Voicemail.
+  <string name="vm_change_failed">"Não foi possível alterar o número do Voice Mail.
 Contacte a sua operadora se este problema persistir."</string>
-  <string name="vm_changed">Número de Voicemail alterado.</string>
+  <string name="vm_changed">Número de Voice Mail alterado.</string>
   <string name="voice_privacy">Privacidade de voz</string>
   <string name="voice_privacy_summary"/>
   <string name="voice_report_incoming_call">A chamar</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
-  <string name="voicemail">Voicemail</string>
+  <string name="voicemail">Voice Mail</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">A minha operadora</string>
   <string name="voicemail_notification_ringtone_title">Som</string>
@@ -1295,12 +1295,12 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="voicemail_notification_vibrate_when_default">Nunca</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
   <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
-  <string name="voicemail_provider">Serviço de voicemail</string>
-  <string name="voicemail_provider_summary">Escolher o serviço de voicemail</string>
-  <string name="voicemail_settings">Definições do voicemail</string>
-  <string name="voicemail_settings_number_hint">Digite o número da caixa de voicemail</string>
-  <string name="voicemail_settings_number_label">Número do voicemail</string>
-  <string name="voicemail_settings_number_title">Número do voicemail</string>
+  <string name="voicemail_provider">Serviço de Voice Mail</string>
+  <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
+  <string name="voicemail_settings">Definições do Voice Mail</string>
+  <string name="voicemail_settings_number_hint">Digite o número da caixa de Voice Mail</string>
+  <string name="voicemail_settings_number_label">Número do Voice Mail</string>
+  <string name="voicemail_settings_number_title">Número do Voice Mail</string>
   <string name="voip_setting">Definições VoIP</string>
   <string name="volte_switch_summary">Utilizar Voz4G para melhorar a qualidade das chamadas de voz e vídeo</string>
   <string name="volte_switch_title">Voz4G activa</string>
