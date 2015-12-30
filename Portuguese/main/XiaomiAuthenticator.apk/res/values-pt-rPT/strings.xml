@@ -52,11 +52,11 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="error_uri">Chave não reconhecida.</string>
   <string name="forget_password">&lt;u&gt;Esqueceu palavra-passe&lt;/u&gt;</string>
   <string name="general_security_exception">Excepção de segurança geral</string>
-  <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo.</string>
+  <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
   <string name="howitworks_page_enter_code_details">Esta aplicação vai gerar o código necessário para proceder com o início de sessão.</string>
   <string name="howitworks_page_enter_code_title">Se estiver num novo computador, introduza um código do seu telefone</string>
-  <string name="howitworks_page_enter_password_details">No entanto, se está num novo computador ou dispositivo, a Xiaomi irá pedir um código especial para se certificar de que é realmente você.</string>
+  <string name="howitworks_page_enter_password_details">Se estiver num novo computador ou dispositivo, a Xiaomi irá pedir um código especial para certificar-se de que é realmente você.</string>
   <string name="howitworks_page_enter_password_title">Para iniciar sessão, vai introduzir a sua palavra-passe.</string>
   <string name="howitworks_page_verify_device_details">Também pode escolher para guardar o computador e a Xiaomi não voltará a pedir um código quando estiver lá.</string>
   <string name="howitworks_page_verify_device_title">Depois fica com a sessão iniciada.</string>
@@ -72,13 +72,13 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
   <string name="lockpattern_need_to_confirm">Desenhe o padrão outra vez para confirmar</string>
-  <string name="lockpattern_need_to_confirm_wrong">Inconsistente com o registo anterior, por favor reintroduza:</string>
+  <string name="lockpattern_need_to_confirm_wrong">Código padrão inserido não coincide com o anteriormente desenhado. Reintroduza código padrão:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Palavra-passe errada. Tem mais %d tentativas&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio:</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Tem de unir pelo menos %d pontos. Tente novamente:</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando estiver pronto.</string>
   <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
@@ -94,7 +94,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="login">Entrar</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
-  <string name="new_pattern_tip">A sua palavra-passe tem que ser maior que 4 caracteres</string>
+  <string name="new_pattern_tip">O código padrão tem de ser maior que 4 caracteres</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">Problema com a câmara, pode ser necessário reiniciar o dispositivo.</string>
@@ -151,7 +151,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Hora corrigida</string>
   <string name="tip1_patternforgotten">Reinstalar e reactivar</string>
   <string name="tip2_patternforgotten">Toque em Reiniciar para limpar os dados da conta e reactivar.</string>
-  <string name="tip_lockpattern">A sua palavra-passe tem que ser maior que 4 caracteres</string>
+  <string name="tip_lockpattern">O código padrão tem de ser maior que 4 caracteres</string>
   <string name="title_change_lockpattern">Definir padrão de bloqueio</string>
   <string name="title_createpattern">Criar palavra-passe</string>
   <string name="title_forgetpattern">Esquecer palavra-passe</string>
