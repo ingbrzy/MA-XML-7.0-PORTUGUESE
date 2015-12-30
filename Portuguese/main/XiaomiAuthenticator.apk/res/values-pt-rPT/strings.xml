@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password">&lt;u&gt;Esqueceu palavra-passe&lt;/u&gt;</string>
+  <string name="forget_password"><u>Esqueceu palavra-passe?</u></string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -108,7 +108,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Políticas de Privacidade</string>
   <string name="progress_loading">A carregar…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai &lt;b&gt;remover a sua capacidade &lt;/b&gt; de gerar códigos, no entanto, vai &lt;b&gt;not&lt;/b&gt; desligar a verificação em 2 passos. Isto pode impedi-lo de iniciar sessão na sua conta. &lt;p&gt; Antes de remover: &lt;ul&gt; &lt;li&gt;Desligar a verificação em 2 passos, or&lt;/li&gt; &lt;li&gt;Certifique-se que tem um método alternativo para gerar códigos.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai <b>remover a sua capacidade</b> de gerar códigos, no entanto, <b>não</b> vai desligar a verificação em 2 passos. Isto pode impedi-lo de iniciar sessão na sua conta. <p>Antes de remover: <ul> <li>Desligar a verificação em 2 passos, ou</li> <li>Certifique-se que tem um método alternativo para gerar códigos.</li> </ul></p></string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_account_dialog_message">"Remover esta conta irá remover a sua capacidade de gerar códigos. Isto pode impedi-lo de iniciar sessão na sua conta.
 
@@ -162,12 +162,12 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_nopassword_dialog">Limite diário</string>
   <string name="title_password">Palavra-passe</string>
   <string name="title_password_threshold">Limite diário = ￥%1$s</string>
-  <string name="title_patternforgotten">"Esqueceu palavra-passe？
+  <string name="title_patternforgotten">"Esqueceu palavra-passe?
 Pode："</string>
   <string name="title_updatepattern">Alterar palavra-passe</string>
   <string name="title_visible_pattern">Meter padrão visível</string>
   <string name="type_prompt">Tipo de chave</string>
-  <string name="update_pattern_jump">&lt;u&gt;Remover palavra-passe&lt;/u&gt;</string>
+  <string name="update_pattern_jump"><u>Remover palavra-passe</u></string>
   <string name="version_preference_title">Versão</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi, não será possível iniciar sessão na sua conta."</string>
   <string name="welcome_page_details">"— Mantenha a sua conta segura.
