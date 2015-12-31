@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password"><u>Esqueceu padrão de bloqueio?</u></string>
+  <string name="forget_password"><u>Esqueceu a sequência?</u></string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -58,7 +58,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="howitworks_page_enter_code_title">Se estiver num novo computador, introduza o código no seu telefone</string>
   <string name="howitworks_page_enter_password_details">Se estiver num novo computador ou dispositivo, a Xiaomi irá pedir um código especial para certificação de utilizador</string>
   <string name="howitworks_page_enter_password_title">Para iniciar sessão tem de introduzir a sua palavra-passe.</string>
-  <string name="howitworks_page_verify_device_details">Também pode optar em guardar a ligação a este computador e a Xiaomi não voltará a pedir um código quando a usar o mesmo computador.</string>
+  <string name="howitworks_page_verify_device_details">Também pode optar por guardar a ligação a este computador e a Xiaomi não voltará a pedir um código quando a usar o mesmo computador.</string>
   <string name="howitworks_page_verify_device_title">Depois fica com a sessão iniciada.</string>
   <string name="install_button">Instalar</string>
   <string name="install_dialog_message">Para digitalizar códigos de barras que contenham chaves, tem de instalar o digitalizador de códigos de barras ZXing.</string>
@@ -66,25 +66,25 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="jump_createpattern_tip">Desenhar um padrão para proteger a sua conta</string>
   <string name="jump_lockpattern_title">Atenção</string>
   <string name="jump_updatepattern_tip">Desenhe um padrão de bloqueio para proteger a sua conta.</string>
-  <string name="lockpassword_choose_your_pattern_header">Desenhe o seu padrão:</string>
-  <string name="lockpassword_confirm_your_pattern_header">Confirme o seu padrão:</string>
-  <string name="lockpassword_input_your_pattern_header">Confirme o seu padrão:</string>
+  <string name="lockpassword_choose_your_pattern_header">Desenhe o seu padrão</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirme o seu padrão</string>
+  <string name="lockpassword_input_your_pattern_header">Confirme o seu padrão</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Desenhe o seu padrão novamente para confirmar:</string>
-  <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide com o anterior. Desenhe o padrão novamente:</string>
+  <string name="lockpattern_need_to_confirm">Desenhe o seu padrão novamente para confirmar</string>
+  <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide com o anterior. Desenhe o padrão novamente</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Padrão incorrecto. Tem mais %d tentativas&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio:</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Tem de unir pelo menos %d pontos. Tente novamente:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Tem de unir pelo menos %d pontos. Tente novamente</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando tiver terminado</string>
-  <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
+  <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
   <string name="lockpattern_retry_text">Reiniciar padrão</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_close_label">Fechar</string>
@@ -97,11 +97,11 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="new_pattern_tip">O padrão de bloqueio tem de ser maior que 4 pontos</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="open_camera_exception_dialog_content">Problemas com a câmara. Terá que ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara.</string>
+  <string name="open_camera_exception_dialog_content">Problemas com a câmara. Poderá ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara.</string>
   <string name="open_camera_exception_dialog_title">Problemas com a câmara</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Projecto código aberto</string>
-  <string name="original_pattern_tip">Introduza padrão de desbloqueio:</string>
+  <string name="original_pattern_tip">Introduza padrão de desbloqueio</string>
   <string name="password_error">A palavra-passe que introduziu está incorrecta</string>
   <string name="password_forget">Esqueceu palavra-passe?</string>
   <string name="password_hint">Introduza a sua palavra-passe da conta Mi</string>
@@ -162,7 +162,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_nopassword_dialog">Limite diário</string>
   <string name="title_password">Palavra-passe</string>
   <string name="title_password_threshold">Limite diário = €%1$s</string>
-  <string name="title_patternforgotten">"Esqueceu-se da Sequência?
+  <string name="title_patternforgotten">"Esqueceu a sequência?
 Pode："</string>
   <string name="title_updatepattern">Alterar padrão</string>
   <string name="title_visible_pattern">Meter padrão visível</string>
