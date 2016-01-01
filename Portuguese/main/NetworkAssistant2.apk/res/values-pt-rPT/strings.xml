@@ -93,7 +93,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar por</string>
   <string name="dialog_roaming_message">Permitir que esta aplicação utilize dados móveis em roaming?</string>
-  <string name="dialog_roaming_title">Dados em Roaming</string>
+  <string name="dialog_roaming_title">Dados em roaming</string>
   <string name="dialog_title_attention">Atenção</string>
   <string name="disable_air_mode">Desligar primeiro o modo de avião</string>
   <string name="dns_exception_summary">Verificar as definições DNS do router</string>
@@ -135,7 +135,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="input_traffic_pkg">Introduzir utilização de dados</string>
   <string name="input_used_hint">Introduzir utilização de dados</string>
   <string name="input_used_max_hint">Introduzir utilização de dados (menos de %s)</string>
-  <string name="international_roaming_setting">Dados em Roaming</string>
+  <string name="international_roaming_setting">Dados em roaming</string>
   <string name="international_roaming_whitelist_count">%d aplicações podem utilizar dados móveis em roaming</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema, tente usar um endereço IP estático.</string>
   <string name="kilobyte_per_second">KB/s</string>
@@ -290,7 +290,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_add_traffic_pkg">Dados adicionais da compra</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_traffic_data">Definir utilização de dados</string>
-  <string name="pref_allow_connect_network_title">Dados em Roaming</string>
+  <string name="pref_allow_connect_network_title">Dados em roaming</string>
   <string name="pref_allow_connect_network_whitelist_title">Permitir que excepções utilizem dados móveis</string>
   <string name="pref_app_traffic_managent">Restringir utilização de dados por aplicação</string>
   <string name="pref_auto_adjust_settings">Sincronização automática das definições das estatísticas de utilização de dados</string>
@@ -325,7 +325,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_package_traffic_settings">Limite dos dados móveis</string>
   <string name="pref_pkg_begin_date">Ciclo utilização de dados</string>
   <string name="pref_roaming_daily_limit_setting">Limite de dados diário para Roaming</string>
-  <string name="pref_roaming_setting_gategory">Dados em Roaming</string>
+  <string name="pref_roaming_setting_gategory">Dados em roaming</string>
   <string name="pref_setting_operators_message">Editar a mensagem que o dispositivo envia à sua operadora para sincronizar as suas estatísticas da utilização de dados</string>
   <string name="pref_show_mobile_traffic">Mostrar utilização de dados durante o desbloqueio após o dispositivo estar bloqueado por mais de 5 minutos</string>
   <string name="pref_special_traffic_exceed_limit">Notifique-me quando a utilização de dados atingir o limite</string>
@@ -382,7 +382,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="roaming_not_start_body">Toque para ver definições de dados em roaming.</string>
   <string name="roaming_not_start_title">Roaming</string>
   <string name="roaming_start_body">Toque para ver dados em roaming das excepções.</string>
-  <string name="roaming_start_title">Dados em Roaming</string>
+  <string name="roaming_start_title">Dados em roaming</string>
   <string name="root">Acesso Root</string>
   <string name="saving_conflict_dialog_cancel">Cancelar</string>
   <string name="saving_conflict_dialog_ok">OK</string>
