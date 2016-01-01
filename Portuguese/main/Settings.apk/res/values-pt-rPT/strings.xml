@@ -1034,7 +1034,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
   <string name="force_msaa">Forçar 4x MSAA</string>
   <string name="force_msaa_summary">Activar 4x MSAA em OpenGL ES 2.0 aplicações</string>
-  <string name="force_rtl_layout_all_locales">Forçar Direcção do RTL</string>
+  <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Forçar direcção do RTL na disposição do ecrã para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação ela poderá deixar de funcionar normalmente.</string>
@@ -1143,7 +1143,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="home_settings">Início</string>
   <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe e números de cartões de crédito e outros dados pessoais.</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
-  <string name="immediately_destroy_activities_summary">Destruir todas as actividades, assim que forem abandonadas</string>
+  <string name="immediately_destroy_activities_summary">Destruir todas as actividades, assim que estas forem abandonadas</string>
   <string name="ims_reg_required_off">Desactivar registo obrigatório IMS</string>
   <string name="ims_reg_required_on">Activar registo obrigatório IMS</string>
   <string name="incoming_call_breathing_light_color_title">Cor do LED nas chamadas</string>
@@ -1839,7 +1839,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="process_stats_memory_status">A memória do dispositivo está actualmente em %1$s</string>
   <string name="process_stats_run_time">Tempo decorrido</string>
   <string name="process_stats_summary">Estatísticas Geeky sobre processos em execução</string>
-  <string name="process_stats_summary_title">Estatísticas de Processos</string>
+  <string name="process_stats_summary_title">Estatísticas de processos</string>
   <string name="process_stats_total_duration">%1$s aplicações de %2$s</string>
   <string name="process_stats_type_background">Segundo plano</string>
   <string name="process_stats_type_cached">Armazenados em cache</string>
@@ -2133,7 +2133,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="search_wallpaper">papel de parede</string>
   <string name="search_wifi">wi-fi</string>
   <string name="search_wifi_display">visualização wi-fi</string>
-  <string name="secure_keyguard_business_title">Palavra-passe de bloqueio de ecrã</string>
+  <string name="secure_keyguard_business_title">Palavra-passe de bloqueio do ecrã</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
@@ -2187,10 +2187,10 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="settings_safetylegal_title">Informações de segurança</string>
   <string name="settings_shortcut">Atalho de Definições</string>
   <string name="show_all_anrs">Mostrar todos os ANRs</string>
-  <string name="show_all_anrs_summary">Mostrar diálogo das aplicações que não respondem para ligações em segundo plano</string>
+  <string name="show_all_anrs_summary">Mostrar informação das aplicações que não respondem à execução em segundo plano</string>
   <string name="show_background_processes">Mostrar processos em cache</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
-  <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar a utilização do CPU actual</string>
+  <string name="show_cpu_usage_summary">Sobreposição no ecrã ao mostrar a utilização do CPU actual</string>
   <string name="show_dev_already">Já é programador</string>
   <string name="show_dev_on">É agora um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
@@ -2517,7 +2517,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
   <string name="unlock_disable_lock_pin_summary">Remover PIN</string>
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
-  <string name="unlock_set_enter_system">Aceder directamente ao bloqueio de ecrã</string>
+  <string name="unlock_set_enter_system">Aceder directamente ao bloqueio do ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após ligar</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo (experimental)</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
