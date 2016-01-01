@@ -603,7 +603,7 @@ Motivo: \"%s\""</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
   <string name="menu_new_group_action_bar">Novo</string>  
   <string name="menu_not_redirect_calls_to_vm">O Voice Mail não está ligado</string>
-  <string name="menu_redirect_calls_to_vm">Todas chm. para corr. de voz</string>
+  <string name="menu_redirect_calls_to_vm">Reencaminhar todas chamadas deste contacto para o Voice Mail</string>
   <string name="menu_removeStar">Remover dos favoritos</string>
   <string name="menu_search">Pesquisar</string>
   <string name="menu_select_all">Seleccionar tudo</string>
@@ -917,7 +917,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="recent_contacts_label">Recentes</string>
   <string name="recent_number">Recente</string>
   <string name="recent_updates">Actualizações recentes</string>
-  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar a sua caixa de correio, verifique os termos e condições do seu contrato com o seu fornecedor da rede móvel.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail, verifique os termos e condições do seu contrato com o seu fornecedor de telecomunicações.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
   <string name="refresh">Actualizar</string>
   <string name="relationLabelsGroup">Relação</string>
@@ -1057,8 +1057,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_copy_done">Concluído</string>
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>
-  <string name="toast_finish_delete_call_log">Registo de chamada(s) eliminado(s)</string>
-  <string name="toast_finish_delete_selected_call_log">Registo(s) de chamada(s) eliminado(s)</string>
+  <string name="toast_finish_delete_call_log">Registo de chamada eliminado</string>
+  <string name="toast_finish_delete_selected_call_log">Registos de chamadas eliminados</string>
   <string name="toast_for_failed_saving_nickname">Erro ao gravar alcunha</string>
   <string name="toast_for_saving_nickname">Alcunha guardada</string>
   <string name="toast_join_with_empty_contact">Escrever o nome do contacto antes de o juntar com outro</string>
