@@ -621,7 +621,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="contributors_title">Contribuidores</string>
   <string name="controls_label">Controlos</string>
   <string name="controls_subtitle">Ajustar a utilização da energia</string>
-  <string name="copyright_title">Direitos de Autor</string>
+  <string name="copyright_title">Direitos de autor</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Criar</string>
   <string name="credential_storage_type">Tipo de armazenamento</string>
@@ -633,7 +633,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="credentials_install">Instalar do armazenamento</string>
   <string name="credentials_install_gesture_explanation">Tem que desenhar o seu padrão de desbloqueio para confirmar a instalação de credencial.</string>
   <string name="credentials_install_gesture_prompt">Desenhar o seu padrão de desbloqueio:</string>
-  <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
+  <string name="credentials_install_summary">Instalar certificados desde o armazenamento</string>
   <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado.</string>
   <string name="credentials_old_password">Palavra-passe actual:</string>
   <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
@@ -2324,7 +2324,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="status_bar_settings_show_notification_icon">Mostrar ícones na notificação</string>
-  <string name="status_bar_settings_show_screenshot_notification">Mostrar notificação de captura do ecrã</string>
+  <string name="status_bar_settings_show_screenshot_notification">Mostrar notificação da captura de ecrã</string>
   <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Recolher depois de tocar</string>
@@ -2403,7 +2403,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Actualizações do sistema</string>
-  <string name="terms_title">Termos e condições</string>
+  <string name="terms_title">Termos e Condições</string>
   <string name="testing">A testar</string>
   <string name="testing_battery_info">Informações da bateria</string>
   <string name="testing_phone_info">Informações do telefone</string>
@@ -3036,7 +3036,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_notification_summary">MIUI ligou-o a uma rede Wi-Fi pública.</string>
   <string name="wifi_share_other_network">Outras redes</string>
   <string name="wifi_share_qrcode_finish">OK</string>
-  <string name="wifi_share_qrcode_summary">Para partilhar, digitalize o código QR em baixo.</string>
+  <string name="wifi_share_qrcode_summary">Para partilhar digitalize o código QR acima.</string>
   <string name="wifi_share_qrcode_title">Partilhar rede Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>

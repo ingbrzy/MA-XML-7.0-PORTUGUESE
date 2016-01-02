@@ -377,7 +377,7 @@
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Receber automaticamente MMS</string>
   <string name="pref_summary_mms_read_reports">Pedir relatório de leitura ao enviar mensagens</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Receber automaticamente as mensagens quando em roaming</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Receber automaticamente as mensagens quando o roaming está activo</string>
   <string name="pref_summary_mx_feedback">Enviar erros e comentários</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo convidado</string>
@@ -606,7 +606,7 @@ Tentativas efectuadas: %s."</string>
   <string name="user_agreement2">Termos do Serviço</string>
   <string name="user_agreement3">" e "</string>
   <string name="user_agreement4">Política de Privacidade</string>
-  <string name="user_agreement5">Ao tocar OK, Concorda com os termos descritos nestes documentos.</string>
+  <string name="user_agreement5">Ao tocar OK, concorda com os termos descritos nestes documentos.</string>
   <string name="view">Ver</string>
   <string name="view_bookmark">Ver mensagem original</string>
   <string name="view_hms_attachment_fail">Não é possível transferir a imagem</string>
