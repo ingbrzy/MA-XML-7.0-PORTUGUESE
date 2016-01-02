@@ -571,7 +571,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar o volume de chamada recebida para notificações</string>
   <string name="checking_for_updates">A verificar actualizações…</string>
-  <string name="checking_find_device_status">A verificar estado de Localizar dispositivo…</string>
+  <string name="checking_find_device_status">A verificar estado de localização do dispositivo…</string>
   <string name="children_mode_enable_title">Modo criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
   <string name="children_mode_tips_off">Após ligar o modo criança, toque no botão início para retornar ao ecrã inicial</string>
@@ -990,10 +990,10 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
-  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde alguns minutos e tente novamente.</string>
+  <string name="failed_to_check_find_device_status_content">Falha ao verificar o estado de localização do dispositivo. Espere um momento e tente novamente.</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de Localizar dispositivo</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
-  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar dispositivo. Aguarde alguns minutos e tente novamente.</string>
+  <string name="failed_to_shut_down_find_device_content">Não foi possível parar de localizar o dispositivo. Espere um momento e tente novamente.</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar Localizar dispositivo</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="filter">Filtro</string>
@@ -1025,7 +1025,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="font_size_preview_text">Sirva a este homem uma cerveja e kiwis.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Menor</string>
-  <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone, e menus de sistema.
+  <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone e menus de sistema.
 
 "</string>
   <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
@@ -1089,7 +1089,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="handy_mode">Modo de uma mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar o ecrã para mais perto de um dos lados.</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão início para puxar o ecrã para mais perto de uma das extremidades.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -3071,7 +3071,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_subnet_mask">Máscara de sub-rede</string>
   <string name="wifi_suspend_optimizations">Optimização Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimizar a utilização da bateria quando a rede Wi-Fi está ligada</string>
-  <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_checkbox_text">Ponto de acesso móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso móvel</string>
   <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de acesso móvel: SSID %1$s</string>

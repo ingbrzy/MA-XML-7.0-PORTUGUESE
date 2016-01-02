@@ -102,7 +102,7 @@
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
   <string name="callrecordview_menu_batch_delete">Seleccionar e eliminar registos de chamadas</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Eliminar registo de chamada</string>
+  <string name="callrecordview_menu_delete">Eliminar registo de chamada(s)</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
   <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
@@ -145,7 +145,7 @@
   <string name="clearCallLogConfirmation">Todos os seus registos de chamadas serão eliminados</string>
   <string name="clearCallLogConfirmation_title">Limpar todos os registos de chamadas</string>
   <string name="clearCallLogProgress_title">A limpar registo de chamadas</string>
-  <string name="clearFrequentsConfirmation">Limpar a lista de contactos frequentes em Contactos e Telefone e forçar as aplicações de email a aprender as suas preferências de endereços de novo.</string>
+  <string name="clearFrequentsConfirmation">Limpar a lista de contactos frequentes em contactos e telefone vai forçar as aplicações de email a gravar as suas preferências de endereços novamente.</string>
   <string name="clearFrequentsConfirmation_title">Limpar contactos frequentes?</string>
   <string name="clearFrequentsProgress_title">A limpar contactos frequentes…</string>
   <string name="clear_default">Limpar predefinido</string>
@@ -164,7 +164,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
   %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Erro ao obter informações da base de dados.</string>
-  <string name="composer_has_no_exportable_contact">Não existem contactos para exportar. Se realmente tem contactos no telefone, o fornecedor de dados pode ter impedido a exportação.</string>
+  <string name="composer_has_no_exportable_contact">Não existem contactos para exportar. Se tem os contactos no telefone o fornecedor de dados pode ter impedido a exportação.</string>
   <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente.</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider" />
@@ -172,8 +172,8 @@
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
   <string name="config_prohibited_phone_number_regexp" />
-  <string name="confirm_delete_contact_all_call_logs">Eliminar registo de chamada?</string>
-  <string name="confirm_delete_selected_all_call_logs">Eliminar registo de chamada?</string>
+  <string name="confirm_delete_contact_all_call_logs">Eliminar registo de chamadas?</string>
+  <string name="confirm_delete_selected_all_call_logs">Eliminar registo de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
   <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s.</string>
   <string name="confirm_export_title">Exportar contactos?</string>
@@ -254,10 +254,10 @@
   <string name="deleteConfirmation">Este contacto será eliminado.</string>
   <string name="deleteConfirmation_title">Eliminar este contacto?</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
-  <string name="delete_call_log_message">Eliminar registo de chamada?</string>
+  <string name="delete_call_log_message">Eliminar registo(s) de chamada(s)?</string>
   <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
-  <string name="delete_call_log_title">Registo de chamada seleccionado</string>
-  <string name="delete_contact_calllog_title">Eliminar registo de chamada?</string>
+  <string name="delete_call_log_title">Registo(s) de chamada(s)</string>
+  <string name="delete_contact_calllog_title">Eliminar registo de chamadas?</string>
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"A unir contactos… "</string>
@@ -266,7 +266,7 @@
   <string name="delete_selected_sim_entry_miui">Eliminar contactos seleccionados</string>
   <string name="delete_sim_entries_finish">Contactos do cartão SIM eliminados</string>
   <string name="delete_sim_entry_miui">Eliminar</string>
-  <string name="delete_unknown_contact_calllog_title">Eliminar registo de chamada?</string>  
+  <string name="delete_unknown_contact_calllog_title">Eliminar registo de chamadas?</string>  
   <string name="deleting_sim_entry_miui">A eliminar contactos do cartão SIM…</string>
   <string name="deleting_sim_entry_miui_prepare">A preparar contactos…</string>
   <string name="description_add_contact">Adicionar contacto</string>
@@ -807,7 +807,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="phone_primary">Primário</string>
   <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone.</string>
   <string name="photo_fragment">Foto</string>
-  <string name="photo_load_failed">"Não foi possivel carregar foto"</string>
+  <string name="photo_load_failed">"Não foi possível carregar foto"</string>
   <string name="pick_new_photo">Seleccionar nova foto da Galeria</string>
   <string name="pick_photo">Escolher foto da Galeria</string>
   <string name="picker_all_list_empty">Sem contactos</string>
@@ -917,7 +917,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="recent_contacts_label">Recentes</string>
   <string name="recent_number">Recente</string>
   <string name="recent_updates">Actualizações recentes</string>
-  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail, verifique os Termos e Condições do seu contrato com o seu fornecedor de telecomunicações.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e Condições do seu contrato com o seu fornecedor de telecomunicações.</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
   <string name="refresh">Actualizar</string>
   <string name="relationLabelsGroup">Relação</string>
@@ -939,7 +939,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scan">Verificar</string>
   <string name="scan_duplicate_message">%1$d contactos com informação idêntica</string>
   <string name="scan_merge">A pesquisar por contactos duplicados…</string>
-  <string name="scan_qrcode_card_hint1">Digitalizar código QR abaixo</string>
+  <string name="scan_qrcode_card_hint1">Digitalizar código QR acima</string>
   <string name="scan_qrcode_card_hint2" />
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
