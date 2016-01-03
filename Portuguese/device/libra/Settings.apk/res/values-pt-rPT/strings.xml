@@ -1019,11 +1019,11 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
-  <string name="failed_to_check_find_device_status_content">Falha ao verificar o estado de localização do dispositivo. Espere um momento e tente novamente.</string>
-  <string name="failed_to_check_find_device_status_title">Não conseguiu verificar o estado de Localizar dispositivo</string>
+  <string name="failed_to_check_find_device_status_content">Falha na verificação do estado de localização do dispositivo. Espere um momento e tente novamente.</string>
+  <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de localização do dispositivo</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
   <string name="failed_to_shut_down_find_device_content">Não foi possível parar de localizar o dispositivo. Espere um momento e tente novamente.</string>
-  <string name="failed_to_shut_down_find_device_title">Não foi possível desligar Localizar dispositivo</string>
+  <string name="failed_to_shut_down_find_device_title">Não foi possível desligar a localização do dispositivo</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="filter">Filtro</string>
   <string name="filter_apps_all">Todas</string>
@@ -2200,7 +2200,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="select_runtime_dialog_title">Seleccionar execução</string>
   <string name="select_runtime_title">Seleccionar execução</string>
   <string name="select_runtime_warning_message">Reiniciar para alterar o tempo de execução de %1$s para %2$s?</string>
-  <string name="select_logd_size_dialog_title">Seleccionar tamanho do registo por ficheiros registados</string>
+  <string name="select_logd_size_dialog_title">Tamanho dos ficheiros no registo</string>
   <string name="select_logd_size_title">Tamanho dos ficheiros no registo</string>
   <string name="select_ssid_type_title">Seleccionar SSID</string>
   <string name="selinux_status">Estado SELinux</string>

@@ -680,11 +680,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Personalizado</item>
     </string-array>	
     <string-array name="select_logd_size_summaries">
-        <item>64K por ficheiros registados</item>
-        <item>256K por ficheiros registados</item>
-        <item>1M por ficheiros registados</item>
-        <item>4M por ficheiros registados</item>
-        <item>16M por ficheiros registados</item>
+        <item>64K de limite no registo</item>
+        <item>256K de limite no registo</item>
+        <item>1M de limite no registo</item>
+        <item>4M de limite no registo</item>
+        <item>16M de limite no registo</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>
