@@ -431,7 +431,7 @@ utilizando %s"</string>
   <string name="ime_action_search">Pesquisar</string>
   <string name="ime_action_send">Enviar</string>
   <string name="imei">IMEI</string>
-  <string name="immersive_mode_confirmation">Deslize de cima para baixo para sair do ecrã completo.</string>
+  <string name="immersive_mode_confirmation">Deslize de cima para baixo para sair do ecrã inteiro.</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Personalizado</string>
   <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -893,7 +893,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_flashlight">Permite à aplicação controlar a lanterna.</string>
   <string name="permdesc_forceBack">Permite que a aplicação force qualquer actividade em primeiro plano a fechar e a retroceder. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_forceStopPackages">Permite à aplicação efectuar uma paragem forçada de outras aplicações.</string>
-  <string name="permdesc_freezeScreen">Permite à aplicação parar temporariamente a imagem para uma transição de ecrã completo</string>
+  <string name="permdesc_freezeScreen">Permite à aplicação parar temporariamente a imagem para uma transição de ecrã inteiro</string>
   <string name="permdesc_getAccounts">Permite que a aplicação obtenha a lista de contas reconhecidas pelo telemóvel. Pode incluir qualquer conta criada pelas aplicações instaladas.</string>
   <string name="permdesc_getAppOpsStats">Permite à aplicação recuperar as estatísticas recolhidas de funcionamento da aplicação. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_getDetailedTasks">Permite à aplicação obter informações detalhadas sobre tarefas actualmente em execução e recentemente executadas. As aplicações maliciosas poderão descobrir informações privadas de outras aplicações.</string>
