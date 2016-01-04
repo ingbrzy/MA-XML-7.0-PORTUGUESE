@@ -11,7 +11,7 @@
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Serviço Nuvem Apple</string>
   <string name="apple_cloud_eng">iCloud</string>
-  <string name="apple_cloud_price">Cerca de 9,50 € por ano</string>
+  <string name="apple_cloud_price">Cerca de 9,50€ por ano</string>
   <string name="bad_authentication">Conta ou palavra-passe inválido</string>
   <string name="btn_return">Voltar</string>
   <string name="button_cancel">Cancelar</string>
@@ -31,8 +31,8 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="click_to_enabled">Toque para sincronizar.</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque para fazer cópia de segurança</string>
-  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora, não poderá usar esta cópia de segurança para restaurar aplicações."</string>  
-  <string name="cloud_back_up_network_unavailable">"Não foi possível remover. Ligue se ao Wi-Fi e tente novamente."</string>
+  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações."</string>  
+  <string name="cloud_back_up_network_unavailable">"Não foi possível remover é necessário uma ligação à rede Wi-Fi. Tente novamente mais tarde."</string>
   <string name="cloud_back_up_open_info">"Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s</string>
@@ -43,19 +43,19 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud.</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar dispositivo</string>
-  <string name="cloud_restore_title">Restaurar da cópia</string>
+  <string name="cloud_restore_title">Restaurar uma cópia</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>  
   <string name="cloudservice_new_sync">Sincronizar %s com Nuvem Mi</string>
-  <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo, e partilhar coisas com amigos.</string>
+  <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
   <string name="contact">Contactos</string>
-  <string name="deskclock_backup">Cópia de Relógios</string>
-  <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
+  <string name="deskclock_backup">Cópia dos alarmes</string>
+  <string name="disable_find_device_error">Não foi possível desligar localizar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar dispositivo está desligado.</string>
   <string name="enableAll">Sincronizar tudo</string>
   <string name="enable_cloud_service_notification">É necessário activar a Nuvem Mi</string>
-  <string name="enable_find_device_error">Não foi possível ligar Localizar dispositivo. %1$s</string>
+  <string name="enable_find_device_error">Não foi possível ligar localizar dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar dispositivo está ligado.</string>
   <string name="enable_micloud">Utilizar a Nuvem Mi</string>
   <string name="enable_sync">Sincronizar</string>
@@ -103,9 +103,9 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
-  <string name="google_cloud_price">Cerca de 18,50 € por ano</string>
+  <string name="google_cloud_price">Cerca de 18,50€ por ano</string>
   <string name="header_cloud_backup_settings">Cópia e Restauro</string>
-  <string name="header_cloud_restore_summary">Reinstalar aplicações, restaurar disposição do ecrã inicial e definições de sistema de uma cópia na Nuvem Mi</string>
+  <string name="header_cloud_restore_summary">Reinstalar aplicações, restaurar a disposição inicial do ecrã e as definições de sistema de uma cópia na Nuvem Mi</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
   <string name="header_find_device_settings">Localizar dispositivo</string>
   <string name="header_other_settings">Definições adicionais</string>

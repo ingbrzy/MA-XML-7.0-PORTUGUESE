@@ -79,7 +79,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
   <string name="lockpattern_recording_incorrect_too_short">Tem de unir pelo menos %d pontos. Tente novamente</string>
-  <string name="lockpattern_recording_inprogress">Solte o dedo quando tiver terminado</string>
+  <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
   <string name="lockpattern_retry_text">Reiniciar padrão</string>
@@ -97,8 +97,8 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="new_pattern_tip">O padrão de bloqueio tem de ser maior que 4 pontos</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
-  <string name="open_camera_exception_dialog_content">Problemas com a câmara. Poderá ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara.</string>
-  <string name="open_camera_exception_dialog_title">Problemas com a câmara</string>
+  <string name="open_camera_exception_dialog_content">Erro inesperado na câmara. Poderá ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara.</string>
+  <string name="open_camera_exception_dialog_title">Erro inesperado na câmara</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Projecto open source</string>
   <string name="original_pattern_tip">Introduza padrão de desbloqueio</string>

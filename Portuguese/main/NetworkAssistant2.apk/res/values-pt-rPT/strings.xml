@@ -213,7 +213,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
 
  1. Certifique-se de que não excedeu o limite de dados móveis do plano da sua operadora.
 
- 2. Se acabou de recarregar o saldo do seu dispositivo, reinicie o seu dispositivo e tente novamente.
+ 2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente.
 
  3. O sinal de rede da sua operadora pode ser fraco na sua localização actual."</string>  
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora.</string>
@@ -486,8 +486,8 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_protection_text_hint">Definir limite de utilização de dados para %s</string>
   <string name="traffic_protection_unknown">&lt;u&gt;Configurar mais tarde&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Dados activados</string>
-  <string name="traffic_purchase_body">Toque para recarregar o seu saldo.</string>
-  <string name="traffic_purchse_suggestion">Recarregar dados móveis</string>
+  <string name="traffic_purchase_body">Toque para carregar o seu saldo.</string>
+  <string name="traffic_purchse_suggestion">Carregar dados móveis</string>
   <string name="traffic_saving_button_mng">Gerir aplicações</string>
   <string name="traffic_saving_button_sorted">Detalhes</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Ordenar por</string>

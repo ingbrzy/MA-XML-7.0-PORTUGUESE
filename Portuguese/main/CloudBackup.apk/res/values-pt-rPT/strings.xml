@@ -19,7 +19,7 @@
   </string>
   <string name="click_try_to_restore_again">Toque para tentar novamente</string>
   <string name="cloud_app_backup_success">Restauro das aplicações concluído</string>
-  <string name="cloud_app_check_data">Conversar com a Nuvem Mi…</string>
+  <string name="cloud_app_check_data">Em ligação com a Nuvem Mi…</string>
   <string name="cloud_app_current_device">Dispositivo actual</string>
   <string name="cloud_app_dont_restore">Configurar como um novo dispositivo</string>
   <string name="cloud_app_no_data">Sem cópias de segurança</string>
@@ -32,16 +32,16 @@
   <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes itens vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
-*\u0009\u0009\u0009\u0009Aplicações, disposição do ecrã inicial e papeis de parede 
+*\u0009\u0009\u0009\u0009Aplicações, disposição inicial do ecrã e papeis de parede 
 *\u0009\u0009\u0009\u0009Alarmes e definições de horas 
 *\u0009\u0009\u0009\u0009Definições de notificações 
-*\u0009\u0009\u0009\u0009Definições MIUI e de sistema 
-Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi."</string>
+*\u0009\u0009\u0009\u0009Definições MIUI e do sistema 
+Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem Mi."</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todo os dias</string>
   <string name="cloud_back_up_interval_long">7 dias</string>
-  <string name="cloud_back_up_interval_short">Todo os dias</string>
+  <string name="cloud_back_up_interval_short">Todos os dias</string>
   <string name="cloud_back_up_no_network_warn">Não é possível ligar à rede</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde um seg…</string>
@@ -50,9 +50,9 @@ Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi
   <string name="cloud_back_up_share_activity_title">Actualizar Conta Mi</string>
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Copiar uma vez</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s copiar uma vez</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s Cópias, tamanho:%2$s</string>
+  <string name="cloud_backup_detail_manage_summary">cópias: %1$s tamanho: %2$s</string>
   <string name="cloud_backup_detail_state">Cópias Nuvem Mi</string>
   <string name="cloud_backup_detail_state_summary">Aplicações, ecrã inicial e definições de sistema</string>
   <string name="cloud_backup_detail_time">, tempo da cópia:%1$s</string>
@@ -78,7 +78,7 @@ Nota: Dados das aplicações que instalou não vão ser copiados para a Nuvem Mi
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">"Não foi possível transferir o ecrã inicial"</string>
   <string name="error_unknown">Algo está errado</string>
-  <string name="latest_backup_time_loading">Loading…</string>
+  <string name="latest_backup_time_loading">A carregar…</string>
   <string name="managespace_delete_backup">Eliminar cópia</string>
   <string name="managespace_total_space">Espaço total: %s</string>
   <string name="menu_item_managespace">Gerir espaço</string>

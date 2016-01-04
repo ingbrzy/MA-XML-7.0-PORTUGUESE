@@ -520,10 +520,10 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="incoming_video_show_pref_title">"Mostrar perfil de vídeo do remetente"</string>
   <string name="international_dial_complete_intention">Poupar dinheiro em chamadas internacionais.</string>
   <string name="international_dial_complete_no">Agora não</string>
-  <string name="international_dial_complete_summary">Recarregar com MIUI para obter descontos em chamadas internacionais.</string>
+  <string name="international_dial_complete_summary">Carregar com MIUI para obter descontos em chamadas internacionais.</string>
   <string name="international_dial_complete_yes">Utilizar Voz Mi</string>
-  <string name="international_disable">Notícias Internacionais desactivo</string>
-  <string name="international_enable">Notícias Internacionais activo</string>
+  <string name="international_disable">Notícias internacionais desactivo</string>
+  <string name="international_enable">Notícias internacionais activo</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="internet_phone">Chamada pela internet</string>
   <string name="invalidPin">Introduza um PIN que tenha entre 4 a 8 números.</string>
@@ -777,17 +777,17 @@ Será utilizada a rede preferida."</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
   <string name="no_voip">Chamadas pela internet não suportadas</string>
   <string name="no_volte">Não é possível fazer chamadas IMS</string>
-  <string name="no_vt_allowed">Para efectuar uma videochamada, desligue o modo TTY</string>
-  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi &amp; definições de rede).</string>
-  <string name="no_wifi_available_title">Sem ligação á rede Wi-Fi</string>
+  <string name="no_vt_allowed">Para efectuar uma videochamada desligue o modo TTY</string>
+  <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi &amp; definições de rede).</string>
+  <string name="no_wifi_available_title">Sem ligação à rede Wi-Fi</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de recarregamento não foi verificado para o cartão SIM seleccionado. Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>  
+  <string name="not_activate_sim_card_content">"O pacote de carregamento não foi verificado para o cartão SIM seleccionado. Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>  
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarregamento não foi verificado para o cartão SIM %1$s(%2$s). Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_activate_sim_card_content_with_operator">"O pacote de carregamento não foi verificado para o cartão SIM %1$s(%2$s). Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada em vez. A sua operadora irá cobrá-lo por esta chamada.</string>
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada.</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
-  <string name="not_supported_number_content">"Pacote de recarregamento não suporta números de serviço. Tente utilizar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>  
+  <string name="not_supported_number_content">"O pacote de carregamento não é suportado por números de serviço. Tente utilizar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>  
   <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_action_end_call">Desligar</string>
@@ -846,7 +846,7 @@ Será utilizada a rede preferida."</string>
   <string name="ota_listen">Siga as instruções de voz.</string>
   <string name="ota_next">Seguinte</string>
   <string name="ota_progress">Aguarde enquanto o telemóvel é programado.</string>
-  <string name="ota_skip_activation_dialog_message">Se saltar a activação não pode fazer chamadas ou ligar a redes móveis de dados (embora possa ligar a redes Wi-Fi). Enquanto não activar o telemóvel, será informado a activá-lo cada vez que ligar o telefone.</string>
+  <string name="ota_skip_activation_dialog_message">Se ignorar a activação não poderá fazer chamadas ou ligar a redes móveis de dados (excepto ligar a redes Wi-Fi). Enquanto não proceder à activação receberá o aviso para o fazer cada vez que ligar o telefone.</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
   <string name="ota_skip_activation_dialog_title">Ignorar a activação?</string>
   <string name="ota_spc_failure">FALHAS SPC EXCESSIVAS</string>
@@ -1015,15 +1015,15 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
   <string name="purchase_description_summary">"- Telefone para qualquer lado no mundo, não há restrições de operadora.
-- Sem conflitos entre este serviço e o seu plano actual.
-- Não é preciso configurar, recarrege e comece a telefonar."</string>
+- Sem conflitos entre este serviço e o seu tarifário actual.
+- Não é necessário configurar, carregue e comece a falar."</string>
   <string name="purchase_description_title">Acerca de</string>
-  <string name="purchase_limit">Atingiu o limite de recarregamentos</string>
-  <string name="purchase_list">Histórico de compras</string>
-  <string name="purchase_notification">"Preços abaixo são para chamadas nacionais. Para chamadas internacionar ver o "</string>
+  <string name="purchase_limit">Atingiu o limite de carregamentos</string>
+  <string name="purchase_list">Histórico de carregamentos</string>
+  <string name="purchase_notification">"Preços abaixo são para chamadas nacionais. Para chamadas internacionais ver o "</string>
   <string name="query">Pergunta</string>
   <string name="radio_off_error">Activar o rádio antes de visualizar estas definições.</string>
-  <string name="rates_correspond">A corresponder tarifas.</string>
+  <string name="rates_correspond">A corresponder preços.</string>
   <string name="rc_unlock_failed">O pedido de desbloqueio do cartão RUIM da empresa falhou.</string>
   <string name="rc_unlock_success">Cartão SIM da empresa desbloqueado.</string>
   <string name="reading_settings">A carregar definições…</string>
