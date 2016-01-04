@@ -834,7 +834,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_street">Rua</string>
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos sem imagem</string>
-  <string name="pref_key_photo_word_title">Atribuir fotos de contacto</string>
+  <string name="pref_key_photo_word_title">Atribuir imagem ao contacto</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
   <string name="pref_key_sim_manage">Cartões SIM</string>
@@ -866,7 +866,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
-  <string name="preference_simple_mode_description">Mostrar fotos e outras informações de contacto em vista de lista</string>
+  <string name="preference_simple_mode_description">Mostrar fotos e outras informações de contacto na lista dos contactos</string>
   <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
   <string name="preference_smart_group_company_summary">Agrupar por empresa</string>
   <string name="preference_smart_group_company_title">Empresas</string>

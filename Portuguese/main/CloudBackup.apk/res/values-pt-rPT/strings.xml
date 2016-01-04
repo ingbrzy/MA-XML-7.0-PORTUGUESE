@@ -32,10 +32,10 @@
   <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes itens vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
-*\u0009\u0009\u0009\u0009Aplicações, disposição inicial do ecrã e papeis de parede 
-*\u0009\u0009\u0009\u0009Alarmes e definições de horas 
-*\u0009\u0009\u0009\u0009Definições de notificações 
-*\u0009\u0009\u0009\u0009Definições MIUI e do sistema 
+- Aplicações, disposição inicial do ecrã e papeis de parede 
+- Alarmes e definições de horas 
+- Definições das notificações 
+- Definições MIUI e do sistema 
 Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem Mi"</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
