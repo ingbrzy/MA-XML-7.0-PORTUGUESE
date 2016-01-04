@@ -833,8 +833,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_region">Estado</string>
   <string name="postal_street">Rua</string>
   <string name="pref_key_photo">Foto</string>
-  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos sem imagem</string>
-  <string name="pref_key_photo_word_title">Atribuir imagem ao contacto</string>
+  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos que não têm imagem</string>
+  <string name="pref_key_photo_word_title">Atribuir imagem de contacto</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
   <string name="pref_key_sim_manage">Cartões SIM</string>
