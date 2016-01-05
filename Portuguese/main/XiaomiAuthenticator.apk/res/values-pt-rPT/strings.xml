@@ -12,7 +12,7 @@
   <string name="app_name_lockpattern">Padrão de Bloqueio</string>
   <string name="app_name_short">Autenticador</string>
   <string name="authenticator_invalid_tip">É possível que este recurso tenha sido desligado através do navegador do seu computador ou tenha sido activo outro token de segurança Mi.</string>
-  <string name="authenticator_invalid_title">Conta：%1$s o token de segurança expirou.</string>
+  <string name="authenticator_invalid_title">Conta:%1$s o token de segurança expirou.</string>
   <string name="authenticator_page_reactivation">Reactivar</string>
   <string name="button_add_account">Adicionar uma conta</string>
   <string name="button_add_account_manual_entry">Adicionar uma conta manualmente</string>
@@ -29,8 +29,8 @@
   <string name="check_code_title">Valor de verificação de integridade</string>
   <string name="continue_btn">Continuar</string>
   <string name="copy_to_clipboard">Copiar para a área de transferência</string>
-  <string name="correct_enter_password">A palavra-passe que introduziu está correcta</string>
-  <string name="correct_enter_update_password">A palavra-passe que introduziu está correcta</string>
+  <string name="correct_enter_password">O padrão que desenhou está correcto</string>
+  <string name="correct_enter_update_password">O padrão que desenhou está correcto</string>
   <string name="counter_pin">Obter código</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Os dados foram importados com sucesso a partir da aplicação Autenticador Xiaomi. Agora é seguro desinstalar a versão anterior da aplicação clicando em baixo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importação com sucesso</string>
@@ -63,7 +63,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="install_button">Instalar</string>
   <string name="install_dialog_message">Para digitalizar códigos de barras que contenham chaves, tem de instalar o digitalizador de códigos de barras ZXing.</string>
   <string name="install_dialog_title">Instalar digitalizador de Código de Barras?</string>
-  <string name="jump_createpattern_tip">Desenhar um padrão para proteger a sua conta</string>
+  <string name="jump_createpattern_tip">Desenhar um padrão para proteger a sua conta.</string>
   <string name="jump_lockpattern_title">Atenção</string>
   <string name="jump_updatepattern_tip">Desenhe um padrão de bloqueio para proteger a sua conta.</string>
   <string name="lockpassword_choose_your_pattern_header">Desenhe o seu padrão</string>
@@ -94,14 +94,14 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="login">Entrar</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
-  <string name="new_pattern_tip">O padrão de bloqueio tem de ser maior que 4 pontos</string>
+  <string name="new_pattern_tip">O padrão tem de ser maior que 4 pontos</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">Erro inesperado na câmara. Poderá ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara.</string>
   <string name="open_camera_exception_dialog_title">Erro inesperado na câmara</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
   <string name="opensource_preference_title">Projecto open source</string>
-  <string name="original_pattern_tip">Introduza padrão de desbloqueio</string>
+  <string name="original_pattern_tip">Introduza o seu padrão de desbloqueio</string>
   <string name="password_error">A palavra-passe que introduziu está incorrecta</string>
   <string name="password_forget">Esqueceu palavra-passe?</string>
   <string name="password_hint">Introduza a sua palavra-passe da conta Mi</string>
@@ -127,7 +127,7 @@ Antes de remover:
   <string name="settings_menu_item">Definições</string>
   <string name="submit">Guardar</string>
   <string name="success_copy_to_clipboard">Foi copiado para a área de transferência</string>
-  <string name="success_reset_password">Redefinição de palavra-passe com sucesso</string>
+  <string name="success_reset_password">Redefinição do padrão com sucesso</string>
   <string name="success_set_password">Padrão criado com sucesso</string>
   <string name="summary_lockpattern">Necessita de um padrão de desbloqueio único para o Crédito Mi</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
@@ -151,7 +151,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Hora corrigida</string>
   <string name="tip1_patternforgotten">Reinstalar e reactivar.</string>
   <string name="tip2_patternforgotten">Toque em Reiniciar para limpar os dados da conta e reactivar.</string>
-  <string name="tip_lockpattern">O padrão de bloqueio tem de ser maior que 4 pontos</string>
+  <string name="tip_lockpattern">O padrão tem de ser maior que 4 pontos</string>
   <string name="title_change_lockpattern">Definir padrão de bloqueio</string>
   <string name="title_createpattern">Desenhar padrão de bloqueio</string>
   <string name="title_forgetpattern">Esquecer a sequência</string>
@@ -160,7 +160,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_myaccount">Minha conta: %s</string>
   <string name="title_nopassword">Não é necessário para pagamentos de baixo valor</string>
   <string name="title_nopassword_dialog">Limite diário</string>
-  <string name="title_password">Palavra-passe</string>
+  <string name="title_password">Padrão</string>
   <string name="title_password_threshold">Limite diário = €%1$s</string>
   <string name="title_patternforgotten">"Esqueceu a sequência?
 Pode："</string>
@@ -169,8 +169,8 @@ Pode："</string>
   <string name="type_prompt">Tipo de chave</string>
   <string name="update_pattern_jump"><u>Remover padrão</u></string>
   <string name="version_preference_title">Versão</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi, não será possível iniciar sessão na sua conta."</string>
-  <string name="welcome_page_details">"— Mantenha a sua conta segura.
-— Previna que pessoas estranhas utilizem o seu dispositivo para iniciar sessão na sua conta."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não será possível iniciar sessão na sua conta."</string>
+  <string name="welcome_page_details">"- Mantenha a sua conta segura.
+- Proteja a sua conta de ser utilizada por estranhos."</string>
   <string name="welcome_page_title">Utilizado para início de sessão segura</string>
 </resources>
