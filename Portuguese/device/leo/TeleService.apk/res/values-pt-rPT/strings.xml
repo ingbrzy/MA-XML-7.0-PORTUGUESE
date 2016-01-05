@@ -401,7 +401,7 @@
   <string name="enable_sim_pin">Activar o PIN do SIM</string>
   <string name="ensure_info">Sim</string>
   <string name="enable_video_calling_dialog_close">Fechar</string>
-  <string name="enable_video_calling_dialog_msg">Para activar a chamada de vídeo é necessário activar o modo de LTE 4G reforçada nas definições do sistema.</string>
+  <string name="enable_video_calling_dialog_msg">Para activar a videochamada é necessário activar o modo de 4G LTE nas definições de sistema.</string>
   <string name="enable_video_calling_dialog_settings">Definições de rede</string>
   <string name="enable_video_calling_title">Ligar vídeo chamada</string>
   <string name="enhanced_4g_lte_mode_summary">Utilizar serviços LTE para melhorar a voz e outras comunicações (recomendado)</string>
@@ -740,9 +740,9 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_lte">4G (recomendado)</string>
   <string name="network_message">Mensagem da rede</string>
   <string name="network_query_error">Erro a procurar redes.</string>
-  <string name="network_settings_auto_select_title">Fechar auto seleccionar</string>
+  <string name="network_settings_auto_select_title">Terminar escolha automática</string>
   <string name="network_settings_automatically_option">Seleccionar automaticamente operadora preferida (%s)</string>
-  <string name="network_settings_confirm_message">Possivelmente a rede não está disponível, tem a certeza?</string>
+  <string name="network_settings_confirm_message">A rede poderá não estar disponível. Tem a certeza?</string>
   <string name="network_settings_data_connected_change">Não é possível alterar a rede de dados enquanto está a utilizar. Desligar a actual e mudar para outra rede?</string>
   <string name="network_settings_duringcall">Primeiro desligue dados móveis</string>
   <string name="network_settings_forbidden">%s (proibido)</string>
@@ -983,13 +983,13 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_restrict_network_changed_incall">Não é possível mudar de rede móvel durante a chamada</string>
   <string name="preferred_network_type_3g_only_warning">Não vai conseguir ligar a uma rede se o cartão SIM não for compatível com 3G.</string>
   <string name="preferred_network_type_cdma">CDMA</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred">Rede preferida 3G</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred">Rede 3G (Preferida)</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Rede preferida 3G(CDMA)</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred">Rede preferida LTE</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G LTE (Preferida)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Rede preferida 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automática</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
-  <string name="preferred_network_type_pref_entries_only_2g">Utilizar 2G (consome menos bateria)</string>
+  <string name="preferred_network_type_pref_entries_only_2g">Rede 2G (consome menos bateria)</string>
   <string name="preferred_network_type_pref_entries_only_3g">Utilizar 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
