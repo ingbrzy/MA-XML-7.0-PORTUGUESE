@@ -46,11 +46,11 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Atenção</string>
   <string name="alert_init_merged_message">As fotos do dispositivo e as fotos que armazenou na Nuvem Mi serão apresentadas em conjunto no separador fotos e vídeos.</string>
-  <string name="alert_init_merged_title">Todas as suas fotos estão juntas.</string>
+  <string name="alert_init_merged_title">Todas as suas fotos e vídeos estão juntos.</string>
   <string name="alert_message_open_sync">Sincronizar com a Nuvem Mi primeiro.</string>
   <string name="alert_secret_album_message">Deslizar para baixo na parte inferior dos álbuns na Nuvem Mi para ver álbuns ocultos.</string>
   <string name="alert_secret_album_set_pattern">Definir padrão de desbloqueio</string>
-  <string name="alert_secret_album_title">Adicionado ao álbum secreto</string>
+  <string name="alert_secret_album_title">Adicionado ao álbum oculto</string>
   <string name="all_video_album_display_name">Todos os vídeos</string>
   <string name="already_apply_album">Abrir %1$s?</string>
   <string name="already_create_baby_album">Álbum do bebé já existe na Nuvem Mi.</string>
@@ -101,10 +101,10 @@
   <string name="baby_name_reserved">Este nome está reservado para outro álbum</string>
   <string name="baby_nick_name">Alcunha</string>
   <string name="baby_sexy">Género</string>
-  <string name="baby_suffix">bebé</string>
-  <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
-  <string name="baidu_flyflow_downloads">Baidu Browser</string>
-  <string name="beautyphone">Beauty phone</string>
+  <string name="baby_suffix">Bebé</string>
+  <string name="baidu_bdmobile_downloads">Rede Móvel Baidu</string>
+  <string name="baidu_flyflow_downloads">Navegador Baidu</string>
+  <string name="beautyphone">Telemóveis Beauty</string>
   <string name="big_screen_alertdialog_title">Lista de dispositivos</string>
   <string name="bigscreen_slide_exit">Sair da apresentação</string>
   <string name="bigscreen_slide_fail_cause_loading">Reiniciar apresentação depois de carregar imagens</string>
@@ -113,7 +113,7 @@
   <string name="black_white">P&amp;B plano</string>
   <string name="brannan">Brannan</string>
   <string name="browse_category">Mostrar</string>
-  <string name="buy_member_tip">tornar-se membro.</string>
+  <string name="buy_member_tip">Tornar-se membro.</string>
   <string name="by_email">Email</string>
   <string name="by_others">Outros</string>
   <string name="by_sms">Mensagem de texto</string>
