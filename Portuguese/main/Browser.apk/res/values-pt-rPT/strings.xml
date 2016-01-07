@@ -183,8 +183,8 @@
   <string name="current_version_pad">Tablet</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Telefone</string>
-  <string name="data_traffic_prompt_change">Utilizar a sua ligação de dados móveis para ver vídeos vai aumentar a utilização de dados. Se ultrapassar o limite do seu plano de dados, a sua operador poderá cobrar valores adicionais.</string>
-  <string name="data_traffic_prompt_message">Utilizar a sua ligação de dados móveis para navegar vai aumentar a utilização de dados. Se ultrapassar o limite do seu plano de dados, a sua operador poderá cobrar valores adicionais.</string>
+  <string name="data_traffic_prompt_change">Utilizar a sua ligação de dados móveis para ver vídeos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="data_traffic_prompt_message">Utilizar a sua ligação de dados móveis para navegar vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="data_traffic_prompt_title">Aviso da utilização de dados</string>
   <string name="date_picker_dialog_clear">Limpar</string>
   <string name="date_picker_dialog_other_button_label">Outro</string>
@@ -237,7 +237,7 @@
   <string name="download_pending">A iniciar transferência…</string>
   <string name="download_phone_tip">Telefone</string>
   <string name="download_router_tip">Transferir com o Mi Router</string>
-  <string name="download_sdcard_busy_dlg_msg">Cartão SD está ocupado. Para permitir transferências, desligue o armazenamento USB nas notificações.</string>
+  <string name="download_sdcard_busy_dlg_msg">Cartão SD está ocupado. Para permitir transferências desligue o armazenamento USB nas notificações.</string>
   <string name="download_status_failed">Não foi possível transferir</string>
   <string name="download_status_pending">A aguardar</string>
   <string name="download_success">Concluído</string>
@@ -454,7 +454,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_extras_reset_default_title">Outra</string>
   <string name="pref_extras_title">Definições avançadas</string>
   <string name="pref_extras_title_version">Informação de versão</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">"Guardar ficheiros para o caminho predefinido das transferências do Navegador"</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">"Guardar ficheiros para o caminho predefinido das transferências do navegador"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaurar o caminho predefinido</string>
   <string name="pref_file_download_default_path_prefix">Caminho predefinido: %s</string>
   <string name="pref_file_download_save_modify_default_path">Destino dos ficheiros transferidos</string>
