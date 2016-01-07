@@ -404,7 +404,7 @@
   <string name="enable_video_calling_dialog_msg">Para activar a videochamada é necessário activar o modo de 4G LTE nas definições de sistema.</string>
   <string name="enable_video_calling_dialog_settings">Definições de rede</string>
   <string name="enable_video_calling_title">Ligar vídeo chamada</string>
-  <string name="enhanced_4g_lte_mode_summary">Utilizar serviços LTE para melhorar chamadas de voz e outras comunicações (Recomendado)</string>
+  <string name="enhanced_4g_lte_mode_summary">Utilizar serviços 4G LTE para melhorar chamadas de voz e outras comunicações (recomendado)</string>
   <string name="enhanced_4g_lte_mode_title">Modo avançado 4G LTE</string>
   <string name="enterName">Nome:</string>
   <string name="enterNumber">Número de telefone:</string>
@@ -745,7 +745,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_settings_confirm_message">A rede poderá não estar disponível. Tem a certeza?</string>
   <string name="network_settings_data_connected_change">Não é possível alterar a rede de dados enquanto está a utilizar. Desligar a actual e mudar para outra rede?</string>
   <string name="network_settings_duringcall">Primeiro desligue dados móveis</string>
-  <string name="network_settings_forbidden">%s (Proibido)</string>
+  <string name="network_settings_forbidden">%s (Proibida)</string>
   <string name="network_settings_information">Informação</string>
   <string name="network_settings_next">Seguinte</string>
   <string name="network_settings_query_failed_message">Não foi possível localizar redes móveis.</string>
