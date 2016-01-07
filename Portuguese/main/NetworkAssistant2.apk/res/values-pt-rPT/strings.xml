@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_miservice_dialog_content">"%s necessita que adicione serviço de framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidos e outros aplicações de terceiros."</string>
-  <string name="add_miservice_dialog_title">Serviço FrameWork MIUI</string>
+  <string name="add_miservice_dialog_content">"%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros."</string>
+  <string name="add_miservice_dialog_title">Serviço Framework MIUI</string>
   <string name="add_to_whitelist_button">Gerir excepções</string>
   <string name="add_white_list">Adicionar</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado há mais de um mês</string>
