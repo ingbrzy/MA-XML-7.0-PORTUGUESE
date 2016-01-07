@@ -104,7 +104,7 @@
   <string name="new_updates_found_notification_title">Actualização disponível</string>
   <string name="next">Seguinte</string>
   <string name="no_log">Não há resumo disponível</string>
-  <string name="no_wifi_msg">Se utilizar a ligação de dados móveis irá aumentar o volume de dados. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="no_wifi_msg">Se utilizar a sua ligação de dados móveis vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="no_wifi_title">Aviso de utilização de dados</string>
   <string name="not_open">Agora não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automaticamente</string>
@@ -226,7 +226,7 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI. É necessário actualizar o kernel manualmente. Consulte o tutorial de actualização:
 "</string>
   <string name="user_begin">Transferir</string>
-  <string name="user_intertup_download_msg">A Transferência foi pausada. Pode retomá-la a qualquer momento no aplicação Transferências.</string>
+  <string name="user_intertup_download_msg">A transferência foi pausada. Pode retomá-la a qualquer momento na aplicação transferências.</string>
   <string name="user_intertup_download_title">Transferência em pausa</string>
   <string name="validate_pkg_failed_msg">A actualização que transferiu não coincide com os nossos dados. Tente fazer a transferência novamente.</string>
   <string name="validate_pkg_failed_title">Não é possível verificar a actualização</string>

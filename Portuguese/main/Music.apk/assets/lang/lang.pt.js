@@ -484,7 +484,7 @@
 	"song_unit": "itens",
 	"start_to_download": "A transferir…",
 	"sync_only_in_wifi": "Apenas usar Wi-Fi para sincronizar",
-    "sync_only_in_wifi_summary": "Sincronizar a sua música em todos os seus dispositivos com a Nuvem Mi. Utilizar os seus dados móveis para sincronizar música vai aumentar a utilização de dados. Se ultrapassar o limite de utilização de dados do seu plano, a sua operadora pode cobrar taxas adicionais.",
+    "sync_only_in_wifi_summary": "Sincronizar a sua música em todos os seus dispositivos com a Nuvem Mi. Ao utilizar a sua ligação de dados móveis para sincronizar música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.",
     "tab_album": "Álbuns",
 	"tab_artist": "Artistas",
 	"tab_chinese": "Chineses",
