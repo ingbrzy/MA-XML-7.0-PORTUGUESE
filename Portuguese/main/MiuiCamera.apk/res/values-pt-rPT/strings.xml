@@ -55,7 +55,7 @@
   <string name="find_other_qrcode">Código QR encontrado</string>
   <string name="no_storage">Inserir cartão SD antes de utilizar a câmara</string>
   <string name="not_enough_space">Armazenamento interno está cheio</string>
-  <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border</string>
+  <string name="object_track_enable_toast">Para seleccionar um objecto toque simultaneamente nos dois pontos diagonais à volta do seu limite</string>
   <string name="pano_dialog_panorama_failed">Não foi possível guardar panorama</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">A aguardar que o panorama anterior termine</string>
@@ -209,7 +209,7 @@
   <string name="pref_camera_snap_entry_off">Desligado</string>
   <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar a gravação de vídeo. Solte-o para parar.</string>
   <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar o disparo rápido de fotos. Solte-o para parar.</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Can't use Quick snap mode while \"Use volume buttons to wake\" is on."</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Não é possível usar disparo contínuo enquanto \"Use os botões do volume para continuar\" está ligado."</string>
   <string name="pref_camera_snap_value_off">Desligado</string>
   <string name="pref_camera_snap_value_take_movie">Filme</string>
   <string name="pref_camera_snap_value_take_picture">Imagem</string>
