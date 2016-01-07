@@ -207,7 +207,7 @@ Desta forma, se perder ou danificar o seu dispositivo, os seus dados estarão se
 
 Quando Nuvem está cheia, os dados mais antigos não se perdem. No entanto, não será feita a cópia de segurança de qualquer conteúdo novo que adicione (por exemplo, fotos, vídeos, notas e aplicações).
 
-Para corrigir esta situação pode eliminar alguns ficheiros para libertar espaço ou pode comprar espaço adicional de armazenamento."</string>
+Para corrigir esta situação, pode eliminar alguns ficheiros antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
   <string name="micloud_full_influence_title">Quando a Nuvem Mi está cheia…</string>
   <string name="micloud_main_battery_low">Sem bateria suficiente para sincronizar</string>
   <string name="micloud_main_battery_message">"Ligue o seu dispositivo a um carregador para sincronizar
@@ -228,7 +228,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_stop_sync">Sincronização parou</string>
   <string name="micloud_main_suggest_master_sync">Não foi possível sincronizar tudo</string>
   <string name="micloud_main_suggest_setting">"A aguardar por ligação Wi-Fi para sincronizar.
-Toque nas definições de sincronização para ver mais opções."</string>
+Toque nas definições de Sincronização para ver mais opções."</string>
   <string name="micloud_main_suggest_sync">Não foi possível sincronizar tudo</string>
   <string name="micloud_main_sync_exception">Erro de sincronização</string>
   <string name="micloud_main_sync_init">A obter informação</string>
@@ -264,11 +264,11 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_member_webload_fail_toast_4xx">Não foi possível carregar a página</string>
   <string name="micloud_member_webload_fail_toast_5xx">Erro de servidor</string>
   <string name="micloud_more">Saber mais</string>
-  <string name="micloud_notif_content_battery_low">Nível de bateria fraco</string>
-  <string name="micloud_notif_content_depend_wifi">Ligar o Wi-Fi para sincronizar</string>
-  <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro o Wi-Fi</string>
-  <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
-  <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora</string>
+  <string name="micloud_notif_content_battery_low">Bateria está demasiado baixa.</string>
+  <string name="micloud_notif_content_depend_wifi">Ligar ao Wi-Fi para sincronizar.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Ligar ao Wi-Fi primeiro.</string>
+  <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente.</string>
+  <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora.</string>
   <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a Nuvem Mi</string>
   <string name="micloud_notif_title_depend_wifi">%d a aguardar para sincronizar</string>
   <string name="micloud_notif_title_master_depend_wifi">Não é possível sincronizar com a Nuvem Mi</string>
@@ -276,7 +276,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_notif_title_sync_with_off">Sincronizar com a Nuvem Mi</string>
   <string name="micloud_other_product_price">Comparar preços</string>
   <string name="micloud_proceed">Continuar</string>
-  <string name="micloud_sec_dspt">e partilhar ficheiros com os seus amigos.</string>
+  <string name="micloud_sec_dspt">e partilhar coisas com amigos.</string>
   <string name="micloud_setting_antispam_summary">Excepções e nºs de telefone bloqueados.</string>
   <string name="micloud_setting_browser_summary">Favoritos, histórico e separadores</string>
   <string name="micloud_setting_contact_summary">Informações de contactos e fotos de perfil</string>
@@ -285,7 +285,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_setting_music_summary">Listas de reprodução e favoritos</string>
   <string name="micloud_setting_sms_summary">SMS e MMS</string>
   <string name="micloud_setting_wifi_summary">Definições Wi-Fi</string>
-  <string name="micloud_single_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
+  <string name="micloud_single_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo, e partilhar coisas com amigos.</string>
   <string name="micloud_space_applist_detail">Gerir aplicações no ecrã inicial</string>
   <string name="micloud_space_applist_title">Gerir aplicações</string>
   <string name="micloud_space_duokan_detail">Transferir e gerir ebooks com a aplicação Duokan.</string>
@@ -300,7 +300,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Nuvem Mi expira em breve</string>
   <string name="micloud_storage_full">Armazenamento na Nuvem está cheio</string>
   <string name="micloud_storage_usage" formatted="false">Utilizado %s/Espaço total %s</string>
-  <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos.</string>
+  <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e mais em todos os seus dispositivos.</string>
   <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Utilizar Nuvem Mi</string>

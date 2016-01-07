@@ -100,7 +100,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
   <string name="advanced_text_layout">Activar layouts de texto avançado</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
-  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo de avião</string>
@@ -727,11 +727,11 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_mobile">Redes móveis</string>
   <string name="data_usage_metered_title">Pontos de acesso móveis</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-  <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi.</string>
-  <string name="data_usage_pick_cycle_day">Dia do mês para repôr o ciclo de utilização de dados:</string>
+  <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso, ligue o Wi-Fi.</string>
+  <string name="data_usage_pick_cycle_day">Dia do mês para para repôr o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi."
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar a não ser que esteja ligado a uma rede Wi-Fi."
 
 Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
@@ -1279,7 +1279,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="location_agps_reset_type">Redefenir tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Redefinir tipos</string>
   <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
-  <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu pacote de dados.</string>
+  <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Irá ter custos adicionais se ultrapassar o plano de dados contratado.</string>
   <string name="location_agps_si_mode">Modo AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Método AGPS</string>
   <string name="location_agps_si_mode_summary">Escolher método preferido AGPS</string>
@@ -2357,7 +2357,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_wimax_mac_address">Endereço MAC 4G</string>
   <string name="storage_format">Formatar</string>
   <string name="storage_label">Armazenamento</string>
-  <string name="storage_low_summary">Algumas funções do sistema, como a sincronização poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdos multimédia ou aplicações.</string>
+  <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdos multimédia ou aplicações.</string>
   <string name="storage_low_title">O espaço de armazenamento está a chegar ao fim</string>
   <string name="storage_menu_usb">Ligação USB ao computador</string>
   <string name="storage_other_users">Outros utilizadores</string>
