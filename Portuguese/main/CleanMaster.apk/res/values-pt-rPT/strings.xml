@@ -5,6 +5,7 @@
   <string name="activity_title_brightness_image">Em baixo e sobre-exposta</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Dados da aplicação</string>
+  <string name="activity_title_deep_apk">Eliminar APKs</string>
   <string name="activity_title_deep_clean">Limpeza Profunda</string>
   <string name="activity_title_garbage_cleanup">Limpeza</string>
   <string name="activity_title_ignored_image">Ignorado</string>
@@ -20,6 +21,7 @@
   <string name="activity_title_similar_image_group">Eliminar duplicados</string>
   <string name="activity_title_tedious_image">Fotos acidentais</string>
   <string name="activity_title_uninstall_apps">Aplicações</string>
+  <string name="activity_title_video">Eliminar vídeos</string>
   <string name="activity_title_white_list">Excepções</string>
   <string name="apk_status_damage">Corrompida</string>
   <string name="apk_status_duplicate">Duplicada</string>
@@ -84,6 +86,9 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Ligação de rede para segurança</string>
   <string name="connecting">A ligar…</string>
+  <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
+  <string name="deepclean_apk_summary_empty">Tudo parece bem, sem APKs para eliminar</string>
+  <string name="deepclean_apk_version_error">Desconhecido</string>
   <string name="deepclean_app_content">Desinstalar aplicações não usadas em 30 dias</string>
   <string name="deepclean_app_summary_empty">Verificação concluída. Sem aplicações para eliminar​</string>
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
@@ -105,6 +110,8 @@
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
   <string name="deepclean_title_large_file">Eliminar ficheiros grandes</string>
   <string name="deepclean_title_uninstall_apps">Aplicações raramente utilizadas</string>
+  <string name="deepclean_video_content">Eliminar vídeos já vistos ou desnecessários</string>
+  <string name="deepclean_video_summary_empty">Tudo parece bem</string>
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
   <string name="dialog_content_delete_image_confirm">Eliminar %d fotos?</string>
@@ -131,6 +138,7 @@
   <string name="empty_title_installed_apps">Vazio</string>
   <string name="empty_title_large_files">Vazio</string>
   <string name="empty_title_residual">Não foram encontrados resíduos</string>
+  <string name="empty_title_video">Sem vídeos para eliminar​</string>
   <string name="flow_rank_title">Utilização de dados</string>
   <string name="garbage_clean_detail">Detalhes</string>
   <string name="garbage_cleanup_detail">%1$d vezes, limpou %2$s</string>
@@ -147,6 +155,8 @@
   <string name="hints_apk_version">Versão %s</string>
   <string name="hints_app_uninstall_residual">Limpar resíduos de ficheiros desinstalados?</string>
   <string name="hints_cache_header_left">Ficheiros de cache</string>
+  <string name="hints_cache_msd_desc">Eliminar actualizações delta não irá influenciar a utilização de aplicações</string>
+  <string name="hints_cache_msd_title">Actualização delta</string>
   <string name="hints_cleanfinish">Limpeza concluída</string>
   <string name="hints_deepclean_list_item_from">De %s</string>
   <string name="hints_deepclean_scanning">A verificar %s</string>
@@ -166,6 +176,9 @@
   <string name="hints_install_apps_today">Utilizado hoje</string>
   <string name="hints_install_apps_virus">Vírus detectado</string>
   <string name="hints_installed_apps_header_left">Aplicações instaladas: %d</string>
+  <string name="hints_installed_app_fewer">Raramente utilizado</string>
+  <string name="hints_installed_app_near">Utilizado recentemente</string>
+  <string name="hints_installed_app_never">Nunca utilizado</string>
   <string name="hints_large_file_header_left">Ficheiros grandes: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Última limpeza: %d dias atrás</string>
   <string name="hints_latest_garbage_cleanup_never">Nunca limpo</string>
@@ -193,6 +206,8 @@
   <string name="hints_storage_free_size">Total: %1$s Disponível: %2$s</string>
   <string name="hints_storage_news">Novidades de segurança</string>
   <string name="hints_title_garbage">Lixo</string>
+  <string name="hints_video_camera">Vídeos capturados</string>
+  <string name="hints_video_download">Vídeos transferidos</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular hoje</string>
   <string name="installed">Instalado</string>
@@ -296,8 +311,10 @@
   <string name="sponsored">Patrocinado</string>
   <string name="start_install">Instalar agora</string>
   <string name="summary_auto_cleaner">Limpar o sistema automaticamente a cada 3 dias?</string>
-  <string name="summary_delete_cache">"Todos os dados destas aplicações serão eliminados permanentemente (incluindo ficheiros, contas e definições)."</string>
-  <string name="summary_delete_large_file">"Alguns ficheiros grandes podem ser úteis quando não houver uma ligação à internet (ex.: mapas, eventos, etc). Certifique-se de que não precisa deste ficheiro."</string>
+  <string name="summary_delete_apk">Eliminar APKs seleccionados permanentemente?</string>
+  <string name="summary_delete_cache">Limpar cache das aplicações seleccionadas?</string>
+  <string name="summary_delete_large_file">Eliminar ficheiros seleccionados permanentemente?</string>
+  <string name="summary_delete_video">&gt;Eliminar vídeos seleccionados permanentemente?</string>
   <string name="summary_optimizer">Esta funcionalidade envia nomes de pasta para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo.</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
@@ -313,9 +330,10 @@
   <string name="tips_of_traffic_pack_threshold">"Comprar mais dados quando estiver prestes a chegar ao limite do tráfego"</string>
   <string name="tips_of_virus_scan">Verificar regularmente o seu dispositivo por vírus para o manter seguro</string>
   <string name="title_auto_cleaner">Limpar automaticamente?</string>
-  <string name="title_delete_cache">Eliminar dados em cache?</string>
+  <string name="title_delete_cache">Limpar cache da aplicação</string>
   <string name="title_delete_clipboard">Conteúdo da Área de transferência</string>
-  <string name="title_delete_large_file">Eliminar este ficheiro?</string>
+  <string name="title_delete_deepclean">Eliminar</string>
+  <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
   <string name="title_of_cloud_service">Serviços de Nuvem</string>
   <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
@@ -353,7 +371,7 @@
   <string name="white_list_ad_header">Adicionar ficheiros: %d</string>
   <string name="white_list_apk_header">Instalar pacotes: %d</string>
   <string name="white_list_cache_header">Ficheiros em cache: %d</string>
-  <string name="white_list_large_file_header">Ficheiros grandes: %d</string>
+  <string name="white_list_large_file_header">Ficheiros grandes e vídeos: %d</string>
   <string name="white_list_residual_header">Residuais: %d</string>
   <string name="white_list_title">Excepções</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>

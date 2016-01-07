@@ -42,11 +42,16 @@
     <string-array name="empty_floder_clean_menu">
         <item>Limpar</item>
     </string-array>
+	<string-array name="video_clean_menu">
+        <item>Limpar este ficheiro</item>
+        <item>Abrir</item>
+        <item>Adicionar ficheiro às excepções</item>
+    </string-array>
     <string-array name="apk_clean_menu">
-        <item>Limpar</item>
-        <item>Ver localização do apk</item>
-        <item>Adicionar às excepções</item>
+        <item>Limpar</item>        
         <item>Instalar este apk</item>
+		<item>Ver localização do apk</item>
+        <item>Adicionar às excepções</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Desinstalar</item>
