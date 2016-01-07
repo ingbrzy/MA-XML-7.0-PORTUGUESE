@@ -94,14 +94,14 @@
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="download_wait_connect">A aguardar por ligação</string>
-  <string name="download_when_network_connected">Transferir utilizando ligação de dados</string>
+  <string name="download_when_network_connected">Transferir utilizando uma ligação de dados</string>
   <string name="downloaded">Transferência concluída</string>
   <string name="downloaded_empty">Vazio</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_empty">Vazio</string>
-  <string name="downloads_operating">A trabalhar…</string>
+  <string name="downloads_operating">Em progresso…</string>
   <string name="dredge_xunlei_account">Criar uma Conta Xunlei</string>
-  <string name="edit_hint"> Introduzir um endereço http, torrent, ou eMule</string>
+  <string name="edit_hint"> Introduzir um endereço http, torrent ou eMule</string>
   <string name="editmode_menu_delete">Eliminar</string>
   <string name="editmode_menu_share">Partilhar</string>
   <string name="engine_open">Abrir</string>
