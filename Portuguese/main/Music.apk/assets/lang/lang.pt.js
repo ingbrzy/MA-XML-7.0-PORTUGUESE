@@ -225,7 +225,7 @@
     "project_device_mobile": "Dispositivo móvel",
     "online_playlist_is_empty": "Lista de reprodução vazia",
     "network_failure": "Não é possível ligar à rede.",
-    "local_music_is_not_available": "Musica local não se encontra disponivel",
+    "local_music_is_not_available": "Música local não se encontra disponível",
     "source_from": "Origem: %1$s",
     "stream_quality": "Qualidade de fluxo",
     "choose_stream_quality": "Qualidade de fluxo preferido",

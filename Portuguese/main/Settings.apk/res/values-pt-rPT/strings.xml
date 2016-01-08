@@ -649,9 +649,9 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="crypt_keeper_button_text">Encriptar telefone</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos.</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica para eliminar todos os seus dados.
 
-Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados."</string>
+Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_summary">Requerer um código PIN numérico ou uma palavra-passe para desencriptar o telefone de cada vez que o liga</string>
