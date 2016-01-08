@@ -20,7 +20,7 @@
   <string name="find_device_noise_title">Alarme de Localizar dispositivo</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
-  <string name="find_device_notice_p3">"para localizar, bloquear, ou restaurar o seu telefone.
+  <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
 Se trocar de cartões SIM outra SMS irá ser enviada automaticamente para reactivar esta funcionalidade."</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
@@ -39,7 +39,7 @@ Se trocar de cartões SIM outra SMS irá ser enviada automaticamente para reacti
   <string name="unlock_error_network">Não é possível ligar à rede</string>
   <string name="unlock_error_rpc">Erro RPC</string>
   <string name="unlock_error_server">Erro de servidor</string>
-  <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor, tente definir a data e hora manualmente.</string>
+  <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente.</string>
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
   <string name="unlock_error_user_name">Utilizador inválido</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto.</string>
