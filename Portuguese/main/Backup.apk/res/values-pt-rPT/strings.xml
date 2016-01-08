@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abort_backup_confirm">A Cópia não terminou. Deseja parar na mesma?</string>
+  <string name="abort_backup_confirm">A cópia não terminou. Deseja parar na mesma?</string>
   <string name="account_contact_backup_info">Conta Google, conta Mi e dados de contactos</string>
   <string name="account_login">Iniciar a sessão</string>
-  <string name="account_summary">Cópia da conta Gmail, conta Mi, e outros dados do utilizador</string>
+  <string name="account_summary">Cópia da conta Gmail, conta Mi e outros dados do utilizador</string>
   <string name="already_enable_encrypt">Encriptação activada</string>
   <string name="app_name">Cópias</string>
   <string name="apps_and_data_item_desc">Aplicações e dados</string>
@@ -26,8 +26,8 @@
   <string name="backup_data">Escolha os ficheiros a copiar</string>
   <string name="backup_delete">Eliminar:</string>
   <string name="backup_empty">Sem cópias</string>
-  <string name="backup_empty_info">" Fazer uma cópia de segurança dos seus dados, definições e aplicações"</string>
-  <string name="backup_empty_info_onpad">" Fazer uma cópia de segurança dos seus dados, definições e aplicações"</string>
+  <string name="backup_empty_info">" Fazer uma cópia de segurança dos seus dados, definições e aplicações "</string>
+  <string name="backup_empty_info_onpad">" Fazer uma cópia de segurança dos seus dados, definições e aplicações "</string>
   <string name="backup_error">Não é possível fazer cópia</string>
   <string name="backup_failed">Não é possível fazer a cópia de segurança</string>
   <string name="backup_file_error">Não é possível fazer cópias</string>
@@ -36,7 +36,7 @@
   <string name="backup_hint_onpad">Mantenha o seu dispositivo ligado</string>
   <string name="backup_is_running">Copiar dispositivo</string>
   <string name="backup_items_app_tailer">" dados das aplicações"</string>
-  <string name="backup_items_sysdata_tailer">" ficheiros de dados do sistema,"</string>
+  <string name="backup_items_sysdata_tailer">" ficheiros de dados do sistema, "</string>
   <string name="backup_new">Novo:</string>
   <string name="backup_progress">A copiar os seus dados…</string>
   <string name="backup_report">Ver detalhes</string>
@@ -80,8 +80,8 @@
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="delete">Eliminar</string>
   <string name="delete_backup_process">A eliminar…</string>
-  <string name="delete_backup_title">Eliminar cópia</string>
-  <string name="delete_failed_backup_confirm">Esta cópia tem erros.</string>
+  <string name="delete_backup_title">Eliminar cópias</string>
+  <string name="delete_failed_backup_confirm">Esta cópia contem erros.</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="digit_percent">%</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -202,7 +202,7 @@
   <string name="start_restore">Restaurar</string>
   <string name="state_mounting">A aceder ao armazenamento do router…</string>
   <string name="state_waiting">Aguarde um seg…</string>
-  <string name="succeed">Concluído.</string>
+  <string name="succeed">Concluído</string>
   <string name="summary_err_backup_encrypting">Iniciar sessão na sua conta Mi.</string>
   <string name="summary_err_backup_no_network">Não é possível ligar à rede</string>
   <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta Cópia foi feita utilizando a sua conta Mi.</string>    
@@ -226,7 +226,7 @@
   <string name="task_progress">Progresso</string>
   <string name="task_restore_cancel_dialog">Cancelar agora pode resultar em perda de dados.</string>
   <string name="task_restore_cancel_progress">A cancelar…</string>
-  <string name="task_restore_finished_local">Restauro concluído </string>
+  <string name="task_restore_finished_local">Restauro concluído</string>
   <string name="task_restore_none">Nada a restaurar</string>
   <string name="task_running_backup_dialog">Cópia em progresso. Toque OK para ver.</string>
   <string name="task_running_backup_hint">O serviço está a ser executado em segundo plano.</string>

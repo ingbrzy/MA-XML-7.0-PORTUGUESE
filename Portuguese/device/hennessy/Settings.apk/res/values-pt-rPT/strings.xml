@@ -1068,7 +1068,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação ela poderá deixar de funcionar normalmente.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
-  <string name="forget_password_button_text"><u>Esqueceu palavra-passe?</u></string>
+  <string name="forget_password_button_text"><u>Esqueceu o padrão?</u></string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente.</string>
   <string name="found_new_version">Actualização disponível</string>
   <string name="free_wifi_agreement_remind_never">Não mostrar novamente</string>
@@ -1390,7 +1390,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_need_to_unlock_footer" />
   <string name="lockpattern_need_to_unlock_wrong">O padrão desenhado não coincide. Tente novamente</string>
   <string name="lockpattern_need_to_unlock_wrong_footer" />
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio foi desenhado com sucesso</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de bloqueio foi desenhado com sucesso</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente.</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
@@ -3029,7 +3029,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_required_info_text">Para completar a instalação é necessário o seu telemóvel ter acesso ao Wi-Fi. Depois da instalação pode alternar entre os dados móveis e o Wi-Fi.</string>
   <string name="wifi_save">Guardar</string>
   <string name="wifi_scan_always_available">Localizar está sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Deixe o serviço de localização do Google e outras aplicações pesquisar redes, mesmo quando Wi-Fi está desligado</string>
+  <string name="wifi_scan_always_available_summary">Deixe o serviço de localização do Google e outras aplicações pesquisar por outras redes quando o Wi-Fi estiver desligado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
   <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s deseja activar a verificação de rede, mesmo quando o Wi-Fi está desligado.

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">Mover dados do utilizador… Isto pode demorar alguns minutos.</string>
+  <string name="account_bind_prompt">Mover dados do utilizador… isto pode demorar alguns minutos.</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="add_private">Ocultar ficheiros agora</string>
@@ -489,7 +489,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="stay_awake_title">Manter acordado</string>
   <string name="stop_server">Parar servidor</string>
   <string name="storage_info">%1$s disponível</string>
-  <string name="storage_info_detail">Disponível:%1$s Total:%2$s</string>
+  <string name="storage_info_detail">Disponível: %1$s Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_internal_description">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
@@ -510,7 +510,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_more_source">Mais aplicações</string>
   <string name="title_recent">Recentes</string>
-  <string name="title_select_volume">Seleccionar Volume</string>
+  <string name="title_select_volume">Seleccionar volume</string>
   <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção.</string>
   <string name="tools">Ferramentas</string>
   <string name="trans_task">Transferência pela rede</string>

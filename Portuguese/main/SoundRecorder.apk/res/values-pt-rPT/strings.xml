@@ -52,7 +52,7 @@
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Dar nome às gravações manualmente</string>
-  <string name="record_back_pressed_hint">Toque voltar para terminar gravação</string>
+  <string name="record_back_pressed_hint">Toque novamente para terminar gravação</string>
   <string name="record_download">Transferir de Nuvem Mi</string>
   <string name="record_download_complete">Transferido</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>
@@ -81,7 +81,7 @@
   <string name="start">Resumir</string>
   <string name="status_bar_back">Toque para voltar ao Gravador</string>
   <string name="status_bar_recording">A gravar…</string>
-  <string name="status_bar_recording_pause">Gravação em pausa</string>
+  <string name="status_bar_recording_pause">Gravação em pausa.</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
   <string name="sync_only_in_wifi_summary">O gravador apenas copia ou sincroniza as suas gravações quando se ligar a uma rede Wi-Fi</string>
   <string name="sync_records">Sincronizar com a Nuvem Mi</string>

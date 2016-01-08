@@ -102,7 +102,7 @@
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
   <string name="callrecordview_menu_batch_delete">Seleccionar e eliminar registos de chamadas</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
-  <string name="callrecordview_menu_delete">Eliminar registo de chamada(s)</string>
+  <string name="callrecordview_menu_delete">Eliminar registo de chamadas</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
   <string name="callrecordview_menu_delete_all">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_delete_called">Limpar registos das chamadas efectuadas</string>
@@ -256,7 +256,7 @@
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="delete_call_log_message">Eliminar registo(s) de chamada(s)?</string>
   <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
-  <string name="delete_call_log_title">Registo(s) de chamada(s)</string>
+  <string name="delete_call_log_title">Registos de chamadas</string>
   <string name="delete_contact_calllog_title">Eliminar registo de chamadas?</string>
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>
@@ -1067,7 +1067,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_copy_done">Concluído</string>
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>
-  <string name="toast_finish_delete_call_log">Registo de chamada eliminado</string>
+  <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
   <string name="toast_finish_delete_selected_call_log">Registos de chamadas eliminados</string>
   <string name="toast_for_failed_saving_nickname">Erro ao gravar alcunha</string>
   <string name="toast_for_saving_nickname">Alcunha guardada</string>

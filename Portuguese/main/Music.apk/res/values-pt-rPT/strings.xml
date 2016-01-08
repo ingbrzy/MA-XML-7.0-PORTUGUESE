@@ -53,7 +53,7 @@
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
   <string name="avoid_to_use_traffic_title">Utilize apenas Wi-Fi para transmitir música</string>
-  <string name="back_confirm">Toque voltar para sair</string>
+  <string name="back_confirm">Toque novamente para sair</string>
   <string name="baidu_music">Música Baidu</string>
   <string name="being_disable_auto_payment">A desligar…</string>
   <string name="being_enable_auto_payment">A ligar…</string>
@@ -183,7 +183,7 @@
   <string name="favorite_playlist">Favoritos</string>
   <string name="favorite_singer">Artistas favoritos</string>
   <string name="favorite_succeed">Adicionada aos favoritos</string>
-  <string name="favorite_tracks">Favoritas</string>
+  <string name="favorite_tracks">Favoritos</string>
   <string name="favourite_music_left_half">Para adicionar músicas à lista de reprodução toque em</string>
   <string name="favourite_music_right_half">Ícone favorito à direita do título da música</string>
   <string name="female_artist">Artistas femininos</string>
@@ -260,7 +260,7 @@
   <string name="max_sleep_time">90</string>
   <string name="message_delete_playlist">Eliminar lista de reprodução %s?</string>
   <string name="metered_alert">Aviso do uso de dados Móveis</string>
-  <string name="metered_alert_msg">Utilizar a sua ligação de dados para transmitir música vai aumentar o seu uso de dados. Tenha cuidado para não exceder o limite mensal do seu plano da operadora, pode resultar em valores acentuados.</string>
+  <string name="metered_alert_msg">Utilizar a sua ligação de dados para transmitir música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="metered_allow">Fluxo</string>
   <string name="metered_disallow">Cancelar</string>
   <string name="metered_play_toast">Transmissão via ligação de dados</string>
@@ -508,5 +508,5 @@
   <string name="vip_renew_notification_title">Subscrição expira amanhã</string>
   <string name="vip_renew_title">Subscrição expirada</string>
   <string name="vip_required">Obter subscrição Premium para reproduzir esta música. Nós saltámo-la por agora.</string>
-  <string name="vip_required_with_song">Obter subscrição Premium para reproduzir “%s”. Nós saltámo-la por agora.</string>
+  <string name="vip_required_with_song">Obter subscrição Premium para reproduzir “%s”. Pode ouvir por agora.</string>
 </resources>
