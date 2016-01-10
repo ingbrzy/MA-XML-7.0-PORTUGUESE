@@ -297,8 +297,8 @@
   <string name="simple_mode_button_text_slow_video">Desligar Time Lapse</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar inclinação/deslocamento</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
-  <string name="snapshot_lower_than_video">Resolução de vídeo instantâneo é mais pequeno do que o tamanho do vídeo. A nivelar para o tamanho do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
-  <string name="snapshotsize_low_powermode">Resolução de imagem não é suportada pelas definições actuais de gestão de energia. Será utilizado o tamanho de vídeo instantâneo.</string>
+  <string name="snapshot_lower_than_video">A resolução do slide efectuado em disparo contínuo durante a gravação é inferior à resolução do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
+  <string name="snapshotsize_low_powermode">A alteração da resolução de imagem não é suportada pelas definições actuais da gestão de energia. Seleccione o modo de energia normal para permitir a mudança do tamanho da imagem.</string>
   <string name="spaceIsLow_content">Cartão SD está a ficar sem espaço</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Toque para ajustar exposição manualmente</string>
@@ -309,7 +309,7 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está activo</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
-  <string name="ubifocus_capture_warning_message">Para melhores resultados a imagem deve conter objectos próximos (inferior a um metro a partir da lente) e distantes</string>
+  <string name="ubifocus_capture_warning_message">Para melhorar o resultado de imagem os objectos devem estar a menos de um metro de distância da lente</string>
   <string name="video_reach_size_limit">Atingiu o limite do tamanho</string>
   <string name="wait">Aguarde um seg…</string>
 </resources>

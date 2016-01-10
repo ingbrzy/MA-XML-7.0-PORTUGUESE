@@ -658,7 +658,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="crypt_keeper_button_text">Encriptar telefone</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos.</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas e dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica para eliminar todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas, dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN ou uma palavra-passe para o desencriptar. Será sempre necessário repetir o processo anterior cada vez que ligar o telefone. Não pode desencriptar o telefone excepto se executar um restauro de dados de fábrica para eliminar todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
@@ -1470,7 +1470,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="media_format_desc">Eliminar todos os dados do cartão SD? Perderá <b>todos</b> os dados armazenados no cartão!</string>
   <string name="media_format_final_button_text">Eliminar tudo</string>
   <string name="media_format_final_desc">Apagar o cartão SD e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
-  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a formatação do Cartão SD.</string>
+  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a formatação do cartão SD.</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
   <string name="media_format_summary">Elimina todos os dados no armazenamento USB</string>
   <string name="media_format_title">Eliminar cartão SD</string>
