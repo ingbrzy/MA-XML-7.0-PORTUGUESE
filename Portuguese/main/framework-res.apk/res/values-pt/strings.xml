@@ -859,10 +859,10 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_callPrivileged">Permite que a aplicação marque qualquer número de telefone, incluindo números de emergência, sem a intervenção do utilizador. As aplicações maliciosas podem efectuar chamadas desnecessárias e ilegais para serviços de emergência.</string>
   <string name="permdesc_camera">Permite que a aplicação tire fotos e grave vídeos com a câmara. Esta autorização permite que a aplicação utilize a câmara sem a sua confirmação em qualquer altura.</string>
   <string name="permdesc_cameraDisableTransmitLed">Permite que uma aplicação do sistema pré-instalada possa desactivar o indicador LED de utilização da câmara.</string>
-  <string name="permdesc_captureAudioHotword">Permite à aplicação capturar áudio para detecção Palavra Quente. A captura pode acontecer no fundo, mas não impede outra captura de áudio (por exemplo, câmara de vídeo).</string>
-  <string name="permdesc_captureAudioOutput">Permite à aplicação capturar e redireccionar a saída de áudio.</string>
-  <string name="permdesc_captureSecureVideoOutput">Permite à aplicação capturar e redireccionar a saída de vídeo segura.</string>
-  <string name="permdesc_captureVideoOutput">Permite à aplicação capturar e redireccionar a saída de vídeo.</string>
+  <string name="permdesc_captureAudioHotword">Permite à aplicação gravar áudio para detecção de hotwords. A gravação pode acontecer em segundo plano, mas não impede outra gravação de áudio (exemplo câmara de vídeo).</string>
+  <string name="permdesc_captureAudioOutput">Permite à aplicação captar e redireccionar a saída de áudio.</string>
+  <string name="permdesc_captureSecureVideoOutput">Permite à aplicação captar e redireccionar a saída de vídeo segura.</string>
+  <string name="permdesc_captureVideoOutput">Permite à aplicação captar e redireccionar a saída de vídeo.</string>
   <string name="permdesc_changeBackgroundDataSetting">Permite à aplicação mudar a definição de utilização de dados em segundo plano.</string>
   <string name="permdesc_changeComponentState">Permite que a aplicação mude a opção de activar ou não um componente de outra aplicação. As aplicações maliciosas podem utilizar isto para desactivar funcionalidades importantes do telemóvel. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
   <string name="permdesc_changeConfiguration">Permite à aplicação alterar a configuração actual, como o local ou o tamanho global do tipo de letra.</string>
@@ -1028,7 +1028,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_bluetoothNetwork">Dispositivos de acesso e de redes através de Bluetooth.</string>
   <string name="permgroupdesc_bookmarks">O acesso directo aos favoritos e histórico do navegador.</string>
   <string name="permgroupdesc_calendar">Acesso directo ao Calendário e eventos.</string>
-  <string name="permgroupdesc_camera">Acesso directo à câmara para a imagem ou capturar de vídeo.</string>
+  <string name="permgroupdesc_camera">Acesso directo à câmara para a imagem ou gravação de vídeo.</string>
   <string name="permgroupdesc_costMoney">Efectuar acções que implicam pagamento.</string>
   <string name="permgroupdesc_developmentTools">Funcionalidades apenas necessárias para desenvolvedores de aplicações.</string>
   <string name="permgroupdesc_deviceAlarms">Definir o alarme.</string>

@@ -75,7 +75,7 @@
   <string name="chooseUsbActivity">Escolha uma aplicação para o dispositivo USB</string>
   <string name="data_usage_disabled_dialog">"Alcançou o limite de utilização de dados definido.
 
-Se voltar a activar os dados móveis, poderá ter custos facturados pela operadora."</string>
+Se voltar a activar os dados móveis poderá ter custos adicionais facturados pela operadora."</string>
   <string name="data_usage_disabled_dialog_3g_title">Dados 2G-3G desactivado</string>
   <string name="data_usage_disabled_dialog_4g_title">Dados 4G desactivado</string>
   <string name="data_usage_disabled_dialog_enable">Voltar a activar dados móveis</string>
@@ -128,7 +128,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="mdb_restore_mode">Modo restauro</string>
   <string name="mdb_usb_disconnection_exit">USB desligado</string>
   <string name="media_projection_action_text">Iniciar agora</string>
-  <string name="media_projection_dialog_text">"%s irá iniciar a captura tudo o que é exibido no ecrã."</string>
+  <string name="media_projection_dialog_text">"%s irá iniciar a captura de tudo o que é exibido no ecrã."</string>
   <string name="media_projection_remember_text">"Não mostrar de novo"</string>
   <string name="megabyte_per_second">M/s</string>
   <string name="mount_storage">Sim</string>
@@ -164,7 +164,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="screen_pinning_negative">Não obrigado</string>
   <string name="screen_pinning_positive">Percebi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>
-  <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento, ou não é permitido pela aplicação ou organização.</string>
+  <string name="screenshot_failed_text">Não é possível tirar captura de ecrã devido ao espaço limitado de armazenamento ou não é permitido pela aplicação ou organização.</string>
   <string name="screenshot_saved_text">Toque para ver a sua captura de ecrã.</string>
   <string name="screenshot_saved_title">Captura de ecrã guardada</string>
   <string name="screenshot_saving_text">Captura de ecrã está a ser guardada</string>

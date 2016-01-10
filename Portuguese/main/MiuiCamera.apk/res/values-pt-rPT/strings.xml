@@ -261,7 +261,7 @@
   <string name="pref_video_speed_entry_slow">Lento</string>
   <string name="pref_video_speed_fast_title">Time Lapse</string>
   <string name="pref_video_speed_slow_title">Câmara Lenta</string>
-  <string name="pref_video_speed_title">Velocidade de captura de vídeo</string>
+  <string name="pref_video_speed_title">Velocidade na gravação de vídeo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Intervalo de 0.3 segundos (10 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Intervalo de 4 segundos(120 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Intervalo de 5 segundos(150 vezes)</string>
@@ -306,10 +306,10 @@
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de time lapse</string>
   <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo contínuo</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está activo</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está activa</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
-  <string name="ubifocus_capture_warning_message">Para melhorar o resultado de imagem os objectos devem estar a menos de um metro de distância da lente</string>
+  <string name="ubifocus_capture_warning_message">Para melhorar o resultado da imagem os objectos devem estar a menos de um metro de distância da lente</string>
   <string name="video_reach_size_limit">Atingiu o limite do tamanho</string>
   <string name="wait">Aguarde um seg…</string>
 </resources>
