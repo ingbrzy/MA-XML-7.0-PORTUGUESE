@@ -119,9 +119,9 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_GetCallState">Aceder aos estados precisos do telefone</string>
   <string name="HIPS_Perm_ListenCallState">Ler os estados precisos do telefone</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
-  <string name="HIPS_Perm_Location_Access">Obter localização exacta (baseada no GPS e na rede)</string>
-  <string name="HIPS_Perm_Location_CellInfo">Obter localização aproximada utilizando os dados das antenas de telemóvel</string>
-  <string name="HIPS_Perm_Location_CellLocation">Obter localização aproximada utilizando a localização das antenas de telemóvel</string>
+  <string name="HIPS_Perm_Location_Access">obter localização exacta (baseada no GPS e na rede)</string>
+  <string name="HIPS_Perm_Location_CellInfo">Obter localização aproximada utilizando os dados das antenas de rede</string>
+  <string name="HIPS_Perm_Location_CellLocation">Obter localização aproximada utilizando a localização das antenas de rede</string>
   <string name="HIPS_Perm_Location_Desc">Obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplicações podem obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Monitor">Monitorizar a sua localização</string>
