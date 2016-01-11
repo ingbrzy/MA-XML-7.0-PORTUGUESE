@@ -324,7 +324,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_package_traffic_overlay">%1$s | Adicional: %2$s</string>
   <string name="pref_package_traffic_settings">Limite dos dados móveis</string>
   <string name="pref_pkg_begin_date">Ciclo utilização de dados</string>
-  <string name="pref_roaming_daily_limit_setting">Limite de dados diário para Roaming</string>
+  <string name="pref_roaming_daily_limit_setting">Limite de dados diário para roaming</string>
   <string name="pref_roaming_setting_gategory">Dados em roaming</string>
   <string name="pref_setting_operators_message">Editar a mensagem que o dispositivo envia à sua operadora para sincronizar as suas estatísticas da utilização de dados</string>
   <string name="pref_show_mobile_traffic">Mostrar utilização de dados durante o desbloqueio após o dispositivo estar bloqueado por mais de 5 minutos</string>
@@ -366,8 +366,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar esse problema à MIUI, seleccione a aplicação envio de erros para enviar um registo do seu dispositivo.</string>
   <string name="reach_daily_limit_value_body">Reduzir a sua utilização de dados móveis.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Toque para ligar Economizador de Dados.</string>
-  <string name="reach_daily_limit_value_title">Limite de dados diários atingido</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Toque para ligar economizador de dados.</string>
+  <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>
   <string name="read_number">86 artigos</string>
   <string name="read_unit">" artigos"</string>
   <string name="renew_ip">Repetir</string>
