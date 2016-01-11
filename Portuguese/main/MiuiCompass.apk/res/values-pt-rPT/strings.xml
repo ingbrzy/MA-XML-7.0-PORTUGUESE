@@ -3,7 +3,7 @@
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Altitude</string>
   <string name="altitude_uncalibrate_cancel">Cancelar</string>
-  <string name="altitude_uncalibrate_msg">"Não é possível calibrar altitude com precisão sem GPS ou ligação de dados móveis."</string>
+  <string name="altitude_uncalibrate_msg">"Não é possível calibrar a altitude com precisão sem o GPS ou uma ligação de dados móveis."</string>
   <string name="altitude_uncalibrate_refresh">Tente novamente</string>
   <string name="altitude_uncalibrate_tip">"Não é possível calibrar altitude"</string>
   <string name="altitude_unit">M</string>
@@ -32,14 +32,14 @@
   <string name="error_camera_unavailable_title">Câmara indisponível</string>
   <string name="first_using_dialog_message">A bússola necessita de utilizar a ligação de rede, câmara e os serviços de localização do seu dispositivo para funcionar correctamente.</string>
   <string name="first_using_dialog_title">Permissão de Acesso</string>  
-  <string name="guide_toast">Para calibrar a bússola, mova o telefone de acordo com o movimento exibido no ecrã</string>
+  <string name="guide_toast">Para calibrar a bússola movimente o telefone de acordo com o movimento exibido na imagem</string>
   <string name="latitude">LAT</string>
   <string name="location_east">Long. L</string>
   <string name="location_enable">Activar</string>
-  <string name="location_enable_later">Agora não</string>
-  <string name="location_enabled">O serviço está activo, pode desactivá-lo nas configurações de localização</string>
+  <string name="location_enable_later">Mais tarde</string>
+  <string name="location_enabled">O serviço está activo. Pode desactivá-lo nas configurações de localização</string>
   <string name="location_north">Lat. N</string>
-  <string name="location_not_enabled_summary">Para um funcionamento correcto, o Diretório necessita a saber sua localização.</string>
+  <string name="location_not_enabled_summary">O directório necessita de obter a sua localização para funcionar normalmente.</string>
   <string name="location_not_enabled_title">Activar serviços de localização</string>
   <string name="location_south">Lat. S</string>
   <string name="location_west">Long. O</string>

@@ -807,7 +807,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="paste">Colar</string>
   <string name="perm_costs_money">Isto pode custar-lhe dinheiro</string>
   <string name="permdesc_access_keyguard_secure_storage">Permite que uma aplicação aceda ao armazenamento seguro da protecção do teclado.</string>
-  <string name="permdesc_accessCoarseLocation">Aceder à localização aproximada a partir de fornecedores de localização utilizando fontes de rede, tais como antenas de telemóvel e Wi-Fi. Quando estes serviços de localização estão disponíveis e activados, esta autorização permite que a aplicação determine a localização aproximada do utilizador.</string>
+  <string name="permdesc_accessCoarseLocation">Aceder à localização aproximada a partir de fornecedores de localização utilizando antenas de rede móvel e Wi-Fi. Quando estes serviços de localização estão disponíveis e activados esta autorização permite que a aplicação determine a localização aproximada do utilizador.</string>
   <string name="permdesc_accessContentProvidersExternally">Permite ao titular aceder a fornecedores de conteúdos a partir da aparência. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_accessFineLocation">Aceder a fontes de localização precisas, tais como o Sistema de Posicionamento Global do telemóvel. Quando os serviços de localização estão disponíveis e activados, esta autorização permite que a aplicação determine a localização exacta do utilizador.</string>
   <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos adicionais do fornecedor de localização. Isto pode permitir que a aplicação interfira com o funcionamento do GPS ou de outras fontes de localização.</string>
@@ -885,7 +885,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telemóvel.</string>
   <string name="permdesc_diagnostic">Permite à aplicação ler e escrever em qualquer recurso que seja propriedade do grupo diag; por exemplo, ficheiros em /dev. Isto pode potencialmente afectar a estabilidade e a segurança do sistema e deve ser utilizado APENAS para diagnósticos específicos do hardware pelo fabricante ou pelo operador.</string>
   <string name="permdesc_disableKeyguard">Permite que a aplicação desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telemóvel desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada.</string>
-  <string name="permdesc_dump">Permite que a aplicação obtenha o estado interno do sistema. As aplicações maliciosas podem obter uma ampla variedade de dados privados e seguros, de que normalmente, nunca devem necessitar.</string>
+  <string name="permdesc_dump">Permite que uma aplicação recupere o estado interno do sistema. Aplicações maliciosas podem recuperar uma ampla variedade de informações privadas e seguras das quais não deveriam necessitar normalmente.</string>
   <string name="permdesc_enableCarMode">Permite que a aplicação active o Modo de Condução.</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado.</string>
   <string name="permdesc_factoryTest">Executar como um teste de nível inferior do fabricante, permitindo o acesso total ao hardware do telefone. Apenas disponível quando um telefone está em execução em modo de teste do fabricante.</string>

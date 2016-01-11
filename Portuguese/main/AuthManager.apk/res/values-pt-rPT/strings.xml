@@ -125,7 +125,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_Location_Desc">Obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplicações podem obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Monitor">Monitorizar a sua localização</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Localização aproximada utilizando as antenas de telemóvel</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Localização aproximada utilizando as antenas de rede</string>
   <string name="HIPS_Perm_Location_Source_GPS">Obter localização exacta utilizando o GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Localização aproximada utilizando fontes baseadas em rede</string>
   <string name="HIPS_Perm_MMS">Escrever e eliminar mensagens MMS</string>
