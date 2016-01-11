@@ -4,6 +4,7 @@
   <string name="accessibility_call_muted">Chamada silenciada.</string>
   <string name="accessibility_speakerphone_enabled">Alta-voz activado.</string>
   <string name="add_vm_number_str">Adicionar número</string>
+  <string name="can_not_dial_while_vt_prompt">Não é possível marcar enquanto uma videochamada estiver em curso.</string>
   <string name="default_connection_manager_component"/>
   <string name="dial_conference_fail_prompt">Não é possível marcar chamadas de conferência directamente porque a rede actual não suporta VoLTE.</string>
   <string name="dial_vt_fail_prompt">A rede actual não suporta. Trocar para chamadas de voz normais?</string>
