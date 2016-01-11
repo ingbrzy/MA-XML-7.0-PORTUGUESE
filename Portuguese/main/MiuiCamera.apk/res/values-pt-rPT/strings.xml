@@ -261,7 +261,7 @@
   <string name="pref_video_speed_entry_slow">Lento</string>
   <string name="pref_video_speed_fast_title">Time Lapse</string>
   <string name="pref_video_speed_slow_title">Câmara Lenta</string>
-  <string name="pref_video_speed_title">Velocidade na gravação de vídeo</string>
+  <string name="pref_video_speed_title">Velocidade de gravação do vídeo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Intervalo de 0.3 segundos (10 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Intervalo de 4 segundos(120 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Intervalo de 5 segundos(150 vezes)</string>
@@ -297,7 +297,7 @@
   <string name="simple_mode_button_text_slow_video">Desligar Time Lapse</string>
   <string name="simple_mode_button_text_tilt_shift">Desligar inclinação/deslocamento</string>
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
-  <string name="snapshot_lower_than_video">A resolução do slide efectuado em disparo contínuo durante a gravação é inferior à resolução do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
+  <string name="snapshot_lower_than_video">A resolução da imagem em disparo contínuo durante a gravação é inferior à resolução do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual.</string>
   <string name="snapshotsize_low_powermode">A alteração da resolução de imagem não é suportada pelas definições actuais da gestão de energia. Seleccione o modo de energia normal para permitir a mudança do tamanho da imagem.</string>
   <string name="spaceIsLow_content">Cartão SD está a ficar sem espaço</string>
   <string name="start_capture">OK</string>
