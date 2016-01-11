@@ -614,8 +614,8 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_erase">Eliminar</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no digitalizador de impressões digitais</string>
-  <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
+  <string name="confirm_new_backup_pw_prompt">Introduzir novamente a sua nova palavra-passe para uma cópia de segurança completa</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_wifi">Ligado</string>
   <string name="contributors_title">Contribuidores</string>
@@ -1430,7 +1430,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
-  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
+  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital elimine primeiro uma impressão digital existente."</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
   <string name="media_format_button_text">Formatar armazenamento USB</string>
