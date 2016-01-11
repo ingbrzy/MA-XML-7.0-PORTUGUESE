@@ -280,7 +280,7 @@ utilizando %s"</string>
   <string name="display_manager_overlay_display_name">Sobreposição #%1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, garantir</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
-  <string name="dlg_confirm_kill_storage_users_text">Se activar a memória de armazenamento USB, algumas aplicações que estiver a utilizar serão paradas e poderão ficar indisponíveis até desactivar a memória de armazenamento USB.</string>
+  <string name="dlg_confirm_kill_storage_users_text">Se activar o armazenamento USB algumas aplicações que estiver a utilizar irão parar e poderão não estar indisponíveis até que volte a desligar o armazenamento USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Activar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem êxito</string>
   <string name="dlg_ok">OK</string>
