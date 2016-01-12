@@ -23,9 +23,9 @@
   <string name="add_to_cloud_type_not_support_message">Este tipo de ficheiro não é suportado</string>
   <string name="add_to_cloud_unfinished_message_with_count">%1$s itens não foram adicionados à Nuvem Mi</string>
   <string name="add_to_cloud_unknow_reasons">Erro desconhecido</string>
-  <string name="add_to_secret_failed_message_with_count">%2$s itens não podem ser adicionados ao álbum secreto: %1$s.</string>
-  <string name="add_to_secret_successfully_message">Adicionado ao álbum secreto</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s itens não foram adicionados ao álbum secreto</string>
+  <string name="add_to_secret_failed_message_with_count">%2$s itens não podem ser adicionados ao álbum oculto: %1$s.</string>
+  <string name="add_to_secret_successfully_message">Adicionado ao álbum oculto</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s itens não foram adicionados ao álbum oculto</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adjust">Ajustar</string>
   <string name="album_member">Álbum de membros %s</string>
@@ -509,7 +509,7 @@ dispositivo"</string>
   <string name="open_single_image_failure">Não foi possível carregar imagem</string>
   <string name="open_sync_title">Sincronizar com a Nuvem Mi</string>
   <string name="operation_add_picture">Adicionar itens</string>
-  <string name="operation_add_secret">Adicionar ao álbum secreto</string>
+  <string name="operation_add_secret">Adicionar ao álbum oculto</string>
   <string name="operation_add_secret_button">Ocultar</string>
   <string name="operation_delete_confirm_message_folder">"Todo o conteúdo da pasta será eliminado. "</string>
   <string name="operation_failed">A operação falhou</string>

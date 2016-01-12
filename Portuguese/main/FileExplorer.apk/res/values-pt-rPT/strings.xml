@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">A mover dados do utilizador… Aguarde alguns minutos.</string>
+  <string name="account_bind_prompt">A mover dados do utilizador. Aguarde alguns minutos.</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="add_private">Ocultar ficheiros agora</string>
@@ -143,7 +143,7 @@
   <string name="encrypt_error">"Não foi possível ocultar ficheiros. Tente novamente"</string>
   <string name="encrypt_prefix">Ocultos</string>
   <string name="encrypt_success">Ocultados com sucesso</string>
-  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Pode ver os ficheiros ocultados descendo na página inicial do Explorador.</string>
+  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do explorador.</string>
   <string name="encrypting">A encriptar…</string>
   <string name="error_filename_too_long">O nome do ficheiro é muito longo.</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro.</string>
@@ -253,7 +253,7 @@
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Não é possível cortar</string>
-  <string name="move_icon_to_desktop_hint">Criar um atalho do Explorador no ecrã inicial para gerir os ficheiros mais eficientemente.</string>
+  <string name="move_icon_to_desktop_hint">Criar um atalho do explorador no ecrã inicial para gerir os ficheiros mais eficientemente.</string>
   <string name="move_to">Mover para…</string>
   <string name="move_to_confirm">Criar</string>
   <string name="msg_set_password">Definir palavra-passe primeiro</string>
@@ -294,10 +294,10 @@
   <string name="never_notify_network_connect">Lembrar preferência</string>
   <string name="new_folder_name">Pasta sem nome</string>
   <string name="new_function">Pastas ocultas</string>
-  <string name="new_function_info">Para criar uma pasta oculta, descer na página inicial do Explorador.</string>
-  <string name="new_function_str">"Adesivos WeChat podem agora ser colectados automaticamente.
+  <string name="new_function_info">Para criar uma pasta oculta desça a página inicial do explorador.</string>
+  <string name="new_function_str">"Adesivos WeChat podem ser agora automaticamente coleccionados.
 Transfira-os quando quiser
-e nunca perca os novos mais fixes!"</string>
+e nunca perca as novidades!"</string>
   <string name="new_function_title_str">Acerca de adesivos WeChat</string>
   <string name="no">Não</string>
   <string name="no_app_tags">Vazio</string>
@@ -394,8 +394,8 @@ e nunca perca os novos mais fixes!"</string>
   <string name="private_folder_no_file_hints">Sem ficheiros ocultos.</string>
   <string name="private_folder_update">A actualizar ficheiros ocultos…</string>
   <string name="private_toast_hint1">Toque para adicionar ficheiros a pastas ocultas</string>
-  <string name="private_toast_hint2">Para ocultar um ficheiro, prima e segure-o, depois adicione-o a uma pasta oculta.</string>
-  <string name="private_toast_hint3">Descer para abrir pastas Ocultas</string>
+  <string name="private_toast_hint2">Para ocultar um ficheiro prima e segure-o, depois adicione-o a uma pasta oculta.</string>
+  <string name="private_toast_hint3">Descer para abrir as pastas ocultas</string>
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo ou desligar o modo criança</string>
   <string name="pull_to_signin">Descer para dar entrada.</string>
   <string name="qq_not_installed">QQ não está instalado</string>
