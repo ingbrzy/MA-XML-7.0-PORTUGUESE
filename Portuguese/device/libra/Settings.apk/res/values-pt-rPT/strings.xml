@@ -1194,7 +1194,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
   <string name="input_settings">Definições de entrada</string>
-  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações.</string>
+  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>
   <string name="install_no_market_app_title">Verificar aplicações de terceiros</string>
@@ -2240,7 +2240,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="show_cpu_usage">Mostrar utilização do CPU</string>
   <string name="show_cpu_usage_summary">Sobreposição no ecrã ao mostrar a utilização do CPU actual</string>
   <string name="show_dev_already">Já é programador</string>
-  <string name="show_dev_on">É agora um programador!</string>
+  <string name="show_dev_on">Agora é um programador!</string>
   <string name="show_fc">Forçar o encerramento das aplicações</string>
   <string name="show_fc_summary">Mostrar as aplicações que foram forçadas a encerrar</string>
   <string name="show_hw_layers_updates">Mostrar actualizações de hardware</string>
