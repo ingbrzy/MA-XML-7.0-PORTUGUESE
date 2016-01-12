@@ -34,14 +34,14 @@
   <string name="activity_title_virus_detail">Detalhe do vírus</string>
   <string name="activity_title_virus_settings">Definições</string>
   <string name="antivirus_choose_engine">%s</string>
-  <string name="antivirus_choose_engine_dialog_title">Escolher motor de busca</string>
+  <string name="antivirus_choose_engine_dialog_title">Escolher motor antivírus</string>
   <string name="antivirus_choose_engine_disable_toast">"Não é possível alterar as definições enquanto a verificação está em progresso"</string>
   <string name="antivirus_choose_engine_settings">Definições adicionais do antivírus</string>
   <string name="antivirus_choose_engine_title">Definições</string>
-  <string name="antivirus_more_engine_dialog_summary">Se utilizar dois motores de busca ao mesmo tempo a verificação vai levar mais tempo.</string>
+  <string name="antivirus_more_engine_dialog_summary">Se utilizar ao mesmo tempo dois motores antivírus a verificação poderá levar mais tempo.</string>
   <string name="antivirus_more_engine_dialog_title">Atenção</string>
   <string name="antivirus_none_engine_dialog_ok">OK</string>
-  <string name="antivirus_none_engine_dialog_title">Tem de definir um motor de busca</string>
+  <string name="antivirus_none_engine_dialog_title">Tem de definir um motor antivírus</string>
   <string name="antivirus_privacy_dialog_cloudscan">Enviar nomes e detalhes da aplicação</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verficar nomes e detalhes da aplicação utilizando as definições de vírus online.</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
