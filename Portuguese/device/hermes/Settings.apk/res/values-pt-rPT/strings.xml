@@ -599,6 +599,9 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="clear_failed_dlg_text">Erro ao limpar os dados da aplicação</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
+  <string name="close_dialog">OK</string>
+  <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
+  <string name="close_miui_optimization_warning_message">O seu dispositivo irá reiniciar para aplicar esta alteração. Nota: desligar esta funcionalidade traz grandes mudanças nos layouts e elementos da UI.</string>
   <string name="cmcc_hardware_version">Versão de hardware:</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
@@ -1521,6 +1524,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="miui_allow_light">Luz de notificação</string>
   <string name="miui_allow_music">Multimédia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
+  <string name="miui_experience_optimization">Ligar optimização MIUI</string>
   <string name="miui_screensaver_show_time">Duração</string>
   <string name="miui_screensaver_show_time_select_title">Definir a duração de apresentação de diapositivos</string>
   <string name="miui_screensaver_state_off">Desligado</string>
@@ -1684,8 +1688,13 @@ Seleccione o seu sistema operativo:"</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro lançador.</string>
   <string name="only_when_charging">Apenas quando estiver a carregar</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
+  <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
+  <string name="open_miui_optimization_warning_message">O seu dispositivo irá reiniciar para aplicar esta alteração</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
   <string name="open_wifi_connect_title">Ligar a %1$s</string>
+  <string name="optimization_cancel">Cancelar</string>
+  <string name="optimization_close">Desligar e reiniciar</string>
+  <string name="optimization_open">Ligar</string>
   <string name="other_advanced_settings">Definições adicionais</string>
   <string name="other_personal_settings">Definições pessoais</string>
   <string name="other_relative">Outra</string>

@@ -2,6 +2,8 @@
     "durationformatshort": "%2$d:%5$02d",
     "durationformatlong": "%1$d:%3$02d:%5$02d",
     "action_item_hifi": "Auscultadores e efeitos de áudio",
+	"current_version": "Versão actual",
+	"version_info": "Versão",
 	"alaka_required": "Esta música não está disponível.",
 	"cloud_space_full": "Sem espaço de armazenamento disponível",
 	"do_not_remind_again": "Não mostrar novamente",
