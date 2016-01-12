@@ -124,7 +124,7 @@
   <string name="msim_select_default_time_left">(%d s)</string>  
   <string name="network_error_message">Tente efectuar uma chamada normal. Irá ser cobrado um valor adicional pela sua operadora.</string>
   <string name="network_error_title">Erro de rede</string>
-  <string name="no_balance_message">Sem saldo suficiente no tarifário actual. Poderá tentar efectuar uma chamada normal.</string>
+  <string name="no_balance_message">Sem saldo suficiente no pacote actual. Poderá tentar efectuar uma chamada normal.</string>
   <string name="no_balance_title">Saldo insuficiente</string>
   <string name="no_vm_number">Não existe número de Voice Mail</string>
   <string name="no_vm_number_msg">Não existe nenhum número de Voice Mail armazenado no cartão SIM.</string>  
@@ -141,7 +141,7 @@
   <string name="notification_incoming_call">Chamada recebida</string>    
   <string name="notification_on_hold">Em espera</string>
   <string name="notification_ongoing_call">Chamada actual</string>  
-  <string name="notification_requesting_video_call">Pedido de vídeo recebido</string>
+  <string name="notification_requesting_video_call">Pedido de videochamada recebido</string>
   <string name="ok">OK</string>  
   <string name="online_check_provider_info">Identificado por %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Banco</string>

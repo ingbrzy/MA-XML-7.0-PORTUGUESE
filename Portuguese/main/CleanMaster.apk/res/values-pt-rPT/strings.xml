@@ -314,7 +314,7 @@
   <string name="summary_delete_apk">Eliminar APKs seleccionados?</string>
   <string name="summary_delete_cache">Limpar cache das aplicações seleccionadas?</string>
   <string name="summary_delete_large_file">Eliminar ficheiros seleccionados?</string>
-  <string name="summary_delete_video">&gt;Eliminar os vídeos seleccionados?</string>
+  <string name="summary_delete_video">Eliminar vídeos seleccionados?</string>
   <string name="summary_optimizer">Este recurso envia o nome da pasta para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo.</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
@@ -351,8 +351,8 @@
   <string name="toast_backup_uninstall_failed2">Não é possível fazer cópia</string>
   <string name="toast_backup_uninstall_success">Cópia e desinstalação concluídas</string>
   <string name="toast_delete_select_image_succeed">Eliminados</string>
-  <string name="toast_garbage_cleanup_success">Limpeza terminada</string>
-  <string name="toast_garbage_list_empty">Nada a reportar</string>
+  <string name="toast_garbage_cleanup_success">Limpeza concluída</string>
+  <string name="toast_garbage_list_empty">Nada para limpar</string>
   <string name="toast_must_select_before_restore">Escolher fotos para restaurar</string>
   <string name="toast_network_eror">Não é possível ligar à rede</string>
   <string name="toast_network_switch">Esta aplicação pode ligar à internet</string>
