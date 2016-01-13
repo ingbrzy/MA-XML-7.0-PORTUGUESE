@@ -73,7 +73,7 @@
   <string name="call_log_old_header">Mais antigo</string>
   <string name="call_main">Ligar para o telefone principal</string>
   <string name="call_mms">Enviar MMS</string>
-  <string name="call_mobile">Ligar para o telemóvel</string>
+  <string name="call_mobile">Ligar para o telefone</string>
   <string name="call_other">Ligar</string>
   <string name="call_other_fax">Ligar para o fax</string>
   <string name="call_pager">Ligar para o pager</string>
@@ -86,7 +86,7 @@
   <string name="call_tty_tdd">Ligar para o TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_work">Ligar para o telefone do trabalho</string>
-  <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
+  <string name="call_work_mobile">Ligar para o telefone do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>  
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
@@ -222,7 +222,7 @@
   <string name="contact_edit_title_readonly">Só de leitura</string>
   <string name="contact_editor_prompt_multiple_accounts">Guardar o contacto para</string>
   <string name="contact_editor_prompt_one_account">O novo contacto será sincronizado %1$s.</string>
-  <string name="contact_editor_prompt_zero_accounts">Armazenar no telemóvel ou numa nova conta online</string>
+  <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou numa nova conta online</string>
   <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -378,7 +378,7 @@
   <string name="emailLabelsGroup">Email</string>
   <string name="email_custom">Personalizado %s</string>
   <string name="email_home">Casa</string>
-  <string name="email_mobile">Telemóvel</string>
+  <string name="email_mobile">telefone</string>
   <string name="email_other">Outro</string>
   <string name="email_work">Trabalho</string>  
   <string name="emergency_number_label">Número de emergência</string>
@@ -1041,7 +1041,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sms_isdn">Mensagem para o ISDN</string>
   <string name="sms_main">Mensagem para o telefone principal</string>
   <string name="sms_mms">Mensagem MMS</string>
-  <string name="sms_mobile">Mensagem para o telemóvel</string>
+  <string name="sms_mobile">Mensagem para o telefone</string>
   <string name="sms_other">Mensagem</string>
   <string name="sms_other_fax">Mensagem para o fax</string>
   <string name="sms_pager">Mensagem para o pager</string>
@@ -1049,7 +1049,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sms_telex">Mensagem para o telex</string>
   <string name="sms_tty_tdd">Mensagem para o TTY/TDD</string>
   <string name="sms_work">Mensagem para o telefone do trabalho</string>
-  <string name="sms_work_mobile">Mensagem para o telemóvel do trabalho</string>
+  <string name="sms_work_mobile">Mensagem para o telefone do trabalho</string>
   <string name="sms_work_pager">Mensagem para o pager do trabalho</string>
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>

@@ -338,8 +338,8 @@
   <string name="disable">Desligar</string>
   <string name="disable_all_cf">Desactivar todos os recursos de reencaminhamento de chamada</string>
   <string name="disable_cfb_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando está ocupado.</string>
-  <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando o telemóvel está inacessível.</string>
-  <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando não atende.</string>
+  <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando o telefone está inacessível.</string>
+  <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando não atende.</string>
   <string name="disable_fdn">Desactivar NMF</string>
   <string name="disable_fdn_ok">Activar NMF</string>
   <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
@@ -431,7 +431,7 @@
   <string name="exportAllcontatsFailed">Exportar todos os contactos do SIM</string>
   <string name="exportAllcontatsNoContacts">Não foram encontrados contactos</string>
   <string name="exportAllcontatsSuccess">Todos os contactos do SIM foram exportados</string>
-  <string name="exportContactScreen">Exportar os contactos do telemóvel para o cartão SIM</string>
+  <string name="exportContactScreen">Exportar os contactos do telefone para o cartão SIM</string>
   <string name="exportContacts">A exportar…</string>
   <string name="fake_phone_activity_infoText_text">Número de telefone de quem liga</string>
   <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
@@ -474,7 +474,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
   <string name="hac_mode_summary">Activar aparelho auditivo compatível</string>
   <string name="hac_mode_title">Aparelhos auditivos</string>
-  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telemóvel é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
+  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
   <string name="handon_ringer_title">Parar de tocar ao levantar</string>
   <string name="hintName">Nome</string>
   <string name="hintPhonenumber">Número de telefone</string>
@@ -771,7 +771,7 @@ Será utilizada a rede preferida."</string>
   <string name="no_internet_available_title">Sem ligação à internet</string>
   <string name="no_more">Não</string>
   <string name="no_product_list">Vazio</string>
-  <string name="no_sip_account_found">Não há contas de chamadas pela internet neste telemóvel. Quer adicionar uma conta agora?</string>
+  <string name="no_sip_account_found">Não há contas de chamadas pela internet neste telefone. Quer adicionar uma conta agora?</string>
   <string name="no_sip_account_found_title">Sem conta de chamada pela internet</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
@@ -845,21 +845,21 @@ Será utilizada a rede preferida."</string>
   <string name="ota_hfa_activation_title">A activar…</string>
   <string name="ota_listen">Siga as instruções de voz.</string>
   <string name="ota_next">Seguinte</string>
-  <string name="ota_progress">Aguarde enquanto o telemóvel é programado.</string>
+  <string name="ota_progress">Aguarde enquanto o telefone é programado.</string>
   <string name="ota_skip_activation_dialog_message">Se ignorar a activação não poderá fazer chamadas ou ligar a redes móveis de dados (excepto ligar a redes Wi-Fi). Enquanto não proceder à activação receberá o aviso para o fazer cada vez que ligar o telefone.</string>
   <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
   <string name="ota_skip_activation_dialog_title">Ignorar a activação?</string>
   <string name="ota_spc_failure">FALHAS SPC EXCESSIVAS</string>
   <string name="ota_speaker">Falar</string>
-  <string name="ota_successful">O seu telemóvel está activado. Pode demorar cerca de 15 minutos a iniciar o serviço.</string>
-  <string name="ota_title_activate">Active o seu telemóvel</string>
-  <string name="ota_title_activate_success">Telemóvel activado com êxito.</string>
+  <string name="ota_successful">O seu telefone está activado. Pode demorar cerca de 15 minutos a iniciar o serviço.</string>
+  <string name="ota_title_activate">Active o seu telefone</string>
+  <string name="ota_title_activate_success">Telefone activado com êxito.</string>
   <string name="ota_title_problem_with_activation">Não é possível activar</string>
-  <string name="ota_touch_activate">""É necessário fazer uma chamada específica para activar o serviço do seu telemóvel. 
+  <string name="ota_touch_activate">""É necessário fazer uma chamada específica para activar o serviço do seu telefone. 
 
-Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telemóvel.”"</string>
+Depois pressione “Activar”, ouvir as instruções fornecidas pela sua operadora para activar o seu telefone.”"</string>
   <string name="ota_try_again">Tente novamente</string>
-  <string name="ota_unsuccessful">"O telemóvel não ficou activado. 
+  <string name="ota_unsuccessful">"O telefone não ficou activado. 
 Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no exterior). 
 
 Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais informações."</string>
@@ -1002,7 +1002,7 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM embutidos</string>
-  <string name="pstn_phone">Chamada de telemóvel</string>
+  <string name="pstn_phone">Chamada de telefone</string>
   <string name="puk2_blocked">PUK2 está permanentemente bloqueado.</string>
   <string name="puk2_label">Digite o código PUK2</string>
   <string name="puk2_requested">O código está errado o cartão SIM está bloqueado. Digite o código do PUK2.</string>
@@ -1236,7 +1236,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="telocation_jituan_error_message_number">%s só suporta números e caracteres especiais</string>
   <string name="telocation_number_type">Tipo de número</string>
   <string name="telocation_number_type_jituan">Número de grupo</string>
-  <string name="telocation_number_type_mob">Telemóvel</string>
+  <string name="telocation_number_type_mob">Telefone</string>
   <string name="telocation_number_type_tel">Telefone fixo</string>
   <string name="telocation_setting">Definições de localização</string>
   <string name="telocation_show_settings">Definições do monitor</string>
