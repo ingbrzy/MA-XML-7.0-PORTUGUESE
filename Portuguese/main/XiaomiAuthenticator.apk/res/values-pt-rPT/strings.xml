@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password"><u>Esqueceu a sequência?</u></string>
+  <string name="forget_password">&lt;u&gt;Esqueceu a sequ&amp;#234;ncia?&lt;/u&gt;</string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -90,7 +90,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="lockpattern_tutorial_close_label">Fechar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockpattern_tutorial_jump_label">Ignorar</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>Esqueceu padrão de desbloqueio?</u></string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Esqueceu padr&amp;#227;o de desbloqueio?&lt;/u&gt;</string>
   <string name="login">Entrar</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
@@ -108,7 +108,7 @@ Inicie sessão em account.xiaomi.com e clique Reactivar."</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Políticas de Privacidade</string>
   <string name="progress_loading">A carregar…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai <b>remover a sua capacidade</b> de gerar códigos, no entanto, <b>não</b> vai desligar a verificação em 2 passos. Isto pode impedir o início de sessão na sua conta. <p>Antes de remover: <ul> <li>Desligar a verificação em 2 passos, ou</li> <li>Certifique-se que tem um método alternativo para gerar códigos.</li> </ul></p></string>
+  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai &lt;b&gt;remover a sua capacidade&lt;/b&gt; de gerar c&amp;#243;digos, no entanto, &lt;b&gt;n&amp;#227;o&lt;/b&gt; vai desligar a verifica&amp;#231;&amp;#227;o em 2 passos. Isto pode impedir o in&amp;#237;cio de sess&amp;#227;o na sua conta. &lt;p&gt;Antes de remover: &lt;ul&gt; &lt;li&gt;Desligar a verifica&amp;#231;&amp;#227;o em 2 passos, ou&lt;/li&gt; &lt;li&gt;Certifique-se que tem um m&amp;#233;todo alternativo para gerar c&amp;#243;digos.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_account_dialog_message">"Remover esta conta irá remover a sua capacidade de gerar códigos. Isto pode impedir o início sessão na sua conta.
 
@@ -167,7 +167,7 @@ Pode："</string>
   <string name="title_updatepattern">Alterar padrão</string>
   <string name="title_visible_pattern">Meter padrão visível</string>
   <string name="type_prompt">Tipo de chave</string>
-  <string name="update_pattern_jump"><u>Remover padrão</u></string>
+  <string name="update_pattern_jump">&lt;u&gt;Remover padr&amp;#227;o&lt;/u&gt;</string>
   <string name="version_preference_title">Versão</string>
   <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não será possível iniciar sessão na sua conta."</string>
   <string name="welcome_page_details">"- Mantenha a sua conta segura.

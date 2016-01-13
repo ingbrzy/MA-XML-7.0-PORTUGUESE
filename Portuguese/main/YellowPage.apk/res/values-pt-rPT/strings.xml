@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_fraud_num_online_identification">Acerca da identificação online de phishing</string>
   <string name="about_phone_event">Acerca do serviço de mensagens</string>
@@ -106,7 +106,7 @@
   <string name="express_inquiry_button_text">Pesquisar</string>
   <string name="express_inquiry_clipboard_number_message">Pesquisar número copiado?</string>
   <string name="express_inquiry_data_owner_prefix">"Informações de pesquisa fornecido por "</string>
-  <string name="express_inquiry_data_owner_suffix" />
+  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Eliminar %d entradas?</string>
   <string name="express_inquiry_delete_warning_single">Eliminar esta entrada?</string>
   <string name="express_inquiry_delivered">Entregue</string>
@@ -201,17 +201,17 @@ Verifique o seu número de registo."</string>
   <string name="general_recent_title">Recente</string>
   <string name="general_unfollow_hint">Deixar de seguir %1$s?</string>
   <string name="general_yellow_page_title">Geral</string>
-  <string name="group_name_banner" />
-  <string name="group_name_basic" />
+  <string name="group_name_banner"/>
+  <string name="group_name_basic"/>
   <string name="group_name_data_source">Fonte</string>
-  <string name="group_name_enroll" />
+  <string name="group_name_enroll"/>
   <string name="group_name_gallery">Galeria</string>
   <string name="group_name_management">Gerir</string>
   <string name="group_name_more">Outros</string>
   <string name="group_name_service">Serviços</string>
   <string name="group_name_shop_info">Informação</string>
   <string name="group_name_shop_recommendation">Perto</string>
-  <string name="group_name_title" />
+  <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Sem assunto)</string>
   <string name="hms_notification">Mensagens</string>
   <string name="homepage_barcode_prompt">Digitalizar para entrar na minha página.</string>

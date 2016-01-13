@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_history">Histórico</string>
   <string name="action_item_delete">Eliminar</string>
@@ -96,7 +96,7 @@
   <string name="select_device">Escolher dispositivo</string>
   <string name="share">Partilhar</string>
   <string name="share_button">Partilhar</string>
-  <string name="share_in_development" />
+  <string name="share_in_development"/>
   <string name="share_text">de Rádio Xiaomi [%1$s]</string>
   <string name="share_text_other">Ouça %1$s em %2$s.</string>
   <string name="similar_programs">Programas parecidos</string>

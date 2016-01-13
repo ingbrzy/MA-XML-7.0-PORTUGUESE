@@ -31,7 +31,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="click_to_enabled">Toque para sincronizar.</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque para fazer cópia de segurança</string>
-  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações."</string>  
+  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em progresso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações."</string>
   <string name="cloud_back_up_network_unavailable">"Não foi possível remover é necessário uma ligação à rede Wi-Fi. Tente novamente mais tarde."</string>
   <string name="cloud_back_up_open_info">"Fazer cópia quando se ligar ao Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
@@ -39,14 +39,14 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
   <string name="cloud_back_up_summary">Copiar quando se ligar ao Wi-Fi</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
+  <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
-  <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar dispositivo</string>
   <string name="cloud_restore_title">Restaurar uma cópia</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
-  <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>  
+  <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>
   <string name="cloudservice_new_sync">Sincronizar %s com Nuvem Mi</string>
   <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
   <string name="contact">Contactos</string>
@@ -95,7 +95,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="find_device_status_ok">Localizar o seu dispositivo de qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Localizar o seu dispositivo de qualquer lugar em www.mi.com/micloud</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
-  <string name="forget_password"><u>Esqueceu a palavra-passe</u></string>
+  <string name="forget_password">&lt;u&gt;Esqueceu a palavra-passe&lt;/u&gt;</string>
   <string name="free_space_has_received">Já adicionou espaço grátis este mês</string>
   <string name="free_space_receive_fail">Não é possível actualizar</string>
   <string name="get_first_month_gb">Obter %s de espaço grátis</string>
@@ -224,7 +224,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_set_internet">Rede</string>
   <string name="micloud_main_space_full">Armazenamento na Nuvem está cheio</string>
   <string name="micloud_main_space_full_title">Armazenamento na Nuvem está cheio</string>
-  <string name="micloud_main_space_low">Quase sem espaço…</string>  
+  <string name="micloud_main_space_low">Quase sem espaço…</string>
   <string name="micloud_main_stop_sync">Sincronização parou</string>
   <string name="micloud_main_suggest_master_sync">Não foi possível sincronizar tudo</string>
   <string name="micloud_main_suggest_setting">"A aguardar por ligação Wi-Fi para sincronizar.
@@ -290,7 +290,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_space_applist_title">Gerir aplicações</string>
   <string name="micloud_space_duokan_detail">Transferir e gerir ebooks com a aplicação Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence"><u>O que acontece quando eu ficar sem espaço?</u></string>
+  <string name="micloud_space_full_influence">&lt;u&gt;O que acontece quando eu ficar sem espa&amp;#231;o?&lt;/u&gt;</string>
   <string name="micloud_space_soundrecorder_detail">Gerir gravações guardadas no dispositivo</string>
   <string name="micloud_space_soundrecorder_title">Gravações</string>
   <string name="micloud_storage">Armazenamento</string>
@@ -390,7 +390,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_dspt_entrance_provision_confirm_content">"Aplicações MIUI integradas necessitam da Nuvem Mi para fazer cópias de segurança das suas fotos, contactos, notas, etc."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utilizar Nuvem Mi</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Nuvem Mi?"</string>
-  <string name="sync_dspt_entrance_provision_skip"><u>Ignorar este passo</u></string>
+  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Ignorar este passo&lt;/u&gt;</string>
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
@@ -404,7 +404,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_item_sms_title">Sincronizar mensagens</string>
   <string name="sync_off">Desligado</string>
   <string name="sync_on">Ligado</string>
-  <string name="sync_resend_sms_dspt_provision">" Se mudar de cartão SIM, a operadora pode cobrar um SMS utilizado para reactivar este serviço."</string>  
+  <string name="sync_resend_sms_dspt_provision">" Se mudar de cartão SIM, a operadora pode cobrar um SMS utilizado para reactivar este serviço."</string>
   <string name="sync_sub_1_intl_sms">A operadora pode cobrar por uma mensagem SMS internacional utilizada para activar este serviço.</string>
   <string name="sync_sub_1_sms">A operadora pode cobrar por uma mensagem SMS utilizada para activar este serviço.</string>
   <string name="sync_sub_1_sms_1_intl_sms">A operadora pode cobrar por uma mensagem SMS nacional e uma internacional utilizadas para activar este serviço.</string>

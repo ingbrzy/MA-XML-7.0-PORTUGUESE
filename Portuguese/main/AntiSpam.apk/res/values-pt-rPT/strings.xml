@@ -137,9 +137,9 @@
   <string name="loding">A carregar dados</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Bloquear agências reportadas</string>
-  <string name="mark_agent_block">Reportado como agência</string> 
+  <string name="mark_agent_block">Reportado como agência</string>
   <string name="mark_agent_block_large">Agências</string>
-  <string name="mark_agent_time_setting">Bloquear números reportados como agências um número específico de vezes</string>  
+  <string name="mark_agent_time_setting">Bloquear números reportados como agências um número específico de vezes</string>
   <string name="mark_fraud">Bloquear fraudes reportadas</string>
   <string name="mark_fraud_block">Reportado como Fraude</string>
   <string name="mark_fraud_block_large">Fraudes</string>
@@ -246,7 +246,7 @@
   <string name="st_antispam_mode_only_contacts">Permitir apenas contactos</string>
   <string name="st_antispam_mode_only_contacts_sum">Permitir apenas chamadas e mensagens de contactos</string>
   <string name="st_antispam_mode_only_whitelist">Permitir apenas excepções</string>
-  <string name="st_antispam_mode_only_whitelist_sum">Permitir apenas chamadas e mensagens de números na lista de excepções</string>  
+  <string name="st_antispam_mode_only_whitelist_sum">Permitir apenas chamadas e mensagens de números na lista de excepções</string>
   <string name="st_antispam_mode_smart">Números reportados</string>
   <string name="st_antispam_mode_smart_sum">Bloquear números que adicionou manualmente e números que têm sido reportados por outros utilizadores</string>
   <string name="st_antispam_notification_sum">Mostrar notificação quando a chamada ou mensagem é bloqueada</string>
@@ -343,5 +343,5 @@
   <string name="website">Website</string>
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com prefixo às excepções</string>
   <string name="wl_no_whitelist">Sem excepções</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>  
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

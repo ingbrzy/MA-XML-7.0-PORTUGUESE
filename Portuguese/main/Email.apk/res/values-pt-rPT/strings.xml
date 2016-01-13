@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>  
+<resources>
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="SMTP_password_text">Palavra-passe</string>
   <string name="SMTP_username_text">Nome de utilizador</string>
@@ -10,7 +10,7 @@
   <string name="abc_searchview_description_submit">Submeter</string>
   <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
-  <string name="account_duplicate_dlg_title">Conta duplicada</string>  
+  <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
   <string name="account_options_sync_title">Sincronizar</string>
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços.</string>
@@ -27,7 +27,7 @@
   <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
   <string name="account_settings_edit_quick_responses_summary">Edite o texto que costuma inserir nos seus emails</string>
   <string name="account_settings_enforced_label">Políticas</string>
-  <string name="account_settings_enforced_summary">Nenhuma</string> 
+  <string name="account_settings_enforced_summary">Nenhuma</string>
   <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras definições do servidor</string>
   <string name="account_settings_login_dialog_content_fmt">O nome de utilizador ou a palavra-passe de %s está incorrecto. Deseja actualizar agora?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Não foi possível iniciar sessão em %s. O servidor diz: %s</string>
@@ -211,13 +211,13 @@
   <string name="cc">Cc</string>
   <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
   <string name="cc_bcc">Cc/Bcc</string>
-  <string name="cc_heading">"Cc: "</string> 
+  <string name="cc_heading">"Cc: "</string>
   <string name="change_folders_selection_dialog_title">Alterar pastas</string>
   <string name="change_sync_settings">Alterar definições de sincronização</string>
   <string name="changepw_dialog_tips">Reintroduzir a palavra-passe de %s</string>
   <string name="chat_item_msg_people_unit">pessoas</string>
-  <string name="chat_item_msg_user_etc"/>  
-  <string name="chat_view_description">Emails de grupo na mesma conversa</string> 
+  <string name="chat_item_msg_user_etc"/>
+  <string name="chat_view_description">Emails de grupo na mesma conversa</string>
   <string name="chat_view_title">Vista de conversa</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
@@ -266,8 +266,8 @@
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL do link</string>
   <string name="contextmenu_create">Criar novo contacto</string>
-  <string name="contextmenu_edit">Editar contacto</string>
   <string name="contextmenu_dial_dot">Marcar…</string>
+  <string name="contextmenu_edit">Editar contacto</string>
   <string name="contextmenu_feedback">Enviar comentários</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
@@ -367,7 +367,7 @@
   <string name="file_not_found">Não foi possível encontrar o ficheiro</string>
   <string name="file_not_found_redownload">Não foi possível encontrar o ficheiro</string>
   <string name="file_rar_not_support">Não é possível abrir ficheiros RAR encriptados</string>
-  <string name="filtered_tag">[%1$s]%2$s</string> 
+  <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -408,7 +408,7 @@
   <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Reencaminhar</string>
   <string name="forward_attachment">Rencaminhar</string>
-  <string name="forward_attribution">---------- Mensagem reencaminhada ----------&lt;br>De: %1$s&lt;br>Data: %2$s&lt;br>Assunto: %3$s&lt;br>Para: %4$s&lt;br></string>
+  <string name="forward_attribution">---------- Mensagem reencaminhada ----------&lt;br&gt;De: %1$s&lt;br&gt;Data: %2$s&lt;br&gt;Assunto: %3$s&lt;br&gt;Para: %4$s&lt;br&gt;</string>
   <string name="forward_attribution_no_headers">---------- Mensagem reencaminhada ----------</string>
   <string name="forward_download_failed_ticker">Não foi possível reencaminhar todos os anexos.</string>
   <string name="forward_download_failed_title">Anexo não reencaminhado</string>
@@ -423,13 +423,13 @@
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro.</string>
-  <string name="get_database_exception">"Limpar os dados desta aplicação em Definições > Aplicações de Sistema e tente novamente."</string>
+  <string name="get_database_exception">"Limpar os dados desta aplicação em Definições &gt; Aplicações de Sistema e tente novamente."</string>
   <string name="gmail_acceleration">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_confirm_to_use_proxy">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Não foi possível aceder ao servidor Gmail</string>
   <string name="gmail_server_authorization_deleted">Não foi possível autenticar. Tente adicionar esta conta novamente.</string>
   <string name="gmail_web_login_go">OK</string>
-  <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string> 
+  <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string>
   <string name="header_category_account">Contas</string>
   <string name="header_category_other">Comentar</string>
   <string name="header_label_general_preferences">Definições gerais</string>
@@ -536,13 +536,13 @@
   <string name="mibill_privacy_policy_button1">Não concordo</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
   <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Este recurso está inactivo por defeito para endereços de email de empresa.</string>
-  <string name="mibill_privacy_policy_link">Ao utilizar este recurso está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
+  <string name="mibill_privacy_policy_link">Ao utilizar este recurso está a concordar com o nosso &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Termos de Servi&amp;#231;o&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
   <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_context">Mais</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
   <string name="mute">Silenciar</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -557,7 +557,7 @@
   <string name="no_content_in_body">[Sem conteúdo]</string>
   <string name="no_conversations">Sem mensagens</string>
   <string name="no_mails">Sem emails</string>
-  <string name="no_matched_attachment">Sem resultados.</string>  
+  <string name="no_matched_attachment">Sem resultados.</string>
   <string name="not_subject">(Sem assunto)</string>
   <string name="not_synced_title">Conta não sincronizada</string>
   <string name="notification_action_archive">Arquivar</string>
@@ -723,7 +723,7 @@
   <string name="refresh">Actualizar</string>
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_done">Concluída</string>
-  <string name="release_to_refresh">Soltar para actualizar</string> 
+  <string name="release_to_refresh">Soltar para actualizar</string>
   <string name="remote_search_result">%s resultados no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
@@ -732,7 +732,7 @@
   <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>
   <string name="reply_attribution" formatted="false">Em %s, %s escreveu:</string>
-  <string name="report_phishing">Denunciar phishing</string> 
+  <string name="report_phishing">Denunciar phishing</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">O ficheiro é muito grande</string>
   <string name="respond_inline">Responder inline</string>
@@ -745,7 +745,7 @@
   <string name="saving">A guardar…</string>
   <string name="sdcard_cannot_use">Não é possível utilizar o cartão SD</string>
   <string name="search_hint">Pesquisar email</string>
-  <string name="search_result">Resultados</string> 
+  <string name="search_result">Resultados</string>
   <string name="search_tabs_name_all">Todos</string>
   <string name="search_tabs_name_recipient">Destinatário</string>
   <string name="search_tabs_name_sender">Remetente</string>
@@ -793,7 +793,7 @@
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="smtp_password_error">A palavra passe do servidor de correio de saída está incorrecta</string>
-  <string name="sort_attachment">Ordenar por</string> 
+  <string name="sort_attachment">Ordenar por</string>
   <string name="storage">Armazenamento</string>
   <string name="str_select_all">Seleccionar tudo</string>
   <string name="str_select_none">Desmarcar tudo</string>
@@ -852,13 +852,13 @@
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
-Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente.</string>
+Toque "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;b&gt;Alterar defini&amp;#231;&amp;#245;es de sincroniza&amp;#231;&amp;#227;o&lt;/b&gt; para configurar esta conta para sincronizar emails automaticamente.</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Outros</string>
   <string name="wrong_password">A palavra-passe que inseriu está errada</string>
   <string name="yes">Sim</string>
- <string name="you_are_in_mobile_network">Enviar registo usando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="you_are_in_mobile_network">Enviar registo usando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>

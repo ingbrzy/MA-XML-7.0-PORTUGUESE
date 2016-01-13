@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources>    
+<resources>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
+  <string name="Only_the_wifi">Utilizar apenas Wi-Fi</string>
   <string name="about">Acerca de</string>
   <string name="action_settings">Definições</string>
   <string name="ad_title">Pessoas também transferiram estes com  %1$s </string>
@@ -54,7 +60,7 @@
   <string name="disable">Desligado</string>
   <string name="display_expire_netiv1">Este mês</string>
   <string name="do_not_support_url">Este tipo de URL não é suportado</string>
-  <string name="doc_filter">Documentos</string>  
+  <string name="doc_filter">Documentos</string>
   <string name="download">Transferências</string>
   <string name="download_auth">A obter autorização…</string>
   <string name="download_complete">Concluído</string>
@@ -88,11 +94,6 @@
   <string name="download_title">Transferências</string>
   <string name="download_title_sorted_by_date">Transferências - Ordenadas por data</string>
   <string name="download_title_sorted_by_size">Transferências - Ordenadas por tamanho</string>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="download_wait_connect">A aguardar por ligação</string>
   <string name="download_when_network_connected">Transferir utilizando uma ligação de dados</string>
   <string name="downloaded">Transferência concluída</string>
@@ -106,7 +107,7 @@
   <string name="editmode_menu_share">Partilhar</string>
   <string name="engine_open">Abrir</string>
   <string name="enter_search">Pesquisar</string>
-  <string name="experience_xunlei_account_speed">Membros Xunlei podem desfrutar de transferências à velocidade da luz.</string>   
+  <string name="experience_xunlei_account_speed">Membros Xunlei podem desfrutar de transferências à velocidade da luz.</string>
   <string name="expire_notification_msg">Filiação Xunlei vai expirar brevemente.</string>
   <string name="expire_today_notification_msg">Filiação Xunlei expira hoje.</string>
   <string name="extract_file">A descompactar ficheiro…</string>
@@ -117,7 +118,7 @@
   <string name="get_account_dialog_msg">A obter informações de conta…</string>
   <string name="get_data_failed">Não foi possível obter informação. Tente novamente mais tarde</string>
   <string name="get_order_dialog_msg">A obter informações de encomenda…</string>
-  <string name="get_order_fail_msg">Não é possível criar encomenda</string>  
+  <string name="get_order_fail_msg">Não é possível criar encomenda</string>
   <string name="high_speed_channel">Acelerador Xunlei (pago):</string>
   <string name="hint">Atenção</string>
   <string name="immediately_a_renewal">Renovar agora</string>
@@ -154,7 +155,6 @@
 em todos os seus dispositivos com Xunlei"</string>
   <string name="one_month">1 mês</string>
   <string name="only_support_torrent">Apenas são suportados ficheiros torrent</string>
-  <string name="Only_the_wifi">Utilizar apenas Wi-Fi</string>
   <string name="open">Abrir</string>
   <string name="open_download">Abrir</string>
   <string name="open_vip_hint">Toque para se tornar um membro Xunlei</string>
@@ -205,7 +205,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="recommend_show_other_downloads">Ver frequentes</string>
   <string name="remove_download">Remover</string>
   <string name="restart_download">Reiniciar</string>
-  <string name="resume_download">Retomar</string>  
+  <string name="resume_download">Retomar</string>
   <string name="retry_after_network_available">"Não foi possível ligar à rede. Verifique a sua ligação e tente novamente."</string>
   <string name="retry_download">Repetir</string>
   <string name="revert_default">Reinicializar</string>

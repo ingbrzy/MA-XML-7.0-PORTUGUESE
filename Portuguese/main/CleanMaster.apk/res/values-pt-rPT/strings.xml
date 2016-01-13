@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_title_ad">Anúncios</string>
   <string name="activity_title_apk">Pacotes</string>
@@ -26,10 +26,10 @@
   <string name="apk_status_damage">Corrompida</string>
   <string name="apk_status_duplicate">Duplicada</string>
   <string name="apk_status_install">Instalado</string>
-  <string name="apk_status_installed_old">Versão antiga</string>    
-  <string name="apk_status_uninstalled">Não instalado</string>    
-  <string name="apps_sort_type_item_time">Frequentemente utilizado</string>
+  <string name="apk_status_installed_old">Versão antiga</string>
+  <string name="apk_status_uninstalled">Não instalado</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
+  <string name="apps_sort_type_item_time">Frequentemente utilizado</string>
   <string name="apps_sort_type_title">Ordenar</string>
   <string name="authorize_detail">Bloqueadas %d aplicações</string>
   <string name="auto_clean_switch_off">Desligado</string>
@@ -45,7 +45,6 @@
   <string name="button_text_backup_uninstall">Copiar primeiro</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_cleanup">Limpar</string>
-  <string name="button_text_known">OK</string>    
   <string name="button_text_delete_from_white_list">Remover</string>
   <string name="button_text_delete_pic">Eliminar</string>
   <string name="button_text_deselect_all_photos">Desmarcar tudo</string>
@@ -54,6 +53,7 @@
   <string name="button_text_install">Instalar</string>
   <string name="button_text_install_now">Instalar</string>
   <string name="button_text_keep_one">Reservar uma</string>
+  <string name="button_text_known">OK</string>
   <string name="button_text_let_me_select">OK</string>
   <string name="button_text_not_prompt_again">Não mostrar novamente</string>
   <string name="button_text_photo_selected">Seleccionado</string>
@@ -76,8 +76,8 @@
   <string name="cancel">Cancelar</string>
   <string name="clean_content_all">Tudo</string>
   <string name="clean_content_one">1 item</string>
+  <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
-  <string name="clean_content_three">3 itens</string>    
   <string name="clean_content_zero">Nenhum</string>
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens inúteis</string>
   <string name="clear_immediately">Limpar agora</string>
@@ -95,7 +95,7 @@
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
-  <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>    
+  <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
   <string name="deepclean_list_item_from_download">Transferências</string>
@@ -115,7 +115,7 @@
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
   <string name="dialog_content_delete_image_confirm">Eliminar %d fotos?</string>
-  <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>    
+  <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
   <string name="dialog_msg_load_cleanup_engine_error">O motor de limpeza foi interrompido devido a um erro.</string>
@@ -165,7 +165,7 @@
   <string name="hints_finish_quick_scan">Terminou a verificação</string>
   <string name="hints_garbage_cleanup_result_danger">Limpar o armazenamento interno</string>
   <string name="hints_garbage_cleanup_result_risk">Limpar o armazenamento interno</string>
-  <string name="hints_garbage_cleanup_result_safe">Nada a reportar</string>    
+  <string name="hints_garbage_cleanup_result_safe">Nada a reportar</string>
   <string name="hints_garbage_handle_item_content">%1$d ficheiros, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Vazio</string>
   <string name="hints_header_left">%d</string>
@@ -175,10 +175,10 @@
   <string name="hints_install_apps_risk">Risco detectado</string>
   <string name="hints_install_apps_today">Utilizado hoje</string>
   <string name="hints_install_apps_virus">Vírus detectado</string>
-  <string name="hints_installed_apps_header_left">Aplicações instaladas: %d</string>
   <string name="hints_installed_app_fewer">Raramente utilizado</string>
   <string name="hints_installed_app_near">Utilizado recentemente</string>
   <string name="hints_installed_app_never">Nunca utilizado</string>
+  <string name="hints_installed_apps_header_left">Aplicações instaladas: %d</string>
   <string name="hints_large_file_header_left">Ficheiros grandes: %d</string>
   <string name="hints_latest_garbage_cleanup_date">Última limpeza: %d dias atrás</string>
   <string name="hints_latest_garbage_cleanup_never">Nunca limpo</string>
@@ -201,7 +201,7 @@
   <string name="hints_quick_scanning">A verificar…</string>
   <string name="hints_residual_header_left">Residuais</string>
   <string name="hints_scanfinish">Sem lixo</string>
-  <string name="hints_storage_clean_size">Libertou %s de armazenamento interno</string>   
+  <string name="hints_storage_clean_size">Libertou %s de armazenamento interno</string>
   <string name="hints_storage_free">Livre</string>
   <string name="hints_storage_free_size">Total: %1$s Disponível: %2$s</string>
   <string name="hints_storage_news">Novidades de segurança</string>
@@ -250,7 +250,7 @@
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Programar</string>
   <string name="pref_category_title_auto_update_cleanup_db">Definições adicionais</string>
-  <string name="pref_category_title_cleanup_white_list">Excepções</string>    
+  <string name="pref_category_title_cleanup_white_list">Excepções</string>
   <string name="pref_category_title_garbage_cleanup_check">Notificações</string>
   <string name="pref_category_title_other_clean_settings">Definições adicionais</string>
   <string name="pref_content_cleanup_white_list_none">Nenhum</string>

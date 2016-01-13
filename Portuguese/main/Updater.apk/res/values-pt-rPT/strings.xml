@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device">Acerca do telefone</string>
   <string name="active_xiaomi_account">Activa</string>
@@ -88,7 +88,7 @@
   <string name="menu_title_download_current_rom">Transferir actualização</string>
   <string name="menu_title_pick_rom_file">Seleccionar actualização</string>
   <string name="menu_title_recovery">Reiniciar em modo de restauro</string>
-  <string name="miui_BBS">" "<a href="http://bbs.miui.com">Vá ao fórum MIUI</a>" "</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;V&amp;#225; ao f&amp;#243;rum MIUI&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">" Actualização disponível "</string>
   <string name="miui_summary_no_new_version">Não existem actualizações disponíveis</string>
   <string name="miui_summary_now_version">Não é possível ligar à rede</string>
@@ -194,7 +194,7 @@
   <string name="top_secret_build">Super secreto</string>
   <string name="unkown_error_title">Não é possível transferir</string>
   <string name="unstable_build">Instável</string>
-  <string name="update_comment_hint" />
+  <string name="update_comment_hint"/>
   <string name="update_comment_title">Comentário</string>
   <string name="update_downfull_no_info_sum">Aguarde alguns minutos e tente novamente.</string>
   <string name="update_downfull_no_info_title">Não é possível transferir</string>
@@ -232,7 +232,6 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="validate_pkg_failed_title">Não é possível verificar a actualização</string>
   <string name="view_upgrade_tutorial">Ver</string>
   <string name="vote_beta">Comentário de Programa Beta</string>
-  <string name="vote_error_nonetwork">Não é possível ligar à rede</string>
   <string name="vote_error1">"Parece que não é um membro
 no Comentário de Programa Beta"</string>
   <string name="vote_error2">"Não é possível enviar o comentário.
@@ -242,6 +241,7 @@ Tente novamente iniciar sessão na sua conta Mi."</string>
   <string name="vote_error4">Já submeteu o seu comentário</string>
   <string name="vote_error5">"Algo está errado
 Não foi possível submeter o comentário"</string>
+  <string name="vote_error_nonetwork">Não é possível ligar à rede</string>
   <string name="vote_experience">Esperiência no fórum</string>
   <string name="vote_hint">Obtenha 20 pontos de experiência no fórum MIUI que votou</string>
   <string name="vote_join">Votado</string>

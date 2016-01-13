@@ -107,7 +107,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="firewall_fragment_sys_listempty">Vazio</string>
   <string name="firewall_fragment_tab_title_nonsys">Instalado</string>
   <string name="firewall_fragment_tab_title_sys">Sistema</string>
-  <string name="firewall_network_restrict_notify_message">Toque para alterar definições.</string>  
+  <string name="firewall_network_restrict_notify_message">Toque para alterar definições.</string>
   <string name="firewall_network_restrict_notify_mobile">dados móveis</string>
   <string name="firewall_network_restrict_notify_title">%1$s não pode utilizar %2$s</string>
   <string name="firewall_restrict_android_dialog_content">Para garantir que o seu dispositivo funciona normalmente algumas aplicações de sistema vão continuar a ligar-se à internet. Estas aplicações vão utilizar a ligação de dados móveis e podem gerar taxas adicionais cobradas pela sua operadora.</string>
@@ -154,7 +154,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="lock_screen_warning_value">Aviso de utilização de dados</string>
   <string name="main_alert_message_month_limit_error">Limite de dados incorrecto</string>
   <string name="main_alert_message_no_imsi">Nenhum cartão SIM detectado</string>
-  <string name="main_alert_message_no_mobile_package">Definir limite de dados</string>  
+  <string name="main_alert_message_no_mobile_package">Definir limite de dados</string>
   <string name="main_alert_message_slot_no_data_connection">"A ranhura do cartão SIM não suporta
 uma ligação de dados móveis "</string>
   <string name="main_button_idel_traffic">Menor tráfego</string>
@@ -215,7 +215,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
 
  2. Se acabou de carregar o saldo do seu telefone, reinicie o telefone e tente novamente.
 
- 3. O sinal de rede da sua operadora pode ser fraco na sua localização actual."</string>  
+ 3. O sinal de rede da sua operadora pode ser fraco na sua localização actual."</string>
   <string name="network_operator_exception_summary">Não foi possível activar o cartão SIM. Verifique se o seu cartão SIM está inserido correctamente e que o seu plano móvel foi activado pela sua operadora.</string>
   <string name="network_permission_exception_tips">Não é possível utilizar dados móveis para ligar à rede</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede.</string>
@@ -248,7 +248,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="network_speed_for_apps_others">Outros</string>
   <string name="network_speed_for_apps_title">Ligação</string>
   <string name="network_speed_for_apps_total">Velocidade da ligação</string>
-  <string name="networkchanged_exception_summary">Ligação de rede foi alterada. Por favor teste novamente.</string> 
+  <string name="networkchanged_exception_summary">Ligação de rede foi alterada. Por favor teste novamente.</string>
   <string name="networkchanged_exception_title">Ligação alterada</string>
   <string name="none_mi_service_app_detail">Vazio</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal.</string>

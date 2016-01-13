@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Conta</string>
   <string name="account_and_cloud">Conta</string>
@@ -111,9 +111,9 @@
   <string name="disable_auto_payment_fail_message">"Não foi possível desligar a renovação automática"</string>
   <string name="disable_auto_payment_success">Desligado</string>
   <string name="disable_auto_payment_success_message">"Renovação automática desligada.  Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas."</string>
+  <string name="disallow_add_to_fm">FM é apenas de leitura</string>
   <string name="disallow_add_to_personal_radio">O rádio pessoal é apenas de leitura</string>
   <string name="do_not_remind_again">Não mostrar novamente</string>
-  <string name="disallow_add_to_fm">FM é apenas de leitura</string>
   <string name="done">Concluido</string>
   <string name="download">Transferência</string>
   <string name="download_all_song">Transferir todas</string>
@@ -244,8 +244,8 @@
   <string name="ktv_playlist">Lista de reprodução KTV</string>
   <string name="like">Gosto</string>
   <string name="list_detail_title">Detalhes</string>
-  <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="list_item_play_FM_radio">Reproduzir Rádio FM</string>
+  <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Aguarde um seg…</string>
   <string name="local_music">Música Local</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Pesquisar</string>
   <string name="apps_search_activity"/>
@@ -51,8 +51,8 @@ Para eliminar o histórico do navegador utilize as configurações do navegador.
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">"Tente dizer "</string>
+  <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Resultados</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
-  <string name="xiaomi_hint"/>
 </resources>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_id_not_login">Tocar para iniciar sessão</string>
   <string name="account_info">Conta Mi</string>
@@ -206,7 +206,7 @@
   <string name="resource_menu_refresh">Actualizar</string>
   <string name="resource_mute">Nenhum</string>
   <string name="resource_my">Dispositivo</string>
-  <string name="resource_network_diagnostics"><u>Diagnósticos de Rede</u></string>
+  <string name="resource_network_diagnostics">&lt;u&gt;Diagn&amp;#243;sticos de Rede&lt;/u&gt;</string>
   <string name="resource_no_match_app">Não foi encontrada nenhuma aplicação para concluir esta acção.</string>
   <string name="resource_no_network_text">Não é possível ligar à rede</string>
   <string name="resource_no_result">Sem resultados</string>

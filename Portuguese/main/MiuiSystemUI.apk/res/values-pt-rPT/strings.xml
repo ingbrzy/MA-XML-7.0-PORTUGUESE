@@ -46,7 +46,7 @@
   <string name="accessibility_wimax_three_bars">Três barras.</string>
   <string name="accessibility_wimax_two_bars">Duas barras.</string>
   <string name="activate_usb_message">Para activar este recurso, insira o seu cartão SIM.</string>
-  <string name="activate_usb_title">Activar USB</string>  
+  <string name="activate_usb_title">Activar USB</string>
   <string name="always_use_accessory">Utilize por padrão para este acessório USB</string>
   <string name="always_use_device">Utilize por padrão para este dispositivo USB</string>
   <string name="app_label">Sistema</string>
@@ -120,8 +120,8 @@ Utilize apenas o carregador fornecido."</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="label_view">Ver</string>
   <string name="lland">L Land</string>
-  <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
+  <string name="managed_profile_foreground_toast">Está a utilizar o seu perfil de trabalho</string>
   <string name="mdb_entering">A iniciar…</string>
   <string name="mdb_restore_cancel">Cancelar</string>
   <string name="mdb_restore_info1">Restaurar dados do seu telefone</string>
@@ -245,5 +245,4 @@ Deslize para baixo para bloquear"</string>
   <string name="vpn_text_long">Ligado a %s. Toque para ver detalhes.</string>
   <string name="vpn_title">VPN activado</string>
   <string name="vpn_title_long">Ligar a VPN utilizando %s</string>
-  
 </resources>

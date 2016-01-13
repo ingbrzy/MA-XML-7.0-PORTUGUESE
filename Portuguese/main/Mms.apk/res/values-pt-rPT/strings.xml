@@ -151,8 +151,8 @@
   <string name="ex_type_mx">Mensagens Mi</string>
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Foi atingido o tamanho máximo da mensagem.</string>
-  <string name="exceed_message_text_limitation">Foi atingido o tamanho de texto máximo da mensagem.</string>
   <string name="exceed_message_size_limitation_add_slide">O tamanho da mensagem não é suficiente para adicionar um diapositivo</string>
+  <string name="exceed_message_text_limitation">Foi atingido o tamanho de texto máximo da mensagem.</string>
   <string name="expire_on">Expira: %s</string>
   <string name="exporting_progress_private_message">Exportar mensagens…</string>
   <string name="failed_to_add_media">Não pode adicionar %1$s à sua mensagem.</string>
@@ -177,7 +177,7 @@
   <string name="forward_from">Reenviar de:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Carregar mensagens de %1$s para %2$s?</string>
-  <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>  
+  <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>
   <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Nuvem Mi inicie sessão na sua Conta Mi e ligue a sincronização de SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Nuvem Mi nas Definições de Mensagens.</string>
   <string name="found_wild_messages_guide_sync_not_started">Sincronização ainda não começou</string>
@@ -367,8 +367,8 @@
   <string name="pref_notification_settings_title">Notificações</string>
   <string name="pref_other_title">Definições adicionais</string>
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
-  <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
+  <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
   <string name="pref_sms_theme_title">Mostrar</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>

@@ -28,7 +28,7 @@
   <string name="activate_popup_confirm_failed_send_sms">Reenviar</string>
   <string name="activate_popup_confirm_failed_server">Repetir</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora.</string>
-  <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora.</string>  
+  <string name="activate_popup_desc_2_sim_cards">2 mensagens de texto vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Não foi possível encontrar o seu número de telefone. Certifique-se que o seu cartão SIM foi activado.
 Introduza o número de telefone associado com o seu novo cartão SIM para reactivar %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Não foi possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.
@@ -74,7 +74,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_completed_with_sms_sent">Enviar SMS para activar SIM</string>
   <string name="activate_status_desc_device_id_error">IMEI inválido</string>
   <string name="activate_status_desc_failed_getting_gateway">Não foi possível obter gateway de SMS</string>
-  <string name="activate_status_desc_getting_gateway">A obter gateway de SMS…</string>  
+  <string name="activate_status_desc_getting_gateway">A obter gateway de SMS…</string>
   <string name="activate_status_desc_prepare_sending_sms">A preparar para enviar uma SMS de activação…</string>
   <string name="activate_status_desc_query_activation_info">A obter informação de activação…</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">O servidor não conseguiu enviar uma SMS de activação para o seu telefone</string>
@@ -83,7 +83,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_registering_sim_account">A registar o cartão SIM…</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Ocorreu um erro ao registar o cartão SIM no servidor</string>
   <string name="activate_status_desc_registering_xiaomi_account">A criar Conta Mi…</string>
-  <string name="activate_status_desc_registering_xiaomi_account_server_error">Ocorreu um erro no servidor enquanto criava a Conta Mi</string>  
+  <string name="activate_status_desc_registering_xiaomi_account_server_error">Ocorreu um erro no servidor enquanto criava a Conta Mi</string>
   <string name="activate_status_desc_request_activation_sms">A solicitar uma SMS de activação…</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Erro de servidor ao pedir uma SMS de activação.</string>
   <string name="activate_status_desc_sending_sms">A enviar SMS de activação…</string>
@@ -101,5 +101,5 @@ ID do Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispos
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
   <string name="sync_notification_title_format">A sincronizar item: %1$s</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>
-  <string name="xmsf_activate_info">Informações de activação XMSF</string>  
+  <string name="xmsf_activate_info">Informações de activação XMSF</string>
 </resources>

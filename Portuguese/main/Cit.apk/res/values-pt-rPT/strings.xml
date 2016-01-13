@@ -88,7 +88,6 @@ Segure o telefone como se estivesse a responder uma chamada e fale para o microf
   <string name="cit_charger_plugin_check_summary">Quando ligar o carregador USB, deverá aparecer em baixo o texto \"A carregar por USB/AC\".</string>
   <string name="cit_charger_plugin_check_title">Carregador (ligado)</string>
   <string name="cit_charger_plugout_check_summary">Quando desligar o carregador deverá aparecer em baixo o texto \"Carregador USB/AC desligado\".</string>
-  <string name="cit_finger_check_title">Teste de Impressão Digital(FPC)</string>
   <string name="cit_charger_plugout_check_title">Carregador (desligado)</string>
   <string name="cit_charger_waiting_in">Ligue o carregador</string>
   <string name="cit_charger_waiting_out">Desligue agora o carregador</string>
@@ -98,6 +97,7 @@ Segure o telefone como se estivesse a responder uma chamada e fale para o microf
   <string name="cit_exit_test_summary">Quando sair todos os resultados serão eliminados.</string>
   <string name="cit_exit_test_title">Sair do modo de teste</string>
   <string name="cit_fail">Erro</string>
+  <string name="cit_finger_check_title">Teste de Impressão Digital(FPC)</string>
   <string name="cit_fm_audio_path">Definir caminho de áudio</string>
   <string name="cit_fm_audio_path_headset">Auriculares</string>
   <string name="cit_fm_audio_path_speaker">Altifalante</string>
