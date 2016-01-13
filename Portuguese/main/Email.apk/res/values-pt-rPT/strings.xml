@@ -69,7 +69,7 @@
   <string name="account_setup_check_settings_retr_info_msg">A recuperar informações da conta…</string>
   <string name="account_setup_correct_address_tips">Insira o endereço de email</string>
   <string name="account_setup_creating_account_msg">A criar a conta…</string>
-  <string name="account_setup_deleting_account_msg">A eliminar conta…</string>
+  <string name="account_setup_deleting_account_msg">A remover conta…</string>
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
   <string name="account_setup_exchange_device_id_label">ID do dispositivo</string>
   <string name="account_setup_exchange_no_certificate">Nenhum</string>
@@ -78,7 +78,7 @@
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
   <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador, a palavra-passe e tente novamente.</string>
   <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe errados.</string>
-  <string name="account_setup_failed_dlg_bar_title">Login tips of %s</string>
+  <string name="account_setup_failed_dlg_bar_title">Maneiras de iniciar sessão em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
 (%s)"</string>
@@ -89,8 +89,8 @@
   <string name="account_setup_failed_dlg_server_message_fmt">"Não é possível ligar ao servidor.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Não foi possível configurar a conta</string>
-  <string name="account_setup_failed_dlg_todo1">Por favor configure a conta como abaixo ou tente iniciar sessão com exchange.</string>
-  <string name="account_setup_failed_dlg_todo2">Por favor configure a conta como abaixo.</string>
+  <string name="account_setup_failed_dlg_todo1">Configure a conta como mostrado em baixo ou tente iniciar sessão com EXCHANGE.</string>
+  <string name="account_setup_failed_dlg_todo2">Configure a conta como mostrado em baixo</string>
   <string name="account_setup_failed_dlg_unknown_auth_message">Erro desconhecido.</string>
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor.</string>
   <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta.</string>
@@ -203,7 +203,7 @@
   <string name="bottom_bar_more_share">Partilhar</string>
   <string name="bottom_bar_no_quickreply_toast">Sem resposta rápida</string>
   <string name="bytes">%s B</string>
-  <string name="calendar_remind_dialog_title">Lembrar</string>
+  <string name="calendar_remind_dialog_title">Lembrete</string>
   <string name="calendar_remind_gridview_pick_date">Escolher data</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_action">Cancelar</string>
@@ -294,12 +294,12 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
-  <string name="del_account_questionnair_hint">Pode nos dizer porque está a eliminar esta conta?</string>
+  <string name="del_account_questionnair_hint">Pode nos dizer porque está a remover esta conta?</string>
   <string name="delete">Eliminar</string>
   <string name="deleted">Eliminada</string>
   <string name="device_activity_btn_str">Activar</string>
   <string name="device_activity_lint_str">Activar actualização completa de serviço de correio e activar definições de segurança</string>
-  <string name="device_admin_description">Activar as Políticas de Segurança especificadas pelo servidor</string>
+  <string name="device_admin_description">Activar as políticas de segurança especificadas pelo servidor</string>
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
   <string name="device_not_activiey_lint2">O serviço de correio não funciona em Exchange</string>
@@ -309,7 +309,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
-  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados.</string>
+  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do Calendário e outros dados.</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -597,7 +597,7 @@
   <string name="outbox_no_mails">Vazio</string>
   <string name="parase_setup_data">A obter dados…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
-  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
+  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
   <string name="password_expire_warning_dialog_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do ecrã de bloqueio.</string>
   <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
@@ -674,14 +674,14 @@
   <string name="push_wps_confirm_title">Experimentar WPS Office</string>
   <string name="push_wps_no_response_app">Sem aplicações para concluir esta acção</string>
   <string name="questionnair_body_invisibility">Mensagens não estão a ser mostradas</string>
-  <string name="questionnair_confirm_delete">Eliminar</string>
-  <string name="questionnair_instability">Aplicação instável, crasha frequentemente</string>
+  <string name="questionnair_confirm_delete">Remover</string>
+  <string name="questionnair_instability">Pára frequentemente</string>
   <string name="questionnair_not_send">Não é possível enviar emails</string>
   <string name="questionnair_not_sync">Sincronização instável</string>
-  <string name="questionnair_other_reasons">Outras razões</string>
-  <string name="questionnair_title">A eliminar conta</string>
-  <string name="questionnair_ui_not_pretty">Não gosto do aspecto</string>
-  <string name="questionnair_waste_resource">Eliminar pode libertar algum espaço</string>
+  <string name="questionnair_other_reasons">Outros</string>
+  <string name="questionnair_title">Remover conta?</string>
+  <string name="questionnair_ui_not_pretty">Não gosto do aspecto da aplicação</string>
+  <string name="questionnair_waste_resource">Sem espaço suficiente</string>
   <string name="quick_1">Obrigado!</string>
   <string name="quick_2">Parece uma boa ideia!</string>
   <string name="quick_3">Irei ler isso mais tarde e dar-lhe-ei uma resposta.</string>
@@ -827,7 +827,7 @@
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_y_char">y</string>
-  <string name="try_exchange_login">Tente iniciar sessão com exchange</string>
+  <string name="try_exchange_login">Iniciar sessão com EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">As alterações que faz a todas as aplicações e contas, não só ao Gmail, serão sincronizadas entre a web, os seus dispositivos e o seu %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>

@@ -8,6 +8,7 @@
 	"cloud_space_full": "Sem espaço de armazenamento disponível",
 	"do_not_remind_again": "Não mostrar novamente",
 	"not_now": "Agora não",
+	"disallow_add_to_fm": "FM é apenas de leitura",
 	"upgrade_membership": "Obter mais espaço",
 	"cloud_space_full_message": "Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço, actualize a sua Conta Mi.",
 	"alert_msg_vip_song_for_download": "Obter subscrição Premium para transferir esta música.",

@@ -49,6 +49,7 @@
   <string name="button_next">Avançar</string>
   <string name="button_ok">OK</string>
   <string name="button_return">Voltar</string>
+  <string name="button_send">Enviar</string>
   <string name="call_title">Registos de chamadas</string>
   <string name="camera_summary">Definições da camâra (fotos não incluídas)</string>
   <string name="cancel">Cancelar</string>
@@ -127,15 +128,19 @@
   <string name="local_no_backup">Não existem cópias de segurança locais</string>
   <string name="local_restore_window_title">Restauro local</string>
   <string name="local_select_account_contact">Contas e contactos</string>
+  <string name="local_select_audio">Áudios</string>
+  <string name="local_select_doc">Documentos</string>
   <string name="local_select_files">Cartão SD</string>
+  <string name="local_select_image">Imagens</string>
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
+  <string name="local_select_video">Vídeos</string>
   <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
   <string name="miliao_account_login">Início de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
   <string name="never">Nunca</string>
-  <string name="new_backup">Fazer cópia de segurança</string>
+  <string name="new_backup">Fazer Cópia de Segurança</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="note_title">Notas</string>
@@ -191,6 +196,10 @@
   <string name="service_stoped">O serviço foi interrompido</string>
   <string name="select_storage_location">Escolher a localização da Cópia</string>
   <string name="settings_summary">Definições do telefone e mensagens</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Mensagens</string>
   <string name="software_backup_info">Dados das aplicações</string>
   <string name="st_antispam_mode_blacklist_state">11112121</string>
@@ -252,29 +261,35 @@
   <string name="trans_main_tutor">Transferir contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">Meu dispositivo</string>
   <string name="trans_one_key_migrate">Transferir</string>
+  <string name="trans_operate_func_one">Método A</string>
+  <string name="trans_operate_func_two">Método B</string>
   <string name="trans_operate_new_phone_tips">"Digitalize o código QR utilizando o novo dispositivo
 Vá a Definições &gt; Definições Adicionais &gt; Transferir
 Toque [Sou um destinatário] para criar um código QR"</string>
-  <string name="trans_operate_old_phone_tips1">"Método A
-1. Instalar a aplicação Transferir no seu dispositivo antigo
+  <string name="trans_operate_old_phone_tips1">"1. Instalar a aplicação Transferir no seu dispositivo antigo
 2. Abrir a aplicação e seleccionar [Sou um remetente]
 3. Digitalizar o código QR com o seu dispositivo antigo"</string>
-  <string name="trans_operate_old_phone_tips2">"Método B
-Vá a Definições &gt; Definições Adicionais &gt; Transferir
-Toque [Sou um remetente]"</string>
-  <string name="trans_progress_subdescript_br_receiver">A receber %s</string>
-  <string name="trans_progress_subdescript_br_sender">A copiar %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">A receber %s</string>
-  <string name="trans_progress_subdescript_transing_sender">A enviar %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros…</string>
-  <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros…</string>
+  <string name="trans_operate_old_phone_tips2">"Vá a Definições &gt; Definições Adicionais &gt; Transferir, Toque [Sou um remetente]"</string>
+  <string name="trans_progress_subdescript_br_receiver">A restaurar %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_br_sender">A copiar %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_transing_receiver">A receber %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_transing_sender">A enviar %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros, %s completos</string>
+  <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros, %s completos</string>
   <string name="trans_progress_subdescript_waiting">A aguardar para receber %s</string>
   <string name="trans_receiver">Sou um destinatário</string>
+  <string name="trans_receiver_time_remained">"%s restantes. Mantenha o dispositivo carregado.
+Não desligue o Ponto de Acesso. Mantenha ambos os dispositivo perto um do outro."</string>
   <string name="trans_receiving_completed">Dados recebidos</string>
   <string name="trans_restoring">A restaurar…</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR utilizando dispositivo novo</string>
+  <string name="trans_select_data">Escolher dados</string>
+  <string name="trans_select_data_no_space">"%s disponível no novo dispositivo
+Seleccione ficheiros novamente ou liberte espaço"</string>
+  <string name="trans_select_data_tips">"Seleccione ficheiros para transferir
+Ficheiros iguais no novo dispositivo irão ser substituídos"</string>
   <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados.</string>
   <string name="trans_select_device_send">Seleccionar um dispositivo para transferir dados.</string>
   <string name="trans_sender">Sou um remetente</string>
@@ -282,10 +297,16 @@ Toque [Sou um remetente]"</string>
   <string name="trans_sender_searching">Pesquisar por novos dispositivos</string>
   <string name="trans_sender_searching_ensurance">"Certifique-se que o dispositivo antigo está ligado
 A aguardar que o dispositivo antigo se ligue…"</string>
+  <string name="trans_sender_time_remained">"%s restantes. Mantenha o dispositivo carregado.
+Não desligue o Wi-Fi. Mantenha ambos os dispositivo perto um do outro."</string>
   <string name="trans_sending_completed">Dados enviados</string>
+  <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
   <string name="trans_time_format_second">menos de um minuto</string>
-  <string name="trans_time_remained">, pronto em</string>
+  <string name="trans_time_spent">"
+Tempo gasto %s"</string>
+  <string name="trans_wait_trans_data">"Ligado ao dispositivo antigo.
+A aguardar pela transferência…"</string>
   <string name="trans_waiting_ensurance">"Certifique-se que o dispositivo antigo está ligado
 e Transferências estão activas"</string>
   <string name="trans_waiting_for_sender">A aguardar que o dispositivo antigo se ligue…</string>

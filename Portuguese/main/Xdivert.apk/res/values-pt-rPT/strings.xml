@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">OK</string>
+  <string name="error_updating_title">Erro nas definições de chamada</string>
+  <string name="exception_error">Erro na rede ou cartão SIM</string>
+  <string name="fdn_check_failure">A definição Números Autorizados da aplicação do seu telefone está activada. Por conseguinte, algumas funcionalidades relacionadas com chamadas não estão a funcionar.</string>
+  <string name="phone_numbers">Introduzir números de telefone</string>
+  <string name="proceed">Avançar</string>
+  <string name="radio_off_error">Active o rádio antes de visualizar estas definições.</string>
+  <string name="reading_settings">A ler as definições…</string>
+  <string name="response_error">Resposta inesperada da rede.</string>
+  <string name="reverting_settings">A reverter as definições…</string>
+  <string name="set_subscription_error_atleast_one">Seleccione pelo menos uma assinatura</string>
+  <string name="sub1LineNumber">Número Sub1:</string>
+  <string name="sub2LineNumber">Número Sub2:</string>
+  <string name="sub_1">SUB 1</string>
+  <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
+  <string name="sum_xdivert_disabled">X-Divert desactivado</string>
+  <string name="sum_xdivert_enabled">X-Divert activado</string>
+  <string name="updating_settings">A actualizar as definições…</string>
+  <string name="updating_title">Definições de chamadas</string>
+  <string name="xdivert_active">Activo</string>
+  <string name="xdivert_button">Definição X-Divert</string>
+  <string name="xdivert_enternumber_error">Introduzir o número de telefone para ambas as assinaturas</string>
+  <string name="xdivert_imsi_not_read">Inicialização de SIM em andamento. Por favor, tente novamente mais tarde.</string>
+  <string name="xdivert_not_active">Inactivo</string>
+  <string name="xdivert_not_supported">X-Divert não suportado para CDMA</string>
+  <string name="xdivert_partial_set">X-Divert só foi definido apenas para a 1ª assinatura</string>
+  <string name="xdivert_setting">Definição X-Divert</string>
+  <string name="xdivert_status">Estado X-Divert</string>
+  <string name="xdivert_sub_absent">Ambas as assinaturas deverá estar activada para processar X-Divert</string>
+  <string name="xdivert_summary">Reencaminhamento de chamada quando inacessível</string>
+  <string name="xdivert_title">X-Divert</string>
+</resources>
