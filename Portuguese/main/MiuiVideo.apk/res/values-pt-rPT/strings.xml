@@ -30,7 +30,7 @@
   <string name="alert_dialog_download_dup_task">Aguarde que a transferência existente termine…</string>
   <string name="alert_dialog_download_error">"Não foi possível transferir"</string>
   <string name="alertdialog_downapp_btn_back">Voltar</string>
-  <string name="all">tudo</string>
+  <string name="all">Tudo</string>
   <string name="all_ep">Todos os Ep</string>
   <string name="all_episode">Todos os Episódios</string>
   <string name="app_charging_wifi_mode">A carregar bateria para actualizar aplicação</string>
@@ -101,8 +101,8 @@
   <string name="declaration">Termos de Utilização</string>
   <string name="declaration_allow">Concordar</string>
   <string name="declaration_content">1. Ao utilizar este serviço, concorda com Sohu Video, iQiyi, e outros fornecedores de conteúdo<a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">Termos de Utilização</a>".
-2. Ajude a melhorar este produto, através do envio automático de diagnósticos e de dados de utilização para a Mi.
-3. O vosso plugin HD Video será instalado automaticamente.
+2. Ajude a melhorar este produto através do envio automático de diagnósticos e de dados de utilização para a Mi.
+3. O vosso plugin HD Vídeo será instalado automaticamente.
 4. Este serviço necessita de uma ligação à internet para funcionar normalmente."</string>
   <string name="declaration_content_td_custom">Esta aplicação tem que estabelecer ligação à internet para funcionar normalmente.</string>
   <string name="defaults">Predefinido</string>
@@ -220,16 +220,16 @@
   <string name="need_upgrade_title">Actualização disponível</string>
   <string name="negative_comment">Não gosta</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">Para enviar comentários, inicie sessão na sua Conta Mi</string>
+  <string name="no_login_xiaomi_account">Para enviar comentários inicie sessão na sua Conta Mi</string>
   <string name="no_longer_tips">Não mostrar novamente</string>
   <string name="no_pay_record">Sem registos pagos</string>
-  <string name="no_sdcard_no_download">Não existe espaço suficiente de armazenamento.</string>
+  <string name="no_sdcard_no_download">Não existe espaço de armazenamento suficinte.</string>
   <string name="not_buy_vip">Sem vip</string>
-  <string name="not_exist_openid">A obter informação de conta, por favor aguarde...</string>
+  <string name="not_exist_openid">A obter informação de conta. Por favor aguarde…</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="notification_default_title">Vídeo offline</string>
   <string name="notification_sub_title">Total %d tarefa(s) de transferências concluídas</string>
-  <string name="notification_ticker_text">Transferência de vídeo offline em conclusão</string>
+  <string name="notification_ticker_text">Transferência de vídeo offline a terminar</string>
   <string name="notification_title">\"%s\" transferência em conclusão</string>
   <string name="nowifi_alert_dialog_continue">OK</string>
   <string name="nowifi_alert_dialog_exit">Cancelar</string>
@@ -238,16 +238,16 @@
   <string name="offline">Desligado</string>
   <string name="offline_add_queue_fail">Não foi possível transferir \"%1$s\"</string>
   <string name="offline_alert_title">Utilização de dados</string>
-  <string name="offline_alert_wifi">Transferências vão começar quando o dispositivo se ligar a uma rede Wi-Fi.</string>
+  <string name="offline_alert_wifi">As transferências vão começar quando o dispositivo se ligar a uma rede Wi-Fi.</string>
   <string name="offline_already_in">\"%1$s\" já está a aguardar para transferir</string>
   <string name="offline_created_order">Adicionado \"%1$s\" já está a aguardar para transferir</string>
   <string name="offline_loaded">Vídeo Offline</string>
   <string name="offline_loading">Desligado</string>
-  <string name="offline_max_promote">À aguardar por cache, existem no máximo duas tarefas de cache que podem ser executados ao mesmo tempo.</string>
+  <string name="offline_max_promote">À aguardar por cache. Existem pelo menos duas tarefas a serem executadas ao mesmo tempo.</string>
   <string name="offline_media_empty_title">Vazio</string>
   <string name="offline_no_avail_item_hint">Sem episódios disponíveis para transferir</string>
   <string name="offline_no_selected_item_hint">Escolher um vídeo</string>
-  <string name="offline_no_source">Não é possível ver no modo desligado</string>
+  <string name="offline_no_source">Não é possível ver no modo offline</string>
   <string name="offline_setting">Desligado</string>
   <string name="offline_status_failed">Com erro</string>
   <string name="offline_status_finished">Concluído</string>
@@ -298,7 +298,7 @@
   <string name="reload_title">Não é possível ligar à rede</string>
   <string name="reload_title_ep">Não foi possível obter séries completas</string>
   <string name="retry">Tentar novamente</string>
-  <string name="router">Remoto desligado</string>
+  <string name="router">Router desligado</string>
   <string name="router_download_task_with">%d tarefas</string>
   <string name="router_update">Actualizar Router Mi agora.</string>
   <string name="score">Classificação  </string>
@@ -310,7 +310,7 @@
   <string name="search_result_empty_text">Nada foi encontrado</string>
   <string name="search_snack_more">Mais Informações</string>
   <string name="search_snack_sniff">Transferência detalhada</string>
-  <string name="second"> Segundo</string>
+  <string name="second">Segundo</string>
   <string name="see_all_count_comment">%d mais comentários</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_count_xiang">%d seleccionados</string>
@@ -318,7 +318,7 @@
   <string name="select_tv">Canais</string>
   <string name="select_tv_empty_hint">Sem canais</string>
   <string name="select_tvs">Canais</string>
-  <string name="send">Submeter</string>
+  <string name="send">Enviar</string>
   <string name="server_summary">Escolher servidor</string>
   <string name="server_switch">Servidor</string>
   <string name="setting">Definições</string>
@@ -334,7 +334,7 @@
   <string name="star3">3 estrelas</string>
   <string name="star4">4 estrelas</string>
   <string name="star5">5 estrelas</string>
-  <string name="start_addon">iniciar add-on</string>
+  <string name="start_addon">Começo de publicidade</string>
   <string name="storage_remain">"Disponível: "</string>
   <string name="storage_total">"Espaço total: "</string>
   <string name="suffix_countdown">s</string>
@@ -420,7 +420,7 @@
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Ecrã inteiro</string>
   <string name="vp_function">Definições</string>
-  <string name="vp_get_url_error">Não é possível localizar URL para este vídeo.</string>
+  <string name="vp_get_url_error">Não é possível localizar o URL deste vídeo.</string>
   <string name="vp_hide_media_info">Ocultar informação de vídeo</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Atenção</string>
