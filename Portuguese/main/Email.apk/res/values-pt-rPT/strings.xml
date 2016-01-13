@@ -76,9 +76,9 @@
   <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor.</string>
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível.</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
-  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador, a palavra-passe e tente novamente.</string>
-  <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe errados.</string>
-  <string name="account_setup_failed_dlg_bar_title">Maneiras de iniciar sessão em %s</string>
+  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador ou a palavra-passe e tente novamente.</string>
+  <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe incorrectos.</string>
+  <string name="account_setup_failed_dlg_bar_title">Dicas para iniciar sessão em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
 (%s)"</string>
@@ -294,7 +294,7 @@
   <string name="default_pop3">POP3</string>
   <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
-  <string name="del_account_questionnair_hint">Pode nos dizer porque está a remover esta conta?</string>
+  <string name="del_account_questionnair_hint">Pode-nos dizer porque está a remover esta conta?</string>
   <string name="delete">Eliminar</string>
   <string name="deleted">Eliminada</string>
   <string name="device_activity_btn_str">Activar</string>
@@ -309,7 +309,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
-  <string name="disable_admin_warning">AVISO: ao desactivar a autoridade da aplicação de email para administrar o seu dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do Calendário e outros dados.</string>
+  <string name="disable_admin_warning">AVISO: ao desactivar a aplicação email como administrador do dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados.</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -441,7 +441,7 @@
   <string name="hierarchical_folder_top">%1$s∕</string>
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
-  <string name="imap_password_error">A palavra passe para o servidor de entrada de correio está errada</string>  
+  <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
   <string name="inline_picture_deleted">A transferir imagem perdida…</string>
   <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
   <string name="invalid_recipient">O endereço %s é inválido.</string>
@@ -458,10 +458,10 @@
   <string name="login">Iniciar sessão</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s.</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
-  <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa, e então toque para seleccionar mais conversas.</string>
-  <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
+  <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa ou toque para seleccionar mais conversas.</string>
+  <string name="long_string">Muito longo</string>
   <string name="mail">Email</string>
-  <string name="mail_body_turncated">Este email é muito grande para descarregar. Apenas é possível mostrar uma parte dele. Tente descarregar mais tarde no seu computador</string>
+  <string name="mail_body_turncated">O anexo deste email é muito grande para transferir. Apenas é possível mostrar uma parte dele. Tente transferir mais tarde no seu computador</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
@@ -859,6 +859,6 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wrong_password">A palavra-passe que inseriu está errada</string>
   <string name="yes">Sim</string>
- <string name="you_are_in_mobile_network">Se enviar o registo vai usar a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora vai cobrar taxas adicionais.</string>
+ <string name="you_are_in_mobile_network">Enviar registo usando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>
