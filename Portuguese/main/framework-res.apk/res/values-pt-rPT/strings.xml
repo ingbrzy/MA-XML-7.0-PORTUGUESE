@@ -938,7 +938,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o telemóvel mais lento.</string>
   <string name="permdesc_pkgUsageStats">Permite que a aplicação modifique as estatísticas de utilização de componentes recolhidas. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_processOutgoingCalls">Permite que a aplicação processe chamadas efectuadas e mude o número a marcar. Esta autorização permite que a aplicação monitore, redireccione ou impeça a realização de chamadas.</string>
-  <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do Calendário guardados no telemóvel, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do Calendário, independentemente da confidencialidade ou da sensibilidade.</string>
+  <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do Calendário guardados no telemóvel, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do calendário, independentemente da confidencialidade ou da sensibilidade.</string>
   <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do telemóvel, incluindo dados acerca de chamadas recebidas e efectuadas. Esta autorização permite que as aplicações guardem os dados de registo de chamadas e as aplicações maliciosas podem partilhar dados de registo de chamadas sem o seu conhecimento.</string>
   <string name="permdesc_readCellBroadcasts">Permite que a aplicação leia mensagens de transmissão celular recebidas pelo seu dispositivo. Os alertas de transmissão celular são fornecidos em algumas localizações para avisá-lo sobre situações de emergência. As aplicações maliciosas podem interferir com o desempenho ou funcionamento do seu dispositivo quando for recebida uma transmissão celular de emergência.</string>
   <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca dos contactos guardados no telemóvel, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento.</string>
@@ -1007,7 +1007,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>
   <string name="permdesc_wakeLock">Permite que uma aplicação impeça o tellemóvel de entrar em modo de inactividade.</string>
   <string name="permdesc_writeApnSettings">Permite à aplicação alterar as definições de rede e interceptar e inspeccionar todo o tráfego de rede, por exemplo, para mudar o proxy e a porta de qualquer APN. As aplicações maliciosas podem monitorar, redireccionar ou modificar pacotes de rede sem o seu conhecimento.</string>
-  <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no telemóvel, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos Calendários ou modifique eventos sem o conhecimento do proprietário.</string>
+  <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no telemóvel, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
   <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telemóvel, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar esta funcionalidade para eliminar ou modificar o seu registo de chamadas.</string>
   <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telemóvel, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que as aplicações eliminem dados de contactos.</string>
   <string name="permdesc_writeDictionary">Permite à aplicação escrever novas palavras no dicionário do utilizador.</string>
@@ -1027,7 +1027,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_audioSettings">Alterar as definições de áudio.</string>
   <string name="permgroupdesc_bluetoothNetwork">Dispositivos de acesso e de redes através de Bluetooth.</string>
   <string name="permgroupdesc_bookmarks">O acesso directo aos favoritos e histórico do navegador.</string>
-  <string name="permgroupdesc_calendar">Acesso directo ao Calendário e eventos.</string>
+  <string name="permgroupdesc_calendar">Acesso directo ao calendário e eventos.</string>
   <string name="permgroupdesc_camera">Acesso directo à câmara para a imagem ou gravação de vídeo.</string>
   <string name="permgroupdesc_costMoney">Efectuar acções que implicam pagamento.</string>
   <string name="permgroupdesc_developmentTools">Funcionalidades apenas necessárias para desenvolvedores de aplicações.</string>
@@ -1039,7 +1039,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_messages">Ler e escrever SMS, email e outras mensagens.</string>
   <string name="permgroupdesc_microphone">Acesso directo ao microfone para gravar áudio.</string>
   <string name="permgroupdesc_network">Aceder a diversos recursos da rede.</string>
-  <string name="permgroupdesc_personalInfo">Acesso directo aos seus contactos e Calendário armazenados no telefone.</string>
+  <string name="permgroupdesc_personalInfo">Acesso directo aos seus contactos e calendário armazenados no telefone.</string>
   <string name="permgroupdesc_phoneCalls">Monitorize, grave e processe chamadas telefónicas.</string>
   <string name="permgroupdesc_screenlock">Capacidade de afectar o comportamento do ecrã de bloqueio do dispositivo.</string>
   <string name="permgroupdesc_socialInfo">Acesso directo à informação sobre os seus contactos e ligações sociais.</string>
@@ -1221,7 +1221,7 @@ para a conta %s."</string>
   <string name="permlab_persistentActivity">Fazer com que a aplicação seja sempre executada</string>
   <string name="permlab_pkgUsageStats">Actualizar estatísticas de utilização de componentes</string>
   <string name="permlab_processOutgoingCalls">Redireccionar as chamadas efectuadas</string>
-  <string name="permlab_readCalendar">Ler eventos do Calendário</string>
+  <string name="permlab_readCalendar">Ler eventos do calendário</string>
   <string name="permlab_readCallLog">Ler registo de chamadas</string>
   <string name="permlab_readCellBroadcasts">Ler mensagens de transmissão celular</string>
   <string name="permlab_readContacts">Ler os contactos</string>
@@ -1292,7 +1292,7 @@ para a conta %s."</string>
   <string name="permlab_vibrate">Controlar vibração</string>
   <string name="permlab_wakeLock">Impedir modo de inactividade do telefone</string>
   <string name="permlab_writeApnSettings">Alterar/interceptar definições e tráfego de rede</string>
-  <string name="permlab_writeCalendar">Adicionar ou modificar eventos do Calendário e enviar email a convidados sem o conhecimento dos proprietários</string>
+  <string name="permlab_writeCalendar">Adicionar ou modificar eventos do calendário e enviar email a convidados sem o conhecimento dos proprietários</string>
   <string name="permlab_writeCallLog">Escrever registo de chamadas</string>
   <string name="permlab_writeContacts">Modificar os contactos</string>
   <string name="permlab_writeDictionary">Escrever no dicionário definido pelo utilizador</string>
