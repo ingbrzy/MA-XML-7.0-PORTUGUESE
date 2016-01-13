@@ -597,7 +597,7 @@
   <string name="outbox_no_mails">Vazio</string>
   <string name="parase_setup_data">A obter dados…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
-  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio, ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
+  <string name="password_expire_warning_dialog_content_fmt">É necessário alterar o PIN ou a palavra-passe do seu ecrã de bloqueio ou os dados da %s serão eliminados. Deseja alterar isso agora?</string>
   <string name="password_expire_warning_dialog_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" solicita que altere a sua palavra-passe ou PIN do ecrã de bloqueio.</string>
   <string name="password_expired_content_title">A palavra-passe do ecrã de bloqueio está expirada</string>
