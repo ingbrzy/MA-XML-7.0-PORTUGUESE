@@ -40,12 +40,12 @@ Se o dispositivo tiver vários utilizadores, ao usar este atalho no ecrã de blo
   <string name="accessibility_screen_magnification_summary">"Quando este recurso está activo pode aumentar ou diminuir o zoom por triplo toque no ecrã.
 
 Quando ampliado, pode:
-"&lt;ul&gt;&lt;li&gt;"Mover: Arraste dois ou mais dedos pelo ecr&amp;#227;.
-"&lt;li&gt;Ajuste o n&amp;#237;vel do zoom: Junte dois ou mais dedos juntos ou afastados.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
+"&lt;ul&gt;&lt;li&gt;"Mover: Arraste dois ou mais dedos pelo ecrã.
+"&lt;li&gt;Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
-Tamb&amp;#233;m pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo pode mover o dedo ampliando para explorar diferentes partes do ecr&amp;#227;. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
-Nota: Toque tr&amp;#234;s vezes para ampliar. Este recurso funciona excepto na barra de&amp;#160;navega&amp;#231;&amp;#227;o e no teclado."</string>
+Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
   <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
@@ -1039,7 +1039,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação ela poderá deixar de funcionar normalmente.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
-  <string name="forget_password_button_text">&lt;u&gt;Esqueceu o padr&amp;#227;o?&lt;/u&gt;</string>
+  <string name="forget_password_button_text">&lt;u&gt;Esqueceu o padrão?&lt;/u&gt;</string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente.</string>
   <string name="found_new_version">Actualização disponível</string>
   <string name="free_wifi_agreement_remind_never">Não mostrar novamente</string>
@@ -1183,7 +1183,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="internal_format">Formatar armazenamento interno</string>
   <string name="internal_format_summary">Formatar todos os dados no armazenamento interno</string>
   <string name="internal_media_format_button_text">Formatar armazenamento interno</string>
-  <string name="internal_media_format_desc">Formatar o armazenamento interno? &lt;b&gt;Todos&lt;/b&gt; os seus dados ser&amp;#227;o eliminados permanentemente. O telefone reiniciar&amp;#225; ap&amp;#243;s o armazenamento interno ser formatado.</string>
+  <string name="internal_media_format_desc">Formatar o armazenamento interno? &lt;b&gt;Todos&lt;/b&gt; os seus dados serão eliminados permanentemente. O telefone reiniciará após o armazenamento interno ser formatado.</string>
   <string name="internal_media_format_final_desc">Formatar o armazenamento interno? Não pode reverter esta acção! O telefone reiniciará após o armazenamento interno ser formatado.</string>
   <string name="internal_media_format_title">Formatar o armazenamento interno</string>
   <string name="internal_memory">Armazenamento interno</string>
@@ -1408,17 +1408,17 @@ Está actualmente com sessão iniciada nas seguintes contas:
   <string name="master_clear_all">Eliminar toda a sua informação da memória interna do telefone? Não pode reverter esta acção!</string>
   <string name="master_clear_button_text">Restaurar telefone</string>
   <string name="master_clear_confirm_title">Restaurar?</string>
-  <string name="master_clear_desc">"Isto vai eliminar todos os dados da &lt;b&gt;mem&amp;#243;ria interna&lt;/b&gt;" do seu telefone, incluindo:
+  <string name="master_clear_desc">"Isto vai eliminar todos os dados da &lt;b&gt;memória interna&lt;/b&gt;" do seu telefone, incluindo:
 
 "&lt;li&gt;A sua conta do Google&lt;/li&gt;"
-"&lt;li&gt;Sistema, dados de aplica&amp;#231;&amp;#245;es e defini&amp;#231;&amp;#245;es&lt;/li&gt;"
-"&lt;li&gt;Aplica&amp;#231;&amp;#245;es transferidas&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;M&amp;#250;sica&lt;/li&gt;"
+"&lt;li&gt;Sistema, dados de aplicações e definições&lt;/li&gt;"
+"&lt;li&gt;Aplicações transferidas&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
 "&lt;li&gt;Fotos&lt;/li&gt;"
 "&lt;li&gt;Outros dados do utilizador&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cart&amp;#227;o SD&lt;/b&gt; tem de ser eliminado.</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartão SD&lt;/b&gt; tem de ser eliminado.</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível.</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -1956,13 +1956,13 @@ Seleccione o seu sistema operativo:"</string>
   <string name="reset_app_preferences_button">Redefinir aplicações</string>
   <string name="reset_app_preferences_desc">"Isto irá redefinir todas as preferências para:
 
- "&lt;li&gt;Aplica&amp;#231;&amp;#245;es desactivadas&lt;/li&gt;"
- "&lt;li&gt;Notifica&amp;#231;&amp;#245;es de aplica&amp;#231;&amp;#227;o desactivadas&lt;/li&gt;"
- "&lt;li&gt;Aplica&amp;#231;&amp;#245;es predefinidas para as ac&amp;#231;&amp;#245;es&lt;/li&gt;"
- "&lt;li&gt;Restri&amp;#231;&amp;#245;es de dados em segundo plano para aplica&amp;#231;&amp;#245;es&lt;/li&gt;"
- "&lt;li&gt;Quaisquer restri&amp;#231;&amp;#245;es de permiss&amp;#227;o&lt;/li&gt;"
+ "&lt;li&gt;Aplicações desactivadas&lt;/li&gt;"
+ "&lt;li&gt;Notificações de aplicação desactivadas&lt;/li&gt;"
+ "&lt;li&gt;Aplicações predefinidas para as acções&lt;/li&gt;"
+ "&lt;li&gt;Restrições de dados em segundo plano para aplicações&lt;/li&gt;"
+ "&lt;li&gt;Quaisquer restrições de permissão&lt;/li&gt;"
 
-N&amp;#227;o ir&amp;#225; perder quaisquer dados das aplica&amp;#231;&amp;#245;es."</string>
+Não irá perder quaisquer dados das aplicações."</string>
   <string name="reset_app_preferences_title">Redefinir preferências da aplicação?</string>
   <string name="reset_legacy_password_settings_preface_text">Tem que redefinir a sua palavra-passe no ecrã de bloqueio.</string>
   <string name="resolver_settings_label">Ordenar</string>
@@ -2391,8 +2391,8 @@ Para mais informações contacte o seu administrador."</string>
   <string name="sync_menu_sync_now">Sincronizar agora</string>
   <string name="sync_one_time_sync">"Toque para sincronizar agora
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Bem-vindo &amp;#224; sincroniza&amp;#231;&amp;#227;o Google!&lt;/font&gt;" 
-Um servi&amp;#231;o do Google para sincronizar dados que permitem o acesso aos seus contactos, compromissos e mais onde quer que esteja. "</string>
+  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Bem-vindo à sincronização Google!&lt;/font&gt;" 
+Um serviço do Google para sincronizar dados que permitem o acesso aos seus contactos, compromissos e mais onde quer que esteja. "</string>
   <string name="sync_settings">Sincronização</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Apenas Wi-Fi</string>
@@ -2989,7 +2989,7 @@ Permitir isto para todas as aplicações que queiram verificar a localização?"
   <string name="wifi_setup_back">Voltar</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Ligar</string>
-  <string name="wifi_setup_description_connected">Toque em &lt;b&gt;Seguinte&lt;/b&gt;" para continuar a instala&amp;#231;&amp;#227;o.
+  <string name="wifi_setup_description_connected">Toque em &lt;b&gt;Seguinte&lt;/b&gt;" para continuar a instalação.
 
 Toque em "&lt;b&gt;Voltar&lt;/b&gt; para ligar a uma rede Wi-Fi diferente.</string>
   <string name="wifi_setup_description_connecting">A ligação poderá demorar alguns minutos…</string>
