@@ -977,6 +977,17 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="drive_mode_title">Modo de Condução</string>
   <string name="drive_mode_voice_report">Saída de texto para voz</string>
   <string name="dtmf_tone_enable_title">Tom de marcação</string>
+  <string name="edge_mode_back">Voltar</string>
+  <string name="edge_mode_back_summary">Duplo toque no rebordo do seu telefone para voltar</string>
+  <string name="edge_mode_clean">Limpar cache de sistema</string>
+  <string name="edge_mode_clean_summary">Deslize em ambos os rebordos simultâneamente para limpar a cache de sistema</string>
+  <string name="edge_mode_guide_title">Toque na área destacada para utilizar os controlos de rebordo</string>
+  <string name="edge_mode_notification_summary">Toque para saber mais</string>
+  <string name="edge_mode_notification_title">Utilizar controlos de rebordo</string>
+  <string name="edge_mode_photo">Tirar uma foto</string>
+  <string name="edge_mode_photo_summary">Enquanto estiver na aplicação Câmara, toque no rebordo do seu telefone para activar o disparo e toque novamente para tirar uma foto</string>
+  <string name="edge_mode_screenshot">Captura de ecrã</string>
+  <string name="edge_mode_screenshot_summary">Duplo toque em ambos os rebordos para tirar uma captura de ecrã</string>
   <string name="emergency_tone_summary">Definir comportamento ao fazer uma chamada de emergência</string>
   <string name="emergency_tone_title">Toque de emergência</string>
   <string name="empty_list_msg">Não tem aplicações de terceiros instaladas.</string>
@@ -1807,7 +1818,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
   <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
-  <string name="pref_edge_handgrip">Controlos da borda</string>
+  <string name="pref_edge_handgrip">Controlos de rebordo</string>
   <string name="pref_operational_key">Botões de Navegação</string>
   <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
   <string name="pref_volume_wake_title">Botões de volume</string>
@@ -2374,7 +2385,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="status_bar_settings_long_click_sort">Prima e segure para mudar</string>
-  <string name="status_bar_settings_manage_notification">Notificações da aplicação</string>
+  <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
   <string name="status_bar_settings_no_carrier">Nenhum</string>
   <string name="status_bar_settings_notification_bar">Área de Notificações</string>
   <string name="status_bar_settings_notification_led">Luz da notificação</string>
