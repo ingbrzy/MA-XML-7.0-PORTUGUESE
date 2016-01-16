@@ -294,7 +294,7 @@
   <string name="mx_and_voip_enable_popup_msg">"Envie mensagens e faça chamadas para outros utilizadores MIUI gratuitamente. VoIP é suportado pelo Weihui. Ver Política de Privacidade de Weihui."</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
-  <string name="mx_auto_resend_mms_summary">Enviar como MMS quando ligado à rede de dados e quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
+  <string name="mx_auto_resend_mms_summary">Enviar como MMS quando a ligação de dados está activa e não existir ligação à rede Wi-Fi. Será cobrado um valor adicional por uso de dados.</string>
   <string name="mx_auto_resend_sms">Enviar como texto</string>
   <string name="mx_auto_resend_sms_summary">Enviar como SMS quando ligado à rede de dados e quando não estiver ligado à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
   <string name="mx_b2c_message_desc">Notificações de rede</string>
@@ -377,7 +377,7 @@
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Receber automaticamente MMS</string>
   <string name="pref_summary_mms_read_reports">Pedir relatório de leitura ao enviar mensagens</string>
-  <string name="pref_summary_mms_retrieval_during_roaming">Receber automaticamente as mensagens quando o roaming está activo</string>
+  <string name="pref_summary_mms_retrieval_during_roaming">Receber automaticamente mensagens quando o roaming está activo</string>
   <string name="pref_summary_mx_feedback">Enviar erros e comentários</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo convidado</string>
