@@ -77,7 +77,7 @@
   <string name="cloud_enable">Sincronizar música com a Nuvem Mi</string>
   <string name="cloud_settings">Definições de sincronização</string>
   <string name="cloud_space_full">Sem espaço de armazenamento disponível</string>
-  <string name="cloud_space_full_message">Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço, actualize a sua Conta Mi.</string>
+  <string name="cloud_space_full_message">Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço actualize a sua Conta Mi.</string>
   <string name="confirm_download">Transferir</string>
   <string name="confirm_to_renew">Renovar</string>
   <string name="cp_info_first">O serviço de streaming é oferecido por Ultimate Inc.</string>
@@ -323,7 +323,7 @@
   <string name="no_artist_info">Sem informação do artista</string>
   <string name="no_enough_info">Não existe informação suficiente da música</string>
   <string name="no_favorites_songs">Vazio</string>
-  <string name="no_file_picker_find">O Explorador de ficheiros não está instalado no dispositivo</string>
+  <string name="no_file_picker_find">O explorador de ficheiros não está instalado no dispositivo</string>
   <string name="no_introduction">Não há resumo.</string>
   <string name="no_local_songs">Vazio</string>
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
@@ -337,7 +337,7 @@
   <string name="not_now">Agora não</string>
   <string name="not_selected">Seleccionar canção</string>
   <string name="nowplaying_menu_item_delete">Eliminar</string>
-  <string name="notification_title_no_song">Veja o que toda a gente anda a ouvir!</string>
+  <string name="notification_title_no_song">Verifique o que toda a gente anda a ouvir!</string>
   <string name="ok">OK</string>
   <string name="one_month">1 mês</string>
   <string name="online_list_delete_message">Todas as músicas transferidas nesta lista de reprodução vão ser eliminadas do dispositivo.</string>
@@ -504,7 +504,7 @@
   <string name="valid_period">Válido: %s</string>
   <string name="version_info">Versão</string>
   <string name="vip_auto_renew_message">A sua subscrição de Música irá ser renovada automaticamente. Certifique-se que tem Créditos Mi suficientes na sua conta para concluir o pagamento.</string>
-  <string name="vip_auto_renew_notification_message">Adicionar Créditos Mi para renovar a sua subscrição de Música.</string>
+  <string name="vip_auto_renew_notification_message">Adicionar Créditos Mi para renovar a sua subscrição de música.</string>
   <string name="vip_auto_renew_notification_title">Pagamento de subscrição</string>
   <string name="vip_auto_renew_title">Renovação de subscrição</string>
   <string name="vip_renew_message">"Não vai poder fazer stream de áudio de alta qualidade, mas ainda consegue fazer stream de músicas na qualidade normal."</string>
