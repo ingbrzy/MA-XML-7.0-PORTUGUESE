@@ -2,6 +2,7 @@
     "durationformatshort": "%2$d:%5$02d",
     "durationformatlong": "%1$d:%3$02d:%5$02d",
     "action_item_hifi": "Auscultadores e efeitos de áudio",
+	"notification_des_no_song": "Música Mi. Novidades todos os dias",
 	"current_version": "Versão actual",
 	"version_info": "Versão",
 	"alaka_required": "Esta música não está disponível.",
