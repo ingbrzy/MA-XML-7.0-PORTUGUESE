@@ -7,6 +7,7 @@
 	"alaka_required": "Esta música não está disponível.",
 	"cloud_space_full": "Sem espaço de armazenamento disponível",
 	"do_not_remind_again": "Não mostrar novamente",
+	"notification_title_no_song": "Veja o que toda a gente anda a ouvir!",
 	"not_now": "Agora não",
 	"disallow_add_to_fm": "FM é apenas de leitura",
 	"upgrade_membership": "Obter mais espaço",

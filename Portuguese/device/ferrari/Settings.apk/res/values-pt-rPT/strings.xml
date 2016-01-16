@@ -314,6 +314,7 @@ Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
   <string name="battery_info_voltage_label">Voltagem da bateria:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Nível da bateria</string>
+  <string name="battery_light_title">Luz da bateria</string>
   <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Utilização da bateria desde a reinicialização</string>
@@ -977,6 +978,17 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="drive_mode_title">Modo de Condução</string>
   <string name="drive_mode_voice_report">Saída de texto para voz</string>
   <string name="dtmf_tone_enable_title">Tom de marcação</string>
+  <string name="edge_mode_back">Voltar</string>
+  <string name="edge_mode_back_summary">Duplo toque no rebordo do seu telefone para voltar</string>
+  <string name="edge_mode_clean">Limpar cache de sistema</string>
+  <string name="edge_mode_clean_summary">Deslize em ambos os rebordos simultâneamente para limpar a cache de sistema</string>
+  <string name="edge_mode_guide_title">Toque na área destacada para utilizar os controlos de rebordo</string>
+  <string name="edge_mode_notification_summary">Toque para saber mais</string>
+  <string name="edge_mode_notification_title">Utilizar controlos de rebordo</string>
+  <string name="edge_mode_photo">Tirar uma foto</string>
+  <string name="edge_mode_photo_summary">Enquanto estiver na aplicação Câmara, toque no rebordo do seu telefone para activar o disparo e toque novamente para tirar uma foto</string>
+  <string name="edge_mode_screenshot">Captura de ecrã</string>
+  <string name="edge_mode_screenshot_summary">Duplo toque em ambos os rebordos para tirar uma captura de ecrã</string>
   <string name="emergency_tone_summary">Definir comportamento ao fazer uma chamada de emergência</string>
   <string name="emergency_tone_title">Toque de emergência</string>
   <string name="empty_list_msg">Não tem aplicações de terceiros instaladas.</string>
