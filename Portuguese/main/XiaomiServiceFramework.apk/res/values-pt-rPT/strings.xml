@@ -39,7 +39,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_popup_desc_failed_receive_sms">Certifique-se que o número introduzido está correcto e que o seu cartão SIM foi activado.</string>
   <string name="activate_popup_desc_failed_send_sms">Não é possível enviar mensagem de activação. Certifique-se que o seu cartão SIM foi activado.</string>
   <string name="activate_popup_desc_failed_server">Verifique a sua ligação de rede e tente novamente.</string>
-  <string name="activate_popup_desc_find_device_postfix">Uma SMS de activação pode ser enviada depois de trocar os cartões SIM.</string>
+  <string name="activate_popup_desc_find_device_postfix">Uma SMS de activação vai ser enviada depois de trocar os cartões SIM.</string>
   <string name="activate_popup_desc_intl_sim_card">Uma mensagem de texto internacional vai ser enviada para activar %s. Vai ser cobrado um valor adicional pela sua operadora.</string>
   <string name="activate_popup_desc_mixed_sim_cards">2 mensagens de texto (nacional e internacional) vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">"Parece que trocou de cartões SIM. 2 mensagens de texto internacionais vão ser enviadas para activar %s. Vão ser cobrados valores adicionais pela sua operadora."</string>
@@ -75,7 +75,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_desc_device_id_error">IMEI inválido</string>
   <string name="activate_status_desc_failed_getting_gateway">Não foi possível obter gateway de SMS</string>
   <string name="activate_status_desc_getting_gateway">A obter gateway de SMS…</string>
-  <string name="activate_status_desc_prepare_sending_sms">A preparar para enviar uma SMS de activação…</string>
+  <string name="activate_status_desc_prepare_sending_sms">A preparar o envio de uma SMS de activação…</string>
   <string name="activate_status_desc_query_activation_info">A obter informação de activação…</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">O servidor não conseguiu enviar uma SMS de activação para o seu telefone</string>
   <string name="activate_status_desc_query_activation_info_no_info">Não foi possível localizar informação de activação no servidor</string>
