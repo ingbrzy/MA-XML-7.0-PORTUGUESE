@@ -213,14 +213,14 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_battery_message">"Ligue o seu dispositivo a um carregador para sincronizar
 %d dados"</string>
   <string name="micloud_main_clear_now">Limpo</string>
-  <string name="micloud_main_data_unsynced">%d a aguardar para sincronizar</string>
+  <string name="micloud_main_data_unsynced">%d aguardam por sincronização</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização foi %s</string>
-  <string name="micloud_main_memory_low_message">Para sincronizar, elimine alguns itens que armazenou na nuvem.</string>
+  <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns dados que armazenou na Nuvem.</string>
   <string name="micloud_main_memory_low_title">Sem espaço de armazenamento suficiente</string>
-  <string name="micloud_main_message_not_synced">%s dados não sincronizados</string>
-  <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
-  <string name="micloud_main_network_error">Não é possível ligar à rede</string>
+  <string name="micloud_main_message_not_synced">%s dado(s) não sincronizado(s)</string>
+  <string name="micloud_main_network_abnormal">Não é possível ligação à rede</string>
+  <string name="micloud_main_network_error">Não é possível ligação à rede</string>
   <string name="micloud_main_set_internet">Rede</string>
   <string name="micloud_main_space_full">Armazenamento na Nuvem está cheio</string>
   <string name="micloud_main_space_full_title">Armazenamento na Nuvem está cheio</string>

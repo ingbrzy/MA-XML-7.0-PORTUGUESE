@@ -37,7 +37,7 @@
   <string name="bluetooth_sap_notif_title">Acesso SIM por Bluetooth</string>
   <string name="bluetooth_search_for_devices">Pesquisar por dispositivos</string>
   <string name="bt_enable_cancel">Cancelar</string>
-  <string name="bt_enable_line1">Para utilizar os serviços Bluetooth deve liga-lo primeiro</string>
+  <string name="bt_enable_line1">Para utilizar os serviços Bluetooth tem de o ligar primeiro</string>
   <string name="bt_enable_line2">Ligar Bluetooth agora?</string>
   <string name="bt_enable_ok">Ligar</string>
   <string name="bt_enable_title"/>
@@ -85,7 +85,7 @@
   <string name="incoming_file_confirm_cancel">Rejeitar</string>
   <string name="incoming_file_confirm_content">Aceitar ficheiro a receber?</string>
   <string name="incoming_file_confirm_ok">Aceitar</string>
-  <string name="incoming_file_confirm_timeout_content">O tempo para aceitar receber um ficheiro \"%1$s\" chegou ao fim</string>
+  <string name="incoming_file_confirm_timeout_content">O tempo para aceitar e receber um ficheiro \"%1$s\" chegou ao fim</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Transferência de ficheiros</string>
   <string name="incoming_file_toast_msg">Ficheiro recebido de outro dispositivo. Confirme se quer receber este ficheiro.</string>
@@ -102,13 +102,13 @@
   <string name="mi_band_vibrate_sms">Vibrar para mensagens SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">Mensagens de contactos</string>
   <string name="mi_band_vibrate_sms_no_contacts">Mensagens de números desconhecidos</string>
-  <string name="mi_key_alert_dialog_message">Toque OK para silenciar alarme.</string>
+  <string name="mi_key_alert_dialog_message">Toque OK para silenciar alarme</string>
   <string name="mi_key_alert_dialog_title">Alarme MiKey</string>
   <string name="mi_key_find_mikey">Localizar MiKey</string>
-  <string name="mi_key_find_phone">Localizar dispositivo</string>
-  <string name="mi_key_open_camera">Abrir Câmara</string>
+  <string name="mi_key_find_phone">Localizar telefone</string>
+  <string name="mi_key_open_camera">Abrir câmara</string>
   <string name="mi_key_summary_find_phone">Prima e segure MiKey para tocar</string>
-  <string name="mi_key_summary_open_camera">Duplo clique na MiKey para abrir Câmara</string>
+  <string name="mi_key_summary_open_camera">Duplo clique na MiKey para abrir câmara</string>
   <string name="mi_key_summary_take_photo">Clique MiKey para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
   <string name="miui_transfer_history_title">Transferências Bluetooth</string>
