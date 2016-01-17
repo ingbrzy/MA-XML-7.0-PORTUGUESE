@@ -16,7 +16,7 @@
         <item>Leiria</item>
         <item>Lisbon</item>
         <item>Braga</item>
-        <item>Porto</item>
+        <item>Oporto</item>
         <item>Faro</item>
         <item>Viana do Castelo</item>
         <item>Funchal</item>
@@ -73,9 +73,9 @@
         <item>E</item>
         <item>SE</item>
         <item>S</item>
-        <item>SW</item>
-        <item>W</item>
-        <item>NW</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
     </string-array>
     <string-array name="wind_power">
         <item>%s</item>
