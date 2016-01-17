@@ -15,7 +15,7 @@
   <string name="button_delete">Eliminar</string>
   <string name="button_next">Próxima</string>
   <string name="cancel_recover_settings">
-    &lt;u&gt;Cancelar&lt;/u&gt;
+    <u>Cancelar</u>
   </string>
   <string name="click_try_to_restore_again">Toque para tentar novamente</string>
   <string name="cloud_app_backup_success">Restauro das aplicações concluído</string>
@@ -64,7 +64,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="confirm_restore_summary">Ecrã inicial vai reiniciar e as aplicações vão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization">
-    &lt;u&gt;Personalizar&lt;/u&gt;
+    <u>Personalizar</u>
   </string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarme</string>

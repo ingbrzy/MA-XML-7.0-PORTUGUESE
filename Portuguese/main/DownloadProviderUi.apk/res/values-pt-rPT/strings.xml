@@ -127,7 +127,7 @@
   <string name="install_failed">Não foi possível instalar %1$s</string>
   <string name="installing">A instalar…</string>
   <string name="invalid_address">O caminho de ficheiro que introduziu é inválido</string>
-  <string name="jump_rank_hint">"Visualize a tabela de transferências de hoje &gt;"</string>
+  <string name="jump_rank_hint">"Visualize a tabela de transferências de hoje >"</string>
   <string name="keep_queued_download">Manter</string>
   <string name="load_finish_hint">Pode continuar a ver amanhã</string>
   <string name="loading">Aguarde um seg…</string>
@@ -143,7 +143,7 @@
   <string name="menu_title_settings">Definições</string>
   <string name="mi_money">Créditos Mi</string>
   <string name="mi_money_">Créditos Mi</string>
-  <string name="missing_title">&lt;Desconhecido&gt;</string>
+  <string name="missing_title"><Desconhecido></string>
   <string name="net_error">Não é possível ligar à rede. Tente novamente</string>
   <string name="network_error">Não é possível ligar à rede</string>
   <string name="new_add">Nova transferência</string>
@@ -245,7 +245,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_result_num_prefix">Localizado</string>
   <string name="sniff_result_num_video_suffix">itens</string>
   <string name="sniff_result_num_website_suffix">websites</string>
-  <string name="sniff_result_website_intro">Total&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; itens | Fonte: %2$s</string>
+  <string name="sniff_result_website_intro">Total<font color=\"#6699ff\">%1$d</font> itens | Fonte: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
   <string name="sniff_shortcut_cloudconfig_btn">Entendi</string>
@@ -263,7 +263,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_terms_msg_bold">Termos de Utilização</string>
   <string name="sniff_terms_reject">Rejeitar</string>
   <string name="sniff_terms_title">Atenção</string>
-  <string name="sniff_text_sniff_next_page">Continuar &gt;</string>
+  <string name="sniff_text_sniff_next_page">Continuar ></string>
   <string name="start_analysis">Verificar</string>
   <string name="start_download">Transferir</string>
   <string name="start_xunlei_speedup_info">Iniciar sessão para acelarar as suas transferências.</string>

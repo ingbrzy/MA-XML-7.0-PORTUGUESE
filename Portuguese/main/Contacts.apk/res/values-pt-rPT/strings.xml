@@ -354,7 +354,7 @@
   <string name="dialog_phone_call_prohibited_message">Chamada não enviada</string>
   <string name="dialog_sync_add">Adicionar grupo de sincronização</string>
   <string name="dialog_voicemail_airplane_mode_message">Para ligar o Voice Mail, desligue o modo de avião</string>
-  <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu &gt; Definições.</string>
+  <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu > Definições.</string>
   <string name="directory_search_label">Directoria</string>
   <string name="display_all_contacts">Todos os contactos</string>
   <string name="display_more_groups">Mais grupos…</string>
@@ -717,65 +717,65 @@ Motivo: \"%s\""</string>
   <string name="noContacts">Sem contactos</string>
   <string name="noContactsHelpText">"Não tem contactos para mostrar.
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", depois seleccione:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto, para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto, para criar um novo contacto a partir do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar.</string>
   <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", depois seleccione:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Mostrar as opções para alterar os contactos visíveis
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto. para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto. para criar um novo contacto a partir do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)"</string>
   <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para mostrar.
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", em seguida, toque:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar contactos.)
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", em seguida, toque:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Mostrar as opções para alterar os contactos visíveis
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsWithPhoneNumbers">Sem contactos com números de telefone</string>
   <string name="noFavoritesHelpText">"Não tem favoritos.
 
 Para adicionar um contacto à sua lista de favoritos:
 
-"&lt;li&gt;Toque em &lt;b&gt;Contactos&lt;/b&gt;" aba
-"&lt;/li&gt;" 
-"&lt;li&gt;"Toque no contacto que deseja adicionar aos seus favoritos
-"&lt;/li&gt;" 
-"&lt;li&gt;"Toque na estrela ao lado do nome do contacto
-"&lt;/li&gt;"
+"<li>Toque em <b>Contactos</b>" aba
+"</li>" 
+"<li>"Toque no contacto que deseja adicionar aos seus favoritos
+"</li>" 
+"<li>"Toque na estrela ao lado do nome do contacto
+"</li>"
 "</string>
   <string name="noGroups">Sem grupos</string>
   <string name="noMatchingContacts">Não foram encontradas correspondências de contactos.</string>

@@ -6,7 +6,7 @@
   <string name="cit_OTG_plugout_check_title">OTG (removido)</string>
   <string name="cit_OTG_waiting_in">Insira agora um dispositivo USB OTG</string>
   <string name="cit_OTG_waiting_out">Retire agora o dispositivo USB OTG</string>
-  <string name="cit_ac_charger_in">&gt;A carregar por AC</string>
+  <string name="cit_ac_charger_in">>A carregar por AC</string>
   <string name="cit_ac_charger_out">Carregador AC desligado</string>
   <string name="cit_accelermeter_sensor_check_summary">"Mova o telefone rapidamente numa direcção. As coordenadas de X，Y，Z serão exibidas em baixo. (Quando o telefone está em movimento: o X representa esquerda/direita, Y representa frente/trás, Z acima/abaixo).
 Antes de calibrar o telefone pouse-o numa superfície plana."</string>
@@ -148,7 +148,7 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_headset_loopback_check_title">Teste de funcionamento do microfone do auricular</string>
   <string name="cit_headset_plug_detect_summary">Quando ligar os auriculares, deverá aparecer em baixo o texto \"Auriculares ligado\".</string>
   <string name="cit_headset_plug_detect_title">Detecção de auricular (ligado)</string>
-  <string name="cit_headset_plug_finish">&gt;Auriculares ligados</string>
+  <string name="cit_headset_plug_finish">>Auriculares ligados</string>
   <string name="cit_headset_plug_hint">Ligue os auriculares</string>
   <string name="cit_headset_pull_detect_summary">Quando desligar os auriculares, deverá aparecer em baixo o texto \"Auriculares desligado\"</string>
   <string name="cit_headset_pull_detect_title">Detecção de auricular (desligado)</string>

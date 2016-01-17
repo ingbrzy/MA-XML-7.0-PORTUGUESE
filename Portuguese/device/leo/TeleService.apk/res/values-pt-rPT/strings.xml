@@ -272,7 +272,7 @@
   <string name="default_areacode">Código de área predefinido</string>
   <string name="default_call_type">SCVoz</string>
   <string name="default_notification_description">Som padrão (%1$s)</string>
-  <string name="default_preference_summary">&lt;Não definido&gt;</string>
+  <string name="default_preference_summary"><Não definido></string>
   <string name="default_sim_setting">Configurações padrão do SIM como:</string>
   <string name="delete">Eliminar</string>
   <string name="deleteAllSimEntries">Eliminar todos os contactos do cartão SIM</string>
@@ -345,7 +345,7 @@
   <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
   <string name="disable_sim_pin">Desactivar o PIN do SIM</string>
   <string name="disconnect_data_confirm">Serviço de dados será temporariamente desligado. Tem a certeza?</string>
-  <string name="display_name_summary">&lt;O mesmo que o utilizador&gt;</string>
+  <string name="display_name_summary"><O mesmo que o utilizador></string>
   <string name="display_name_title">Mostrar o nome</string>
   <string name="do_not_ask">"Não perguntar novamente"</string>
   <string name="domain_address_title">Servidor</string>
@@ -829,7 +829,7 @@ Será utilizada a rede preferida."</string>
   <string name="onscreenSwapCallsText">Trocar</string>
   <string name="onscreenVideoCallText">Chamada de Vídeo</string>
   <string name="open_miui">Abrir</string>
-  <string name="optional_summary">&lt;Opcional&gt;</string>
+  <string name="optional_summary"><Opcional></string>
   <string name="order_by_name">Ordem alfabética</string>
   <string name="order_by_recent">Utilizados frequentemente</string>
   <string name="order_id">Id de Encomenda:%1$s</string>
@@ -1067,7 +1067,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="requesting_sim_unlock">A solicitar o desbloqueio do cartão SIM…</string>
   <string name="requesting_sp_unlock">A solicitar o desbloqueio do serviço da operadora do cartão SIM…</string>
   <string name="requesting_unlock">A solicitar o desbloqueio do cartão SIM…</string>
-  <string name="reset_my_choice_hint">Pode alterar qual a conta de chamadas pela internet a utilizar por predefinição a partir do telefone&gt; Definições &gt; Definições de chamadas internet&gt; Contas.</string>
+  <string name="reset_my_choice_hint">Pode alterar qual a conta de chamadas pela internet a utilizar por predefinição a partir do telefone> Definições > Definições de chamadas internet> Contas.</string>
   <string name="respond_via_sms_canned_response_1">Agora não posso atender. Ligo mais tarde.</string>
   <string name="respond_via_sms_canned_response_2">Eu ligo de volta.</string>
   <string name="respond_via_sms_canned_response_3">Eu ligo mais tarde.</string>
@@ -1294,7 +1294,7 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">A vibrar</string>
   <string name="voicemail_notification_vibrate_when_default">Nunca</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrar</string>
-  <string name="voicemail_number_not_set">&lt;Não definido&gt;</string>
+  <string name="voicemail_number_not_set"><Não definido></string>
   <string name="voicemail_provider">Serviço de Voice Mail</string>
   <string name="voicemail_provider_summary">Escolher o serviço de Voice Mail</string>
   <string name="voicemail_settings">Definições do Voice Mail</string>

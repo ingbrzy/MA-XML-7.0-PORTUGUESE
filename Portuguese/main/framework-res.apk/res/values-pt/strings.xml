@@ -156,7 +156,7 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="bugreport_title">Envie relatório de erro</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
-  <string name="candidates_style">&lt;u&gt;candidatos&lt;/u&gt;</string>
+  <string name="candidates_style"><u>candidatos</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Os scripts podem ser instalados para tornar o conteúdo da aplicação mais acessível.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe.</string>
   <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã pode ser explorado através de gestos.</string>
@@ -178,7 +178,7 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
   <string name="choose_account_label">Seleccionar uma conta</string>
   <string name="chooser_wallpaper">Alterar imagem de fundo</string>
-  <string name="clearDefaultHintMsg">Limpar a predefinição nas Definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
+  <string name="clearDefaultHintMsg">Limpar a predefinição nas Definições do Sistema > Aplicações > Transferidas.</string>
   <string name="common_last_name_prefixes"/>
   <string name="common_name">Nome comum:</string>
   <string name="common_name_conjunctions"/>
@@ -519,7 +519,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_password_enter_pin_prompt">Novo código PIN</string>
   <string name="keyguard_password_enter_puk_code">Introduza o código PUK e o novo código PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Código PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Pressione para escrever a palavra-passe&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Pressione para escrever a palavra-passe</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto.</string>
   <string name="kg_emergency_call_label">Chamada de emergência</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN desejado</string>
@@ -534,7 +534,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_invalid_sim_pin_hint">Introduza um código PIN de 4 a 8 números.</string>
   <string name="kg_invalid_sim_puk_hint">O código PUK deve conter de 8 números.</string>
   <string name="kg_login_account_recovery_hint">""Esqueceu o nome de utilizador ou a palavra-passe?
-Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+Visite "<b>google.com/accounts/recovery</b>."</string>
   <string name="kg_login_checking_password">A verificar a conta…</string>
   <string name="kg_login_instructions">Inicie a sessão para poder desbloquear a sua conta Google.</string>
   <string name="kg_login_invalid_input">Nome de utilizador ou palavra-passe inválida.</string>
@@ -609,7 +609,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respetivas definições de fábrica.</string>
   <string name="lockscreen_forgot_pattern_button_text">Esqueceu-se da sua sequência?</string>
   <string name="lockscreen_glogin_account_recovery_hint">""Esqueceu-se do nome de utilizador ou da palavra-passe?
-Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
+Visite "<b>google.com/accounts/recovery</b>."</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio da conta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear, inicie a sessão com a Conta Google.</string>
@@ -1324,7 +1324,7 @@ para a conta %s."</string>
   <string name="permlab_writeSocialStream">Escrever para o seu fluxo social</string>
   <string name="permlab_writeSyncSettings">Activar e desactivar a sincronização</string>
   <string name="perms_description_app">Fornecido por %1$s.</string>
-  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;Novo: &lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">Novo: </font></string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistente</string>
   <string name="phoneTypeCallback">Chamada de retorno</string>
@@ -1451,7 +1451,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="save_password_never">Nunca</string>
   <string name="save_password_notnow">Agora não</string>
   <string name="save_password_remember">Lembrar</string>
-  <string name="screen_compat_mode_hint">Reactive este modo nas Definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
+  <string name="screen_compat_mode_hint">Reactive este modo nas Definições do Sistema > Aplicações > Transferidas.</string>
   <string name="screen_compat_mode_scale">Redimensionar</string>
   <string name="screen_compat_mode_show">Mostrar sempre</string>
   <string name="screen_lock">Bloqueio do ecrã</string>
@@ -1512,7 +1512,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="sipAddressTypeOther">Outro</string>
   <string name="sipAddressTypeWork">Emprego</string>
   <string name="skip_button_label">Ignorar</string>
-  <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; está a enviar um grande número de mensagens SMS. Pretende autorizar que a aplicação continue a enviar mensagens?</string>
+  <string name="sms_control_message"><b>%1$s</b> está a enviar um grande número de mensagens SMS. Pretende autorizar que a aplicação continue a enviar mensagens?</string>
   <string name="sms_control_no">Não permitir</string>
   <string name="sms_control_title">A enviar mensagens SMS</string>
   <string name="sms_control_yes">Permitir</string>
@@ -1520,11 +1520,11 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="sms_short_code_confirm_allow">Enviar</string>
   <string name="sms_short_code_confirm_always_allow">Permitir sempre</string>
   <string name="sms_short_code_confirm_deny">Cancelar</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; gostaria de enviar uma mensagem para &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message"><b>%1$s</b> gostaria de enviar uma mensagem para <b>%2$s</b>.</string>
   <string name="sms_short_code_confirm_never_allow">Nunca permitir</string>
   <string name="sms_short_code_details">Isto pode causar débitos na sua conta do telefone.</string>
   <string name="sms_short_code_remember_choice">Lembrar da minha escolha</string>
-  <string name="sms_short_code_remember_undo_instruction">Pode alterar mais tarde em Definições &gt; Aplicações</string>
+  <string name="sms_short_code_remember_undo_instruction">Pode alterar mais tarde em Definições > Aplicações</string>
   <string name="smv_application">A aplicação %1$s (processo %2$s) violou a política do Modo Limitado, imposto automaticamente.</string>
   <string name="smv_process">O processo %1$s violou a política do Modo Limitado, imposto automaticamente.</string>
   <string name="ssl_ca_cert_noti_by_unknown">Por um terceiro desconhecido</string>
@@ -1589,7 +1589,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="turn_on_radio">Activar Wi-Fi</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Pressione duas vezes para controlar o zoom</string>
   <string name="unknownName">(Desconhecido)</string>
-  <string name="untitled">&lt;sem nome&gt;</string>
+  <string name="untitled"><sem nome></string>
   <string name="upload_file">Escolher ficheiro</string>
   <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
   <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>

@@ -77,7 +77,7 @@
   <string name="auto_update_off">Desligado</string>
   <string name="auto_update_on">Ligado</string>
   <string name="auto_upload_album_comfirm_to_share">Este álbum será sincronizado automaticamente.</string>
-  <string name="auto_upload_guide_msssage">" "&lt;Data&gt; Sincronizar fotos de outras aplicações com a Nuvem Mi automaticamente. Pode ligar ou desligar esta funcionalidade em qualquer altura nas &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Definições &amp;gt; Sincronizar com Nuvem Mi &amp;gt; Sincronizar automaticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. &lt;/Data&gt;" "</string>
+  <string name="auto_upload_guide_msssage">" "<Data> Sincronizar fotos de outras aplicações com a Nuvem Mi automaticamente. Pode ligar ou desligar esta funcionalidade em qualquer altura nas &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;Definições &amp;gt; Sincronizar com Nuvem Mi &amp;gt; Sincronizar automaticamente&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;. </Data>" "</string>
   <string name="auto_upload_guide_title">Sincronizar fotos com Nuvem Mi</string>
   <string name="auto_upload_title">Sincronizar automaticamente</string>
   <string name="autofix">Ajuste automático</string>
@@ -183,13 +183,13 @@ com amigos"</string>
   <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível.</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
   <string name="confirm_face">Corresponder</string>
-  <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Unir estes álbuns com %s? &lt;/Data&gt;" "</string>
+  <string name="confirm_merge_face_albums">" "<Data> Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? </Data>" "</string>
+  <string name="confirm_merge_many_face_albums">" "<Data> Unir estes álbuns com %s? </Data>" "</string>
   <string name="confirm_not_face">Sem correspondências</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido para \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Tem a certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">" "<Data> Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido para \"%2$s\" álbum após confirmação. </Data>" "</string>
+  <string name="confirm_recommandation_face_not">" "<Data> Tem a certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido \"%2$s\" álbum após confirmação. </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "<Data> Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "<Data> Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. </Data>" "</string>
   <string name="contact_photo">Definir como foto de contacto</string>
   <string name="contact_tip">Contactos</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
