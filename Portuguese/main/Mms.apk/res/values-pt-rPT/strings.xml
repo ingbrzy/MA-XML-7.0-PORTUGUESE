@@ -189,7 +189,7 @@
   <string name="guild_add_attachments">Toque para adicionar sorrisos e outros conteúdos</string>
   <string name="guild_add_recipients">Toque para adicionar destinatários a partir do livro de endereços</string>
   <string name="guild_msim_switcher">Toque para trocar de cartão SIM</string>
-  <string name="has_invalid_recipient">Destinatários inválidos: <%1$s></string>
+  <string name="has_invalid_recipient">Destinatários inválidos: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Ocultar endereço do remetente</string>
   <string name="hint_search_sms">%d mensagens</string>
   <string name="hms_add_image_progress_message">A processar…</string>
@@ -312,7 +312,7 @@
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI.</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens > Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
@@ -475,8 +475,8 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="secs">segs</string>
-  <string name="security_alert_desc"><font color="#7f000000">"O remetente não está nos seus contactos.
- "</font></string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"O remetente não está nos seus contactos.
+ "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Reportar este número</string>
   <string name="security_alert_dialog_desc">Reportar este número (%s) e enviar para a Xiaomi para revisão.</string>
   <string name="security_alert_dialog_title">Reportar</string>

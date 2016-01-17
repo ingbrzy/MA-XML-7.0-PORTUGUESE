@@ -374,7 +374,7 @@ aguarde um momento depois da acção."</string>
   <string name="passport_btn_return">Voltar</string>
   <string name="passport_button_cancel">Cancelar</string>
   <string name="passport_captcha">Introduzir código</string>
-  <string name="passport_change_account"><u>Alterar conta</u></string>
+  <string name="passport_change_account">&lt;u&gt;Alterar conta&lt;/u&gt;</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>
   <string name="passport_checking_input">A verificar método de entrada…</string>
   <string name="passport_choose_which_one_sim">Escolher um número de telefone</string>
@@ -417,7 +417,7 @@ Para activar a sua conta siga o
   <string name="passport_error_verify_code">O código que introduziu está incorrecto.</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe.</string>
-  <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="passport_forget_password">&lt;u&gt;Esqueceu a palavra-passe?&lt;/u&gt;</string>
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
   <string name="passport_get_verify_code">Obter código</string>
   <string name="passport_getting_verify_code">A obter</string>
@@ -434,7 +434,7 @@ Para activar a sua conta siga o
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
   <string name="passport_login_notice">A iniciar sessão…</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
-  <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
+  <string name="passport_login_with_email_or_id">&lt;u&gt;Iniciar sessão com endereço de email ou ID de Conta Mi&lt;/u&gt;</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
   <string name="passport_password">Introduza a sua palavra-passe</string>
@@ -442,7 +442,7 @@ Para activar a sua conta siga o
   <string name="passport_phone_num_hint_text">Número de telefone</string>
   <string name="passport_prev">Voltar</string>
   <string name="passport_privacy_policy">Política de Privacidade</string>
-  <string name="passport_provision_skip_login"><u>Ignorar este passo</u></string>
+  <string name="passport_provision_skip_login">&lt;u&gt;Ignorar este passo&lt;/u&gt;</string>
   <string name="passport_quick_login_dialog_step2_title">Verificação em 2 passos</string>
   <string name="passport_quick_login_dialog_title">Verificar palavra-passe</string>
   <string name="passport_quick_login_step2_title">Verificação em 2 passos</string>
@@ -455,7 +455,7 @@ Para activar a sua conta siga o
   <string name="passport_reg_success">Conta criada</string>
   <string name="passport_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe.</string>
   <string name="passport_reg_type_email">Criar conta utilizando email</string>
-  <string name="passport_reg_type_other_ways"><u>Criar conta utilizando outros meios</u></string>
+  <string name="passport_reg_type_other_ways">&lt;u&gt;Criar conta utilizando outros meios&lt;/u&gt;</string>
   <string name="passport_reg_type_other_ways_title">Criar uma conta utilizando outros meios</string>
   <string name="passport_reg_using_other_phone">Registar utilizando outro telefone</string>
   <string name="passport_reg_using_other_phone_number_prompt">Registar utilizando outro número de telefone</string>
@@ -465,7 +465,7 @@ Para activar a sua conta siga o
   <string name="passport_register">Criar uma conta</string>
   <string name="passport_register_account_goto_email">Vá à sua caixa de entrada</string>
   <string name="passport_register_account_verified_confirm">Já verificou a sua conta</string>
-  <string name="passport_register_by_email"><u>Criar uma conta utilizando o endereço de email</u></string>
+  <string name="passport_register_by_email">&lt;u&gt;Criar uma conta utilizando o endereço de email&lt;/u&gt;</string>
   <string name="passport_relogin">Iniciar sessão novamente</string>
   <string name="passport_relogin_notice">Tem que iniciar sessão novamente</string>
   <string name="passport_remove_account_notice">帐号退出后，您要如何处理手机上的联系人和便签？</string>
@@ -489,7 +489,7 @@ Para activar a sua conta siga o
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_verification_failed">Autenticação falhou</string>
   <string name="passport_verify">Verificar</string>
-  <string name="passport_welcome_skip_login"><u>Ignorar este passo</u></string>
+  <string name="passport_welcome_skip_login">&lt;u&gt;Ignorar este passo&lt;/u&gt;</string>
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
@@ -503,7 +503,7 @@ Para activar a sua conta siga o
   <string name="power">Ligar/Desligar</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
-  <string name="privacy_content">"Ler "<a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à internet e aos serviços de localização para a aplicação funcionar normalmente.</string>
+  <string name="privacy_content">"Ler "&lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Política de Privacidade&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Termos de Utilização&lt;/a&gt; da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à internet e aos serviços de localização para a aplicação funcionar normalmente.</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>

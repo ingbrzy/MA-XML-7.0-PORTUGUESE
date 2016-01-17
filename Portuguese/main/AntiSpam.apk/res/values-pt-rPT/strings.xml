@@ -62,8 +62,8 @@
   <string name="bl_no_block_call">Sem chamadas bloqueadas</string>
   <string name="bl_no_block_sms">Sem mensagens bloqueadas</string>
   <string name="blacklist_prefix_add_hint">Bloquear todos os números que começam com este prefixo</string>
-  <string name="block_message_number">Mensagens: <font color=#5fab1b>%d</font></string>
-  <string name="block_phone_number">Chamadas: <font color=#5fab1b>%d</font></string>
+  <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="button_text_delete">Eliminar</string>
   <string name="button_to_setting">Definições</string>
   <string name="call_delete_hint">Eliminar todas as chamadas bloqueadas deste número?</string>
@@ -101,7 +101,7 @@
   <string name="dlg_import_blacklist">A adicionar…</string>
   <string name="dlg_import_whitelist">A adicionar…</string>
   <string name="dlg_keyword_ok">Gravar</string>
-  <string name="dlg_message_not_open_stranger_identify">Para activar este recurso, vá para Definições > Telefone.</string>
+  <string name="dlg_message_not_open_stranger_identify">Para activar este recurso, vá para Definições &gt; Telefone.</string>
   <string name="dlg_no_block">Desbloquear este número e restaurar as chamadas para o registo de chamadas?</string>
   <string name="dlg_no_block_ok">Desbloquear</string>
   <string name="dlg_remove_address_blacklist">Remover esta localização da lista de bloqueio?</string>

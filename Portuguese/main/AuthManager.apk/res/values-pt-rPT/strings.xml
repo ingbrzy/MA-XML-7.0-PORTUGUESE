@@ -59,12 +59,12 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="Generic_UserApp">Transferidas (%d)</string>
   <string name="Generic_Version">Versão: %1$s</string>
   <string name="HIPS_Action_Accept">Permitir</string>
-  <string name="HIPS_Action_Accept_Colored"><font color=#478800>Permitir</font></string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Permitir&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Permitir uma vez</string>
   <string name="HIPS_Action_Prompt">Perguntar</string>
-  <string name="HIPS_Action_Prompt_Colored"><font color=#FF8A00>Perguntar</font></string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Perguntar&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Negar</string>
-  <string name="HIPS_Action_Reject_Colored"><font color=#DF0000>Negar</font></string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Negar&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Negar uma vez</string>
   <string name="HIPS_Group_DataPrivacy">Privacidade</string>
   <string name="HIPS_Group_Expense">Segurança</string>
@@ -245,7 +245,7 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_SecurityPrompt_Remember">Lembrar preferências</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s está a tentar %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissões</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d permissões - <font color=#478800>Confiável</font></string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d permissões - &lt;font color=#478800&gt;Confiável&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">OK</string>
   <string name="Privacy_App_Installed">Instalada com sucesso</string>
   <string name="Privacy_App_Launch">Executar</string>
@@ -281,8 +281,8 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="permission_group_title_settings_related">Definições</string>
   <string name="permission_request_title">Pedido de permissão</string>
   <string name="permission_warning_template">Permitir %1$s para %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança > Permissões.</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança &gt; Permissões.</string>
   <string name="screen_overlay_button">Abrir definições</string>
-  <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições > Aplicações</string>
+  <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
 </resources>

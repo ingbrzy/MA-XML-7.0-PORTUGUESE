@@ -165,7 +165,7 @@
   <string name="file_info_modified">Ultima modificação:</string>
   <string name="file_info_size">Tamanho:</string>
   <string name="file_loading">A carregar…</string>
-  <string name="file_name_invalid">"Os nomes de ficheiros não podem conter os seguintes caracteres: /\\:*?<>"</string>
+  <string name="file_name_invalid">"Os nomes de ficheiros não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">O ficheiro não existe</string>
   <string name="file_too_large">O ficheiro é muito grande para enviar</string>
   <string name="files">Ficheiros</string>
@@ -173,7 +173,7 @@
   <string name="folder_exist">A pasta já existe.</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
-  <string name="forward_to_web_recycle_prompt"><a href=\"%1$s\">Toque</a>para ir para a pasta do lixo</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Toque&lt;/a&gt;para ir para a pasta do lixo</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
   <string name="ftp_anonymous_login">Iniciar sessão anónima</string>
   <string name="ftp_invalid_username_or_password">O nome do utilizador ou palavra-passe é inválida.</string>
@@ -518,7 +518,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="transfer_private_data">A mover ficheiros ocultos do cartão SD…</string>
   <string name="transing">A enviar</string>
   <string name="trash_box_capacity">Reciclagem %1$s</string>
-  <string name="trash_box_link">Para esvaziar o lixo, visite <b>pan.xiaomi.com.</b></string>
+  <string name="trash_box_link">Para esvaziar o lixo, visite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>
   <string name="trash_box_message1">Eliminar ficheiros desnecessários para libertar espaço.</string>
   <string name="trash_box_message2">Esvaziar a reciclagem para libertar espaço.</string>
   <string name="type_not_support">Este formato de ficheiro não é suportado. Descompacte este ficheiro e tente novamente.</string>

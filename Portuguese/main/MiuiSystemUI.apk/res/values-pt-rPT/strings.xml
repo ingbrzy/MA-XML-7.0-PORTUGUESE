@@ -181,9 +181,9 @@ Utilize apenas o carregador fornecido."</string>
   <string name="status_bar_date_format">EEEE d/MM</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoje: %1$s   Restante: %2$s"</string>
-  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dados excedidos: <font color=%2$s>%3$s</font></string>
+  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Limite mensal: %1$s"</string>
-  <string name="status_bar_network_flow_purchase">"   Compra >"</string>
+  <string name="status_bar_network_flow_purchase">"   Compra &gt;"</string>
   <string name="status_bar_network_flow_today">Hoje: %1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Sem aplicações recentes</string>

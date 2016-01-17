@@ -221,20 +221,20 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede.</string>
   <string name="network_route_exception_detail">"Pode existir um problema com o router a que está ligado:
 
- "<b>"1. Problemas de redes Wi-Fi públicas
-"</b>"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
+ "&lt;b&gt;"1. Problemas de redes Wi-Fi públicas
+"&lt;/b&gt;"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
 
- 2."<b>" Problemas do prestador de serviços de internet
-T"</b>"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de internet.
+ 2."&lt;b&gt;" Problemas do prestador de serviços de internet
+T"&lt;/b&gt;"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de internet.
 
- 3."<b>" Problemas de router
-T"</b>"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
+ 3."&lt;b&gt;" Problemas de router
+T"&lt;/b&gt;"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
 
- 4."<b>" Outros problemas de router
-L"</b>"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
+ 4."&lt;b&gt;" Outros problemas de router
+L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
 
- 5."<b>" Verifique se o seu router está ligado correctamente
-T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de internet.</string>
+ 5."&lt;b&gt;" Verifique se o seu router está ligado correctamente
+T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de internet.</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
  1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente.
@@ -344,7 +344,7 @@ T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h�
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"<b> 1. Ligar Economizador de Dados irá afectar a minha privacidade? </b><br /><br /><br />Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. <br /><br /><br /><b> 2. Porque não está o Economizador de Dados a funcionar? </b><br /><br /> O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar Economizador de Dados irá afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está o Economizador de Dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
   <string name="pref_traffic_saving_no_compress">Sem compressão</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar na área de notificações</string>
   <string name="pref_traffic_saving_notify_switch_hint">Mostrar estatística de utilização de dados na área de notificações</string>
@@ -357,7 +357,7 @@ T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h�
   <string name="pref_version">Versão %s</string>
   <string name="pref_warning_values">Nível de aviso de utilização de dados</string>
   <string name="pref_whitelist_setting">Gerir excepções</string>
-  <string name="privacy_declare_dialog_message">"Ao utilizar este serviço, está a concordar com os <a href=%s> Termos do Serviço</a> da Opera."</string>
+  <string name="privacy_declare_dialog_message">"Ao utilizar este serviço, está a concordar com os &lt;a href=%s&gt; Termos do Serviço&lt;/a&gt; da Opera."</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para actualizar os seus dados e informações de utilização.</string>
   <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora.</string>
@@ -393,7 +393,7 @@ T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h�
   <string name="see_detail">Detalhes</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
   <string name="settings">Definições de utilização de dados</string>
-  <string name="show_traffic_dialog_message">A sua utilização de dados irá estar visível na área de notificações. Pode ligar ou desligar este recurso em Utilização de dados > Definições</string>
+  <string name="show_traffic_dialog_message">A sua utilização de dados irá estar visível na área de notificações. Pode ligar ou desligar este recurso em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área.</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
@@ -428,7 +428,7 @@ T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h�
   <string name="tc_sms_report_notify_get_timeout_body">Processo expirou . Confirme com a sua operadora se o código de inquérito SMS que introduziu está correcto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Não é possível obter o relatório de utilização de dados</string>
   <string name="tc_sms_report_receive_content">Conteúdo do SMS com relatório da utilização de dados (confirme estatística do uso de dados)</string>
-  <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!<br/	Veja como:<br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"<br/	2. Toque \"Obter modelo SMS\"<br/	3. Aguarde até receber uma mensagem da sua operadora <br/	4. Toque \"Enviar para a MIUI\"</string>
+  <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/	Veja como:&lt;br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/	2. Toque \"Obter modelo SMS\"&lt;br/	3. Aguarde até receber uma mensagem da sua operadora &lt;br/	4. Toque \"Enviar para a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
@@ -477,14 +477,14 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes.</string>
-  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.<br/>Poderá ter custos adicionais se exceder o limite de dados.<br/><br/><font color='#0000ff'><U>Toque para aumentar o limite do pacote de dados.</U></font>"</string>
+  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Poderá ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Limite de dados excedido</string>
   <string name="traffic_protection_data_usage_summary">Definir os avisos de utilização de dados para evitar exceder o limite de dados do seu plano mensal contratado com a operadora.</string>
   <string name="traffic_protection_label">Aviso de utilização de dados</string>
   <string name="traffic_protection_next">Seguinte</string>
   <string name="traffic_protection_summary">Definir avisos para quando a sua utilização de dados atingir um determinado nível</string>
   <string name="traffic_protection_text_hint">Definir limite de utilização de dados para %s</string>
-  <string name="traffic_protection_unknown"><u>Configurar mais tarde</u></string>
+  <string name="traffic_protection_unknown">&lt;u&gt;Configurar mais tarde&lt;/u&gt;</string>
   <string name="traffic_protection_use_data">Dados activados</string>
   <string name="traffic_purchase_body">Toque para carregar o seu saldo.</string>
   <string name="traffic_purchse_suggestion">Carregar dados móveis</string>
@@ -520,7 +520,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_saving_ratio_low">"Não é possível uma drástica redução de dados"</string>
   <string name="traffic_saving_recommanded_close">Desligar</string>
   <string name="traffic_saving_recommanded_open">Ligar</string>
-  <string name="traffic_saving_start_tip_context">"<big><font color='#7F000000'>Activar Economizador de Dados automaticamente para reduzir a utilização de dados das aplicações.</font></big><br /><br /><font color='#FF000000'>Se tiver um plano de dados mensal, lembre-se de desligar o Economizador de dados para aplicações individuais para evitar gastos adicionais na sua operadora.</font>"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar Economizador de Dados automaticamente para reduzir a utilização de dados das aplicações.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Se tiver um plano de dados mensal, lembre-se de desligar o Economizador de dados para aplicações individuais para evitar gastos adicionais na sua operadora.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Activar</string>
   <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_tecsupport_international">Desenvolvido por Opera Max</string>
@@ -534,7 +534,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_saving_whitelist_btn_added">Adicionado</string>
   <string name="traffic_saving_whitelist_btn_remove">Remover</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplicação removida da lista</string>
-  <string name="traffic_saving_whitelist_count">"<font color='#4DAA0F'>%1$d</font> não estão a ser restringidos a utilização de dados das aplicações"</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; não estão a ser restringidos a utilização de dados das aplicações"</string>
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
   <string name="traffic_saving_wifi_usage">Utilização Wi-Fi</string>
   <string name="traffic_setting_app_count">%d aplicações</string>

@@ -24,7 +24,7 @@
   <string name="button_uninstall_old_app">Desinstalar</string>
   <string name="cancel">Cancelar</string>
   <string name="change_security_lock">Mais ecrãs de bloqueio</string>
-  <string name="check_code">Para verificar que tem a chave correcta para %1$s verifique se o valor corresponde ao valor de verificação de integridade fornecido pelo servidor:<br/></string>
+  <string name="check_code">Para verificar que tem a chave correcta para %1$s verifique se o valor corresponde ao valor de verificação de integridade fornecido pelo servidor:&lt;br/&gt;</string>
   <string name="check_code_menu_item">Verificar valor da chave</string>
   <string name="check_code_title">Valor de verificação de integridade</string>
   <string name="continue_btn">Continuar</string>
@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password"><u>Esqueceu a sequência?</u></string>
+  <string name="forget_password">&lt;u&gt;Esqueceu a sequência?&lt;/u&gt;</string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -74,7 +74,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="lockpattern_need_to_confirm">Desenhe o seu padrão novamente para confirmar</string>
   <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide com o anterior. Desenhe o padrão novamente</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong"><font color=red>Padrão incorrecto. Tem mais %d tentativas</font></string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Padrão incorrecto. Tem mais %d tentativas&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
@@ -85,12 +85,12 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="lockpattern_retry_text">Reiniciar padrão</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header"><font color=red>Demasiadas tentativas incorrectas!</font></string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_close_label">Fechar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
   <string name="lockpattern_tutorial_jump_label">Ignorar</string>
-  <string name="lockscreen_forgot_pattern_button_text"><u>Esqueceu padrão de desbloqueio?</u></string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Esqueceu padrão de desbloqueio?&lt;/u&gt;</string>
   <string name="login">Entrar</string>
   <string name="main_preference_screen_title">Definições</string>
   <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
@@ -108,7 +108,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Políticas de Privacidade</string>
   <string name="progress_loading">A carregar…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai <b>remover a sua capacidade</b> de gerar códigos, no entanto, <b>não</b> vai desligar a verificação em 2 passos. Isto pode impedir o início de sessão na sua conta. <p>Antes de remover: <ul> <li>Desligar a verificação em 2 passos, ou</li> <li>Certifique-se que tem um método alternativo para gerar códigos.</li> </ul></p></string>
+  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai &lt;b&gt;remover a sua capacidade&lt;/b&gt; de gerar códigos, no entanto, &lt;b&gt;não&lt;/b&gt; vai desligar a verificação em 2 passos. Isto pode impedir o início de sessão na sua conta. &lt;p&gt;Antes de remover: &lt;ul&gt; &lt;li&gt;Desligar a verificação em 2 passos, ou&lt;/li&gt; &lt;li&gt;Certifique-se que tem um método alternativo para gerar códigos.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_account_dialog_message">"Remover esta conta irá remover a sua capacidade de gerar códigos. Isto pode impedir o início sessão na sua conta.
 
@@ -167,9 +167,9 @@ Pode："</string>
   <string name="title_updatepattern">Alterar padrão</string>
   <string name="title_visible_pattern">Meter padrão visível</string>
   <string name="type_prompt">Tipo de chave</string>
-  <string name="update_pattern_jump"><u>Remover padrão</u></string>
+  <string name="update_pattern_jump">&lt;u&gt;Remover padrão&lt;/u&gt;</string>
   <string name="version_preference_title">Versão</string>
-  <string name="welcome_page_alert">"<font color=#fb3500>* </font>Se eliminar o seu token de segurança Mi não será possível iniciar sessão na sua conta."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não será possível iniciar sessão na sua conta."</string>
   <string name="welcome_page_details">"- Mantenha a sua conta segura.
 - Proteja a sua conta de ser utilizada por estranhos."</string>
   <string name="welcome_page_title">Utilizado para início de sessão segura</string>
