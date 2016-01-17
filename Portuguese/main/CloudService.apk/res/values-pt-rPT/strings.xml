@@ -95,7 +95,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="find_device_status_ok">Localizar o seu dispositivo de qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Localizar o seu dispositivo de qualquer lugar em www.mi.com/micloud</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
-  <string name="forget_password">&lt;u&gt;Esqueceu a palavra-passe&lt;/u&gt;</string>
+  <string name="forget_password"><u>Esqueceu a palavra-passe</u></string>
   <string name="free_space_has_received">Já adicionou espaço grátis este mês</string>
   <string name="free_space_receive_fail">Não é possível actualizar</string>
   <string name="get_first_month_gb">Obter %s de espaço grátis</string>
@@ -290,7 +290,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_space_applist_title">Gerir aplicações</string>
   <string name="micloud_space_duokan_detail">Transferir e gerir ebooks com a aplicação Duokan.</string>
   <string name="micloud_space_duokan_title">Duokan</string>
-  <string name="micloud_space_full_influence">&lt;u&gt;O que acontece quando eu ficar sem espaço?&lt;/u&gt;</string>
+  <string name="micloud_space_full_influence"><u>O que acontece quando eu ficar sem espaço?</u></string>
   <string name="micloud_space_soundrecorder_detail">Gerir gravações guardadas no dispositivo</string>
   <string name="micloud_space_soundrecorder_title">Gravações</string>
   <string name="micloud_storage">Armazenamento</string>
@@ -390,7 +390,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_dspt_entrance_provision_confirm_content">"Aplicações MIUI integradas necessitam da Nuvem Mi para fazer cópias de segurança das suas fotos, contactos, notas, etc."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utilizar Nuvem Mi</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Não utilizar Nuvem Mi?"</string>
-  <string name="sync_dspt_entrance_provision_skip">&lt;u&gt;Ignorar este passo&lt;/u&gt;</string>
+  <string name="sync_dspt_entrance_provision_skip"><u>Ignorar este passo</u></string>
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
