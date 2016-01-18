@@ -121,6 +121,8 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_mock_location">Permitir localizações fictícias</string>
   <string name="allow_mock_location_summary">Permitir localizações fictícias</string>
+  <string name="allow_usage_access_message">Se permitir o acesso, esta aplicação pode ver a informação geral acerca das aplicações no seu dispositivo, como a frequência que as utiliza.</string>
+  <string name="allow_usage_access_title">Permitir acesso?</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
