@@ -3,7 +3,7 @@
     "durationformatlong": "%1$d:%3$02d:%5$02d",
     "action_item_hifi": "Auscultadores e efeitos de áudio",
 	"notification_des_no_song": "Música Mi. Novidades todos os dias",
-	"notification_des_next_song": "Próxima música: %s",
+	"notification_des_next_song": "Seguinte: %s",
 	"notification_headset_custom": "Rejeitar",
     "notification_headset_info": "Toque para ver definições",
     "notification_headset_settings": "Auscultadores ligados",
