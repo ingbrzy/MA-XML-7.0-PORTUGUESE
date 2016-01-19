@@ -48,7 +48,7 @@ Também pode aumentar temporariamente o que estiver sobre o seu dedo com um trip
 Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
-  <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
+  <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
   <string name="accessibility_service_no_apps_title">Necessita de um leitor de ecrã?</string>
   <string name="accessibility_services_title">Serviços</string>
   <string name="accessibility_settings">Acessibilidade</string>
@@ -74,7 +74,7 @@ Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de 
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
   <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
-  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação, e ler dados de registo.</string>
+  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="add_account_label">Adicionar conta</string>
   <string name="add_auto_startup_application">Adicionar aplicações de início automático</string>
@@ -122,10 +122,10 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="android_beam_off_summary">Partilha de conteúdo NFC desligado</string>
   <string name="android_beam_on_summary">Partilha de conteúdo NFC ligado</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro, e depois toque no conteúdo que quer transferir.</string>
+  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro e depois toque no conteúdo que quer transferir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
-  <string name="anti_spam">Lista de Bloqueio</string>
+  <string name="anti_spam">Lista de bloqueio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -159,7 +159,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Nome do utilizador</string>
   <string name="app_backup">Cópia</string>
-  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que algumas aplicações deixem de funcionar corretamente.</string>
+  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que algumas aplicações deixem de funcionar normalmente.</string>
   <string name="app_disable_dlg_title">Desactivar aplicação de sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>

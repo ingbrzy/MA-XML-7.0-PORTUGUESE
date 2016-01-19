@@ -80,7 +80,7 @@ Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de 
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
   <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
-  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação, e ler dados de registo.</string>
+  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="add_account_label">Adicionar conta</string>
   <string name="add_auto_startup_application">Adicionar aplicações de início automático</string>
@@ -121,7 +121,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_mock_location">Permitir localizações fictícias</string>
   <string name="allow_mock_location_summary">Permitir localizações fictícias</string>
-  <string name="allow_usage_access_message">Se permitir o acesso, esta aplicação pode ver a informação geral acerca das aplicações no seu dispositivo, como a frequência que as utiliza.</string>
+  <string name="allow_usage_access_message">Se permitir o acesso desta aplicação, esta poderá visualizar a informação geral acerca das aplicações no seu dispositivo, como por exemplo, a frequência com que as utiliza.</string>
   <string name="allow_usage_access_title">Permitir acesso?</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
@@ -131,10 +131,10 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="android_beam_off_summary">Partilha de conteúdo NFC desligado</string>
   <string name="android_beam_on_summary">Partilha de conteúdo NFC ligado</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro, e depois toque no conteúdo que quer transferir.</string>
+  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro e depois toque no conteúdo que quer transferir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
-  <string name="anti_spam">Lista de Bloqueio</string>
+  <string name="anti_spam">Lista de bloqueio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -168,7 +168,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Nome do utilizador</string>
   <string name="app_backup">Cópia</string>
-  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que algumas aplicações deixem de funcionar corretamente.</string>
+  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que algumas aplicações deixem de funcionar normalmente.</string>
   <string name="app_disable_dlg_title">Desactivar aplicação de sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
