@@ -114,7 +114,7 @@
   <string name="deepclean_video_summary_empty">Verificação concluída. Sem vídeos para limpar</string>
   <string name="default_cache_type">Ficheiros de dados</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
-  <string name="dialog_content_delete_image_confirm">Eliminar %d fotos?</string>
+  <string name="dialog_content_delete_image_confirm">Eliminar %d foto(s)?</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
@@ -350,7 +350,7 @@
   <string name="toast_backup_uninstall_failed">Não é possível fazer cópia de %d aplicações</string>
   <string name="toast_backup_uninstall_failed2">Não é possível fazer cópia</string>
   <string name="toast_backup_uninstall_success">Cópia e desinstalação concluídas</string>
-  <string name="toast_delete_select_image_succeed">Eliminados</string>
+  <string name="toast_delete_select_image_succeed">Eliminada(s)</string>
   <string name="toast_garbage_cleanup_success">Limpeza concluída</string>
   <string name="toast_garbage_list_empty">Nada para limpar</string>
   <string name="toast_must_select_before_restore">Escolher fotos para restaurar</string>

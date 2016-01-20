@@ -234,7 +234,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">Disponível: %s</string>
-  <string name="awake">Tempo decorrido</string>
+  <string name="awake">Tempo decorrido ligado</string>
   <string name="back_key">Voltar</string>
   <string name="background_data">Dados em segundo plano</string>
   <string name="background_data_dialog_message">Desactivar dados em segundo plano aumenta a vida útil da bateria e reduz a utilização de dados. Algumas aplicações podem ainda fazer utilização da ligação de dados em segundo plano.</string>
@@ -279,8 +279,8 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_indicator_style">Indicador da bateria</string>
-  <string name="battery_info_awake_battery">Tempo de activação na bateria:</string>
-  <string name="battery_info_awake_plugged">Tempo de activação quando está a carregar:</string>
+  <string name="battery_info_awake_battery">Tempo decorrido em bateria:</string>
+  <string name="battery_info_awake_plugged">Tempo decorrido em carregamento:</string>
   <string name="battery_info_health_cold">Frio</string>
   <string name="battery_info_health_dead">Descarregada</string>
   <string name="battery_info_health_good">Boa</string>
@@ -297,7 +297,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="battery_info_power_unknown">Desconhecido</string>
   <string name="battery_info_power_unplugged">Desligado</string>
   <string name="battery_info_power_usb">USB</string>
-  <string name="battery_info_power_wireless">sem fios</string>
+  <string name="battery_info_power_wireless">Sem fios</string>
   <string name="battery_info_scale_label">Escala da bateria:</string>
   <string name="battery_info_screen_on">Tempo activo:</string>
   <string name="battery_info_status_charging">A carregar</string>
@@ -396,12 +396,12 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Return ou Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida prima Cancelar ou Avançar.</string>
   <string name="bluetooth_dock_settings">Definições do Suporte</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e multimédia</string>
-  <string name="bluetooth_dock_settings_headset">Como alta-voz do telefone</string>
+  <string name="bluetooth_dock_settings_headset">Como alta voz do telefone</string>
   <string name="bluetooth_dock_settings_remember">Lembrar definições</string>
-  <string name="bluetooth_dock_settings_title">Utilizar o suporte para áudio</string>
+  <string name="bluetooth_dock_settings_title">Utilizar suporte para o áudio</string>
   <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos ligue o Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
