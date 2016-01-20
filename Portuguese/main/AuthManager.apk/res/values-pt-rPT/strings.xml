@@ -29,9 +29,6 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Transferir MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
   <string name="Dashboard_Perm_SU_Switch">Acesso root</string>
-  <string name="Dashboard_Su_Enable_Content">"Ao activar este recurso permitirá que as aplicações solicitem permissões root.
-Nota: Aplicações com esta permissão poderão causar instabilidades, perda de dados e danos ao software do sistema ou hardware. Por favor, proceda com cautela. Deseja activar o recurso?"</string>
-  <string name="Dashboard_Su_Enable_Title">Alerta de acesso root</string>
   <string name="Generic_Canceling">A cancelar…</string>
   <string name="Generic_Check">Verificar</string>
   <string name="Generic_Clean">Limpar</string>
@@ -224,6 +221,10 @@ Nota: Aplicações com esta permissão poderão causar instabilidades, perda de 
   <string name="HIPS_Perm_add_voicemail_Desc">Adicionar mensagens de voz de sistema</string>
   <string name="HIPS_Perm_get_accounts">Aceder contas no dispositivo</string>
   <string name="HIPS_Perm_get_accounts_Desc">Aceder a todas as contas no dispositivo</string>
+  <string name="HIPS_Perm_install_shortcut">Atalhos de ecrã inicial</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Adicionar atalhos ao ecrã inicial</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Aceder ao hardware de NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder aplicação Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
