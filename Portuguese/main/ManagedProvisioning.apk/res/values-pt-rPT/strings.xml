@@ -41,8 +41,8 @@
   <string name="learn_more_link">Saber mais</string>
   <string name="managed_provisioning_error_text">Não foi possível configurar o perfil de trabalho. Contacte o departamento de TI ou tente novamente mais tarde.</string>
   <string name="managed_provisioning_not_supported">O dispositivo não é compatível com perfis de trabalho</string>
-  <string name="managed_provisioning_not_supported_by_launcher">"Your work profile isn't supported by this launcher app. You'll need to switch to a launcher that's compatible."</string>
-  <string name="maximum_user_limit_reached">O seu perfil de trabalho não é suportado por esta aplicação de launcher. Terá de mudar para um launcher compatível.</string>
+  <string name="managed_provisioning_not_supported_by_launcher">"O seu perfil de trabalho não é suportado por esta aplicação launcher. Terá de mudar para um launcher compatível."</string>
+  <string name="maximum_user_limit_reached">O seu perfil de trabalho não é suportado por esta aplicação launcher. Terá de mudar para um launcher compatível.</string>
   <string name="mdm_icon_label">Ícone %1$s</string>
   <string name="ok_setup">OK</string>
   <string name="opening_paragraph_delete_profile_known_company">Este perfil de trabalho é gerido por %s através de:</string>
@@ -58,7 +58,7 @@
   <string name="progress_install">A instalar a aplicação de administração…</string>
   <string name="progress_set_owner">A definir o proprietário do dispositivo…</string>
   <string name="provisioning">Administração de contas</string>
-  <string name="provisioning_error_title">Ups!</string>
+  <string name="provisioning_error_title">Erro!</string>
   <string name="read_more_delete_profile">Antes de continuar, <a href="#read_this_link">leia isto</a>.</string>
   <string name="set_up">Configurar</string>
   <string name="setting_up_workspace">A configurar o perfil de trabalho…</string>
