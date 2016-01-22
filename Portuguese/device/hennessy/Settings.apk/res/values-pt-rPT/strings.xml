@@ -868,7 +868,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dirac_mode_piston_100">Auriculares Mi</string>
   <string name="dirac_mode_piston_2">Mi Piston-2</string>
   <string name="dirac_mode_piston_youth">Mi Piston-Jovem</string>
-  <string name="disable_overlays">Desactivar HW overlays</string>
+  <string name="disable_overlays">Desactivar sobreposições HW</string>
   <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
   <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão Ligar/Desligar</string>
   <string name="disable_service_message">Premir OK para parar %1$s.</string>
@@ -2141,7 +2141,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Apagar cartão SD</string>
-  <string name="sd_format_summary">Elimina todos os dados do cartão SD como música e fotos</string>
+  <string name="sd_format_summary">Elimina todos os dados do cartão SD, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
