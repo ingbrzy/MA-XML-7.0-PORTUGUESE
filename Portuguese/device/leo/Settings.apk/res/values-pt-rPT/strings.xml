@@ -884,9 +884,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="display_settings">Ecrã</string>
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o cartão SD algumas aplicações que estiver a utilizar irão parar e poderão não estar disponíveis até que volte a montar o cartão SD​.​</string>
-  <string name="dlg_confirm_unmount_title">Desmontar cartão SD?</string>
-  <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde.</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB algumas aplicações que estiver a utilizar irão parar e poderão não estar disponíveis até que volte a montar o armazenamento USB​.​</string>
+  <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
+  <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde.</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dndm_alarm_content">Sons</string>
@@ -1034,7 +1034,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="experience_optimization_category">Optimização</string>
   <string name="experimental_preference">(Em testes)</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
-  <string name="external_data_size_label">Dados no cartão SD</string>
+  <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Falha na verificação do estado de localização do dispositivo. Espere um momento e tente novamente.</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de localização do dispositivo</string>
@@ -1467,7 +1467,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 "&lt;li&gt;Outros dados do utilizador&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartão SD&lt;/b&gt; tem de ser eliminado.</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;armazenamento USB&lt;/b&gt; tem de ser eliminado.</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível.</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -1484,13 +1484,13 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartã
   <string name="media_category">Multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>
   <string name="media_format_button_text">Formatar armazenamento USB</string>
-  <string name="media_format_desc">Eliminar todos os dados do cartão SD? Perderá &lt;b&gt;todos&lt;/b&gt; os dados armazenados no cartão!</string>
+  <string name="media_format_desc">Eliminar todos os dados do armazenamento USB? Perderá &lt;b&gt;todos&lt;/b&gt; os dados armazenados no cartão!</string>
   <string name="media_format_final_button_text">Eliminar tudo</string>
-  <string name="media_format_final_desc">Apagar o cartão SD e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
-  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a formatação do cartão SD.</string>
+  <string name="media_format_final_desc">Apagar o armazenamento USB e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
+  <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a formatação do armazenamento USB.</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
   <string name="media_format_summary">Elimina todos os dados no armazenamento USB</string>
-  <string name="media_format_title">Eliminar cartão SD</string>
+  <string name="media_format_title">Eliminar armazenamento USB</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Média</string>
@@ -1871,7 +1871,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_settings">Impressão</string>
   <string name="print_settings_title">Serviços de impressão</string>
   <string name="priority_storage_app_settings">Os dados do utilizador serão guardados em %1$s</string>
-  <string name="priority_storage_settings_summary">Se não for detectado nenhum cartão SD os dados do utilizador serão guardados automaticamente no armazenamento interno do dispositivo.</string>
+  <string name="priority_storage_settings_summary">Se não for detectado nenhum armazenamento USB os dados do utilizador serão guardados automaticamente no armazenamento interno do dispositivo.</string>
   <string name="priority_storage_summary">Escolha onde guardar os seus dados</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
   <string name="privacy_mode_dialog_message">Ocultar mensagens, notas, fotos, definições e chamadas recebidas?</string>
@@ -2136,12 +2136,12 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screensaver_settings_when_to_dream">Quando em DayDream</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
-  <string name="sd_eject">Desmontar cartão SD</string>
-  <string name="sd_eject_summary">Desmontar o cartão SD para removê-lo em segurança</string>
+  <string name="sd_eject">Desmontar armazenamento USB</string>
+  <string name="sd_eject_summary">Desmontar o armazenamento USB para removê-lo em segurança</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
-  <string name="sd_format">Apagar cartão SD</string>
-  <string name="sd_format_summary">Elimina todos os dados do cartão SD, como música e fotos</string>
+  <string name="sd_format">Apagar armazenamento USB</string>
+  <string name="sd_format_summary">Elimina todos os dados do armazenamento USB, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
