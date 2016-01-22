@@ -677,21 +677,21 @@ Para continuar a utilizar o telefone deverá executar um restauro de fábrica. Q
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
   <string name="data_size_label">Dados</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas rede móveis. Será utilizado Wi-Fi, se disponível.</string>
+  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado o Wi-Fi se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
-  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando estiver apenas redes móveis disponíveis.
+  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que dependa de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis as redes móveis.
 
-Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
+Poderá encontrar os controlos de utilização de dados mais adequados nas definições disponíveis na aplicação."</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_app_restricted">restringido</string>
   <string name="data_usage_app_settings">Ver definições da aplicação</string>
-  <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. E não vai receber notificações quando ocorrerem actualizações.</string>
+  <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. Não vai receber notificações quando ocorrerem actualizações.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas na web serão automaticamente copiadas para o seu telefone.
 
-Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta Google funciona desta maneira.
+Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta Google funciona desta forma.
 
-Para escolher quais os tipos de informações a sincronizar dentro de cada conta, vá a Definições &gt; Contas."</string>
+Para escolher qual o tipo de informações a sincronizar dentro de cada conta, vá a definições &gt; contas."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
   <string name="data_usage_change_cycle">Alterar ciclo…</string>
   <string name="data_usage_cycle">Ciclo de utilização de dados</string>
