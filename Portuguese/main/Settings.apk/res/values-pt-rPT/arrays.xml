@@ -365,8 +365,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Chamadas em glGetError</item>
+        <item>Systrace (gráficos)</item>
+        <item>Quantidade de chamadas em glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desligado</item>
@@ -607,7 +607,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>A rede é lenta devido ao excesso de tráfego</item>
-        <item>A rede é lenta devido a intensidade do sinal ser fraco</item>
+        <item>A rede é lenta devido à intensidade do sinal ser fraco</item>
         <item>A mover…</item>
     </string-array>
     <string-array name="priority_storage_entries">
@@ -622,10 +622,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Muito rápido</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Desligado</item>
-        <item>Baixo</item>
-        <item>Médio</item>
-        <item>Alto</item>
+        <item>Desligada</item>
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 polegadas</item>
