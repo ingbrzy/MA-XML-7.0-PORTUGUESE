@@ -33,7 +33,7 @@ Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de bloqueio, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver mais que um utilizador a usar este atalho no bloqueio de ecrã, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -518,7 +518,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="brightness_auto_adjust_on">O brilho do ecrã pode variar conforme a luz ambiente.</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
   <string name="bssid_label">BSSID:</string>
-  <string name="bt_hci_snoop_log">Activar registo Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log">Activar registo de pesquisa Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Pesquisar todos os pacotes Bluetooth HCI num só ficheiro</string>
   <string name="bt_trace_log">Registo da pesquisa Bluetooth</string>
   <string name="bt_trace_log_summary">Registo da pesquisa Bluetooth</string>
@@ -667,9 +667,9 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas, dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN ou uma palavra-passe para o desencriptar. Será sempre necessário repetir o processo anterior cada vez que ligar o telefone. Não pode desencriptar o telefone excepto se executar um restauro de dados de fábrica para eliminar todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
-  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
-  <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
-  <string name="crypt_keeper_encrypt_summary">Requerer um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
+  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o bloqueio de ecrã antes de iniciar a encriptação.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Bloqueio de ercã sem código PIN ou palavra-passe</string>
+  <string name="crypt_keeper_encrypt_summary">Solicitar um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
   <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
@@ -732,7 +732,7 @@ Para escolher qual o tipo de informações a sincronizar dentro de cada conta, v
   <string name="data_usage_enable_mobile">Dados móveis</string>
   <string name="data_usage_label_background">Segundo plano</string>
   <string name="data_usage_label_foreground">Primeiro plano</string>
-  <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite especificado for atingido.
+  <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite definido for atingido.
 
 Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora poderá reportar valores diferentes, considere utilizar um limite restrito."</string>
   <string name="data_usage_limit_dialog_title">Limitar utilização de dados</string>
@@ -746,7 +746,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_menu_show_ethernet">Mostrar utilização de Ethernet</string>
   <string name="data_usage_menu_show_wifi">Mostrar utilização de Wi-Fi</string>
   <string name="data_usage_menu_split_4g">Separar utilização de 4G</string>
-  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas também podem avisar antes de utilizar estas redes para grandes transferências.</string>
+  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas aplicações podem igualmente notificar antes de utilizarem essas redes para fazerem grandes transferências.</string>
   <string name="data_usage_metered_mobile">Redes móveis</string>
   <string name="data_usage_metered_title">Pontos de acesso móveis</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
@@ -758,7 +758,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
 
 Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
-  <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis.</string>
+  <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já estiver definido um limite de dados móveis.</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;limite&lt;/font&gt;</string>
@@ -770,7 +770,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_tab_mobile">Móvel</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado.</string>
-  <string name="data_usage_total_during_range_mobile">%2$s: sobre %1$s utilizado, conforme medido pelo seu telefone. A medição de dados da sua operadora pode ser diferente.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: sobre %1$s utilizado, conforme medido pelo seu telefone. A medição de dados da sua operadora poderá ser diferente.</string>
   <string name="data_usage_uninstalled_apps">Aplicações removidas</string>
   <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
   <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
@@ -783,12 +783,12 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="date_time_auto">Data e horas automáticas</string>
   <string name="date_time_auto_summaryOff">Utilizar a hora fornecida pela rede</string>
   <string name="date_time_auto_summaryOn">Utilizar a hora fornecida pela rede</string>
-  <string name="date_time_date_format">Escolher formato de data</string>
+  <string name="date_time_date_format">Escolher formato da data</string>
   <string name="date_time_set_date">Definir data</string>
   <string name="date_time_set_time">Definir hora</string>
   <string name="date_time_set_timezone">Seleccionar fuso horário</string>
   <string name="date_time_settings">Data e hora</string>
-  <string name="debug_app">Seleccione a aplicação de depuração</string>
+  <string name="debug_app">Seleccionar aplicação de depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação de depuração definida</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
   <string name="debug_applications_category">Aplicações</string>
@@ -800,9 +800,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
   <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
-  <string name="debug_log">Programa de Experiência do utilizador</string>
+  <string name="debug_log">Programa de experiência do utilizador</string>
   <string name="debug_monitoring_category">A monitorizar</string>
-  <string name="debug_view_attributes">Activar os atributos de inspecção de visualização</string>
+  <string name="debug_view_attributes">Activar atributos de inspecção de visualização</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Escolher teclado predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
@@ -1242,7 +1242,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s e %2$s</string>
   <string name="keep_legacy_fingerprint">Manter</string>
-  <string name="keep_screen_on">Manter ligado</string>
+  <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="keep_screen_on_summary">O ecrã nunca entrará em inactividade enquanto estiver a carregar</string>
   <string name="kernel_version">Versão de kernel</string>
   <string name="key_settings">Botões</string>
@@ -1360,8 +1360,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_secure_after_timeout_immediately_summary">Bloquear imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
   <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
-  <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
-  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
+  <string name="lock_screen_unlock_show">Ignorar bloqueio de ecrã</string>
+  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial ou digitar uma palavra-passe para activar</string>
   <string name="lock_settings">Bloqueio do ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
@@ -1898,7 +1898,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="process_stats_max_ram_use">Utilização máxima da RAM</string>
   <string name="process_stats_memory_status">A memória do dispositivo está actualmente em %1$s</string>
   <string name="process_stats_run_time">Tempo decorrido</string>
-  <string name="process_stats_summary">Estatísticas Geeky sobre processos em execução</string>
+  <string name="process_stats_summary">Estatísticas detalhadas de processos em execução</string>
   <string name="process_stats_summary_title">Estatísticas de processos</string>
   <string name="process_stats_total_duration">%1$s aplicações de %2$s</string>
   <string name="process_stats_type_background">Segundo plano</string>
@@ -2597,8 +2597,8 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
   <string name="unlock_disable_lock_pin_summary">Remover PIN</string>
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
-  <string name="unlock_set_enter_system">Aceder directamente ao bloqueio do ecrã</string>
-  <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após ligar</string>
+  <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
+  <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após activar o ecrã</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo (experimental)</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
   <string name="unlock_set_unlock_disabled_summary">Desactivado pelo administrador</string>
@@ -2760,8 +2760,8 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verifique aplicações instaladas via ADB/ADT por um comportamento prejudicial</string>
-  <string name="verify_apps_over_usb_title">Verifique aplicações sobre USB</string>
+  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo nas aplicações instaladas via ADB/ADT</string>
+  <string name="verify_apps_over_usb_title">Verificar aplicações por USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
   <string name="vibrate_in_normal_title">Vibrar quando toca</string>
@@ -2904,9 +2904,9 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_advanced_mac_address_title">Endereço MAC</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Definições avançadas Wi-Fi</string>
-  <string name="wifi_aggressive_handover">Transferência do Wi-Fi para telefone</string>
-  <string name="wifi_aggressive_handover_summary">Quando activado o Wi-Fi será mais agressivo a entregar a conexão de dados para o dispositivo, quando a força do sinal Wi-Fi estiver em baixo</string>
-  <string name="wifi_allow_scan_with_traffic">Permitir sempre pesquisas do Wi-Fi</string>
+  <string name="wifi_aggressive_handover">Transferência agressiva do Wi-Fi para o telefone</string>
+  <string name="wifi_aggressive_handover_summary">Quando activado o Wi-Fi será mais agressivo a entregar a conexão de dados para o telefone quando a força do sinal do Wi-Fi estiver mais em baixo</string>
+  <string name="wifi_allow_scan_with_traffic">Permitir sempre verificações de roaming por Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/Proibir o Wi-Fi de verificar o acesso de dados com base na quantidade de tráfego presente na interface</string>
   <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o dispositivo fica impedido de verificar se o software está actualizado</string>
   <string name="wifi_api_test">Wi-Fi API</string>
@@ -3190,8 +3190,8 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_unchanged">(não alterado)</string>
   <string name="wifi_unspecified">(não especificado)</string>
   <string name="wifi_update">Actualizar estatísticas</string>
-  <string name="wifi_verbose_logging">Activar o registo de Wi-Fi Detalhado</string>
-  <string name="wifi_verbose_logging_summary">Tamanho do nível de registo do Wi-Fi. Visualizar separadamente por SSID RSSI no Wi-Fi</string>
+  <string name="wifi_verbose_logging">Activar registo extenso do Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Aumentar o tamanho do nível de registo do Wi-Fi. Visualizar separadamente por SSID RSSI no Wi-Fi</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Criar uma directoria</string>
