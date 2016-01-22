@@ -28,7 +28,7 @@ Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver mais que um utilizador a usar este atalho no bloqueio de ecrã, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de bloqueio, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -652,8 +652,8 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas, dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN ou uma palavra-passe para o desencriptar. Será sempre necessário repetir o processo anterior cada vez que ligar o telefone. Não pode desencriptar o telefone excepto se executar um restauro de dados de fábrica para eliminar todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
-  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o bloqueio de ecrã antes de iniciar a encriptação.</string>
-  <string name="crypt_keeper_dialog_need_password_title">Bloqueio de ercã sem código PIN ou palavra-passe</string>
+  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_summary">Solicitar um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
   <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
@@ -1314,9 +1314,9 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="lock_screen_secure_after_timeout_immediately_summary">Bloquear imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
   <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
-  <string name="lock_screen_unlock_show">Ignorar bloqueio de ecrã</string>
+  <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial ou digitar uma palavra-passe para activar</string>
-  <string name="lock_settings">Bloqueio do ecrã</string>
+  <string name="lock_settings">Bloqueio de ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
@@ -2666,7 +2666,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo nas aplicações instaladas via ADB/ADT</string>
+  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo das aplicações instaladas via ADB/ADT</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações por USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
