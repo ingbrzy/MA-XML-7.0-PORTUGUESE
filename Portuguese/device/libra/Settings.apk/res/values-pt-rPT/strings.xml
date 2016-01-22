@@ -608,7 +608,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="cmcc_hardware_version">Versão de hardware:</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
-  <string name="color_calibration_none">Nativo</string>
+  <string name="color_calibration_none">Natural</string>
   <string name="color_calibration_srgb">sRGB</string>
   <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
   <string name="color_cyan">Ciano</string>
@@ -625,7 +625,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="config_list_label">Definir redes</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
-  <string name="configure_input_method">Configurar modos de entrada</string>
+  <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_erase">Eliminar</string>
@@ -653,7 +653,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="credentials_old_password">Palavra-passe actual:</string>
   <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
   <string name="credentials_reset">Limpar credenciais</string>
-  <string name="credentials_reset_hint">Tem certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
+  <string name="credentials_reset_hint">Tem a certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
   <string name="credentials_reset_warning">Insira a palavra-passe. Tem mais uma tentativa para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
@@ -669,15 +669,15 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
-  <string name="crypt_keeper_encrypt_summary">Requerer um código PIN numérico ou uma palavra-passe para desencriptar o telefone de cada vez que o liga</string>
+  <string name="crypt_keeper_encrypt_summary">Requerer um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
   <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
-  <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
+  <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado os dados no telefone já não estão acessíveis.
 
-Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google."</string>
+Para continuar a utilizar o telefone deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro terá oportunidade de restaurar os dados através da sua conta do Google."</string>
   <string name="crypt_keeper_failed_title">Não foi encriptado</string>
-  <string name="crypt_keeper_final_desc">Deseja encriptar o telefone? Esta operação é irreversível e se a interromper, vai perder dados. A encriptação leva uma hora ou mais, durante a qual o telefone será reiniciado várias vezes.</string>
+  <string name="crypt_keeper_final_desc">Deseja encriptar o telefone? Esta operação é irreversível e se a interromper vai perder dados. A encriptação demora uma hora ou mais, durante a qual o telefone será reiniciado várias vezes.</string>
   <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente.</string>
   <string name="crypt_keeper_settings_title">Encriptação</string>
   <string name="crypt_keeper_setup_description">Aguarde enquanto o seu telefone está a ser encriptado. ^1% concluído.</string>
