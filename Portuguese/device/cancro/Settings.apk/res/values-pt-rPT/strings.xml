@@ -1944,6 +1944,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="quiet_group">Não incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
   <string name="quiet_mode">Silenciar todos os distúrbios</string>
+  <string name="quiet_no_interruptions_mode">Silenciar todos os distúrbios</string>
   <string name="quiet_off_mode">Permitir sempre distúrbios</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Ligado</string>
@@ -2679,6 +2680,15 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em utilização</string>
   <string name="usb_tethering_unavailable_subtext">USB não está ligado</string>
   <string name="usb_title">USB</string>
+  <string name="usb_use">Utilizar USB para</string>
+  <string name="usb_use_MIDI">MIDI</string>
+  <string name="usb_use_charging_only">Apenas carregamento</string>
+  <string name="usb_use_file_transfers">Transferir ficheiros (MTP)</string>
+  <string name="usb_use_photo_transfers">Transferir potos (PTP)</string>
+  <string name="use_default_tts_settings_summary">As predefinições abaixo substituem as definições da aplicação</string>
+  <string name="use_default_tts_settings_title">Utilizar sempre as minhas definições</string>
+  <string name="use_location_summary">Permitir que o Google utilize a sua localização para melhorar resultados de pesquisa e outros serviços</string>
+  <string name="use_location_title">Localização e pesquisa do Google</string>
   <string name="use_default_tts_settings_summary">As definições predefinidas em baixo substituem as definições da aplicação</string>
   <string name="use_default_tts_settings_title">Utilizar sempre as minhas definições</string>
   <string name="use_location_summary">Permitir que o Google utilize a sua localização para melhorar resultados de pesquisa e outros serviços</string>
