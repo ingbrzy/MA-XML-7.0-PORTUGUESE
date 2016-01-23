@@ -86,7 +86,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="datausage_purchase_title_order">Comprar dados</string>
   <string name="datausage_purchase_title_pkglist">Comprar dados</string>
   <string name="datausage_purchase_view_detail">Ver detalhes</string>
-  <string name="declaration_dialog_msg">Esta funcionalidade pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador.</string>
+  <string name="declaration_dialog_msg">Este recurso pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador.</string>
   <string name="deleted_apps">Aplicações Eliminadas</string>
   <string name="detail_app_button">Informação da aplicação</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis.</string>
@@ -360,7 +360,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_declare_dialog_message">"Ao utilizar este serviço, está a concordar com os &lt;a href=%s&gt; Termos do Serviço&lt;/a&gt; da Opera."</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para actualizar os seus dados e informações de utilização.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Este recurso necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora.</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para obter mais informação sobre as opções de compra de dados.</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
@@ -389,7 +389,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="saving_conflict_dialog_title">Atenção</string>
   <string name="saving_conflict_restrictbackground_msg">"Não é possível utilizar Economizador de Dados quando os dados em segundo plano estão restringidos. Permitir dados em segundo plano e ligar Economizador de Dados?"</string>
   <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à internet para funcionar normalmente.</string>
-  <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
+  <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar este recurso</string>
   <string name="see_detail">Detalhes</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
   <string name="settings">Definições de utilização de dados</string>

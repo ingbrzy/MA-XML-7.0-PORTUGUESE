@@ -882,7 +882,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_captureSecureVideoOutput">Permite à aplicação captar e redireccionar a saída de vídeo segura.</string>
   <string name="permdesc_captureVideoOutput">Permite à aplicação captar e redireccionar a saída de vídeo.</string>
   <string name="permdesc_changeBackgroundDataSetting">Permite à aplicação mudar a definição de utilização de dados em segundo plano.</string>
-  <string name="permdesc_changeComponentState">Permite que a aplicação mude a opção de activar ou não um componente de outra aplicação. As aplicações maliciosas podem utilizar isto para desactivar funcionalidades importantes do telefone. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
+  <string name="permdesc_changeComponentState">Permite que a aplicação mude a opção de activar ou não um componente de outra aplicação. As aplicações maliciosas podem utilizar isto para desactivar recursos importantes do telefone. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
   <string name="permdesc_changeConfiguration">Permite à aplicação alterar a configuração actual, como o local ou o tamanho global do tipo de letra.</string>
   <string name="permdesc_changeNetworkState">Permite que a aplicação altere o estado de conectividade da rede.</string>
   <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede ligada.</string>
@@ -918,7 +918,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanhos do histórico de dados da mesma</string>
   <string name="permdesc_getTasks">Permite que a aplicação recuperar informação sobre tarefas actuais ou recentes. Isso pode permitir que a aplicação descubra informações sobre quais aplicações são usadas ​​no dispositivo.</string>
   <string name="permdesc_getTopActivityInfo">Permite ao titular obter informações privadas sobre a aplicação actual em primeiro plano do ecrã.</string>
-  <string name="permdesc_grantRevokePermissions">Permite que uma aplicação conceda ou revogue permissões específicas para si própria ou para outras aplicações. As aplicações maliciosas podem utilizar isto para aceder a funcionalidades para as quais não têm permissão.</string>
+  <string name="permdesc_grantRevokePermissions">Permite que uma aplicação conceda ou revogue permissões específicas para si mesma ou para outras aplicações. As aplicações maliciosas podem utilizar isto para aceder a recursos para os quais não têm permissão.</string>
   <string name="permdesc_hardware_test">Permite à aplicação controlar vários periféricos para fins de teste de hardware.</string>
   <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas etc.) a outras aplicações. As aplicações maliciosas podem utilizar isto para controlar o telefone.</string>
   <string name="permdesc_installLocationProvider">Criar fontes de localização fictícias para fins de teste ou instalar um fornecedor de localização novo. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
@@ -946,7 +946,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_mediaStorageWrite">Permite que a aplicação modifique conteúdos do armazenamento interno.</string>
   <string name="permdesc_modifyAudioSettings">Permite que a aplicação modifique definições de áudio globais, tais como o volume e qual o altifalante utilizado para a saída de som.</string>
   <string name="permdesc_modifyNetworkAccounting">Permite à aplicação modificar a forma como o uso da rede é contabilizado contra outras aplicações. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_modifyPhoneState">Permite que a aplicação controle as funcionalidades de telefone do dispositivo. Uma aplicação com esta permissão pode alternar entre redes, ligar/desligar o rádio do telefone e outras coisas semelhantes sem sequer o notificar.</string>
+  <string name="permdesc_modifyPhoneState">Permite que a aplicação controle os recursos do telefone do dispositivo. Uma aplicação com esta permissão pode alternar entre redes, ligar/desligar o rádio do telefone e outras coisas semelhantes sem sequer notificar.</string>
   <string name="permdesc_mount_format_filesystems">Permite à aplicação formatar o armazenamento amovível.</string>
   <string name="permdesc_mount_unmount_filesystems">Permite à aplicação montar e desmontar sistemas de ficheiros para armazenamento amovível.</string>
   <string name="permdesc_movePackage">Permite que a aplicação mova recursos de aplicações de meios internos para meios externos e vice-versa.</string>
@@ -966,7 +966,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readInputState">Permite que a aplicação monitorize as teclas que o utilizador prime, mesmo ao interagir com outra aplicação, como por exemplo, ao introduzir uma palavra-passe. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais do que o utilizador faz no telefone, podendo inclusivé, incluir dados pessoais ou privados.</string>
   <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia utilização histórica da rede para redes e aplicações específicas.</string>
-  <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
+  <string name="permdesc_readPhoneState">Permite que a aplicação aceda aos recursos do telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
   <string name="permdesc_readProfile">Permite que a aplicação leia dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
   <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no telefone ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
   <string name="permdesc_readSocialStream">Permite que a aplicação aceda e sincronize actualizações de redes sociais suas e dos seus amigos. Tenha cuidado ao partilhar informações, pois esta acção permite que a aplicação leia comunicações entre si e os seus amigos nas redes sociais, independentemente do grau de confidencialidade. Nota: esta autorização pode não ser aplicada a todas as redes sociais.</string>
@@ -991,8 +991,8 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_sendRespondViaMessageRequest">Permite que a aplicação possa enviar solicitações para outras aplicações de mensagens para manipular a resposta através de eventos de mensagem para as chamadas recebidas.</string>
   <string name="permdesc_sendSms">Permite que a aplicação envie mensagens SMS. Isto pode resultar em custos inesperados. As aplicações maliciosas podem fazer com que incorra em custos, enviando mensagens sem a sua confirmação.</string>
   <string name="permdesc_serialPort">Permite ao titular aceder a portas de série através do Geestor Serial API.</string>
-  <string name="permdesc_setAlarm">Permite que a aplicação definir um alarme numa aplicação de despertador instalada. Algumas aplicações de despertador podem não integrar esta funcionalidade.</string>
-  <string name="permdesc_setAlwaysFinish">Permite que uma aplicação controle se as actividades são sempre terminadas assim que passam para segundo plano. Nunca é necessário para aplicações normais.</string>
+  <string name="permdesc_setAlarm">Permite que a aplicação defina um alarme numa aplicação de despertador instalada. Algumas aplicações de despertador podem não integrar este recurso.</string>
+  <string name="permdesc_setAlwaysFinish">Permite que uma aplicação controle se as actividades são sempre terminadas assim que passam para segundo plano. Nunca será necessário para aplicações normais.</string>
   <string name="permdesc_setAnimationScale">Permite que a aplicação altere a velocidade global da animação (animações mais rápidas ou mais lentas) em qualquer altura.</string>
   <string name="permdesc_setDebugApp">Permite que a aplicação active a depuração para outra aplicação. As aplicações maliciosas podem utilizar isto para eliminar outras aplicações.</string>
   <string name="permdesc_setKeyboardLayout">Permite que a aplicação altere o esquema de teclado. Nunca deverá ser necessário para aplicações normais.</string>
@@ -1026,7 +1026,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_wakeLock">Permite que uma aplicação impeça o telefone de entrar em modo de inactividade.</string>
   <string name="permdesc_writeApnSettings">Permite que a aplicação altere as definições de rede, intercepte e inspeccione todo o tráfego de rede, como por exemplo, mudar o proxy e a porta de qualquer APN. As aplicações maliciosas podem monitorizar, redireccionar ou modificar pacotes de rede sem o seu conhecimento.</string>
   <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que podem modificar o telefone, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
-  <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar esta funcionalidade para eliminar ou modificar o seu registo de chamadas.</string>
+  <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar este recurso para eliminar ou modificar o seu registo de chamadas.</string>
   <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que as aplicações eliminem dados de contactos.</string>
   <string name="permdesc_writeDictionary">Permite à aplicação escrever novas palavras no dicionário do utilizador.</string>
   <string name="permdesc_writeGeolocationPermissions">Permite que a aplicação modifique as permissões de geolocalização do navegador. As aplicações maliciosas podem utilizar isto para permitir o envio de informações de localização para Web sites arbitrárias.</string>
@@ -1360,7 +1360,7 @@ Tentativas restantes :"</string>
   <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorrectas introduzidas ao desbloquear o ecrã e bloquear o telefone ou eliminar todos os dados do telefone caso tenham sido introduzidas demasiadas palavras-passe.</string>
   <string name="policydesc_wipeData">Eliminar os dados do telefone sem avisar através da reposição dos dados de fábrica.</string>
   <string name="policylab_disableCamera">Desactivar as câmaras</string>
-  <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>
+  <string name="policylab_disableKeyguardFeatures">Desactivar recursos na protecção do teclado</string>
   <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>
   <string name="policylab_expirePassword">Definir validação da palavra-passe do bloqueio do ecrã</string>
   <string name="policylab_forceLock">Bloquear o ecrã</string>
@@ -1686,7 +1686,7 @@ Pretende fechar?"</string>
   <string name="webviewchromium_media_player_loading_video">A carregar vídeo</string>
   <string name="webviewchromium_month_picker_dialog_title">Definir mês</string>
   <string name="webviewchromium_opening_file_error">Erro ao abrir o ficheiro seleccionado</string>
-  <string name="webviewchromium_private_browsing_warning">Esta funcionalidade não é suportada nesta versão do Android.</string>
+  <string name="webviewchromium_private_browsing_warning">Este recurso não é suportado nesta versão do Android.</string>
   <string name="webviewchromium_profiler_error_toast">Erro ao iniciar o perfil</string>
   <string name="webviewchromium_profiler_no_storage_toast">Não é possível iniciar o criador de perfil porque o armazenamento externo não está preparado</string>
   <string name="webviewchromium_profiler_started_toast">O criador de perfil começou</string>
@@ -1699,7 +1699,7 @@ Pretende fechar?"</string>
   <string name="webviewchromium_time_picker_dialog_title">Definir a hora</string>
   <string name="webviewchromium_week_picker_dialog_title">Definir semana</string>
   <string name="week">Semana</string>
-  <string name="weeks">semanas</string>
+  <string name="weeks">Semanas</string>
   <string name="whichApplication">Concluir acção utilizando</string>
   <string name="whichHomeApplication">Seleccionar uma aplicação para página inicial</string>
   <string name="widget_default_class_name"/>
