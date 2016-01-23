@@ -19,7 +19,7 @@
   <string name="access_control_recording_intro_header">Desenhe um padrão de bloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade está em testes e pode afectar o desempenho.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso está em testes e pode afectar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Em testes) Pode afectar o desempenho</string>
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
@@ -2075,7 +2075,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço algumas funcionalidades não irão funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, alguns recursos vão deixar de funcionar correctamente até reiniciar o telefone.</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>

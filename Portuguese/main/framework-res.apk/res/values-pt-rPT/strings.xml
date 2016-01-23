@@ -33,7 +33,7 @@
   <string name="SetupCallDefault">Aceitar chamada?</string>
   <string name="ThreeWCMmi">Chamada de conferência entre três interlocutores</string>
   <string name="VideoView_error_button">OK</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido e não pode ser reproduzido neste dispositivo.</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido e não poderá ser reproduzido neste dispositivo.</string>
   <string name="VideoView_error_text_unknown">Não é possível reproduzir este vídeo.</string>
   <string name="VideoView_error_title">Problema com o vídeo</string>
   <string name="accept">Aceitar</string>
@@ -334,15 +334,15 @@ utilizando %s"</string>
   <string name="emptyPhoneNumber">(Nenhum número de telefone)</string>
   <string name="enablePin">Código incorrecto. Cartão SIM bloqueado.</string>
   <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
-  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar a funcionalidade Explorar Através do Toque. Quando a funcionalidade Explorar Através do Toque estiver activada, pode ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone.</string>
-  <string name="enable_explore_by_touch_warning_title">Activar Explorar Através do Toque?</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar o recurso explorar através do toque. Quando o recurso explorar através do toque estiver activado, poderá ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone.</string>
+  <string name="enable_explore_by_touch_warning_title">Activar explorar através do toque?</string>
   <string name="error_message_title">Erro</string>
   <string name="eventTypeAnniversary">Aniversário</string>
   <string name="eventTypeBirthday">Data de nascimento</string>
   <string name="eventTypeCustom">Personalizado</string>
   <string name="eventTypeOther">Outro</string>
   <string name="expires_on">Expira em:</string>
-  <string name="ext_media_badremoval_notification_message">Desmonte o armazenamento USB antes de removê-lo para evitar a perda de dados.</string>
+  <string name="ext_media_badremoval_notification_message">Desmonte o armazenamento USB antes de o remover para evitar a perda de dados.</string>
   <string name="ext_media_badremoval_notification_title">Armazenamento USB removido inesperadamente</string>
   <string name="ext_media_checking_notification_message">A verificar a presença de erros.</string>
   <string name="ext_media_checking_notification_title">A preparar o armazenamento USB</string>
@@ -365,8 +365,8 @@ utilizando %s"</string>
   <string name="factorytest_reboot">Reiniciar</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fcComplete">Código de funcionalidade completo.</string>
-  <string name="fcError">Problema de ligação ou código de funcionalidade inválida.</string>
+  <string name="fcComplete">Código de recurso completo.</string>
+  <string name="fcError">Problema de ligação ou código de recurso inválido.</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="find">Localizar</string>
   <string name="find_next">Localizar o próximo</string>
@@ -832,8 +832,8 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accessMtp">Permite o acesso ao controlador MTP de kernel para implementar o protocolo MTP USB.</string>
   <string name="permdesc_accessNetworkConditions">Permite que uma aplicação possa monitorizar e observar as condições da rede. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_accessNetworkState">Permite que a aplicação monitorize informações acerca das ligações de rede, como por exemplo, que redes existem e estão ligadas.</string>
-  <string name="permdesc_accessNotifications">Permite à aplicação recuperar, examinar e com notificações claras, incluindo os trabalhadores destacados por outras aplicações.</string>
-  <string name="permdesc_accessSurfaceFlinger">Permite à aplicação utilizar funcionalidades do Deflector de Superficie de nível inferior.</string>
+  <string name="permdesc_accessNotifications">Permite à aplicação recuperar e examinar com notificações claras, incluindo os processos destacados por outras aplicações.</string>
+  <string name="permdesc_accessSurfaceFlinger">Permite à aplicação utilizar recursos do deflector de superficie de nível inferior.</string>
   <string name="permdesc_accessWifiState">Permite que a aplicação monitorize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
   <string name="permdesc_accessWimaxState">Permite que a aplicação determine se o WiMAX está activado e aceda a informações acerca de qualquer rede WiMAX que esteja ligada.</string>
   <string name="permdesc_access_keyguard_secure_storage">Permite que uma aplicação aceda ao armazenamento seguro da protecção do teclado.</string>
@@ -847,7 +847,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_asec_rename">Permite à aplicação mudar o nome do armazenamento interno.</string>
   <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize os recursos de autenticador de conta e gestor de conta, incluindo a criação de contas, obtenção e definição das respectivas palavras-passe.</string>
   <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de cópia de segurança e de restauro do sistema. Não se destina a utilização por aplicações normais.</string>
-  <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas colectadas da bateria. Não deve ser utilizado em aplicações normais.</string>
+  <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas registadas da bateria. Não deverá ser utilizado em aplicações normais.</string>
   <string name="permdesc_bindAccessibilityService">Permite ao titular vincular-se à interface de nível superior de um serviço de acessibilidade. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindDeviceAdmin">Permite ao titular enviar intenções para um administrador do dispositivo. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindGadget">Permite que a aplicação informe o sistema acerca dos widgets que podem ser utilizados com cada aplicação. Com esta autorização, algumas aplicações podem conceder acesso a dados pessoais a outras aplicações. Não se destina a utilização por aplicações normais.</string>
@@ -1048,7 +1048,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_calendar">Acesso directo ao calendário e eventos.</string>
   <string name="permgroupdesc_camera">Acesso directo à câmara para a imagem ou gravação de vídeo.</string>
   <string name="permgroupdesc_costMoney">Efectuar acções que implicam pagamento.</string>
-  <string name="permgroupdesc_developmentTools">Funcionalidades apenas necessárias para desenvolvedores de aplicações.</string>
+  <string name="permgroupdesc_developmentTools">Recursos apenas necessários para programadores de aplicações.</string>
   <string name="permgroupdesc_deviceAlarms">Definir o alarme.</string>
   <string name="permgroupdesc_dictionary">Leia as palavras no dicionário do utilizador.</string>
   <string name="permgroupdesc_display">Efeito da UI de outras aplicações.</string>
@@ -1430,7 +1430,7 @@ Tentativas restantes :"</string>
   <string name="ringtone_unknown">Toque desconhecido</string>
   <string name="roamingText0">Indicador de Roaming activado</string>
   <string name="roamingText1">Indicador de Roaming desactivado</string>
-  <string name="roamingText10">Roaming - Funcionalidade de Serviço Parcial</string>
+  <string name="roamingText10">Roaming - Recurso de serviço parcial</string>
   <string name="roamingText11">Faixa de Roaming activada</string>
   <string name="roamingText12">Faixa de Roaming desactivada</string>
   <string name="roamingText2">Indicador de Roaming intermitente</string>
@@ -1440,7 +1440,7 @@ Tentativas restantes :"</string>
   <string name="roamingText6">Roaming - Sistema disponível</string>
   <string name="roamingText7">Roaming - Parceiro do Alliance</string>
   <string name="roamingText8">Roaming - Parceiro do Google Premium</string>
-  <string name="roamingText9">Roaming - Funcionalidade de Serviço Total</string>
+  <string name="roamingText9">Roaming - Recurso de serviço total</string>
   <string name="roamingTextSearching">A localizar Serviço</string>
   <string name="safeMode">Modo Seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
