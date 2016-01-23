@@ -964,13 +964,13 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readFrameBuffer">Permite à aplicação ler o conteúdo da memória intermédia de fotogramas.</string>
   <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os sites visitados pelo Navegador e todos os marcadores do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
   <string name="permdesc_readInputState">Permite que a aplicação monitorize as teclas que o utilizador prime, mesmo ao interagir com outra aplicação, como por exemplo, ao introduzir uma palavra-passe. Nunca deverá ser necessário para aplicações normais.</string>
-  <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais sobre a forma como o utilizador utiliza o telefone, podendo, inclusivé, incluir dados pessoais ou privados.</string>
+  <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais do que o utilizador faz no telefone, podendo inclusivé, incluir dados pessoais ou privados.</string>
   <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia utilização histórica da rede para redes e aplicações específicas.</string>
   <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
   <string name="permdesc_readProfile">Permite que a aplicação leia dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
   <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no telefone ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
   <string name="permdesc_readSocialStream">Permite que a aplicação aceda e sincronize actualizações de redes sociais suas e dos seus amigos. Tenha cuidado ao partilhar informações, pois esta acção permite que a aplicação leia comunicações entre si e os seus amigos nas redes sociais, independentemente do grau de confidencialidade. Nota: esta autorização pode não ser aplicada a todas as redes sociais.</string>
-  <string name="permdesc_readSyncSettings">Permite que a aplicação leia as definições de sincronização de uma conta. Por exemplo, pode determinar se a aplicação Pessoas está sincronizada com uma conta.</string>
+  <string name="permdesc_readSyncSettings">Permite que a aplicação leia as definições de sincronização de uma conta. Por exemplo, pode determinar se a aplicação pessoas está sincronizada com uma conta.</string>
   <string name="permdesc_readSyncStats">Permite que uma aplicação leia o estado de sincronização de uma conta, incluindo o histórico de eventos de sincronização e a quantidade de dados sincronizados.</string>
   <string name="permdesc_reboot">Permite que a aplicação force o reinício do telefone.</string>
   <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente logo após o reinício do sistema. Isto pode atrasar o arranque do telefone e permitir à aplicação abrandar todo o funcionamento do telefone, uma vez que está em constante execução.</string>
@@ -1018,7 +1018,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_transmitIr">Permite que a aplicação utilize o transmissor infravermelho do telefone.</string>
   <string name="permdesc_uninstall_shortcut">Permite que a aplicação remova atalhos da Página inicial, sem a intervenção do usuário.</string>
   <string name="permdesc_updateAppOpsStats">Permite à aplicação modificar as estatísticas colectadas de funcionamento da aplicação. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas colectadas da bateria. Não deve ser utilizado por aplicações normais.</string>
+  <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas registadas da bateria. Não deverá ser utilizado por aplicações normais.</string>
   <string name="permdesc_updateLock">Permite ao titular disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para actualização do aparelho.</string>
   <string name="permdesc_useCredentials">Permite que a aplicação solicite tokens de autenticação.</string>
   <string name="permdesc_use_sip">Permite que uma aplicação utilize o serviço SIP para fazer e receber chamadas pela internet</string>
@@ -1033,7 +1033,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_writeGservices">Permite que a aplicação modifique o mapa de serviços do Google. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do Navegador ou marcadores guardados no telefone. Isto pode permitir que a aplicação elimine ou modifique dados do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
   <string name="permdesc_writeProfile">Permite que a aplicação altere ou adicione dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
-  <string name="permdesc_writeSecureSettings">Permite que uma aplicação modifique os dados de definições seguras do sistema. Não deve ser utilizado por aplicações normais.</string>
+  <string name="permdesc_writeSecureSettings">Permite que uma aplicação modifique os dados das definições seguras do sistema. Não deverá ser utilizado por aplicações normais.</string>
   <string name="permdesc_writeSettings">Permite à aplicação modificar os dados das definições de sistema. As aplicações maliciosas podem corromper a configuração do seu sistema.</string>
   <string name="permdesc_writeSms">Permite que a aplicação escreva mensagens SMS armazenadas no telefone ou no cartão SIM. As aplicações maliciosas podem eliminar as suas mensagens.</string>
   <string name="permdesc_writeSocialStream">Permite que a aplicação apresente actualizações de redes sociais de amigos. Tenha cuidado ao partilhar informações, pois esta acção permite que a aplicação produza mensagens que podem parecer ser enviadas por um amigo. Nota: esta autorização pode não ser aplicada a todas as redes sociais.</string>
@@ -1181,7 +1181,7 @@ para a conta %s."</string>
   <string name="permlab_createNetworkSockets">Acesso total à rede</string>
   <string name="permlab_deleteCacheFiles">Eliminar o histórico de dados de outras aplicações</string>
   <string name="permlab_deletePackages">Eliminar aplicações</string>
-  <string name="permlab_devicePower">Ligar ou desligar o telefone</string>
+  <string name="permlab_devicePower">Ligar/desligar telefone</string>
   <string name="permlab_diagnostic">Ler/escrever em recursos das propriedades de diagnóstico</string>
   <string name="permlab_disableKeyguard">Desactivar o bloqueio do ecrã</string>
   <string name="permlab_dump">Obter o estado interno do sistema</string>
@@ -1247,7 +1247,7 @@ para a conta %s."</string>
   <string name="permlab_readFrameBuffer">Ler memória intermédia de fotogramas</string>
   <string name="permlab_readHistoryBookmarks">Ler os marcadores da Web e o histórico</string>
   <string name="permlab_readInputState">Gravar o que utilizador escreve e as acções que efectua</string>
-  <string name="permlab_readLogs">Ler dados sensíveis de registo</string>
+  <string name="permlab_readLogs">Ler dados sensíveis do registo</string>
   <string name="permlab_readNetworkUsageHistory">Ler utilização histórica da rede</string>
   <string name="permlab_readPhoneState">Ler o estado e a identidade do telefone</string>
   <string name="permlab_readProfile">Ler o próprio cartão de contacto</string>
