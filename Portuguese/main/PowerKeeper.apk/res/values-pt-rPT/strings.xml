@@ -31,7 +31,7 @@
   <string name="full_screen_enter">Entrar no modo ecrã inteiro</string>
   <string name="full_screen_exit">Sair do modo ecrã inteiro</string>
   <string name="hide_mode">Gerir utilização da bateria pelas aplicações</string>
-  <string name="hide_mode_desc">"Quando uma aplicação executa em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Tais como: a ligação à rede, serviços de localização, rádio, etc. Estas actividades podem ser afectadas por esta funcionalidade. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação em particular se comportar de forma anormal enquanto executa em segundo plano, pode personalizar as definições da aplicação."</string>
+  <string name="hide_mode_desc">"Quando uma aplicação executa em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização da bateria. Exemplos: ligação à rede, serviços de localização, rádio, etc. Estas actividades podem ser afectadas por este recurso. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação em particular se comportar de uma forma estranha enquanto executa em segundo plano, poderá personalizar as definições da aplicação."</string>
   <string name="hide_mode_desc_title">Gerir utilização da bateria pelas aplicações</string>
   <string name="high">Desempenho</string>
   <string name="hints_loading_text">Aguarde um seg…</string>
