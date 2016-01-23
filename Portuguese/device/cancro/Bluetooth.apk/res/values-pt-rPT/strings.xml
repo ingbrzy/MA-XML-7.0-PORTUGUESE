@@ -31,7 +31,7 @@
   <string name="bluetooth_preference_scan_title">Pesquisar por dispositivos</string>
   <string name="bluetooth_sap_notif_disconnect_button">Desligar</string>
   <string name="bluetooth_sap_notif_disconnecting">A aguardar que o cliente desligue</string>
-  <string name="bluetooth_sap_notif_force_disconnect_button">Forçar desligamento</string>
+  <string name="bluetooth_sap_notif_force_disconnect_button">Forçar encerramento</string>
   <string name="bluetooth_sap_notif_message">Pedir ao cliente para desligar?</string>
   <string name="bluetooth_sap_notif_ticker">Acesso Bluetooth ao SIM</string>
   <string name="bluetooth_sap_notif_title">Acesso Bluetooth ao SIM</string>
@@ -136,7 +136,7 @@
   <string name="pbap_authentication_timeout_message">Expirou o tempo para a introdução da chave de sessão com %1$s</string>
   <string name="pbap_session_key_dialog_header">Necessário chave da sessão Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Introduzir a chave da sessão para %1$s</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Allows the app to access the BluetoothAvrcpData manager and use it to display on UI.</string>
+  <string name="permdesc_bluetoothAvrcpDataManager">Permite que a aplicação aceda ao gestor de dados AVCRP Bluetooth e utilize-o para mostrar na UI.</string>
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha Bluetooth e o utilize para transferir ficheiros.</string>
   <string name="permdesc_bluetoothWhitelist">Permite que a aplicação adicione temporariamente um dispositivo Bluetooth às excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Aceder aos meta-dados AVRCP.</string>
@@ -154,7 +154,7 @@
   <string name="status_forbidden">Transferência não permitida pelo dispositivo de destino.</string>
   <string name="status_no_sd_card">Sem armazenamento USB.</string>
   <string name="status_not_accept">O conteúdo não é suportado.</string>
-  <string name="status_pending">Transferência de ficheiro ainda não iníciou.</string>
+  <string name="status_pending">Transferência de ficheiro ainda não iniciou.</string>
   <string name="status_protocol_error">O pedido não foi tratado correctamente.</string>
   <string name="status_running">A transferir.</string>
   <string name="status_success">Transferência concluída.</string>
