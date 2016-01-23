@@ -831,7 +831,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accessMockLocation">Criar fontes de localização fictícias para fins de teste ou instalar um novo fornecedor de localização. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
   <string name="permdesc_accessMtp">Permite o acesso ao controlador MTP de kernel para implementar o protocolo MTP USB.</string>
   <string name="permdesc_accessNetworkConditions">Permite que uma aplicação possa escutar as observações sobre as condições da rede. Nunca deve ser necessário para aplicações normais.</string>
-  <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede como, por exemplo, que redes que existem e estão ligadas.</string>
+  <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede, como por exemplo, que redes existem e estão ligadas.</string>
   <string name="permdesc_accessNotifications">Permite à aplicação recuperar, examinar e com notificações claras, incluindo os trabalhadores destacados por outras aplicações.</string>
   <string name="permdesc_accessSurfaceFlinger">Permite à aplicação utilizar funcionalidades do Deflector de Superficie de nível inferior.</string>
   <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
@@ -943,7 +943,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_markNetworkSocket">Permite que a aplicação modifique o socket de rede para encaminhamento</string>
   <string name="permdesc_masterClear">Permite que a aplicação reponha totalmente as definições de fábrica do sistema, eliminando todos os dados, configurações e aplicações instaladas.</string>
   <string name="permdesc_mediaContentControl">Permite à aplicação controlar a reprodução de media e aceder às informações de media (título, autor ...).</string>
-  <string name="permdesc_mediaStorageWrite">Permite que a aplicação modifique o conteúdo de armazenamento de suportes internos.</string>
+  <string name="permdesc_mediaStorageWrite">Permite que a aplicação modifique conteúdos do armazenamento interno.</string>
   <string name="permdesc_modifyAudioSettings">Permite que a aplicação modifique definições de áudio globais, tais como o volume e qual o altifalante utilizado para a saída de som.</string>
   <string name="permdesc_modifyNetworkAccounting">Permite à aplicação modificar a forma como o uso da rede é contabilizado contra outras aplicações. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_modifyPhoneState">Permite que a aplicação controle as funcionalidades de telefone do dispositivo. Uma aplicação com esta permissão pode alternar entre redes, ligar/desligar o rádio do telefone e outras coisas semelhantes sem sequer o notificar.</string>
@@ -1226,7 +1226,7 @@ para a conta %s."</string>
   <string name="permlab_markNetworkSocket">Modificar socket de rede</string>
   <string name="permlab_masterClear">Repor definições de fábrica do sistema</string>
   <string name="permlab_mediaContentControl">Reprodução de media de controlo e acesso de metadados</string>
-  <string name="permlab_mediaStorageWrite">Modificar/eliminar conteúdo do armazenamento interno</string>
+  <string name="permlab_mediaStorageWrite">Modificar/eliminar conteúdos do armazenamento interno</string>
   <string name="permlab_modifyAudioSettings">Alterar as suas definições de áudio</string>
   <string name="permlab_modifyNetworkAccounting">Modificar contabilização da utilização da rede</string>
   <string name="permlab_modifyPhoneState">Modificar estado do telefone</string>
@@ -1271,7 +1271,7 @@ para a conta %s."</string>
   <string name="permlab_runSetActivityWatcher">Monitorizar e controlar a iniciação de todas as aplicações</string>
   <string name="permlab_sdcardAccessAll">Acesso de armazenamento externo de todos os utilizadores</string>
   <string name="permlab_sdcardRead">Ler os conteúdos do cartão SD</string>
-  <string name="permlab_sdcardWrite">Modificar ou eliminar os conteúdos do cartão SD</string>
+  <string name="permlab_sdcardWrite">Modificar/eliminar conteúdos do cartão SD</string>
   <string name="permlab_sendRespondViaMessageRequest">Enviar resposta via eventos de mensagem</string>
   <string name="permlab_sendSms">Enviar mensagens SMS</string>
   <string name="permlab_serialPort">Aceder a portas série</string>

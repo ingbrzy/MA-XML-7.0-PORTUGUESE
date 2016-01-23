@@ -24,7 +24,7 @@
   <string name="accessibility_feature_state_on">Activado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando este recurso está ligado pode activar rapidamente os recursos de acessibilidade em dois passos:
 
-Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
+Passo 1: Toque e segure o botão ligar/desligar até ouvir um som ou sentir uma vibração.
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
@@ -35,7 +35,7 @@ Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de blo
   <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
   <string name="accessibility_menu_item_settings">Definições</string>
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Botão Ligar/Desligar termina chamada</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Botão ligar/desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_summary">"Quando este recurso está activo pode aumentar ou diminuir o zoom por triplo toque no ecrã.
 
@@ -846,7 +846,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dirac_mode_piston_youth">Mi Piston-Jovem</string>
   <string name="disable_overlays">Desactivar sobreposições HW</string>
   <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
-  <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão Ligar/Desligar</string>
+  <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão ligar/desligar</string>
   <string name="disable_service_message">Premir OK para parar %1$s.</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
@@ -1371,7 +1371,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Ligar/Desligar bloqueia o ecrã</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão ligar/desligar bloqueia o ecrã</string>
   <string name="lockpattern_settings_enable_summary">Deve desenhar um padrão para desbloquear o ecrã</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao tocar</string>
   <string name="lockpattern_settings_enable_title">Necessário padrão</string>
