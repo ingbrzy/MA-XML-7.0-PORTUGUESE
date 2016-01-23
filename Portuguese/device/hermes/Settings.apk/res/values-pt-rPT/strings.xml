@@ -19,7 +19,7 @@
   <string name="access_control_recording_intro_header">Desenhe um padrão de bloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade está em testes e pode afectar o desempenho.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso está em testes e pode afectar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Em testes) Pode afectar o desempenho</string>
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
@@ -29,18 +29,18 @@
   <string name="accessibility_feature_state_on">Activado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando este recurso está ligado pode activar rapidamente os recursos de acessibilidade em dois passos:
 
-Passo 1: Toque e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
+Passo 1: Toque e segure o botão ligar/desligar até ouvir um som ou sentir uma vibração.
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver mais que um utilizador a usar este atalho no bloqueio de ecrã, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de bloqueio, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
   <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
   <string name="accessibility_menu_item_settings">Definições</string>
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
-  <string name="accessibility_power_button_ends_call_prerefence_title">Botão Ligar/Desligar termina chamada</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Botão ligar/desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_summary">"Quando este recurso está activo pode aumentar ou diminuir o zoom por triplo toque no ecrã.
 
@@ -667,8 +667,8 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas, dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN ou uma palavra-passe para o desencriptar. Será sempre necessário repetir o processo anterior cada vez que ligar o telefone. Não pode desencriptar o telefone excepto se executar um restauro de dados de fábrica para eliminar todos os seus dados.
 
 Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
-  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o bloqueio de ecrã antes de iniciar a encriptação.</string>
-  <string name="crypt_keeper_dialog_need_password_title">Bloqueio de ercã sem código PIN ou palavra-passe</string>
+  <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
+  <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_summary">Solicitar um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
   <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
@@ -868,9 +868,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dirac_mode_piston_100">Auriculares Mi</string>
   <string name="dirac_mode_piston_2">Mi Piston-2</string>
   <string name="dirac_mode_piston_youth">Mi Piston-Jovem</string>
-  <string name="disable_overlays">Desactivar HW overlays</string>
+  <string name="disable_overlays">Desactivar sobreposições HW</string>
   <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
-  <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão Ligar/Desligar</string>
+  <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão ligar/desligar</string>
   <string name="disable_service_message">Premir OK para parar %1$s.</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
@@ -1032,9 +1032,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="error_title"/>
   <string name="every_day">Todos os dias</string>
   <string name="experience_optimization_category">Optimização</string>
-  <string name="experimental_preference">(Em testes)</string>
+  <string name="experimental_preference">(em testes)</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
-  <string name="external_data_size_label">Dados no armazenamento USB</string>
+  <string name="external_data_size_label">Dados no cartão SD</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Falha na verificação do estado de localização do dispositivo. Espere um momento e tente novamente.</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de localização do dispositivo</string>
@@ -1360,9 +1360,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_secure_after_timeout_immediately_summary">Bloquear imediatamente</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
   <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
-  <string name="lock_screen_unlock_show">Ignorar bloqueio de ecrã</string>
+  <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial ou digitar uma palavra-passe para activar</string>
-  <string name="lock_settings">Bloqueio do ecrã</string>
+  <string name="lock_settings">Bloqueio de ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
@@ -1417,7 +1417,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
   <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão Ligar/Desligar bloqueia o ecrã</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Botão ligar/desligar bloqueia o ecrã</string>
   <string name="lockpattern_settings_enable_summary">Deve desenhar um padrão para desbloquear o ecrã</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar ao tocar</string>
   <string name="lockpattern_settings_enable_title">Necessário padrão</string>
@@ -1676,7 +1676,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="normal_smartcover_title">Capa com frente opaca</string>
   <string name="not_installed">Não instalado</string>
-  <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
+  <string name="notification_breathing_light_color_title">Cor do LED nas notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Activar %1$s?</string>
@@ -1821,11 +1821,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
   <string name="pref_button_light_summary">Ligar luz dos botões menu, início e voltar</string>
-  <string name="pref_edge_handgrip">Controlos de rebordo</string>
-  <string name="pref_operational_key">Botões de Navegação</string>
-  <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
-  <string name="pref_volume_wake_title">Botões de volume</string>
-  <string name="preference_change_password_title">Alterar a palavra-passe</string>
+  <string name="pref_edge_handgrip">Definições gestuais</string>
+  <string name="pref_operational_key">Botões de navegação</string>
+  <string name="pref_volume_wake_summary">Activar os botões do volume para acordar o dispositivo</string>
+  <string name="pref_volume_wake_title">Botões do volume</string>
+  <string name="preference_change_password_title">Alterar palavra-passe</string>
   <string name="preferred_app_settings">Predefinidas</string>
   <string name="preferred_app_settings_default">Predefinida</string>
   <string name="preferred_app_settings_reset">Redefinir predefinições</string>
@@ -2075,7 +2075,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço algumas funcionalidades não irão funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, alguns recursos vão deixar de funcionar correctamente até reiniciar o telefone.</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2141,7 +2141,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Apagar cartão SD</string>
-  <string name="sd_format_summary">Elimina todos os dados do cartão SD como música e fotos</string>
+  <string name="sd_format_summary">Elimina todos os dados do cartão SD, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
@@ -2760,7 +2760,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo nas aplicações instaladas via ADB/ADT</string>
+  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo das aplicações instaladas via ADB/ADT</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações por USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
@@ -2905,7 +2905,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
   <string name="wifi_advanced_titlebar">Definições avançadas Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transferência agressiva do Wi-Fi para o telefone</string>
-  <string name="wifi_aggressive_handover_summary">Quando activado o Wi-Fi será mais agressivo a entregar a conexão de dados para o telefone quando a força do sinal do Wi-Fi estiver mais em baixo</string>
+  <string name="wifi_aggressive_handover_summary">Quando activado, o Wi-Fi será mais agressivo a entregar a conexão de dados para o telefone quando a força do sinal do Wi-Fi estiver mais em baixo</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre verificações de roaming por Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/Proibir o Wi-Fi de verificar o acesso de dados com base na quantidade de tráfego presente na interface</string>
   <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o dispositivo fica impedido de verificar se o software está actualizado</string>

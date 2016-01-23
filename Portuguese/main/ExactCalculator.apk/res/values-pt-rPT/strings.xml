@@ -30,7 +30,7 @@
   <string name="desc_mode_rad">modo de radianos</string>
   <string name="desc_op_add">mais</string>
   <string name="desc_op_div">dividir</string>
-  <string name="desc_op_fact">fatorial</string>
+  <string name="desc_op_fact">factorial</string>
   <string name="desc_op_mul">multiplicar</string>
   <string name="desc_op_pct">percentagem</string>
   <string name="desc_op_pow">expoente</string>
@@ -49,10 +49,10 @@
   <string name="exact">(exacto)</string>
   <string name="menu_fraction">Responder como fração</string>
   <string name="menu_leading">Responder com dígitos iniciais</string>
-  <string name="menu_licenses">Licensas código aberto</string>
+  <string name="menu_licenses">Licenças open source</string>
   <string name="mode_deg">deg</string>
   <string name="mode_rad">rad</string>
-  <string name="ok_remove_timeout">Utilizar tempos limite maiores</string>
+  <string name="ok_remove_timeout">Utilizar tempo limite maior</string>
   <string name="text_copied_toast">Texto copiado</string>
   <string name="timeout">Tempo limite excedido. O valor pode ser infinito ou indefinido.</string>
 </resources>

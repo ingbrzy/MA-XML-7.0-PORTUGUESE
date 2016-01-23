@@ -140,13 +140,13 @@
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha Bluetooth e o utilize para transferir ficheiros.</string>
   <string name="permdesc_bluetoothWhitelist">Permite que a aplicação adicione temporariamente um dispositivo Bluetooth às excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador.</string>
   <string name="permlab_bluetoothAvrcpDataManager">Aceder aos meta-dados AVRCP.</string>
-  <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências.</string>
+  <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
   <string name="process"/>
   <string name="progress_scanning">A pesquisar</string>
-  <string name="reset_function_msg">Redefinir a funcionalidade pode prevenir %1$s de funcionar normalmente.</string>
+  <string name="reset_function_msg">Redefinir este recurso pode prevenir %1$s de funcionar normalmente.</string>
   <string name="sharedUserId"/>
-  <string name="some_app_taking">(%1$s já está a utilizar esta funcionalidade)</string>
+  <string name="some_app_taking">(%1$s já está a utilizar este recurso)</string>
   <string name="start_server">Iniciar servidor TCP</string>
   <string name="status_canceled">Transferência cancelada pelo utilizador.</string>
   <string name="status_connection_error">Ligado sem sucesso.</string>

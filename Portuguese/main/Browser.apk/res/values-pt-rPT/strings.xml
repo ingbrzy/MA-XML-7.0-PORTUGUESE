@@ -515,7 +515,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="pref_volume_key_action">Botões do volume: Página anterior/seguinte</string>
   <string name="pref_weather_location_summary">"Utilizado pelo plug-in do tempo do navegador"</string>
   <string name="pref_weather_location_title">Localização do tempo</string>
-  <string name="private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
+  <string name="private_browsing_warning">Este recurso não é suportado por esta versão do Android.</string>
   <string name="profiler_error_toast">Erro ao iniciar o vídeo</string>
   <string name="profiler_no_storage_toast">Não é possível iniciar o vídeo porque o armazenamento externo não está pronto</string>
   <string name="profiler_started_toast">O vídeo iniciou</string>
@@ -741,6 +741,6 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="webpage_history_title">Histórico</string>
   <string name="webpage_title">Marcadores e Histórico</string>
   <string name="webview_find_on_page">Pesquisar na página</string>
-  <string name="webviewchromium_private_browsing_warning">Esta funcionalidade não é suportada por esta versão do Android.</string>
+  <string name="webviewchromium_private_browsing_warning">Este recurso não é suportado por esta versão do Android.</string>
   <string name="week_picker_dialog_title">Definir semana</string>
 </resources>
