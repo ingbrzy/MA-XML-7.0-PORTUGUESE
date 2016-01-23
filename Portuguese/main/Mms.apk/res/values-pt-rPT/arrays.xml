@@ -41,10 +41,10 @@
         <item>Recebida</item>
         <item>Enviada</item>
      </string-array>
-	 <string-array name="entries_date_type_rightvalue">
+     <string-array name="entries_date_type_rightvalue">
         <item>Recebida</item>
         <item>Enviada</item>
-     </string-array>	
+     </string-array>
      <string-array name="entries_mms_validity_period">
         <item>Máximo</item>
         <item>Dois dias</item>
@@ -71,13 +71,13 @@
      </string-array>
      <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mensagem Mi</item>
+        <item>Mensagens Mi</item>
      </string-array>
      <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mensagem Mi</item>
+        <item>Mensagens Mi</item>
      </string-array>
-	 <string-array name="wild_msg_sync_options">
+     <string-array name="wild_msg_sync_options">
          <item>Sincronizar todas as mensagens</item>
          <item>Sincronizar mensagens dos cartões SIM seleccionados</item>
      </string-array>
