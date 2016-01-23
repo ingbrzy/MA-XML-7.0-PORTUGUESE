@@ -830,14 +830,14 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos adicionais do fornecedor de localização. Isto pode permitir que a aplicação interfira com o funcionamento do GPS ou de outras fontes de localização.</string>
   <string name="permdesc_accessMockLocation">Criar fontes de localização fictícias para fins de teste ou instalar um novo fornecedor de localização. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
   <string name="permdesc_accessMtp">Permite o acesso ao controlador MTP de kernel para implementar o protocolo MTP USB.</string>
-  <string name="permdesc_accessNetworkConditions">Permite que uma aplicação possa escutar as observações sobre as condições da rede. Nunca deve ser necessário para aplicações normais.</string>
-  <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede, como por exemplo, que redes existem e estão ligadas.</string>
+  <string name="permdesc_accessNetworkConditions">Permite que uma aplicação possa monitorizar e observar as condições da rede. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_accessNetworkState">Permite que a aplicação monitorize informações acerca das ligações de rede, como por exemplo, que redes existem e estão ligadas.</string>
   <string name="permdesc_accessNotifications">Permite à aplicação recuperar, examinar e com notificações claras, incluindo os trabalhadores destacados por outras aplicações.</string>
   <string name="permdesc_accessSurfaceFlinger">Permite à aplicação utilizar funcionalidades do Deflector de Superficie de nível inferior.</string>
-  <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
+  <string name="permdesc_accessWifiState">Permite que a aplicação monitorize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
   <string name="permdesc_accessWimaxState">Permite que a aplicação determine se o WiMAX está activado e aceda a informações acerca de qualquer rede WiMAX que esteja ligada.</string>
   <string name="permdesc_access_keyguard_secure_storage">Permite que uma aplicação aceda ao armazenamento seguro da protecção do teclado.</string>
-  <string name="permdesc_accountManagerService">Permite que a aplicação efectue chamadas para Autênticadores de Conta.</string>
+  <string name="permdesc_accountManagerService">Permite que a aplicação efectue chamadas para autenticadores de conta.</string>
   <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada do Voice Mail.</string>
   <string name="permdesc_anyCodecForPlayback">Permite que a aplicação utilize qualquer descodificador de multimédia instalado para descodificar a reprodução.</string>
   <string name="permdesc_asec_access">Permite à aplicação obter informações sobre o armazenamento interno.</string>
@@ -845,7 +845,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_asec_destroy">Permite à aplicação destruir o armazenamento interno.</string>
   <string name="permdesc_asec_mount_unmount">Permite à aplicação montar/desmontar o armazenamento interno.</string>
   <string name="permdesc_asec_rename">Permite à aplicação mudar o nome do armazenamento interno.</string>
-  <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize as funcionalidades de autênticador de conta do Gestor de Conta, incluindo a criação de contas e a obtenção e definição das respectivas palavras-passe.</string>
+  <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize os recursos de autenticador de conta e gestor de conta, incluindo a criação de contas, obtenção e definição das respectivas palavras-passe.</string>
   <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de cópia de segurança e de restauro do sistema. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas colectadas da bateria. Não deve ser utilizado em aplicações normais.</string>
   <string name="permdesc_bindAccessibilityService">Permite ao titular vincular-se à interface de nível superior de um serviço de acessibilidade. Nunca deverá ser necessário para aplicações normais.</string>
@@ -864,7 +864,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_bindVpnService">Permite que o titular se vincule à interface de nível superior de um serviço de VPN. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindWallpaper">Permite ao titular vincular-se à interface de nível superior de uma imagem de fundo. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bind_call_service">Permite à aplicação controlar quando e como o utilizador vê o ecrã de chamada.</string>
-  <string name="permdesc_bluetooth">Permite que a aplicação visualize a configuração do Bluetooth no telefone e que estabeleça e aceite ligações com dispositivos emparelhados.</string>
+  <string name="permdesc_bluetooth">Permite que a aplicação monitorize a configuração do Bluetooth no telefone, que estabeleça e aceite ligações com dispositivos emparelhados.</string>
   <string name="permdesc_bluetoothAdmin">Permite que a aplicação configure o telefone Bluetooth local, bem como descobrir e emparelhar com dispositivos remotos.</string>
   <string name="permdesc_bluetoothPriv">Permite que a aplicação emparelhe com dispositivos remotos sem interação do usuário.</string>
   <string name="permdesc_brick">Permite que a aplicação desactive definitivamente todo o telefone. Esta acção é muito perigosa.</string>
@@ -922,7 +922,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_hardware_test">Permite à aplicação controlar vários periféricos para fins de teste de hardware.</string>
   <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas etc.) a outras aplicações. As aplicações maliciosas podem utilizar isto para controlar o telefone.</string>
   <string name="permdesc_installLocationProvider">Criar fontes de localização fictícias para fins de teste ou instalar um fornecedor de localização novo. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
-  <string name="permdesc_installPackages">Permite que a aplicação instale novos pacotes ou actualizados do Android. As aplicações maliciosas podem utilizar isto para adicionar novas aplicações com autorizações arbitrariamente fortes.</string>
+  <string name="permdesc_installPackages">Permite que a aplicação instale ou actualize novos pacotes Android. As aplicações maliciosas podem utilizar isto para adicionar novas permissões de segurança elevada.</string>
   <string name="permdesc_install_shortcut">Permite que a aplicação adicione atalhos na Página inicial, sem a intervenção do usuário.</string>
   <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções em diferentes usuários no dispositivo. As aplicações maliciosas podem utilizar isso para violar a protecção entre os usuários.</string>
   <string name="permdesc_interactAcrossUsersFull">Permite todas as interacções possíveis em todos os utilizadores.</string>
@@ -963,7 +963,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readDictionary">Permite que a aplicação leia todas as palavras, nomes e expressões que o utilizador possa ter guardado no dicionário do utilizador.</string>
   <string name="permdesc_readFrameBuffer">Permite à aplicação ler o conteúdo da memória intermédia de fotogramas.</string>
   <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os sites visitados pelo Navegador e todos os marcadores do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
-  <string name="permdesc_readInputState">Permite que a aplicação veja as teclas que o utilizador prime, mesmo ao interagir com outra aplicação (como, por exemplo, ao introduzir uma palavra-passe). Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_readInputState">Permite que a aplicação monitorize as teclas que o utilizador prime, mesmo ao interagir com outra aplicação, como por exemplo, ao introduzir uma palavra-passe. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais sobre a forma como o utilizador utiliza o telefone, podendo, inclusivé, incluir dados pessoais ou privados.</string>
   <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia utilização histórica da rede para redes e aplicações específicas.</string>
   <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
@@ -973,7 +973,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readSyncSettings">Permite que a aplicação leia as definições de sincronização de uma conta. Por exemplo, pode determinar se a aplicação Pessoas está sincronizada com uma conta.</string>
   <string name="permdesc_readSyncStats">Permite que uma aplicação leia o estado de sincronização de uma conta, incluindo o histórico de eventos de sincronização e a quantidade de dados sincronizados.</string>
   <string name="permdesc_reboot">Permite que a aplicação force o reinício do telefone.</string>
-  <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente assim que tiver terminado o arranque do sistema. Isto pode atrasar o arranque do telefone e permitir à aplicação abrandar todo o funcionamento do telefone, uma vez que está em constante execução.</string>
+  <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente logo após o reinício do sistema. Isto pode atrasar o arranque do telefone e permitir à aplicação abrandar todo o funcionamento do telefone, uma vez que está em constante execução.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Permite à aplicação receber e processar mensagens de difusão de emergência. Esta permissão só está disponível para aplicações de sistema.</string>
   <string name="permdesc_receiveMms">Permite que a aplicação receba e processe mensagens MMS. Isto significa que a aplicação poderá monitorar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
   <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação poderá monitorar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
@@ -1024,7 +1024,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_use_sip">Permite que uma aplicação utilize o serviço SIP para fazer e receber chamadas pela internet</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>
   <string name="permdesc_wakeLock">Permite que uma aplicação impeça o telefone de entrar em modo de inactividade.</string>
-  <string name="permdesc_writeApnSettings">Permite à aplicação alterar as definições de rede, interceptar e inspeccionar todo o tráfego de rede como, por exemplo, mudar o proxy e a porta de qualquer APN. As aplicações maliciosas podem monitorar, redireccionar ou modificar pacotes de rede sem o seu conhecimento.</string>
+  <string name="permdesc_writeApnSettings">Permite que a aplicação altere as definições de rede, intercepte e inspeccione todo o tráfego de rede, como por exemplo, mudar o proxy e a porta de qualquer APN. As aplicações maliciosas podem monitorizar, redireccionar ou modificar pacotes de rede sem o seu conhecimento.</string>
   <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que podem modificar o telefone, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
   <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar esta funcionalidade para eliminar ou modificar o seu registo de chamadas.</string>
   <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que as aplicações eliminem dados de contactos.</string>
@@ -1034,10 +1034,10 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do Navegador ou marcadores guardados no telefone. Isto pode permitir que a aplicação elimine ou modifique dados do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
   <string name="permdesc_writeProfile">Permite que a aplicação altere ou adicione dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
   <string name="permdesc_writeSecureSettings">Permite que uma aplicação modifique os dados de definições seguras do sistema. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_writeSettings">Permite à aplicação modificar os dados das definições do sistema. As aplicações maliciosas podem corromper a configuração do seu sistema.</string>
+  <string name="permdesc_writeSettings">Permite à aplicação modificar os dados das definições de sistema. As aplicações maliciosas podem corromper a configuração do seu sistema.</string>
   <string name="permdesc_writeSms">Permite que a aplicação escreva mensagens SMS armazenadas no telefone ou no cartão SIM. As aplicações maliciosas podem eliminar as suas mensagens.</string>
   <string name="permdesc_writeSocialStream">Permite que a aplicação apresente actualizações de redes sociais de amigos. Tenha cuidado ao partilhar informações, pois esta acção permite que a aplicação produza mensagens que podem parecer ser enviadas por um amigo. Nota: esta autorização pode não ser aplicada a todas as redes sociais.</string>
-  <string name="permdesc_writeSyncSettings">Permite que uma aplicação modifique as definições de sincronização de uma conta. Por exemplo, pode ser utilizada para activar a sincronização da aplicação Pessoas com uma conta.</string>
+  <string name="permdesc_writeSyncSettings">Permite que uma aplicação modifique as definições de sincronização de uma conta. Por exemplo, pode ser utilizada para activar a sincronização da aplicação pessoas com uma conta.</string>
   <string name="permgroupdesc_accessibilityFeatures">Recursos que a Tecnologia de Assistência pode solicitar.</string>
   <string name="permgroupdesc_accounts">Aceda às contas disponíveis.</string>
   <string name="permgroupdesc_affectsBattery">Utilize recursos que podem rapidamente descarregar a bateria.</string>
@@ -1319,7 +1319,7 @@ para a conta %s."</string>
   <string name="permlab_writeHistoryBookmarks">Gravar marcadores da Web e o histórico</string>
   <string name="permlab_writeProfile">Modificar o próprio cartão de contacto</string>
   <string name="permlab_writeSecureSettings">Modificar definições seguras do sistema</string>
-  <string name="permlab_writeSettings">Modificar as definições do sistema</string>
+  <string name="permlab_writeSettings">Modificar as definições de sistema</string>
   <string name="permlab_writeSms">Editar as mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_writeSocialStream">Escrever para o seu fluxo social</string>
   <string name="permlab_writeSyncSettings">Activar e desactivar a sincronização</string>
