@@ -336,7 +336,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="battery_sugg_bluetooth_basic">Desligar Bluetooth quando não estiver em utilização</string>
   <string name="battery_sugg_bluetooth_headset">Tente ligar a um dispositivo Bluetooth diferente</string>
   <string name="battery_sugg_display">Reduzir o brilho e/ou tempo limite do ecrã</string>
-  <string name="battery_sugg_radio">Alterar para o modo de avião para economizar bateria nas áreas sem cobertura de rede</string>
+  <string name="battery_sugg_radio">Alterar para o Modo de Avião para economizar bateria nas áreas sem cobertura de rede</string>
   <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
   <string name="bearer">Portador</string>
   <string name="biometric_weak_improve_matching_title">Melhorar correspondência do rosto</string>
@@ -2166,7 +2166,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="search_accelerometer">acelerómetro</string>
   <string name="search_access_control">controlo de acesso</string>
   <string name="search_accessibility">accessibilidade</string>
-  <string name="search_airplane">modo de avião</string>
+  <string name="search_airplane">Modo de Avião</string>
   <string name="search_android_beam">android beam</string>
   <string name="search_battery">bateria</string>
   <string name="search_battery_indicator">indicador da bateria</string>
@@ -2983,7 +2983,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_forget">Esquecer</string>
   <string name="wifi_gateway">Gateway</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
-  <string name="wifi_in_airplane_mode">Em modo de avião</string>
+  <string name="wifi_in_airplane_mode">Em Modo de Avião</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP:</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
@@ -3014,9 +3014,9 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_notify_open_networks_summary">Notificar-me quando estiver disponível uma rede aberta</string>
   <string name="wifi_off_airplane_on_cancel">Cancelar</string>
   <string name="wifi_off_airplane_on_confirm">OK</string>
-  <string name="wifi_off_airplane_on_content">Pode activar o Wi-Fi manualmente quando o modo de avião está activado</string>
+  <string name="wifi_off_airplane_on_content">Pode activar o Wi-Fi manualmente quando o Modo de Avião está activado</string>
   <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
-  <string name="wifi_off_airplane_on_title">Wi-Fi em modo de avião</string>
+  <string name="wifi_off_airplane_on_title">Wi-Fi em Modo de Avião</string>
   <string name="wifi_on_time">Duração em Wi-Fi</string>
   <string name="wifi_other_network">Outras redes…</string>
   <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se ligar com %1$s?</string>
