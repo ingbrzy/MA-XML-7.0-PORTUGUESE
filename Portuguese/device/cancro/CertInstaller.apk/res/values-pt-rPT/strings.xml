@@ -25,7 +25,7 @@
   <string name="one_usercrt">certificado para um utilizador</string>
   <string name="one_userkey">chave para um utilizador</string>
   <string name="only_primary_user_allowed">Apenas o proprietário deste dispositivo pode instalar certificados.</string>
-  <string name="p12_description">Certificados no KeyStore PKCS12.</string>
+  <string name="p12_description">Certificados no armazenamento de chaves PKCS12.</string>
   <string name="password_empty_error">Introduza a palavra-passe.</string>
   <string name="password_error">Introduza a palavra-passe correcta.</string>
   <string name="pick_file_title">Escolher um certificado</string>
