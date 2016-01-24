@@ -847,7 +847,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_asec_rename">Permite à aplicação mudar o nome do armazenamento interno.</string>
   <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize os recursos de autenticador de conta e gestor de conta, incluindo a criação de contas, obtenção e definição das respectivas palavras-passe.</string>
   <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de cópia de segurança e de restauro do sistema. Não se destina a utilização por aplicações normais.</string>
-  <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas registadas da bateria. Não deverá ser utilizado em aplicações normais.</string>
+  <string name="permdesc_batteryStats">Permite que a aplicação leia os dados actuais de bateria fraca. Permite que a aplicação encontre informação detalhada acerca de outras aplicações que utiliza.</string>
   <string name="permdesc_bindAccessibilityService">Permite ao titular vincular-se à interface de nível superior de um serviço de acessibilidade. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindDeviceAdmin">Permite ao titular enviar intenções para um administrador do dispositivo. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindGadget">Permite que a aplicação informe o sistema acerca dos widgets que podem ser utilizados com cada aplicação. Com esta autorização, algumas aplicações podem conceder acesso a dados pessoais a outras aplicações. Não se destina a utilização por aplicações normais.</string>
@@ -1016,10 +1016,10 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_systemAlertWindow">Permite que a aplicação mostre janelas de alerta do sistema. Algumas janelas de alerta podem ocupar todo o ecrã.</string>
   <string name="permdesc_temporary_enable_accessibility">Permite a uma aplicação permita temporariamente a acessibilidade no dispositivo. As aplicações maliciosas podem permitir acessibilidade sem o consentimento do usuário.</string>
   <string name="permdesc_transmitIr">Permite que a aplicação utilize o transmissor infravermelho do telefone.</string>
-  <string name="permdesc_uninstall_shortcut">Permite que a aplicação remova atalhos da Página inicial, sem a intervenção do usuário.</string>
-  <string name="permdesc_updateAppOpsStats">Permite à aplicação modificar as estatísticas colectadas de funcionamento da aplicação. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas registadas da bateria. Não deverá ser utilizado por aplicações normais.</string>
-  <string name="permdesc_updateLock">Permite ao titular disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para actualização do aparelho.</string>
+  <string name="permdesc_uninstall_shortcut">Permite que a aplicação remova atalhos da Página inicial, sem a intervenção do utilizador.</string>
+  <string name="permdesc_updateAppOpsStats">Permite à aplicação modificar as estatísticas recolhidas sobre o funcionamento da aplicação. Não deverá ser solicitado por aplicações normais.</string>
+  <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas recolhidas sobre a bateria. Não deverá ser solicitado por aplicações normais.</string>
+  <string name="permdesc_updateLock">Permite ao titular disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para actualização do dispositivo.</string>
   <string name="permdesc_useCredentials">Permite que a aplicação solicite tokens de autenticação.</string>
   <string name="permdesc_use_sip">Permite que uma aplicação utilize o serviço SIP para fazer e receber chamadas pela internet</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>

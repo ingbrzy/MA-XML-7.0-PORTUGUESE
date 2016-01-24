@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Shell</string>
-  <string name="bugreport_confirm">Os relatórios de erros contêm dados de diversos arquivos de registro do sistema, inclusive informações pessoais e particulares. Partilhe relatórios de erros somente com aplicações e pessoas nos quais confia.</string>
+  <string name="bugreport_confirm">Os relatórios de erros contêm dados de diversos arquivos de registo do sistema, inclusive informações pessoais e particulares. Partilhe os relatórios de erros apenas com aplicações e pessoas nas quais confia.</string>
   <string name="bugreport_confirm_repeat">Mostrar esta mensagem da próxima vez</string>
-  <string name="bugreport_finished_text">Toque para partilhar seu relatório de erros</string>
+  <string name="bugreport_finished_text">Toque para partilhar o seu relatório de erros</string>
   <string name="bugreport_finished_title">Relatório de erros terminado</string>
 </resources>
