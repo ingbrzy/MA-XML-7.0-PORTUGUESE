@@ -163,7 +163,7 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela quando está a interagir.</string>
   <string name="capability_title_canRequestEnhancedWebAccessibility">Ligue para melhorar a sua acessibilidade web</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observe o texto que escrever</string>
-  <string name="capability_title_canRequestTouchExploration">Ligue explorar pelo toque</string>
+  <string name="capability_title_canRequestTouchExploration">Ligue Explorar pelo toque</string>
   <string name="capability_title_canRetrieveWindowContent">Recuperar o conteúdo da janela</string>
   <string name="capital_off">Desactivado</string>
   <string name="capital_on">Activado</string>
@@ -334,8 +334,8 @@ utilizando %s"</string>
   <string name="emptyPhoneNumber">(Nenhum número de telefone)</string>
   <string name="enablePin">Código incorrecto. Cartão SIM bloqueado.</string>
   <string name="enable_accessibility_canceled">Acessibilidade cancelada.</string>
-  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar o recurso explorar através do toque. Quando o recurso explorar através do toque estiver activado, poderá ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone.</string>
-  <string name="enable_explore_by_touch_warning_title">Activar explorar através do toque?</string>
+  <string name="enable_explore_by_touch_warning_message">%1$s pretende activar o recurso Explorar através do toque. Quando o recurso Explorar através do toque estiver activado, poderá ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telefone.</string>
+  <string name="enable_explore_by_touch_warning_title">Activar Explorar através do toque?</string>
   <string name="error_message_title">Erro</string>
   <string name="eventTypeAnniversary">Aniversário</string>
   <string name="eventTypeBirthday">Data de nascimento</string>

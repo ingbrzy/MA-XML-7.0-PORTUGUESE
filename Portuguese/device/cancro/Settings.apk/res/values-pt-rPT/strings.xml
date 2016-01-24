@@ -38,7 +38,7 @@ Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma 
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporáriamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
+Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
   <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
@@ -56,7 +56,7 @@ Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
 "<li>Ajustar o nível do zoom: Belisque dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
-Também pode aumentar temporáriamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
 Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
@@ -675,7 +675,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_alert">Rejeitar as suas alterações?</string>
   <string name="cancel_download_buton_text">Cancelar</string>
-  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporáriamente os dados em segundo plano e a sincronização automática.</string>
+  <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporariamente os dados em segundo plano e a sincronização automática.</string>
   <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
   <string name="capabilities_list_title">%1$s precisa de:</string>
   <string name="capability_desc_receiveAccessibilityEvents">Receber notificações quando está a interagir com uma aplicação.</string>
