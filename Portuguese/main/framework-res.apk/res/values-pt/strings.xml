@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="BaMmi">Barramento de chamadas</string>
-  <string name="CLIRDefaultOffNextCallOff">O meu número está predefinido como visível. Chamada seguinte: Não limitado</string>
-  <string name="CLIRDefaultOffNextCallOn">O meu número está predefinido como visível. Chamada seguinte: Limitada</string>
-  <string name="CLIRDefaultOnNextCallOff">O meu número está predefinido como oculto. Chamada seguinte: Não limitado</string>
-  <string name="CLIRDefaultOnNextCallOn">O meu número está predefinido como oculto. Chamada seguinte: Limitada</string>
-  <string name="CLIRPermanent">Não pode alterar a definição do seu número.</string>
+  <string name="CLIRDefaultOffNextCallOff">ID do autor da chamada está predefinido com não restrito. Chamada seguinte: Não restrita</string>
+  <string name="CLIRDefaultOffNextCallOn">ID do autor da chamada está predefinido com não restrito. Chamada seguinte: Restrita</string>
+  <string name="CLIRDefaultOnNextCallOff">ID do autor da chamada está predefinido como restrito. Chamada seguinte: Não restrita</string>
+  <string name="CLIRDefaultOnNextCallOn">ID do autor da chamada está predefinido como restrito. Chamada seguinte: Restrita</string>
+  <string name="CLIRPermanent">Não pode alterar a definição da identificação de chamadas.</string>
   <string name="CfMmi">Reencaminhamento de chamadas</string>
-  <string name="ClipMmi">Ver o número de quem me liga</string>
-  <string name="ClirMmi">Mostrar o meu número</string>
-  <string name="CndMmi">Mostrar o meu número</string>
-  <string name="CnipMmi">O meu número está visível</string>
-  <string name="CnirMmi">O meu número está oculto</string>
-  <string name="ColpMmi">Ligado a uma rede de ID</string>
-  <string name="ColrMmi">Ligado a uma rede com restrição de ID</string>
+  <string name="ClipMmi">ID do autor da chamada</string>
+  <string name="ClirMmi">ID do autor da chamada efetuada</string>
+  <string name="CndMmi">Entrega do número chamador</string>
+  <string name="CnipMmi">Apresentação do número chamador</string>
+  <string name="CnirMmi">Número chamador restringido</string>
+  <string name="ColpMmi">ID de linha ligada</string>
+  <string name="ColrMmi">Restrição de ID de linha ligada</string>
   <string name="CwMmi">Chamada em espera</string>
   <string name="DndMmi">Não incomodar</string>
   <string name="Midnight">Meia-noite</string>
@@ -146,7 +146,7 @@ Pretende fechar?"</string>
   <string name="back_button_label">Anterior</string>
   <string name="badPin">O código PIN antigo que introduziu não está correcto.</string>
   <string name="badPuk">O código PUK que introduziu não está correcto.</string>
-  <string name="battery_saver_description">"Para melhorar a vida útil de bateria, o economizador de bateria reduz a performance, limites de vibração e a maior parte dos dados em segundo plano do seu dispositivo. Email, mensagens, e outras aplicação baseadas em sincronização podem não actualizar até as abrir.
+  <string name="battery_saver_description">"Para ajudar a melhorar a autonomia da bateria, a poupança de bateria reduz o desempenho do seu dispositivo e limita a vibração, os serviços de localização e a maioria dos dados em segundo plano. O email, as mensagens e outras aplicações que dependem da sincronização não podem ser actualizados excepto se os abrir.
 
 Economizador de bateria desliga-se automaticamente quando o dispositivo está a carregar."</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
