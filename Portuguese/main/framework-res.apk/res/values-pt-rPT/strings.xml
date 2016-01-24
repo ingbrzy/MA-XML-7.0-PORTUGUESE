@@ -979,6 +979,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação poderá monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
   <string name="permdesc_receiveWapPush">Permite que a aplicação receba e processe mensagens WAP. Esta autorização inclui a capacidade de monitorizar ou eliminar mensagens enviadas para si sem as apresentar.</string>
   <string name="permdesc_recordAudio">Permite que a aplicação grave áudio com o microfone. Esta autorização permite que a aplicação grave áudio em qualquer altura sem a confirmação do utilizador.</string>
+  <string name="permdesc_recovery">Permite que uma aplicação interaja com a recuperação do sistema e actualizações do sistema.</string>
   <string name="permdesc_removeTasks">Permite que a aplicação remova tarefas e elimine as respetivas aplicações. As aplicações maliciosas podem perturbar o comportamento de outras aplicações.</string>
   <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação poderá fazê-lo sem qualquer entrada do utilizador.</string>
   <string name="permdesc_retrieve_window_content">Permite que a aplicação obtenha o conteúdo da janela activa. As aplicações maliciosas podem obter todo o conteúdo da janela e examinar todo o texto, excepto as palavras-passe.</string>
@@ -1263,6 +1264,7 @@ para a conta %s."</string>
   <string name="permlab_receiveSms">Receber mensagens de texto (SMS)</string>
   <string name="permlab_receiveWapPush">Receber mensagens de texto (WAP)</string>
   <string name="permlab_recordAudio">Gravar áudio</string>
+  <string name="permlab_recovery">Interagir com a actualização e recuperação do sistema</string>
   <string name="permlab_removeTasks">Parar aplicações em execução</string>
   <string name="permlab_reorderTasks">Reordenar as aplicações em execução</string>
   <string name="permlab_retrieve_window_content">Obter o conteúdo do ecrã</string>

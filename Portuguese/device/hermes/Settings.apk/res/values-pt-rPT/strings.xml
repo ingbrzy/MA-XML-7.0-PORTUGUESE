@@ -45,8 +45,8 @@ Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de blo
   <string name="accessibility_screen_magnification_summary">"Quando este recurso está activo pode aumentar ou diminuir o zoom por triplo toque no ecrã.
 
 Quando ampliado pode:
-"&lt;ul&gt;&lt;li&gt;"Mover: Arraste dois ou mais dedos pelo ecrã.
-"&lt;li&gt;Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
+"<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
+"<li>Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um triplo toque e segurar. Neste modo pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
@@ -1459,12 +1459,12 @@ Está actualmente com sessão iniciada nas seguintes contas:
   <string name="master_clear_confirm_title">Restaurar?</string>
   <string name="master_clear_desc">"Isto vai eliminar todos os dados da &lt;b&gt;memória interna&lt;/b&gt;" do seu telefone, incluindo:
 
-"&lt;li&gt;A sua conta do Google&lt;/li&gt;"
-"&lt;li&gt;Sistema, dados de aplicações e definições&lt;/li&gt;"
-"&lt;li&gt;Aplicações transferidas&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Música&lt;/li&gt;"
-"&lt;li&gt;Fotos&lt;/li&gt;"
-"&lt;li&gt;Outros dados do utilizador&lt;/li&gt;</string>
+"<li>A sua conta do Google</li>"
+"<li>Sistema, dados de aplicações e definições</li>"
+"<li>Aplicações transferidas</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Música</li>"
+"<li>Fotos</li>"
+"<li>Outros dados do utilizador</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
 Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartão SD&lt;/b&gt; tem de ser eliminado.</string>
@@ -2021,11 +2021,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="reset_app_preferences_button">Redefinir aplicações</string>
   <string name="reset_app_preferences_desc">"Isto irá redefinir todas as preferências para:
 
- "&lt;li&gt;Aplicações desactivadas&lt;/li&gt;"
- "&lt;li&gt;Notificações de aplicação desactivadas&lt;/li&gt;"
- "&lt;li&gt;Aplicações predefinidas para as acções&lt;/li&gt;"
- "&lt;li&gt;Restrições de dados em segundo plano para aplicações&lt;/li&gt;"
- "&lt;li&gt;Quaisquer restrições de permissão&lt;/li&gt;"
+ "<li>Aplicações desactivadas</li>"
+ "<li>Notificações de aplicação desactivadas</li>"
+ "<li>Aplicações predefinidas para as acções</li>"
+ "<li>Restrições de dados em segundo plano para aplicações</li>"
+ "<li>Quaisquer restrições de permissão</li>"
 
 Não irá perder quaisquer dados das aplicações."</string>
   <string name="reset_app_preferences_title">Redefinir preferências da aplicação?</string>
