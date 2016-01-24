@@ -252,7 +252,7 @@
   <string name="connect_disconnect_vibrate_summary">Vibra quando o receptor atende/desliga chamada</string>
   <string name="connect_disconnect_vibrate_title">Vibração</string>
   <string name="connect_disconnect_vibrate_weak">Fraca</string>
-  <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente novamente mais tarde.</string>
+  <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente mais tarde.</string>
   <string name="connection_service_default_label">Serviço de ligação embutido</string>
   <string name="contactAddFailed">Não é possível adicionar contacto ao SIM</string>
   <string name="contactAddSuccess">Contacto adicionado ao cartão SIM</string>
@@ -733,13 +733,13 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (Recomendado)</string>
   <string name="network_error_message">Não é possível ligar à rede</string>
-  <string name="network_forbidden">%s (Proibido)</string>
+  <string name="network_forbidden">%s (Proibida)</string>
   <string name="network_global">Global</string>
   <string name="network_id">ID da Rede</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">4G (Recomendado)</string>
   <string name="network_message">Mensagem da rede</string>
-  <string name="network_query_error">Erro a procurar redes.</string>
+  <string name="network_query_error">Erro ao procurar redes.</string>
   <string name="network_settings_auto_select_title">Terminar selecção automática</string>
   <string name="network_settings_automatically_option">Seleccionar automaticamente operadora preferida (%s)</string>
   <string name="network_settings_confirm_message">A rede poderá não estar disponível. Tem a certeza?</string>
@@ -1103,7 +1103,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="ruim_unlock_success">Cartão SIM desbloqueado.</string>
   <string name="save">Guardar</string>
   <string name="saving_account">A guardar…</string>
-  <string name="search_networks">Pesquisa de redes</string>
+  <string name="search_networks">Pesquisar redes</string>
   <string name="selectContact">Seleccionar contacto</string>
   <string name="select_automatically">Escolher automaticamente</string>
   <string name="select_cancel">Cancelar</string>

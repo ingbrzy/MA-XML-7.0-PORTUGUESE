@@ -252,7 +252,7 @@
   <string name="connect_disconnect_vibrate_summary">Vibra quando o receptor atende/desliga chamada</string>
   <string name="connect_disconnect_vibrate_title">Vibração</string>
   <string name="connect_disconnect_vibrate_weak">Fraca</string>
-  <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente novamente mais tarde.</string>
+  <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente mais tarde.</string>
   <string name="connection_service_default_label">Serviço de ligação embutido</string>
   <string name="contactAddFailed">Não é possível adicionar contacto ao SIM</string>
   <string name="contactAddSuccess">Contacto adicionado ao cartão SIM</string>
@@ -739,7 +739,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">4G (recomendado)</string>
   <string name="network_message">Mensagem da rede</string>
-  <string name="network_query_error">Erro a procurar redes.</string>
+  <string name="network_query_error">Erro ao procurar redes.</string>
   <string name="network_settings_auto_select_title">Terminar selecção automática</string>
   <string name="network_settings_automatically_option">Seleccionar automaticamente operadora preferida (%s)</string>
   <string name="network_settings_confirm_message">A rede poderá não estar disponível. Tem a certeza?</string>
