@@ -975,9 +975,9 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_reboot">Permite que a aplicação force o reinício do telefone.</string>
   <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente logo após o reinício do sistema. Isto pode atrasar o arranque do telefone e permitir à aplicação abrandar todo o funcionamento do telefone, uma vez que está em constante execução.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Permite à aplicação receber e processar mensagens de difusão de emergência. Esta permissão só está disponível para aplicações de sistema.</string>
-  <string name="permdesc_receiveMms">Permite que a aplicação receba e processe mensagens MMS. Isto significa que a aplicação poderá monitorar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
-  <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação poderá monitorar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
-  <string name="permdesc_receiveWapPush">Permite que a aplicação receba e processe mensagens WAP. Esta autorização inclui a capacidade de monitorar ou eliminar mensagens enviadas para si sem as apresentar.</string>
+  <string name="permdesc_receiveMms">Permite que a aplicação receba e processe mensagens MMS. Isto significa que a aplicação poderá monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
+  <string name="permdesc_receiveSms">Permite que a aplicação receba e processe mensagens SMS. Isto significa que a aplicação poderá monitorizar ou eliminar mensagens enviadas para o seu dispositivo sem as apresentar.</string>
+  <string name="permdesc_receiveWapPush">Permite que a aplicação receba e processe mensagens WAP. Esta autorização inclui a capacidade de monitorizar ou eliminar mensagens enviadas para si sem as apresentar.</string>
   <string name="permdesc_recordAudio">Permite que a aplicação grave áudio com o microfone. Esta autorização permite que a aplicação grave áudio em qualquer altura sem a confirmação do utilizador.</string>
   <string name="permdesc_removeTasks">Permite que a aplicação remova tarefas e elimine as respetivas aplicações. As aplicações maliciosas podem perturbar o comportamento de outras aplicações.</string>
   <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação poderá fazê-lo sem qualquer entrada do utilizador.</string>
