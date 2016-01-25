@@ -8,7 +8,7 @@
   <string name="beam_handover_not_supported">O dispositivo receptor não suporta a recepção de ficheiros grandes por transferência.</string>
   <string name="beam_outgoing">A transferir…</string>
   <string name="beam_progress">A receber transferência...</string>
-  <string name="beam_touch_to_view">Pressione para visualizar</string>
+  <string name="beam_touch_to_view">Toque para visualizar</string>
   <string name="beam_try_again">Junte os dispositivos novamente</string>
   <string name="cancel">Cancelar</string>
   <string name="complete_with">Concluído com</string>
@@ -21,18 +21,18 @@
   <string name="disconnected_headset">Desligado</string>
   <string name="disconnecting_headset">A desligar</string>
   <string name="failed_to_enable_bt">Não foi possível activar o Bluetooth</string>
-  <string name="inbound_me_profile_text">Pressione para adicionar essa pessoa como um contacto.</string>
+  <string name="inbound_me_profile_text">Toque para adicionar essa pessoa como um contacto.</string>
   <string name="inbound_me_profile_title">Contacto recebido por NFC</string>
   <string name="nfcUserLabel">NFC</string>
-  <string name="outbound_me_profile_text">Pressione para dar a essa pessoa informação do seu contacto.</string>
+  <string name="outbound_me_profile_text">Toque para dar a essa pessoa a informação do seu contacto.</string>
   <string name="outbound_me_profile_title">Interacção NFC completa</string>
   <string name="pair_no">Não</string>
   <string name="pair_yes">Sim</string>
   <string name="pairing_headset">A emparelhar</string>
   <string name="pairing_headset_failed">Não foi possível emparelhar</string>
   <string name="pay_with">Pagar com</string>
-  <string name="tap_again_to_complete">Pressione novamente para completar com %1$s</string>
-  <string name="tap_again_to_pay">Pressione novamente para pagar com %1$s</string>
-  <string name="touch">Pressione para transferir</string>
+  <string name="tap_again_to_complete">Toque novamente para completar com %1$s</string>
+  <string name="tap_again_to_pay">Toque novamente para pagar com %1$s</string>
+  <string name="touch">Toque para transferir</string>
   <string name="transaction_failure">Esta transacção não pôde ser concluída com %1$s.</string>
 </resources>

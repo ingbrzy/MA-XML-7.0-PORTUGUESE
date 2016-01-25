@@ -15,7 +15,7 @@ Antes de calibrar o telefone pouse-o numa superfície plana."</string>
   <string name="cit_audio_cali_done">Calibração concluída!</string>
   <string name="cit_audio_cali_failed">A calibração falhou. Por favor tente novamente!</string>
   <string name="cit_audio_cali_file_existed">Não foi possível calibrar. O ficheiro de música não existe!</string>
-  <string name="cit_audio_cali_playing">Pressione para iniciar a calibração</string>
+  <string name="cit_audio_cali_playing">Toque para iniciar a calibração</string>
   <string name="cit_audio_cali_summary">Calibrar Coluna PA</string>
   <string name="cit_audio_cali_title">Teste de Calibração da Coluna PA</string>
   <string name="cit_audio_cali_valueC">Contador:</string>
@@ -81,8 +81,8 @@ Segure o telefone como se estivesse a responder uma chamada e fale para o microf
   <string name="cit_calibration_pass">Calibração concluída</string>
   <string name="cit_camera_calibration_summary">"Instruções do teste:
 
-1.Pressione no botão de calibração abaixo para entrar na interface da câmara
-2.Pressione o botão voltar para sair da interface da câmara
+1.Toque no botão de calibração abaixo para entrar na interface da câmara
+2.Toque o botão voltar para sair da interface da câmara
 3.Haverá um rótulo a dizer calibração concluída para indicar que o ois foi calibrado"</string>
   <string name="cit_camera_sdcard_error">Não é possível tirar fotografia. O cartão SD está cheio.</string>
   <string name="cit_charger_plugin_check_summary">Quando ligar o carregador USB, deverá aparecer em baixo o texto \"A carregar por USB/AC\".</string>
@@ -115,16 +115,16 @@ Segure o telefone como se estivesse a responder uma chamada e fale para o microf
   <string name="cit_fpc_sensor_check_title">Sensor de impressões digitais FPC</string>
   <string name="cit_front_camera_check_summary">"Instruções do teste: 
 
-1.Pressione o botão da câmara em baixo para entrar no interface da câmara frontal.
-2.Pressione o botão de disparo.
-3.Pressione o ícone verificar. O sistema vai guardar a fotografia automaticamente.
-4.A fotografia que tirou será exibida em baixo. Pressione em Eliminar para completar o teste."</string>
+1.Toque o botão da câmara em baixo para entrar no interface da câmara frontal.
+2.Toque o botão de disparo.
+3.Toque no ícone verificar. O sistema vai guardar a fotografia automaticamente.
+4.A fotografia que tirou será exibida em baixo. Toque em Eliminar para completar o teste."</string>
   <string name="cit_front_camera_check_title">Câmara frontal</string>
   <string name="cit_gps_check_summary">A informação correspondente ao GPS deverá ser exibida em baixo.</string>
   <string name="cit_gps_check_title">GPS</string>
   <string name="cit_gps_disabled">"O GPS não foi iniciado
 
-Pressione no ecrã para iniciar o GPS…"</string>
+Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_gps_first_fix_time">Tempo para fixar: %s</string>
   <string name="cit_gps_location">Localização: %s</string>
   <string name="cit_gps_satellite_count">Contagem de satélites: %d</string>
@@ -132,9 +132,9 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer em baixo</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscópio</string>
-  <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, pressione os botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará a verde.</string>
+  <string name="cit_headset_button_check_summary">Quando os auriculares estiverem ligados, toque nos botões de comando (geralmente situados no cabo dos auriculares). O texto correspondente aos botões pressionados ficará a verde.</string>
   <string name="cit_headset_button_check_title">Botões do auricular</string>
-  <string name="cit_headset_button_click">Pressione os botões dos auriculares</string>
+  <string name="cit_headset_button_click">Toque nos botões dos auriculares</string>
   <string name="cit_headset_button_current">Botão atual: %s</string>
   <string name="cit_headset_button_fast_forward">Avanço rápido</string>
   <string name="cit_headset_button_next">Avançar</string>
@@ -174,11 +174,11 @@ Pressione no ecrã para iniciar o GPS…"</string>
   <string name="cit_magnetic_sensor_check_title">Sensor magnético</string>
   <string name="cit_main_camera_check_summary">"Instruções do teste:
 
-1.Pressione o botão da câmara em baixo para entrar no interface da câmara traseira.
+1.Toque no botão da câmara em baixo para entrar no interface da câmara traseira.
 2.Certifique-se de que o flash está activado.
-3.Pressione o botão do obturador.
-4.Pressione o ícone verificar. O sistema vai guardar a fotografia automaticamente.
-5.A fotografia que tirou será exibida em baixo. Pressione em Eliminar para completar o teste."</string>
+3.Toque no botão de disparo.
+4.Toque no ícone verificar. O sistema vai guardar a fotografia automaticamente.
+5.A fotografia que tirou será exibida em baixo. Toque em Eliminar para completar o teste."</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
   <string name="cit_name">Testes do hardware</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão da MIUI</string>
@@ -306,7 +306,7 @@ Depois de inserir o ficheiro \"music.mp3\" no cartão SD toque no ecrã para o r
   <string name="cit_touch_calib_fail">Erro na calibração do toque, tente novamente</string>
   <string name="cit_touch_calib_instruction">Iniciar calibração</string>
   <string name="cit_touch_calib_pass">Calibração do toque concluída</string>
-  <string name="cit_touch_calib_summary">O próximo passo será calibrar o toque no ecrã, pressione confirmar e não toque no ecrã depois do início do teste e aguarde a mensagem de calibração bem sucedida</string>
+  <string name="cit_touch_calib_summary">O próximo passo será calibrar o toque no ecrã, prima confirmar e não toque no ecrã depois do início do teste e aguarde pela mensagem de calibração bem sucedida</string>
   <string name="cit_touch_calib_title">Calibração do toque</string>
   <string name="cit_usb_OTG_in">Dispositivo USB OTG ligado</string>
   <string name="cit_usb_OTG_out">Dispositivo USB OTG removido</string>

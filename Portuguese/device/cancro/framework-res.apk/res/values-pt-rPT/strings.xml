@@ -101,8 +101,8 @@ Pretende fechá-la?"</string>
   <string name="autofill_this_form">Preenchimento Automático</string>
   <string name="autofill_zip_code">Código postal</string>
   <string name="back_button_label">Voltar</string>
-  <string name="badPin">O código PIN antigo que introduziu não está correcto.</string>
-  <string name="badPuk">O código PUK que introduziu não está correcto.</string>
+  <string name="badPin">O PIN antigo que introduziu está incorrecto.</string>
+  <string name="badPuk">O código PUK que introduziu está incorrecto.</string>
   <string name="battery_saver_description">"Para ajudar a melhorar a autonomia da bateria, a poupança de bateria reduz o desempenho do seu dispositivo e limita a vibração, os serviços de localização e a maioria dos dados em segundo plano. O email, as mensagens e outras aplicações que dependem da sincronização não podem ser actualizados excepto se os abrir.
 
 A poupança de bateria desliga-se automaticamente quando o dispositivo está a carregar."</string>
@@ -1161,7 +1161,7 @@ Ouvir com um volume elevado durante longos períodos poderá ser prejudicial par
   <string name="usb_storage_stop_button_mount">Desligar armazenamento USB</string>
   <string name="usb_storage_stop_error_message">Ocorreu um problema ao desligar o armazenamento USB. Verifique se desmontou o anfitrião USB e, em seguida, tente novamente.</string>
   <string name="usb_storage_stop_message">Antes de desligar o armazenamento USB, desmonte (\"ejectar\") o armazenamento USB do Android do computador.</string>
-  <string name="usb_storage_stop_notification_message">Toque para ligar o armazenamento USB.</string>
+  <string name="usb_storage_stop_notification_message">Toque para desligar o armazenamento USB.</string>
   <string name="usb_storage_stop_notification_title">Desligar armazenamento USB</string>
   <string name="usb_storage_stop_title">Armazenamento USB está em utilização</string>
   <string name="usb_storage_title">USB ligado</string>
