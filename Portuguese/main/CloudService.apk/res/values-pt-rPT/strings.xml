@@ -70,7 +70,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão.</string>
   <string name="error_unknown">Não foi possível iniciar a sessão</string>
   <string name="find_device">Localizar dispositivo</string>
-  <string name="find_device_disabled_notice">Pode ligar ou desligar este recurso a qualquer momento nas definições da Nuvem Mi.</string>
+  <string name="find_device_disabled_notice">Pode ligar ou desligar este recurso em qualquer altura nas definições da Nuvem Mi.</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desligar…</string>
   <string name="find_device_dspt">Localizar, bloquear ou reiniciar o seu dispositivo remotamente</string>
@@ -329,7 +329,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="mx_dspt">Mensagens Mi</string>
   <string name="mx_dspt_provision">"Mensagens Mi permitem enviar mensagens para outros dispositivos MIUI gratuitamente quando ligados ao Wi-Fi.
 
-Pode ligar ou desligar este recurso em qualquer altura nas definições."</string>
+Pode ligar ou desligar este recurso em qualquer altura nas Definições."</string>
   <string name="mx_dspt_provision_privacy">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso.
 
 Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</string>
@@ -339,7 +339,7 @@ Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</strin
   <string name="mx_dspt_provision_privacy_no_sim">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso quando o cartão SIM for detectado.
 
 Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de internet. Pode ligar ou desligar este recurso a qualquer momento nas definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
+  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de internet. Pode ligar ou desligar este recurso em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela internet</string>
@@ -397,7 +397,7 @@ Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</s
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". Pode ligar ou desligar este recurso a qualquer momento nas definições.
+  <string name="sync_dspt_provision3">". Pode ligar ou desligar este recurso em qualquer altura nas Definições.
 "</string>
   <string name="sync_dspt_provision_header">Sincronizar</string>
   <string name="sync_dspt_provision_title">Nuvem Mi</string>

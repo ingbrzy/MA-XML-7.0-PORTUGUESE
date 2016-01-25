@@ -781,13 +781,13 @@ Será utilizada a rede preferida."</string>
   <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi &amp; definições de rede).</string>
   <string name="no_wifi_available_title">Sem ligação à rede Wi-Fi</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de carregamento não foi verificado para o cartão SIM seleccionado. Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>
+  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de carregamento não foi verificado para o cartão SIM %1$s(%2$s). Tente usar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>
+  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada.</string>
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada.</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
-  <string name="not_supported_number_content">"O pacote de carregamento não é suportado por números de serviço. Tente utilizar outro cartão SIM para fazer esta chamada. A sua operadora irá cobrar um valor adicional por esta chamada."</string>
+  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_action_end_call">Desligar</string>
