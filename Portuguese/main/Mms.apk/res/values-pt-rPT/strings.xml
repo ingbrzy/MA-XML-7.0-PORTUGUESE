@@ -294,9 +294,9 @@
   <string name="mx_and_voip_enable_popup_msg">Envie mensagens e faça chamadas para outros dispositivos MIUI gratuitamente. VoIP é fornecido pelo Weihui. Ver Política de Privacidade de Weihui.</string>
   <string name="mx_and_voip_enable_popup_msg2">Política de Privacidade</string>
   <string name="mx_auto_resend_mms">Enviar como MMS</string>
-  <string name="mx_auto_resend_mms_summary">Enviar como MMS pela ligação de dados móveis, quando não tiver ligação à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
+  <string name="mx_auto_resend_mms_summary">Enviar mensagens como MMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Serão aplicados os encargos normais da utilização de dados.</string>
   <string name="mx_auto_resend_sms">Enviar como texto</string>
-  <string name="mx_auto_resend_sms_summary">Enviar como SMS pela ligação de dados móveis, quando não tiver ligação à rede Wi-Fi. Serão aplicados os encargos normais de uso de dados.</string>
+  <string name="mx_auto_resend_sms_summary">Enviar mensagens como SMS pela ligação de dados móveis, quando não estiver ligado ao Wi-Fi. Serão aplicados os encargos normais da utilização de dados.</string>
   <string name="mx_b2c_message_desc">Notificações de rede</string>
   <string name="mx_b2c_message_resend_not_online">Não é possível reenviar mensagem. Mensagens Mi está offline.</string>
   <string name="mx_b2c_message_server">Servidor</string>
