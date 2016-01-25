@@ -153,7 +153,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="amber_alerts_summary">Receber boletins acerca de rapto de crianças</string>
   <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
-  <string name="android_beam_explained">É possível transferir uma página web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira).</string>
+  <string name="android_beam_explained">É possível transferir uma página Web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Partilha de conteúdo NFC está desligado</string>
   <string name="android_beam_on_summary">Partilha de conteúdo NFC está ligado</string>
@@ -1921,11 +1921,11 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED nas mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas mensagens</string>
-  <string name="mobile_connect_to_internet">Por favor active a ligação à internet</string>
+  <string name="mobile_connect_to_internet">Por favor, active a ligação à internet</string>
   <string name="mobile_data_always_on">Dados móveis sempre activados</string>
   <string name="mobile_data_always_on_summary">Manter sempre os dados móveis activados, mesmo quando o Wi-Fi estiver activado (para mudança de rede rápida)</string>
   <string name="mobile_insert_sim_card">Insira um cartão SIM e reinicie</string>
-  <string name="mobile_no_provisioning_url">%1$s não tem serviço de web</string>
+  <string name="mobile_no_provisioning_url">%1$s não tem serviço de Web</string>
   <string name="mobile_unknown_sim_operator">Operador SIM desconhecido</string>
   <string name="mock_location_app">Seleccionar aplicação de localização fictícia</string>
   <string name="mock_location_app_not_set">Aplicação de localização fictícia não definida</string>

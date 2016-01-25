@@ -5,9 +5,9 @@
   <string name="abc_action_menu_overflow_description">Mais</string>
   <string name="abc_action_mode_done">Concluído</string>
   <string name="abc_action_mode_select_all">Seleccionar tudo</string>
-  <string name="accept_cookies_confirm_message">Desligar este recurso pode causar alguns problemas em websites.</string>
+  <string name="accept_cookies_confirm_message">Desligar este recurso pode causar alguns problemas em Websites.</string>
   <string name="accessibility_button_clear">Limpar entrada</string>
-  <string name="accessibility_content_view">Vista web</string>
+  <string name="accessibility_content_view">Vista Web</string>
   <string name="accessibility_date_picker_month">Mês</string>
   <string name="accessibility_date_picker_week">Semana</string>
   <string name="accessibility_date_picker_year">Ano</string>
@@ -249,7 +249,7 @@
   <string name="empty_bookmark">Vazio</string>
   <string name="empty_history_hint">Sem histórico</string>
   <string name="empty_snapshot_hint">Vazio</string>
-  <string name="enable_geolocation_confirm_message">Desligar este recurso pode causar alguns problemas em websites.</string>
+  <string name="enable_geolocation_confirm_message">Desligar este recurso pode causar alguns problemas em Websites.</string>
   <string name="enter_developer_mode">Entrar no modo de programador</string>
   <string name="enter_incongnito_mode">Entrar no modo incógnito</string>
   <string name="error_console_eval_button_text">Avaliar</string>
@@ -287,13 +287,13 @@
   <string name="geolocation_settings_page_title">Limpar acesso à sua localização</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Foi enviado para o ecrã principal</string>
-  <string name="history_saved_webpage">Gravar página da web</string>
+  <string name="history_saved_webpage">Gravar página da Web</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Eliminar</string>
   <string name="homepage_get_location">Obter localização</string>
   <string name="homepage_get_location_failed">"Não foi possível obter localização, escolha uma cidade"</string>
   <string name="homepage_more_cards">Mais serviços</string>
-  <string name="homepage_more_sites">Mais websites</string>
+  <string name="homepage_more_sites">Mais Websites</string>
   <string name="homepage_search_hint">Pesquisa</string>
   <string name="homepage_top_card_menu">Topo</string>
   <string name="in_incognito">Você está incógnito! Páginas acedidas neste separador não vão aparecer no histórico de navegação.</string>
@@ -609,7 +609,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="select_dot">Seleccionar texto</string>
   <string name="select_download_device">Seleccionar dispositivo</string>
   <string name="share_page_text">Estou a divertir-me 【%1$s】 | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">O URL deste website será enviado para os servidores do Xiaomi para se certificar de que é seguro. Pode desactivar esse recurso a qualquer momento em Definições.</string>
+  <string name="show_check_security_url_check_tip_dialog_description">O URL deste Website será enviado para os servidores da Xiaomi para ser verificado se é seguro. Pode desligar este recurso em qualquer altura nas Definições.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Termos do Serviço</string>
   <string name="show_weather_location_getter_tip_dialog_description">Serviços do tempo necessitam da sua informação de localização para lhe dar informação actualizada do tempo no seu navegador. Pode desligar este recurso nas Definições.</string>
   <string name="sign_in_to" formatted="false">Iniciar sessão em %s1 \"%s2\"</string>

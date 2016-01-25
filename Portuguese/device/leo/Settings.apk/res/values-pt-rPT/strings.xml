@@ -126,7 +126,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
-  <string name="android_beam_explained">É possível transferir uma página web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira).</string>
+  <string name="android_beam_explained">É possível transferir uma página Web, um vídeo ou outro conteúdo a partir do seu ecrã para outro dispositivo, juntando os dispositivos (normalmente traseira com traseira).</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Partilha de conteúdo NFC desligado</string>
   <string name="android_beam_on_summary">Partilha de conteúdo NFC ligado</string>
@@ -710,9 +710,9 @@ Poderá encontrar controlos de utilização de dados mais adequados nas definiç
   <string name="data_usage_app_settings">Ver definições da aplicação</string>
   <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. Não vai receber notificações quando ocorrerem actualizações.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
-  <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas na web serão automaticamente copiadas para o seu telefone.
+  <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas na Web serão automaticamente copiadas para o seu telefone.
 
-Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta Google funciona desta forma.
+Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a Web. Uma conta Google funciona desta forma.
 
 Para escolher qual o tipo de informações a sincronizar dentro de cada conta, vá a definições &gt; contas."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Ligar sincronização automática?</string>
@@ -1547,9 +1547,9 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;armaze
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED nas mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas mensagens</string>
-  <string name="mobile_connect_to_internet">Por favor active a ligação à internet</string>
+  <string name="mobile_connect_to_internet">Por favor, active a ligação à internet</string>
   <string name="mobile_insert_sim_card">Insira um cartão SIM e reinicie</string>
-  <string name="mobile_no_provisioning_url">%1$s não tem serviço de web</string>
+  <string name="mobile_no_provisioning_url">%1$s não tem serviço de Web</string>
   <string name="mobile_unknown_sim_operator">Operador SIM desconhecido</string>
   <string name="model_number">Modelo do dispositivo</string>
   <string name="move_app">Mover</string>
@@ -3236,7 +3236,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wizard_finish">Concluído</string>
   <string name="wizard_next">Seguinte</string>
   <string name="wps_category">WPS</string>
-  <string name="wps_connect_summary">Confirme se o router suporta WPS e se este se encontra ligado</string>
+  <string name="wps_connect_summary">Confirme se o router suporta WPS e se este se encontra activo</string>
   <string name="wps_connect_title">Ligar WPS</string>
   <string name="wrong_pin_code_pukked">O Código PIN do seu cartão SIM está errado. Deve entrar em contacto com a sua operadora para desbloquear o dispositivo.</string>
   <string name="xiaomi_account">Conta Mi</string>

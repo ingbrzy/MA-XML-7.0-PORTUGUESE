@@ -151,17 +151,17 @@ Pretende fechar?"</string>
 Economizador de bateria desliga-se automaticamente quando o dispositivo está a carregar."</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-  <string name="bugreport_message">Serão recolhidas informações sobre estado actual do dispositivo, para enviar como uma mensagem de e-mail. Vai levar um pouco de tempo de iniciar o relatório de erro até que esteja pronto para ser enviado; por favor seja paciente.</string>
+  <string name="bugreport_message">Será recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erro esteja pronto para ser enviado. Aguarde um pouco.</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
-  <string name="bugreport_title">Envie relatório de erro</string>
+  <string name="bugreport_title">Criar relatório de erro</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
   <string name="candidates_style"><u>Candidatos</u></string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Os scripts podem ser instalados para tornar o conteúdo da aplicação mais acessível.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe.</string>
-  <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã poderá ser explorado através de gestos.</string>
-  <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela quando está a interagir.</string>
-  <string name="capability_title_canRequestEnhancedWebAccessibility">Ligue para melhorar a sua acessibilidade web</string>
+  <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã pode ser explorado através de gestos.</string>
+  <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela com a qual está a interagir.</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Ligue para melhorar o acesso à Web</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observe o texto que escrever</string>
   <string name="capability_title_canRequestTouchExploration">Ligue Explorar pelo toque</string>
   <string name="capability_title_canRetrieveWindowContent">Recuperar o conteúdo da janela</string>

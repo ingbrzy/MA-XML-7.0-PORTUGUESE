@@ -13,7 +13,7 @@
   <string name="am">AM</string>
   <string name="birthday">Aniversário</string>
   <string name="check_phone_error_title">Sincronização está desligada</string>
-  <string name="check_phone_io_error">Não é possível ligar à rede</string>
+  <string name="check_phone_io_error">Não é possível ligação à rede</string>
   <string name="chinese_day_1">" "</string>
   <string name="chinese_day_10">" "</string>
   <string name="chinese_day_11">" "</string>
@@ -340,7 +340,7 @@
   <string name="empty"/>
   <string name="eras_ad">D.C.</string>
   <string name="eras_bc">A.C.</string>
-  <string name="error_forbidden">Sincronização foi desligada devido a problemas com a sua conta Mi.</string>
+  <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua conta Mi.</string>
   <string name="error_not_acceptable">A sincronização foi desligada.</string>
   <string name="error_title">Não é possível sincronizar</string>
   <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início de sessão.</string>
@@ -410,7 +410,7 @@
   <string name="heavenly_stems_wu">" "</string>
   <string name="heavenly_stems_xin">" "</string>
   <string name="heavenly_stems_yi">" "</string>
-  <string name="hybrid_provider">A página web fornecida por %1$s .</string>
+  <string name="hybrid_provider">A página Web fornecida por %1$s .</string>
   <string name="im">IM</string>
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
