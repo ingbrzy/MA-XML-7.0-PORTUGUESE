@@ -136,8 +136,8 @@
   <string name="cannot_send_message">Não é possível enviar mensagem</string>
   <string name="cannot_send_message_reason">Sem destinatários válidos</string>
   <string name="cant_delete_system_album">Não é possível eliminar %s porque é um álbum de sistema.</string>
-  <string name="change_to_face_mode">Organizar por pessoas</string>
-  <string name="change_to_photo_mode">Organizar por álbuns</string>
+  <string name="change_to_face_mode">Ordenar por pessoas</string>
+  <string name="change_to_photo_mode">Ordenar por álbuns</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_cloud_album">Escolher álbum</string>
   <string name="choose_owner_relation">Relação</string>
@@ -295,8 +295,8 @@ com amigos"</string>
   <string name="face_albumset_detecting_tip">Aguarde um seg…</string>
   <string name="face_albumset_empty">Vazio</string>
   <string name="face_albumset_loading_data">A carregar dados…</string>
-  <string name="face_albumset_pending_enable_tip">Será possível organizar as fotos quando o dispositivo estiver ligado ao Wi-Fi</string>
-  <string name="face_albumset_use_tip">Organizar fotos automaticamente pelas pessoas que estão nas fotos</string>
+  <string name="face_albumset_pending_enable_tip">Irá ordenar as fotos quando o dispositivo estiver ligado ao Wi-Fi</string>
+  <string name="face_albumset_use_tip">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="face_choose_tip">Escolher de um álbum existente</string>
   <string name="face_move_dialog_title">Escolher um álbum</string>
   <string name="facelift">Brilho do rosto</string>
@@ -433,7 +433,7 @@ com amigos"</string>
   <string name="manual">Manual</string>
   <string name="me">eu</string>
   <string name="megabyteShort">MB</string>
-  <string name="menu_item_sort">Organizar</string>
+  <string name="menu_item_sort">Ordenar</string>
   <string name="menu_item_sort_date">Data</string>
   <string name="menu_item_sort_date_asc">Data (ascendente)</string>
   <string name="menu_item_sort_date_desc">Data (descendente)</string>
@@ -700,7 +700,7 @@ dispositivo"</string>
   <string name="sports_camera">Câmara Desportiva</string>
   <string name="square">Quadrado</string>
   <string name="start_slide_show">Iniciar apresentação de diapositivos</string>
-  <string name="start_to_use_face_albumset">Organizar por pessoas</string>
+  <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
   <string name="storage_all_volumes">Todos os dispositivos de armazenamento</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="straighten">Ajustar</string>
