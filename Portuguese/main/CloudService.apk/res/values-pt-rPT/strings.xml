@@ -327,7 +327,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="microsoft_cloud_price">Cerca de 10,50 € por ano</string>
   <string name="more_activity_in_upgrade_space">Saber mais em &lt;a href="http://i.mi.com"&gt;http://i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mensagens Mi</string>
-  <string name="mx_dspt_provision">"Mensagens Mi permitem enviar mensagens para outros utilizadores MIUI gratuitamente.
+  <string name="mx_dspt_provision">"Mensagens Mi permitem enviar mensagens para outros dispositivos MIUI gratuitamente quando ligados ao Wi-Fi.
 
 Pode ligar ou desligar este recurso em qualquer altura nas definições."</string>
   <string name="mx_dspt_provision_privacy">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso.
@@ -339,7 +339,7 @@ Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</strin
   <string name="mx_dspt_provision_privacy_no_sim">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso quando o cartão SIM for detectado.
 
 Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Ligar para outros utilizadores MIUI gratuitamente utilizando a sua ligação de internet. Pode ligar ou desligar este recurso a qualquer momento nas definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
+  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de internet. Pode ligar ou desligar este recurso a qualquer momento nas definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela internet</string>
@@ -375,6 +375,9 @@ Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</s
   <string name="sina_token_expired_warning">A conta Weibo expirou: Volte a ligar</string>
   <string name="sina_token_invalid_warning">A conta Weibo é inválida: Volte a ligar</string>
   <string name="sms">Mensagens</string>
+  <string name="soundrecorder_sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Gravador não irá utilizar dados móveis para transferir ou enviar gravações</string>
+  <string name="soundrecorder_sync_records">Sincronizar com a Nuvem Mi</string>
   <string name="start_micloud">Iniciar</string>
   <string name="storage">Armazenamento</string>
   <string name="sub_alert_notif_dspt_add">%s aguardam sincronização.</string>

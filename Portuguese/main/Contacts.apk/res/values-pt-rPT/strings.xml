@@ -344,7 +344,7 @@
   <string name="dialer_empty_text_loading">Aguarde um seg…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
-  <string name="dialer_menu_description">Toque para abrir o menu de marcação</string>
+  <string name="dialer_menu_description">Toque para mostrar o menu de marcação</string>
   <string name="dialer_returnToInCallScreen">Retorno da chamada em curso</string>
   <string name="dialer_useDtmfDialpad">Utilizar o tom de toque do teclado</string>
   <string name="dialog_import">Importar contactos</string>
@@ -606,7 +606,8 @@ Motivo: \"%s\""</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_import_export">Importar/exportar</string>
   <string name="menu_joinAggregate">Juntar</string>
-  <string name="menu_newContact">Novo contacto</string>
+  <string name="menu_newContact">Criar um novo contacto</string>
+  <string name="menu_newContactButton">Adicionar</string>
   <string name="menu_new_contact_action_bar">Novo</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
   <string name="menu_new_group_action_bar">Novo</string>
@@ -791,7 +792,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="no_contacts_selected">Sem contactos seleccionados.</string>
   <string name="no_sdcard_message">Nenhum armazenamento encontrado.</string>
   <string name="no_voip_contacts">Sem contactos Voz Mi</string>
-  <string name="non_phone_add_to_contacts">Adicionar aos contactos</string>
+  <string name="non_phone_add_to_contacts">Adicionar a um contacto existente</string>
   <string name="non_phone_caption">Número de telefone</string>
   <string name="non_phone_close">Fechar</string>
   <string name="none_paired">Sem dispositivos emparelhados</string>
@@ -924,7 +925,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="rebuild_t9_index_dialog_message">A reconstruir os dados do índice…</string>
   <string name="recent">Recente</string>
   <string name="recentCallsIconLabel">Registo de chamadas</string>
-  <string name="recentCalls_addToContact">Adicionar aos contactos</string>
+  <string name="recentCalls_addToContact">Adicionar a um contacto existente</string>
   <string name="recentCalls_callNumber">Ligar %s</string>
   <string name="recentCalls_deleteAll">Limpar registo de chamadas</string>
   <string name="recentCalls_editNumberBeforeCall">Editar o número antes de ligar</string>
@@ -1132,14 +1133,14 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_configure_voicemail">Configurar Voice Mail.</string>
   <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor de Voice Mail. Novas mensagens de voz em espera.</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail.</string>
-  <string name="voip_audio_description">Toque para enviar uma mensagem de voz</string>
+  <string name="voip_audio_description">Toque para fazer uma chamada VoIP</string>
   <string name="voip_contact_label">Voz Mi</string>
   <string name="voip_contacts_entry">Voz Mi</string>
   <string name="voip_loading_contact">Aguarde um seg…</string>
   <string name="voip_name">Voz Mi</string>
   <string name="voip_recommend_msg">Toque para utilizar Voz Mi</string>
   <string name="voip_shortcut_name">Voz Mi</string>
-  <string name="voip_video_description">Toque para enviar uma mensagem de vídeo</string>
+  <string name="voip_video_description">Toque para fazer uma videochamada VoIP</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpar dados</string>
