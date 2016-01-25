@@ -313,7 +313,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="background_data">Dados em segundo plano</string>
   <string name="background_data_dialog_message">Desactivar dados em segundo plano aumenta a vida útil da bateria e reduz a utilização de dados. Algumas aplicações podem ainda fazer utilização da ligação de dados em segundo plano.</string>
   <string name="background_data_dialog_title">Desactivar dados em segundo plano?</string>
-  <string name="background_data_summary">Aplicações podem sincronizar, enviar e receber dados a qualquer momento</string>
+  <string name="background_data_summary">Aplicações podem sincronizar, enviar e receber dados em qualquer altura</string>
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar.</string>
   <string name="backup_configure_account_default_summary">Nenhuma conta está actualmente a armazenar a cópia de segurança</string>
   <string name="backup_configure_account_title">Conta de cópia de segurança</string>
@@ -1676,10 +1676,10 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="location_neighborhood_level_wifi">Local determinado por Wi-Fi</string>
   <string name="location_network_based">Wi-Fi e redes móveis</string>
   <string name="location_no_recent_apps">Sem aplicações</string>
-  <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth a qualquer momento.</string>
+  <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth em qualquer altura.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Pesquisar por Bluetooth</string>
   <string name="location_scanning_screen_title">A pesquisar</string>
-  <string name="location_scanning_wifi_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem redes Wi-Fi a qualquer momento.</string>
+  <string name="location_scanning_wifi_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem redes Wi-Fi em qualquer altura.</string>
   <string name="location_scanning_wifi_always_scanning_title">Pesquisar por Wi-Fi</string>
   <string name="location_settings_title">Localização</string>
   <string name="location_sources_heading">Fontes da localização</string>
