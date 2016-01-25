@@ -902,9 +902,9 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_auto_setting_group">Agendado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
-  <string name="dndm_auto_time_turn_off">Hora de fim</string>
+  <string name="dndm_auto_time_turn_off">Até</string>
   <string name="dndm_auto_time_turn_off_title">Desligar automaticamente não incomodar</string>
-  <string name="dndm_auto_time_turn_on">Hora de início</string>
+  <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
   <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando não incomodar estiver ligado</string>
@@ -3255,7 +3255,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="zen_mode_downtime_category">Prioridade (Apenas interrupções com prioridade)</string>
   <string name="zen_mode_downtime_days">Dias</string>
   <string name="zen_mode_downtime_days_none">Nenhum</string>
-  <string name="zen_mode_end_time">Hora de fim</string>
+  <string name="zen_mode_end_time">Até</string>
   <string name="zen_mode_end_time_summary_format">%s próximo dia</string>
   <string name="zen_mode_entry_conditions_summary_none">Nunca</string>
   <string name="zen_mode_entry_conditions_title">Ligar automaticamente</string>
@@ -3277,7 +3277,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="zen_mode_option_title_novoice">Ao receber notificações</string>
   <string name="zen_mode_phone_calls">Chamadas</string>
   <string name="zen_mode_settings_title">Interrupções</string>
-  <string name="zen_mode_start_time">Hora de início</string>
+  <string name="zen_mode_start_time">De</string>
   <string name="zen_mode_when">Ligar automaticamente</string>
   <string name="zen_mode_when_every_night">Todas as noites</string>
   <string name="zen_mode_when_never">Nunca</string>
