@@ -373,7 +373,7 @@
     "download_all_song": "Transferir todas",
     "sort_by_name": "Nome",
     "sort_by_time": "Data",
-    "sort_by_language": "Linguagem",
+    "sort_by_language": "Idioma",
     "upgrade_remind": "Actualização disponível",
     "service_stop": "Serviço discontinuado",
     "upgrade_suggest": "Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.",
