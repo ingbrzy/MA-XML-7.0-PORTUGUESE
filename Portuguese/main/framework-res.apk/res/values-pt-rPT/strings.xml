@@ -151,9 +151,9 @@ Pretende fechar?"</string>
 Economizador de bateria desliga-se automaticamente quando o dispositivo está a carregar."</string>
   <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
   <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-  <string name="bugreport_message">Será recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erro esteja pronto para ser enviado. Aguarde um pouco.</string>
+  <string name="bugreport_message">Será recolhida informação sobre o estado actual do seu dispositivo a enviar através de uma mensagem de email. Demorará algum tempo até que o relatório de erros esteja pronto para ser enviado. Aguarde um pouco.</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
-  <string name="bugreport_title">Criar relatório de erro</string>
+  <string name="bugreport_title">Criar relatório de erros</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancelar</string>
   <string name="candidates_style"><u>Candidatos</u></string>
@@ -161,12 +161,12 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="capability_desc_canRequestFilterKeyEvents">Inclui dados pessoais, como números de cartão de crédito e palavras-passe.</string>
   <string name="capability_desc_canRequestTouchExploration">Os itens tocados serão ditos em voz alta e o ecrã pode ser explorado através de gestos.</string>
   <string name="capability_desc_canRetrieveWindowContent">Inspeccionar o conteúdo de uma janela com a qual está a interagir.</string>
-  <string name="capability_title_canRequestEnhancedWebAccessibility">Ligue para melhorar o acesso à Web</string>
-  <string name="capability_title_canRequestFilterKeyEvents">Observe o texto que escrever</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Ligar a acessibilidade Web melhorada</string>
+  <string name="capability_title_canRequestFilterKeyEvents">Observar texto que escrever</string>
   <string name="capability_title_canRequestTouchExploration">Ligar Explorar através do toque</string>
-  <string name="capability_title_canRetrieveWindowContent">Recuperar o conteúdo da janela</string>
-  <string name="capital_off">Desactivado</string>
-  <string name="capital_on">Activado</string>
+  <string name="capability_title_canRetrieveWindowContent">Obter conteúdo da janela</string>
+  <string name="capital_off">Desligado</string>
+  <string name="capital_on">Ligado</string>
   <string name="car_mode_disable_notification_message">Toque para sair do Modo Condução.</string>
   <string name="car_mode_disable_notification_title">Modo Condução activado</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
@@ -176,8 +176,8 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="cfTemplateRegisteredTime">{0}: Não reencaminhado</string>
   <string name="chooseActivity">Escolha uma acção</string>
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
-  <string name="choose_account_label">Seleccionar uma conta</string>
-  <string name="chooser_wallpaper">Alterar imagem de fundo</string>
+  <string name="choose_account_label">Escolher uma conta</string>
+  <string name="chooser_wallpaper">Alterar papel de parede</string>
   <string name="clearDefaultHintMsg">Limpar a predefinição nas Definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
   <string name="common_last_name_prefixes"/>
   <string name="common_name">Nome comum:</string>
@@ -225,7 +225,7 @@ Economizador de bateria desliga-se automaticamente quando o dispositivo está a 
   <string name="contentServiceSyncNotificationTitle">Sincronização</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Demasiadas %s para eliminar.</string>
   <string name="content_description_sliding_handle">Barra deslizante. Toque e segure.</string>
-  <string name="continue_to_enable_accessibility">Mantenha pressionado dois dedos para activar a acessibilidade.</string>
+  <string name="continue_to_enable_accessibility">Manter premido dois dedos para activar a acessibilidade.</string>
   <string name="copy">Copiar</string>
   <string name="copyUrl">Copiar URL</string>
   <string name="create_contact_using">"Criar contacto
