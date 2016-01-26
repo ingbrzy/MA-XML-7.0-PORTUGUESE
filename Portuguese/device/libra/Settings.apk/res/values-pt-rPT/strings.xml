@@ -1367,7 +1367,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e palavra-passe</string>
+  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
   <string name="lock_setup">Configuração concluída.</string>
   <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -1689,7 +1689,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="nsd_quick_toggle_title">Descobrir serviços de rede</string>
   <string name="oem_radio_info_label">Informações/Definições específicas de OEM</string>
   <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">Sair do modo Leve?</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo irá reiniciar para sair do modo Leve.</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no modo Leve.</string>
   <string name="oldman_mode_enabled_name">Modo Leve</string>
   <string name="oldman_mode_entry_name">Modo Leve</string>
