@@ -143,8 +143,8 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="cleaning_cache">A limpar cache…</string>
   <string name="clear_thumbnail_cache">Limpar miniaturas em cache</string>
-  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas em cache na Galeria vão ser limpas.</string>
-  <string name="clear_thumbnail_cache_summary">Limpar cache de miniaturas na Galeria</string>
+  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas da galeria em cache vão ser limpas.</string>
+  <string name="clear_thumbnail_cache_summary">Limpar miniaturas da galeria em cache</string>
   <string name="click_to_add_picture">Toque para adicionar imagens</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="close">Fechar</string>
@@ -373,7 +373,7 @@ com amigos"</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Notificação de ligação à internet</string>
-  <string name="impunity_declaration_summary">Mostrar notificação de ligação à internet sempre que abrir galeria</string>
+  <string name="impunity_declaration_summary">Mostrar notificação de ligação à internet sempre que abrir Galeria</string>
   <string name="impunity_declaration_title">Ligação à internet</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Para ocultar uma foto, prima e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
@@ -696,8 +696,8 @@ dispositivo"</string>
   <string name="slideshow_interval">Mostrar cada diapositivo por</string>
   <string name="slideshow_interval_dialog_title">Intervalo de apresentação deve ser maior que 0 segundos</string>
   <string name="slideshow_interval_invalid">Intervalo tem de ser entre 1 e 3600 segundos</string>
-  <string name="slideshow_repeat_mode">Ciclo</string>
-  <string name="sports_camera">Câmara Desportiva</string>
+  <string name="slideshow_repeat_mode">Repetição</string>
+  <string name="sports_camera">Câmara desportiva</string>
   <string name="square">Quadrado</string>
   <string name="start_slide_show">Iniciar apresentação de diapositivos</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
