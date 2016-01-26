@@ -129,8 +129,8 @@
   <string name="modify_call_prompt_no">Não</string>
   <string name="modify_call_prompt_yes">Sim</string>
   <string name="msim_select_default_time_left">(%d s)</string>  
-  <string name="no_vm_number">Número do correio de voz em falta</string>
-  <string name="no_vm_number_msg">Não existe nenhum número de correio de voz armazenado no cartão SIM.</string>  
+  <string name="no_vm_number">Número do Voice Mail em falta</string>
+  <string name="no_vm_number_msg">Não existe nenhum número de Voice Mail armazenado no cartão SIM.</string>  
   <string name="non_ivr_menu_collapse_menu">Fechar menu</string>
   <string name="non_ivr_menu_view_menu">Ver menu</string>
   <string name="notification_action_accept">Aceitar</string>
@@ -182,7 +182,7 @@
   <string name="upgrade_vt_prompt">Gostaria de actualizar a chamada para videochamada?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Desligar modo TTY primeiro</string>
   <string name="video_switch_to_voice_call_prompt">Trocar para chamada de voz</string>
-  <string name="voicemail">Correio de voz</string>
+  <string name="voicemail">Voice Mail</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>  
   <string name="waiting_close_airplane_mode">Aguarde um seg…</string>
