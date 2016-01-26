@@ -1604,8 +1604,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="layout_size_small_text">Pequeno</string>
   <string name="led_colors_summary">Notificações</string>
   <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
-  <string name="led_pulse_summary">Activar LED quando recebe uma nova notificação</string>
-  <string name="led_settings">Luz de notificação</string>
+  <string name="led_pulse_summary">Activar LED quando receber uma nova notificação</string>
+  <string name="led_settings">LED de notificação</string>
   <string name="legacy_dhcp_client">Utilizar cliente DHCP antigo</string>
   <string name="legacy_dhcp_client_summary">Utilizar o cliente DHCP do Lollipop em vez do novo cliente DHCP do Android.</string>
   <string name="legal_information">Informações legais</string>
@@ -1909,7 +1909,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="misc_files_selected_count">seleccionados %1$d de %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
   <string name="miui_allow_alarm">Alarmes</string>
-  <string name="miui_allow_light">Luz de notificações</string>
+  <string name="miui_allow_light">LED de notificações</string>
   <string name="miui_allow_music">Multimédia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
