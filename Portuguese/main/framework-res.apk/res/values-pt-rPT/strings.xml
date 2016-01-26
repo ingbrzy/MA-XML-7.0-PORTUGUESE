@@ -840,8 +840,8 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accountManagerService">Permite que a aplicação efectue chamadas para autenticadores de conta.</string>
   <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada do Voice Mail.</string>
   <string name="permdesc_anyCodecForPlayback">Permite que a aplicação utilize qualquer descodificador de multimédia instalado para descodificar a reprodução.</string>
-  <string name="permdesc_asec_access">Permite à aplicação obter informações sobre o armazenamento interno.</string>
-  <string name="permdesc_asec_create">Permite à aplicação criar armazenamento interno.</string>
+  <string name="permdesc_asec_access">Permite que a aplicação obtenha informações sobre o armazenamento interno.</string>
+  <string name="permdesc_asec_create">Permite que a aplicação crie um armazenamento interno.</string>
   <string name="permdesc_asec_destroy">Permite à aplicação destruir o armazenamento interno.</string>
   <string name="permdesc_asec_mount_unmount">Permite à aplicação montar/desmontar o armazenamento interno.</string>
   <string name="permdesc_asec_rename">Permite à aplicação mudar o nome do armazenamento interno.</string>
