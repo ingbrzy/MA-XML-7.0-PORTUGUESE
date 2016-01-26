@@ -1605,7 +1605,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="led_colors_summary">Notificações</string>
   <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
   <string name="led_pulse_summary">Activar LED quando receber uma nova notificação</string>
-  <string name="led_settings">LED de notificação</string>
+  <string name="led_settings">LED de notificações</string>
   <string name="legacy_dhcp_client">Utilizar cliente DHCP antigo</string>
   <string name="legacy_dhcp_client_summary">Utilizar o cliente DHCP do Lollipop em vez do novo cliente DHCP do Android.</string>
   <string name="legal_information">Informações legais</string>
@@ -2088,7 +2088,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
   <string name="notification_log_title">Registo de notificações</string>
-  <string name="notification_pulse_title">Utilizar luz de notificações</string>
+  <string name="notification_pulse_title">Utilizar LED de notificações</string>
   <string name="notification_ringtone_title">Toque de notificação predefinido</string>
   <string name="notification_section_header">Notificações</string>
   <string name="notification_settings">Som e notificações</string>
@@ -2917,7 +2917,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
   <string name="status_bar_settings_no_carrier">Nenhum</string>
   <string name="status_bar_settings_notification_bar">Área de notificações</string>
-  <string name="status_bar_settings_notification_led">Luz de notificações</string>
+  <string name="status_bar_settings_notification_led">LED de notificações</string>
   <string name="status_bar_settings_notification_priority">Prioridades</string>
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
   <string name="status_bar_settings_notification_sound_vibrate">Som e vibração</string>

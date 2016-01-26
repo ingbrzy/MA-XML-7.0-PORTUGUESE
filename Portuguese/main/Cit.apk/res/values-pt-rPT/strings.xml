@@ -166,8 +166,8 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_lcdlight_brightness">Luz do fundo</string>
   <string name="cit_lcdlight_brightness_max">MAX</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
-  <string name="cit_leds_check_summary">Luz de fundo, LED de notificação e LED do flash deverão funcionar quando for activado o botão correspondente no ecrã.</string>
-  <string name="cit_leds_check_title">LED de notificação</string>
+  <string name="cit_leds_check_summary">Luz de fundo, LED de notificações e LED do flash deverão funcionar quando for activado o botão correspondente no ecrã.</string>
+  <string name="cit_leds_check_title">LED de notificações</string>
   <string name="cit_light_sensor_check_summary">O valor do DAC deverá aparecer em baixo.</string>
   <string name="cit_light_sensor_check_title">Sensor de luz</string>
   <string name="cit_magnetic_sensor_check_summary">Valores para X，Y，Z, as coordenadas deverão aparecer em baixo</string>
@@ -182,9 +182,9 @@ Toque no ecrã para iniciar o GPS…"</string>
   <string name="cit_main_camera_check_title">Câmara traseira</string>
   <string name="cit_name">Testes do hardware</string>
   <string name="cit_not_available">Este teste não está disponível nesta versão da MIUI</string>
-  <string name="cit_notificationlight">LED de notificação</string>
-  <string name="cit_notificationlight_off">LED de notificação desligado</string>
-  <string name="cit_notificationlight_on">LED de notificação ligado</string>
+  <string name="cit_notificationlight">LED de notificações</string>
+  <string name="cit_notificationlight_off">LED de notificações desligado</string>
+  <string name="cit_notificationlight_on">LED de notificações ligado</string>
   <string name="cit_otg_not_supported">Este telefone não suporta teste OTG</string>
   <string name="cit_pass">O teste foi bem sucedido</string>
   <string name="cit_play_sd_mp3_hifi_summary">"Confirme que existe um ficheiro com o nome  \"music.mp3\" no cartão SD. Quando iniciar este teste o ficheiro \"music.mp3\" será reproduzido no dispositivo Wi-Fi associado."</string>

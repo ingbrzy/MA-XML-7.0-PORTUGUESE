@@ -1279,7 +1279,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="led_colors_summary">Notificações</string>
   <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
   <string name="led_pulse_summary">Activar LED quando receber uma nova notificação</string>
-  <string name="led_settings">LED de notificação</string>
+  <string name="led_settings">LED de notificações</string>
   <string name="legal_information">Informações legais</string>
   <string name="legal_workday">Dias Úteis</string>
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de feriados expirada) </string>
@@ -1680,7 +1680,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Activar %1$s?</string>
-  <string name="notification_pulse_title">LED de notificação</string>
+  <string name="notification_pulse_title">LED de notificações</string>
   <string name="notification_sound_dialog_title">Toque de notificação predefinido</string>
   <string name="notification_sound_title">Toque de notificação predefinido</string>
   <string name="notification_volume_title">Notificação</string>
