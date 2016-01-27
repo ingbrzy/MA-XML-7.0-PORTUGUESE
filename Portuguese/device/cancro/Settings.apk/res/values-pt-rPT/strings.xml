@@ -499,7 +499,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_empty_list_user_restricted">Não tem permissão para alterar as definições de Bluetooth</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
-  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e, em seguida, prima Return ou Enter</string>
+  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e em seguida, prima Voltar ou Avançar</string>
   <string name="bluetooth_enter_passkey_other_device">Poderá ter que introduzir esta palavra-chave no outro dispositivo.</string>
   <string name="bluetooth_enter_pin_other_device">Poderá ter que introduzir este PIN no outro dispositivo.</string>
   <string name="bluetooth_error_title"/>
@@ -1180,7 +1180,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="enable_service_pattern_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu padrão.</string>
   <string name="enable_service_pin_reason">Uma vez que ligar %1$s afecta a encriptação de dados, o utilizador tem de confirmar o seu PIN.</string>
   <string name="enable_service_title">Utilizar %1$s?</string>
-  <string name="enable_snapshot_screenlock">Pressão longa no botão Voltar para tirar foto</string>
+  <string name="enable_snapshot_screenlock">Pressão longa no botão voltar para tirar foto</string>
   <string name="enable_terminal_summary">Activar terminal para as aplicações que ofereçam acesso a shell local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activar</string>
@@ -2262,11 +2262,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_usage_summary_title">Bateria e desempenho</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
-  <string name="pref_button_light_summary">Ligar luz dos botões Menu, Início e Voltar</string>
+  <string name="pref_button_light_summary">Ligar luz dos botões menu, início e voltar</string>
   <string name="pref_edge_handgrip">Controlos da borda</string>
   <string name="pref_operational_key">Botões de Navegação</string>
-  <string name="pref_volume_wake_summary">Premir os botões de Volume acorda o dispositivo</string>
-  <string name="pref_volume_wake_title">Acordar com botões de Volume</string>
+  <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
+  <string name="pref_volume_wake_title">Acordar com botões de volume</string>
   <string name="preference_change_password_title">Alterar a palavra-passe</string>
   <string name="preferred_app_settings">Predefinidas</string>
   <string name="preferred_app_settings_default">Predefinida</string>

@@ -405,7 +405,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos ligue o Bluetooth.</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">O PIN contém letras ou símbolos</string>
-  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e prima Avançar ou Voltar</string>
+  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e em seguida, prima Voltar ou Avançar</string>
   <string name="bluetooth_enter_passkey_other_device">Poderá ter que inserir esta palavra-chave no outro dispositivo.</string>
   <string name="bluetooth_enter_pin_msg">Dispositivo</string>
   <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
@@ -1823,8 +1823,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pref_button_light_summary">Ligar luz dos botões menu, início e voltar</string>
   <string name="pref_edge_handgrip">Definições gestuais</string>
   <string name="pref_operational_key">Botões de navegação</string>
-  <string name="pref_volume_wake_summary">Activar os botões do volume para acordar o dispositivo</string>
-  <string name="pref_volume_wake_title">Botões do volume</string>
+  <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
+  <string name="pref_volume_wake_title">Acordar com botões de volume</string>
   <string name="preference_change_password_title">Alterar palavra-passe</string>
   <string name="preferred_app_settings">Predefinidas</string>
   <string name="preferred_app_settings_default">Predefinida</string>
