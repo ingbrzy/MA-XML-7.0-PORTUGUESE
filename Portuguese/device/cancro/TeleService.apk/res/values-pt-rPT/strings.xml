@@ -161,9 +161,9 @@
   <string name="call_settings_with_label">Definições adicionais (%s)</string>
   <string name="call_waiting_summary">Notificar-me de chamadas a receber durante uma chamada</string>
   <string name="call_waiting_title">Chamada em espera</string>
-  <string name="call_waiting_tone_continuously">Tocar o som da notificação continuamente</string>
+  <string name="call_waiting_tone_continuously">Tocar som da notificação repetidamente</string>
   <string name="call_waiting_tone_title">Notificação de chamada em espera</string>
-  <string name="call_waiting_tone_twice_and_vibrate">Tocar som de notificação e vibração duas vezes</string>
+  <string name="call_waiting_tone_twice_and_vibrate">Tocar som da notificação e vibração duas vezes</string>
   <string name="call_waiting_tone_twice_only">Tocar som de notificação duas vezes</string>
   <string name="caller_id_summary">Ocultar o meu número (confirme se a sua operadora suporta esta função)</string>
   <string name="caller_id_title">ID do autor da chamada</string>
@@ -948,7 +948,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="registration_status_server_unreachable">Não é possível registar conta. Verifique se o nome do servidor está correcto.</string>
   <string name="registration_status_still_trying">Aguarde…</string>
   <string name="reject_via_sms">Respostas rápidas</string>
-  <string name="reject_via_sms_summary">Editar respostas texto pré-escritas</string>
+  <string name="reject_via_sms_summary">Editar respostas de texto predefinidas</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
   <string name="remain_mins_divider">ou</string>
   <string name="remain_mins_domestic">Restante (nacional)</string>
