@@ -886,7 +886,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_changeConfiguration">Permite que a aplicação altere a configuração actual, como o tamanho e o tipo de letra.</string>
   <string name="permdesc_changeNetworkState">Permite que a aplicação altere o estado de conectividade da rede.</string>
   <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede ligada.</string>
-  <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o telefone. Utiliza mais energia do que o modo não multicast.</string></string>
+  <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o telefone. Utiliza mais energia do que o modo não multicast.</string>
   <string name="permdesc_changeWifiState">Permite que a aplicação se ligue e desligue de pontos de acesso Wi-Fi e que efectue alterações à configuração do dispositivo para redes Wi-Fi.</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
   <string name="permdesc_checkinProperties">Permite que a aplicação tenha permissões de leitura/escrita para ter acesso às propriedades carregadas pelo serviço de entrada. Nunca deve ser necessário para aplicações normais.</string>
