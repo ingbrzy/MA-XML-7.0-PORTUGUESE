@@ -585,9 +585,9 @@ Recarregue e comece a falar"</string>
   <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por um SMS utilizado para verificar este número de telefone."</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
   <string name="load_networks_progress">A pesquisar…</string>
-  <string name="loading">Aguarde um seg…</string>
-  <string name="loading_order">Aguarde um seg…</string>
-  <string name="loading_product">Aguarde um seg…</string>
+  <string name="loading">Aguarde…</string>
+  <string name="loading_order">Aguarde…</string>
+  <string name="loading_product">Aguarde…</string>
   <string name="local_disable">Notícias Locais está desligado</string>
   <string name="local_enable">Notícias Locais está ligado</string>
   <string name="local_weather_disable">Tempo local está desligado</string>
@@ -946,7 +946,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="registration_status_not_running">Não é possível registar conta</string>
   <string name="registration_status_registering">A registar…</string>
   <string name="registration_status_server_unreachable">Não é possível registar conta. Verifique se o nome do servidor está correcto.</string>
-  <string name="registration_status_still_trying">Aguarde um seg…</string>
+  <string name="registration_status_still_trying">Aguarde…</string>
   <string name="reject_via_sms">Respostas rápidas</string>
   <string name="reject_via_sms_summary">Editar respostas texto pré-escritas</string>
   <string name="reject_via_sms_title">Respostas rápidas</string>
@@ -1102,7 +1102,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">Entrada de pesquisa T9</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Aguarde um seg…</string>
+  <string name="t9_indexing_rebuilding_message">Aguarde…</string>
   <string name="technology_news_disable">Notícias sobre Tecnologia está desligado</string>
   <string name="technology_news_enable">Notícias sobre Tecnologia está ligado</string>
   <string name="telephony_setting">Definições de chamadas</string>

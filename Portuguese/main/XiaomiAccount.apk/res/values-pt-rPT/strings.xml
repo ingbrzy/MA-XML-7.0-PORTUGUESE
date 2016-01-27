@@ -82,7 +82,7 @@
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
   <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi irá ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta.</string>
-  <string name="device_delete_loading">Aguarde um seg…</string>
+  <string name="device_delete_loading">Aguarde…</string>
   <string name="device_delete_success_message">Se não iniciou sessão neste dispositivo altere imediatamente a sua palavra-passe.</string>
   <string name="device_delete_success_title">Sessão terminada</string>
   <string name="device_list__header">Os meus dispositivos</string>
@@ -97,8 +97,8 @@
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
-  <string name="just_a_second">Aguarde um seg…</string>
-  <string name="loading_micloud_sync_data">Aguarde um seg…</string>
+  <string name="just_a_second">Aguarde…</string>
+  <string name="loading_micloud_sync_data">Aguarde…</string>
   <string name="logout_failed">Não é possível terminar sessão</string>
   <string name="mi_account_dspt_provision">"Iniciar sessão na Nuvem Mi, Loja MIUI Tema e outros serviços Mi em qualquer lugar. "</string>
   <string name="mi_account_identity_title">Verificar a sua identidade</string>
@@ -301,7 +301,7 @@ Para activar a sua conta siga o
   <string name="update_recovery_info_dialog_title">Actualizar %s</string>
   <string name="updated_nothing">Actualizado</string>
   <string name="user_avatar_update_title">Alterar foto de perfil</string>
-  <string name="user_avatar_uploading">Aguarde um seg…</string>
+  <string name="user_avatar_uploading">Aguarde…</string>
   <string name="wipe_data_dialog_msg">%s ficheiros serão eliminados se continuar.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Alguns itens ainda não foram sincronizados</string>

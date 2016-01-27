@@ -34,7 +34,7 @@
   <string name="hide_mode_desc">"Quando uma aplicação executa em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização da bateria. Exemplos: ligação à rede, serviços de localização, rádio, etc. Estas actividades podem ser afectadas por este recurso. Esta configuração é apropriada para a maioria das aplicações, mas se uma aplicação em particular se comportar de uma forma estranha enquanto executa em segundo plano, poderá personalizar as definições da aplicação."</string>
   <string name="hide_mode_desc_title">Gerir utilização da bateria pelas aplicações</string>
   <string name="high">Desempenho</string>
-  <string name="hints_loading_text">Aguarde um seg…</string>
+  <string name="hints_loading_text">Aguarde…</string>
   <string name="invalid_size_value">"Não foi possível obter o tamanho do pacote."</string>
   <string name="keep_connect_description">Aplicações podem ligar à rede em segundo plano</string>
   <string name="keep_connect_title">Permanecer ligado</string>
@@ -144,7 +144,7 @@
   <string name="set_cpu_powermode">Utilização da CPU</string>
   <string name="set_cpufreq_max">Frequência máx. da CPU</string>
   <string name="set_lcd_mode">Modo do Ecrã</string>
-  <string name="settings_safetylegal_activity_loading">Aguarde um seg…</string>
+  <string name="settings_safetylegal_activity_loading">Aguarde…</string>
   <string name="still">Imagem</string>
   <string name="ui">Predefinido</string>
   <string name="user_define_mode">Nome</string>

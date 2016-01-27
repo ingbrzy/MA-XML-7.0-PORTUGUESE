@@ -158,7 +158,7 @@
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
   <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi.</string>
   <string name="cloud_state_disabled">Sincronização com a Nuvem Mi está desligada</string>
-  <string name="cloud_state_loading">Aguarde um seg…</string>
+  <string name="cloud_state_loading">Aguarde…</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Nuvem Mi</string>
   <string name="cloud_state_syncing">A sincronizar com a Nuvem Mi</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -341,7 +341,7 @@
   <string name="dialerIconLabel">Recentes</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
   <string name="dialer_addAnotherCall">Adicionar chamada</string>
-  <string name="dialer_empty_text_loading">Aguarde um seg…</string>
+  <string name="dialer_empty_text_loading">Aguarde…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
   <string name="dialer_menu_description">Toque para mostrar o menu de marcação</string>
@@ -555,10 +555,10 @@ Motivo: \"%s\""</string>
   <string name="list_filter_customize">Personalizar</string>
   <string name="list_filter_phones">Todos os contactos com números de telefone</string>
   <string name="list_filter_single">Contacto</string>
-  <string name="loading_accounts">Aguarde um seg…</string>
-  <string name="loading_group_members">Aguarde um seg…</string>
-  <string name="loading_groups">Aguarde um seg…</string>
-  <string name="loading_recent">Aguarde um seg…</string>
+  <string name="loading_accounts">Aguarde…</string>
+  <string name="loading_group_members">Aguarde…</string>
+  <string name="loading_groups">Aguarde…</string>
+  <string name="loading_recent">Aguarde…</string>
   <string name="local_invisible_directory">Outro</string>
   <string name="local_profile_title">Meu perfil</string>
   <string name="local_search_label">Todos os contactos</string>
@@ -1136,7 +1136,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="voip_audio_description">Toque para fazer uma chamada VoIP</string>
   <string name="voip_contact_label">Voz Mi</string>
   <string name="voip_contacts_entry">Voz Mi</string>
-  <string name="voip_loading_contact">Aguarde um seg…</string>
+  <string name="voip_loading_contact">Aguarde…</string>
   <string name="voip_name">Voz Mi</string>
   <string name="voip_recommend_msg">Toque para utilizar Voz Mi</string>
   <string name="voip_shortcut_name">Voz Mi</string>

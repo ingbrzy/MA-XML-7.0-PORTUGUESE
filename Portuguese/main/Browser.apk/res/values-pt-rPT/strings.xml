@@ -218,7 +218,7 @@
   <string name="download_dialog_file_length_hint_txt">Tamanho do ficheiro:</string>
   <string name="download_dialog_file_length_lessthan1kb">Menos de 1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">Não foi possível transferir</string>
-  <string name="download_dialog_file_length_nolength_txt">Aguarde um seg…</string>
+  <string name="download_dialog_file_length_nolength_txt">Aguarde…</string>
   <string name="download_failed">A transferência falhou</string>
   <string name="download_filter_all">Tudo</string>
   <string name="download_filter_application">Aplicações</string>
@@ -541,7 +541,7 @@ Tem a certeza que quer sair desta página?"</string>
   <string name="readmode_login">Iniciar a sessão</string>
   <string name="readmode_login_message">Tem que iniciar a sessão para ler mais.</string>
   <string name="readmode_page_load_error">Não é possível carregar a página</string>
-  <string name="readmode_page_loading">Aguarde um seg…</string>
+  <string name="readmode_page_loading">Aguarde…</string>
   <string name="readmode_pay">Comprar capítulo</string>
   <string name="readmode_pay_message">Tem que pagar para ler os capítulos seguintes.</string>
   <string name="readmode_reach_last_page">Chegou à última página</string>
