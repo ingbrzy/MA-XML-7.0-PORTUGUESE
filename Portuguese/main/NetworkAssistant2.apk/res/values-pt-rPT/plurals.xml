@@ -33,12 +33,12 @@
         <item quantity="one">Pesquisar %d aplicação</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d aplicações podem utilizar dados móveis</item>
-        <item quantity="one">%d aplicação pode utilizar dados móveis</item>
+        <item quantity="other">%d aplicações podem utilizar dados em roaming</item>
+        <item quantity="one">%d aplicação pode utilizar dados em roaming</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">%d aplicações não podem utilizar dados móveis</item>
-        <item quantity="one">%d aplicação não pode utilizar dados móveis</item>
+        <item quantity="other">%d aplicações não podem utilizar dados em roaming</item>
+        <item quantity="one">%d aplicação não pode utilizar dados em roaming</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d aplicações encontradas</item>

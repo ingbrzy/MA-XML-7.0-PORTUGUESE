@@ -5,7 +5,7 @@
   <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
-  <string name="add_contact">Contacto</string>
+  <string name="add_contact">vCard</string>
   <string name="add_festival">Respostas rápidas</string>
   <string name="add_music">Adicionar música</string>
   <string name="add_nickname">Alcunha</string>
@@ -13,6 +13,7 @@
   <string name="add_number_to_sender">Adicionar número a %s</string>
   <string name="add_picture">Adicionar imagem</string>
   <string name="add_private_contact">Adicionar contacto privado</string>
+  <string name="add_redpackage">Pacote vermelho</string>
   <string name="add_slide">Adicionar diapositivo (depois)</string>
   <string name="add_slide_before">Adicionar diapositivo</string>
   <string name="add_slide_hint">Seleccionar para criar um diapositivo novo</string>
@@ -439,6 +440,8 @@
   <string name="recipient_label">Destinatário: </string>
   <string name="recipients_over_size">Demasiados destinatários.</string>
   <string name="recording_failed">Não foi possível gravar</string>
+  <string name="red_package_btn">Abrir</string>
+  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
   <string name="refill_now">Recarregar agora</string>
   <string name="refresh">Actualizar</string>
   <string name="refresh_failed">Actualização sem êxito</string>

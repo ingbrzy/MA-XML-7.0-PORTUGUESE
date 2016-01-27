@@ -3,6 +3,8 @@
   <string name="account_bind_prompt">A mover dados do utilizador. Aguarde alguns minutos.</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
+  <string name="ad_download">Transferir</string>
+  <string name="ad_downloading">A carregar…</string>
   <string name="add_private">Ocultar ficheiros agora</string>
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="add_task">Adicionar tarefas</string>
@@ -63,6 +65,7 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Ficheiros</string>
+  <string name="change_sticker">Escolha outro</string>
   <string name="choose_send_type">Escolher um método</string>
   <string name="choose_upload_location">Enviar para pasta do KuaiPan</string>
   <string name="clean_hint">Toque para libertar espaço</string>
@@ -79,6 +82,7 @@
   <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
   <string name="connect_network_setting_des">Perguntar por ligação à internet</string>
+  <string name="connecting">A ligar…</string>
   <string name="connection_error">"Não foi possível ligar"</string>
   <string name="copy_failed">Não foi possível copiar, parece que o armazenamento está cheio</string>
   <string name="copy_file_to_kuaipan">Copiar ficheiro para Kuaipan</string>
@@ -133,6 +137,7 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Vazio</string>
   <string name="dlg_error_unmount_text">Erro ao desmontar o armazenamento USB.</string>
+  <string name="download">Transferir</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Erro na transferência</string>
   <string name="download_link_completed">%1$s partilhado via KuaiPan. Toque no link abaixo para ver:</string>
@@ -191,6 +196,7 @@
   <string name="group_title_extra_backup">Cópias de Segurança</string>
   <string name="group_title_extra_expire">Mesmo a expirar</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="has_installed">Instalado</string>
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="instruction">Introduza o seguinte endereço numa aplicação FTP:</string>
@@ -224,6 +230,7 @@
   <string name="load_err">Não é possível carregar</string>
   <string name="load_more">Ver mais</string>
   <string name="loading">A carregar…</string>
+  <string name="load_sticker_fail">Não foi possível carregar, tente novamente</string>
   <string name="local_image">Imagens</string>
   <string name="local_music">Ficheiros de Áudio</string>
   <string name="local_sticker_str">Desligado</string>
@@ -302,14 +309,15 @@ e nunca perca as novidades!"</string>
   <string name="no">Não</string>
   <string name="no_app_tags">Vazio</string>
   <string name="no_display_file">Não é possível mostrar %1$s</string>
-  <string name="no_downloaded_sticker_tip">"Não foi possível encontrar adesivos transferidos. Verifique os adesivos partilhados pelos fãs MIUI."</string>
+  <string name="no_downloaded_sticker_tip">Não foi possível encontrar adesivos transferidos. Verifique os adesivos partilhados pelos fãs MIUI.</string>
   <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio.</string>
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
-  <string name="no_local_sticker_tip">"Não foi possível encontrar adesivos transferidos. Confira os adesivos partilhados pelos fãs Mi."</string>
+  <string name="no_local_sticker_tip">Não foi possível encontrar adesivos transferidos. Confira os adesivos partilhados pelos fãs Mi.</string>
   <string name="no_more_space">Não há espaço suficiente.</string>
-  <string name="no_network_str">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
+  <string name="no_network_str">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente.</string>
   <string name="no_recent_files">Sem ficheiros recentes</string>
+  <string name="no_network_tip">Não é possível ligar à rede. Verifique a ligação e tente novamente.</string>
   <string name="no_tasks">Sem tarefas.</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
@@ -456,6 +464,7 @@ e nunca perca as novidades!"</string>
   <string name="select_image">Imagens</string>
   <string name="select_music">Ficheiros de Áudio</string>
   <string name="select_video">Ficheiros de Vídeo</string>
+  <string name="send_sticker">Enviar adesivo</string>
   <string name="send_to_midrive">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado.</string>
   <string name="send_to_qq">Enviar para QQ</string>
@@ -548,6 +557,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="user_not_login">Iniciar sessão primeiro</string>
   <string name="utf8_summary">Codificação do Sistema FTP padrão</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="view_more_sticker">Ver mais adesivos</string>
   <string name="wait_net">A aguardar pela rede</string>
   <string name="wait_sdcard">A aguardar pelo cartão SD…</string>
   <string name="wait_wifi">A aguardar por Wi-Fi</string>
