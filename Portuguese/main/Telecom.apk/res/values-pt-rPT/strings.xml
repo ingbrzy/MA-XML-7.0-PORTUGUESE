@@ -23,10 +23,10 @@
   <string name="notification_missedCallsTitle">Chamadas não atendidas</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Chamada não efectuada, não foi introduzido um número válido.</string>
   <string name="outgoing_call_not_allowed">Não é permitido a este utilizador fazer chamadas telefónicas</string>
-  <string name="respond_via_sms_canned_response_1">"Agora não posso atender. Ligo mais tarde."</string>
-  <string name="respond_via_sms_canned_response_2">"Eu ligo de volta."</string>
-  <string name="respond_via_sms_canned_response_3">"Eu ligo mais tarde."</string>
-  <string name="respond_via_sms_canned_response_4">"Agora não posso atender. Qual é o assunto?"</string>
+  <string name="respond_via_sms_canned_response_1">"Não posso falar agora. O que é que se passa?"</string>
+  <string name="respond_via_sms_canned_response_2">"Telefono-lhe daqui a pouco."</string>
+  <string name="respond_via_sms_canned_response_3">"Telefono-lhe mais tarde."</string>
+  <string name="respond_via_sms_canned_response_4">"Não posso falar agora. Telefona-me mais tarde?"</string>
   <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
   <string name="respond_via_sms_menu_reset_default_activity">Redefinir a aplicação predefinida</string>
