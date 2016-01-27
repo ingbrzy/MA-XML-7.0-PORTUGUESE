@@ -882,7 +882,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_captureSecureVideoOutput">Permite que a aplicação grave e redireccione em segurança uma saída de vídeo.</string>
   <string name="permdesc_captureVideoOutput">Permite que a aplicação grave e redireccione a saída de vídeo.</string>
   <string name="permdesc_changeBackgroundDataSetting">Permite que a aplicação altere as definições de utilização de dados em segundo plano.</string>
-  <string name="permdesc_changeComponentState">Permite que a aplicação altere a opção de activar/desactivar os dados de outra aplicação. As aplicações maliciosas servem-se disto para desactivar dados importantes do telefone. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
+  <string name="permdesc_changeComponentState">Permite que a aplicação altere a opção de activar/desactivar componentes de outra aplicação. As aplicações maliciosas servem-se disto para desactivar componentes importantes do telefone. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
   <string name="permdesc_changeConfiguration">Permite que a aplicação altere a configuração actual, como o tamanho e o tipo de letra.</string>
   <string name="permdesc_changeNetworkState">Permite que a aplicação altere o estado de conectividade da rede.</string>
   <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede ligada.</string>
