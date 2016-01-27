@@ -369,7 +369,7 @@
   <string name="empty_alert">%s não pode ficar em branco.</string>
   <string name="empty_networks_list">Não foram encontradas redes.</string>
   <string name="enable">Ligar</string>
-  <string name="enable_antispam_strange_summary">Silenciar ao primeiro toque uma chamada de um número desconhecido</string>
+  <string name="enable_antispam_strange_summary">Silenciar ao primeiro toque as chamadas de números desconhecidos</string>
   <string name="enable_antispam_strange_title">Silenciar ao primeiro toque</string>
   <string name="enable_disable_administrative">Administrador</string>
   <string name="enable_disable_advertisements">Propagandas</string>
@@ -474,7 +474,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
   <string name="hac_mode_summary">Activar aparelho auditivo compatível</string>
   <string name="hac_mode_title">Aparelhos auditivos</string>
-  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Este recurso não funciona quando a vibração para chamadas recebidas está ligado</string>
+  <string name="handon_ringer_summary">Reduzir o volume do toque da chamada recebida quando o telefone é levantado. Esta função não funciona quando a vibração para chamadas recebidas está ligado</string>
   <string name="handon_ringer_title">Parar de tocar ao levantar</string>
   <string name="hintName">Nome</string>
   <string name="hintPhonenumber">Número de telefone</string>
