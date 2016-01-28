@@ -365,13 +365,13 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
-        <item>Systrace (gráficos)</item>
-        <item>Quantidade de chamadas em glGetError</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Pilha de chamadas em glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Desligado</item>
-        <item>Desenhe no clipe não rectangular na região em azul</item>
-        <item>Destaque dos comandos de desenho testado em verde</item>
+        <item>Desenhar região de clipe não retangular a azul</item>
+        <item>Realçar comandos de desenho testados a verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Desligado</item>
@@ -381,8 +381,8 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Desligado</item>
-        <item>Mostrar áreas de limite</item>
-        <item>Mostrar áreas de deuteranopia</item>
+        <item>Mostrar áreas de sobreposição</item>
+        <item>Mostrar áreas para deuteranopia</item>
         <item>Mostrar limite do contador</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -680,11 +680,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Personalizado</item>
     </string-array>	
     <string-array name="select_logd_size_summaries">
-        <item>64K de limite no registo</item>
-        <item>256K de limite no registo</item>
-        <item>1M de limite no registo</item>
-        <item>4M de limite no registo</item>
-        <item>16M de limite no registo</item>
+        <item>Mem. int. 64K p rg.</item>
+        <item>Mem. int. 256K p rg.</item>
+        <item>Mem. int. 1M p rg.</item>
+        <item>Mem. int. 4M p rg.</item>
+        <item>Mem. int. 16M p rg.</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhum</item>

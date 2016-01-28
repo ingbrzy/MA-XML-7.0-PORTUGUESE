@@ -414,7 +414,7 @@
         <item>720p, 1080p (ecrã duplo)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>Nada</item>
+        <item>Nenhum</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
         <item>Pilha de chamadas em glGetError</item>
@@ -432,15 +432,15 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Off</item>
         <item>Mostrar áreas de sobreposição</item>
-        <item>Mostrar áreas para Deuteranopia</item>
+        <item>Mostrar áreas para deuteranopia</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinido</item>
         <item>Sem processos em segundo plano</item>
-        <item>No máximo, 1 processo</item>
-        <item>No máximo, 2 processos</item>
-        <item>No máximo, 3 processos</item>
-        <item>No máximo, 4 processos</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -702,10 +702,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Muito rápido</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Desligado</item>
-        <item>Baixo</item>
-        <item>Médio</item>
-        <item>Alto</item>
+        <item>Desligada</item>
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>

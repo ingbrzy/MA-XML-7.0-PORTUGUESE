@@ -1034,7 +1034,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_login">Iniciar sessão na sua conta Mi</string>
   <string name="dialog_yes">Sim</string>
-  <string name="disable_overlays">Desactivar HW overlays</string>
+  <string name="disable_overlays">Desactivar sobreposições HW</string>
   <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
   <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão ligar/desligar</string>
   <string name="disable_service_message">Tocar em OK irá parar %1$s.</string>
@@ -1317,8 +1317,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
   <string name="force_msaa">Forçar 4x MSAA</string>
   <string name="force_msaa_summary">Activar 4x MSAA em OpenGL ES 2.0 aplicações</string>
-  <string name="force_rtl_layout_all_locales">Forçar Direcção do RTL</string>
-  <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todas as locais</string>
+  <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
+  <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem de uma aplicação, ele pode funcionar mal.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
@@ -2763,7 +2763,7 @@ Para utilizar a fixação no ecrã:
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
   <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
-  <string name="show_non_rect_clip">Depuração de operações clipe não-retangulares</string>
+  <string name="show_non_rect_clip">Depuração de operações clipe não rectangulares</string>
   <string name="show_owner_info_on_lockscreen_label">Ver as suas informações quando o ecrã está bloqueado</string>
   <string name="show_password">Mostrar palavras-passe</string>
   <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil no ecrã de bloqueio</string>
@@ -3926,8 +3926,8 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_unchanged">(não alterado)</string>
   <string name="wifi_unspecified">(não especificado)</string>
   <string name="wifi_update">Actualizar estatísticas</string>
-  <string name="wifi_verbose_logging">Ativar o registo verboso de Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi, mostrar por RSSI de SSID no Seleccionador de Wi-Fi</string>
+ <string name="wifi_verbose_logging">Activar registo extenso do Wi-Fi</string>
+  <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi, mostrar por RSSI de SSID no seleccionador de Wi-Fi</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
   <string name="wifi_wapi_cert_create_subdir">Criar uma directoria</string>
