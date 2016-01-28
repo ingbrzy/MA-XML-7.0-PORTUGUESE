@@ -1527,8 +1527,8 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="sms_short_code_details">Isto pode causar débitos na sua conta do telefone.</string>
   <string name="sms_short_code_remember_choice">Lembrar da minha escolha</string>
   <string name="sms_short_code_remember_undo_instruction">Pode alterar mais tarde em Definições &gt; Aplicações</string>
-  <string name="smv_application">A aplicação %1$s (processo %2$s) violou a política do Modo Limitado, imposto automaticamente.</string>
-  <string name="smv_process">O processo %1$s violou a política do Modo Limitado, imposto automaticamente.</string>
+  <string name="smv_application">A aplicação %1$s (processo %2$s) violou a política do Modo Limitado auto-imposta.</string>
+  <string name="smv_process">O processo %1$s violou a política Modo Limitado auto-imposta.</string>
   <string name="ssl_ca_cert_noti_by_unknown">Por um terceiro desconhecido</string>
   <string name="ssl_ca_cert_noti_managed">Por %s</string>
   <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
