@@ -54,7 +54,7 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
 
 Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
-"<li>Ajustar o nível do zoom: Belisque dois ou mais dedos juntos ou afastados.</li></li></ul>"
+"<li>Ajustar o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
 Também pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
@@ -109,12 +109,12 @@ Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na ba
   <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital, coloque o seu dedo no sensor.
 Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
-  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no digitalizador de impressão digital</string>
+  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Depois de premir o sensor, remova o dedo, e repita novamente.</string>
   <string name="add_fingerprint_put_finger_msg">Depois de premir o sensor, remova o dedo, e repita novamente.</string>
   <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
-  <string name="add_fingerprint_toast_text">Coloque o seu dedo no digitalizador agora</string>
+  <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
   <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador irá ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
 O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo."</string>
@@ -767,7 +767,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="confirm_enable_oem_unlock_title">Pretende permitir o desbloqueio de OEM?</string>
   <string name="confirm_erase">Eliminar</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar.</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no digitalizador de impressões digitais</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
