@@ -112,8 +112,8 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Deseja criar widget e permitir acesso?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
-  <string name="allow_mock_location">Permitir localizações fictícias</string>
-  <string name="allow_mock_location_summary">Permitir localizações fictícias</string>
+  <string name="allow_mock_location">Permitir locais fictícios</string>
+  <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados.</string>
   <string name="android_beam_disabled_summary">Partilha de conteúdo NFC necessita que o NFC esteja ligado</string>
@@ -420,7 +420,7 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="bluetooth_notif_message">Toque para emparelhar com %1$s</string>
   <string name="bluetooth_notif_ticker">Pedido de emparelhamento por Bluetooth</string>
   <string name="bluetooth_notif_title">Pedido de emparelhamento</string>
-  <string name="bluetooth_on_time">Tempo decorrido em Bluetooth</string>
+  <string name="bluetooth_on_time">Tempo de ligação Wi-Fi</string>
   <string name="bluetooth_only_visible_to_paired_devices">Apenas visível para os dispositivos emparelhados</string>
   <string name="bluetooth_opp_profile_summary_connected">Ligado ao servidor de transferência de ficheiros</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Não ligado ao servidor de transferência de ficheiros</string>
@@ -506,10 +506,10 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente.</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
   <string name="bssid_label">BSSID:</string>
-  <string name="bt_hci_snoop_log">Activar registo de pesquisa Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Pesquisar todos os pacotes Bluetooth HCI num só ficheiro</string>
-  <string name="bt_trace_log">Registo da pesquisa Bluetooth</string>
-  <string name="bt_trace_log_summary">Registo da pesquisa Bluetooth</string>
+  <string name="bt_hci_snoop_log">Activar registo de monit. Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">Capturar todos os pacotes Bluetooth HCI num ficheiro</string>
+  <string name="bt_trace_log">Pesquisa do registo do Bluetooth</string>
+  <string name="bt_trace_log_summary">Pesquisa do registo do Bluetooth</string>
   <string name="bugreport_in_power">Menu dos relatórios de erros de energia</string>
   <string name="bugreport_in_power_summary">Incluir opção no menu de energia para criar um relatório de erros</string>
   <string name="build_number">Número de compilação</string>
@@ -778,7 +778,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
   <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
   <string name="debug_log">Programa de experiência do utilizador</string>
-  <string name="debug_monitoring_category">A monitorizar</string>
+  <string name="debug_monitoring_category">Monitorização</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Escolher teclado predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
@@ -1315,7 +1315,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
   <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
   <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
-  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial ou digitar uma palavra-passe para activar</string>
+  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
   <string name="lock_settings">Bloqueio de ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
@@ -1761,7 +1761,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
   <string name="pref_button_light_summary">Ligar luz dos botões menu, início e voltar</string>
-  <string name="pref_edge_handgrip">Definições gestuais</string>
+  <string name="pref_edge_handgrip">Definições do limite</string>
   <string name="pref_operational_key">Botões de navegação</string>
   <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
   <string name="pref_volume_wake_title">Acordar com botões de volume</string>
@@ -2666,8 +2666,8 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verificar comportamento nocivo das aplicações instaladas via ADB/ADT</string>
-  <string name="verify_apps_over_usb_title">Verificar aplicações por USB</string>
+  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso.</string>
+  <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
   <string name="vibrate_in_normal_title">Vibrar quando toca</string>

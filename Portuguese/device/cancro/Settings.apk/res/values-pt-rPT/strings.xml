@@ -46,7 +46,7 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
   <string name="accessibility_menu_item_settings">Definições</string>
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
-  <string name="accessibility_no_wifi">Wi-fi desligado</string>
+  <string name="accessibility_no_wifi">Wi-Fi desligado</string>
   <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão ligar/desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
@@ -107,7 +107,7 @@ Nota: Toque três vezes para ampliar funciona em todos os lugares excepto na ba
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_finished_button_text">Feito</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital, coloque o seu dedo no sensor.
-Certifique-se que o seu dedo cobre a borda interior do sensor"</string>
+Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
   <string name="add_fingerprint_instruction_title">Coloque o seu dedo no digitalizador de impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Depois de premir o sensor, remova o dedo, e repita novamente.</string>
@@ -683,8 +683,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="captioning_background_color">Cor de fundo</string>
   <string name="captioning_background_opacity">Opacidade de fundo</string>
   <string name="captioning_custom_options_title">Opções personalizadas</string>
-  <string name="captioning_edge_color">Cor da borda</string>
-  <string name="captioning_edge_type">Tipo de borda</string>
+  <string name="captioning_edge_color">Cor do limite</string>
+  <string name="captioning_edge_type">Tipo de limite</string>
   <string name="captioning_foreground_color">Cor do texto</string>
   <string name="captioning_foreground_opacity">Opacidade do texto</string>
   <string name="captioning_locale">Idioma</string>
@@ -954,7 +954,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="date_time_set_timezone">Seleccionar fuso horário</string>
   <string name="date_time_set_timezone_title">Fuso horário</string>
   <string name="date_time_settings">Data e hora</string>
-  <string name="debug_app">Seleccione a aplicação de depuração</string>
+  <string name="debug_app">Seleccionar aplicação de depuração</string>
   <string name="debug_app_not_set">Nenhuma aplicação de depuração definida</string>
   <string name="debug_app_set">Depuração da aplicação: %1$s</string>
   <string name="debug_applications_category">Aplicações</string>
@@ -1150,16 +1150,16 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="drive_mode_voice_report">Saída de texto para voz</string>
   <string name="dtmf_tone_enable_title">Tom de marcação</string>
   <string name="edge_mode_back">Voltar</string>
-  <string name="edge_mode_back_summary">Duplo toque na borda do seu telefone para voltar</string>
+  <string name="edge_mode_back_summary">Duplo toque na lateral do seu telefone para voltar</string>
   <string name="edge_mode_clean">Limpar cache de sistema</string>
-  <string name="edge_mode_clean_summary">Deslizar em ambas as bordas simultâneamente para limpar a cache do sistema</string>
-  <string name="edge_mode_guide_title">Toque na área destacada para utilizar os controlos de borda</string>
+  <string name="edge_mode_clean_summary">Deslizar em ambas as laterais simultaneamente para limpar a cache de sistema</string>
+  <string name="edge_mode_guide_title">Toque na área destacada para utilizar os controlos laterais</string>
   <string name="edge_mode_notification_summary">Toque para saber mais.</string>
-  <string name="edge_mode_notification_title">Utilizar controlos de borda</string>
+  <string name="edge_mode_notification_title">Utilizar controlos laterais</string>
   <string name="edge_mode_photo">Tirar uma foto</string>
-  <string name="edge_mode_photo_summary">Enquanto estiver na aplicação Câmara, toque na borda do seu telefone para activar o disparo e toque novamente para tirar uma foto</string>
+  <string name="edge_mode_photo_summary">Enquanto estiver na aplicação câmara, toque na lateral do seu telefone para activar o disparo e toque novamente para tirar uma foto</string>
   <string name="edge_mode_screenshot">Captura de ecrã</string>
-  <string name="edge_mode_screenshot_summary">Duplo toque em ambas as bordas para tirar uma captura de ecrã</string>
+  <string name="edge_mode_screenshot_summary">Duplo toque em ambas as laterais para tirar uma captura de ecrã</string>
   <string name="emergency_tone_alert">Alerta</string>
   <string name="emergency_tone_silent">Silêncio</string>
   <string name="emergency_tone_summary">Definir comportamento ao fazer uma chamada de emergência</string>
@@ -2263,7 +2263,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Luz dos botões</string>
   <string name="pref_button_light_summary">Ligar luz dos botões menu, início e voltar</string>
-  <string name="pref_edge_handgrip">Controlos da borda</string>
+  <string name="pref_edge_handgrip">Definições do limite</string>
   <string name="pref_operational_key">Botões de Navegação</string>
   <string name="pref_volume_wake_summary">Premir os botões de volume acorda o dispositivo</string>
   <string name="pref_volume_wake_title">Acordar com botões de volume</string>
@@ -2348,8 +2348,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="process_stats_os_zram">Z-Ram</string>
   <string name="process_stats_ram_use">Utilização de RAM</string>
   <string name="process_stats_run_time">Tempo de execução</string>
-  <string name="process_stats_summary">Estatísticas Geeky sobre processos em execução</string>
-  <string name="process_stats_summary_title">Estatísticas de Processos</string>
+  <string name="process_stats_summary">Estatísticas detalhadas de processos em execução</string>
+  <string name="process_stats_summary_title">Estatísticas de processos</string>
   <string name="process_stats_total_duration">%1$s aplicações de %2$s</string>
   <string name="process_stats_total_duration_percentage">%1$s de RAM utilizada durante %2$s</string>
   <string name="process_stats_type_background">Segundo plano</string>
@@ -3619,7 +3619,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_advanced_ip_address_title">Endereço IP</string>
   <string name="wifi_advanced_mac_address_title">Endereço MAC</string>
   <string name="wifi_advanced_settings_label">Definições de IP</string>
-  <string name="wifi_advanced_titlebar">Wi-Fi avançado</string>
+  <string name="wifi_advanced_titlebar">Definições avançadas Wi-Fi</string>
   <string name="wifi_aggressive_handover">Transmissão agressiva de Wi-Fi p/ rede móvel</string>
   <string name="wifi_aggressive_handover_summary">Se estiver activado, o Wi-Fi será mais agressivo ao transmitir a lig. de dados p/ a rede móvel quando o sinal Wi-Fi estiver fraco</string>
   <string name="wifi_alert_lockdown_by_device_owner">A aplicação %1$s gere o dispositivo e não permite a modificação ou a eliminação desta rede Wi-Fi. Para mais informações, contacte o administrador.</string>
