@@ -18,7 +18,7 @@
      </plurals>
      <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um caractere sem letra.</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra.</item>
      </plurals>
      <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">A palavra-passe tem de ter pelo menos %d números.</item>
