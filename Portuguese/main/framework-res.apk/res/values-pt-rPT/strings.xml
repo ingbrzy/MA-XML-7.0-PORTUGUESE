@@ -1566,10 +1566,10 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="throttled_notification_message">Toque para saber mais sobre a utilização de dados móveis.</string>
   <string name="throttled_notification_title">Limite de dados móveis excedido</string>
   <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
-  <string name="time_picker_decrement_hour_button">Diminuir horas</string>
+  <string name="time_picker_decrement_hour_button">Diminuir hora</string>
   <string name="time_picker_decrement_minute_button">Diminuir minutos</string>
   <string name="time_picker_decrement_set_am_button">Definir AM</string>
-  <string name="time_picker_dialog_title">Definir a hora</string>
+  <string name="time_picker_dialog_title">Definir hora</string>
   <string name="time_picker_increment_hour_button">Aumentar horas</string>
   <string name="time_picker_increment_minute_button">Aumentar minutos</string>
   <string name="time_picker_increment_set_pm_button">Definir PM</string>
@@ -1586,16 +1586,16 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="timepicker_text_size_multiplier_outer">0.11</string>
   <string name="timepicker_transition_end_radius_multiplier">1.3</string>
   <string name="timepicker_transition_mid_radius_multiplier">0.95</string>
-  <string name="transient_navigation_confirmation_long">Deslize a partir do topo do ecrã para mostrar a barra do sistema</string>
-  <string name="turn_off_radio">Desactivar Wi-Fi</string>
-  <string name="turn_on_radio">Activar Wi-Fi</string>
+  <string name="transient_navigation_confirmation_long">Deslize a partir do topo do ecrã para mostrar a barra de atalhos</string>
+  <string name="turn_off_radio">Desligar Wi-Fi</string>
+  <string name="turn_on_radio">Ligar Wi-Fi</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Toque duas vezes para controlar o zoom</string>
   <string name="unknownName">(Desconhecido)</string>
   <string name="untitled">&lt;sem nome&gt;</string>
   <string name="upload_file">Escolher ficheiro</string>
   <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
   <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>
-  <string name="usb_charging_notification_title">Connected in charging mode</string>
+  <string name="usb_charging_notification_title">USB para carregamento</string>
   <string name="usb_choose_notification_title">Toque para outras opções USB.</string>
   <string name="usb_mtp_notification_title">Ligado como um dispositivo multimédia</string>
   <string name="usb_notification_message">Toque para outras opções USB.</string>
@@ -1678,8 +1678,8 @@ Pretende fechar?"</string>
   <string name="webviewchromium_date_picker_dialog_clear">Limpar</string>
   <string name="webviewchromium_date_picker_dialog_other_button_label">Outro</string>
   <string name="webviewchromium_date_picker_dialog_set">Definir</string>
-  <string name="webviewchromium_date_picker_dialog_title">Definir a data</string>
-  <string name="webviewchromium_date_time_picker_dialog_title">Definir a data e hora</string>
+  <string name="webviewchromium_date_picker_dialog_title">Definir data</string>
+  <string name="webviewchromium_date_time_picker_dialog_title">Definir data e hora</string>
   <string name="webviewchromium_low_memory_error">Não foi possível concluir a operação anterior devido a memória insuficiente</string>
   <string name="webviewchromium_media_player_error_button">OK</string>
   <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão com este dispositivo.</string>
@@ -1698,7 +1698,7 @@ Pretende fechar?"</string>
   <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
   <string name="webviewchromium_time_picker_dialog_pm">PM</string>
   <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
-  <string name="webviewchromium_time_picker_dialog_title">Definir a hora</string>
+  <string name="webviewchromium_time_picker_dialog_title">Definir hora</string>
   <string name="webviewchromium_week_picker_dialog_title">Definir semana</string>
   <string name="week">semana</string>
   <string name="weeks">semanas</string>
