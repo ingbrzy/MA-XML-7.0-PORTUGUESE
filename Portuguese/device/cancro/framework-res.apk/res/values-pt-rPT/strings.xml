@@ -663,13 +663,13 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_accessImsCallService">Permite que a aplicação utilize o serviço IMS para fazer chamadas sem a sua intervenção.</string>
   <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos adicionais do fornecedor de localização. Esta opção pode permitir que a aplicação interfira com o funcionamento do GPS ou de outras fontes de localização.</string>
   <string name="permdesc_accessNetworkConditions">Permite que uma aplicação ouça observações sobre as condições da rede. Nunca deverá ser necessário para aplicações normais.</string>
-  <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede como, por exemplo, que redes existem e que estão ligadas.</string>
+  <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede, como por exemplo, que redes existem e que estão ligadas.</string>
   <string name="permdesc_accessNotifications">Permite que a aplicação obtenha, examine e limpe notificações, incluindo as que foram publicadas por outras aplicações.</string>
   <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
   <string name="permdesc_accessWimaxState">Permite que a aplicação determine se o WiMAX está activado e aceda a informações acerca de qualquer rede WiMAX que esteja ligada.</string>
   <string name="permdesc_access_notification_policy">Permite à aplicação ler e alterar a configuração de Não incomodar</string>
   <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada de Voice Mail.</string>
-  <string name="permdesc_bindCarrierMessagingService">Permite ao titular ligar à interface de nível superior do serviço de mensagens de uma operadora. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindCarrierMessagingService">Permite ao titular ligar à interface de nível superior do serviço de mensagens de uma operadora. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_bindCarrierServices">Permite ao titular vincular-se a serviços da operadora. Nunca deverá ser necessário nas aplicações normais.</string>
   <string name="permdesc_bindConditionProviderService">Permite que o titular vincule a interface de nível superior de um serviço de fornecedor de condição. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindDreamService">Permite que o titular fique vinculado à interface de nível superior de um serviço de sonho. Nunca deverá ser necessário para aplicações normais.</string>
