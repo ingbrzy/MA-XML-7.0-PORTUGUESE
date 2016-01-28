@@ -2,13 +2,13 @@
 <resources>
   <string name="add_account_desc">Sincronizar as suas notas com a sua Conta Mi?</string>
   <string name="alarm_bar_title">Lembrete</string>
-  <string name="alert_action_edit_anyway">Continuar a editar</string>
+  <string name="alert_action_edit_anyway">Editar</string>
   <string name="alert_edit_action_delete">Remover</string>
-  <string name="alert_edit_action_update">Modificar</string>
+  <string name="alert_edit_action_update">Alterar</string>
   <string name="alert_message_delete">Eliminar %1$s?</string>
   <string name="alert_message_delete_note">Eliminar esta nota?</string>
-  <string name="alert_message_edit_anyway">Se editar esta nota alguns dos seus conteúdos podem ser perdidos.</string>
-  <string name="alert_title_delete">Eliminar nota</string>
+  <string name="alert_message_edit_anyway">Se editar esta nota, alguns dos seus conteúdos podem ser perdidos.</string>
+  <string name="alert_title_delete">Eliminar nota?</string>
   <string name="alert_title_edit_anyway">Esta nota contém conteúdo não suportado</string>
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
@@ -16,7 +16,7 @@
   <string name="attachment_camera">Câmara</string>
   <string name="attachment_contact">Contactos</string>
   <string name="attachment_gallery">Galeria</string>
-  <string name="button_new_note">Nova nota</string>
+  <string name="button_new_note">Nova</string>
   <string name="call_record_folder_name">Notas de chamada</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="dlg_delete_message">A eliminar…</string>
@@ -29,52 +29,52 @@
   <string name="error_note_empty_for_clock">Não é possível definir um tempo de lembrete para uma nota vazia</string>
   <string name="error_note_empty_for_send_to_desktop">Notas vazias não podem ser colocadas no ecrã inicial</string>
   <string name="error_note_not_exist">A nota não existe</string>
-  <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, toque aqui para actualizar a aplicação</string>
+  <string name="error_unsupport_content">Esta nota contém conteúdo não suportado, toque aqui para actualizar</string>
   <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe no ecrã inicial</string>
   <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
   <string name="format_move_notes_out_folder">Movida %1$s fora</string>
   <string name="format_move_notes_to_folder">Movida %1$s para %2$s</string>
   <string name="hint_foler_name">Nome</string>
   <string name="info_note_enter_desktop">Adicionada ao Ecrã principal</string>
-  <string name="loading_text">A carregar…</string>
+  <string name="loading_text">Aguarde…</string>
   <string name="login_sync">Iniciar sessão e sincronizar</string>
   <string name="menu_create_folder">Nova pasta</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_folders">Pastas</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
-  <string name="menu_send_to_desktop">Colocar no Ecrã principal</string>
+  <string name="menu_send_to_desktop">Colocar no ecrã principal</string>
   <string name="menu_send_wechat">Enviar para WeChat</string>
   <string name="menu_send_weibo">Enviar para Weibo</string>
-  <string name="menu_source">De: %1$s</string>
+  <string name="menu_source">De %1$s</string>
   <string name="menu_stick">Fixar</string>
   <string name="menu_title_select_folder">Seleccionar pasta</string>
   <string name="menu_unstick">Soltar</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Agora não</string>
   <string name="note_alert_expired">Expirado</string>
-  <string name="note_link_email">Enviar email</string>
-  <string name="note_link_other">Abrir mapa</string>
+  <string name="note_link_email">Escrever email</string>
+  <string name="note_link_other">Abrir utilizando a aplicação de mapas</string>
   <string name="note_link_select">Seleccionar texto</string>
   <string name="note_link_tel">Ligar</string>
-  <string name="note_link_web">Navegar na internet</string>
-  <string name="notealert_enter">Dê uma olhada</string>
-  <string name="notealert_ok">Ignorar</string>
+  <string name="note_link_web">Ver no navegador</string>
+  <string name="notealert_enter">Abrir nota</string>
+  <string name="notealert_ok">Rejeitar</string>
   <string name="notelist_menu_new">Adicionar nota</string>
   <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
-  <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar isto para aceder às suas informações pessoais.</string>
+  <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar isto para aceder aos seus dados pessoais</string>
   <string name="permlab_accessNote">Aceder a notas</string>
-  <string name="pref_desc_alarm_when_silent">Alarmes activos ainda vão tocar quando em modo silêncio</string>
-  <string name="pref_title_alarm_when_silent">Alarmes em modo silêncio</string>
+  <string name="pref_desc_alarm_when_silent">Alarmes de lembretes ainda vão tocar quando em modo silêncio</string>
+  <string name="pref_title_alarm_when_silent">Não silenciar alarmes</string>
   <string name="pref_title_common">Definições adicionais</string>
   <string name="pref_title_font_size">Tamanho do tipo de letra</string>
-  <string name="pref_title_note_style">Estilo da nota</string>
+  <string name="pref_title_note_style">Estilo</string>
   <string name="pref_title_recover_help">Recuperar notas</string>
   <string name="redo">Refazer</string>
   <string name="search">Notas</string>
   <string name="search_hint">Pesquisar Notas</string>
-  <string name="search_label">A pesquisar notas</string>
-  <string name="search_setting_description">Texto nas suas notas</string>
+  <string name="search_label">A pesquisar…</string>
+  <string name="search_setting_description">Pesquisar texto nas suas notas</string>
   <string name="select_account_prompt">Sincronizar notas</string>
   <string name="sina_share_fail">Erro ao enviar</string>
   <string name="sina_share_fail_content_repeat">Não foi possível partilhar, conteúdo já existe…</string>
@@ -88,12 +88,12 @@
   <string name="sns_choose_quality_high">Alta (%1$s)</string>
   <string name="sns_choose_quality_low">Baixa</string>
   <string name="sns_choose_quality_title">Escolher qualidade de imagem</string>
-  <string name="sns_content_default">Partilhar imagem</string>
+  <string name="sns_content_default">Partilhar foto</string>
   <string name="sns_desc_preview_wechat">Prévisualização da mensagem WeChat</string>
   <string name="sns_desc_preview_weibo">Prévisualização da mensagem Weibo</string>
   <string name="sns_footer_text">Criado com Notas Mi</string>
   <string name="sns_hint_content">O que vai na sua mente?</string>
-  <string name="sns_hint_title">Assunto (Opcional)</string>
+  <string name="sns_hint_title">Assunto (opcional)</string>
   <string name="sns_message_disconnect">Não é possível ligar à rede. Tente novamente mais tarde.</string>
   <string name="sns_title_edit">Editar título</string>
   <string name="sns_title_send">Enviar mensagem</string>
@@ -104,19 +104,14 @@
   <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
   <string name="toast_message_add_text_warn">Este tipo de ficheiro não é suportado</string>
   <string name="toast_note_privacy_mode">Não é possível criar nota em modo convidado</string>
-  <string name="toast_reach_text_limit_attachment">O conteúdo da nota é muito longo para adicionar novos anexos.</string>
-  <string name="toast_reach_text_limit_truncate">O conteúdo da nota é muito longo, eliminar automaticamente.</string>
+  <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque o conteúdo da nota é muito longo.</string>
+  <string name="toast_reach_text_limit_truncate">A nota é muito longa. Algum text irá ser cortado no fim.</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>
-  <string name="welcome_note_for_cm">"E mais e melhores recursos!
+  <string name="welcome_note_for_cm">"E mais grandes funcionalidades!
     - Sincronizar com a Nuvem Mi
-    - Guardar ao sair
-    - Definir lembretes
-
-Para saber mais, visite
-http://www.miui.com/forum.php?lang=1
-"</string>
-  <string name="widget_content_loading">A carregar…</string>
-  <string name="widget_havenot_content">Não foi encontrada nenhuma nota associada. Toque para criar uma nota associada. Para redimensionar segure e arraste desde o limite.</string>
+    - Definir lembretes"</string>
+  <string name="widget_content_loading">Aguarde…</string>
+  <string name="widget_havenot_content">Não foi encontrada nenhuma nota. Toque para criar uma nota. Para redimensionar, segure e arraste uma borda.</string>
   <string name="widget_under_privacy_mode">Não é possível ver notas no modo convidado</string>
 </resources>
