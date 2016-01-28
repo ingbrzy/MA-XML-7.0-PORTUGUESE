@@ -426,7 +426,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
   <string name="battery_summary">Utilizou %1$d%% desde o último carregamento completo</string>
   <string name="bearer">Portador</string>
-  <string name="ble_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a detectar dispositivos Bluetooth. Pode alterar esta opção nas definições de pesquisa.</string>
+  <string name="ble_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a detectar dispositivos Bluetooth. Pode alterar esta opção nas LINK_BEGINdefinições de pesquisaLINK_END.</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio multimédia</string>
@@ -2951,7 +2951,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_operator">Rede</string>
   <string name="status_prl_version">Versão PRL</string>
   <string name="status_roaming">Roaming</string>
-  <string name="status_serial_number">Número de série:</string>
+  <string name="status_serial_number">Número de série</string>
   <string name="status_serialno">número de série</string>
   <string name="status_service_state">Estado do serviço</string>
   <string name="status_signal_strength">Intensidade do sinal</string>
