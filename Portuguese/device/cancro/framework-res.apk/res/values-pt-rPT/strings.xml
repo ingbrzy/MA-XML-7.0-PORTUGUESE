@@ -689,7 +689,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
   <string name="permdesc_connection_manager">Permite que a aplicação faça a gestão das ligações de telecomunicação.</string>
   <string name="permdesc_control_incall_experience">Permite que a aplicação proporcione uma experiência de utilizador em chamada.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet, pelo que esta permissão não é necessária para enviar dados para a Internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet, pelo que esta permissão não é necessária para enviar dados para a internet.</string>
   <string name="permdesc_disableKeyguard">Permite que a aplicação desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada.</string>
   <string name="permdesc_enableCarMode">Permite que a aplicação active o Modo Condução.</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado.</string>

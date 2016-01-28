@@ -891,12 +891,12 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
   <string name="permdesc_checkinProperties">Permite que a aplicação tenha permissões de leitura/escrita para ter acesso às propriedades carregadas pelo serviço de entrada. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_clearAppCache">Permite que a aplicação liberte espaço de armazenamento no telefone ao eliminar ficheiros de dados de outras aplicações em cache. Pode dar origem a que outras aplicações iniciem mais lentamente à medida que precisem de recuperar os seus dados.</string>
-  <string name="permdesc_clearAppUserData">Permite à aplicação limpar os dados do utilizador.</string>
-  <string name="permdesc_configureWifiDisplay">Permite à aplicação configurar e ligar ao Wi-Fi exibido.</string>
-  <string name="permdesc_confirm_full_backup">Permite que a aplicação inicie a IU de confirmação de cópia de segurança completa. Não deve ser utilizado por qualquer aplicação.</string>
-  <string name="permdesc_controlWifiDisplay">Permite à aplicação controlar os recursos de baixo nível de exibição do Wi-Fi.</string>
+  <string name="permdesc_clearAppUserData">Permite que a aplicação elimine os dados de utilizador.</string>
+  <string name="permdesc_configureWifiDisplay">Permite que a aplicação execute a configuração de ligação ao Wi-Fi exibido.</string>
+  <string name="permdesc_confirm_full_backup">Permite que a aplicação inicie a confirmação de IU para executar uma cópia de segurança completa. Não deve ser utilizado por qualquer aplicação.</string>
+  <string name="permdesc_controlWifiDisplay">Permite que a aplicação controle os recursos de baixo nível de exibição do Wi-Fi.</string>
   <string name="permdesc_control_keyguard">Permite que uma aplicação controle a protecção do teclado</string>
-  <string name="permdesc_copyProtectedData">Permite que a aplicação invoque o serviço de contentor predefinido para copiar conteúdo. Não se destina a ser utilizado por aplicações normais.</string>
+  <string name="permdesc_copyProtectedData">Permite que a aplicação solicite o serviço de conteúdo predefinido para copiar um novo conteúdo. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet. Esta autorização não é necessária para enviar dados para a internet.</string>
   <string name="permdesc_deleteCacheFiles">Permite à aplicação eliminar ficheiros do histórico de dados.</string>
   <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar isto para eliminar aplicações importantes.</string>
