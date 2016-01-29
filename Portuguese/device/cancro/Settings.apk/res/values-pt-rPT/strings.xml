@@ -1660,8 +1660,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="location_category_location_services">Serviços de localização</string>
   <string name="location_category_recent_location_requests">Pedidos de localização recentes</string>
   <string name="location_gps">Satélites GPS</string>
-  <string name="location_high_battery_use">Utilização de bateria alta</string>
-  <string name="location_low_battery_use">Utilização de bateria baixa</string>
+  <string name="location_high_battery_use">Utilização elevada de bateria</string>
+  <string name="location_low_battery_use">Utilização reduzida de bateria</string>
   <string name="location_menu_scanning">A analisar</string>
   <string name="location_mode_battery_saving_description">Utilizar redes móveis e Wi-Fi para determinar localização</string>
   <string name="location_mode_battery_saving_title">Poupança de bateria</string>
@@ -2602,7 +2602,7 @@ Para utilizar a fixação no ecrã:
   <string name="screen_pinning_unlock_pin">Pedir PIN antes de soltar</string>
   <string name="screen_resolution_confirm">Reiniciar</string>
   <string name="screen_resolution_summary">Baixar a resolução do ecrã pode aumentar a vida da bateria e a velocidade do sistema, mas as imagens podem ser menos claras. O seu dispositivo tem de reiniciar para aplicar esta alteração.</string>
-  <string name="screen_resolution_switch">Trocar resolução</string>
+  <string name="screen_resolution_switch">Alterar resolução</string>
   <string name="screen_resolution_title">Resolução de ecrã</string>
   <string name="screen_saturation">Saturação</string>
   <string name="screen_timeout">Suspensão</string>
@@ -3182,7 +3182,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_need_login">Iniciar sessão na sua conta Mi</string>
   <string name="total_memory">Memória total</string>
   <string name="total_size_label">Total</string>
-  <string name="touch_filtered_warning">Uma vez que uma aplicação está a ocultar um pedido de autorização, as Definições não conseguem validar a sua resposta.</string>
+  <string name="touch_filtered_warning">As definições não podem verificar a resposta devido a uma aplicação estar a ocultar uma permissão.</string>
   <string name="touch_sensitive_summary">Faz com que a sensibilidade do ecrã seja maior para poder responder quando utiliza luvas</string>
   <string name="touch_sensitive_title">Modo Luvas</string>
   <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
@@ -3974,7 +3974,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wizard_next">Seguinte</string>
   <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicações e todos os dados neste perfil são eliminados.</string>
   <string name="work_profile_confirm_remove_title">Remover perfil de trabalho?</string>
-  <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização desta aplicação, não impede que o administrador monitorize a utilização de dados de aplicações no seu perfil de trabalho.</string>
+  <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização desta aplicação, não impede o administrador de verificar a utilização de dados nas aplicações no seu perfil de trabalho.</string>
   <string name="work_sim_title">SIM de trabalho</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Confirme se o router suporta WPS e se este se encontra activo</string>
