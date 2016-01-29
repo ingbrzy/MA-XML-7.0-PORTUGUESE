@@ -1661,7 +1661,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="location_category_recent_location_requests">Pedidos de localização recentes</string>
   <string name="location_gps">Satélites GPS</string>
   <string name="location_high_battery_use">Utilização de bateria alta</string>
-  <string name="location_low_battery_use">Utilização de bateria baixa</string>
+  <string name="location_low_battery_use">Utilização de bateria fraca</string>
   <string name="location_menu_scanning">A analisar</string>
   <string name="location_mode_battery_saving_description">Utilizar redes móveis e Wi-Fi para determinar localização</string>
   <string name="location_mode_battery_saving_title">Poupança de bateria</string>
@@ -2601,11 +2601,11 @@ Para utilizar a fixação no ecrã:
   <string name="screen_pinning_unlock_pattern">Pedir padrão de desbloqueio antes de soltar</string>
   <string name="screen_pinning_unlock_pin">Pedir PIN antes de soltar</string>
   <string name="screen_resolution_confirm">Reiniciar</string>
-  <string name="screen_resolution_summary">Baixar a resolução do ecrã pode aumentar a vida da bateria e a velocidade do sistema, mas as imagens podem ser menos claras. O seu dispositivo tem de reiniciar para aplicar esta alteração.</string>
+  <string name="screen_resolution_summary">Reduzir a resolução do ecrã pode aumentar a vida da bateria e a velocidade do sistema, mas as imagens podem ser menos claras. O seu dispositivo tem de reiniciar para aplicar esta alteração.</string>
   <string name="screen_resolution_switch">Trocar resolução</string>
   <string name="screen_resolution_title">Resolução de ecrã</string>
   <string name="screen_saturation">Saturação</string>
-  <string name="screen_timeout">Suspensão</string>
+  <string name="screen_timeout">Suspender</string>
   <string name="screen_timeout_summary">Após %1$s de inactividade</string>
   <string name="screen_timeout_title">Modo de suspensão</string>
   <string name="screensaver_settings_button">Definições</string>
