@@ -78,6 +78,7 @@
   <string name="pref_camera_asd_popup_title">Notificar quando o flash for necessário</string>
   <string name="pref_camera_audio_capture_title">Áudio</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capturar objectos seleccionados quando estiverem parados</string>
+  <string name="pref_camera_auto_capture_when_stable_summary">Para seleccionar um objecto, toque nas duas diagonais à volta do seu limite. Quando o objecto estiver parado, a câmara irá tirar uma foto automaticamente.</string>
   <string name="pref_camera_auto_chroma_flash_title">Flash chroma</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralizado</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Média de frames</string>
