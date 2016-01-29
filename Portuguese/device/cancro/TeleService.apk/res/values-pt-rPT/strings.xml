@@ -1098,7 +1098,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sum_search_networks">Pesquisar todas as redes disponíveis</string>
   <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>
   <string name="sum_show_caller_id">Número vísivel em chamadas efectuadas</string>
-  <string name="sum_voicemail_choose_provider">Escolher o serviço de voicemail</string>
+  <string name="sum_voicemail_choose_provider">Escolher o serviço de Voice Mail</string>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">Entrada de pesquisa T9</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -1183,9 +1183,9 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="verifying">A verificar…</string>
   <string name="vibrate_after_connected_summary">Vibrar quando atende</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
-  <string name="vm_change_failed">"Não foi possível alterar o número do Voicemail.
+  <string name="vm_change_failed">"Não foi possível alterar o número de Voice Mail.
 Contacte a sua operadora se este problema persistir."</string>
-  <string name="vm_changed">Número de Voicemail alterado.</string>
+  <string name="vm_changed">Número de Voice Mail alterado.</string>
   <string name="voice_privacy">Privacidade de voz</string>
   <string name="voice_privacy_summary"/>
   <string name="voice_report_incoming_call">A chamar</string>
@@ -1200,7 +1200,7 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="voicemail_provider">Serviço</string>
   <string name="voicemail_provider_summary">Escolher o serviço de correio voz</string>
   <string name="voicemail_settings">Configuração</string>
-  <string name="voicemail_settings_number_hint">Introduzir número da caixa de correio voz</string>
+  <string name="voicemail_settings_number_hint">Introduzir número da caixa de Voice Mail</string>
   <string name="voicemail_settings_number_label">Número do correio voz</string>
   <string name="voicemail_settings_number_title">Número do correio voz</string>
   <string name="voicemail_settings_with_label">Voice Mail (%s)</string>

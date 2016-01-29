@@ -239,7 +239,7 @@
   <string name="no_network_btn">Tente novamente</string>
   <string name="notification_summary_after_auto_cleanup">Limpo %s.</string>
   <string name="notification_summary_of_apps_cleanup">Aplicações não utilizadas estão a tirar %s de armazenamento</string>
-  <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s.</string>
+  <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s</string>
   <string name="notification_title_of_apps_cleanup">Aplicações não utilizadas</string>
   <string name="notification_title_of_garbage_cleanup">Tamanho do lixo</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
