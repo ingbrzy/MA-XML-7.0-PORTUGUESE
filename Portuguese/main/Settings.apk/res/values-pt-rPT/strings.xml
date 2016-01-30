@@ -1047,7 +1047,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="free_wifi_connect">Ligar</string>
   <string name="free_wifi_connect_dialog_summary">%1$s é fornecido por %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponível</string>
-  <string name="free_wifi_connect_fail">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente.</string>
+  <string name="free_wifi_connect_fail">Não foi possível ligação à rede. Verifique a sua ligação de dados e tente novamente.</string>
   <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde alguns minutos e tente novamente.</string>
   <string name="free_wifi_connect_summary">Toque para ligar a %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponível</string>
@@ -2213,7 +2213,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
   <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à internet.</string>
-  <string name="shut_down_find_device_network_failure_title">Não é possível ligar à rede</string>
+  <string name="shut_down_find_device_network_failure_title">Não foi possível ligação à rede. Verifique a sua ligação e tente novamente.</string>
   <string name="shuting_down_find_device">A desligar Localizar dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
   <string name="sim_bad_pin">Introduza um PIN com 4 a 8 números</string>
