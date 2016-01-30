@@ -44,6 +44,15 @@
         <item>Depois de 30 min</item>
         <item>Quando o ecrã está desligado</item>
     </string-array>
+	 <string-array name="app_groups">
+        <item>seleccionados</item>
+        <item>desmarcados</item>
+        <item>outros seleccionados</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>customed</item>
+        <item>sugerido</item>
+    </string-array>
 	<string-array name="power_checker_group_prefix">
          <item>a utilizar</item>
          <item></item>
