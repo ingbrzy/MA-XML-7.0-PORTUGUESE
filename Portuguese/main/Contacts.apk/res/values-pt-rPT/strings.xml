@@ -611,7 +611,7 @@ Motivo: \"%s\""</string>
   <string name="menu_new_contact_action_bar">Novo</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
   <string name="menu_new_group_action_bar">Novo</string>
-  <string name="menu_not_redirect_calls_to_vm">O Voice Mail não está ligado</string>
+  <string name="menu_not_redirect_calls_to_vm">O Voice Mail não está activo</string>
   <string name="menu_redirect_calls_to_vm">Reencaminhar chamadas para o Voice Mail</string>
   <string name="menu_removeStar">Remover dos favoritos</string>
   <string name="menu_search">Pesquisar</string>
@@ -846,7 +846,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_address">Endereço</string>
   <string name="postal_city">Cidade</string>
   <string name="postal_country">País</string>
-  <string name="postal_neighborhood">Vizinhança</string>
+  <string name="postal_neighborhood">Bairro</string>
   <string name="postal_pobox">Código Postal</string>
   <string name="postal_postcode">Código Postal</string>
   <string name="postal_region">Estado</string>
