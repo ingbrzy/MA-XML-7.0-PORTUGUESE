@@ -487,7 +487,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
-  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Return ou Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; Introduza: &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, em seguida, prima Voltar ou Avançar.</string>
   <string name="bluetooth_dock_settings">Definições da estação de ancoragem</string>
   <string name="bluetooth_dock_settings_a2dp">Para música e multimédia</string>
   <string name="bluetooth_dock_settings_headset">Como altifalante do telefone</string>
@@ -499,7 +499,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_empty_list_user_restricted">Não tem permissão para alterar as definições de Bluetooth</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
-  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e em seguida, prima Voltar ou Avançar</string>
+  <string name="bluetooth_enter_passkey_msg">Introduza o código de emparelhamento e, em seguida, prima Voltar ou Avançar</string>
   <string name="bluetooth_enter_passkey_other_device">Poderá ter que introduzir esta palavra-chave no outro dispositivo.</string>
   <string name="bluetooth_enter_pin_other_device">Poderá ter que introduzir este PIN no outro dispositivo.</string>
   <string name="bluetooth_error_title"/>

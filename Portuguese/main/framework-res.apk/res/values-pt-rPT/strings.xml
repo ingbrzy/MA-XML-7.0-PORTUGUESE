@@ -1392,7 +1392,7 @@ Tentativas restantes :"</string>
   <string name="reason_unknown">desconhecido</string>
   <string name="reboot_confirm">O dispositivo vai reiniciar.</string>
   <string name="reboot_progress">A reiniciar…</string>
-  <string name="reboot_safemode_confirm">Pretende reiniciar no modo de segurança? Se sim, irá desactivar todas as aplicações de terceiros instaladas. Estas serão restauradas quando reiniciar novamente.</string>
+  <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto irá desactivar todas as aplicações de terceiros instaladas. Estas irão ser restauradas quando reiniciar novamente.</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
   <string name="recent_tasks_title">Recente</string>
   <string name="relationTypeAssistant">Assistente</string>
@@ -1444,9 +1444,9 @@ Tentativas restantes :"</string>
   <string name="roamingText8">Roaming - Parceiro do Google Premium</string>
   <string name="roamingText9">Roaming - Recurso de serviço total</string>
   <string name="roamingTextSearching">A localizar Serviço</string>
-  <string name="safeMode">Modo Seguro</string>
+  <string name="safeMode">Modo seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
-Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</string>
+Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição."</string>
   <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirmar</string>
   <string name="save_password_message">Quer que o navegador memorize esta palavra-passe?</string>
@@ -1454,7 +1454,7 @@ Ouvir em volume alto por longos períodos poderá prejudicar sua audição."</st
   <string name="save_password_notnow">Agora não</string>
   <string name="save_password_remember">Lembrar</string>
   <string name="screen_compat_mode_hint">Reactive este modo nas Definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
-  <string name="screen_compat_mode_scale">Redimensionar</string>
+  <string name="screen_compat_mode_scale">Escala</string>
   <string name="screen_compat_mode_show">Mostrar sempre</string>
   <string name="screen_lock">Bloqueio de ecrã</string>
   <string name="search_go">Pesquisar</string>
