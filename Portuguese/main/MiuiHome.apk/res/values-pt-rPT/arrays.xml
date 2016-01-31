@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="editing_mode_entries">
-        <item>Mover Aps</item>
+        <item>Mover Apps</item>
         <item>Widgets</item>
-        <item>Papel parede</item>
+        <item>Papel Parede</item>
         <item>Efeitos</item>
      </string-array>
      <string-array name="gadget_weather_image">
@@ -38,14 +38,14 @@
         <item>Clássico</item>
      </string-array>
      <string-array name="transformation_entries">
-        <item>Deslizante</item>
+        <item>Clássico</item>
         <item>Deslizar</item>
-        <item>Desvanecer</item>
-        <item>Circular</item>
+        <item>Dissipar</item>
+        <item>Moinho</item>
         <item>Página</item>
         <item>Cascata</item>
         <item>Rotação</item>
-        <item>Cubo</item>
+        <item>Cubo 3D</item>
      </string-array>
      <string-array name="wallpaper_scroll_entries">
         <item>Predefinido</item>
