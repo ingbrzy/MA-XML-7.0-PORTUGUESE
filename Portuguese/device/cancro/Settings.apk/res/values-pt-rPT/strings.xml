@@ -916,7 +916,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_metered_title">Restrições de rede</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso, ligue o Wi-Fi.</string>
-  <string name="data_usage_pick_cycle_day">Dia do mês para para repôr o ciclo de utilização de dados:</string>
+  <string name="data_usage_pick_cycle_day">Dia do mês para para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
   <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
   <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
@@ -2485,7 +2485,7 @@ Não irá perder quaisquer dados das aplicações."</string>
   <string name="resource_ringtone_volume_mute">O toque do telefone está silenciado</string>
   <string name="restore_default_apn">A recuperar as definições APN predefinidas</string>
   <string name="restore_default_apn_completed">Redefinição das definições predefinidas do APN concluído.</string>
-  <string name="restr_pin_enter_admin_pin">Introduzir o PIN de administrador</string>
+  <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restrict_background_data_dialog_summary">Aplicações executadas em segundo plano não podem receber mensagens</string>
   <string name="restrict_background_data_notification_summary">As aplicações não podem ligar à rede, se os dados em segundo plano estiverem restritos</string>
   <string name="restrict_background_data_title">Restringir dados em segundo plano</string>
