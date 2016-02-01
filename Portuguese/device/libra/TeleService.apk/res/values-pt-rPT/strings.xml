@@ -673,8 +673,8 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mismatchPin">Os PINs que introduziu não correspondem. Tente novamente.</string>
   <string name="mismatchPin2">Os PIN2s que introduziu não correspondem. Tente novamente.</string>
   <string name="mismatch_password">A palavra-passe que inseriu não corresponde</string>
-  <string name="mismatch_pin">O PIN que digitou não corresponde.</string>
-  <string name="mismatch_pin2">O PIN2 que digitou não corresponde.</string>
+  <string name="mismatch_pin">O PIN que introduziu não corresponde.</string>
+  <string name="mismatch_pin2">O PIN2 que introduziu não corresponde.</string>
   <string name="missed_call_notify_five_times">5 vezes</string>
   <string name="missed_call_notify_none">Não lembrar</string>
   <string name="missed_call_notify_once">1 vez</string>
@@ -898,8 +898,8 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais inf
   <string name="pin2_attempts">"
 There are %d remaining attempts."</string>
   <string name="pin2_changed">O PIN2 do cartão SIM foi alterado.</string>
-  <string name="pin2_invalid">NMF não foi actualizado porque digitou um código PIN incorrecto.</string>
-  <string name="pin2_invalid_or_name_is_too_long">Digitou um código PIN inválido ou o nome que digitou é muito comprido</string>
+  <string name="pin2_invalid">NMF não foi actualizado porque introduziu um código PIN incorrecto.</string>
+  <string name="pin2_invalid_or_name_is_too_long">Digitou um código PIN inválido ou o nome que introduziu é muito comprido</string>
   <string name="pin2_lock_warning">"
 Funções relacionadas o código PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
   <string name="pin2_or_fdn_invalid">"FDN não foi actualizado. O PIN2 estava incorrecto, ou o número de telefone foi rejeitado."</string>
@@ -907,7 +907,7 @@ Funções relacionadas o código PIN2 serão bloqueadas depois de outra tentativ
   <string name="pin_attempts">"
 Restam %d tentativas."</string>
   <string name="pin_changed">O PIN do SIM foi alterado com êxito.</string>
-  <string name="pin_failed">O PIN que digitou está errado.</string>
+  <string name="pin_failed">O PIN que introduziu está errado.</string>
   <string name="pin_lock_warning">"
 O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar o PIN…</string>
@@ -926,7 +926,7 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Sons do teclado</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
-  <string name="preference_telocation_summary_countrycode_on">Marcar automaticamente o código do país</string>
+  <string name="preference_telocation_summary_countrycode_on">marcar automaticamente o código do país</string>
   <string name="preference_telocation_summary_teloc_off">Ocultar a localização do contacto</string>
   <string name="preference_telocation_summary_teloc_on">Mostrar a localização do contacto</string>
   <string name="preference_telocation_title">Localização</string>
@@ -1222,8 +1222,8 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="telocation_contacts_countrycode_hint">Digite o código do país</string>
   <string name="telocation_contacts_countrycode_summary">Código do país predefinido para os contatos é %s</string>
   <string name="telocation_countrycode_alert_message">Digite o número de telefone sem o código da área</string>
-  <string name="telocation_countrycode_alert_message_warning">O código do país que digitou pode estar incorrecto.</string>
-  <string name="telocation_countrycode_alert_message_wrong">O código do país que digitou está incorrecto.</string>
+  <string name="telocation_countrycode_alert_message_warning">O código do país que introduziu pode estar incorrecto.</string>
+  <string name="telocation_countrycode_alert_message_wrong">O código do país que introduziu está incorrecto.</string>
   <string name="telocation_countrycode_alert_title">Aviso</string>
   <string name="telocation_custom_empty">Adicione um número pressionando o botão (+)</string>
   <string name="telocation_custom_location_summary">Gerir códigos de área guardados e os números de grupo</string>
