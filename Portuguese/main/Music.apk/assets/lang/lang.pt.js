@@ -3,7 +3,7 @@
 	"buy_other_flow": "Dados móveis",
     "buy_traffic": "China Unicom",
 	"miui_music": "Música Mi",
-	"start_download_music": "Iniciar a transferência da actualização do pacote de música.",
+	"start_download_music": "Iniciar a transferência de actualização do pacote de música.",
 	"start_to_use": "Comece a usar",
 	"sub_explanation": "Plano de dados de música",
     "sub_explanation_message": "O plano de dados de música é suportado actualmente pela China Unicom. A sua operadora não suporta esta funcionalidade. Pode comprar dados móveis normais.",
