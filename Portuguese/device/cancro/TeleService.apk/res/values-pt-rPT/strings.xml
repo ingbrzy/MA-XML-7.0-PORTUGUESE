@@ -483,11 +483,11 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="international_enable">Notícias Internacionais ligado</string>
   <string name="international_roaming_setting">Dados em Roaming</string>
   <string name="internet_phone">Chamadas pela internet</string>
-  <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPsw">Introduzir palavra-passe (4 a 8 números)</string>
   <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>  
-  <string name="invalid_password">Introduzir uma palavra.passe com 4 números</string>
+  <string name="invalid_password">Introduzir uma palavra-passe com 4 números</string>
   <string name="invalid_pin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalid_pin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalid_puk">Introduzir um PUK que tenha entre 4 a 8 números.</string>
@@ -908,13 +908,13 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="psw_reenter_new">Reintroduzir a sua palavra-passe</string>
   <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
   <string name="puk2_label">Introduzir código PUK2</string>
-  <string name="puk2_requested">Palavra-passe incorreta. PIN2 bloqueado. Para tentar novamente, altere o PIN 2.</string>
+  <string name="puk2_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código do PUK2.</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM será eliminado após outra tentativa falhada."</string>
-  <string name="puk_requested">Palavra-passe incorrecta, PIN está bloqueado. Necessário PUK.</string>
+  <string name="puk_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código PUK.</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso.</string>
-  <string name="puk_unlock_success">Desbloqueio com PUK com sucesso.</string>
+  <string name="puk_unlock_success">Cartão SIM desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
   <string name="purchase_description_summary">"- Telefone para qualquer telefone no mundo, não existem restrições de operadora.

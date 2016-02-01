@@ -468,7 +468,7 @@ utilizando %s"</string>
   <string name="immersive_mode_confirmation">Deslize de cima para baixo para sair do ecrã inteiro.</string>
   <string name="inputMethod">Método de entrada</string>
   <string name="input_method_binding_label">Método de entrada</string>
-  <string name="invalidPin">Introduza um código PIN entre 4 e 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
   <string name="invalidPuk">Introduza um código PUK que tenha 8 ou mais dígitos.</string>
   <string name="issued_by">Emitido por:</string>
   <string name="issued_on">Emitido em:</string>
@@ -638,24 +638,24 @@ Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_screen_locked">Ecrã bloqueado.</string>
   <string name="lockscreen_sim_error_message_short">Cartão inválido.</string>
   <string name="lockscreen_sim_locked_message">O cartão SIM está bloqueado.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">"PIN1 bloqueado. Digite PUK 1
+  <string name="lockscreen_sim_puk_locked_instructions">"PIN1 bloqueado. Introduzir PUK1
 ou
-Por favor, consulte o Guia do utilizador ou entre em contacto com o Serviço de Apoio ao Cliente."</string>
+Por favor, consulte o Manual de utilizador ou entre em contacto com o Serviço de Apoio ao Cliente."</string>
   <string name="lockscreen_sim_puk_locked_message">Cartão SIM está bloqueado com o código PUK.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM…</string>
   <string name="lockscreen_sound_off_label">Som desactivado</string>
   <string name="lockscreen_sound_on_label">Som activado</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente dentro de %d segundos.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Inseriu a sequência de desbloqueio incorrectamente %d vezes. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Escreveu a sua palavra-passe incorrectamente %d vezes. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escreveu o seu número PIN incorrectamente %d vezes. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o seu PIN incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-  <string name="lockscreen_transport_ffw_description">Fast forward</string>
+  <string name="lockscreen_transport_ffw_description">Avançar</string>
   <string name="lockscreen_transport_next_description">Botão da Faixa seguinte</string>
   <string name="lockscreen_transport_pause_description">Botão de pausa</string>
   <string name="lockscreen_transport_play_description">Botão de reproduzir</string>

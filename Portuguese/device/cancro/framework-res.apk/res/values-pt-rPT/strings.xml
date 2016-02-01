@@ -394,7 +394,7 @@ utilizando %s"</string>
   <string name="immersive_cling_title">Visualização de ecrã inteiro</string>
   <string name="input_method_binding_label">Método de entrada</string>
   <string name="inputMethod">Método de entrada</string>
-  <string name="invalidPin">Introduza um código PIN entre 4 e 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
   <string name="invalidPuk">Introduza um código PUK que tenha 8 ou mais dígitos.</string>
   <string name="issued_by">Emitido por:</string>
   <string name="issued_on">Emitido em:</string>
@@ -552,13 +552,13 @@ Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="lockscreen_return_to_call">Voltar à chamada</string>
   <string name="lockscreen_screen_locked">Ecrã bloqueado.</string>
   <string name="lockscreen_sim_locked_message">Cartão SIM está bloqueado.</string>
-  <string name="lockscreen_sim_puk_locked_instructions">Consulte o Manual de utilizador ou contacte a Assistência a Clientes.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Consulte o Manual de utilizador ou entre em contacto com o Serviço de Apoio ao Cliente.</string>
   <string name="lockscreen_sim_puk_locked_message">Cartão SIM está bloqueado com o código PUK.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM…</string>
   <string name="lockscreen_sound_off_label">Som desligado</string>
   <string name="lockscreen_sound_on_label">Som ligado</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes.
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes.
 
 Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 

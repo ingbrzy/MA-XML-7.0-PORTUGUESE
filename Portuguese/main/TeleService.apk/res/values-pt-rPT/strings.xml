@@ -362,7 +362,7 @@
   <string name="emergency_broadcast_disable">Difusão celular de emergência desactivo</string>
   <string name="emergency_broadcast_enable">Difusão celular de emergência activo</string>
   <string name="emergency_call_area_code_edit_dialog_button">Chamada</string>
-  <string name="emergency_call_area_code_edit_dialog_hint">Digite o código da área</string>
+  <string name="emergency_call_area_code_edit_dialog_hint">Introduzir o código da área</string>
   <string name="emergency_enable_radio_dialog_message">A ligar o rádio…</string>
   <string name="emergency_enable_radio_dialog_retry">Fora da área de serviço, a repetir…</string>
   <string name="emergency_enable_radio_dialog_title">Chamada de emergência</string>
@@ -408,7 +408,7 @@
   <string name="ensure_info">Sim</string>
   <string name="enterName">Nome:</string>
   <string name="enterNumber">Número de telefone:</string>
-  <string name="enter_callbarring_password">Digite uma palavra-passe (4 dígitos) para o barramento das chamadas</string>
+  <string name="enter_callbarring_password">Introduzir uma palavra-passe (4 dígitos) para o barramento das chamadas</string>
   <string name="enter_input" formatted="false">Mensagem USSD deve estar entre %d e %d caracteres.</string>
   <string name="enter_pin2_text">Código PIN2</string>
   <string name="enter_pin_text">PIN:</string>
@@ -461,7 +461,7 @@ Contacte a sua operadora se este problema persistir."</string>
 Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="general_news_settings">Notícias Gerais</string>
   <string name="general_setting">Definições</string>
-  <string name="get_pin2">Digite o código PIN2</string>
+  <string name="get_pin2">Introduzir o código PIN2</string>
   <string name="get_product_list_failed">"Não foi possível obter a lista"</string>
   <string name="get_purchase_history_failed">"Não foi possível obter o histórico de compras"</string>
   <string name="get_smsc_address_error">Não é possível ligar à rede.</string>
@@ -526,16 +526,16 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="international_enable">Notícias internacionais activo</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="internet_phone">Chamada pela internet</string>
-  <string name="invalidPin">Introduza um PIN que tenha entre 4 a 8 números.</string>
-  <string name="invalidPin2">Introduza um PIN2 que tenha entre 4 a 8 números.</string>
-  <string name="invalidPuk2">Introduza um PUK2 que tenha 8 números.</string>
-  <string name="invalid_password">Digite uma palavra-passe com 4 números</string>
-  <string name="invalid_pin">Introduza um PIN que tenha entre 4 a 8 números.</string>
-  <string name="invalid_pin2">Introduza um PIN2 que tenha entre 4 a 8 números.</string>
-  <string name="invalid_puk">Introduza um PUK que tenha entre 4 a 8 números.</string>
-  <string name="invalid_puk2">Introduza um PUK2 que tenha 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
+  <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
+  <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>
+  <string name="invalid_password">Introduzir uma palavra-passe com 4 números</string>
+  <string name="invalid_pin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
+  <string name="invalid_pin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
+  <string name="invalid_puk">Introduzir um PUK que tenha entre 4 a 8 números.</string>
+  <string name="invalid_puk2">Introduzir um PUK2 que tenha 8 números.</string>
   <string name="ivr_mo_area_code_settings">Código de área actual</string>
-  <string name="ivr_mo_area_code_settings_hint">Insira o código de área actual</string>
+  <string name="ivr_mo_area_code_settings_hint">Introduzir o código de área actual</string>
   <string name="ivr_parameter_settings">Definições dos parâmetros IVR</string>
   <string name="ivr_type_cm_1">M-Zone</string>
   <string name="ivr_type_cm_2">GoTone</string>
@@ -561,8 +561,8 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="label_cdp">Código PIN de desbloqueio do cartão SIM da empresa</string>
   <string name="label_ndp">Código PIN de desbloqueio do cartão SIM</string>
   <string name="label_nsdp">Código PIN de desbloqueio do subconjunto do cartão SIM</string>
-  <string name="label_puk">Digite o código PUK</string>
-  <string name="label_puk2_code">Digite o código PUK2</string>
+  <string name="label_puk">Introduzir o código PUK</string>
+  <string name="label_puk2_code">Introduzir o código PUK2</string>
   <string name="label_rcdp">Código PIN de desbloqueio do cartão SIM da empresa</string>
   <string name="label_rdp">Código PIN de desbloqueio do cartão SIM</string>
   <string name="label_rhrpd">Código PIN de desbloqueio do cartão SIM hrpd</string>
@@ -1003,15 +1003,15 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM embutidos</string>
   <string name="pstn_phone">Chamada de telefone</string>
-  <string name="puk2_blocked">PUK2 está permanentemente bloqueado.</string>
-  <string name="puk2_label">Digite o código PUK2</string>
-  <string name="puk2_requested">O código está errado o cartão SIM está bloqueado. Digite o código do PUK2.</string>
-  <string name="puk_label">Digitar o código PUK</string>
+  <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
+  <string name="puk2_label">Introduzir código PUK2</string>
+  <string name="puk2_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código do PUK2.</string>
+  <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM será eliminado após outra tentativa falhada."</string>
-  <string name="puk_requested">O código está errado o cartão SIM está bloqueado. Digite o código PUK.</string>
-  <string name="puk_unlock_failed">O código de desbloqueio PUK falhou.</string>
-  <string name="puk_unlock_success">Cartão desbloqueado com o código PUK.</string>
+  <string name="puk_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código PUK.</string>
+  <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso.</string>
+  <string name="puk_unlock_success">Cartão SIM desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
   <string name="purchase_description_summary">"- Telefone para qualquer lado no mundo, não há restrições de operadora.
