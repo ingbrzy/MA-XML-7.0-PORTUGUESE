@@ -39,6 +39,7 @@
   <string name="all_tracks_short">Todas as músicas</string>
   <string name="already_download">A transferir…</string>
   <string name="already_favorited">Já foi adicionada aos favoritos</string>
+  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
   <string name="artist">Artistas</string>
   <string name="artist_is_empty">O nome do artista não pode estar vazio.</string>
   <string name="artist_name">Artista</string>
@@ -61,6 +62,8 @@
   <string name="bluetooth_device">Dispositivo Áudio Bluetooth</string>
   <string name="buffering">Aguarde…</string>
   <string name="button_add">Adicionar</string>
+  <string name="buy_other_flow">Dados móveis</string>
+  <string name="buy_traffic">China Unicom</string>
   <string name="buy_vip">Obter subscrição Premium</string>
   <string name="can_not_find_resource">Não foi possível encontrar os recursos</string>
   <string name="cancel">Cancelar</string>
@@ -102,7 +105,6 @@
   <string name="dialog_button_scan_tracks">Localizar música neste dispositivo</string>
   <string name="dialog_hint_music_error">Não foram encontradas Músicas</string>
   <string name="dialog_title_add_playlist">Adicionar à lista de reprodução</string>
-  <string name="dialog_title_delete_playlist">Eliminar lista de reprodução</string>
   <string name="dialog_title_delete_tracks">Eliminar</string>
   <string name="dialog_title_name_playlist">Nome da lista de reprodução</string>
   <string name="dialog_title_remove_tracks">Remover</string>
@@ -259,14 +261,13 @@
   <string name="lyric_open_other_connect">Transferir a letra utilizando dados móveis</string>
   <string name="lyric_setting">Definições da letra</string>
   <string name="male_artist">Artistas masculinos</string>
-  <string name="max_sleep_time">90</string>
   <string name="message_delete_playlist">Eliminar lista de reprodução %s?</string>
   <string name="metered_alert">Aviso do uso de dados Móveis</string>
   <string name="metered_alert_msg">Utilizar a sua ligação de dados para transmitir música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="metered_allow">Fluxo</string>
   <string name="metered_disallow">Cancelar</string>
   <string name="metered_play_toast">Transmissão via ligação de dados</string>
-  <string name="min_sleep_time">1</string>
+  <string name="miui_music">Música Mi</string>
   <string name="miuishare_account_activate_confirmation">Necessária activação</string>
   <string name="miuishare_account_activate_ok">Activar</string>
   <string name="miuishare_account_login_cancel">Cancelar</string>
@@ -436,15 +437,18 @@
   <string name="sort_by_name">Nome</string>
   <string name="sort_by_time">Data</string>
   <string name="source_from">Origem: %1$s</string>
+  <string name="start_download_music">Inicar a transferência da actualização do pacote de música.</string>
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
+  <string name="start_to_use">Iniciar para desfrutar</string>
   <string name="stream_normal">Reproduzir na qualidade standard</string>
   <string name="stream_quality">Qualidade de fluxo</string>
   <string name="streamloadingtext">Ligar a %s</string>
   <string name="suggest_text">Quem gostou disto também gostou de</string>
-  <string name="support_online_only">Apenas transmissão</string>
   <string name="sync_only_in_wifi">Apenas usar Wi-Fi para sincronizar</string>
   <string name="sync_only_in_wifi_summary">Sincronizar a sua música em todos os seus dispositivos com a Nuvem Mi. Ao utilizar a sua ligação de dados móveis para sincronizar música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="sub_explanation">Plano de dados de música</string>
+  <string name="sub_explanation_message">O plano de dados de música é suportado actualmente pela China Unicom. A sua operadora não suporta esta funcionalidade. Pode comprar dados móveis normais.</string>
   <string name="tab_album">Álbuns</string>
   <string name="tab_album_list">Álbum</string>
   <string name="tab_artist">Artistas</string>
@@ -458,6 +462,7 @@
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Música</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito.</string>
+  <string name="time_to_upgrade">Deve actualizar Música Mi</string>
   <string name="title_online_artist">Artistas Tendências</string>
   <string name="title_online_billboard">Charts</string>
   <string name="title_online_fm">Rádio</string>
@@ -495,6 +500,7 @@
   <string name="ultra_high_quality">Elevada</string>
   <string name="unknown_album_name">Álbum desconhecido</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
+  <string name="update_now">Actualizar agora</string>
   <string name="upgrade">Actualizar:</string>
   <string name="upgrade_force">Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.</string>
   <string name="upgrade_immediate">Actualizar agora</string>
@@ -518,4 +524,5 @@
   <string name="vip_renew_title">Subscrição expirada</string>
   <string name="vip_required">Obter subscrição Premium para reproduzir esta música. Nós saltámo-la por agora.</string>
   <string name="vip_required_with_song">Obter subscrição Premium para reproduzir “%s”. Pode ouvir por agora.</string>
+  <string name="welcome_to_new_music">Bem-vindo à nova versão de Música Mi</string>
 </resources>

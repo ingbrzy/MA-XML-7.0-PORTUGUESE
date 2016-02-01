@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">Sinal máximo</string>
   <string name="accessibility_wimax_three_bars">Três barras</string>
   <string name="accessibility_wimax_two_bars">Duas barras</string>
+  <string name="account_info">Sem sessão iniciada</string>
   <string name="activate_usb_message">Para activar este recurso, insira o seu cartão SIM.</string>
   <string name="activate_usb_title">Activar USB</string>
   <string name="always_use_accessory">Utilize por padrão para este acessório USB</string>
@@ -112,9 +113,6 @@ Se voltar a activar os dados móveis poderá ter custos adicionais facturados pe
   <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
   <string name="gps_notification_found_text">Localização definida pelo GPS</string>
   <string name="gps_notification_searching_text">Pesquisar por GPS</string>
-  <string name="headset_custom">Dispensar</string>
-  <string name="headset_info">Toque para ver as definições.</string>
-  <string name="headset_settings">Auriculares ligados</string>
   <string name="invalid_charger">"O carregamento por USB não é suportado.
 Utilize apenas o carregador fornecido."</string>
   <string name="kilobyte_per_second">K/s</string>
@@ -136,6 +134,7 @@ Utilize apenas o carregador fornecido."</string>
   <string name="mount_storage">Sim</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Sem notificações</string>
+  <string name="notification_header_title">Notificações</string>
   <string name="notification_otg_gamestick_in">Controlador de jogos ligado</string>
   <string name="notification_otg_gamestick_out">Controlador de jogos desligado</string>
   <string name="notification_otg_keyboard_in">Teclado ligado</string>
@@ -178,7 +177,10 @@ Utilize apenas o carregador fornecido."</string>
   <string name="settings_toggle_position_divider_page">%1$d atalhos nesta barra estão activos</string>
   <string name="settings_toggle_position_reset">Redefinir atalhos</string>
   <string name="share">Partilhar</string>
-  <string name="status_bar_date_format">EEEE d/MM</string>
+  <string name="status_bar_date_format">"EEEE
+d/MM"</string>
+  <string name="status_bar_date_format_12">"EEEE
+d/MM"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Hoje: %1$s   Restante: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Hoje: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
