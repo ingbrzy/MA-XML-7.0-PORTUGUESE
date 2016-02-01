@@ -418,8 +418,8 @@
   <string name="error_type_account_201">Fundos insuficientes</string>
   <string name="error_type_account_203">"O tipo de número que marcou não é suportado"</string>
   <string name="error_type_account_208">"Não foi possível realizar a chamada para este número"</string>
-  <string name="error_type_account_301">O código que inseriu está incorrecto</string>
-  <string name="error_type_account_302">O código que inseriu já foi usado</string>
+  <string name="error_type_account_301">O código que introduziu está incorrecto</string>
+  <string name="error_type_account_302">O código que introduziu já foi usado</string>
   <string name="error_type_account_500">"Não foi possível ligar à rede móvel"</string>
   <string name="error_type_account_inner">Erro interno</string>
   <string name="error_type_network">Erro de rede</string>
@@ -1035,7 +1035,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="registration_status_checking_status">A verificar…</string>
   <string name="registration_status_done">Receber chamadas.</string>
   <string name="registration_status_failed_try_later">Não é possível ligar a conta. %s</string>
-  <string name="registration_status_invalid_credentials">O Utilizador ou palavra-passe que inseriu está errada.</string>
+  <string name="registration_status_invalid_credentials">O Utilizador ou palavra-passe que introduziu está incorrecta.</string>
   <string name="registration_status_no_data">Não tem nenhuma ligação à internet.</string>
   <string name="registration_status_no_wifi_data">Não está ligado a nenhuma ligação Wi-Fi</string>
   <string name="registration_status_not_receiving">Não receber chamadas.</string>
@@ -1315,7 +1315,7 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="wifi_calling_use_call_assistant">Utilizar o assistente de chamada</string>
   <string name="wifi_calling_use_call_assistant_summary">Deixar aplicações ou serviços gerirem as redes utilizadas para as chamadas</string>
   <string name="wild_prompt_str">Substituir caracter universal por</string>
-  <string name="wrong_password">A palavra passe que inseriu está errada</string>
+  <string name="wrong_password">A palavra passe que introduziu está errada</string>
   <string name="xdivert_button">Definições X-Divert</string>
   <string name="xdivert_setting">Definições X-Divert</string>
   <string name="xdivert_summary">Definições CFNRc</string>
