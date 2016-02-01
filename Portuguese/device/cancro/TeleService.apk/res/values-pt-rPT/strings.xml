@@ -611,11 +611,11 @@ Recarregue e comece a falar"</string>
   <string name="message_decode_error">Ocorreu um erro durante a descodificação da mensagem.</string>
   <string name="mhh_disable">Médico, Saúde e Hospital está desligado</string>
   <string name="mhh_enable">Médico, Saúde e Hospital está ligado</string>
-  <string name="mismatchPin">Os PINs que introduziu não coincidem.</string>
-  <string name="mismatchPin2">PIN2s que introduziu não coincidem.</string>
-  <string name="mismatch_password">As palavras-passe inseridas não coincidem</string>
+  <string name="mismatchPin">Os PINs que introduziu não coincidem. Tente novamente.</string>
+  <string name="mismatchPin2">Os PIN2s que introduziu não coincidem. Tente novamente.</string>
+  <string name="mismatch_password">As palavras-passe que introduziu não coincidem.</string>
   <string name="mismatch_pin">Os PINs que introduziu não coincidem.</string>
-  <string name="mismatch_pin2">PIN2s que introduziu não coincidem.</string>
+  <string name="mismatch_pin2">Os PIN2s que introduziu não coincidem. Tente novamente</string>
   <string name="missed_call_notify_five_times">5 vezes</string>
   <string name="missed_call_notify_none">Sem lembrete</string>
   <string name="missed_call_notify_once">1 vez</string>
@@ -833,7 +833,7 @@ Funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falh
   <string name="pin_attempts">"
 %d tentativas."</string>
   <string name="pin_changed">PIN do SIM foi alterado com sucesso.</string>
-  <string name="pin_failed">O PIN que introduziu está incorrecto.</string>
+  <string name="pin_failed">O PIN que introduziu está errado.</string>
   <string name="pin_lock_warning">"
 O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar PIN…</string>

@@ -776,10 +776,10 @@ Tente novamente dentro de %d segundos."</string>
   <string name="midnight">meia-noite</string>
   <string name="minute">minuto</string>
   <string name="minutes">minutos</string>
-  <string name="mismatchPin">Os códigos PINs que escreveu não correspondem.</string>
+  <string name="mismatchPin">Os PINs que introduziu não coincidem.</string>
   <string name="mmiComplete">MMI concluído.</string>
   <string name="mmiError">Problema de ligação ou código MMI inválido.</string>
-  <string name="mmiFdnError">A operação está limitada aos números fixos autorizados.</string>
+  <string name="mmiFdnError">A operação está restringida a números fixos autorizados.</string>
   <string name="mobile_provisioning_apn"/>
   <string name="mobile_provisioning_url"/>
   <string name="mobile_redirected_provisioning_url">http://google.com</string>
