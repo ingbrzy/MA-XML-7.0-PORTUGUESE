@@ -398,7 +398,7 @@
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
   <string name="friday">Sexta-feira</string>
-  <string name="friday_short">Sex.</string>
+  <string name="friday_short">Sex</string>
   <string name="friday_shortest">S</string>
   <string name="heavenly_stems_bing">" "</string>
   <string name="heavenly_stems_ding">" "</string>
@@ -415,7 +415,7 @@
   <string name="label">MIUI SDK</string>
   <string name="midnight">AM</string>
   <string name="monday">Segunda-feira</string>
-  <string name="monday_short">Seg.</string>
+  <string name="monday_short">Seg</string>
   <string name="monday_shortest">S</string>
   <string name="month_april">Abril</string>
   <string name="month_april_short">Abr</string>
@@ -471,7 +471,7 @@
   <string name="pm">PM</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="saturday">Sábado</string>
-  <string name="saturday_short">Sáb.</string>
+  <string name="saturday_short">Sáb</string>
   <string name="saturday_shortest">S</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_item">Seleccionar itens</string>
@@ -517,7 +517,7 @@
   <string name="solar_term_winter_begins">Início do Inverno</string>
   <string name="solar_term_winter_solstice">Solstício de Inverno</string>
   <string name="sunday">Domingo</string>
-  <string name="sunday_short">Dom.</string>
+  <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">D</string>
   <string name="sync_one_time_sync">Toque para sincronizar ( %1$s )</string>
   <string name="the_anniversary_of_lifting_martial_law">Aniversário da elevação a Lei Marcial</string>
@@ -561,7 +561,7 @@
   <string name="the_valentines_day">Dia dos Namorados</string>
   <string name="the_water_lantern_festival">Festival da Lanterna de Água</string>
   <string name="thursday">Quinta-feira</string>
-  <string name="thursday_short">Qui.</string>
+  <string name="thursday_short">Qui</string>
   <string name="thursday_shortest">Q</string>
   <string name="time_picker_dialog_title">Definir hora</string>
   <string name="time_picker_label_hour">H</string>
@@ -569,7 +569,7 @@
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tuesday">Terça-feira</string>
-  <string name="tuesday_short">Ter.</string>
+  <string name="tuesday_short">Ter</string>
   <string name="tuesday_shortest">T</string>
   <string name="user_agreement">Termos de Serviço</string>
   <string name="user_manual">Guia de utilizador</string>
@@ -578,7 +578,7 @@
   <string name="website">Website</string>
   <string name="webview_reload">Tente novamente</string>
   <string name="wednesday">Quarta-feira</string>
-  <string name="wednesday_short">Qua.</string>
+  <string name="wednesday_short">Qua</string>
   <string name="wednesday_shortest">Q</string>
   <string name="yesterday">Ontem</string>
 </resources>
