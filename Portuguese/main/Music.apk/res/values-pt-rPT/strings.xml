@@ -39,7 +39,7 @@
   <string name="all_tracks_short">Todas as músicas</string>
   <string name="already_download">A transferir…</string>
   <string name="already_favorited">Já foi adicionada aos favoritos</string>
-  <string name="android_sdk_too_low">"For android version is too low, music can't upgrade.Please update."</string>
+  <string name="android_sdk_too_low">"A versão do Android instalada não suporta esta funcionalidade, Música Mi não pode actualizar. Por favor, actualize a versão do Android."</string>
   <string name="artist">Artistas</string>
   <string name="artist_is_empty">O nome do artista não pode estar vazio.</string>
   <string name="artist_name">Artista</string>
@@ -437,10 +437,10 @@
   <string name="sort_by_name">Nome</string>
   <string name="sort_by_time">Data</string>
   <string name="source_from">Origem: %1$s</string>
-  <string name="start_download_music">Inicar a transferência da actualização do pacote de música.</string>
+  <string name="start_download_music">Iniciar a transferência da actualização do pacote de música.</string>
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
-  <string name="start_to_use">Iniciar para desfrutar</string>
+  <string name="start_to_use">Comece a usar</string>
   <string name="stream_normal">Reproduzir na qualidade standard</string>
   <string name="stream_quality">Qualidade de fluxo</string>
   <string name="streamloadingtext">Ligar a %s</string>

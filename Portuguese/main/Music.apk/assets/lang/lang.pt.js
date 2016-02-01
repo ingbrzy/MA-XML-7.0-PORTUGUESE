@@ -1,10 +1,10 @@
 {
-	"android_sdk_too_low": "For android version is too low, music can't upgrade.Please update.",
+	"android_sdk_too_low": "A versão do Android instalada não suporta esta funcionalidade, Música Mi não pode actualizar. Por favor, actualize a versão do Android.",
 	"buy_other_flow": "Dados móveis",
     "buy_traffic": "China Unicom",
 	"miui_music": "Música Mi",
-	"start_download_music": "Inicar a transferência da actualização do pacote de música.",
-	"start_to_use": "Iniciar para desfrutar",
+	"start_download_music": "Iniciar a transferência da actualização do pacote de música.",
+	"start_to_use": "Comece a usar",
 	"sub_explanation": "Plano de dados de música",
     "sub_explanation_message": "O plano de dados de música é suportado actualmente pela China Unicom. A sua operadora não suporta esta funcionalidade. Pode comprar dados móveis normais.",
 	"time_to_upgrade": "Deve actualizar Música Mi",
