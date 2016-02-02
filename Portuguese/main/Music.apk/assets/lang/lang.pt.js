@@ -430,7 +430,7 @@
 	"home_tab_local": "Minha Música",
     "home_tab_online": "Descobrir",
     "impunity_declaration_content1": "Ao aceitar concorda com os termos definidos no nosso ",
-    "impunity_declaration_content2": "Termos de Utilizador",
+    "impunity_declaration_content2": "Termos de Utilização",
     "impunity_declaration_content3": " e ",
     "impunity_declaration_content4": "Política de Privacidade",
     "impunity_declaration_content5": ".",	
