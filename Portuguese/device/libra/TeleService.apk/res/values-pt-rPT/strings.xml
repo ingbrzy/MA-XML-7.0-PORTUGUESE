@@ -253,7 +253,7 @@
   <string name="connect_disconnect_vibrate_title">Vibração</string>
   <string name="connect_disconnect_vibrate_weak">Fraca</string>
   <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente mais tarde.</string>
-  <string name="connection_service_default_label">Serviço de ligação embutido</string>
+  <string name="connection_service_default_label">Serviço de ligação integrado</string>
   <string name="contactAddFailed">Não é possível adicionar contacto ao SIM</string>
   <string name="contactAddSuccess">Contacto adicionado ao cartão SIM</string>
   <string name="contactPhoto">foto de contacto</string>
@@ -1001,7 +1001,7 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="provision_title">Ligação à internet</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
-  <string name="pstn_connection_service_label">Cartões SIM embutidos</string>
+  <string name="pstn_connection_service_label">Cartões SIM integrados</string>
   <string name="pstn_phone">Chamada de telefone</string>
   <string name="puk2_blocked">PUK2 bloqueado permanentemente.</string>
   <string name="puk2_label">Introduzir código PUK2</string>
