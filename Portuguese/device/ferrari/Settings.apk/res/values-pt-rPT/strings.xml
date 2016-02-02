@@ -79,7 +79,7 @@ Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de 
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
-  <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
+  <string name="adb_keys_warning_message">Negar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
   <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="add_account_label">Adicionar conta</string>
