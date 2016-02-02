@@ -528,21 +528,21 @@ Tem a certeza de que deseja sair desta página?"</string>
  Tente novamente em %d segundos."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos.</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
-  <string name="kg_forgot_pattern_button_text">Esqueceu-se da sequência</string>
+  <string name="kg_forgot_pattern_button_text">Esqueceu a sequência?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas irão desactivar o SIM permanentemente.</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números.</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ser de 8 números.</string>
-  <string name="kg_login_account_recovery_hint">""Esqueceu o nome de utilizador ou a palavra-passe?
+  <string name="kg_login_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
 Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
-  <string name="kg_login_checking_password">A verificar a conta…</string>
-  <string name="kg_login_instructions">Inicie a sessão para poder desbloquear a sua conta Google.</string>
-  <string name="kg_login_invalid_input">Nome de utilizador ou palavra-passe inválida.</string>
+  <string name="kg_login_checking_password">A verificar conta…</string>
+  <string name="kg_login_instructions">Para desbloquear, inicie sessão com a sua conta Google.</string>
+  <string name="kg_login_invalid_input">Utilizador ou palavra-passe inválida.</string>
   <string name="kg_login_password_hint">Palavra-passe</string>
-  <string name="kg_login_submit_button">Iniciar sessão em</string>
-  <string name="kg_login_too_many_attempts">Muitas tentativas de desenhar a sua sequência</string>
-  <string name="kg_login_username_hint">Nome do utilizador (email)</string>
-  <string name="kg_password_instructions">Introduza a palavra-passe</string>
+  <string name="kg_login_submit_button">Iniciar sessão</string>
+  <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar sequência</string>
+  <string name="kg_login_username_hint">Utilizador (email)</string>
+  <string name="kg_password_instructions">Introduzir palavra-passe</string>
   <string name="kg_password_wrong_pin_code">Código PIN incorrecto.</string>
   <string name="kg_pattern_instructions">Desenhe a sua sequência</string>
   <string name="kg_pin_instructions">Introduza o PIN</string>
