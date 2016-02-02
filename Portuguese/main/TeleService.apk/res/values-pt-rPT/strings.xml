@@ -461,7 +461,7 @@ Contacte a sua operadora se este problema persistir."</string>
 Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="general_news_settings">Notícias Gerais</string>
   <string name="general_setting">Definições</string>
-  <string name="get_pin2">Introduzir o código PIN2</string>
+  <string name="get_pin2">Introduzir PIN2</string>
   <string name="get_product_list_failed">"Não foi possível obter a lista"</string>
   <string name="get_purchase_history_failed">"Não foi possível obter o histórico de compras"</string>
   <string name="get_smsc_address_error">Não é possível ligar à rede.</string>
@@ -526,7 +526,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="international_enable">Notícias internacionais activo</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="internet_phone">Chamada pela internet</string>
-  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>
   <string name="invalid_password">Introduzir uma palavra-passe com 4 números</string>
@@ -1014,7 +1014,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="puk_unlock_success">Cartão SIM desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
-  <string name="purchase_description_summary">"- Telefone para qualquer lado no mundo, não há restrições de operadora.
+  <string name="purchase_description_summary">"- Telefone para qualquer país do mundo, não há restrições de operadora.
 - Sem conflitos entre este serviço e o seu tarifário actual.
 - Não é necessário configurar, carregue e comece a falar."</string>
   <string name="purchase_description_title">Acerca de</string>
@@ -1315,7 +1315,7 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="wifi_calling_use_call_assistant">Utilizar o assistente de chamada</string>
   <string name="wifi_calling_use_call_assistant_summary">Deixar aplicações ou serviços gerirem as redes utilizadas para as chamadas</string>
   <string name="wild_prompt_str">Substituir caracter universal por</string>
-  <string name="wrong_password">A palavra-passe que introduziu está errada</string>
+  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="xdivert_button">Definições X-Divert</string>
   <string name="xdivert_setting">Definições X-Divert</string>
   <string name="xdivert_summary">Definições CFNRc</string>

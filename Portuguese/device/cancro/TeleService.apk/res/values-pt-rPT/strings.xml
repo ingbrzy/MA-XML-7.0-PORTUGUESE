@@ -483,7 +483,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="international_enable">Notícias Internacionais ligado</string>
   <string name="international_roaming_setting">Dados em Roaming</string>
   <string name="internet_phone">Chamadas pela internet</string>
-  <string name="invalidPin">Introduzir um PIN entre 4 e 8 números.</string>
+  <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPsw">Introduzir palavra-passe (4 a 8 números)</string>
   <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>  
@@ -580,7 +580,7 @@ Recarregue e comece a falar"</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
   <string name="livetalk_user_config_title">Verificar número de telefone</string>
   <string name="livetalk_welcome_description_text">"• Poupe 70% nas suas tarifas de chamadas.
-• Telefone para qualquer telefone no mundo, não existem restrições de operadora.
+• Telefone para qualquer país do mundo, não há restrições de operadora.
 • Recarregue e comece a falar, não há definições complicadas."</string>
   <string name="livetalk_welcome_notes_text">"Nota: Cada chamada necessita de 1KB de dados móveis. Números curtos e de serviço não são suportados. Se pagar por chamadas recebidas, vai ser cobrado pela operadora quando o roaming estiver ligado. A sua operadora pode cobrar por um SMS utilizado para verificar este número de telefone."</string>
   <string name="livetalk_white_list_number_title">Fazer chamada normal</string>
@@ -917,7 +917,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="puk_unlock_success">Cartão SIM desbloqueado com o código PUK.</string>
   <string name="puk_unlocked">O cartão SIM foi desbloqueado. O telefone está a desbloquear…</string>
   <string name="purchase">Comprar</string>
-  <string name="purchase_description_summary">"- Telefone para qualquer telefone no mundo, não existem restrições de operadora.
+  <string name="purchase_description_summary">"- Telefone para qualquer país do mundo, não há restrições de operadora.
 - Sem conflitos com o seu plano actual.
 - Recarregue e comece a telefonar.
 - Sem definições complicadas."</string>
@@ -1221,7 +1221,7 @@ Contacte a sua operadora se este problema persistir."</string>
   <string name="wifi_pref_none">Sem preferências seleccionadas</string>
   <string name="wifi_preferred">Wi-Fi preferencial</string>
   <string name="wild_prompt_str">Substituir caracter universal por</string>
-  <string name="wrong_password">A palavra-passe que introduziu está errada</string>
+  <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="xdivert_summary">Definições CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
