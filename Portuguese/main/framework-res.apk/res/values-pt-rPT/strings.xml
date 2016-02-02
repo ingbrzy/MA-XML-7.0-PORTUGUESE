@@ -1051,9 +1051,9 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgroupdesc_costMoney">Efectuar acções que implicam pagamento.</string>
   <string name="permgroupdesc_developmentTools">Recursos apenas necessários para programadores de aplicações.</string>
   <string name="permgroupdesc_deviceAlarms">Definir o alarme.</string>
-  <string name="permgroupdesc_dictionary">Leia as palavras no dicionário do utilizador.</string>
+  <string name="permgroupdesc_dictionary">Ler as palavras no dicionário do utilizador.</string>
   <string name="permgroupdesc_display">Efeito da UI de outras aplicações.</string>
-  <string name="permgroupdesc_hardwareControls">Aceda directamente ao hardware no telefone.</string>
+  <string name="permgroupdesc_hardwareControls">Aceder directamente ao hardware no telefone.</string>
   <string name="permgroupdesc_location">Monitorizar a sua localização física.</string>
   <string name="permgroupdesc_messages">Ler e escrever SMS, email e outras mensagens.</string>
   <string name="permgroupdesc_microphone">Acesso directo ao microfone para gravar áudio.</string>
@@ -1080,9 +1080,9 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgrouplab_calendar">Calendário</string>
   <string name="permgrouplab_camera">Câmara</string>
   <string name="permgrouplab_costMoney">Serviços que implicam pagamento</string>
-  <string name="permgrouplab_developmentTools">Ferramentas de desenvolvimento</string>
+  <string name="permgrouplab_developmentTools">Ferramentas de administrador</string>
   <string name="permgrouplab_deviceAlarms">Alarme</string>
-  <string name="permgrouplab_dictionary">Leia o dicionário do utilizador</string>
+  <string name="permgrouplab_dictionary">Ler o dicionário do utilizador</string>
   <string name="permgrouplab_display">Outra Aplicação UI</string>
   <string name="permgrouplab_hardwareControls">Controlos de hardware</string>
   <string name="permgrouplab_location">A sua localização</string>
@@ -1098,13 +1098,13 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permgrouplab_syncSettings">Definições de sincronização</string>
   <string name="permgrouplab_systemClock">Relógio</string>
   <string name="permgrouplab_systemTools">Ferramentas do sistema</string>
-  <string name="permgrouplab_voicemail">Voice mail</string>
+  <string name="permgrouplab_voicemail">Voice Mail</string>
   <string name="permgrouplab_wallpaper">Papel de parede</string>
-  <string name="permgrouplab_writeDictionary">Escrever o dicionário do utilizador</string>
+  <string name="permgrouplab_writeDictionary">Escrever no dicionário do utilizador</string>
   <string name="permission">Permissão</string>
   <string name="permission_remember_choice">Lembrar</string>
-  <string name="permission_request_notification_title">Permissão solicitada</string>
-  <string name="permission_request_notification_with_subtitle">"Foi solicitada permissão
+  <string name="permission_request_notification_title">Permissão pedida</string>
+  <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
