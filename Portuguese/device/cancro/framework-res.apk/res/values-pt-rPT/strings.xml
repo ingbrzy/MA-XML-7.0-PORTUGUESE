@@ -447,13 +447,13 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Toque para introduzir a palavra-passe</font></string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto.</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
  Tente novamente dentro de %d segundos."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">entou desbloquear o telefone %d vezes de forma incorreta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos.</string>
+  ring name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos.</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
-  <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
-  <string name="kg_invalid_confirm_pin_hint">Códigos PIN não correspondem</string>
+  <string name="kg_forgot_pattern_button_text">Esqueceu-se da sequência</string>
+  <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas irão desactivar o SIM permanentemente.</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números.</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ser de 8 números.</string>

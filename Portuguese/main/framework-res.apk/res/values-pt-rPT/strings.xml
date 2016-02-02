@@ -522,17 +522,17 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Toque para introduzir a palavra-passe&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto.</string>
   <string name="kg_emergency_call_label">Chamada de emergência</string>
-  <string name="kg_enter_confirm_pin_hint">Confirme o código PIN desejado</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou incorrectamente a sequência de desbloqueio %d vezes. Após %d tentativas sem êxito, será solicitado para desbloquear o telefone através de uma conta de email.
+  <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
  Tente novamente em %d segundos."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear incorrectamente o telefone por %d vezes. Após %d tentativas sem êxito, o telefone será reposto para as definições de fábrica, todos os dados do utilizador serão eliminados.</string>
-  <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone por %d vezes. O telefone irá ser reposto para as definições de fábrica.</string>
-  <string name="kg_forgot_pattern_button_text">Esqueceu o padrão</string>
-  <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não correspondem</string>
-  <string name="kg_invalid_puk">Introduza novamente o código PUK correcto. Sucessivas tentativas vão desactivar o SIM permanentemente.</string>
-  <string name="kg_invalid_sim_pin_hint">Introduza um código PIN de 4 a 8 números.</string>
-  <string name="kg_invalid_sim_puk_hint">O código PUK deve conter de 8 números.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos.</string>
+  <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
+  <string name="kg_forgot_pattern_button_text">Esqueceu-se da sequência</string>
+  <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
+  <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas irão desactivar o SIM permanentemente.</string>
+  <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números.</string>
+  <string name="kg_invalid_sim_puk_hint">Código PUK deve ser de 8 números.</string>
   <string name="kg_login_account_recovery_hint">""Esqueceu o nome de utilizador ou a palavra-passe?
 Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_login_checking_password">A verificar a conta…</string>
