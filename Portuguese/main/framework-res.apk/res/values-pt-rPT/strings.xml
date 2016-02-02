@@ -33,7 +33,7 @@
   <string name="SetupCallDefault">Aceitar chamada?</string>
   <string name="ThreeWCMmi">Chamada de conferência entre três interlocutores</string>
   <string name="VideoView_error_button">OK</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão em fluxo contínuo neste dispositivo.</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão em streaming contínuo neste dispositivo.</string>
   <string name="VideoView_error_text_unknown">Não é possível reproduzir este vídeo.</string>
   <string name="VideoView_error_title">Problema com o vídeo</string>
   <string name="accept">Aceitar</string>
@@ -907,7 +907,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_enableCarMode">Permite que a aplicação active o modo de condução.</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado.</string>
   <string name="permdesc_factoryTest">Executar como teste de nível inferior do fabricante, permitindo o acesso total ao hardware do telefone. Apenas disponível quando um telefone está executar o modo de teste do fabricante.</string>
-  <string name="permdesc_filter_events">Permite que uma aplicação registe um pedido de entrada que filtre o fluxo de todos os eventos do utilizador antes de serem enviados. As aplicações maliciosas podem controlar o sistema UI sem a intervenção do utilizador.</string>
+  <string name="permdesc_filter_events">Permite que uma aplicação registe um pedido de entrada que filtre o streaming de todos os eventos do utilizador antes de serem enviados. As aplicações maliciosas podem controlar o sistema UI sem a intervenção do utilizador.</string>
   <string name="permdesc_flashlight">Permite à aplicação controlar a lanterna.</string>
   <string name="permdesc_forceBack">Permite que a aplicação force qualquer actividade em primeiro plano a encerrar e a retroceder. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_forceStopPackages">Permite à aplicação forçar o encerramento de outras aplicações.</string>
@@ -1253,10 +1253,10 @@ para a conta %s."</string>
   <string name="permlab_readPhoneState">Ler o estado e a identidade do telefone</string>
   <string name="permlab_readProfile">Ler o próprio cartão de contacto</string>
   <string name="permlab_readSms">Ler as mensagens de texto (SMS ou MMS)</string>
-  <string name="permlab_readSocialStream">Ler o seu fluxo social</string>
-  <string name="permlab_readSyncSettings">Ler definições de sincronização</string>
-  <string name="permlab_readSyncStats">Ler estatísticas de sincronização</string>
-  <string name="permlab_reboot">Forçar reinício do telefone</string>
+  <string name="permlab_readSocialStream">ler o seu streaming social</string>
+  <string name="permlab_readSyncSettings">ler definições de sincronização</string>
+  <string name="permlab_readSyncStats">ler estatísticas de sincronização</string>
+  <string name="permlab_reboot">forçar reinício do telefone</string>
   <string name="permlab_receiveBluetoothMap">receber mensagens Bluetooth (MAP)</string>
   <string name="permlab_receiveBootCompleted">executar no arranque</string>
   <string name="permlab_receiveEmergencyBroadcast">receber transmissões de emergência</string>
