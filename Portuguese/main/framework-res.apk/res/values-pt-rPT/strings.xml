@@ -1154,11 +1154,11 @@ para a conta %s."</string>
   <string name="permlab_broadcastSmsReceived">Enviar difusão recebida por SMS</string>
   <string name="permlab_broadcastSticky">Enviar difusão fixa</string>
   <string name="permlab_broadcastWapPush">Enviar difusão recebida através de PUSH WAP</string>
-  <string name="permlab_cache_filesystem">Aceder aos ficheiros de sistema em cache</string>
+  <string name="permlab_cache_filesystem">Aceder ao sistema de ficheiros de cache</string>
   <string name="permlab_callPhone">marcar números de telefone directamente</string>
-  <string name="permlab_callPrivileged">marcar directamente qualquer número de telefone</string>
+  <string name="permlab_callPrivileged">marcar directamente quaisquer números de telefone</string>
   <string name="permlab_camera">tirar fotos e vídeos</string>
-  <string name="permlab_cameraDisableTransmitLed">desactivar transmissão do indicador LED quando a câmara estiver em utilização</string>
+  <string name="permlab_cameraDisableTransmitLed">desactivar transmissão do indicador LED quando a câmara está a ser utilizada</string>
   <string name="permlab_captureAudioHotword">detecção palavra quente</string>
   <string name="permlab_captureAudioOutput">captar a saída de áudio</string>
   <string name="permlab_captureSecureVideoOutput">assegurar a captação de saída do vídeo</string>
@@ -1200,7 +1200,7 @@ para a conta %s."</string>
   <string name="permlab_getPackageSize">medir espaço de armazenamento da aplicação</string>
   <string name="permlab_getTasks">obter aplicações em execução</string>
   <string name="permlab_getTopActivityInfo">obter informações actuais da aplicação</string>
-  <string name="permlab_grantRevokePermissions">conceder ou negar permissões</string>
+  <string name="permlab_grantRevokePermissions">conceder ou revogar permissões</string>
   <string name="permlab_hardware_test">testar hardware</string>
   <string name="permlab_injectEvents">pressionar as teclas e botões de controlo</string>
   <string name="permlab_installLocationProvider">autorização para instalar um fornecedor de localização</string>
@@ -1424,7 +1424,7 @@ Tentativas restantes :"</string>
   <string name="restr_pin_error_too_short">PIN é muito curto. Deve ter pelo menos 4 dígitos.</string>
   <string name="restr_pin_incorrect">Incorrecto</string>
   <string name="restr_pin_try_later">Tente novamente mais tarde</string>
-  <string name="revoke">Negar</string>
+  <string name="revoke">Revogar</string>
   <string name="ringtone_default">Toque predefinido</string>
   <string name="ringtone_default_with_actual">Toque predefinido (%1$s)</string>
   <string name="ringtone_picker_title">Toques</string>
