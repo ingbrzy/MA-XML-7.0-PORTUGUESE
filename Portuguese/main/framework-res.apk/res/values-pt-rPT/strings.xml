@@ -1154,11 +1154,11 @@ para a conta %s."</string>
   <string name="permlab_broadcastSmsReceived">Enviar difusão recebida por SMS</string>
   <string name="permlab_broadcastSticky">Enviar difusão fixa</string>
   <string name="permlab_broadcastWapPush">Enviar difusão recebida através de PUSH WAP</string>
-  <string name="permlab_cache_filesystem">Aceder ao sistema de ficheiros de cache</string>
+  <string name="permlab_cache_filesystem">Aceder aos ficheiros de sistema em cache</string>
   <string name="permlab_callPhone">marcar números de telefone directamente</string>
-  <string name="permlab_callPrivileged">marcar directamente quaisquer números de telefone</string>
+  <string name="permlab_callPrivileged">marcar directamente qualquer número de telefone</string>
   <string name="permlab_camera">tirar fotos e vídeos</string>
-  <string name="permlab_cameraDisableTransmitLed">desactivar transmissão do indicador LED quando a câmara está a ser utilizada</string>
+  <string name="permlab_cameraDisableTransmitLed">desactivar transmissão do indicador LED quando a câmara estiver em utilização</string>
   <string name="permlab_captureAudioHotword">detecção palavra quente</string>
   <string name="permlab_captureAudioOutput">captar a saída de áudio</string>
   <string name="permlab_captureSecureVideoOutput">assegurar a captação de saída do vídeo</string>
