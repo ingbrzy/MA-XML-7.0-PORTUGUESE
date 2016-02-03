@@ -85,7 +85,7 @@
   <string name="incoming_file_confirm_cancel">Rejeitar</string>
   <string name="incoming_file_confirm_content">Aceitar o ficheiro a receber?</string>
   <string name="incoming_file_confirm_ok">Aceitar</string>
-  <string name="incoming_file_confirm_timeout_content">O tempo para aceitar e receber um ficheiro \"%1$s\" chegou ao fim</string>
+  <string name="incoming_file_confirm_timeout_content">O tempo para aceitar receber um ficheiro \"%1$s\" chegou ao fim</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Transferência de ficheiros</string>
   <string name="incoming_file_toast_msg">Ficheiro recebido de outro dispositivo. Confirme se quer receber este ficheiro.</string>
@@ -119,19 +119,19 @@
   <string name="not_exist_file_desc">"O ficheiro não existe. 
 "</string>
   <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso.</string>
-  <string name="notification_received">Partilha Bluetooth: Recebido %1$s</string>
-  <string name="notification_received_fail">Partilha Bluetooth: Ficheiro %1$s não foi recebido</string>
-  <string name="notification_receiving">Partilha Bluetooth: A receber %1$s</string>
-  <string name="notification_sending">Partilha Bluetooth: A enviar %1$s</string>
-  <string name="notification_sent">Partilha Bluetooth: Enviado %1$s</string>
+  <string name="notification_received">Bluetooth: Recebido %1$s</string>
+  <string name="notification_received_fail">Bluetooth: Ficheiro %1$s não foi recebido</string>
+  <string name="notification_receiving">Bluetooth: A receber %1$s</string>
+  <string name="notification_sending">Bluetooth: A enviar %1$s</string>
+  <string name="notification_sent">Bluetooth: Enviado %1$s</string>
   <string name="notification_sent_complete">100% completo</string>
-  <string name="notification_sent_fail">Partilha Bluetooth: Ficheiro %1$s não foi enviado</string>
+  <string name="notification_sent_fail">Bluetooth: Ficheiro %1$s não foi enviado</string>
   <string name="notify_device_lose_connection_text">Toque para desemparelhar %1$s</string>
   <string name="notify_device_lose_connection_title">Ligação perdida com %1$s</string>
   <string name="notify_server">Notificar servidor TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Transferências enviadas</string>
-  <string name="outbound_noti_title">Partilha Bluetooth: Ficheiros enviados</string>
+  <string name="outbound_noti_title">Bluetooth: Ficheiros enviados</string>
   <string name="pbap_acceptance_timeout_message">Expirou o tempo para aceitar a ligação com %1$s</string>
   <string name="pbap_authentication_timeout_message">Expirou o tempo para a introdução da chave de sessão com %1$s</string>
   <string name="pbap_session_key_dialog_header">Necessário chave da sessão Bluetooth</string>
@@ -154,7 +154,7 @@
   <string name="status_forbidden">Transferência não permitida pelo dispositivo de destino.</string>
   <string name="status_no_sd_card">Sem armazenamento USB.</string>
   <string name="status_not_accept">O conteúdo não é suportado.</string>
-  <string name="status_pending">Transferência de ficheiro ainda não iniciou.</string>
+  <string name="status_pending">Transferência de ficheiro ainda não iníciou.</string>
   <string name="status_protocol_error">O pedido não foi tratado correctamente.</string>
   <string name="status_running">A transferir.</string>
   <string name="status_success">Transferência concluída.</string>
