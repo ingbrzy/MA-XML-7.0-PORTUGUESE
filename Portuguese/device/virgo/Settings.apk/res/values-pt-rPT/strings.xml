@@ -326,7 +326,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
   <string name="backup_section_title">Cópia e restauro</string>
   <string name="band_mode_failed">Sem sucesso</string>
-  <string name="band_mode_loading">A carregar a lista de bandas…</string>
+  <string name="band_mode_loading">A carregar lista de bandas…</string>
   <string name="band_mode_set">Definir</string>
   <string name="band_mode_succeeded">Com sucesso</string>
   <string name="band_mode_title">Definir banda GSM/UMTS</string>
@@ -2734,10 +2734,10 @@ Para utilizar a fixação no ecrã:
   <string name="settings_button">Definições</string>
   <string name="settings_label">Definições</string>
   <string name="settings_label_launcher">Definições</string>
-  <string name="settings_license_activity_loading">A carregar</string>
+  <string name="settings_license_activity_loading">A carregar…</string>
   <string name="settings_license_activity_title">Licenças de código aberto</string>
   <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
-  <string name="settings_safetylegal_activity_loading">A carregar</string>
+  <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
   <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à internet.</string>
   <string name="settings_safetylegal_title">Informações de segurança</string>
