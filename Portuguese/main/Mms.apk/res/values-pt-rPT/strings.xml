@@ -128,10 +128,10 @@
   <string name="dl_failure_notification">Não foi possível transferir a mensagem %1$s de %2$s.</string>
   <string name="done">Concluído</string>
   <string name="download">Transferir</string>
-  <string name="download_later">É impossível transferir neste momento. Tente mais tarde.</string>
-  <string name="downloading">A transferir</string>
-  <string name="downloading_file_can_not_play">Aguarde até a transferência da gravação ser concluída</string>
-  <string name="duration_not_a_number">A duração deve ser um número</string>
+  <string name="download_later">Não é possível transferir neste momento. Tente mais tarde.</string>
+  <string name="downloading">A transferir…</string>
+  <string name="downloading_file_can_not_play">Aguarde até a transferência ficar concluída</string>
+  <string name="duration_not_a_number">A duração tem de ser um número</string>
   <string name="duration_sec">Duração (%s seg)</string>
   <string name="duration_selector_title">"Duração por diapositivo "</string>
   <string name="duration_zero">A duração deve ser maior que 0 segundos</string>
