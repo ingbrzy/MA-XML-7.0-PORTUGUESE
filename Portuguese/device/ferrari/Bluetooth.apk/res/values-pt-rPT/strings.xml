@@ -2,8 +2,8 @@
 <resources>
   <string name="ErrorTooManyRequests">Estão a ser processados muitos pedidos. Tente mais tarde.</string>
   <string name="ack_record">Registo de confirmação</string>
-  <string name="airplane_can_not_share">Não é possível utilizar o Bluetooth para partilhar em Modo de Avião</string>
-  <string name="airplane_error_msg">Não pode usar o Bluetooth em Modo de Avião</string>
+  <string name="airplane_can_not_share">"Não é possível utilizar o Bluetooth para partilhar em Modo de Avião."</string>
+  <string name="airplane_error_msg">"Não pode usar o Bluetooth em Modo de Avião."</string>
   <string name="airplane_error_title">Modo de Avião</string>
   <string name="app_name">Partilha Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
@@ -35,7 +35,7 @@
   <string name="bluetooth_sap_notif_message">Pedir ao cliente para desligar?</string>
   <string name="bluetooth_sap_notif_ticker">Acesso Bluetooth ao SIM</string>
   <string name="bluetooth_sap_notif_title">Acesso Bluetooth ao SIM</string>
-  <string name="bluetooth_search_for_devices">Pesquisar por dispositivos</string>
+  <string name="bluetooth_search_for_devices">Pesquisar dispositivos</string>
   <string name="bt_enable_cancel">Cancelar</string>
   <string name="bt_enable_line1">Para utilizar os serviços Bluetooth, deve ligar primeiro o Bluetooth.</string>
   <string name="bt_enable_line2">Ligar Bluetooth agora?</string>
@@ -73,15 +73,15 @@
   <string name="download_succ_ok">Abrir</string>
   <string name="download_success">%1$s recebido.</string>
   <string name="download_title">Transferência de ficheiro</string>
-  <string name="empty_file_notification_sent">Partilha Bluetooth: Ficheiro vazio rejeitado pelo dispositivo remoto %1$s</string>
+  <string name="empty_file_notification_sent">Bluetooth: Ficheiro vazio rejeitado pelo dispositivo remoto %1$s</string>
   <string name="enabling_progress_content">A ligar o Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, aguarde…</string>
   <string name="goto_package">Abrir %1$s</string>
   <string name="hello">Olá Mundo, Teste de Actividade</string>
   <string name="inbound_history_title">Transferências recebidas</string>
-  <string name="inbound_noti_title">Partilhado por Bluetooth: Ficheiros recebidos</string>
+  <string name="inbound_noti_title">Bluetooth: Ficheiros recebidos</string>
   <string name="incoming_file_confirm_Notification_caption">Deseja receber este ficheiro?</string>
-  <string name="incoming_file_confirm_Notification_title">Partilha Bluetooth: Ficheiro recebido</string>
+  <string name="incoming_file_confirm_Notification_title">Bluetooth: Ficheiro recebido</string>
   <string name="incoming_file_confirm_cancel">Rejeitar</string>
   <string name="incoming_file_confirm_content">Aceitar o ficheiro a receber?</string>
   <string name="incoming_file_confirm_ok">Aceitar</string>
