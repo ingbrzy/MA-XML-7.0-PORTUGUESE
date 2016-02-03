@@ -50,7 +50,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="error_qr">Não foi possível interpretar o código QR.</string>
   <string name="error_title">Erro</string>
   <string name="error_uri">Chave não reconhecida.</string>
-  <string name="forget_password"><u>Esqueceu a sequência?</u></string>
+  <string name="forget_password"><u>Esqueceu o padrão?</u></string>
   <string name="general_security_exception">Excepção de segurança geral</string>
   <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
   <string name="how_it_works_menu_item">Como funciona</string>
@@ -154,7 +154,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="tip_lockpattern">O padrão tem de ser maior que 4 pontos</string>
   <string name="title_change_lockpattern">Definir padrão de bloqueio</string>
   <string name="title_createpattern">Desenhar padrão de bloqueio</string>
-  <string name="title_forgetpattern">Esquecer a sequência</string>
+  <string name="title_forgetpattern">Esquecer o padrão</string>
   <string name="title_gesture">Padrão de bloqueio</string>
   <string name="title_lockpattern">Necessário padrão de bloqueio</string>
   <string name="title_myaccount">Minha conta: %s</string>
@@ -162,7 +162,7 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_nopassword_dialog">Limite diário</string>
   <string name="title_password">Padrão</string>
   <string name="title_password_threshold">Limite diário = €%1$s</string>
-  <string name="title_patternforgotten">"Esqueceu a sequência?
+  <string name="title_patternforgotten">"Esqueceu padrão?
 Pode："</string>
   <string name="title_updatepattern">Alterar padrão</string>
   <string name="title_visible_pattern">Meter padrão visível</string>

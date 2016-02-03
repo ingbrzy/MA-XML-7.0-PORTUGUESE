@@ -497,8 +497,8 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_accessibility_expand_lock_area">Expandir a área de desbloqueio.</string>
   <string name="keyguard_accessibility_face_unlock">Desbloqueio com o rosto.</string>
   <string name="keyguard_accessibility_password_unlock">Palavra-passe de desbloqueio.</string>
-  <string name="keyguard_accessibility_pattern_area">Área da sequência.</string>
-  <string name="keyguard_accessibility_pattern_unlock">Sequência de desbloqueio</string>
+  <string name="keyguard_accessibility_pattern_area">Área do padrão.</string>
+  <string name="keyguard_accessibility_pattern_unlock">Padrão de desbloqueio</string>
   <string name="keyguard_accessibility_pin_unlock">Desbloqueio através de PIN.</string>
   <string name="keyguard_accessibility_slide_area">Área de deslize.</string>
   <string name="keyguard_accessibility_slide_unlock">Desbloqueio através de deslize.</string>
@@ -523,12 +523,12 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="keyguard_password_wrong_pin_code">Código PIN incorrecto.</string>
   <string name="kg_emergency_call_label">Chamada de emergência</string>
   <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone através de uma conta de email.
 
  Tente novamente em %d segundos."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão perdidos.</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
-  <string name="kg_forgot_pattern_button_text">Esqueceu a sequência?</string>
+  <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas irão desactivar o SIM permanentemente.</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números.</string>
@@ -540,11 +540,11 @@ Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_login_invalid_input">Utilizador ou palavra-passe inválida.</string>
   <string name="kg_login_password_hint">Palavra-passe</string>
   <string name="kg_login_submit_button">Iniciar sessão</string>
-  <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar sequência</string>
+  <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar padrão</string>
   <string name="kg_login_username_hint">Utilizador (email)</string>
   <string name="kg_password_instructions">Introduzir palavra-passe</string>
   <string name="kg_password_wrong_pin_code">Código PIN incorrecto.</string>
-  <string name="kg_pattern_instructions">Desenhe a sua sequência</string>
+  <string name="kg_pattern_instructions">Desenhe o seu padrão</string>
   <string name="kg_pin_instructions">Introduzir PIN</string>
   <string name="kg_puk_enter_pin_hint">Introduzir código PIN pretendido</string>
   <string name="kg_puk_enter_puk_hint">SIM está agora desactivado. Introduzir código PUK para continuar. Contacte a sua operadora para mais detalhes.</string>
@@ -553,18 +553,18 @@ Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="kg_sim_unlock_progress_dialog_message">A desbloquear o cartão SIM…</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente dentro de %1$d segundos.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a palavra-passe incorrectamente %d vezes. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o PIN incorrectamente %d vezes. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Introduziu o seu PIN incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
   <string name="kg_wrong_password">Palavra-passe incorrecta</string>
-  <string name="kg_wrong_pattern">Sequência incorrecta</string>
-  <string name="kg_wrong_pin">PIN errado</string>
+  <string name="kg_wrong_pattern">Padrão incorrecto</string>
+  <string name="kg_wrong_pin">PIN incorrecto</string>
   <string name="kilobyteShort">KB</string>
   <string name="last_month">Último mês</string>
   <string name="launchBrowserDefault">Iniciar Navegador?</string>
@@ -594,29 +594,29 @@ Para soltar, toque e segure o botão Recentes.</string>
   <string name="lock_to_app_unlock_pattern">Pedir por padrão de desbloqueio antes de soltar o ecrã</string>
   <string name="lock_to_app_unlock_pin">Pedir PIN antes de soltar o ecrã</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
-  <string name="lockscreen_access_pattern_cleared">Sequência eliminada</string>
-  <string name="lockscreen_access_pattern_detected">Sequência concluída</string>
-  <string name="lockscreen_access_pattern_start">Sequência iniciada</string>
+  <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
+  <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
+  <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_airplane_mode_on">Modo de avião</string>
   <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charged">Carregado</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem êxito, as definições de origem do telefone serão repostas e todos os dados do utilizador serão eliminados.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. Após %d tentativas sem êxito, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem êxito, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respetivas definições de fábrica.</string>
-  <string name="lockscreen_forgot_pattern_button_text">Esqueceu-se da sua sequência?</string>
-  <string name="lockscreen_glogin_account_recovery_hint">""Esqueceu-se do nome de utilizador ou da palavra-passe?
+  <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
+  <string name="lockscreen_glogin_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
 Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_forgot_pattern">Desbloqueio da conta</string>
   <string name="lockscreen_glogin_instructions">Para desbloquear, inicie a sessão com a Conta Google.</string>
-  <string name="lockscreen_glogin_invalid_input">Nome de utilizador ou palavra-passe inválidos.</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválidos.</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar a sessão</string>
-  <string name="lockscreen_glogin_too_many_attempts">Demasiadas tentativas para desenhar a sequência</string>
+  <string name="lockscreen_glogin_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
   <string name="lockscreen_glogin_username_hint">Nome de utilizador (email)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Prima Menu para desbloquear.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Prima Menu para desbloquear ou efectuar uma chamada de emergência.</string>
@@ -628,7 +628,7 @@ Visite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_network_locked_message">Rede bloqueada</string>
   <string name="lockscreen_password_wrong">Tentar novamente</string>
   <string name="lockscreen_pattern_correct">Correcto!</string>
-  <string name="lockscreen_pattern_instructions">Desenhar a sequência para desbloquear</string>
+  <string name="lockscreen_pattern_instructions">Desenhar padrão para desbloquear</string>
   <string name="lockscreen_pattern_wrong">Tentar novamente</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"O cartão SIM foi desactivado permanentemente. 
  Contacte o seu fornecedor de serviços de rede Wi-Fi para obter outro cartão SIM."</string>
@@ -646,7 +646,7 @@ Por favor, consulte o Manual de utilizador ou entre em contacto com o Serviço d
   <string name="lockscreen_sound_off_label">Som desactivado</string>
   <string name="lockscreen_sound_on_label">Som activado</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente dentro de %d segundos.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou a sequência de desbloqueio incorrectamente %d vezes. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 

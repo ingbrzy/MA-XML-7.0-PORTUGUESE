@@ -33,19 +33,19 @@
   <string name="lock_screen_date">"EEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEE, d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
-  <string name="lockscreen_access_pattern_cleared">Padrão eliminado</string>
-  <string name="lockscreen_access_pattern_detected">Padrão completo</string>
+  <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
+  <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_charging_msg">A carregar</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem êxito o telefone será redefinido para o padrão de fábrica e todos os dados do utilizador serão eliminados.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Depois %d tentativas sem êxito será solicitado para desbloquear o telefone utilizando o seu início de sessão de conta.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem êxito, as definições de origem do telefone serão repostas e todos os dados do utilizador serão eliminados.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem êxito, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
- Tente novamente em %d segundos."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Foram usadas %d tentativas de desbloqueio. O telefone será redefinido para o padrão de fábrica.</string>
+Tente novamente dentro de %d segundos."</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorreta, pelo que serão repostas as respectivas definições de fábrica.</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_invalid_input">Nome de utilizador ou palavra-passe inválida.</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválidos.</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sessão em</string>
+  <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
   <string name="login_website_in_case_forget_password">Para repor a palavra-passe vá a www.mi.com/micloud</string>
   <string name="missed_call_text">%d chamadas não atendidas</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
