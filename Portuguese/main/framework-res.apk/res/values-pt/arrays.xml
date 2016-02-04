@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="maps_starting_lat_lng">
+        <item>38707163</item>
+        <item>-9135517</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+     <string-array name="app_ops_labels">
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar utilizar a vibração</item>
+        <item>A tentar ler os contactos</item>
+        <item>A tentar modificar os contactos</item>
+        <item>A tentar ler o registo de chamadas</item>
+        <item>A tentar modificar o registo de chamadas</item>
+        <item>A tentar ler o calendário</item>
+        <item>A tentar modificar o Calendário</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar publicar notificação</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar fazer uma chamada</item>
+        <item>A tentar ler SMS</item>
+        <item>A tentar escrever/modificar SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar receber SMS</item>
+        <item>A tentar enviar SMS</item>
+        <item>A tentar ler SMS</item>
+        <item>A tentar escrever/modificar SMS</item>
+        <item>A tentar modificar as definições</item>
+        <item>A tentar desenhar no topo</item>
+        <item>A tentar aceder às notificações</item>
+        <item>A tentar aceder à Câmara</item>
+        <item>A tentar gravar áudio</item>
+        <item>A tentar reproduzir áudio</item>
+        <item>A tentar ler a área de transferência</item>
+        <item>A tentar modificar a área de transferência</item>
+        <item>A tentar utilizar os botões de media</item>
+        <item>A tentar utilizar a focagem de áudio</item>
+        <item>A tentar utilizar o volume master</item>
+        <item>A tentar utilizar o volume de voz</item>
+        <item>A tentar utilizar o volume do toque</item>
+        <item>A tentar utilizar o volume de media</item>
+        <item>A tentar utilizar o volume do alarme</item>
+        <item>A tentar utilizar o volume da notificação</item>
+        <item>A tentar utilizar o volume do bluetooth</item>
+        <item>A tentar manter o dispositivo desperto</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar aceder à localização</item>
+        <item>A tentar ligar/desligar o Wi-Fi</item>
+        <item>A tentar ligar/desligar o Bluetooth</item>
+        <item>A tentar ligar/desligar os dados móveis</item>
+        <item>A tentar enviar MMS</item>
+        <item>A tentar ler MMS</item>
+        <item>A tentar escrever MMS</item>
+        <item>A tentar iniciar o arranque</item>
+     </string-array>
+     <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>          
+     <string-array name="organizationTypes">
+        <item>Emprego</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>     
+     <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Telefone</item>
+        <item>Emprego</item>
+        <item>Fax do trabalho</item>
+        <item>Fax de casa</item>
+        <item>Pager</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
+     </string-array>
+</resources>
