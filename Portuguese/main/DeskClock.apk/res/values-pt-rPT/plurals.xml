@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
      <plurals name="snooze_message">
         <item quantity="other">Suspender por %d mins</item>
@@ -25,9 +24,9 @@
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
      </plurals>
-	 <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Suspender por %d minutos.</item>
-        <item quantity="one">Suspender por %d minuto.</item>
+     <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Suspender por %d minutos</item>
+        <item quantity="one">Suspender por %d minuto</item>
      </plurals>
      <plurals name="auto_silence_summary">
         <item quantity="other">Alarmes vão desligar após %d minutos</item>
