@@ -44,14 +44,14 @@
   <string name="first_back_long_press_message">"Prima e segure o botão Voltar para terminar o processo actual e os serviços em segundo plano.
 
 Para activar esta função, vá a Definições &gt; Sistema &gt; Botões"</string>
-  <string name="fm_record_smaple_prefix_miui">Gravador</string>
+  <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
   <string name="fools_day">" "</string>
   <string name="force_exit_message">Forçar encerrar %1$s</string>
-  <string name="force_exit_skip_message">%1$s é um componente chave do sistema, não pode ser encerrado.</string>
+  <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema.</string>
   <string name="global_actions_airplane_mode">Modo de avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
-  <string name="global_actions_silent_mode">Sem som</string>
+  <string name="global_actions_silent_mode">Silêncio</string>
   <string name="good_friday">" "</string>
   <string name="grain_buds">" "</string>
   <string name="grain_in_ear">" "</string>
@@ -59,7 +59,7 @@ Para activar esta função, vá a Definições &gt; Sistema &gt; Botões"</strin
   <string name="great_cold">" "</string>
   <string name="great_heat">" "</string>
   <string name="group_name_contacts">Contactos</string>
-  <string name="group_name_coworkers">Colegas</string>
+  <string name="group_name_coworkers">Colegas de trabalho</string>
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amigos</string>
   <string name="heavy_snow">" "</string>
@@ -123,7 +123,7 @@ Para activar esta função, vá a Definições &gt; Sistema &gt; Botões"</strin
   <string name="screen_button_notification_text">Para voltar a activar, prima em Início e no botão Ligar/Desligar simultaneamente.</string>
   <string name="screen_button_notification_title">Botões de navegação desactivados</string>
   <string name="screen_on_proximity_sensor_hint">Para desactivar este recurso toque nos botões Voltar e Volume para cima simultaneamente.</string>
-  <string name="screen_on_proximity_sensor_summary">Não cubra a área laranja do ecrã</string>
+  <string name="screen_on_proximity_sensor_summary">Não tape a área laranja do ecrã</string>
   <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
   <string name="screen_paper_mode_enter_toast">Modo de Leitura está activo. Pode em qualquer altura activar ou desactivar este recurso nas Definições adicionais.&gt; Modo de Leitura.</string>
   <string name="select">Seleccionar</string>
