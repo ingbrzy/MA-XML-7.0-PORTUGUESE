@@ -519,7 +519,7 @@ Para soltar, prima e segure os botões Início e Ligar/Desligar ao mesmo tempo."
   <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_emergency_call">Emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem êxito, as definições de origem do telefone serão repostas e todos os dados do utilizador irão ser eliminados.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador irão ser eliminados.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos."</string>
