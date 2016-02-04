@@ -435,11 +435,11 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_ask_enablement">Uma aplicação quer ligar o Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar isto mais tarde nas definições do Bluetooth.</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar isto mais tarde nas definições do Bluetooth."</string>
-  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s pretende ligar o Bluetooth e a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições do Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">"quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos. Pode alterar esta opção posteriormente nas definições do Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s pretende ligar o Bluetooth e a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições do Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">" quer ligar o Bluetooth."</string>
-  <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth. Pode alterar isto mais tarde nas definições do Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery">Uma aplicação quer tornar o telefone visível para outros dispositivos Bluetooth. Pode alterar esta opção posteriormente nas definições do Bluetooth.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s pretende ligar a difusão via Bluetooth para comunicar com outros dispositivos próximos. Pode alterar esta opção posteriormente nas definições de Bluetooth.</string>
   <string name="bluetooth_auto_connect">Ligação automática</string>
   <string name="bluetooth_broadcasting">Difusão</string>
