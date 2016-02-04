@@ -8,7 +8,7 @@
   <string name="app_name">Partilha Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
-  <string name="auth_notif_title">Chave da sessão</string>
+  <string name="auth_notif_title">Chave de sessão</string>
   <string name="ble_device_address">MAC dispositivo BLE</string>
   <string name="ble_device_profile">Perfil de dispositivo Bluetooth</string>
   <string name="ble_device_profile_header_title">Definições</string>
@@ -89,7 +89,7 @@
   <string name="insert_record">Inserir registo</string>
   <string name="install_package">Instalar %1$s para mais funções</string>
   <string name="localPhoneName">Meu nome</string>
-  <string name="mi_band_vibrate_alarm">Vibrar no alarme</string>
+  <string name="mi_band_vibrate_alarm">Vibrar quando o alarme tocar</string>
   <string name="mi_band_vibrate_incall">Vibrar ao receber chamada</string>
   <string name="mi_band_vibrate_incall_in_contacts">Vibrar ao receber chamada dos contactos</string>
   <string name="mi_band_vibrate_incall_no_contacts">Vibrar ao receber chamada de números desconhecidos</string>
@@ -101,7 +101,7 @@
   <string name="mi_key_find_mikey">Localizar MiKey</string>
   <string name="mi_key_find_phone">Localizar dispositivo</string>
   <string name="mi_key_open_camera">Abrir Câmara</string>
-  <string name="mi_key_summary_find_phone">Prima e segure MiKey para activar toque de chamada</string>
+  <string name="mi_key_summary_find_phone">Prima e segure na MiKey para activar toque de chamada</string>
   <string name="mi_key_summary_open_camera">Duplo clique na MiKey para abrir a câmara</string>
   <string name="mi_key_summary_take_photo">Clique na MiKey para tirar uma foto</string>
   <string name="mi_key_take_photo">Tirar foto</string>
@@ -132,7 +132,7 @@
   <string name="pbap_session_key_dialog_title">Introduzir a chave da sessão para %1$s</string>
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha Bluetooth e o utilize para transferir ficheiros.</string>
   <string name="permdesc_bluetoothWhitelist">Permite que a aplicação adicione temporariamente um dispositivo Bluetooth às excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador.</string>
-  <string name="permdesc_handoverStatus">Permite receber informações do estado de transferência do Bluetooth.</string>
+  <string name="permdesc_handoverStatus">Permite que esta aplicação receba informações do estado de transferência do Bluetooth.</string>
   <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências.</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth.</string>
   <string name="permlab_handoverStatus">Receber estado de transferência por Bluetooth.</string>
