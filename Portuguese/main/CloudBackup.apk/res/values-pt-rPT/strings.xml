@@ -14,9 +14,7 @@
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Eliminar</string>
   <string name="button_next">Seguinte</string>
-  <string name="cancel_recover_settings">
-    <u>Cancelar</u>
-  </string>
+  <string name="cancel_recover_settings"><u>Cancelar</u></string>
   <string name="click_try_to_restore_again">Toque para tentar novamente</string>
   <string name="cloud_app_backup_success">Restauro das aplicações concluído</string>
   <string name="cloud_app_check_data">Em ligação com a Nuvem Mi…</string>
@@ -30,7 +28,6 @@
   <string name="cloud_app_restore_error">Não é possível restaurar</string>
   <string name="cloud_app_restore_success">Aplicações restauradas</string>
   <string name="cloud_app_restore_wifi_prompt">Para restaurar uma cópia na Nuvem Mi, deve ligar a uma rede sem fios.</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Nuvem Mi quando o dispositivo estiver ligado ao Wi-Fi: 
 
 - Aplicações, disposição inicial do ecrã e papéis de parede 
@@ -54,10 +51,10 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
   <string name="cloud_backup_detail_frequence_day">Copiar uma vez %1$s</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
-  <string name="cloud_backup_detail_manage_summary">cópias: %1$s tamanho: %2$s</string>
+  <string name="cloud_backup_detail_manage_summary">Cópias: %1$s Tamanho: %2$s</string>
   <string name="cloud_backup_detail_state">Cópias Nuvem Mi</string>
   <string name="cloud_backup_detail_state_summary">Aplicações, ecrã inicial e definições de sistema</string>
-  <string name="cloud_backup_detail_time">, tempo da cópia:%1$s</string>
+  <string name="cloud_backup_detail_time">" Data da cópia: %1$s"</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
   <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possível reverter esta acção.</string>
@@ -67,7 +64,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="confirm_restore_summary">Ecrã inicial vai reiniciar e as aplicações vão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization"><u>Personalizar</u></string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarme</string>
   <string name="desktop_downloading">A transferir</string>
   <string name="desktop_installing">A instalar</string>
@@ -76,7 +72,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="desktop_waiting">Aguarde</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
   <string name="device_xiaomi">Telefone Mi</string>
-  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">"Não foi possível transferir o ecrã inicial"</string>
   <string name="error_unknown">Algo está errado</string>
@@ -88,7 +83,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Tamanho</string>
   <string name="miui_device_name">Android</string>
-  <string name="name_model">"%1$s's %2$s"</string>
+  <string name="name_model">%2$s de %1$s</string>
   <string name="open_wifi">Ligue o Wi-Fi agora</string>
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
