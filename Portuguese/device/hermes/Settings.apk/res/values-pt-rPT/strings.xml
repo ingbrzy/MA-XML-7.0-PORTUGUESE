@@ -14,9 +14,9 @@
   <string name="access_control_need_password">"Aplicação %s foi protegida
 "</string>
   <string name="access_control_need_to_unlock">Padrão de desbloqueio</string>
-  <string name="access_control_no_back_footer">Toque [botão] para sair</string>
+  <string name="access_control_no_back_footer">Toque [icon] para sair</string>
   <string name="access_control_password_title">Bloqueio do ecrã</string>
-  <string name="access_control_recording_intro_header">Desenhe um padrão de bloqueio</string>
+  <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso está em testes e pode afectar o desempenho.</string>
@@ -25,8 +25,8 @@
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
   <string name="accessibility_display_title">Ecrã</string>
   <string name="accessibility_enable">Acessibilidade</string>
-  <string name="accessibility_feature_state_off">Desactivado</string>
-  <string name="accessibility_feature_state_on">Activado</string>
+  <string name="accessibility_feature_state_off">Desligado</string>
+  <string name="accessibility_feature_state_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_description">"Quando este recurso está ligado pode activar rapidamente os recursos de acessibilidade em dois passos:
 
 Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
