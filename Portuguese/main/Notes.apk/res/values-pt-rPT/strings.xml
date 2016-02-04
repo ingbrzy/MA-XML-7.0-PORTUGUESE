@@ -100,10 +100,10 @@
   <string name="sns_toast_empty">Não é possível enviar um comentário vazio</string>
   <string name="sns_toast_over_limit">Enviado como imagem (texto acima do limite)</string>
   <string name="sync_tips">Toque para sincronizar notas com a Nuvem Mi.</string>
-  <string name="toast_folder_privacy_mode">Não é possível editar pasta em modo convidado</string>
+  <string name="toast_folder_privacy_mode">Não é possível editar pasta em modo Convidado</string>
   <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
   <string name="toast_message_add_text_warn">Este tipo de ficheiro não é suportado</string>
-  <string name="toast_note_privacy_mode">Não é possível criar nota em modo convidado</string>
+  <string name="toast_note_privacy_mode">Não é possível criar nota em modo Convidado</string>
   <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque o conteúdo da nota é muito longo.</string>
   <string name="toast_reach_text_limit_truncate">A nota é muito longa. Algum texto irá ser cortado no fim.</string>
   <string name="undo">Anular</string>
@@ -113,5 +113,5 @@
     - Definir lembretes"</string>
   <string name="widget_content_loading">Aguarde…</string>
   <string name="widget_havenot_content">Não foi encontrada nenhuma nota. Toque para criar uma nota. Para redimensionar, segure e arraste desde o canto.</string>
-  <string name="widget_under_privacy_mode">Não é possível ver notas no modo convidado</string>
+  <string name="widget_under_privacy_mode">Não é possível ver notas no modo Convidado</string>
 </resources>

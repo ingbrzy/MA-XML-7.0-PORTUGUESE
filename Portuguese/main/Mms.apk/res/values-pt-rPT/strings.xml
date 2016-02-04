@@ -379,7 +379,7 @@
   <string name="pref_summary_mms_read_reports">Mostrar notificações na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Transferir fotos e vídeos automaticamente nas mensagens quando em roaming</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
-  <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo convidado</string>
+  <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo Convidado</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
@@ -422,7 +422,7 @@
   <string name="priority_label">"Prioridade: "</string>
   <string name="priority_low">Baixa</string>
   <string name="priority_normal">Normal</string>
-  <string name="privacy_mode_hint">Não pode enviar mensagens em modo convidado</string>
+  <string name="privacy_mode_hint">Não pode enviar mensagens em modo Convidado</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações da mensagem</string>
   <string name="private_protect">Palavras-passe</string>
