@@ -1486,7 +1486,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartã
   <string name="media_format_button_text">Formatar armazenamento USB</string>
   <string name="media_format_desc">Eliminar todos os dados do cartão SD? Perderá &lt;b&gt;todos&lt;/b&gt; os dados armazenados no cartão!</string>
   <string name="media_format_final_button_text">Eliminar tudo</string>
-  <string name="media_format_final_desc">Eliminar o cartão SD e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
+  <string name="media_format_final_desc">Apagar o cartão SD e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
   <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para confirmar a formatação do cartão SD.</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
   <string name="media_format_summary">Elimina todos os dados no armazenamento USB</string>
@@ -2140,7 +2140,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_eject_summary">Desmontar o cartão SD para removê-lo em segurança</string>
   <string name="sd_ejecting_summary">Desmontar em progresso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
-  <string name="sd_format">Eliminar cartão SD</string>
+  <string name="sd_format">Apagar cartão SD</string>
   <string name="sd_format_summary">Elimina todos os dados do cartão SD, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
