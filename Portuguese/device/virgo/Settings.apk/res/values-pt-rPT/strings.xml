@@ -1232,7 +1232,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
   <string name="erase_data">Eliminar</string>
   <string name="erase_external_storage">Eliminar armazenamento USB</string>
-  <string name="erase_external_storage_description">Eliminar todos os dados do armazenamento USB, tais como músicas ou fotos</string>
+  <string name="erase_external_storage_description">Formatar todos os dados do armazenamento USB, tais como músicas ou fotos</string>
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos, e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
@@ -1250,7 +1250,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="external_data_size_label">Dados de armazenamento USB</string>
   <string name="extreme_threats_summary">Receber alertas de ameaças extremas à vida e à propriedade</string>
   <string name="extreme_threats_title">Ameaças extremas</string>
-  <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
+  <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de Localizar dispositivo</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
@@ -1833,7 +1833,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_progress_text">Por favor aguarde…</string>
   <string name="master_clear_progress_title">A eliminar</string>
-  <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
+  <string name="master_clear_summary">Formatar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
   <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
@@ -2625,7 +2625,7 @@ Para utilizar a fixação no ecrã:
   <string name="sd_ejecting_summary">Desmontagem em curso</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Formatar armazenamento USB</string>
-  <string name="sd_format_summary">Elimina todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
+  <string name="sd_format_summary">Formata todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
