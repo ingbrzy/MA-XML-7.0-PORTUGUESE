@@ -22,30 +22,30 @@
   <string name="accessibility_enable">Acessibilidade</string>
   <string name="accessibility_feature_state_off">Desligado</string>
   <string name="accessibility_feature_state_on">Ligado</string>
-  <string name="accessibility_global_gesture_preference_description">"Quando este recurso está ligado pode activar rapidamente os recursos de acessibilidade em dois passos:
+  <string name="accessibility_global_gesture_preference_description">"Quando esta funcionalidade está ligada, pode activar rapidamente funcionalidades de acessibilidade em dois passos:
 
 Passo 1: Prima e segure o botão Ligar/Desligar até ouvir um som ou sentir uma vibração.
 
 Passo 2: Toque e segure dois dedos até ouvir a confirmação de áudio.
 
-Se o dispositivo tiver mais que um utilizador a usar este atalho no ecrã de bloqueio, fica temporariamente activo esta acessibilidade até que o dispositivo seja desbloqueado."</string>
-  <string name="accessibility_global_gesture_preference_summary_off">Desactivado</string>
-  <string name="accessibility_global_gesture_preference_summary_on">Activado</string>
+Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de bloqueio activa temporariamente a acessibilidade até que o dispositivo seja desbloqueado."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Desligado</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Ligado</string>
   <string name="accessibility_global_gesture_preference_title">Atalho de acessibilidade</string>
   <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
   <string name="accessibility_menu_item_settings">Definições</string>
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão ligar/desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
-  <string name="accessibility_screen_magnification_summary">"Quando este recurso está activo pode aumentar ou diminuir o zoom por triplo toque no ecrã.
+  <string name="accessibility_screen_magnification_summary">"Quando esta funcionalidade está ligada, pode aumentar e diminuir zoom por triplo toque no ecrã.
 
-Quando ampliado pode:
+Quando ampliado, pode:
 "<ul><li>"Mover: Arraste dois ou mais dedos pelo ecrã.
-"<li>Ajuste o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
+"<li>Ajustar o nível do zoom: Junte dois ou mais dedos juntos ou afastados.</li></li></ul>"
 
-Também pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
+Também pode aumentar temporariamente o que estiver sobre o seu dedo com um tripo toque e segurar. Neste modo, pode mover o dedo ampliando para Explorar diferentes partes do ecrã. Levante o dedo para voltar ao estado anterior.
 
-Nota: Toque três vezes para ampliar. Este recurso funciona excepto na barra de navegação e no teclado."</string>
+Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra de navegação e no teclado."</string>
   <string name="accessibility_screen_magnification_title">Ampliação de gestos</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
   <string name="accessibility_service_no_apps_message">TalkBack fornece mensagens de voz para ajudar os utilizadores cegos e de visão reduzida. Deseja instalá-lo gratuitamente a partir da Play Store?</string>
