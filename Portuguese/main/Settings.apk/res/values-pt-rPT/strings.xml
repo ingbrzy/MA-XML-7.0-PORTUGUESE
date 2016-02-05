@@ -1445,7 +1445,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartã
   <string name="media_volume_title">Multimédia</string>
   <string name="medium_font">Média</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplicações (dados das aplic. e cont. multimédia)</string>
+  <string name="memory_apps_usage">Aplicações (dados e conteúdo multimédia)</string>
   <string name="memory_available">Disponível</string>
   <string name="memory_available_read_only">Disponível (apenas leitura)</string>
   <string name="memory_calculating_size">A calcular…</string>
@@ -1454,9 +1454,9 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartã
   <string name="memory_dcim_usage">Imagens, vídeos</string>
   <string name="memory_downloads_usage">Transferências</string>
   <string name="memory_media_cache_usage">Dados em cache</string>
-  <string name="memory_media_misc_usage">Diversos</string>
+  <string name="memory_media_misc_usage">Outros ficheiros</string>
   <string name="memory_media_usage">Multimédia</string>
-  <string name="memory_music_usage">Áudio (música, toques, etc.)</string>
+  <string name="memory_music_usage">Áudio (música, toques, podcasts, etc.)</string>
   <string name="memory_size">Espaço total</string>
   <string name="memory_title">Disponível: %1$s\u0009\u0009Total: %2$s</string>
   <string name="menu_cancel">Rejeitar</string>
@@ -2068,7 +2068,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
   <string name="sd_eject">Desmontar partilha de armazenamento</string>
-  <string name="sd_eject_summary">Desmontar o armazenamento USB para removê-lo em segurança</string>
+  <string name="sd_eject_summary">Desmontar o armazenamento USB para o remover em segurança</string>
   <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Apagar armazenamento USB</string>
