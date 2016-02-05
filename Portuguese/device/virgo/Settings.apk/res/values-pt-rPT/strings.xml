@@ -1231,8 +1231,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_application">Eliminar aplicações</string>
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
   <string name="erase_data">Eliminar</string>
-  <string name="erase_external_storage">Eliminar armazenamento USB</string>
-  <string name="erase_external_storage_description">Formatar todos os dados do armazenamento USB, tais como músicas ou fotos</string>
+  <string name="erase_external_storage">Apagar armazenamento USB</string>
+  <string name="erase_external_storage_description">Elimina todos os dados do armazenamento USB, como música e fotos</string>
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos, e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
@@ -1833,7 +1833,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_progress_text">Por favor aguarde…</string>
   <string name="master_clear_progress_title">A eliminar</string>
-  <string name="master_clear_summary">Formatar todos os dados do telefone</string>
+  <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
   <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
@@ -2621,11 +2621,11 @@ Para utilizar a fixação no ecrã:
   <string name="sd_card_settings_label">Armazenamento USB</string>
   <string name="sd_card_storage">Armazenamento USB</string>
   <string name="sd_eject">Desmontar partilha de armazenamento</string>
-  <string name="sd_eject_summary">Desmontar o armazenamento USB</string>
-  <string name="sd_ejecting_summary">Desmontagem em curso</string>
+  <string name="sd_eject_summary">Desmontar o armazenamento USB para removê-lo em segurança</string>
+  <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
-  <string name="sd_format">Formatar armazenamento USB</string>
-  <string name="sd_format_summary">Formata todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
+  <string name="sd_format">Apagar armazenamento USB</string>
+  <string name="sd_format_summary">Elimina todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
@@ -2988,7 +2988,7 @@ Para utilizar este ^1, , tem de o montar primeiro."</string>
 
 Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro."</string>
   <string name="storage_external_title">Armazenamento portátil</string>
-  <string name="storage_format">Formatar</string>
+  <string name="storage_format">Apagar</string>
   <string name="storage_format_failure">Não foi possível formatar %1$s</string>
   <string name="storage_format_success">%1$s está formatado</string>
   <string name="storage_internal_forget_confirm">Todas as aplicações, as fotos e os dados armazenados neste ^1 são eliminados definitivamente.</string>
