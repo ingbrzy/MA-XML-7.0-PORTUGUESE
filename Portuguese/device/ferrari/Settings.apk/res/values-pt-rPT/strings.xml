@@ -799,7 +799,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
-  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
+  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc</string>
   <string name="debug_log">Programa de experiência do utilizador</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_view_attributes">Activar a inspecção do atributo de visualização</string>
@@ -1189,7 +1189,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="home_settings">Início</string>
   <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe e números de cartões de crédito e outros dados pessoais.</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
-  <string name="immediately_destroy_activities_summary">Destruir todas as actividades, assim que estas forem abandonadas</string>
+  <string name="immediately_destroy_activities_summary">Destruir todas as actividades assim que forem abandonadas</string>
   <string name="ims_reg_required_off">Desactivar registo obrigatório IMS</string>
   <string name="ims_reg_required_on">Activar registo obrigatório IMS</string>
   <string name="incoming_call_breathing_light_color_title">Cor do LED nas chamadas</string>
@@ -2418,7 +2418,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
-  <string name="status_network_type">Tipo de rede móvel:</string>
+  <string name="status_network_type">Tipo de rede móvel</string>
   <string name="status_number">O meu número de telefone</string>
   <string name="status_operator">Rede</string>
   <string name="status_prl_version">Versão PRL</string>
@@ -2760,7 +2760,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_you">Tu (%s)</string>
   <string name="verify_applications">Verificar aplicações</string>
   <string name="verify_applications_summary">Não permitir ou avisar antes de instalar aplicações que podem causar danos</string>
-  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso.</string>
+  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>

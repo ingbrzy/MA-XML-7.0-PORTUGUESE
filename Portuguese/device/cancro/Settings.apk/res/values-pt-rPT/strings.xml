@@ -965,7 +965,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Intenção de depuração do remetente</string>
   <string name="debug_layout">Mostrar limites de desenho</string>
-  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc.</string>
+  <string name="debug_layout_summary">Mostrar limites de clipe, margens, etc</string>
   <string name="debug_log">Programa de Experiência do utilizador</string>
   <string name="debug_monitoring_category">Monitorização</string>
   <string name="debug_networking_category">Redes</string>
@@ -1470,7 +1470,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="imei_information_summary">Informações relativas ao IMEI</string>
   <string name="imei_information_title">Informações do IMEI</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
-  <string name="immediately_destroy_activities_summary">Destruir todas as actividades, assim que forem abandonadas</string>
+  <string name="immediately_destroy_activities_summary">Destruir todas as actividades assim que forem abandonadas</string>
   <string name="ims_reg_required_off">Desactivar registo obrigatório IMS</string>
   <string name="ims_reg_required_on">Activar registo obrigatório IMS</string>
   <string name="inactive_app_active_summary">Activa. Toque para desactivar.</string>
@@ -2964,7 +2964,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_up_time">Tempo de actividade</string>
   <string name="status_wifi_mac_address">Endereço MAC Wi-Fi</string>
   <string name="status_wimax_mac_address">Endereço MAC 4G</string>
-  <string name="status_write_success">Successo!</string>
+  <string name="status_write_success">Sucesso!</string>
   <string name="storage_detail_apps">Aplicações</string>
   <string name="storage_detail_audio">Áudio</string>
   <string name="storage_detail_cached">Dados em cache</string>
@@ -3463,7 +3463,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="user_summary_restricted_not_set_up">Não configurado – Perfil restrito</string>
   <string name="user_summary_restricted_profile">Perfil restrito</string>
   <string name="user_you">Você (%s)</string>
-  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso.</string>
+  <string name="verify_apps_over_usb_summary">Verificar as aplicações instaladas via ADB/ADT para detectar comportamento perigoso</string>
   <string name="verify_apps_over_usb_title">Verificar aplicações de USB</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
