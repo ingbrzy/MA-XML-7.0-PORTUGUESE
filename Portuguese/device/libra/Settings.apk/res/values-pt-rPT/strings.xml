@@ -90,11 +90,11 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_finished_button_text">Feito</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital coloque o seu dedo no sensor.
-Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
+Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
-  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressões digitais</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Depois de pressionar o sensor remova o dedo e repita novamente.</string>
-  <string name="add_fingerprint_put_finger_msg">Depois de pressionar o sensor remova o dedo e repita novamente.</string>
+  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
+  <string name="add_fingerprint_put_finger_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
   <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
@@ -102,12 +102,12 @@ Certifique-se que o seu dedo cobre o limite interior do sensor"</string>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
   <string name="adjust_3d_depth_title">Ajuste a profundidade 3D dos jogos</string>
-  <string name="advanced_security_title">Avançado</string>
+  <string name="advanced_security_title">Avançadas</string>
   <string name="advanced_settings">Definições avançadas</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
   <string name="advanced_text_layout">Activar layouts de texto avançado</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
-  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo de avião</string>
