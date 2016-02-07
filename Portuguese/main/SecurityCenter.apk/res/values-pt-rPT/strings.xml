@@ -56,9 +56,9 @@
   <string name="back">Voltar</string>
   <string name="battery_desc_apps">Bateria utilizada pela aplicação</string>
   <string name="battery_desc_bluetooth">Bateria utilizada pelo Bluetooth</string>
-  <string name="battery_desc_display">Bateria utilizada pelo ecrã e pela luz de fundo</string>
+  <string name="battery_desc_display">Bateria utilizada pelo ecrã e luz de fundo</string>
   <string name="battery_desc_other_apps">Energia consumida por outras aplicações</string>
-  <string name="battery_desc_radio">Bateria utilizada pelo rádio</string>
+  <string name="battery_desc_radio">Bateria utilizada pelo rádio móvel</string>
   <string name="battery_desc_standby">Bateria utilizada quando o telefone está inactivo</string>
   <string name="battery_desc_voice">Bateria utilizada pelas chamadas de voz</string>
   <string name="battery_desc_wifi">Bateria utilizada pelo Wi-Fi</string>
@@ -293,7 +293,7 @@
   <string name="power_apply_toast">Alterado para %s</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Eliminar</string>
-  <string name="power_cell">Standby da bateria</string>
+  <string name="power_cell">inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
   <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar o dispositivo em horário programado</string>
   <string name="power_center_battery_full">Bateria completamente carregada</string>
