@@ -158,7 +158,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="android_beam_off_summary">Partilha de conteúdo NFC está desligado</string>
   <string name="android_beam_on_summary">Partilha de conteúdo NFC está ligado</string>
   <string name="android_beam_settings_title">Android Beam</string>
-  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro, e depois toque no conteúdo que quer transferir.</string>
+  <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro e depois toque no conteúdo que quer transferir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="anti_spam">Lista de Bloqueio</string>
@@ -197,9 +197,9 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_backup">Cópia</string>
   <string name="app_data_usage">Utilização de dados da aplicação</string>
   <string name="app_disable_dlg_positive">Desactivar aplicação</string>
-  <string name="app_disable_dlg_text">Se desactivar esta aplicação, outras aplicações podem não funcionar como pretendido.</string>
+  <string name="app_disable_dlg_text">Se desactivar esta aplicação outras aplicações podem não funcionar como pretendido.</string>
   <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
-  <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação, poderá perder alertas e actualizações importantes.</string>
+  <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
   <string name="app_factory_reset_dlg_text">Todas as actualizações desta aplicação serão desinstaladas.</string>
