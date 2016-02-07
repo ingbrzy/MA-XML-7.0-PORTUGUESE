@@ -19,9 +19,9 @@
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Este recurso está em testes e pode afectar o desempenho.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Em testes) Pode afectar o desempenho</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afectar o desempenho</string>
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
   <string name="accessibility_display_title">Ecrã</string>
   <string name="accessibility_enable">Acessibilidade</string>
@@ -2634,7 +2634,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usage_stats_label">Estatísticas de utilização</string>
   <string name="usage_time_label">Tempo de utilização</string>
   <string name="usage_type_audio">Áudio</string>
-  <string name="usage_type_cpu">Utilização do CPU</string>
+  <string name="usage_type_cpu">Utilização da CPU</string>
   <string name="usage_type_cpu_foreground">CPU</string>
   <string name="usage_type_data_recv">Dados móveis recebidos</string>
   <string name="usage_type_data_send">Dados móveis enviados</string>
