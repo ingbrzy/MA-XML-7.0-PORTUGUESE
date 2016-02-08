@@ -46,7 +46,7 @@
   <string name="albums">Álbuns</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Atenção</string>
-  <string name="alert_init_merged_message">As fotos do dispositivo e as fotos que armazenou na Nuvem Mi serão apresentadas em conjunto no separador Fotos e vídeos.</string>
+  <string name="alert_init_merged_message">As fotos do dispositivo e as fotos que armazenou na Nuvem Mi serão apresentadas em conjunto no separador Fotos.</string>
   <string name="alert_init_merged_title">Todas as suas fotos e vídeos estão juntas.</string>
   <string name="alert_message_open_sync">Sincronizar com a Nuvem Mi primeiro.</string>
   <string name="alert_secret_album_message">Deslizar para baixo na parte inferior dos álbuns na Nuvem Mi para ver álbuns ocultos.</string>
@@ -157,7 +157,7 @@
   <string name="cloud_camera_display_name">Fotos e vídeos da câmara</string>
   <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
   <string name="cloud_full_tip_str">Sem espaço suficiente na Nuvem</string>
-  <string name="cloud_gallery_recyclebin_full">O lixo está cheia. Esvazie o lixo em www.mi.com/micloud.</string>
+  <string name="cloud_gallery_recyclebin_full">O lixo está cheio. Esvazie o lixo em www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Sem espaço suficiente na nuvem</string>
   <string name="cloud_gallery_space_full_buy_more">"Não é possível sincronizar mais fotos com a Nuvem Mi. Para sincronizar mais fotos, compre espaço adicional."</string>
   <string name="cloud_gallery_space_full_title">Nuvem Mi está cheia</string>
