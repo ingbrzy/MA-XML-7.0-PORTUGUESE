@@ -130,7 +130,7 @@
   <string name="download">Transferir</string>
   <string name="download_later">Não é possível transferir neste momento. Tente mais tarde.</string>
   <string name="downloading">A transferir…</string>
-  <string name="downloading_file_can_not_play">Aguarde até a transferência ficar concluída</string>
+  <string name="downloading_file_can_not_play">Aguarde até a transferência da gravação ficar concluída</string>
   <string name="duration_not_a_number">A duração tem de ser um número</string>
   <string name="duration_sec">Duração (%s seg)</string>
   <string name="duration_selector_title">"Duração por diapositivo "</string>
@@ -161,7 +161,7 @@
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa.</string>
   <string name="festival">Respostas rápidas</string>
   <string name="festival_continue">Continuar</string>
-  <string name="festival_networking_desc">Esta função tem de ligar à internet para funcionar normalmente.</string>
+  <string name="festival_networking_desc">Esta função tem de ligar à Internet para funcionar normalmente.</string>
   <string name="festival_networking_title">Notícia</string>
   <string name="festival_never_remind">Não mostrar novamente.</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -177,8 +177,8 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Carregar mensagens de %1$s para %2$s?</string>
   <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Nuvem Mi inicie sessão na sua Conta Mi e ligue a sincronização de SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Nuvem Mi nas definições de mensagens.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Nuvem Mi inicie sessão na sua Conta Mi e ligue a sincronização de SMS</string>
+  <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Nuvem Mi nas definições de mensagens</string>
   <string name="found_wild_messages_guide_sync_not_started">Sincronização ainda não começou</string>
   <string name="found_wild_messages_title">Sincronizar mensagens da Nuvem Mi</string>
   <string name="from_label">"De: "</string>
@@ -274,7 +274,7 @@
   <string name="mx_activate_dlg_title_ex">Activar Mensagens e Voz Mi</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar Mensagens Mi para este cartão SIM.</string>
   <string name="mx_activate_error_server">Não foi possível activar o cartão SI</string>
-  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi o dispositivo tem que enviar uma SMS para os servidores da Xiaomi.</string>
+  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi, o dispositivo tem que enviar uma SMS para os servidores da Xiaomi</string>
   <string name="mx_activate_error_title">Não foi possível activar</string>
   <string name="mx_activate_hint_malformed_info">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
   <string name="mx_activate_hint_server">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
@@ -306,13 +306,13 @@
   <string name="mx_dspt">Enviar mensagens para outros dispositivos MIUI gratuitamente quando ligado ao Wi-Fi</string>
   <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos MIUI gratuitamente</string>
   <string name="mx_dspt_provision">Mensagens Mi permite enviar mensagens grátis para outros dispositivos MIUI. Será cobrado um SMS de activação do serviço.</string>
-  <string name="mx_dspt_provision_ex">"Envie mensagens e faça chamadas para outros dispositivos MIUI de graça. VoIP é fornecido pelo Weihui. Ver Política de Privacidade de Weihui."</string>
+  <string name="mx_dspt_provision_ex">Envie mensagens e faça chamadas para outros dispositivos MIUI de graça. VoIP é fornecido pelo Weihui. Ver Política de Privacidade de Weihui.</string>
   <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
   <string name="mx_enable">Mensagens Mi</string>
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros dispositivos MIUI.</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar este recurso em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
@@ -326,7 +326,7 @@
   <string name="mx_type_guide">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à internet para utilizar este serviço.</string>
+  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à Internet para utilizar este serviço.</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Tem uma mensagem nova</string>
@@ -359,7 +359,7 @@
   <string name="pref_advanced_settings_title">Definições adicionais</string>
   <string name="pref_allow_network_access_summary">Ligar para obter as informações mais recentes em entregas e outros serviços.</string>
   <string name="pref_collapse_sp_messages_summary">Agrupar notificações de mensagens juntas</string>
-  <string name="pref_edit_smsc_address">Número do centro de mensagens</string>
+  <string name="pref_edit_smsc_address">Número do centro de mensagens (SMSC)</string>
   <string name="pref_forward_title">Reenviar</string>
   <string name="pref_message_recovery_introduction_title">Recuperar mensagens</string>
   <string name="pref_messages_to_save">Definir o número de mensagens a guardar</string>
@@ -376,7 +376,7 @@
   <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para uma linguagem não chinesa</string>
   <string name="pref_summary_manage_sim_messages">Gerir as mensagens do cartão SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
-  <string name="pref_summary_mms_read_reports">Mostrar notificações na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
+  <string name="pref_summary_mms_read_reports">Mostrar notificação na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Transferir fotos e vídeos automaticamente nas mensagens quando o roaming estiver activo</string>
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo Convidado</string>
@@ -387,9 +387,9 @@
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
-  <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
+  <string name="pref_time_auto_group_summary">Agrupar mensagens que são recebidas em momentos dentro da mesma conversa</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
-  <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
+  <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP (SI/SL)</string>
   <string name="pref_title_card_format">Formato de partilha de cartão</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_festival_networking">Notificações de ligação</string>
@@ -404,7 +404,7 @@
   <string name="pref_title_mms_validity_period">Período de validade de MMS</string>
   <string name="pref_title_notification_body_enabled">Mostrar mensagens</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
-  <string name="pref_title_ringtone_repeat_summary">Quando o ecrã está inactivo e uma mensagem é recebida tocar um som de notificação</string>
+  <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver inactivo</string>
   <string name="pref_title_send_delivery_reports">Enviar mensagens de entrega</string>
   <string name="pref_title_show_recent_contacts">Mostrar contactos recentes</string>
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
@@ -494,7 +494,7 @@
   <string name="send">Enviar</string>
   <string name="send_hms_editor_hints">Mensagens Mi</string>
   <string name="send_message_dlg_check_hint">Não mostrar novamente</string>
- <string name="send_message_dlg_mgs">Aviso CMCC: Tem de registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos e terminais. É fornecido um serviço de ajustes remotos e aplicações de actualização). Para efeitos de registo e inscrição será enviada uma mensagem gratuita sobre a informação do seu dispositivo. A mensagem será enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Seleccione OK para aceitar o registo e usar o serviço. Seleccione Cancelar para desistir e nenhum serviço será fornecido a partir CMCC.</string>
+  <string name="send_message_dlg_mgs">Aviso CMCC: Tem de registar o seu dispositivo com a plataforma de gestão de dispositivos para fornecer o pós-serviço grátis (Pós-serviço é uma plataforma por CMCC que pode gerir os dispositivos e terminais. É fornecido um serviço de ajustes remotos e aplicações de actualização). Para efeitos de registo e inscrição será enviada uma mensagem gratuita sobre a informação do seu dispositivo. A mensagem será enviada apenas uma vez (não enviar de Hong Kong, Macau, Taiwan e roaming internacional). Seleccione OK para aceitar o registo e usar o serviço. Seleccione Cancelar para desistir e nenhum serviço será fornecido a partir CMCC.</string>
   <string name="send_message_dlg_title">Gestão de Dispositivos</string>
   <string name="send_message_notification_msg">Toque para ver os detalhes pretendidos.</string>
   <string name="send_message_notification_tickerText">Pedido permissão de gestão dispositivo</string>

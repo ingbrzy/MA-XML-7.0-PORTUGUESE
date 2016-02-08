@@ -5,10 +5,10 @@
   <string name="SMTP_username_text">Nome de utilizador</string>
   <string name="abc_action_mode_done">Concluído</string>
   <string name="abc_searchview_description_clear">Limpar pesquisa</string>
-  <string name="abc_searchview_description_query">Pesquisar assunto</string>
+  <string name="abc_searchview_description_query">Pesquisa</string>
   <string name="abc_searchview_description_search">Pesquisar</string>
-  <string name="abc_searchview_description_submit">Submeter assunto</string>
-  <string name="abc_searchview_description_voice">Pesquisar por voz</string>
+  <string name="abc_searchview_description_submit">Submeter</string>
+  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
@@ -76,8 +76,8 @@
   <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor.</string>
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível.</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
-  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador ou a palavra-passe e tente novamente.</string>
-  <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe incorrectos.</string>
+  <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome do utilizador ou a palavra-passe e tente novamente</string>
+  <string name="account_setup_failed_dlg_auth_message">Nome do utilizador ou palavra-passe incorrectos</string>
   <string name="account_setup_failed_dlg_bar_title">Dicas para iniciar sessão em %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Não é possível ligar ao servidor com segurança.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Não é possível ligar ao servidor com segurança.
@@ -240,9 +240,9 @@
   <string name="confirm_save_message_no">Rejeitar</string>
   <string name="confirm_save_message_title">Guardar como rascunho?</string>
   <string name="confirm_save_message_yes">Guardar</string>
-  <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem.</string>
-  <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto.</string>
-  <string name="confirm_send_title">Enviar mensagem?</string>
+  <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem</string>
+  <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto</string>
+  <string name="confirm_send_title">Pretende enviar esta mensagem?</string>
   <string name="contact_edit_set_black_list_filtering">A filtrar…</string>
   <string name="contact_edit_set_black_list_from">Mover todos os emails deste remetente para Lixo</string>
   <string name="contact_edit_set_black_list_receive">Mover email com este destinatário para Lixo (apenas novos emails)</string>
@@ -266,8 +266,8 @@
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL do link</string>
   <string name="contextmenu_create">Criar novo contacto</string>
-  <string name="contextmenu_dial_dot">Marcar…</string>
   <string name="contextmenu_edit">Editar contacto</string>
+  <string name="contextmenu_dial_dot">Marcar…</string>
   <string name="contextmenu_feedback">Enviar comentários</string>
   <string name="contextmenu_help">Ajuda</string>
   <string name="contextmenu_map">Mapa</string>
@@ -309,7 +309,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
-  <string name="disable_admin_warning">AVISO: Ao desactivar a aplicação email como administrador do dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados.</string>
+  <string name="disable_admin_warning">AVISO: Ao desactivar a aplicação email como administrador do dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados</string>
   <string name="discard">Rejeitar</string>
   <string name="discard_drafts">Rejeitar rascunhos</string>
   <string name="dismiss_tip_hover_text">Dispensar sugestão</string>
@@ -423,7 +423,7 @@
   <string name="general_preference_text_zoom_small">Pequeno</string>
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro.</string>
-  <string name="get_database_exception">"Limpar os dados desta aplicação em Definições &gt; Aplicações de Sistema e tente novamente."</string>
+  <string name="get_database_exception">Limpar os dados desta aplicação em Definições &gt; Aplicações de Sistema e tente novamente.</string>
   <string name="gmail_acceleration">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_confirm_to_use_proxy">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Não foi possível aceder ao servidor Gmail</string>
@@ -458,8 +458,8 @@
   <string name="login">Iniciar sessão</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s.</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
-  <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa ou toque para seleccionar mais conversas.</string>
-  <string name="long_string">Muito longo</string>
+  <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa e depois toque para seleccionar mais conversas</string>
+  <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
   <string name="mail">Email</string>
   <string name="mail_body_turncated">O anexo deste email é muito grande para transferir. Apenas é possível mostrar uma parte dele. Tente transferir mais tarde no seu computador</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
@@ -536,13 +536,13 @@
   <string name="mibill_privacy_policy_button1">Não concordo</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
   <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Este recurso está inactivo por defeito para endereços de email de empresa.</string>
-  <string name="mibill_privacy_policy_link">Ao utilizar este recurso está a concordar com o nosso &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Termos de Serviço&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">Ao utilizar este recurso, está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
   <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_context">Mais</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -591,7 +591,7 @@
   <string name="outbox_alert_edit_resend">Editar e reenviar</string>
   <string name="outbox_alert_failed_edit_resend">Não é possível enviar. Edite e tente novamente.</string>
   <string name="outbox_alert_mailbox_not_found">O endereço de email não foi encontrado</string>
-  <string name="outbox_alert_rw_io_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente.</string>
+  <string name="outbox_alert_rw_io_error">Ocorreu um erro. Aguarde alguns minutos e tente novamente</string>
   <string name="outbox_alert_select_operation">Escolha uma acção</string>
   <string name="outbox_alert_title_sent_failed">Não foi possível enviar email</string>
   <string name="outbox_no_mails">Vazio</string>
@@ -716,8 +716,8 @@
   <string name="re_download_message_button">Toque para transferir novamente</string>
   <string name="re_download_message_info">Não foi possível transferir o email</string>
   <string name="read_string">conversa lida</string>
-  <string name="recipient_needed">Adicione pelo menos um destinatário.</string>
-  <string name="recipient_needed_title">Alerta</string>
+  <string name="recipient_needed">Adicione pelo menos um destinatário</string>
+  <string name="recipient_needed_title">Aviso</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não incomodar está ligado</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
   <string name="refresh">Actualizar</string>
@@ -852,7 +852,7 @@
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
-Toque "&lt;b&gt;Sincronizar agora&lt;/b&gt; para sincronizar emails, ou &lt;b&gt;Alterar definições de sincronização&lt;/b&gt; para configurar esta conta para sincronizar emails automaticamente.</string>
+Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
   <string name="widget_all_mail">Todos os Emails</string>
   <string name="widget_large_unread_count">%d+</string>
