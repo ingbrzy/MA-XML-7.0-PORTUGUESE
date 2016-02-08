@@ -274,7 +274,7 @@
   <string name="mx_activate_dlg_title_ex">Activar Mensagens e Voz Mi</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar Mensagens Mi para este cartão SIM.</string>
   <string name="mx_activate_error_server">Não foi possível activar o cartão SI</string>
-  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi, o dispositivo tem que enviar uma SMS para os servidores da Xiaomi</string>
+  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi é necessário enviar uma SMS desde o dispositivo para os servidores da Xiaomi</string>
   <string name="mx_activate_error_title">Não foi possível activar</string>
   <string name="mx_activate_hint_malformed_info">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
   <string name="mx_activate_hint_server">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
@@ -370,7 +370,7 @@
   <string name="pref_show_sms_template_summary">Copiar e preencher códigos de verificação automaticamente</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_sms_theme_title">Mostrar</string>
-  <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP</string>
+  <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega para mensagens enviadas</string>
   <string name="pref_summary_hide_festival">Ocultar língua chinesa apenas quando o sistema está definido para uma linguagem não chinesa</string>
@@ -389,7 +389,7 @@
   <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
   <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
-  <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP (SI/SL)</string>
+  <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_card_format">Formato de partilha de cartão</string>
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_festival_networking">Notificações de ligação</string>
