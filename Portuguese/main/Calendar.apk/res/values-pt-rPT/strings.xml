@@ -52,10 +52,10 @@
   <string name="birthday_event_description_day_before_yesterday">O dia antes de ontem</string>
   <string name="birthday_event_description_days_ago">%1$s dias atrás</string>
   <string name="birthday_event_description_days_later">%1$s dias depois</string>
-  <string name="birthday_event_description_default">%2$s%3$s%4$s de %1$s</string>
+  <string name="birthday_event_description_default">%4$s de %2$s %3$s de %1$s</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">%1$s é %3$s%4$s%5$s de %2$s</string>
+  <string name="birthday_event_description_special">%1$s é o %5$s de %3$s %4$s de %2$s</string>
   <string name="birthday_event_description_today">Hoje</string>
   <string name="birthday_event_description_tomorrow">Amanhã</string>
   <string name="birthday_event_description_yesterday">Ontem</string>
@@ -88,7 +88,7 @@
   <string name="copy_db">Enviar base de dados</string>
   <string name="copy_email">Copiar endereço de email</string>
   <string name="copy_number">Copiar número de telefone</string>
-  <string name="create_an_account_desc">"calendário funciona melhor com uma Conta Mi.
+  <string name="create_an_account_desc">"Calendário funciona melhor com uma Conta Mi.
 
 • Aceda-o de qualquer navegador
 • Faça cópia dos seus eventos de forma segura"</string>
@@ -107,7 +107,7 @@
   <string name="delete_label">Eliminar</string>
   <string name="delete_recurring_event_title">Eliminar %s?</string>
   <string name="delete_this_event_title">Eliminar este evento?</string>
-  <string name="delete_topic_dialog_title">Confirma que deseja cancelar o registo\"%s\"？</string>
+  <string name="delete_topic_dialog_title">Confirma que deseja cancelar o registo\"%s\"?</string>
   <string name="delete_topic_success">Subscrição \"%s\" sucesso</string>
   <string name="deleting_calendar">Cancelar registo</string>
   <string name="departure">Embarque</string>
@@ -184,7 +184,7 @@
   <string name="huangli_label"/>
   <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Saltar</string>
-  <string name="jump_date_full">Saltar data para</string>
+  <string name="jump_date_full">Saltar para a data</string>
   <string name="label_recent_events">Eventos Recentes</string>
   <string name="loading">Aguarde…</string>
   <string name="local_calendar_display_name">Calendário local</string>
@@ -385,8 +385,8 @@
   <string name="user_notice_button_exit">Sair</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
-  <string name="user_notice_message">Ao utilizar este produto está a concordar com os %1$s e %2$s da Xiaomi. Alguns recursos necessitam de ligação à internet, localização e acesso aos contactos para funcionar normalmente.</string>
-  <string name="user_notice_title">Notificação de utilizador</string>
+  <string name="user_notice_message">Ao utilizar este produto está a concordar com %1$s e %2$s da Xiaomi. Alguns recursos necessitam de uma ligação à internet para funcionar normalmente.</string>
+  <string name="user_notice_title">Notificações de utilizador</string>
   <string name="user_notification">Notificações de utilizador</string>
   <string name="user_notification_descrip">Mostrar notificações de utilizador quando o calendário for iniciado</string>
   <string name="view_all_matches">Ver todos os jogos</string>
