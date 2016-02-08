@@ -25,7 +25,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
-  <string name="error_app_internal">Verifique se existe outra aplicação a utilizar o recurso de gravação.</string>
+  <string name="error_app_internal">Verifique se existe outra aplicação a utilizar o recurso de gravação</string>
   <string name="error_app_internal_title">Erro interno da aplicação</string>
   <string name="error_file_access">O ficheiro não existe ou está danificado</string>
   <string name="error_filename_illegal_char">O nome do ficheiro contém caracteres inválidos.</string>
@@ -44,18 +44,18 @@
   <string name="notification_title_all_paused">Transferência em pausa</string>
   <string name="notification_warning">Baixo armazenamento (menos de %d minutos)</string>
   <string name="pause">Pausar</string>
-  <string name="preference_enable_earpiece_summary">Quando activo os auriculares reproduzem as gravações</string>
-  <string name="preference_enable_earpiece_title">Utilizar auriculares para o áudio</string>
+  <string name="preference_enable_earpiece_summary">Utilizar auriculares para reprodução externa de áudio</string>
+  <string name="preference_enable_earpiece_title">Utilizar auriculares para reprodução</string>
   <string name="preference_led_indicator">Notificações no ecrã de bloqueio</string>
   <string name="preference_led_indicator_prompt">Durante a gravação mostrar informação na barra de estado e activar o LED de notificações quando o ecrã ficar inactivo</string>
   <string name="preference_record_scenes_dialog_title">Escolher tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Atribuir nome às gravações manualmente</string>
-  <string name="record_back_pressed_hint">Toque novamente para terminar gravação</string>
+  <string name="record_back_pressed_hint">Toque Voltar novamente para parar a gravação</string>
   <string name="record_download">Transferir da Nuvem Mi</string>
   <string name="record_download_complete">Transferido</string>
-  <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas.</string>
+  <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas</string>
   <string name="record_download_msg_reload">Esta gravação não existe</string>
   <string name="record_downloading_notification">A transferir…</string>
   <string name="record_downloading_notification_complete">Transferência concluída</string>
@@ -81,10 +81,7 @@
   <string name="start">Resumir</string>
   <string name="status_bar_back">Toque para voltar ao Gravador</string>
   <string name="status_bar_recording">A gravar…</string>
-  <string name="status_bar_recording_pause">Gravação em pausa.</string>
-  <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar</string>
-  <string name="sync_only_in_wifi_summary">O gravador apenas copia ou sincroniza as suas gravações quando se ligar a uma rede Wi-Fi</string>
-  <string name="sync_records">Sincronizar com a Nuvem Mi</string>
+  <string name="status_bar_recording_pause">Gravação em pausa</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>
   <string name="toast_uninstall_fileexplorer">Explorador não está instalado</string>

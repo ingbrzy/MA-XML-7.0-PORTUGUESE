@@ -1,13 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Fornecedor do Tempo</string>
-  <string name="aqi_quality_index_break">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_dangerous">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_good">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_hazardous">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_light_pollution">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_moderate">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_pure">Qualidade do ar %1$s</string>
-  <string name="aqi_quality_index_unhealthy">Qualidade do ar %1$s</string>
-  <string name="view_indexes_wind_unit">km/h</string>
 </resources>

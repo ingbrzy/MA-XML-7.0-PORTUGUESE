@@ -46,7 +46,7 @@
   <string name="albums">Álbuns</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Atenção</string>
-  <string name="alert_init_merged_message">As fotos do dispositivo e as fotos que armazenou na Nuvem Mi serão apresentadas em conjunto no separador fotos e vídeos.</string>
+  <string name="alert_init_merged_message">As fotos do dispositivo e as fotos que armazenou na Nuvem Mi serão apresentadas em conjunto no separador Fotos e vídeos.</string>
   <string name="alert_init_merged_title">Todas as suas fotos e vídeos estão juntas.</string>
   <string name="alert_message_open_sync">Sincronizar com a Nuvem Mi primeiro.</string>
   <string name="alert_secret_album_message">Deslizar para baixo na parte inferior dos álbuns na Nuvem Mi para ver álbuns ocultos.</string>
@@ -119,9 +119,9 @@
   <string name="by_others">Outros</string>
   <string name="by_sms">Mensagem de texto</string>
   <string name="byteShort">B</string>
-  <string name="calculated_pictures_time_tip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas gradualmente. Para acelerar este processo, %2$s</string>
-  <string name="calculated_pictures_time_tip_for_no_vip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas gradualmente.</string>
-  <string name="calculated_pictures_time_tip_for_vip">Fotos organizadas de %1$s até agora. As restantes fotos vão ser organizadas em breve.</string>
+  <string name="calculated_pictures_time_tip">Fotos ordenadas de %1$s até agora. As restantes fotos vão ser ordenadas gradualmente. Para acelerar este processo, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_no_vip">Fotos ordenadas de %1$s até agora. As restantes fotos vão ser ordenadas gradualmente.</string>
+  <string name="calculated_pictures_time_tip_for_vip">Fotos ordenadas de %1$s até agora. As restantes fotos vão ser ordenadas em breve.</string>
   <string name="camera_black_white">Preto e Branco</string>
   <string name="camera_connected">Câmara ligada</string>
   <string name="camera_disconnected">Câmara desligada</string>
@@ -143,7 +143,7 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="cleaning_cache">A limpar cache…</string>
   <string name="clear_thumbnail_cache">Limpar miniaturas em cache</string>
-  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas da galeria em cache vão ser limpas.</string>
+  <string name="clear_thumbnail_cache_confirm">Todas as miniaturas da galeria em cache vão ser limpas</string>
   <string name="clear_thumbnail_cache_summary">Limpar miniaturas da galeria em cache</string>
   <string name="click_to_add_picture">Toque para adicionar imagens</string>
   <string name="click_top_right">Toque neste ícone</string>
@@ -157,7 +157,7 @@
   <string name="cloud_camera_display_name">Fotos e vídeos da câmara</string>
   <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
   <string name="cloud_full_tip_str">Sem espaço suficiente na Nuvem</string>
-  <string name="cloud_gallery_recyclebin_full">A lixeira está cheia. Esvazie o lixo em www.mi.com/micloud.</string>
+  <string name="cloud_gallery_recyclebin_full">O lixo está cheia. Esvazie o lixo em www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Sem espaço suficiente na nuvem</string>
   <string name="cloud_gallery_space_full_buy_more">"Não é possível sincronizar mais fotos com a Nuvem Mi. Para sincronizar mais fotos, compre espaço adicional."</string>
   <string name="cloud_gallery_space_full_title">Nuvem Mi está cheia</string>
@@ -262,12 +262,12 @@ com amigos"</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
   <string name="error_cloud_not_active">Sem fotos na nuvem.</string>
-  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
+  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi</string>
   <string name="error_invalid_link">Link inválido</string>
   <string name="error_link_has_expired">Link expirou</string>
   <string name="error_not_acceptable">Sincronização foi desactivada.</string>
   <string name="error_repeat_apply">Este álbum já foi partilhado</string>
-  <string name="error_share_not_support">Este recurso ainda não é suportado</string>
+  <string name="error_share_not_support">Esta funcionalidade ainda não é suportada</string>
   <string name="error_share_with_creator">Este álbum já está a ser partilhado consigo</string>
   <string name="error_should_not_select_image">O tipo de ficheiro não é suportado</string>
   <string name="error_should_not_select_video">O tipo de ficheiro não é suportado</string>
@@ -295,7 +295,7 @@ com amigos"</string>
   <string name="face_albumset_detecting_tip">Aguarde…</string>
   <string name="face_albumset_empty">Vazio</string>
   <string name="face_albumset_loading_data">A carregar dados…</string>
-  <string name="face_albumset_pending_enable_tip">Irá ordenar as fotos quando o dispositivo estiver ligado ao Wi-Fi</string>
+  <string name="face_albumset_pending_enable_tip">Vai ordenar as fotos quando o dispositivo estiver ligado ao Wi-Fi</string>
   <string name="face_albumset_use_tip">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="face_choose_tip">Escolher de um álbum existente</string>
   <string name="face_move_dialog_title">Escolher um álbum</string>
@@ -350,7 +350,7 @@ com amigos"</string>
   <string name="home_page_tab_cloud">Nuvem</string>
   <string name="home_page_tab_face">Pessoas</string>
   <string name="home_page_tab_local">Dispositivo</string>
-  <string name="home_page_tab_photo">Fotos e vídeos</string>
+  <string name="home_page_tab_photo">Fotos</string>
   <string name="hybrid_check_network">Definições de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
@@ -369,7 +369,7 @@ com amigos"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importar concluído</string>
   <string name="import_fail">Importação falhou</string>
-  <string name="impunity_declaration">"Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. Alguns recursos necessitam de uma ligação à internet para funcionar normalmente."</string>
+  <string name="impunity_declaration">"Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam de uma ligação à internet para funcionar normalmente."</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Notificação de ligação à internet</string>
@@ -377,7 +377,7 @@ com amigos"</string>
   <string name="impunity_declaration_title">Ligação à internet</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">Para ocultar uma foto, prima e segure-a, depois seleccione \"Adicionar ao álbum oculto\" no menu do canto inferior esquerdo.</string>
   <string name="initial_cloud_button_text">Iniciar sessão</string>
-  <string name="initial_cloud_text">Armazenar e ver as suas fotos e vídeos em qualquer lugar</string>
+  <string name="initial_cloud_text">Armazenar e ver as suas fotos em qualquer lugar</string>
   <string name="initializing_cloud">A iniciar…</string>
   <string name="input_a_name">Introduzir nome</string>
   <string name="input_baby_name">Introduzir nome</string>
@@ -660,8 +660,8 @@ dispositivo"</string>
   <string name="set_lock_or_wallpaper">Definir como papel de parede</string>
   <string name="set_lockscreen">A definir como papel de parede…</string>
   <string name="set_recent_album">Marcar como favorito</string>
-  <string name="set_screensaver_path_message">As fotos neste álbum vão ser mostradas na protecção de ecrã.</string>
-  <string name="set_screensaver_path_message_if_only_charging">As fotos neste álbum vão ser mostradas na protecção de ecrã quando o telefone estiver a carregar.</string>
+  <string name="set_screensaver_path_message">As fotos neste álbum vão ser mostradas na protecção de ecrã</string>
+  <string name="set_screensaver_path_message_if_only_charging">As fotos neste álbum vão ser mostradas na protecção de ecrã quando o telefone estiver a carregar</string>
   <string name="set_screensaver_path_title">Apresentação de protecção do ecrã</string>
   <string name="set_wallpaper">A definir papel de parede…</string>
   <string name="settings">Definições</string>
