@@ -298,7 +298,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_punctuate">Pontuação automática</string>
   <string name="auto_punctuate_summary">Prima a tecla de Espaço duas vezes para inserir \".\"</string>
   <string name="auto_replace">Correcção automática</string>
-  <string name="auto_replace_summary">Corrigir palavras mal-escritas</string>
+  <string name="auto_replace_summary">Corrigir erros ortográficos</string>
   <string name="auto_restore_summary">Ao reinstalar uma aplicação, restaurar dados e definições</string>
   <string name="auto_restore_title">Restauro automático</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
@@ -319,7 +319,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="backup_configure_account_title">Conta de cópia de segurança</string>
   <string name="backup_data_summary">Fazer cópia de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para servidores Google</string>
   <string name="backup_data_title">Cópia de segurança</string>
-  <string name="backup_erase_dialog_message">Parar de fazer a cópia de segurança das suas definições e dados de aplicações e eliminar todas as cópias de segurança nos servidores Google?</string>
+  <string name="backup_erase_dialog_message">Parar de fazer a cópia de segurança das suas definições, dados de aplicações e eliminar todas as cópias de segurança nos servidores Google?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Serviço de cópia está inactivo.</string>
   <string name="backup_pw_cancel_button_text">Cancelar</string>
@@ -422,7 +422,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_sugg_bluetooth_basic">Desligar Bluetooth quando não estiver em utilização</string>
   <string name="battery_sugg_bluetooth_headset">Tente ligar a um dispositivo Bluetooth diferente</string>
   <string name="battery_sugg_display">Reduzir o brilho e/ou tempo limite do ecrã</string>
-  <string name="battery_sugg_radio">Alterar para o Modo de Avião para economizar energia nas áreas sem cobertura de rede</string>
+  <string name="battery_sugg_radio">Alterar para o Modo de Avião para economizar bateria nas áreas sem cobertura de rede</string>
   <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
   <string name="battery_summary">Utilizou %1$d%% desde o último carregamento completo</string>
   <string name="bearer">Portador</string>
