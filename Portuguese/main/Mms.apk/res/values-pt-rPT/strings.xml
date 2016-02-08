@@ -161,7 +161,7 @@
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa.</string>
   <string name="festival">Respostas rápidas</string>
   <string name="festival_continue">Continuar</string>
-  <string name="festival_networking_desc">Esta função tem de ligar à Internet para funcionar normalmente.</string>
+  <string name="festival_networking_desc">Esta função tem de ligar à internet para funcionar normalmente.</string>
   <string name="festival_networking_title">Notícia</string>
   <string name="festival_never_remind">Não mostrar novamente.</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -312,7 +312,7 @@
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros dispositivos MIUI.</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar este recurso em qualquer altura nas Mensagens &gt; Definições."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
@@ -326,7 +326,7 @@
   <string name="mx_type_guide">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à Internet para utilizar este serviço.</string>
+  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à internet para utilizar este serviço.</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Tem uma mensagem nova</string>
@@ -387,7 +387,7 @@
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
-  <string name="pref_time_auto_group_summary">Agrupar mensagens que são recebidas em momentos dentro da mesma conversa</string>
+  <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP (SI/SL)</string>
   <string name="pref_title_card_format">Formato de partilha de cartão</string>
