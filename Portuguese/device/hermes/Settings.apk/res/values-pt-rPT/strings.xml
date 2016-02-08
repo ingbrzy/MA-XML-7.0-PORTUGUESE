@@ -107,7 +107,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
   <string name="advanced_text_layout">Activar layouts de texto avançado</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
-  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais.</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo de Avião</string>
@@ -168,7 +168,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="apn_type">Tipo APN</string>
   <string name="apn_user">Utilizador</string>
   <string name="app_backup">Cópia</string>
-  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que outras aplicações deixem de funcionar normalmente.</string>
+  <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente.</string>
   <string name="app_disable_dlg_title">Desactivar aplicação de sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
@@ -192,7 +192,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="app_process_limit_title">Limite de processos em segundo plano</string>
   <string name="app_restrictions_custom_label">Definir restrições da aplicação</string>
   <string name="app_sees_restricted_accounts">Esta aplicação pode aceder às suas contas</string>
-  <string name="app_special_disable_dlg_text">Se desactivar uma aplicação de sistema pode fazer com que outras aplicações não funcionem bem e irá eliminar os dados associados a essa aplicação.</string>
+  <string name="app_special_disable_dlg_text">Se desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente. Os dados associados a esta aplicação serão eliminados.</string>
   <string name="app_special_disable_dlg_title">Eliminar dados e desactivar aplicação?</string>
   <string name="app_switch_key">Recentes</string>
   <string name="application_forbid_auto_startup">Parar %s de iniciar em segundo plano</string>
@@ -207,10 +207,10 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
   <string name="apply_now_button_text">Actualizar</string>
-  <string name="apply_password_to_category_title">Necessário palavra-passe</string>
+  <string name="apply_password_to_category_title">Requer palavra-passe</string>
   <string name="apply_update_fail">Erro na actualização</string>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
-  <string name="apps_with_restrictions_settings_button">Expandir as definições para a aplicação</string>
+  <string name="apps_with_restrictions_settings_button">Expandir as definições para aplicação</string>
   <string name="ask_compatibility">Perguntar ao iniciar</string>
   <string name="assisted_gps">Utilizar GPS assistido</string>
   <string name="assisted_gps_disabled">Utilizar o servidor para assistir GPS (desactivar para melhorar o desempenho do GPS)</string>

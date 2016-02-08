@@ -130,7 +130,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="advanced_settings">Definições avançadas</string>
   <string name="advanced_settings_summary">Activar mais opções de definições</string>
   <string name="agps_roaming">A-GPS quando em roaming</string>
-  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o uso de dados móveis. Se ultrapassar limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="agps_roaming_dia">Utilizar o A-GPS em roaming pode aumentar o consumo de dados móveis. Se ultrapassar o limite de dados do seu plano a sua operadora pode cobrar taxas adicionais.</string>
   <string name="agps_roaming_dia_title">Utilizar A-GPS em roaming</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo de Avião</string>
@@ -197,7 +197,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_backup">Cópia</string>
   <string name="app_data_usage">Utilização de dados da aplicação</string>
   <string name="app_disable_dlg_positive">Desactivar aplicação</string>
-  <string name="app_disable_dlg_text">Se desactivar esta aplicação outras aplicações podem não funcionar como pretendido.</string>
+  <string name="app_disable_dlg_text">Se desactivar esta aplicação, outras aplicações podem não funcionar como pretendido.</string>
   <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
