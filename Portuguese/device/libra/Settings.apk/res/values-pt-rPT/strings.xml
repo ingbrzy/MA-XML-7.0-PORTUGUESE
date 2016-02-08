@@ -1393,7 +1393,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpassword_pattern_set_toast">O padrão foi definido</string>
   <string name="lockpassword_pin_contains_non_digits">O PIN apenas pode ter números</string>
   <string name="lockpassword_pin_fixed_length">O PIN tem que ter %d dígitos</string>
-  <string name="lockpassword_pin_recently_used">O administrador do dispositivo não permite utilizar PIN recente</string>
+  <string name="lockpassword_pin_recently_used">O administrador do dispositivo não permite utilizar desbloqueio por PIN</string>
   <string name="lockpassword_pin_set_toast">PIN definido</string>
   <string name="lockpassword_pin_too_long">O PIN não pode ter mais do que %d dígitos</string>
   <string name="lockpassword_pin_too_short">O PIN deve ter pelo menos %d dígitos</string>
@@ -1830,7 +1830,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preferred_app_settings_default">Predefinida</string>
   <string name="preferred_app_settings_reset">Redefinir predefinições</string>
   <string name="preferred_app_settings_reset_button">Redefinir</string>
-  <string name="preferred_app_settings_reset_message">Todos as aplicações serão redefinidas para as predefinições MIUI.</string>
+  <string name="preferred_app_settings_reset_message">Todas as aplicações serão repostas para as predefinições de fábrica.</string>
   <string name="preferred_application_title">Preferidas %s</string>
   <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de energia, reduzir a velocidade, e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso.</string>
   <string name="preferred_application_warning_replace">Substituir</string>
@@ -2319,7 +2319,7 @@ Tentativas restantes :"</string>
   <string name="sim_pin_change">Alterar o PIN do SIM</string>
   <string name="sim_pin_toggle">Bloquear cartão SIM</string>
   <string name="sim_pins_dont_match">Os PINs não coincidem</string>
-  <string name="sim_radio_off">Não activado</string>
+  <string name="sim_radio_off">Desligado</string>
   <string name="sim_reenter_new">Insira novamente o PIN</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
@@ -2373,7 +2373,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
   <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
-  <string name="status_bar_screen_button_key">Botões virtuais do ecrã</string>
+  <string name="status_bar_screen_button_key">Botões do ecrã</string>
   <string name="status_bar_screen_key_back">Botão de Voltar</string>
   <string name="status_bar_screen_key_home">Botão de Início</string>
   <string name="status_bar_screen_key_menu">Botão de Menu</string>
@@ -2595,7 +2595,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_change_lock_pin_title">Alterar PIN</string>
   <string name="unlock_disable_lock_password_summary">Remover palavra-passe de desbloqueio</string>
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
-  <string name="unlock_disable_lock_pin_summary">Remover PIN</string>
+  <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
   <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após activar o ecrã</string>
@@ -2652,7 +2652,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_charging_summary">Desligue todos os outros recursos de ligação USB para acelerar o carregamento.</string>
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
-  <string name="usb_host_mode_subtext">Para utilizar controladores de jogos e outros periféricos na porta USB, pode diminuir a vida útil da bateria</string>
+  <string name="usb_host_mode_subtext">Utilizar controladores de jogos e outros periféricos na porta USB pode consumir mais bateria</string>
   <string name="usb_host_mode_text">Modo anfitrião de USB</string>
   <string name="usb_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="usb_label_installer_cd">Instalar ferramentas de transferência de ficheiros</string>
@@ -2794,8 +2794,8 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="virus_scanner_lib_already_latest">Já está a utilizar as definições mais recentes</string>
   <string name="virus_scanner_lib_update_failed">Não foi possível actualizar</string>
   <string name="virus_scanner_lib_updating">A actualizar as definições…</string>
-  <string name="virus_scanner_manual_update">Actualizar %s</string>
-  <string name="virus_scanner_provider">Definições fornecidas por %s</string>
+  <string name="virus_scanner_manual_update">Actualizado em %s</string>
+  <string name="virus_scanner_provider">Fornecido por %s</string>
   <string name="virus_scanner_scan">Toque para verificar</string>
   <string name="virus_scanner_scanning">A verificar…</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
@@ -2882,9 +2882,9 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wallpaper_settings_title">Papel de parede</string>
   <string name="welcome">Bem-vindo</string>
   <string name="wfd_available_devices">Dispositivos disponíveis</string>
-  <string name="wfd_disconnect_diag_msg">A sua ligação a %1$s irá terminar.</string>
+  <string name="wfd_disconnect_diag_msg">Desligar de %1$s?</string>
   <string name="wfd_disconnect_diag_title">Desligar monitor?</string>
-  <string name="wfd_disconnect_multiple_diag_message">A sua ligação a outros dispositivos %1$s e %2$s irá terminar.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Desligar de %1$s e %2$s outros dispositivos?</string>
   <string name="wfd_enable_wifi_diag_title">Ligar Wi-Fi?</string>
   <string name="wfd_enabler_title">Visualização sem Fios</string>
   <string name="wfd_menu_search">Pesquisar dispositivos</string>
@@ -2892,8 +2892,8 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wfd_menu_teardown">Parar</string>
   <string name="wfd_settings_description">Ligar a um monitor através de Wi-Fi</string>
   <string name="wfd_settings_title">Visualização sem Fios</string>
-  <string name="wfd_wps_keypad">Premir botão preferido</string>
-  <string name="wfd_wps_pbc">Deseja introduzir PIN</string>
+  <string name="wfd_wps_keypad">Utilizar teclado</string>
+  <string name="wfd_wps_pbc">Introduzir PIN</string>
   <string name="whetstone_level_reboot">Estas definições só terão efeito quando reiniciar o dispositivo</string>
   <string name="whetstone_level_reboot_OK">Reiniciar</string>
   <string name="whetstone_level_title">Optimização de memória</string>
@@ -3145,7 +3145,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
   <string name="wifi_share_summary2">Quando outro utilizador MIUI partilha a rede, pode ligar-se directamente a essa rede sem utilizar uma palavra-passe.</string>
-  <string name="wifi_share_summary3">Partilha da sua rede Wi-Fi pública com outros utilizadores MIUI.</string>
+  <string name="wifi_share_summary3">Também pode partilhar a sua rede Wi-Fi pública com outros utilizadores MIUI.</string>
   <string name="wifi_share_turn_off">Desligado</string>
   <string name="wifi_share_turn_on">Ligado</string>
   <string name="wifi_share_upload">Partilhar</string>
@@ -3202,13 +3202,13 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor instale o certificado AS correcto.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Falhou na criação da directoria.</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma directoria com este nome.</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da directoria.</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de Certificados WAPI</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
-  <string name="wifi_wapi_cert_uninstall">Desinstalar Certificado WAPI</string>
+  <string name="wifi_wapi_cert_uninstall">Desinstalar certificado WAPI</string>
   <string name="wifi_wapi_cert_uninstall_button">Desinstalar</string>
   <string name="wifi_wapi_certification_dont_exist">A palavra-passe da rede que introduziu está incorrecta.</string>
   <string name="wifi_wapi_user_cert">Certificado de Utilizador</string>
