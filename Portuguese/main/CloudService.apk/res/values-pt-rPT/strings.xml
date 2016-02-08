@@ -41,26 +41,26 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar dispositivo</string>
-  <string name="cloud_restore_title">Restaurar uma cópia</string>
+  <string name="cloud_restore_title">Restaurar dados da cópia</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>
   <string name="cloudservice_new_sync">Sincronizar %s com Nuvem Mi</string>
-  <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
+  <string name="cmcc_micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="contact">Contactos</string>
-  <string name="deskclock_backup">Cópia dos alarmes</string>
-  <string name="disable_find_device_error">Não foi possível desligar localizar dispositivo. %1$s</string>
+  <string name="deskclock_backup">Cópia de relógios</string>
+  <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
   <string name="enableAll">Sincronizar tudo</string>
   <string name="enable_cloud_service_notification">É necessário activar a Nuvem Mi</string>
-  <string name="enable_find_device_error">Não foi possível ligar localizar dispositivo. %1$s</string>
+  <string name="enable_find_device_error">Não foi possível ligar Localizar dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar dispositivo está ligado.</string>
   <string name="enable_micloud">Utilizar a Nuvem Mi</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_dspt">Não sincronizar</string>
   <string name="error_data_in_transfer">A sincronização irá terminar em %s horas.</string>
   <string name="error_data_in_transfer_title">Nuvem Mi indisponível</string>
-  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua conta Mi.</string>
+  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi.</string>
   <string name="error_network">Não é possível ligar à rede</string>
   <string name="error_not_acceptable">A sincronização foi desactivada.</string>
   <string name="error_server">Erro do servidor</string>
@@ -68,7 +68,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão.</string>
   <string name="error_unknown">Não foi possível iniciar a sessão</string>
   <string name="find_device">Localizar dispositivo</string>
-  <string name="find_device_disabled_notice">Pode ligar ou desligar este recurso em qualquer altura nas definições da Nuvem Mi.</string>
+  <string name="find_device_disabled_notice">Pode ligar ou desligar este recurso em qualquer altura nas definições da Nuvem Mi</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desligar…</string>
   <string name="find_device_dspt">Localizar, bloquear ou reiniciar o seu dispositivo remotamente</string>
@@ -135,7 +135,7 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_confusion_account_notify_text">Outro dispositivo está a modificar a sua Conta Mi. Verifique a sua conta agora.</string>
   <string name="micloud_confusion_account_notify_title">Verificar conta</string>
   <string name="micloud_confusion_account_question">Este ID Conta Mi: %s pertence-lhe?</string>
-  <string name="micloud_confusion_account_title">ID Conta Mi</string>
+  <string name="micloud_confusion_account_title">Conta Mi</string>
   <string name="micloud_confusion_alert_message">%s está a alterar a informação da Conta Mi.</string>
   <string name="micloud_confusion_alert_negative">Mais tarde</string>
   <string name="micloud_confusion_alert_positive">Detalhes</string>
@@ -177,22 +177,22 @@ na sua conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados e localizar o seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
   <string name="micloud_find_device_finish">Concluído</string>
-  <string name="micloud_find_device_guide_button">Ligar localizar dispositivo</string>
+  <string name="micloud_find_device_guide_button">Ligar Localizar dispositivo</string>
   <string name="micloud_find_device_guide_content">"Quando trocar o seu cartão SIM, uma mensagem irá ser enviada automaticamente 
   para reactivar este recurso."</string>
-  <string name="micloud_find_device_guide_fail_reopen">Ligar localizar dispositivo na Nuvem Mi</string>
+  <string name="micloud_find_device_guide_fail_reopen">Ligar Localizar dispositivo na Nuvem Mi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Ligação expirou. Tente novamente mais tarde.</string>
-  <string name="micloud_find_device_guide_micloud">Ligar Sincronização com a Nuvem Mi</string>
+  <string name="micloud_find_device_guide_micloud">Ligar sincronização com a Nuvem Mi</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas, e mais com a Nuvem Mi</string>
   <string name="micloud_find_device_guide_noti_content">Ligar</string>
-  <string name="micloud_find_device_guide_noti_title">Ligar localizar dispositivo para proteger os seus dados mesmo quando o seu dispositivo for perdido</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ligar localizar dispositivo para proteger os seus dados WeChat</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar localizar dispositivo para proteger os seus dados AliPay</string>
-  <string name="micloud_find_device_guide_progress">A ligar localizar dispositivo…</string>
+  <string name="micloud_find_device_guide_noti_title">Ligar Localizar dispositivo para proteger os seus dados mesmo quando o seu dispositivo for perdido</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ligar Localizar dispositivo para proteger os seus dados WeChat</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar Localizar dispositivo para proteger os seus dados AliPay</string>
+  <string name="micloud_find_device_guide_progress">A ligar Localizar dispositivo…</string>
   <string name="micloud_find_device_guide_title">"Iniciar sessão %s para localizar, bloquear
 ou formatar o seu dispositivo."</string>
-  <string name="micloud_find_device_open_fail">Não foi possível ligar localizar dispositivo</string>
+  <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar dispositivo</string>
   <string name="micloud_find_device_opened">Localizar dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
@@ -211,7 +211,7 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_main_battery_message">"Ligue o seu dispositivo a um carregador para sincronizar
 %d dados"</string>
   <string name="micloud_main_clear_now">Limpo</string>
-  <string name="micloud_main_data_unsynced">%d aguardam por sincronização</string>
+  <string name="micloud_main_data_unsynced">%d aguardam sincronização</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização foi %s</string>
   <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns dados que armazenou na Nuvem.</string>
@@ -262,9 +262,9 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_member_webload_fail_toast_4xx">Não foi possível carregar a página</string>
   <string name="micloud_member_webload_fail_toast_5xx">Erro de servidor</string>
   <string name="micloud_more">Saber mais</string>
-  <string name="micloud_notif_content_battery_low">Bateria está muito fraca.</string>
-  <string name="micloud_notif_content_depend_wifi">Ligar o Wi-Fi para sincronizar</string>
-  <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro o Wi-Fi</string>
+  <string name="micloud_notif_content_battery_low">Bateria está muito fraca</string>
+  <string name="micloud_notif_content_depend_wifi">Ligar ao Wi-Fi para sincronizar</string>
+  <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro ao Wi-Fi</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora</string>
   <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a Nuvem Mi</string>
@@ -298,7 +298,7 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_storage_expires_very_soon_title">O armazenamento da Nuvem Mi expira em breve</string>
   <string name="micloud_storage_full">Armazenamento na Nuvem está cheio</string>
   <string name="micloud_storage_usage" formatted="false">Utilizado %s/Espaço total %s</string>
-  <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos.</string>
+  <string name="micloud_sync_alert_dialog_message">Sincronizar fotos, contactos, notas e muito mais em todos os seus dispositivos</string>
   <string name="micloud_sync_alert_dialog_negative">Cancelar</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Utilizar Nuvem Mi</string>
