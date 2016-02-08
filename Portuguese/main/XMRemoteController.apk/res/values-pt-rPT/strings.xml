@@ -33,7 +33,7 @@
   <string name="app_detail_no_comments">Sem análises.</string>
   <string name="app_detail_title_info">Resumo</string>
   <string name="app_detail_title_recomment">Aplicações relacionadas</string>
-  <string name="app_exit_tip">Toque novamente para sair</string>
+  <string name="app_exit_tip">Toque Voltar novamente para sair</string>
   <string name="app_frequency_little">Raramente</string>
   <string name="app_frequency_more">Frequentemente</string>
   <string name="app_frequency_normal">Às vezes</string>
@@ -68,22 +68,26 @@
   <string name="camera_shoot">Disparo</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_share">Parar de partilhar</string>
-  <string name="carrier_data">Info Operadora</string>
+  <string name="cancel_share_done">Parou de partilhar</string>
+  <string name="carrier_data">Informação de operadora</string>
   <string name="channel">Canal</string>
   <string name="channel_catogory_name">Canais</string>
   <string name="check_upgrade">Verificar por actualizações</string>
   <string name="choose_ac">Escolher controlo remoto</string>
+  <string name="choose_address_title">Seleccionar localização</string>
   <string name="circlepad_slide_tips">Utilizar o botão roda para ajustar o volume</string>
   <string name="click_to_expend">Expandir</string>
   <string name="click_to_retry">Toque para tentar novamente</string>
   <string name="click_to_shrink">Minimizar</string>
   <string name="close">Desligar</string>
+  <string name="comment_bad">Mais ou menos</string>
+  <string name="comment_good">Gosto</string>
   <string name="commit_done">Submetido</string>
   <string name="commit_thanks">Obrigado pelo seu feedback.</string>
   <string name="common_use">Utilizado frequentemente</string>
   <string name="confirm">OK</string>
   <string name="confirm_on">OK</string>
-  <string name="connect_to_retry">Não é possível ligar à rede. Tente novamente mais tarde.</string>
+  <string name="connect_to_retry">Não é possível ligar à rede. Tente novamente mais tarde</string>
   <string name="connected">Ligado</string>
   <string name="continue_to_add_other_rc">Adicionar mais dispositivos</string>
   <string name="control_vol_by_cellphone">Utilizar dispositivo para controlar volume</string>
@@ -101,7 +105,7 @@
   <string name="day_string">日</string>
   <string name="delete">Eliminar</string>
   <string name="delete_confirm">Eliminar dispositivo?</string>
-  <string name="delete_desc">"Não irá ser possível controlar “%s” utilizando C.Remoto Mi."</string>
+  <string name="delete_desc">"Não irá ser possível de controlar “%s” utilizando C.Remoto Mi."</string>
   <string name="delete_device_frame">Eliminar %1$s?</string>
   <string name="delete_frame">Eliminar \"%1$s\"?</string>
   <string name="device_bluetoothi">Controlo remoto Bluetooth</string>
@@ -175,10 +179,11 @@
   <string name="from_share">Partilhado por outros</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Não é possível utilizar orientação de paisagem no modo Gamepad</string>
-  <string name="gesture_pad_first_line_tips">Utilizar os botões de volume para ajustar o volume</string>
+  <string name="gesture_pad_first_line_tips">Utilizar os botões de Volume para ajustar o volume</string>
   <string name="gesture_pad_orietaion_tips">Deslizar para mover em qualquer direcção. Toque para confirmar.</string>
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume.</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
+  <string name="get_data_fail_tips">获取数据失败，请您重试</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
@@ -187,6 +192,7 @@
   <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR.</string>
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>
+  <string name="hd_channel_preferred">Preferir vídeo HD</string>
   <string name="history_none">Ainda não viu nenhum vídeo.</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
@@ -336,6 +342,7 @@ aguarde um momento depois da acção."</string>
   <string name="month">月</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Mais</string>
+  <string name="more_hot_programs">Mais séries…</string>
   <string name="mute">Silenciar</string>
   <string name="network_diagnosis">Testar rede</string>
   <string name="network_no_connection">Não é possível ligar à rede. Verifique a sua ligação de rede e tente novamente.</string>
@@ -368,6 +375,7 @@ aguarde um momento depois da acção."</string>
   <string name="oscillation">Oscilação</string>
   <string name="other">Outros</string>
   <string name="outdoor_temp_unknown">Desconhecido</string>
+  <string name="partner">Suporte</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Email ou número de telefone</string>
   <string name="passport_account_name">Conta: %1$s</string>
@@ -388,7 +396,7 @@ aguarde um momento depois da acção."</string>
   <string name="passport_choose_which_one_sim">Escolher um número de telefone</string>
   <string name="passport_click_email_to_valid">"
 
-Para activar a sua conta siga o 
+Para activar a sua conta, siga o 
  link que enviámos para o seu endereço de email."</string>
   <string name="passport_completed">Terminar</string>
   <string name="passport_confirm">Confirmar</string>
@@ -539,6 +547,8 @@ Para activar a sua conta siga o
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Toque para ver mais</string>
   <string name="save">Guardar</string>
+  <string name="save_share_tips">Gosta da aplicação? Pode classificá-la.</string>
+  <string name="save_share_title">Guardar o controlo remoto neste dispositivo？</string>
   <string name="scaning">A pesquisar…</string>
   <string name="scanning_milink">A pesquisar por dispositivos…</string>
   <string name="scene_default">Predefinido</string>
@@ -546,7 +556,7 @@ Para activar a sua conta siga o
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Captura de ecrã</string>
   <string name="screenshot_failed">Não foi possível a captura de ecrã</string>
-  <string name="screenshot_failed_and_check_connection">Não foi possível a captura de ecrã. Verifique os dispositivos ligados</string>
+  <string name="screenshot_failed_and_check_connection">Não foi possível capturar ecrã. Verifique os dispositivos ligados</string>
   <string name="screenshot_not_support_adb_devices">Capturas de ecrã não suportadas para este dispositivo</string>
   <string name="screenshot_not_support_video">Capturas de ecrã não suportadas actualmente</string>
   <string name="screenshoting">A capturar imagem de ecrã…</string>
@@ -569,9 +579,12 @@ Para activar a sua conta siga o
   <string name="share">Partilhar</string>
   <string name="share_action_cancel">Cancelar</string>
   <string name="share_action_confirm">Enviar</string>
+  <string name="share_address_desc">A sua localização actual irá ajudar pessoas próximas a ver os seus controlos remotos partilhados</string>
+  <string name="share_address_hint">Introduzir a sua localização actual</string>
   <string name="share_address_title">Localização actual (recomendada)</string>
   <string name="share_app_category">"Categoria: "</string>
   <string name="share_app_downloads">"Transferências: "</string>
+  <string name="share_cancel_done">Parou de partilhar</string>
   <string name="share_comment_hint">Escreva a sua review aqui…</string>
   <string name="share_content_device_box_to_sina_weibo">Mi Box</string>
   <string name="share_content_device_other_to_sina_weibo">Dispositivo Mi</string>
@@ -591,8 +604,11 @@ Para activar a sua conta siga o
   <string name="share_friends_title">Partilhar utilizando Mi Talk</string>
   <string name="share_from_others">Alguém partilhou um dispositivo consigo. Toque para adicionar</string>
   <string name="share_level_private">共享给连接到%1$s的用户</string>
-  <string name="share_level_public">共享给附近所有用户</string>
-  <string name="share_level_title">共享方式（必选）</string>
+  <string name="share_level_private_desc">Rede Wi-Fi: %1$s</string>
+  <string name="share_level_private_error">Não ligado a Wi-Fi</string>
+  <string name="share_level_public">Todas as pessoas próximas</string>
+  <string name="share_level_public_error">Não foi possível definir localização. Verifique as definições de localização e tente novamente.</string>
+  <string name="share_level_title">Quem pode ver o controlo remoto?</string>
   <string name="share_media_actor">"Elenco: "</string>
   <string name="share_media_area">"País: "</string>
   <string name="share_media_director">"Director: "</string>
@@ -601,7 +617,11 @@ Para activar a sua conta siga o
   <string name="share_popup_single_desc">Utilizar controlos remotos partilhados para controlar o dispositivo %1$s</string>
   <string name="share_popup_single_title">%1$s: um controlo remoto partilhado para %2$s está disponível</string>
   <string name="share_popup_title">%1$s um novo controlo remoto partilhado está disponível</string>
+  <string name="share_rc_list_title">Controlos remotos partilhados nas proximidades</string>
+  <string name="share_rc_not_found">Sem controlos remotos partilhados nas proximidades</string>
+  <string name="share_rc_state_share">A partilhar…</string>
   <string name="share_rc_title">Partilhar controlo remoto</string>
+  <string name="share_rc_type_desc">Quem pode ver e utilizar os controlos partilhados por si</string>
   <string name="share_switch">Partilhar controlo remoto</string>
   <string name="share_tips">Partilhar o controlo remoto com uma pessoa ligada à mesma rede Wi-Fi</string>
   <string name="share_title_share_to">Partilhar com</string>
@@ -613,6 +633,7 @@ Para activar a sua conta siga o
   <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto Mi frequentemente. Criar um atalho no ecrã principal?</string>
   <string name="shortcut_pop_title">Atalho</string>
   <string name="similar">Relacionado</string>
+  <string name="skip">Ignorar</string>
   <string name="somthing_wrong">Com problemas?</string>
   <string name="sorry">Erro</string>
   <string name="speech_init_failed">Toque para instalar motor de voz iFly</string>
@@ -631,6 +652,7 @@ Para activar a sua conta siga o
   <string name="succeed_content">Adicionado %3$s %4$s com sucesso.</string>
   <string name="succeed_finish">Concluído</string>
   <string name="succeed_title">Emparelhado</string>
+  <string name="supported_by_kookong">Suporte técnico por Youku</string>
   <string name="supporting_soon">Brevemente</string>
   <string name="switch_place">Escolher cidade</string>
   <string name="technical_support">Suporte técnico</string>
@@ -640,7 +662,7 @@ Para activar a sua conta siga o
   <string name="title_nodata_feedback">Não foi possível obter informação do dispositivo</string>
   <string name="to_qq">Abrir QQ e juntar-se ao nosso grupo</string>
   <string name="to_qq_maintext">Juntar-se ao nosso grupo QQ e enviar nos feedback</string>
-  <string name="to_qq_subtext">Grupo QQ: 259685862</string>
+  <string name="to_qq_subtext">Grupo QQ: 532652329</string>
   <string name="today">Hoje</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tv">TV</string>
@@ -692,14 +714,14 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="voice_resolving">A reconhecer voz…</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatura exterior:</string>
-  <string name="wind_direct">Direcção</string>
-  <string name="wind_direct_automatic">Equilibrado</string>
+  <string name="wind_direct">Fixo</string>
+  <string name="wind_direct_automatic">Balanço auto.</string>
   <string name="wind_direct_down">Baixo</string>
-  <string name="wind_direct_manual">Fixo</string>
+  <string name="wind_direct_manual">Balanço</string>
   <string name="wind_direct_middle">Meio</string>
   <string name="wind_direct_up">Cima</string>
   <string name="wind_speed">Velocidade</string>
-  <string name="wind_speed_auto">Auto</string>
+  <string name="wind_speed_auto"/>
   <string name="wind_speed_high">Alto</string>
   <string name="wind_speed_low">Baixo</string>
   <string name="wind_speed_medium">Normal</string>
