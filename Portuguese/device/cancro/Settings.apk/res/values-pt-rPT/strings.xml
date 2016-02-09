@@ -792,7 +792,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="credentials_old_password">Palavra-passe actual</string>
   <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
   <string name="credentials_reset">Limpar credenciais</string>
-  <string name="credentials_reset_hint">Tem certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
+  <string name="credentials_reset_hint">Tem a certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
   <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
@@ -855,16 +855,16 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="data_usage_app_info_label">INFORMAÇÕES DA APLICAÇÃO</string>
   <string name="data_usage_app_items_header_text">Utilização da aplicação</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado Wi-Fi, se disponível.</string>
+  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado o Wi-Fi, se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
-  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando estiver apenas redes móveis disponíveis.
+  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
 
 Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
-  <string name="data_usage_app_restricted">restringido</string>
+  <string name="data_usage_app_restricted">Restringido</string>
   <string name="data_usage_app_settings">Definições da aplicação</string>
   <string name="data_usage_app_summary_title">Utilização dados da aplicação</string>
-  <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. E não vai receber notificações quando ocorrerem actualizações.</string>
+  <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. Não vai receber notificações quando ocorrerem actualizações.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
   <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da Web será copiada automaticamente para o telefone.
 
@@ -1246,8 +1246,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="error_title" />
   <string name="every_day">Todos os dias</string>
   <string name="experimental_preference">(Experimental)</string>
-  <string name="external_code_size_label">Aplicação de armazenamento USB</string>
-  <string name="external_data_size_label">Dados de armazenamento USB</string>
+  <string name="external_code_size_label">Aplicação no armazenamento USB</string>
+  <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="extreme_threats_summary">Receber alertas de ameaças extremas à vida e à propriedade</string>
   <string name="extreme_threats_title">Ameaças extremas</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>

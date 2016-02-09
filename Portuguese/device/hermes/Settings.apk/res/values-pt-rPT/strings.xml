@@ -653,7 +653,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credentials_old_password">Palavra-passe actual</string>
   <string name="credentials_password_too_short">A palavra-passe deve ter no mínimo 8 caracteres.</string>
   <string name="credentials_reset">Limpar credenciais</string>
-  <string name="credentials_reset_hint">Tem certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
+  <string name="credentials_reset_hint">Tem a certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
   <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
@@ -677,40 +677,40 @@ Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter
 
 Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google."</string>
   <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
-  <string name="crypt_keeper_final_desc">Deseja encriptar o telefone? Esta operação é irreversível e se a interromper vai perder dados. A encriptação demora uma hora ou mais, durante a qual o telefone será reiniciado várias vezes.</string>
+  <string name="crypt_keeper_final_desc">A operação de encriptação é irreversível e, se a interromper, perderá dados. A encriptação demora uma hora ou mais, durante a qual o telefone reiniciará várias vezes.</string>
   <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente.</string>
   <string name="crypt_keeper_settings_title">Encriptação</string>
-  <string name="crypt_keeper_setup_description">Aguarde enquanto o seu telefone está a ser encriptado. ^1% concluído.</string>
-  <string name="crypt_keeper_setup_title">A encriptar</string>
-  <string name="crypt_keeper_switch_input_method">Alternar o método de entrada</string>
-  <string name="crypt_keeper_unplugged_text">Ligue o seu carregador e tente novamente.</string>
+  <string name="crypt_keeper_setup_description">Aguarde enquanto o telefone está a ser encriptado. ^1% concluído.</string>
+  <string name="crypt_keeper_setup_title">Encriptação</string>
+  <string name="crypt_keeper_switch_input_method">Trocar método de introdução</string>
+  <string name="crypt_keeper_unplugged_text">Ligue o carregador e tente novamente.</string>
   <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
   <string name="cryptkeeper_return_to_call">Voltar à chamada</string>
   <string name="current_backup_pw_prompt">Introduza a sua palavra-passe actual para cópia de segurança completa</string>
-  <string name="current_input_method">Predefinido</string>
+  <string name="current_input_method">Teclado actual</string>
   <string name="current_use_ese">A utilizar elemento de segurança integrado</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
-  <string name="daltonizer_mode_deuteranomaly">Deuteranopia (vermelho-verde)</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
   <string name="daltonizer_mode_disabled">Desactivado</string>
   <string name="daltonizer_mode_monochromacy">Monocromacia</string>
-  <string name="daltonizer_mode_protanomaly">Protanopia (vermelho-verde)</string>
-  <string name="daltonizer_mode_tritanomaly">Tritanopia (azul-amarelo)</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalia (vermelho-verde)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalia (azul-amarelo)</string>
   <string name="daltonizer_type">Modo de correcção</string>
   <string name="daltonizer_type_overridden">Substituído por %1$s</string>
   <string name="dashboard_title">Definições</string>
   <string name="data_size_label">Dados</string>
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
-  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado o Wi-Fi se disponível.</string>
+  <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado o Wi-Fi, se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
-  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que dependa de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis as redes móveis.
+  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
 
-Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis na aplicação."</string>
+Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_app_restricted">Restringido</string>
-  <string name="data_usage_app_settings">Ver definições da aplicação</string>
+  <string name="data_usage_app_settings">Definições da aplicação</string>
   <string name="data_usage_auto_sync_off_dialog">Isto vai conservar a utilização de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes. Não vai receber notificações quando ocorrerem actualizações.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Desligar sincronização automática?</string>
-  <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas na Web serão automaticamente copiadas para o seu telefone.
+  <string name="data_usage_auto_sync_on_dialog">"Qualquer alteração que efectue nas contas a partir da Web será copiada automaticamente para o telefone.
 
 Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a Web. Uma conta Google funciona desta forma.
 
@@ -1033,7 +1033,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="every_day">Todos os dias</string>
   <string name="experience_optimization_category">Optimização</string>
   <string name="experimental_preference">(em testes)</string>
-  <string name="external_code_size_label">Aplicação de armazenamento USB</string>
+  <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no cartão SD</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
