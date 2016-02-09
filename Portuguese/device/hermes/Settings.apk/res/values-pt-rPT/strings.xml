@@ -740,7 +740,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_list_mobile">Móvel</string>
   <string name="data_usage_list_none">Nenhum</string>
   <string name="data_usage_menu_auto_sync">Sincronização automática</string>
-  <string name="data_usage_menu_metered">Pontos de acesso móvel</string>
+  <string name="data_usage_menu_metered">Restrições de rede</string>
   <string name="data_usage_menu_restrict_background">Restringir dados em segundo plano</string>
   <string name="data_usage_menu_roaming">Dados em roaming</string>
   <string name="data_usage_menu_show_ethernet">Mostrar utilização de Ethernet</string>
@@ -748,7 +748,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_menu_split_4g">Separar utilização de 4G</string>
   <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas podem igualmente notificar antes de utilizarem essas redes para fazerem grandes transferências.</string>
   <string name="data_usage_metered_mobile">Redes móveis</string>
-  <string name="data_usage_metered_title">Pontos de acesso móvel</string>
+  <string name="data_usage_metered_title">Restrições de rede</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
