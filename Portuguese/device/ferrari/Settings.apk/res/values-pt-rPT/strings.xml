@@ -655,7 +655,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credentials_reset">Limpar credenciais</string>
   <string name="credentials_reset_hint">Tem certeza que deseja remover todas as credenciais e redefinir a palavra-passe do armazenamento de credenciais?</string>
   <string name="credentials_reset_summary">Remover todos os certificados</string>
-  <string name="credentials_reset_warning">Insira a palavra-passe. Tem mais uma tentativa para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
+  <string name="credentials_reset_warning">Palavra-passe incorrecta. Tem mais uma tentativa antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado.</string>
   <string name="credentials_title">Armazenamento de credenciais</string>
   <string name="credentials_unlock"/>
@@ -664,19 +664,19 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="crypt_keeper_button_text">Encriptar telefone</string>
   <string name="crypt_keeper_confirm_title">Encriptar?</string>
   <string name="crypt_keeper_cooldown">Tente novamente dentro de ^1 segundos.</string>
-  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, aplicações transferidas, dados multimédia ou outros ficheiros. Assim que encriptar o telefone deverá introduzir um código PIN ou uma palavra-passe para o desencriptar. Será sempre necessário repetir o processo anterior cada vez que ligar o telefone. Não pode desencriptar o telefone excepto se executar um restauro de dados de fábrica para eliminar todos os seus dados.
+  <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
-Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação perderá alguns ou todos os seus dados."</string>
+Encriptar demora uma hora ou mais. Deve iniciar com a bateria carregada e manter o telefone a carregar até que a encriptação esteja terminada. Se interromper o processo de encriptação, perderá alguns ou todos os seus dados."</string>
   <string name="crypt_keeper_dialog_need_password_message">Deve definir um código PIN ou uma palavra-passe para o ecrã de bloqueio antes de iniciar a encriptação.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ecrã de bloqueio sem código PIN ou palavra-passe</string>
   <string name="crypt_keeper_encrypt_summary">Solicitar um código PIN numérico ou uma palavra-passe para desencriptar o telefone cada vez que o ligar</string>
   <string name="crypt_keeper_encrypt_title">Encriptar telefone</string>
   <string name="crypt_keeper_encrypted_summary">Encriptado</string>
   <string name="crypt_keeper_enter_password">Introduza a sua palavra-passe</string>
-  <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado os dados no telefone já não estão acessíveis.
+  <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
 
-Para continuar a utilizar o telefone deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro terá oportunidade de restaurar os dados através da sua conta do Google."</string>
-  <string name="crypt_keeper_failed_title">Não foi encriptado</string>
+Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. Quando configurar o telefone após o restauro, terá oportunidade de restaurar os dados através da sua conta do Google."</string>
+  <string name="crypt_keeper_failed_title">Encriptação sem sucesso</string>
   <string name="crypt_keeper_final_desc">Deseja encriptar o telefone? Esta operação é irreversível e se a interromper vai perder dados. A encriptação demora uma hora ou mais, durante a qual o telefone será reiniciado várias vezes.</string>
   <string name="crypt_keeper_low_charge_text">Carregue a bateria e tente novamente.</string>
   <string name="crypt_keeper_settings_title">Encriptação</string>
