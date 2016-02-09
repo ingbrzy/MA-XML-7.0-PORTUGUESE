@@ -3283,8 +3283,8 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="zen_mode_when_never">Nunca</string>
   <string name="zen_mode_when_weeknights">Noites de semana</string>
   <string name="zone_auto">Fuso horário automático</string>
-  <string name="zone_auto_summaryOff">Utilize o fuso horário da rede</string>
-  <string name="zone_auto_summaryOn">Utilize o fuso horário da rede</string>
-  <string name="zone_list_menu_sort_alphabetically">Classificar por ordem alfabética</string>
-  <string name="zone_list_menu_sort_by_timezone">Classificar por fuso horário</string>
+  <string name="zone_auto_summaryOff">Utilizar fuso horário fornecido na rede</string>
+  <string name="zone_auto_summaryOn">Utilizar fuso horário fornecido na rede</string>
+  <string name="zone_list_menu_sort_alphabetically">Ordenar por ordem alfabética</string>
+  <string name="zone_list_menu_sort_by_timezone">Ordenar por fuso horário</string>
 </resources>
