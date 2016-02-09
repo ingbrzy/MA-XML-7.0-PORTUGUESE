@@ -97,7 +97,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
   <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
-  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação, e ler dados de registo.</string>
+  <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
   <string name="add_account_label">Adicionar conta</string>
   <string name="add_auto_startup_application">Adicionar aplicações de início automático</string>
@@ -277,7 +277,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="assist_access_screenshot_title">Utilizar captura de ecrã</string>
   <string name="assist_and_voice_input_title">Assistência e entrada de voz</string>
   <string name="assist_footer">Aplicações de assistência podem ajudá-lo com base na informação do ecrã que está a ver. Algumas aplicações suportam tanto o launcher como os serviços de entrada de voz para lhe dar uma assistência integrada.</string>
-  <string name="assistant_security_warning">O assistente irá poder ler informação acerca de aplicações em utilização no seu sistema, incluindo informação vísivel no seu ecrã ou acessível através das aplicações.</string>
+  <string name="assistant_security_warning">O assistente irá poder ler informação acerca de aplicações em utilização no seu sistema, incluindo informação visível no seu ecrã ou acessível através das aplicações.</string>
   <string name="assistant_security_warning_agree">Concordar</string>
   <string name="assistant_security_warning_disagree">Não concordar</string>
   <string name="assistant_security_warning_title">Fazer de %s o seu assistente?</string>
@@ -431,7 +431,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio multimédia</string>
   <string name="bluetooth_advanced_titlebar">Definições avançadas Bluetooth</string>
-  <string name="bluetooth_ask_discovery">Uma aplicação quer que o telefone fique vísivel para outros dispositivos Bluetooth por %1$d segundos.</string>
+  <string name="bluetooth_ask_discovery">Uma aplicação quer que o telefone fique visível para outros dispositivos Bluetooth por %1$d segundos.</string>
   <string name="bluetooth_ask_enablement">Uma aplicação quer ligar o Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos."</string>
@@ -521,7 +521,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_menu_advanced">Avançado</string>
   <string name="bluetooth_name_not_set">Não há nenhum nome definido, a utilizar o nome da conta</string>
   <string name="bluetooth_no_devices_found">Não foram encontrados dispositivos Bluetooth.</string>
-  <string name="bluetooth_not_visible_to_other_devices">Não vísivel para outros dispositivos Bluetooth</string>
+  <string name="bluetooth_not_visible_to_other_devices">Não visível para outros dispositivos Bluetooth</string>
   <string name="bluetooth_notif_message">Toque para emparelhar com %1$s</string>
   <string name="bluetooth_notif_ticker">Pedido de emparelhamento por Bluetooth</string>
   <string name="bluetooth_notif_title">Pedido de emparelhamento</string>

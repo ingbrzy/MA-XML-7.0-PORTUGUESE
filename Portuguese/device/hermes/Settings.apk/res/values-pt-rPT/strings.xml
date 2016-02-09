@@ -60,7 +60,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
   <string name="accessibility_sync_disabled">Sincronização desactivada</string>
   <string name="accessibility_sync_enabled">Sincronização activada</string>
-  <string name="accessibility_sync_error">Erro de sincronização.</string>
+  <string name="accessibility_sync_error">Erro de sincronização</string>
   <string name="accessibility_system_title">Sistema</string>
   <string name="accessibility_toggle_high_text_contrast_preference_title">Texto de alto contraste</string>
   <string name="accessibility_toggle_large_text_preference_title">Texto grande</string>
@@ -73,7 +73,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="account_list">Outras contas</string>
   <string name="account_settings">Contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
-  <string name="activate_miui_screensaver">Protecção de ecrã durante a suspensão</string>
+  <string name="activate_miui_screensaver">Protecção de ecrã durante suspensão</string>
   <string name="activating">A activar…</string>
   <string name="active_device_admin_msg">Administrador do dispositivo</string>
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
@@ -134,7 +134,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="android_beam_tips">Certifique-se que os dois dispositivos estão a tocar um no outro e depois toque no conteúdo que quer transferir.</string>
   <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
-  <string name="anti_spam">Lista de bloqueio</string>
+  <string name="anti_spam">Lista de Bloqueio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -169,7 +169,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="apn_user">Utilizador</string>
   <string name="app_backup">Cópia</string>
   <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema, pode fazer com que outras aplicações deixem de funcionar normalmente.</string>
-  <string name="app_disable_dlg_title">Desactivar aplicação de sistema?</string>
+  <string name="app_disable_dlg_title">Desactivar aplicação do sistema?</string>
   <string name="app_disable_notifications_dlg_text">Se desligar as notificações para esta aplicação poderá perder alertas e actualizações importantes.</string>
   <string name="app_disable_notifications_dlg_title">Desligar notificações?</string>
   <string name="app_factory_reset">Desinstalar actualizações</string>
@@ -242,7 +242,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="background_data_summary">Aplicações podem sincronizar, enviar e receber dados em qualquer altura</string>
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar.</string>
   <string name="backup_configure_account_default_summary">Nenhuma conta está actualmente a armazenar a cópia de segurança</string>
-  <string name="backup_configure_account_title">Conta da cópia de segurança</string>
+  <string name="backup_configure_account_title">Conta de cópia de segurança</string>
   <string name="backup_data_summary">Fazer cópia de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para servidores Google</string>
   <string name="backup_data_title">Cópia de segurança</string>
   <string name="backup_erase_dialog_message">Parar de fazer a cópia de segurança das suas definições, dados de aplicações e eliminar todas as cópias de segurança nos servidores Google?</string>
@@ -278,7 +278,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
-  <string name="battery_indicator_style">Indicador da bateria</string>
+  <string name="battery_indicator_style">Indicador de bateria</string>
   <string name="battery_info_awake_battery">Tempo activo na bateria:</string>
   <string name="battery_info_awake_plugged">Tempo activo quando está a carregar:</string>
   <string name="battery_info_health_cold">Fria</string>
@@ -346,7 +346,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio multimédia</string>
   <string name="bluetooth_advanced_titlebar">Definições avançadas Bluetooth</string>
-  <string name="bluetooth_ask_discovery">Uma aplicação quer que o telefone fique vísivel para outros dispositivos Bluetooth por %1$d segundos.</string>
+  <string name="bluetooth_ask_discovery">Uma aplicação quer que o telefone fique visível para outros dispositivos Bluetooth por %1$d segundos.</string>
   <string name="bluetooth_ask_enablement">Uma aplicação quer ligar o Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" quer ligar o Bluetooth e tornar este telefone visível para outros dispositivos por %1$d segundos."</string>
@@ -366,7 +366,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_connecting_error_message">Não foi possível ligar a %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Deseja ligar a \"%1$s\"?</string>
   <string name="bluetooth_connection_notif_message">Toque para ligar a \"%1$s\".</string>
-  <string name="bluetooth_connection_permission_request">Pedido de ligação do Bluetooth</string>
+  <string name="bluetooth_connection_permission_request">Pedido de ligação de Bluetooth</string>
   <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
   <string name="bluetooth_device_address">Endereço:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Permitir transferências de ficheiros</string>
@@ -770,7 +770,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_tab_mobile">Móvel</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado.</string>
-  <string name="data_usage_total_during_range_mobile">%2$s: sobre %1$s utilizado, conforme medido pelo seu telefone. A medição de dados da sua operadora poderá ser diferente.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: sobre %1$s utilizado, conforme medido pelo seu telefone. A medição de dados da sua operadora pode ser diferente.</string>
   <string name="data_usage_uninstalled_apps">Aplicações removidas</string>
   <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
   <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
