@@ -73,7 +73,7 @@
   <string name="call_log_old_header">Mais antigo</string>
   <string name="call_main">Ligar para o telefone principal</string>
   <string name="call_mms">Enviar MMS</string>
-  <string name="call_mobile">Ligar para o telefone</string>
+  <string name="call_mobile">Ligar para o telemóvel</string>
   <string name="call_other">Ligar</string>
   <string name="call_other_fax">Ligar para o fax</string>
   <string name="call_pager">Ligar para o pager</string>
@@ -86,7 +86,7 @@
   <string name="call_tty_tdd">Ligar para o TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_work">Ligar para o telefone do trabalho</string>
-  <string name="call_work_mobile">Ligar para o telefone do trabalho</string>
+  <string name="call_work_mobile">Ligar para o telemóvel do trabalho</string>
   <string name="call_work_pager">Ligar para o pager do trabalho</string>
   <string name="calllog_menu_blacklist">Bloquear</string>
   <string name="calllog_menu_edit_before_call">Editar</string>
@@ -146,7 +146,7 @@
   <string name="clearCallLogConfirmation">Todos os seus registos de chamadas serão eliminados</string>
   <string name="clearCallLogConfirmation_title">Limpar todos os registos de chamadas</string>
   <string name="clearCallLogProgress_title">A limpar registo de chamadas</string>
-  <string name="clearFrequentsConfirmation">Limpar a lista de contactos frequentes em contactos e telefone vai forçar as aplicações de email a gravar as suas preferências de endereços novamente.</string>
+  <string name="clearFrequentsConfirmation">Limpar a lista de contactos frequentes em Contactos e Telefone vai forçar as aplicações de email a guardar as suas preferências de endereços novamente</string>
   <string name="clearFrequentsConfirmation_title">Limpar contactos frequentes?</string>
   <string name="clearFrequentsProgress_title">A limpar contactos frequentes…</string>
   <string name="clear_default">Limpar predefinido</string>
@@ -354,7 +354,7 @@
   <string name="dialog_phone_call_prohibited_message">Chamada não enviada</string>
   <string name="dialog_sync_add">Adicionar grupo de sincronização</string>
   <string name="dialog_voicemail_airplane_mode_message">Para ligar o Voice Mail, desligue o Modo de Avião</string>
-  <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu &gt; Definições.</string>
+  <string name="dialog_voicemail_not_ready_message">Para configurar o Voice Mail, vá a Menu &gt; Definições</string>
   <string name="directory_search_label">Directoria</string>
   <string name="display_all_contacts">Todos os contactos</string>
   <string name="display_more_groups">Mais grupos…</string>
@@ -378,7 +378,7 @@
   <string name="emailLabelsGroup">Email</string>
   <string name="email_custom">Personalizado %s</string>
   <string name="email_home">Casa</string>
-  <string name="email_mobile">Telefone</string>
+  <string name="email_mobile">Telemóvel</string>
   <string name="email_other">Outro</string>
   <string name="email_work">Trabalho</string>
   <string name="emergency_number_label">Número de emergência</string>
@@ -568,7 +568,7 @@ Motivo: \"%s\""</string>
   <string name="lunar_calendar">Ano Novo lunar</string>
   <string name="lunar_leap">Intercalado</string>
   <string name="lunar_yue">Mês</string>
-  <string name="make_primary">Lembrar esta escolha</string>
+  <string name="make_primary">Memorizar esta escolha?</string>
   <string name="map_custom">Ver %s endereço</string>
   <string name="map_home">Ver endereço de casa</string>
   <string name="map_other">Ver endereço</string>
@@ -612,7 +612,7 @@ Motivo: \"%s\""</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
   <string name="menu_new_group_action_bar">Novo</string>
   <string name="menu_not_redirect_calls_to_vm">O Voice Mail não está activo</string>
-  <string name="menu_redirect_calls_to_vm">Reencaminhar chamadas para o Voice Mail</string>
+  <string name="menu_redirect_calls_to_vm">Todas as chamadas para o Voice Mail</string>
   <string name="menu_removeStar">Remover dos favoritos</string>
   <string name="menu_search">Pesquisar</string>
   <string name="menu_select_all">Seleccionar tudo</string>
@@ -633,7 +633,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_alertdialog_edit">Introduzir nome</string>
   <string name="miprofile_alertdialog_message">Mostrar este nome aos contactos quando pedir para trocar cartões.</string>
   <string name="miprofile_alertdialog_title">Introduzir nome</string>
-  <string name="miprofile_bind_account_alertdialog_message">"É necessário adicionar o número de telefone deste dispositivo para a sua conta Mi para usar este recurso."</string>
+  <string name="miprofile_bind_account_alertdialog_message">É necessário adicionar o número de telefone deste dispositivo para a sua Conta Mi para utilizar este recurso</string>
   <string name="miprofile_bind_account_alertdialog_positive">Adicionar número</string>
   <string name="miprofile_bind_account_alertdialog_title">Adicionar número de telefone</string>
   <string name="miprofile_contact_add">Adicionar</string>
@@ -654,7 +654,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_find_profile_loading">A carregar…</string>
   <string name="miprofile_find_profile_no_recommend">Sem perfis recomendados</string>
   <string name="miprofile_find_profile_subtitle">Adicionar para ver foto e mais informações</string>
-  <string name="miprofile_finding_label">Pesquisa de cartão de contacto</string>
+  <string name="miprofile_finding_label">Localizar cartões de contacto</string>
   <string name="miprofile_name">Meu perfil</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Introduzir alcunha</string>
   <string name="miprofile_nick_name_edit_dialog_message">Alcunha irá ser mostrada no registo de chamadas e informação de perfil</string>
@@ -687,7 +687,7 @@ Motivo: \"%s\""</string>
   <string name="move_and_resize">Mover e dimensionar</string>
   <string name="multi_number_menu_call">Ligar</string>
   <string name="multi_number_menu_delete">Eliminar</string>
-  <string name="multi_number_menu_group">Novo Grupo</string>
+  <string name="multi_number_menu_group">Novo grupo</string>
   <string name="multi_number_menu_message">Mensagem</string>
   <string name="multi_number_title">Chamada em conferência</string>
   <string name="multipleContactDeleteConfirmation">Eliminar este contacto irá eliminar informações de várias contas.</string>
@@ -718,65 +718,65 @@ Motivo: \"%s\""</string>
   <string name="noContacts">Sem contactos</string>
   <string name="noContactsHelpText">"Não tem contactos para mostrar.
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", depois seleccione:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto, para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto, para criar um novo contacto a partir do início
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar.</string>
   <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", depois seleccione:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Mostrar as opções para alterar os contactos visíveis
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto. para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto. para criar um novo contacto a partir do início
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SIM ou cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)"</string>
   <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para mostrar.
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", em seguida, toque:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Não tem contactos para mostrar. (Se acabou de adicionar uma conta, pode demorar alguns minutos para sincronizar contactos.)
 
-Para adicionar contactos, toque "&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;Menu&lt;/b&gt;&lt;/font&gt;", em seguida, toque:
+Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", em seguida, toque:
  
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Mostrar as opções para alterar os contactos visíveis
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Novo contacto para criar um novo contacto a partir do início
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;" 
-"&lt;li&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;b&gt;"Importar/Exportar para importar contactos do seu cartão SD
-"&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;"
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Mostrar as opções para alterar os contactos visíveis
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Novo contacto para criar um novo contacto a partir do início
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do seu cartão SD
+"</b></font></li>"
 "</string>
   <string name="noContactsWithPhoneNumbers">Sem contactos com números de telefone</string>
   <string name="noFavoritesHelpText">"Não tem favoritos.
 
 Para adicionar um contacto à sua lista de favoritos:
 
-"&lt;li&gt;Toque em &lt;b&gt;Contactos&lt;/b&gt;" aba
-"&lt;/li&gt;" 
-"&lt;li&gt;"Toque no contacto que deseja adicionar aos seus favoritos
-"&lt;/li&gt;" 
-"&lt;li&gt;"Toque na estrela ao lado do nome do contacto
-"&lt;/li&gt;"
+"<li>Toque no separador <b>Contactos</b>"
+"</li>" 
+"<li>Toque no contacto que deseja adicionar aos seus favoritos
+"</li>"
+"<li>Toque na estrela ao lado do nome do contacto
+"</li>"
 "</string>
   <string name="noGroups">Sem grupos</string>
   <string name="noMatchingContacts">Não foram encontradas correspondências de contactos.</string>
@@ -853,7 +853,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_street">Rua</string>
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos que não têm imagem</string>
-  <string name="pref_key_photo_word_title">Atribuir imagem de contacto</string>
+  <string name="pref_key_photo_word_title">Atribuir imagem ao contacto</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
   <string name="pref_key_sim_manage">Cartões SIM</string>
@@ -891,8 +891,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_smart_group_company_title">Empresas</string>
   <string name="preference_smart_group_frequency_summary">Agrupar por mais recentes</string>
   <string name="preference_smart_group_frequency_title">Recentes</string>
-  <string name="preference_smart_group_location_summary">Agrupar por área geográfica</string>
-  <string name="preference_smart_group_location_title">Localização</string>
+  <string name="preference_smart_group_location_summary">Agrupar por código de área</string>
+  <string name="preference_smart_group_location_title">Locais</string>
   <string name="preference_smart_group_title">Grupos inteligentes</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
   <string name="preference_telocation_summary_countrycode_on">Marcar automaticamente o código do país</string>
@@ -1042,7 +1042,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sms_isdn">Mensagem para o ISDN</string>
   <string name="sms_main">Mensagem para o telefone principal</string>
   <string name="sms_mms">Mensagem MMS</string>
-  <string name="sms_mobile">Mensagem para o telefone</string>
+  <string name="sms_mobile">Mensagem para o telemóvel</string>
   <string name="sms_other">Mensagem</string>
   <string name="sms_other_fax">Mensagem para o fax</string>
   <string name="sms_pager">Mensagem para o pager</string>
@@ -1050,7 +1050,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sms_telex">Mensagem para o telex</string>
   <string name="sms_tty_tdd">Mensagem para o TTY/TDD</string>
   <string name="sms_work">Mensagem para o telefone do trabalho</string>
-  <string name="sms_work_mobile">Mensagem para o telefone do trabalho</string>
+  <string name="sms_work_mobile">Mensagem para o telemóvel do trabalho</string>
   <string name="sms_work_pager">Mensagem para o pager do trabalho</string>
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>
@@ -1065,8 +1065,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Importação concluída</string>
   <string name="summary_kind_title">Resumo</string>
-  <string name="t9_search_guide_pinyin">Introduza dígitos para pesquisar contactos</string>
-  <string name="t9_search_guide_zhuyin">Introduza dígitos para pesquisar contactos</string>
+  <string name="t9_search_guide_pinyin">Introduzir números para pesquisar contactos</string>
+  <string name="t9_search_guide_zhuyin">Introduzir números para pesquisar contactos</string>
   <string name="take_new_photo">Tirar nova foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Associar contactos</string>
@@ -1077,7 +1077,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>
   <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
-  <string name="toast_finish_delete_selected_call_log">Registos de chamadas eliminados</string>
+  <string name="toast_finish_delete_selected_call_log">Registo de chamadas eliminados</string>
   <string name="toast_for_failed_saving_nickname">Erro ao gravar alcunha</string>
   <string name="toast_for_saving_nickname">Alcunha guardada</string>
   <string name="toast_join_with_empty_contact">Escrever o nome do contacto antes de o juntar com outro</string>
@@ -1087,7 +1087,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="transfer_accounts">Transferir contas</string>
   <string name="type_incoming">Chamada recebida</string>
   <string name="type_missed">Chamada não atendida</string>
-  <string name="type_mx_msg">Mensagem Mi</string>
+  <string name="type_mx_msg">Mensagens Mi</string>
   <string name="type_outgoing">Chamada efectuada</string>
   <string name="type_voicemail">Mensagens de voz</string>
   <string name="unknow_phone_number_call_failed">Não é possível ligar para números desconhecidos</string>
@@ -1120,8 +1120,8 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail">Voice Mail</string>
   <string name="voicemail_buffering">A carregar…</string>
   <string name="voicemail_fetching_content">A procurar mensagem de voz…</string>
-  <string name="voicemail_fetching_timout">Não foi possível localizar a mensagem de voz.</string>
-  <string name="voicemail_playback_error">Não foi possível reproduzir a mensagem de voz.</string>
+  <string name="voicemail_fetching_timout">Não foi possível localizar a mensagem de voz</string>
+  <string name="voicemail_playback_error">Não foi possível reproduzir a mensagem de voz</string>
   <string name="voicemail_speed_faster">Velocidade rápida</string>
   <string name="voicemail_speed_fastest">Velocidade máxima</string>
   <string name="voicemail_speed_normal">Velocidade normal</string>
@@ -1130,9 +1130,9 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_action_call_server">Telefonar para o Voice Mail</string>
   <string name="voicemail_status_action_configure">Configurar</string>
   <string name="voicemail_status_audio_not_available">Áudio não disponível.</string>
-  <string name="voicemail_status_configure_voicemail">Configurar Voice Mail.</string>
-  <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor do Voice Mail. Novas mensagens de voz em espera.</string>
-  <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail.</string>
+  <string name="voicemail_status_configure_voicemail">Configurar Voice Mail</string>
+  <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor do Voice Mail. Novas mensagens de voz em espera</string>
+  <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail</string>
   <string name="voip_audio_description">Toque para fazer uma chamada VoIP</string>
   <string name="voip_contact_label">Voz Mi</string>
   <string name="voip_contacts_entry">Voz Mi</string>

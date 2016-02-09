@@ -35,7 +35,7 @@
   <string name="choose_open_time">Escolher quando quer começar</string>
   <string name="complete_time">Concluído:</string>
   <string name="confirm">OK</string>
-  <string name="confirm_delete_downloads_message">%d transferências irão ser eliminadas.</string>
+  <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas.</string>
   <string name="confirm_delete_the_download_item_message">Eliminar estas transferências?</string>
   <string name="continue_download">Continuar</string>
   <string name="copy">Copiar</string>
@@ -45,13 +45,13 @@
   <string name="delete">Eliminar</string>
   <string name="delete_download">Eliminar</string>
   <string name="delete_downloads_records">Eliminar transferências</string>
-  <string name="delete_the_downloaded_file">Ficheiros transferidos irão ser eliminados.</string>
+  <string name="delete_the_downloaded_file">Ficheiros transferidos vão ser eliminados.</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_subfile_all">Desmarcar tudo</string>
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser retomada.</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) no dispositivo?</string>
-  <string name="dialog_confirm_delete_downloads_message">%d transferências seleccionadas</string>
+  <string name="dialog_confirm_delete_downloads_message">Eliminar %d tarefas?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Transferência seleccionada</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe.</string>
@@ -148,7 +148,7 @@
   <string name="high_speed_channel">Acelerador Xunlei (pago):</string>
   <string name="high_speed_tryout">A velocidade de transferências é lenta. Torne-se um membro Xunlei.</string>
   <string name="high_speed_tryout_percent">Velocidade acelerada por %1$s. Torne-se um membro Xunlei.</string>
-  <string name="high_speed_tryout_percent_slow">Xunlei can keep boosting your speed</string>
+  <string name="high_speed_tryout_percent_slow">Xunlei pode continuar a impulsionar o aumento de velocidade</string>
   <string name="high_speed_tryout_speedup_confirm">A preparar para acelerar velocidade…</string>
   <string name="high_speed_tryout_time">Tempo de teste restante: %1$s. Torne-se um membro Xunlei.</string>
   <string name="hint">Atenção</string>
@@ -159,7 +159,7 @@
   <string name="installing">A instalar…</string>
   <string name="insufficient_space">Sem espaço suficiente</string>
   <string name="invalid_address">O caminho de ficheiro que introduziu é inválido</string>
-  <string name="jump_rank_hint">"Visualize a tabela de transferências de hoje &gt;"</string>
+  <string name="jump_rank_hint">Veja a tabela de transferências de hoje &gt;"</string>
   <string name="keep_queued_download">Manter</string>
   <string name="load_finish_hint">Pode continuar a ver amanhã</string>
   <string name="loading">Aguarde…</string>
@@ -207,7 +207,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir</string>
   <string name="period_of_validity">Validade:</string>
   <string name="pref_download_revert_default">Predefinido</string>
-  <string name="pref_download_settings_title">Limite do tamanho da transferência</string>
+  <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
   <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
   <string name="pref_sniff_shortcut">Criar atalho</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
@@ -331,7 +331,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="toast_xunlei_engine_open">Ligou acelerador de transferências Xunlei</string>
   <string name="torrent_file_error">"Não foi possível analisar este ficheiro torrent"</string>
   <string name="torrent_no_subfile">Sem ficheiros neste torrent</string>
-  <string name="total_speedup">Acelerador de velocidade (total)</string>
+  <string name="total_speedup">Velocidade acelerada (total)</string>
   <string name="turn_off_xunlei_message">Poderá detectar velocidades de transferência mais lentas.</string>
   <string name="turn_off_xunlei_tips">Acelerador de transferências Xunlei está desligado</string>
   <string name="turn_off_xunlei_title">Desligar Xunlei</string>
