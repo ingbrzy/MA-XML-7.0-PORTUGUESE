@@ -717,25 +717,25 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_list_mobile">Móvel</string>
   <string name="data_usage_list_none">Nenhum</string>
   <string name="data_usage_menu_auto_sync">Sincronização automática</string>
-  <string name="data_usage_menu_metered">Pontos de acesso móveis</string>
+  <string name="data_usage_menu_metered">Restrições de rede</string>
   <string name="data_usage_menu_restrict_background">Restringir dados em segundo plano</string>
   <string name="data_usage_menu_roaming">Dados em roaming</string>
   <string name="data_usage_menu_show_ethernet">Mostrar utilização de Ethernet</string>
   <string name="data_usage_menu_show_wifi">Mostrar utilização de Wi-Fi</string>
   <string name="data_usage_menu_split_4g">Separar utilização de 4G</string>
-  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas aplicações podem igualmente notificar antes de utilizarem essas redes para fazerem grandes transferências.</string>
+  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas podem igualmente notificar antes de utilizarem essas redes para fazerem grandes transferências.</string>
   <string name="data_usage_metered_mobile">Redes móveis</string>
-  <string name="data_usage_metered_title">Pontos de acesso móveis</string>
+  <string name="data_usage_metered_title">Restrições de rede</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
   <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi."
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi."</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi."
 
 Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
-  <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já estiver definido um limite de dados móveis.</string>
+  <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis.</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
   <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
 "&lt;font size="12"&gt;limite&lt;/font&gt;</string>

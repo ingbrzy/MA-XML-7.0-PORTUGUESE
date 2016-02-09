@@ -892,7 +892,7 @@ Algumas contas também podem copiar automaticamente para a Web qualquer alteraç
   <string name="data_usage_forground_label">Primeiro plano:</string>
   <string name="data_usage_label_background">Segundo plano</string>
   <string name="data_usage_label_foreground">Primeiro plano</string>
-  <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite especificado for atingido.
+  <string name="data_usage_limit_dialog_mobile">"A ligação de dados será desactivada quando o limite definido for atingido.
 
 Uma vez que a utilização de dados é medida pelo seu telefone e a sua operadora poderá reportar valores diferentes, considere utilizar um limite restrito."</string>
   <string name="data_usage_limit_dialog_title">Limitar utilização de dados</string>
@@ -911,15 +911,15 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="data_usage_menu_show_wifi">Mostrar utilização de Wi-Fi</string>
   <string name="data_usage_menu_sim_cards">Cartões SIM</string>
   <string name="data_usage_menu_split_4g">Separar utilização de 4G</string>
-  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas também podem avisar antes de utilizar estas redes para grandes transferências.</string>
+  <string name="data_usage_metered_body">Indicar quais as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes em segundo plano. As mesmas podem igualmente notificar antes de utilizarem essas redes para fazerem grandes transferências.</string>
   <string name="data_usage_metered_mobile">Redes móveis</string>
   <string name="data_usage_metered_title">Restrições de rede</string>
   <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-  <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso, ligue o Wi-Fi.</string>
-  <string name="data_usage_pick_cycle_day">Dia do mês para para repor o ciclo de utilização de dados:</string>
+  <string name="data_usage_metered_wifi_disabled">Para seleccionar um ponto de acesso ligue o Wi-Fi.</string>
+  <string name="data_usage_pick_cycle_day">Dia do mês para repor o ciclo de utilização de dados:</string>
   <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
-  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não irão funcionar a não ser que esteja ligado a uma rede Wi-Fi."</string>
+  <string name="data_usage_restrict_background">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi."</string>
+  <string name="data_usage_restrict_background_multiuser">"Se restringir os dados móveis em segundo plano algumas aplicações e serviços deixam de funcionar, excepto com uma ligação à rede Wi-Fi."</string>
   <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano apenas é possível quando já tiver definido um limite de dados móveis.</string>
   <string name="data_usage_summary_title">Utilização de dados</string>
@@ -1912,7 +1912,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="miui_allow_light">LED de notificações</string>
   <string name="miui_allow_music">Multimédia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
-  <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
+  <string name="miui_data_usage_menu_metered">Pontos de acesso móvel</string>
   <string name="miui_screensaver_show_time">Duração</string>
   <string name="miui_screensaver_show_time_select_title">Definir a duração de apresentação de diapositivos</string>
   <string name="miui_screensaver_state_off">Desligado</string>
