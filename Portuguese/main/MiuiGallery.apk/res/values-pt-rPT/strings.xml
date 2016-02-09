@@ -151,17 +151,17 @@
   <string name="cloud_album_more_settings">Sincronizar com Nuvem Mi</string>
   <string name="cloud_album_set_create">Novo</string>
   <string name="cloud_album_set_scan_qr_code">Código QR</string>
-  <string name="cloud_albums">Nuvem</string>
+  <string name="cloud_albums">Nuvem Mi</string>
   <string name="cloud_be_shared_guide_message">Visualizar as fotos dos seus amigos e adicionar as fotos ao álbum também.</string>
   <string name="cloud_be_shared_guide_title">Este álbum vem de um amigo</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
   <string name="cloud_folder_chooser_move">Eliminar imagens do álbum original</string>
-  <string name="cloud_full_tip_str">Sem espaço suficiente na Nuvem</string>
+  <string name="cloud_full_tip_str">Sem espaço suficiente na Nuvem Mi</string>
   <string name="cloud_gallery_recyclebin_full">O lixo está cheio. Esvazie o lixo em www.mi.com/micloud.</string>
   <string name="cloud_gallery_space_full">Sem espaço suficiente na Nuvem Mi</string>
   <string name="cloud_gallery_space_full_buy_more">"Não é possível sincronizar mais fotos com a Nuvem Mi. Para sincronizar mais fotos, compre espaço adicional."</string>
   <string name="cloud_gallery_space_full_title">Nuvem Mi está cheia</string>
-  <string name="cloud_media_set_set">Nuvem</string>
+  <string name="cloud_media_set_set">Nuvem Mi</string>
   <string name="cloud_owner_album_share_guide">"Partilhar este álbum
 com amigos"</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
@@ -257,7 +257,7 @@ com amigos"</string>
   <string name="effect">Filtros</string>
   <string name="email_picker_title">Adicionar Email partilhado</string>
   <string name="enable">Ligar</string>
-  <string name="enable_cloud_for_sharing">Tem de ligar os álbuns na Nuvem para ver as fotos partilhadas.</string>
+  <string name="enable_cloud_for_sharing">Para ver as fotos partilhadas tem de ligar os álbuns na Nuvem Mi.</string>
   <string name="enabling_face_feature">Aguarde…</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -347,7 +347,7 @@ com amigos"</string>
   <string name="highlight">Destaques</string>
   <string name="highlight_abbr">H</string>
   <string name="home_my_captured_items">" fotos da câmara"</string>
-  <string name="home_page_tab_cloud">Nuvem</string>
+  <string name="home_page_tab_cloud">Nuvem Mi</string>
   <string name="home_page_tab_face">Pessoas</string>
   <string name="home_page_tab_local">Dispositivo</string>
   <string name="home_page_tab_photo">Fotos</string>
@@ -488,7 +488,7 @@ dispositivo"</string>
   <string name="no_network_connected">Sem redes detectadas</string>
   <string name="no_picture_or_video">Vazio</string>
   <string name="no_secret_photo">Sem fotos ocultas</string>
-  <string name="no_storage_disable_cloud_albums">Nuvem está indisponível.</string>
+  <string name="no_storage_disable_cloud_albums">Nuvem Mi está indisponível.</string>
   <string name="no_such_album">Álbum não encontrado</string>
   <string name="no_such_item">Não foi possível encontrar item</string>
   <string name="no_thumbnail">Sem miniatura</string>
@@ -712,7 +712,7 @@ dispositivo"</string>
   <string name="sync_album_set_error">"Não é possível sincronizar fotos. Verifique a sua ligação e tente novamente."</string>
   <string name="sync_album_summary">Sincronizar com a Nuvem Mi</string>
   <string name="sync_battery_low">Bateria fraca</string>
-  <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem</string>
+  <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem Mi</string>
   <string name="sync_history_power_on">Sincronizar histórico de imagens apenas quando estiver a carregar</string>
   <string name="sync_in_progress_message">A transferir álbuns…</string>
   <string name="sync_only_in_wifi">Utilizar apenas Wi-Fi para sincronizar fotos</string>
