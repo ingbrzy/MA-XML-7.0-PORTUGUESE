@@ -720,7 +720,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="children_mode_enable_title">Modo criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
   <string name="children_mode_tips_off">Após ligar o modo criança, toque no botão início para voltar ao ecrã inicial</string>
-  <string name="children_mode_tips_on">Após desligar o modo criança, toque no botão início para retornar ao ecrã inicial</string>
+  <string name="children_mode_tips_on">Após desligar o modo criança, toque no botão início para voltar ao ecrã inicial</string>
   <string name="children_mode_title">Modo criança</string>
   <string name="choose_assist_title">Escolher aplicação de assistência</string>
   <string name="choose_profile">Escolher perfil</string>
@@ -762,7 +762,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas atividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade.</string>
-  <string name="confirm_enable_multi_window_title">Activar o modo multijanelas??</string>
+  <string name="confirm_enable_multi_window_title">Activar o modo multijanelas?</string>
   <string name="confirm_enable_oem_unlock_text">AVISO: as funcionalidades de protecção do dispositivo não funcionam neste dispositivo enquanto esta definição estiver activada.</string>
   <string name="confirm_enable_oem_unlock_title">Pretende permitir o desbloqueio de OEM?</string>
   <string name="confirm_erase">Eliminar</string>
@@ -1025,7 +1025,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="device_sd_memory">Cartão SD</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
-  <string name="device_status_summary">Número de telefone, sinal, etc.</string>
+  <string name="device_status_summary">Número de telefone, sinal, etc</string>
   <string name="dial_pad_tones_title">Sons do teclado</string>
   <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
   <string name="dialog_no">Não</string>
@@ -1041,7 +1041,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
-  <string name="disabled_because_no_backup_security">Para utilizar, defina primeiro um bloqueio de ecrã</string>
+  <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
   <string name="disconnect">Desligar</string>
   <string name="display_auto_rotate_rotate">Ligado</string>
   <string name="display_auto_rotate_stay_in_current">Desligado</string>
@@ -1056,7 +1056,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="display_settings_title">Ecrã</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_close">Fechar</string>
-  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até ligar novamente o armazenamento USB.</string>
+  <string name="dlg_confirm_unmount_text">Se desmontar o armazenamento USB, algumas aplicações que estão em utilização serão interrompidas e podem não estar disponíveis até montar novamente o armazenamento USB.</string>
   <string name="dlg_confirm_unmount_title">Desmontar armazenamento USB?</string>
   <string name="dlg_error_unmount_text">Não é possível desmontar o armazenamento USB. Tente novamente mais tarde.</string>
   <string name="dlg_error_unmount_title"/>
