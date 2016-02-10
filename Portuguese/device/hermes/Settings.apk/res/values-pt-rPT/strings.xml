@@ -8,7 +8,7 @@
   <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
   <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>
   <string name="accelerometer_summary_on">Trocar orientação automaticamente ao rodar o telefone</string>
-  <string name="accelerometer_title">Rodar o ecrã automaticamente</string>
+  <string name="accelerometer_title">Rodar ecrã automaticamente</string>
   <string name="access_control_app_entry_multiple">Abrir %s</string>
   <string name="access_control_app_entry_single">Abrir aplicação</string>
   <string name="access_control_need_password">"Aplicação %s foi protegida
@@ -243,7 +243,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="background_process_stop_description">Este é um processo de uma aplicação antiga que está em execução no caso de ser necessário novamente. Por norma não existe nenhuma razão para o parar.</string>
   <string name="backup_configure_account_default_summary">Nenhuma conta está actualmente a armazenar a cópia de segurança</string>
   <string name="backup_configure_account_title">Conta de cópia de segurança</string>
-  <string name="backup_data_summary">Fazer cópia de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para servidores Google</string>
+  <string name="backup_data_summary">Fazer cópia de segurança dos dados das aplicações, palavras-passe de Wi-Fi e outras definições para os servidores da Google</string>
   <string name="backup_data_title">Cópia de segurança</string>
   <string name="backup_erase_dialog_message">Parar de fazer a cópia de segurança das suas definições, dados de aplicações e eliminar todas as cópias de segurança nos servidores Google?</string>
   <string name="backup_erase_dialog_title"/>
@@ -898,7 +898,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_alarm_content_event_and_sms">Notificações e mensagens</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
-  <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
+  <string name="dndm_auto_button_title">Repetir hora de não incomodar</string>
   <string name="dndm_auto_setting_group">Agendado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
@@ -3281,7 +3281,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="zen_mode_when">Ligar automaticamente</string>
   <string name="zen_mode_when_every_night">Todas as noites</string>
   <string name="zen_mode_when_never">Nunca</string>
-  <string name="zen_mode_when_weeknights">Noites de semana</string>
+  <string name="zen_mode_when_weeknights">Noites de dias úteis</string>
   <string name="zone_auto">Fuso horário automático</string>
   <string name="zone_auto_summaryOff">Utilizar fuso horário fornecido na rede</string>
   <string name="zone_auto_summaryOn">Utilizar fuso horário fornecido na rede</string>
