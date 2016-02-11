@@ -2,7 +2,7 @@
 <resources>
   <string name="all_call_livetalk_enable">A utilizar pacote de carregamento para chamadas nacionais e internacionais</string>
   <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) ou (%2$s internacionais)</string>
-  <string name="alwaysUsePrompt">Memorizar esta escolha</string>
+  <string name="alwaysUsePrompt">Memorizar esta escolha?</string>
   <string name="apply_password_action">Definir palavra-passe</string>
   <string name="apply_password_confirm_dlg_msg">Exigir palavra-passe para %s​?</string>
   <string name="apply_password_confirm_dlg_title">Esta palavra-passe irá ser utilizada para %s</string>
@@ -25,8 +25,8 @@
 Para ligar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="fm_record_smaple_prefix_miui">Gravação de Rádio FM</string>
   <string name="force_exit_message">Forçar encerrar %1$s</string>
-  <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema.</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Para voltar ao ecrã inicial prima o botão Início. Como alternativa pode apenas fazê-lo com um toque no ecrã. Personalize o botão Início em Definições &gt; Definições adicionais &gt; Botões.</string>
+  <string name="force_exit_skip_message">Não é possível fechar %1$s porque é necessário ao sistema</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Para voltar ao ecrã inicial prima o botão Início. Como alternativa pode apenas fazê-lo com um toque no ecrã. Personalize o botão Início em Definições &gt; Definições adicionais &gt; Botões</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Não obrigado</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Personalizar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Personalizar o botão Início</string>
@@ -91,7 +91,7 @@ Para ligar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="status_bar_toggle_ac">Bloquear Apps</string>
   <string name="status_bar_toggle_auto_brightness">Brilho Auto</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_data">Dados Móveis</string>
+  <string name="status_bar_toggle_data">Dados móveis</string>
   <string name="status_bar_toggle_flight_mode">Modo de Avião</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Bloquear</string>
@@ -103,7 +103,7 @@ Para ligar este recurso, ir a Definições &gt; Sistema &gt; Botões"</string>
   <string name="status_bar_toggle_quiet_mode">Não incomodar</string>
   <string name="status_bar_toggle_rotate">Rotação</string>
   <string name="status_bar_toggle_screen_button">Botões</string>
-  <string name="status_bar_toggle_screenshot">Captura de Ecrã</string>
+  <string name="status_bar_toggle_screenshot">Captura de ecrã</string>
   <string name="status_bar_toggle_sync">Sincronizar</string>
   <string name="status_bar_toggle_torch">Lanterna</string>
   <string name="status_bar_toggle_vibrate">Vibrar</string>
