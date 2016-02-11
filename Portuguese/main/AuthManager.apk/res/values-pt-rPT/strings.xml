@@ -227,7 +227,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_process_nfc_Desc">Aceder ao hardware de NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder aplicação Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizar e terminar chamadas</string>
-  <string name="HIPS_Perm_use_sip">Serviços de Vídeo</string>
+  <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">Utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
@@ -246,7 +246,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_SecurityPrompt_Remember">Lembrar preferências</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s está a tentar %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d permissões</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d permissões - &lt;font color=#478800&gt;Confiável&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d permissões - <font color="#478800">Confiável</font></string>
   <string name="Privacy_App_Finish">OK</string>
   <string name="Privacy_App_Installed">Instalada com sucesso</string>
   <string name="Privacy_App_Launch">Executar</string>

@@ -1042,7 +1042,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
-  <string name="disconnect">Desligar</string>
+  <string name="disconnect">desligar</string>
   <string name="display_auto_rotate_rotate">Ligado</string>
   <string name="display_auto_rotate_stay_in_current">Desligado</string>
   <string name="display_auto_rotate_stay_in_landscape">Bloquear na vista de paisagem</string>
@@ -1080,7 +1080,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_auto_time_turn_on">De</string>
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
-  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não perturbar estiver ligado.</string>
+  <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não incomodar estiver ligado</string>
   <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não incomodar está ligado</string>
@@ -2968,7 +2968,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="storage_detail_apps">Aplicações</string>
   <string name="storage_detail_audio">Áudio</string>
   <string name="storage_detail_cached">Dados em cache</string>
-  <string name="storage_detail_dialog_other">"Diversos incluem ficheiros guardados pelas aplicações, ficheiros transferidos da internet ou do Bluetooth, ficheiros Android, etc. 
+  <string name="storage_detail_dialog_other">"Diversos incluem ficheiros guardados pelas aplicações, ficheiros transferidos da internet ou do Bluetooth, ficheiros Android, etc.
 
 Para ver todos os conteúdos deste ^1, toque em Explorar."</string>
   <string name="storage_detail_dialog_user">"^1 pode ter fotos, música, filmes, aplicações ou outros dados guardados que estejam a utilizar ^2 de armazenamento. 
