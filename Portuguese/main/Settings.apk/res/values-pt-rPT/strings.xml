@@ -963,7 +963,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="enable_wifi_display">Visualização sem fios</string>
   <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicações devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até serem actualizado pelos seus programadores."</string>
+Algumas aplicações podem não funcionar até serem actualizadas pelos seus programadores."</string>
   <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
   <string name="enforce_read_external_summary">Aplicações devem pedir permissão para ler o armazenamento USB</string>
   <string name="enforce_read_external_title">Proteger armazenamento USB</string>
@@ -999,14 +999,14 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="filter">Filtro</string>
   <string name="filter_apps_all">Todas</string>
   <string name="filter_apps_cached">Em cache</string>
-  <string name="filter_apps_disabled">Desactivado</string>
+  <string name="filter_apps_disabled">Desactivadas</string>
   <string name="filter_apps_onsdcard">Armazenamento USB</string>
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
   <string name="fingerprint_and_password_entrance_title">Palavra-passe e impressão digital</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
-  <string name="fingerprint_identify_input_password_msg">Introduza palavra-passe</string>
+  <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar paragem</string>
@@ -1028,7 +1028,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone e menus de sistema.
 
 "</string>
-  <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
+  <string name="font_size_summary1">"Se o tamanho do seu texto ainda é muito pequeno, tente "</string>
   <string name="font_size_summary2">Modo Reduzido</string>
   <string name="force_hw_ui">Forçar renderização de GPU</string>
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
@@ -1037,7 +1037,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
-  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação ela poderá deixar de funcionar normalmente.</string>
+  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta poderá funcionar mal.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
   <string name="forget_password_button_text"><u>Esqueceu o padrão?</u></string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente.</string>
@@ -1048,7 +1048,7 @@ Algumas aplicações podem não funcionar até serem actualizado pelos seus prog
   <string name="free_wifi_connect_dialog_summary">%1$s é fornecido por %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponível</string>
   <string name="free_wifi_connect_fail">Não foi possível ligação à rede. Verifique a sua ligação de dados e tente novamente.</string>
-  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde alguns minutos e tente novamente.</string>
+  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde um minuto ou dois e tente novamente.</string>
   <string name="free_wifi_connect_summary">Toque para ligar a %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponível</string>
   <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>

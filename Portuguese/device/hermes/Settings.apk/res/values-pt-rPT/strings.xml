@@ -1032,7 +1032,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="error_title"/>
   <string name="every_day">Todos os dias</string>
   <string name="experience_optimization_category">Optimização</string>
-  <string name="experimental_preference">(em testes)</string>
+  <string name="experimental_preference">(Experimental)</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no cartão SD</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
@@ -1045,14 +1045,14 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter">Filtro</string>
   <string name="filter_apps_all">Todas</string>
   <string name="filter_apps_cached">Em cache</string>
-  <string name="filter_apps_disabled">Desactivado</string>
+  <string name="filter_apps_disabled">Desactivadas</string>
   <string name="filter_apps_onsdcard">Armazenamento USB</string>
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
   <string name="fingerprint_and_password_entrance_title">Palavra-passe e impressão digital</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
-  <string name="fingerprint_identify_input_password_msg">Introduza palavra-passe</string>
+  <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar paragem</string>
@@ -1074,7 +1074,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone e menus de sistema.
 
 "</string>
-  <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
+  <string name="font_size_summary1">"Se o tamanho do seu texto ainda é muito pequeno, tente "</string>
   <string name="font_size_summary2">Modo Reduzido</string>
   <string name="force_hw_ui">Forçar renderização de GPU</string>
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
@@ -1083,7 +1083,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
-  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação ela poderá deixar de funcionar normalmente.</string>
+  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta poderá funcionar mal.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
   <string name="forget_password_button_text"><u>Esqueceu o padrão?</u></string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente.</string>
@@ -1094,7 +1094,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="free_wifi_connect_dialog_summary">%1$s é fornecido por %2$s.</string>
   <string name="free_wifi_connect_dialog_title">Wi-Fi disponível</string>
   <string name="free_wifi_connect_fail">Não foi possível ligação à rede. Verifique a sua ligação de dados e tente novamente.</string>
-  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Espere um minuto ou dois e tente novamente.</string>
+  <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Aguarde um minuto ou dois e tente novamente.</string>
   <string name="free_wifi_connect_summary">Toque para ligar a %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponível</string>
   <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>

@@ -1282,7 +1282,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
-  <string name="fingerprint_identify_input_password_msg">Introduza palavra-passe</string>
+  <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
   <string name="fingerprint_last_delete_confirm">Sim, remover</string>
@@ -1311,7 +1311,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="font_size_summary">"Alterar o tamanho do texto para o ecrã inicial, notificações, telefone, e menus de sistema.
 
 "</string>
-  <string name="font_size_summary1">"Se o seu tamanho do texto ainda é muito pequeno, tente "</string>
+  <string name="font_size_summary1">"Se o tamanho do seu texto ainda é muito pequeno, tente "</string>
   <string name="font_size_summary2">Modo Reduzido</string>
   <string name="force_hw_ui">Forçar renderização de GPU</string>
   <string name="force_hw_ui_summary">Forçar a utilização do GPU para aplicações 2D</string>
@@ -1320,10 +1320,10 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="force_rtl_layout_all_locales">Forçar direcção do RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força da direcção RTL da disposição do ecrã de para todos os locais</string>
   <string name="force_stop">Forçar paragem</string>
-  <string name="force_stop_dlg_text">Se forçar a paragem de uma aplicação, ele pode funcionar mal.</string>
+  <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, esta poderá funcionar mal.</string>
   <string name="force_stop_dlg_title">Forçar paragem?</string>
   <string name="forget">Esquecer</string>
-  <string name="forget_password_button_text"><u>Esqueceu palavra-passe</u></string>
+  <string name="forget_password_button_text"><u>Esqueceu o padrão?</u></string>
   <string name="forget_wifi_message">O seu telefone deixará de ligar a esta rede automaticamente.</string>
   <string name="found_new_version">Actualização disponível</string>
   <string name="fp_nav_center_back_to_home_title">Toque no botão Início para voltar ao ecrã inicial</string>
