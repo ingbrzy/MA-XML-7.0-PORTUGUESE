@@ -340,8 +340,8 @@
   <string name="disable_cfb_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando está ocupado.</string>
   <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando o telefone está inacessível.</string>
   <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando não atende.</string>
-  <string name="disable_fdn">Desactivar NMF</string>
-  <string name="disable_fdn_ok">Activar NMF</string>
+  <string name="disable_fdn">Desactivar FDN</string>
+  <string name="disable_fdn_ok">Activar FDN</string>
   <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
   <string name="disable_sim_pin">Desactivar o PIN do SIM</string>
   <string name="disconnect_data_confirm">Serviço de dados será temporariamente desligado. Tem a certeza?</string>
@@ -391,8 +391,8 @@
   <string name="enable_disable_retail_directory">Directório de retalho</string>
   <string name="enable_disable_stock_quotes">Cotação de acções</string>
   <string name="enable_disable_technology_news">Notícias sobre Tecnologia</string>
-  <string name="enable_fdn">Activar NMF</string>
-  <string name="enable_fdn_ok">Desactivar NMF</string>
+  <string name="enable_fdn">Activar FDN</string>
+  <string name="enable_fdn_ok">Desactivar FDN</string>
   <string name="enable_in_progress">Aguarde…</string>
   <string name="enable_pin">PIN do SIM</string>
   <string name="enable_pin_ok">O PIN do SIM está activo.</string>
@@ -438,20 +438,20 @@
   <string name="fake_phone_activity_placeCall_text">Chamada falsa</string>
   <string name="fdn">Números de marcação fixa</string>
   <string name="fdnListLabel">Lista FDN</string>
-  <string name="fdn_activation">Activação NMF</string>
+  <string name="fdn_activation">Activação FDN</string>
   <string name="fdn_check_failure">Só pode enviar mensagens para os números de marcação fixa.</string>
   <string name="fdn_contact_added">Número de marcação fixa adicionado.</string>
   <string name="fdn_contact_deleted">Número de marcação fixa eliminado.</string>
   <string name="fdn_contact_updated">Número de marcação fixa actualizado.</string>
-  <string name="fdn_contacts_empty">Não existem contactos na lista NMF.</string>
+  <string name="fdn_contacts_empty">Não existem contactos na lista FDN.</string>
   <string name="fdn_disabled">Números de marcação fixa desligado</string>
   <string name="fdn_enable_puk2_requested">Palavra-passe errada, o PIN2 está Bloqueado. Tente novamente e altere o PIN2.</string>
   <string name="fdn_enabled">Números de marcação fixa estão ligados</string>
   <string name="fdn_failed">Erro na operação FDN.</string>
   <string name="fdn_full">"FDN não foi actualizado porque a lista está cheia."</string>
-  <string name="fdn_invalid_number">NMF não foi actualizado porque o número não pode exceder 20 dígitos.</string>
+  <string name="fdn_invalid_number">FDN não foi actualizado porque o número não pode exceder 20 dígitos.</string>
   <string name="fdn_service_unavailable">Serviço FDN não disponível.</string>
-  <string name="fdn_summary">Restringir chamadas para lista NMF ou para números com determinados prefixos</string>
+  <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="feedback">Feedback</string>
   <string name="flash_when_ring_summary">A luz do flash pisca para as chamadas recebidas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
@@ -652,7 +652,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="maintenance_disable">Manutenção desactivada</string>
   <string name="maintenance_enable">Manutenção activa</string>
   <string name="manageConferenceLabel">Gerir chamadas de conferência</string>
-  <string name="manage_fdn_list">Lista NMF</string>
+  <string name="manage_fdn_list">Lista FDN</string>
   <string name="managed_roaming_dialog_cancel_button">Não</string>
   <string name="managed_roaming_dialog_content">Rede com serviços limitados encontrada. Quer iniciar uma pesquisa de rede?</string>
   <string name="managed_roaming_dialog_ok_button">Sim</string>
@@ -898,7 +898,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais inf
   <string name="pin2_attempts">"
 There are %d remaining attempts."</string>
   <string name="pin2_changed">O PIN2 do cartão SIM foi alterado.</string>
-  <string name="pin2_invalid">NMF não foi actualizado porque introduziu um código PIN incorrecto.</string>
+  <string name="pin2_invalid">FDN não foi actualizado porque introduziu um código PIN incorrecto.</string>
   <string name="pin2_invalid_or_name_is_too_long">Digitou um código PIN inválido ou o nome que introduziu é muito comprido</string>
   <string name="pin2_lock_warning">"
 Funções relacionadas o código PIN2 serão bloqueadas depois de outra tentativa falhada"</string>
@@ -912,7 +912,7 @@ Restam %d tentativas."</string>
 O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar o PIN…</string>
   <string name="pin_progress_change_pin2">A alterar o PIN2…</string>
-  <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio NMF…</string>
+  <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio FDN…</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC…</string>
   <string name="pin_progress_unlock_icc">A desbloquear o cartão SIM…</string>
   <string name="place_a_call1">Subscrição 1</string>
@@ -1196,7 +1196,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sum_cw_enabled">Durante uma chamada notificar quando existirem chamadas em espera</string>
   <string name="sum_default_caller_id">Utilizar as definições predefinidas da operadora para mostrar o meu número</string>
   <string name="sum_fdn">Gerir chamadas de números fixos</string>
-  <string name="sum_fdn_change_pin">Alterar o código PIN de acesso a NMF</string>
+  <string name="sum_fdn_change_pin">Alterar o código PIN de acesso a FDN</string>
   <string name="sum_fdn_manage_list">Gerir a lista de números fixos</string>
   <string name="sum_gsm_call_settings">Definições adicionais apenas de chamada GSM</string>
   <string name="sum_hide_caller_id">Ocultar o meu número</string>

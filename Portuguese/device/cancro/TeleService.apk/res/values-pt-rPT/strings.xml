@@ -419,7 +419,7 @@
   <string name="fdn_full">"FDN não foi actualizado porque a lista está cheia."</string>
   <string name="fdn_invalid_number">FDN não foi actualizado porque o número não pode exceder 20 dígitos.</string>
   <string name="fdn_list_with_label">Lista FDN (%s)</string>
-  <string name="fdn_summary">Restringir chamadas para lista NMF ou para números com determinados prefixos</string>
+  <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
   <string name="feedback">Feedback</string>
   <string name="flash_when_ring_summary">A luz do flash pisca para as chamadas recebidas</string>
@@ -838,7 +838,7 @@ Funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falh
 O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar PIN…</string>
   <string name="pin_progress_change_pin2">A alterar PIN2…</string>
-  <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio NMF…</string>
+  <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio FDN…</string>
   <string name="pin_progress_set_icc_lock">A definir o estado de bloqueio ICC…</string>
   <string name="pin_progress_unlock_icc">A desbloquear cartão SIM…</string>
   <string name="port_title">Número da porta</string>

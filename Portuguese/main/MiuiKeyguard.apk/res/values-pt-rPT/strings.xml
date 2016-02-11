@@ -30,8 +30,8 @@
   <string name="invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
   <string name="invalid_sim_puk_hint">Código PUK deve ter 8 ou mais números</string>
   <string name="keyguard_torch_cover_text">Para manter a lanterna ligada prima o botão de Ligar/Desligar</string>
-  <string name="lock_screen_date">"EEE, d 'de' MMMM"</string>
-  <string name="lock_screen_date_12">"EEE, d 'de' MMMM"</string>
+  <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
+  <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
