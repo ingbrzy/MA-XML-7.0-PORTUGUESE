@@ -1082,14 +1082,14 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="game_controller_settings_category">Controlador de jogo</string>
   <string name="gesture_wakeup_title">Toque duplo no ecrã para despertar</string>
   <string name="global_change_warning">Estas definições afectam todos os utilizadores do telefone.</string>
-  <string name="global_font_change_title">Alterar o tamanho do tipo de letra</string>
-  <string name="global_locale_change_title">Alterar o idioma</string>
+  <string name="global_font_change_title">Alterar tamanho do tipo de letra</string>
+  <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_section_title">Cópia do Google e restauro</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo de uma mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão início para puxar a imagem do ecrã para uma das extremidades.</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar o ecrã para mais perto de um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -1141,7 +1141,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="home_app_uninstall_button">Desinstalar esta aplicação</string>
   <string name="home_key">Início</string>
   <string name="home_settings">Início</string>
-  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe e números de cartões de crédito e outros dados pessoais.</string>
+  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe, números de cartões de crédito e outros dados pessoais.</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
   <string name="immediately_destroy_activities_summary">Destruir todas as actividades assim que forem abandonadas</string>
   <string name="ims_reg_required_off">Desactivar registo obrigatório IMS</string>

@@ -1381,8 +1381,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_section_title">Cópia do Google e restauro</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
-  <string name="handy_mode">Modo de Uma mão</string>
-  <string name="handy_mode_enter_ask">Perguntar antes de entrar no Modo de Uma mão</string>
+  <string name="handy_mode">Modo de uma mão</string>
+  <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
   <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar o ecrã para mais perto de um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
@@ -1466,7 +1466,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="ignore_optimizations_on">Não optimizar</string>
   <string name="ignore_optimizations_on_desc">Pode descarregar a bateria mais rapidamente</string>
   <string name="ignore_optimizations_title">Permitir que %s ignore as otimizações da bateria?</string>
-  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe e números de cartões de crédito e outros dados pessoais.</string>
+  <string name="ime_security_warning">%1$s pode gravar todo o texto que introduzir, incluindo palavras-passe, números de cartões de crédito e outros dados pessoais.</string>
   <string name="imei_information_summary">Informações relativas ao IMEI</string>
   <string name="imei_information_title">Informações do IMEI</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
@@ -1492,7 +1492,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
   <string name="input_settings">Definições de entrada</string>
-  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações.</string>
+  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar do uso dessas aplicações?</string>
   <string name="install_applications">Fontes desconhecidas</string>
   <string name="install_applications_title">Permitir todas as fontes de aplicações</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>

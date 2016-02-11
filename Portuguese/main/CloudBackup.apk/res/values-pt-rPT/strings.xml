@@ -93,7 +93,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial.</string>
   <string name="query_restore_summary">Encontrou uma cópia Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias Nuvem Mi anteriores?</string>
   <string name="recover_from_micloud">Restaurar da Nuvem Mi</string>
-  <string name="recover_home_settings">Restaurar definições do ecrã de início</string>
+  <string name="recover_home_settings">Restaurar definições do ecrã inicial</string>
   <string name="recover_miui_settings">Restaurar definições de sistema</string>
   <string name="recover_settings_description">Mantenha o seu dispositivo ligado</string>
   <string name="recovering">A restaurar %s</string>
