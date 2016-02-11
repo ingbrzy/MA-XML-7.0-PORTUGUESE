@@ -1018,7 +1018,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
   <string name="erase_data">Eliminar</string>
   <string name="erase_external_storage">Apagar armazenamento USB</string>
-  <string name="erase_external_storage_description">Elimina todos os dados do armazenamento USB, como música e fotos</string>
+  <string name="erase_external_storage_description">Eliminar todos os dados do armazenamento USB, como música e fotos</string>
   <string name="erase_internal_storage">Eliminar o conteúdo armazenado</string>
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
@@ -1477,7 +1477,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;armaze
   <string name="master_clear_personal_data">Eliminar toda a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_personal_data_application">Eliminar toda a sua informação pessoal e aplicações transferidas? Não pode reverter esta acção!</string>
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
-  <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
+  <string name="master_clear_summary">Formatar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
   <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital elimine primeiro uma impressão digital existente."</string>
   <string name="media_button">Botão multimédia</string>
@@ -1489,7 +1489,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;armaze
   <string name="media_format_final_desc">Apagar o armazenamento USB e eliminar todos os ficheiros armazenados? A acção não pode ser revertida!</string>
   <string name="media_format_gesture_explanation">É necessário desenhar o seu padrão de desbloqueio para apagar o armazenamento USB.</string>
   <string name="media_format_gesture_prompt">Desenhar o seu padrão de desbloqueio</string>
-  <string name="media_format_summary">Elimina todos os dados no armazenamento USB</string>
+  <string name="media_format_summary">Eliminar todos os dados no armazenamento USB</string>
   <string name="media_format_title">Apagar armazenamento USB</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
@@ -2141,7 +2141,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="sd_ejecting_summary">Desmontagem em curso…</string>
   <string name="sd_ejecting_title">A desmontar</string>
   <string name="sd_format">Apagar armazenamento USB</string>
-  <string name="sd_format_summary">Elimina todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
+  <string name="sd_format_summary">Eliminar todos os dados no dispositivo de armazenamento USB interno, como música e fotos</string>
   <string name="sd_insert_summary">Insira um armazenamento USB para montar</string>
   <string name="sd_memory">Armazenamento USB</string>
   <string name="sd_mount">Montar armazenamento USB</string>
@@ -2435,7 +2435,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_up_time">Tempo de actividade</string>
   <string name="status_wifi_mac_address">Endereço MAC Wi-Fi</string>
   <string name="status_wimax_mac_address">Endereço MAC 4G</string>
-  <string name="storage_format">Apagar</string>
+  <string name="storage_format">Formatar</string>
   <string name="storage_label">Armazenamento</string>
   <string name="storage_low_summary">Algumas funções do sistema, como a sincronização poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdos multimédia ou aplicações.</string>
   <string name="storage_low_title">O espaço de armazenamento está a chegar ao fim</string>
@@ -2660,7 +2660,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usb_media_format_desc">Eliminar todos os dados do armazenamento USB? Vai perder <b>todos</b> os dados guardados no armazenamento!</string>
   <string name="usb_media_format_final_desc">"Apagar o armazenamento USB e eliminar todos os ficheiros? Não pode reverter esta acção!"</string>
   <string name="usb_media_format_gesture_explanation">É necessário desenhar o padrão de desbloqueio para confirmar que deseja apagar o armazenamento USB.</string>
-  <string name="usb_media_format_summary">Elimina todos os dados no armazenamento USB</string>
+  <string name="usb_media_format_summary">Eliminar todos os dados no armazenamento USB</string>
   <string name="usb_media_format_title">Apagar armazenamento USB</string>
   <string name="usb_mount">Montar armazenamento USB</string>
   <string name="usb_mount_summary"/>

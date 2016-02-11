@@ -354,7 +354,7 @@ utilizando %s"</string>
   <string name="ext_media_safe_unmount_notification_title">Remover com segurança o armazenamento USB</string>
   <string name="ext_media_unmountable_notification_message">A memória do armazenamento USB está danificada. Tente formatar novamente.</string>
   <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
-  <string name="extmedia_format_button_format">Apagar</string>
+  <string name="extmedia_format_button_format">Formatar</string>
   <string name="extmedia_format_message">Todos os ficheiros guardados no armazenamento USB serão eliminados. Não será possível reverter a acção!</string>
   <string name="extmedia_format_title">Formatar a unidade de armazenamento USB?</string>
   <string name="extract_edit_menu_button">Editar</string>
@@ -1370,7 +1370,7 @@ Tentativas restantes :"</string>
   <string name="policylab_resetPassword">Alterar a palavra-passe do desbloqueio de ecrã</string>
   <string name="policylab_setGlobalProxy">Definir o proxy global do dispositivo</string>
   <string name="policylab_watchLogin">Monitorizar tentativas de desbloqueio do ecrã</string>
-  <string name="policylab_wipeData">Apagar todos os dados</string>
+  <string name="policylab_wipeData">Formatar todos os dados</string>
   <string name="postalTypeCustom">Personalizado</string>
   <string name="postalTypeHome">Casa</string>
   <string name="postalTypeOther">Outro</string>
