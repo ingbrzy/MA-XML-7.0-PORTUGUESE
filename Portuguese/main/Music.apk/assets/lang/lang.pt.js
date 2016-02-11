@@ -38,7 +38,7 @@
 	"alert_title_vip_songs": "Subscrição Premium",
 	"alert_title_vip_songs_upgrade": "Actualizar a sua subscrição Premium",
 	"already_favorited": "Já foi adicionada aos favoritos",
-	"back_confirm": "Toque novamente para sair",
+	"back_confirm": "Toque voltar novamente para pôr a aplicação em segundo plano",
 	"buy_vip": "Obter subscrição Premium",
 	"confirm_download": "Transferir",
 	"download_auto_after_favorite_no_vip_summary": "Transferir automaticamente músicas que adicionou aos favoritos (Excepto conteúdo pago)",
