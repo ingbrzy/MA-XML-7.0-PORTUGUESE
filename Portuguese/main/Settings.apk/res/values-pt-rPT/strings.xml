@@ -1183,7 +1183,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="internal_format">Formatar armazenamento interno</string>
   <string name="internal_format_summary">Formatar todos os dados no armazenamento interno</string>
   <string name="internal_media_format_button_text">Formatar armazenamento interno</string>
-  <string name="internal_media_format_desc">Formatar o armazenamento interno? &lt;b&gt;Todos&lt;/b&gt; os seus dados serão eliminados permanentemente. O telefone reiniciará após o armazenamento interno ser formatado.</string>
+  <string name="internal_media_format_desc">Formatar o armazenamento interno? <b>Todos</b> os seus dados serão eliminados permanentemente. O telefone reiniciará após o armazenamento interno ser formatado.</string>
   <string name="internal_media_format_final_desc">Formatar o armazenamento interno? Não pode reverter esta acção! O telefone reiniciará após o armazenamento interno ser formatado.</string>
   <string name="internal_media_format_title">Formatar o armazenamento interno</string>
   <string name="internal_memory">Armazenamento interno</string>
@@ -1203,7 +1203,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="key_settings_title">Botões</string>
   <string name="keyboard_layout_default_label">Predefinido</string>
   <string name="keyboard_layout_dialog_setup_button">Definir disposição do teclado</string>
-  <string name="keyboard_layout_dialog_switch_hint">Para trocar prima Control-Barra de espaços</string>
+  <string name="keyboard_layout_dialog_switch_hint">Para trocar, prima Control-Barra de espaços</string>
   <string name="keyboard_layout_dialog_title">Escolher disposição do teclado</string>
   <string name="keyboard_layout_picker_title">Disposição de teclado</string>
   <string name="keyboard_settings_category">Teclado e métodos de entrada</string>
@@ -1216,7 +1216,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="last_synced">Última sincronização %1$s</string>
   <string name="launch_count_label">Contagem</string>
   <string name="launching_cit">A iniciar modo de diagnóstico</string>
-  <string name="launching_pho">A iniciar informações do telefone. Por favor aguarde.</string>
+  <string name="launching_pho">A iniciar informações do telefone, por favor aguarde.</string>
   <string name="launching_rep">Reportar…</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
