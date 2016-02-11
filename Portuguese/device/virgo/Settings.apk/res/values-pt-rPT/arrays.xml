@@ -174,7 +174,7 @@
         <item>Nenhuma</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>Não especificado</item>
@@ -343,7 +343,7 @@
         <item>Predefinição</item>
         <item>Nenhum</item>
         <item>Contorno</item>
-        <item>Diminuir Sombra</item>
+        <item>Diminuir sombra</item>
         <item>Elevado</item>
         <item>Reduzido</item>
     </string-array>
@@ -353,7 +353,7 @@
         <item>Preto em branco</item>
         <item>Amarelo em preto</item>
         <item>Amarelo em azul</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Mem. int. 64K p rg.</item>
@@ -430,7 +430,7 @@
         <item>Em adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Desligado</item>
         <item>Mostrar áreas de sobreposição</item>
         <item>Mostrar áreas para deuteranopia</item>
     </string-array>

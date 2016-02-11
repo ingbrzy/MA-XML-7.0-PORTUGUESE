@@ -128,7 +128,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
         <item>Só quando a carregar</item>
-        <item>Nunca (aumenta tráfego)</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
@@ -578,7 +578,7 @@
         <item>Sempre ligado</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>Iniciar sessão…</item>
+        <item>A iniciar sessão…</item>
         <item>Sessão iniciada</item>
         <item>Sessão desligada…</item>
         <item>Não é possível iniciar sessão</item>
@@ -738,7 +738,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Bloqueio de ecrã</item>
-        <item>Modo criança</item>
+        <item>Modo Criança</item>
         <item>Explorador</item>
     </string-array>
     <string-array name="alarm_repeat_type">
