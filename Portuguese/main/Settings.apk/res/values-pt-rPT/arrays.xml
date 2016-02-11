@@ -48,22 +48,22 @@
         <item>XXXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Muito devagar</item>
-        <item>Devagar</item>
+        <item>Muito lenta</item>
+        <item>Lenta</item>
         <item>Normal</item>
-        <item>Rápido</item>
-        <item>Mais rápido</item>
-        <item>Muito rápido</item>
-        <item>Rápido</item>
-        <item>Muito rápido</item>
-        <item>Mais rápido</item>
+        <item>Rápida</item>
+        <item>Mais rápida</item>
+        <item>Muito rápida</item>
+        <item>Rápida</item>
+        <item>Muito rápida</item>
+        <item>A mais rápida</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Muito lento</item>
-        <item>Lento</item>
+        <item>Muito baixa</item>
+        <item>Baixa</item>
         <item>Normal</item>
-        <item>Rápido</item>
-        <item>Muito rápido</item>
+        <item>Alta</item>
+        <item>Muito alta</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -75,12 +75,12 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>A verificar…</item>
+        <item>A pesquisar…</item>
         <item>A ligar…</item>
         <item>A autenticar…</item>
         <item>A obter endereço IP…</item>
         <item>Ligado</item>
-        <item>Suspendido</item>
+        <item>Suspenso</item>
         <item>A desligar…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
@@ -89,12 +89,12 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>A verificar…</item>
+        <item>A pesquisar…</item>
         <item>A ligar a %1$s…</item>
-        <item>Autenticação com %1$s…</item>
+        <item>A autenticar %1$s…</item>
         <item>A obter o endereço IP de %1$s…</item>
         <item>Ligado a %1$s</item>
-        <item>Suspendido</item>
+        <item>Suspenso</item>
         <item>A desligar de %1$s…</item>
         <item>Desligado</item>
         <item>Sem sucesso</item>
@@ -102,9 +102,9 @@
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Apertar o botão</item>
+        <item>Premir botão</item>
         <item>PIN do dispositivo ponto a ponto</item>
-        <item>PIN a partir deste dispositivo</item>
+        <item>PIN deste dispositivo</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Ligado</item>
@@ -117,7 +117,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>1 hora</item>
-        <item>Sem tempo limite</item>
+        <item>Nunca expirar</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Fraco</item>
@@ -142,7 +142,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de utilização</item>
-        <item>Iniciar contagem</item>
+        <item>Última utilização</item>
         <item>Nome da aplicação</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
@@ -171,7 +171,7 @@
         <item>Vibrar</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>Nenhum</item>
+        <item>Nenhuma</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP ou CHAP</item>
@@ -193,56 +193,56 @@
         <item>Deixar o sistema decidir</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Localização</item>
+        <item>Local</item>
         <item>Pessoal</item>
-        <item>Mensagem</item>
+        <item>Mensagens</item>
         <item>Multimédia</item>
         <item>Dispositivo</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>localização aproximada</item>
+        <item>localização exacta</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
-        <item>media buttons</item>
-        <item>audio focus</item>
-        <item>master volume</item>
-        <item>voice volume</item>
-        <item>ring volume</item>
-        <item>media volume</item>
-        <item>alarm volume</item>
-        <item>notification volume</item>
-        <item>bluetooth volume</item>
-        <item>keep awake</item>
-        <item>monitor location</item>
-        <item>monitor high power location</item>
+        <item>vibrar</item>
+        <item>ler contactos</item>
+        <item>modificar contactos</item>
+        <item>ler o registo de chamadas</item>
+        <item>modificar o registo de chamadas</item>
+        <item>ler calendário</item>
+        <item>modificar calendário</item>
+        <item>pesquisa de wi-fi</item>
+        <item>notificação</item>
+        <item>pesquisa celular</item>
+        <item>ligar para telefone</item>
+        <item>ler SMS</item>
+        <item>escrever SMS</item>
+        <item>receber SMS</item>
+        <item>receber SMS de emergência</item>
+        <item>receber MMS</item>
+        <item>receber WAP push</item>
+        <item>enviar SMS</item>
+        <item>ler SMS ICC</item>
+        <item>escrever SMS ICC</item>
+        <item>modificar definições</item>
+        <item>desenhar na parte superior</item>
+        <item>aceder às notificações</item>
+        <item>câmara</item>
+        <item>gravar áudio</item>
+        <item>reproduzir áudio</item>
+        <item>ler área de transferência</item>
+        <item>modificar área de transferência</item>
+        <item>botões multimédia</item>
+        <item>orientação do áudio</item>
+        <item>volume principal</item>
+        <item>volume de voz</item>
+        <item>volume de toque</item>
+        <item>volume de multimédia</item>
+        <item>volume de alarme</item>
+        <item>volume de notificação</item>
+        <item>volume de bluetooth</item>
+        <item>manter activo</item>
+        <item>monitorizar localização</item>
+        <item>monitorizar localização de potência elevada</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Localização</item>
@@ -251,15 +251,15 @@
         <item>Vibrar</item>
         <item>Ler contactos</item>
         <item>Modificar contactos</item>
-        <item>Ler registo das chamadas</item>
-        <item>Modificar registo das chamadas</item>
-        <item>Ler Calendário</item>
-        <item>Modificar Calendário</item>
+        <item>Ler registo de chamadas</item>
+        <item>Modificar registo de chamadas</item>
+        <item>Ler calendário</item>
+        <item>Modificar calendário</item>
         <item>Localização</item>
         <item>Publicar notificação</item>
         <item>Localização</item>
         <item>Ligar para telefone</item>
-        <item>Ler SMS</item>
+        <item>Ler SMS/MMS</item>
         <item>Escrever SMS/MMS</item>
         <item>Receber SMS/MMS</item>
         <item>Receber SMS/MMS</item>
@@ -268,38 +268,38 @@
         <item>Enviar SMS/MMS</item>
         <item>Ler SMS/MMS</item>
         <item>Escrever SMS/MMS</item>
-        <item>Modificar definiçõess</item>
-        <item>Desenhe no topo</item>
-        <item>Notificações de acesso</item>
+        <item>Modificar definições</item>
+        <item>Desenhar na parte superior</item>
+        <item>Aceder às notificações</item>
         <item>Câmara</item>
-        <item>Gravar Áudio</item>
-        <item>Tocar áudio</item>
-        <item>Ler da área de transferência</item>
+        <item>Gravar áudio</item>
+        <item>Reproduzir áudio</item>
+        <item>Ler área de transferência</item>
         <item>Modificar área de transferência</item>
-        <item>Botões Multimédia</item>
-        <item>Foco do Áudio</item>
+        <item>Botões multimédia</item>
+        <item>Orientação do áudio</item>
         <item>Volume principal</item>
-        <item>Volume da Voz</item>
-        <item>Volume do Toque</item>
-        <item>Volume Multimédia</item>
-        <item>Volume do Alarme</item>
-        <item>Volume da Notificação</item>
-        <item>Volume Bluetooth</item>
-        <item>Manter acordado</item>
+        <item>Volume da voz</item>
+        <item>Volume do toque</item>
+        <item>Volume de multimédia</item>
+        <item>Volume do alarme</item>
+        <item>Volume de notificações</item>
+        <item>Volume de Bluetooth</item>
+        <item>Manter activo</item>
         <item>Localização</item>
         <item>Localização</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Curto</item>
-        <item>Médio</item>
-        <item>Longo</item>
+        <item>Curta</item>
+        <item>Média</item>
+        <item>Longa</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>Predefinido</item>
+        <item>Predefinição</item>
         <item>Sans-serif</item>
-        <item>Sans-serif condensed</item>
+        <item>Sans-serif condensado</item>
         <item>Serif</item>
-        <item>Monospace</item>
+        <item>Monoespaço Serif</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Muito pequeno</item>
@@ -311,13 +311,13 @@
     <string-array name="captioning_edge_type_selector_titles">
         <item>Nenhum</item>
         <item>Contorno</item>
-        <item>Sombra projectada</item>
+        <item>Diminuir sombra</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Branco no preto</item>
-        <item>Preto no branco</item>
-        <item>Amarelo no preto</item>
-        <item>Amarelo no azul</item>
+        <item>Branco em preto</item>
+        <item>Preto em branco</item>
+        <item>Amarelo em preto</item>
+        <item>Amarelo em azul</item>
         <item>Personalizar</item>
     </string-array>
     <string-array name="select_runtime_summaries">
@@ -331,36 +331,36 @@
         <item>Verificar sempre</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nunca usar verificação HDCP</item>
-        <item>Usar verificação HDCP apenas para conteúdo DRM</item>
-        <item>Usar sempre verificação HDCP</item>
+        <item>Nunca utilizar verificação HDCP</item>
+        <item>Utilizar verificação HDCP apenas para conteúdo DRM</item>
+        <item>Utilizar sempre verificação HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desligada</item>
-        <item>Animação escala .5x</item>
-        <item>Animação escala 1x</item>
-        <item>Animação escala 1.5x</item>
-        <item>Animação escala 2x</item>
-        <item>Animação escala 5x</item>
-        <item>Animação escala 10x</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animação desligada</item>
-        <item>Escala da animação .5x</item>
-        <item>Escala da animação 1x</item>
-        <item>Escala da animação 1.5x</item>
-        <item>Escala da animação 2x</item>
-        <item>Escala da animação 5x</item>
-        <item>Escala da animação 10x</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animação desligada</item>
-        <item>Escala da animação .5x</item>
-        <item>Escala da animação 1x</item>
-        <item>Escala da animação 1.5x</item>
-        <item>Escala da animação 2x</item>
-        <item>Escala da animação 5x</item>
-        <item>Escala da animação 10x</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
@@ -402,11 +402,11 @@
         <item>IPSec VPN com certificados e autenticação hibrida</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Desligado</item>
+        <item>Desligada</item>
         <item>A iniciar…</item>
         <item>A ligar…</item>
-        <item>Ligado</item>
-        <item>Acabou o tempo</item>
+        <item>Ligada</item>
+        <item>Tempo limite</item>
         <item>Sem sucesso</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
@@ -428,7 +428,7 @@
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
-        <item>Medio</item>
+        <item>Média</item>
         <item>Leve</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
@@ -466,7 +466,7 @@
         <item>Verde</item>
         <item>Rosa</item>
         <item>Roxo</item>
-        <item>Purpura</item>
+        <item>Púrpura</item>
     </string-array>
     <string-array name="pink_panel_led_color_entries">
         <item>Lilás</item>
@@ -506,7 +506,7 @@
         <item>Sessão iniciada</item>
         <item>Sessão desligada…</item>
         <item>Não é possível iniciar sessão</item>
-        <item>Terminou o tempo. Repetir…</item>
+        <item>Expirou o tempo. A repetir…</item>
         <item>Dispositivo ligado</item>
     </string-array>
     <string-array name="power_mode_entries">
@@ -539,7 +539,7 @@
         <item>Instalar ferramenta: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Criar o directório: mkdir /media/mtp</item>
         <item>Confirme as permissões de grupos de utilizadores no grupo de utilizador actual</item>
-        <item>Sign in again</item>
+        <item>Iniciar sessão novamente</item>
         <item>Acesso montado no dispositivo: mtpfs /media/mtp via file explorer; mesmo que o directório local</item>
         <item>"Desinstalar dispositivo: fusermount -u /media/mtp
 Nota: Apenas para Ubuntu 8.04!"</item>
@@ -551,15 +551,15 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_saturation_title">
         <item>Brilhante</item>
-        <item>Normal</item>
+        <item>Predefinido</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Contraste automático</item>
-        <item>Aumentar contraste</item>
+        <item>Contraste aumentado</item>
         <item>Predefinido</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Ajustar contraste para a luz disponível</item>
+        <item>Optimizar contraste para a luz disponível</item>
         <item>Aumentar contraste do ecrã</item>
         <item>Contraste constante</item>
     </string-array>
@@ -611,8 +611,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>A mover…</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Armazenamento Interno</item>
-        <item>Armazenamento Externo</item>
+        <item>Armazenamento interno</item>
+        <item>Armazenamento externo</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Muito lento</item>
