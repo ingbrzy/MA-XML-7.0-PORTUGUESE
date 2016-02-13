@@ -1135,7 +1135,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="handy_mode">Modo de uma mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita, desde o botão Início, para arrastar a imagem para um dos lados.</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início, para arrastar a imagem para um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -1263,11 +1263,11 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="launch_count_label">Contagem</string>
   <string name="launching_cit">A iniciar modo de diagnóstico</string>
   <string name="launching_pho">A iniciar informações do telefone, por favor aguarde.</string>
-  <string name="launching_rep">Reportar…</string>
+  <string name="launching_rep">A reportar…</string>
   <string name="layout_size_exhuge">XXL</string>
-  <string name="layout_size_exhuge_text">XXL</string>
+  <string name="layout_size_exhuge_text">Enorme</string>
   <string name="layout_size_huge">XL</string>
-  <string name="layout_size_huge_text">Enorme</string>
+  <string name="layout_size_huge_text">Muito grande</string>
   <string name="layout_size_large">L</string>
   <string name="layout_size_large_text">Grande</string>
   <string name="layout_size_medium">M</string>
@@ -1288,7 +1288,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="license_title">Licença</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
-  <string name="link_speed_label">Link rápido:</string>
+  <string name="link_speed_label">Velocidade do link:</string>
   <string name="local_auto_backup_off">Desligado</string>
   <string name="local_auto_backup_on">Ligado</string>
   <string name="local_auto_backup_section_title">Cópia de segurança automática</string>
@@ -1325,7 +1325,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="location_agps_reset_type">Redefenir tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Redefinir tipos</string>
   <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
-  <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu pacote de dados.</string>
+  <string name="location_agps_roaming_help">Escolher todas as redes, pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu plano de dados.</string>
   <string name="location_agps_si_mode">Modo AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Método AGPS</string>
   <string name="location_agps_si_mode_summary">Escolher método preferido AGPS</string>
@@ -1357,19 +1357,19 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="location_title">A minha localização</string>
   <string name="lock_after_timeout">Bloquear automaticamente</string>
   <string name="lock_after_timeout_summary">%1$s depois de desligar</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Bloquear imediatamente</string>
-  <string name="lock_screen_secure_after_timeout_summary">%1$s após suspensão</string>
-  <string name="lock_screen_secure_after_timeout_title">Bloquear automaticamente</string>
-  <string name="lock_screen_unlock_show">Ignorar o ecrã de bloqueio</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Palavra-passe exigida imediatamente</string>
+  <string name="lock_screen_secure_after_timeout_summary">Palavra-passe exigida em %1$s</string>
+  <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
+  <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
-  <string name="lock_settings">Bloqueio de ecrã</string>
+  <string name="lock_settings">Bloqueio do ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
   <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
   <string name="lock_setup">Configuração concluída.</string>
-  <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
+  <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
   <string name="lockpassword_choose_your_password_header">Escolher palavra-passe</string>
@@ -1407,12 +1407,12 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">O padrão desenhado não coincide. Tente novamente</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de bloqueio foi desenhado com sucesso</string>
-  <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio foi desenhado com sucesso</string>
+  <string name="lockpattern_pattern_entered_header">Padrão guardado</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente.</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda.</string>
-  <string name="lockpattern_recording_intro_header">Desenhe um padrão de bloqueio</string>
+  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_restart_button_text">Redesenhar</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
@@ -1439,13 +1439,13 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="man_add_application">Adicionar aplicações de início automático</string>
   <string name="manage_device_admin">Administradores do dispositivo</string>
   <string name="manage_device_admin_summary">Ver ou desactivar administradores do dispositivo</string>
-  <string name="manage_mobile_plan_title">Plano Móvel</string>
+  <string name="manage_mobile_plan_title">Plano móvel</string>
   <string name="manage_notification_access">Acesso a notificações</string>
   <string name="manage_notification_access_summary_zero">Aplicações não podem ler notificações</string>
-  <string name="manage_notification_access_title">Acesso às notificações</string>
+  <string name="manage_notification_access_title">Acesso a notificações</string>
   <string name="manage_space_text">Gerir espaço</string>
-  <string name="manage_trust_agents">Agentes de confiança</string>
-  <string name="manage_trust_agents_summary">Ver ou desactivar agentes de confiança</string>
+  <string name="manage_trust_agents">Agentes fidedignos</string>
+  <string name="manage_trust_agents_summary">Ver ou desaticvar agentes fidedignos</string>
   <string name="manage_xiaomi_router">Definições do Router MI</string>
   <string name="manageapplications_settings_summary">Gerir e remover aplicações instaladas</string>
   <string name="manageapplications_settings_title">Gerir aplicações</string>
@@ -1457,7 +1457,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
   <string name="master_clear_all">Eliminar toda a sua informação da memória interna do telefone? Não pode reverter esta acção!</string>
   <string name="master_clear_button_text">Restaurar telefone</string>
   <string name="master_clear_confirm_title">Restaurar?</string>
-  <string name="master_clear_desc">"Isto vai eliminar todos os dados da &lt;b&gt;memória interna&lt;/b&gt;" do seu telefone, incluindo:
+  <string name="master_clear_desc">"Isto vai eliminar todos os dados da <b>memória interna</b>" do seu telefone, incluindo:
 
 "<li>A sua conta do Google</li>"
 "<li>Sistema, dados de aplicações e definições</li>"
@@ -1467,7 +1467,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 "<li>Outros dados do utilizador</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartão SD&lt;/b&gt; tem de ser eliminado.</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</b> tem de ser eliminado.</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível.</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -1479,7 +1479,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "&lt;b&gt;cartã
   <string name="master_clear_personal_data_sdcard">Eliminar a sua informação pessoal? Não pode reverter esta acção!</string>
   <string name="master_clear_summary">Formatar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
-  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital elimine primeiro uma impressão digital existente."</string>
+  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>
   <string name="media_feedback_enable_title">Vibrar com o ritmo</string>

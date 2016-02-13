@@ -71,21 +71,21 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="lockpassword_input_your_pattern_header">Confirme o seu padrão</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Desenhe o seu padrão novamente para confirmar</string>
-  <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide com o anterior. Desenhe o padrão novamente</string>
+  <string name="lockpattern_need_to_confirm">Desenhe novamente o seu padrão para confirmar</string>
+  <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide com o anterior. Tente novamente</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Padrão incorrecto. Tem mais %d tentativas&lt;/font&gt;</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
-  <string name="lockpattern_pattern_entered_header">Padrão gravado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Tem de unir pelo menos %d pontos. Tente novamente</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio foi desenhado com sucesso</string>
+  <string name="lockpattern_pattern_entered_header">Padrão guardado</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente.</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
-  <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
+  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_redraw_button_text">Redesenhar</string>
   <string name="lockpattern_retry_text">Reiniciar padrão</string>
   <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Muitas tentativas incorrectas!&lt;/font&gt;</string>
   <string name="lockpattern_tutorial_cancel_label">Voltar</string>
   <string name="lockpattern_tutorial_close_label">Fechar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
@@ -162,10 +162,10 @@ As definições de Data e Hora neste dispositivo não foram alterados."</string>
   <string name="title_nopassword_dialog">Limite diário</string>
   <string name="title_password">Padrão</string>
   <string name="title_password_threshold">Limite diário = €%1$s</string>
-  <string name="title_patternforgotten">"Esqueceu padrão?
+  <string name="title_patternforgotten">"Esqueceu o padrão?
 Pode："</string>
   <string name="title_updatepattern">Alterar padrão</string>
-  <string name="title_visible_pattern">Meter padrão visível</string>
+  <string name="title_visible_pattern">Colocar padrão visível</string>
   <string name="type_prompt">Tipo de chave</string>
   <string name="update_pattern_jump"><u>Remover padrão</u></string>
   <string name="version_preference_title">Versão</string>

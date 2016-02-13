@@ -7,7 +7,7 @@
   <string name="button_queue_for_wifi">Em espera</string>
   <string name="button_start_now">Iniciar agora</string>
   <string name="button_wait_for_wifi">Esperar</string>
-  <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno de transferências</string>
+  <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno para as transferências</string>
   <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
   <string name="download_apk_desktop_installing">A instalar</string>
@@ -25,7 +25,7 @@
   <string name="enter_garbage_clean">Limpar armazenamento interno.</string>
   <string name="insufficient_space">"Sem espaço suficiente no armazenamento interno"</string>
   <string name="mobile_recommended_title">Utilização de dados móveis</string>
-  <string name="notif_text_engine_off">O optimizador de transferências Xunlei está desactivado.</string>
+  <string name="notif_text_engine_off">O acelerador de transferências Xunlei está desactivado.</string>
   <string name="notif_text_engine_on">A optimizar…</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
   <string name="notif_title_multiple_downloading">A transferir %1$d ficheiros</string>
@@ -34,16 +34,16 @@
   <string name="notification_download_failed">Transferência não efectuada.</string>
   <string name="notification_download_failed_more">Não foi possível transferir %1$d items</string>
   <string name="notification_download_success_more">%1$d transferido</string>
-  <string name="notification_need_wifi_for_size">O tamanho da transferência requer Wi-Fi.</string>
+  <string name="notification_need_wifi_for_size">O tamanho da transferência requer ligação Wi-Fi.</string>
   <string name="notification_paused_in_background">Em pausa em segundo plano.</string>
   <string name="paused_waiting_for_network">A aguardar pela rede</string>
   <string name="permdesc_accessAllDownloads">Permite à aplicação exibir e modificar todas as transferências iniciadas por qualquer aplicação no sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir arquivos para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
-  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. Aplicações maliciosas podem usar isto para confundir outras aplicações que fazem transferências de arquivos.</string>
-  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir arquivos. As aplicações maliciosas podem usar isto para interromper as transferências e aceder a informações privadas.</string>
-  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem usar isto para interromper as transferências e aceder a informações privadas.</string>
+  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. Aplicações maliciosas podem usar este recurso para confundir outras aplicações que fazem transferências de arquivos.</string>
+  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir arquivos. As aplicações maliciosas podem usar este recurso para interromper as transferências e aceder a informações privadas.</string>
+  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem usar este recurso para interromper as transferências e aceder a informações privadas.</string>
   <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador.</string>
-  <string name="permdesc_seeAllExternal">Permite à aplicação para ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
+  <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
   <string name="permlab_accessAllDownloads">Aceda a todas as transferências do sistema</string>
   <string name="permlab_downloadCacheNonPurgeable">Reserve espaço na cache de transferências</string>
   <string name="permlab_downloadCompletedIntent">Enviar notificações de transferências.</string>
@@ -54,7 +54,7 @@
   <string name="privacy_notif_content">Toque para ver os detalhes.</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está activo</string>
   <string name="privacy_tip_cancel">Cancelar</string>
-  <string name="privacy_tip_content">Aumentar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores do Xunlei. Os seus detalhes da conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
+  <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências será carregado para os servidores do Xunlei. Os seus detalhes da conta Mi também serão enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">Confirmar</string>
   <string name="privacy_tip_title">Utilizar o acelerador de transferências Xunlei?</string>
   <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>
@@ -62,19 +62,19 @@
   <string name="root_downloads">Transferências</string>
   <string name="task_already_exist">A tarefa já existe</string>
   <string name="warning_tip_cancel">Transferir</string>
-  <string name="warning_tip_content">Não existe ligação à rede. Se utilizar a sua ligação de dados móvel para terminar esta transferência vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="warning_tip_content">Não existe ligação à rede. Se utilizar a sua ligação de dados móveis para terminar esta transferência vai aumentar o consumo de dados móveis. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Aviso do uso de dados</string>
-  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência já pode resultar em uso excessivo da sua ligação de dados móveis, o que pode levar a despesas de operador móvel dependendo do seu plano de dados movéis. 
+  <string name="wifi_recommended_body" formatted="false">"A partir desta %s a transferência vai originar um consumo excessivo de dados móveis, podem surgir despesas adicionais cobradas pela sua operadora, mas depende sempre do plano de dados movéis subscrito. 
 
-Toque em %s para começar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi."</string>
   <string name="wifi_recommended_title">Aguardar para efectuar a transferência mais tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Deverá utilizar a rede sem fios para concluir esta %s Transferência. 
+  <string name="wifi_required_body" formatted="false">"Deverá utilizar a rede sem fios para concluir esta %s transferência. 
 
-Toque em %s para começar esta transferência da próxima vez que estiver ligado a uma rede Wi-Fi."</string>
+Toque em %s para iniciar esta transferência da próxima vez que obter uma ligação à rede Wi-Fi."</string>
   <string name="wifi_required_title">Transferência demasiado grande para o operador de rede</string>
-  <string name="xl_speedup_experience_notify_context">A velocidade é acelerada para todas as transferências quando é um membro Xunlei</string>
-  <string name="xl_speedup_experience_notify_title">Filiação Xunlei</string>
-  <string name="xl_speedup_notify_button_experience">Experimente gratuitamente</string>
+  <string name="xl_speedup_experience_notify_context">A velocidade das transferências será optimizada se for membro Xunlei</string>
+  <string name="xl_speedup_experience_notify_title">Membro Xunlei</string>
+  <string name="xl_speedup_notify_button_experience">Testar gratuitamente</string>
   <string name="xl_speedup_notify_button_member">Tornar-se membro</string>
 </resources>

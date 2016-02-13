@@ -1384,7 +1384,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="handy_mode">Modo de uma mão</string>
   <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita, desde o botão Início, para arrastar a imagem para um dos lados.</string>
+  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início, para arrastar a imagem para um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
   <string name="hardkeyboard_category">Definições de teclado físico</string>
@@ -1591,17 +1591,17 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="launching_pho">A iniciar informações do telefone, por favor aguarde.</string>
   <string name="launching_rep">A reportar…</string>
   <string name="layout_size_exhuge">XXL</string>
-  <string name="layout_size_exhuge_text">Godzila</string>
+  <string name="layout_size_exhuge_text">Enorme</string>
   <string name="layout_size_huge">XL</string>
-  <string name="layout_size_huge_text">Enorme</string>
+  <string name="layout_size_huge_text">Muito grande</string>
   <string name="layout_size_large">L</string>
   <string name="layout_size_large_text">Grande</string>
   <string name="layout_size_medium">M</string>
   <string name="layout_size_medium_text">Médio</string>
   <string name="layout_size_normal">S</string>
-  <string name="layout_size_normal_text">Normal</string>
+  <string name="layout_size_normal_text">Pequeno</string>
   <string name="layout_size_small">XS</string>
-  <string name="layout_size_small_text">Pequeno</string>
+  <string name="layout_size_small_text">Muito pequeno</string>
   <string name="led_colors_summary">Notificações</string>
   <string name="led_frequence_summary">Definir a frequência de intermitência do LED</string>
   <string name="led_pulse_summary">Activar LED quando receber uma nova notificação</string>
@@ -1650,7 +1650,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="location_agps_reset_type">Redefenir tipos</string>
   <string name="location_agps_reset_type_choose_dialog_title">Redefinir tipos</string>
   <string name="location_agps_reset_type_summary">Escolha o tipo de restauro preferido</string>
-  <string name="location_agps_roaming_help">Escolher todas as redes pode aumentar o consumo de dados em roaming. Irá ter custos adicionais se ultrapassar o plano de dados contratado.</string>
+  <string name="location_agps_roaming_help">Escolher todas as redes, pode aumentar o consumo de dados em roaming. Poderá ter custos adicionais se exceder o limite subscrito no seu plano de dados.</string>
   <string name="location_agps_si_mode">Modo AGPS SI</string>
   <string name="location_agps_si_mode_dialog_title">Método AGPS</string>
   <string name="location_agps_si_mode_summary">Escolher método preferido AGPS</string>
@@ -1712,8 +1712,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
   <string name="lockpassword_choose_your_password_header">Escolher palavra-passe</string>
-  <string name="lockpassword_choose_your_pattern_header">Escolher o seu padrão</string>
-  <string name="lockpassword_choose_your_pin_header">Escolher o seu PIN</string>
+  <string name="lockpassword_choose_your_pattern_header">Escolher padrão</string>
+  <string name="lockpassword_choose_your_pin_header">Escolher PIN</string>
   <string name="lockpassword_confirm_passwords_dont_match">AS palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
   <string name="lockpassword_confirm_your_password_generic">Introduza a palavra-passe do dispositivo para continuar.</string>
@@ -1747,14 +1747,14 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lockpattern_change_lock_pin_label">Alterar PIN</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
-  <string name="lockpattern_need_to_confirm">Desenhar padrão novamente para confirmar:</string>
-  <string name="lockpattern_need_to_unlock_wrong">Tente novamente:</string>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio:</string>
+  <string name="lockpattern_need_to_confirm">Desenhe novamente o seu padrão para confirmar</string>
+  <string name="lockpattern_need_to_unlock_wrong">O padrão desenhado não coincide. Tente novamente</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio foi desenhado com sucesso</string>
   <string name="lockpattern_pattern_entered_header">Padrão guardado</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente.</string>
   <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_footer">Premir Menu para obter ajuda.</string>
-  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio:</string>
+  <string name="lockpattern_recording_intro_header">Desenhar um padrão de desbloqueio</string>
   <string name="lockpattern_restart_button_text">Redesenhar</string>
   <string name="lockpattern_retry_button_text">Tentar novamente</string>
   <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
@@ -1818,7 +1818,7 @@ Está actualmente com sessão iniciada nas seguintes contas:
 "<li>Outros dados do utilizador</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</b> tem de ser eliminado.</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenamento USB</b> tem de ser eliminado.</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível.</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
