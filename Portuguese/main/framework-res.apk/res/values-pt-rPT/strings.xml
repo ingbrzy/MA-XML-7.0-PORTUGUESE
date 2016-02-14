@@ -1108,9 +1108,9 @@ Tente novamente dentro de %d segundos."</string>
 para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
-  <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e rede)</string>
-  <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
-  <string name="permlab_accessMockLocation">fontes de localização fictícias para teste</string>
+  <string name="permlab_accessFineLocation">Aceder à localização exacta (baseada no GPS e na rede)</string>
+  <string name="permlab_accessLocationExtraCommands">Aceder a comandos adicionais do fornecedor de localização</string>
+  <string name="permlab_accessMockLocation">Fontes de localização fictícias para teste</string>
   <string name="permlab_accessMtp">implementar protocolo MTP</string>
   <string name="permlab_accessNetworkConditions">ouvir as observações sobre as condições da rede</string>
   <string name="permlab_accessNetworkState">ver ligações de rede</string>
@@ -1240,7 +1240,7 @@ para a conta %s."</string>
   <string name="permlab_persistentActivity">fazer com que a aplicação seja sempre executada</string>
   <string name="permlab_pkgUsageStats">actualizar estatísticas de utilização dos componentes</string>
   <string name="permlab_processOutgoingCalls">redireccionar as chamadas efectuadas</string>
-  <string name="permlab_readCalendar">ler eventos do calendário, para além de informações confidenciais</string>
+  <string name="permlab_readCalendar">Ler eventos do calendário, para além de informações confidenciais</string>
   <string name="permlab_readCallLog">ler registo de chamadas</string>
   <string name="permlab_readCellBroadcasts">ler mensagens de transmissão móveis</string>
   <string name="permlab_readContacts">ler os contactos</string>

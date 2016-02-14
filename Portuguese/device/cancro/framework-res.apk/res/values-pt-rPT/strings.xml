@@ -781,9 +781,9 @@ Tente novamente dentro de %d segundos."</string>
 para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessDrmCertificates">Aceder a certificados DRM</string>
-  <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
+  <string name="permlab_accessFineLocation">Aceder à localização exacta (baseada no GPS e na rede)</string>
   <string name="permlab_accessImsCallService">aceder ao serviço de chamadas IMS</string>
-  <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
+  <string name="permlab_accessLocationExtraCommands">Aceder a comandos adicionais do fornecedor de localização</string>
   <string name="permlab_accessNetworkConditions">ouvir observações sobre as condições da rede</string>
   <string name="permlab_accessNetworkState">ver ligações de rede</string>
   <string name="permlab_accessNotifications">aceder às notificações</string>
@@ -831,7 +831,7 @@ para a conta %s."</string>
   <string name="permlab_nfc">controlar NFC</string>
   <string name="permlab_persistentActivity">fazer com que a aplicação seja sempre executada</string>
   <string name="permlab_processOutgoingCalls">redireccionar as chamadas efectuadas</string>
-  <string name="permlab_readCalendar">ler eventos do calendário, para além de informações confidenciais</string>
+  <string name="permlab_readCalendar">Ler eventos do calendário, para além de informações confidenciais</string>
   <string name="permlab_readCallLog">ler registo de chamadas</string>
   <string name="permlab_readCellBroadcasts">ler mensagens de transmissão móveis</string>
   <string name="permlab_readContacts">ler os contactos</string>
@@ -872,7 +872,7 @@ para a conta %s."</string>
   <string name="permlab_use_sip">efectuar/receber chamadas SIP</string>
   <string name="permlab_vibrate">controlar vibração</string>
   <string name="permlab_wakeLock">impedir que o telefone entre em inactividade</string>
-  <string name="permlab_writeCalendar">adicionar ou modificar eventos do calendário e enviar e-mail a convidados sem o conhecimento dos proprietários</string>
+  <string name="permlab_writeCalendar">Adicionar ou modificar eventos do calendário e enviar email a convidados sem o conhecimento dos proprietários</string>
   <string name="permlab_writeCallLog">modificar o registo de chamadas</string>
   <string name="permlab_writeContacts">modificar os contactos</string>
   <string name="permlab_writeGeolocationPermissions">modificar permissões de geolocalização do Navegador</string>
