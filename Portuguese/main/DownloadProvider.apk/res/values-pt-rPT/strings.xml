@@ -44,9 +44,9 @@
   <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem usar este recurso para interromper as transferências e aceder a informações privadas.</string>
   <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador.</string>
   <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
-  <string name="permlab_accessAllDownloads">Aceda a todas as transferências do sistema</string>
+  <string name="permlab_accessAllDownloads">Aceder a todas as transferências do sistema</string>
   <string name="permlab_downloadCacheNonPurgeable">Reserve espaço na cache de transferências</string>
-  <string name="permlab_downloadCompletedIntent">Enviar notificações de transferências.</string>
+  <string name="permlab_downloadCompletedIntent">Enviar notificações de transferências</string>
   <string name="permlab_downloadManager">Aceder ao gestor de transferências</string>
   <string name="permlab_downloadManagerAdvanced">Recursos avançados do gestor de transferências</string>
   <string name="permlab_downloadWithoutNotification">Transferência de arquivos sem notificação</string>

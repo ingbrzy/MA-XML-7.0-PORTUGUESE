@@ -779,7 +779,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s."</string>
-  <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
+  <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessDrmCertificates">aceder a certificados DRM</string>
   <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
   <string name="permlab_accessImsCallService">aceder ao serviço de chamadas IMS</string>
@@ -811,7 +811,7 @@ para a conta %s."</string>
   <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
   <string name="permlab_connection_manager">gerir ligações de telecomunicação</string>
   <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
-  <string name="permlab_createNetworkSockets">ter acesso total à rede</string>
+  <string name="permlab_createNetworkSockets">Acesso total à rede</string>
   <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
   <string name="permlab_enableCarMode">activar Modo de Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
@@ -838,7 +838,7 @@ para a conta %s."</string>
   <string name="permlab_readHistoryBookmarks">ler os marcadores da Web e histórico</string>
   <string name="permlab_readInstallSessions">ler sessões de instalação</string>
   <string name="permlab_readNetworkUsageHistory">ler histórico de utilização da rede</string>
-  <string name="permlab_readPhoneState">ler o estado e a identidade do telefone</string>
+  <string name="permlab_readPhoneState">Ler o estado e a identidade do telefone</string>
   <string name="permlab_readSms">ler as mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_readSyncSettings">ler definições de sincronização</string>
   <string name="permlab_readSyncStats">ler estatísticas de sincronização</string>
@@ -877,7 +877,7 @@ para a conta %s."</string>
   <string name="permlab_writeContacts">modificar os contactos</string>
   <string name="permlab_writeGeolocationPermissions">modificar permissões de geolocalização do Navegador</string>
   <string name="permlab_writeHistoryBookmarks">gravar marcadores da Web e o histórico</string>
-  <string name="permlab_writeSettings">modificar as definições de sistema</string>
+  <string name="permlab_writeSettings">Modificar as definições de sistema</string>
   <string name="permlab_writeSyncSettings">ligar e desligar a sincronização</string>
   <string name="perms_description_app">Fornecido por %1$s.</string>
   <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">Novo: </font></string>

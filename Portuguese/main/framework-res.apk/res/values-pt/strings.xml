@@ -922,7 +922,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_hardware_test">Permite à aplicação controlar vários periféricos para fins de teste de hardware.</string>
   <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas etc.) a outras aplicações. As aplicações maliciosas podem utilizar isto para controlar o telefone.</string>
   <string name="permdesc_installLocationProvider">Criar fontes de localização fictícias para fins de teste ou instalar um fornecedor de localização novo. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
-  <string name="permdesc_installPackages">Permite que a aplicação instale ou actualize novos pacotes Android. As aplicações maliciosas podem utilizar isto para adicionar novas permissões de segurança elevada.</string>
+  <string name="permdesc_installPackages">Permite que a aplicação instale ou actualize novos pacotes Android. As aplicações maliciosas podem utilizar este recurso para adicionar novas permissões de segurança elevada.</string>
   <string name="permdesc_install_shortcut">Permite que a aplicação adicione atalhos na Página inicial, sem a intervenção do usuário.</string>
   <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções em diferentes usuários no dispositivo. As aplicações maliciosas podem utilizar isso para violar a protecção entre os usuários.</string>
   <string name="permdesc_interactAcrossUsersFull">Permite todas as interacções possíveis em todos os utilizadores.</string>
@@ -1106,7 +1106,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s."</string>
-  <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
+  <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
   <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e rede)</string>
   <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
@@ -1154,7 +1154,7 @@ para a conta %s."</string>
   <string name="permlab_broadcastSmsReceived">enviar difusão recebida por SMS</string>
   <string name="permlab_broadcastSticky">enviar difusão fixa</string>
   <string name="permlab_broadcastWapPush">enviar difusão recebida através de PUSH WAP</string>
-  <string name="permlab_cache_filesystem">aceder aos ficheiros de sistema em cache</string>
+  <string name="permlab_cache_filesystem">Aceder aos ficheiros de sistema em cache</string>
   <string name="permlab_callPhone">marcar números de telefone directamente</string>
   <string name="permlab_callPrivileged">marcar directamente qualquer número de telefone</string>
   <string name="permlab_camera">tirar fotos e vídeos</string>
@@ -1179,7 +1179,7 @@ para a conta %s."</string>
   <string name="permlab_controlWifiDisplay">exibir controles do Wi-Fi</string>
   <string name="permlab_control_keyguard">controlo da exibição e ocultação da protecção do teclado</string>
   <string name="permlab_copyProtectedData">copiar conteúdo</string>
-  <string name="permlab_createNetworkSockets">acesso total à rede</string>
+  <string name="permlab_createNetworkSockets">Acesso total à rede</string>
   <string name="permlab_deleteCacheFiles">eliminar histórico de dados de outras aplicações</string>
   <string name="permlab_deletePackages">eliminar aplicações</string>
   <string name="permlab_devicePower">ligar/desligar telefone</string>
@@ -1204,7 +1204,7 @@ para a conta %s."</string>
   <string name="permlab_hardware_test">testar hardware</string>
   <string name="permlab_injectEvents">pressionar as teclas e botões de controlo</string>
   <string name="permlab_installLocationProvider">autorização para instalar um fornecedor de localização</string>
-  <string name="permlab_installPackages">instalar aplicações directamente</string>
+  <string name="permlab_installPackages">Instalar aplicações directamente</string>
   <string name="permlab_install_shortcut">instalar atalhos</string>
   <string name="permlab_interactAcrossUsers">interacção entre os utilizadores</string>
   <string name="permlab_interactAcrossUsersFull">permissão total de interacção entre os utilizadores</string>
@@ -1213,7 +1213,7 @@ para a conta %s."</string>
   <string name="permlab_killBackgroundProcesses">fechar outras aplicações</string>
   <string name="permlab_locationUpdates">controlar notificações de actualização de localização</string>
   <string name="permlab_magnify_display">ampliar exibição</string>
-  <string name="permlab_manageAccounts">adicionar ou remover contas</string>
+  <string name="permlab_manageAccounts">Adicionar ou remover contas</string>
   <string name="permlab_manageActivityStacks">gerir uma grande quantidade de actividades</string>
   <string name="permlab_manageAppTokens">gerir tokens da aplicação</string>
   <string name="permlab_manageCaCertificates">gerir certificados de confiança</string>
@@ -1250,7 +1250,7 @@ para a conta %s."</string>
   <string name="permlab_readInputState">gravar o que utilizador escreve e as acções que efectua</string>
   <string name="permlab_readLogs">ler dados sensíveis do registo</string>
   <string name="permlab_readNetworkUsageHistory">ler histórico de utilização da rede</string>
-  <string name="permlab_readPhoneState">ler o estado e a identidade do telefone</string>
+  <string name="permlab_readPhoneState">Ler o estado e a identidade do telefone</string>
   <string name="permlab_readProfile">ler o próprio cartão de contacto</string>
   <string name="permlab_readSms">ler as mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_readSocialStream">ler o seu streaming social</string>
@@ -1321,7 +1321,7 @@ para a conta %s."</string>
   <string name="permlab_writeHistoryBookmarks">gravar marcadores da Web e o histórico</string>
   <string name="permlab_writeProfile">modificar o próprio cartão de contacto</string>
   <string name="permlab_writeSecureSettings">modificar as definições de segurança do sistema</string>
-  <string name="permlab_writeSettings">modificar as definições de sistema</string>
+  <string name="permlab_writeSettings">Modificar as definições de sistema</string>
   <string name="permlab_writeSms">editar mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_writeSocialStream">escrever para o seu stream social</string>
   <string name="permlab_writeSyncSettings">ligar e desligar a sincronização</string>
