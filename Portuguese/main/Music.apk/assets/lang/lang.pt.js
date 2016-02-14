@@ -150,7 +150,7 @@
     "action_item_add_to_favorite_playlist": "Lista de reprodução favorita",    
     "fragment_more": "Mais",
     "fragment_title_recommend": "Recomendado",
-    "fragment_title_bill": "Listas De Reprodução",
+    "fragment_title_bill": "Listas de reprodução",
     "fragment_title_channel": "Rádio",
     "fragment_title_artist": "Artistas",
     "fragment_title_artist_album": "Álbuns",

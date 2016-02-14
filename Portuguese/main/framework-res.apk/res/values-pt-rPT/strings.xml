@@ -1106,10 +1106,10 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permission_request_notification_title">Permissão pedida</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s."</string>
-  <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
+  <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
-  <string name="permlab_accessFineLocation">Aceder à localização exacta (baseada no GPS e na rede)</string>
-  <string name="permlab_accessLocationExtraCommands">Aceder a comandos adicionais do fornecedor de localização</string>
+  <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
+  <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
   <string name="permlab_accessMockLocation">Fontes de localização fictícias para teste</string>
   <string name="permlab_accessMtp">implementar protocolo MTP</string>
   <string name="permlab_accessNetworkConditions">ouvir as observações sobre as condições da rede</string>
@@ -1179,7 +1179,7 @@ para a conta %s."</string>
   <string name="permlab_controlWifiDisplay">exibir controles do Wi-Fi</string>
   <string name="permlab_control_keyguard">controlo da exibição e ocultação da protecção do teclado</string>
   <string name="permlab_copyProtectedData">copiar conteúdo</string>
-  <string name="permlab_createNetworkSockets">Acesso total à rede</string>
+  <string name="permlab_createNetworkSockets">acesso total à rede</string>
   <string name="permlab_deleteCacheFiles">eliminar histórico de dados de outras aplicações</string>
   <string name="permlab_deletePackages">eliminar aplicações</string>
   <string name="permlab_devicePower">ligar/desligar telefone</string>
@@ -1240,7 +1240,7 @@ para a conta %s."</string>
   <string name="permlab_persistentActivity">fazer com que a aplicação seja sempre executada</string>
   <string name="permlab_pkgUsageStats">actualizar estatísticas de utilização dos componentes</string>
   <string name="permlab_processOutgoingCalls">redireccionar as chamadas efectuadas</string>
-  <string name="permlab_readCalendar">Ler eventos do calendário, para além de informações confidenciais</string>
+  <string name="permlab_readCalendar">ler eventos do calendário, para além de informações confidenciais</string>
   <string name="permlab_readCallLog">ler registo de chamadas</string>
   <string name="permlab_readCellBroadcasts">ler mensagens de transmissão móveis</string>
   <string name="permlab_readContacts">ler os contactos</string>
@@ -1250,7 +1250,7 @@ para a conta %s."</string>
   <string name="permlab_readInputState">gravar o que utilizador escreve e as acções que efectua</string>
   <string name="permlab_readLogs">ler dados sensíveis do registo</string>
   <string name="permlab_readNetworkUsageHistory">ler histórico de utilização da rede</string>
-  <string name="permlab_readPhoneState">Ler o estado e a identidade do telefone</string>
+  <string name="permlab_readPhoneState">ler o estado e a identidade do telefone</string>
   <string name="permlab_readProfile">ler o próprio cartão de contacto</string>
   <string name="permlab_readSms">ler as mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_readSocialStream">ler o seu streaming social</string>
@@ -1321,7 +1321,7 @@ para a conta %s."</string>
   <string name="permlab_writeHistoryBookmarks">gravar marcadores da Web e o histórico</string>
   <string name="permlab_writeProfile">modificar o próprio cartão de contacto</string>
   <string name="permlab_writeSecureSettings">modificar as definições de segurança do sistema</string>
-  <string name="permlab_writeSettings">Modificar as definições de sistema</string>
+  <string name="permlab_writeSettings">modificar as definições de sistema</string>
   <string name="permlab_writeSms">editar mensagens de texto (SMS ou MMS)</string>
   <string name="permlab_writeSocialStream">escrever para o seu stream social</string>
   <string name="permlab_writeSyncSettings">ligar e desligar a sincronização</string>
