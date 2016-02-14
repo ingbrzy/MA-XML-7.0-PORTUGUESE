@@ -658,11 +658,11 @@ Tente novamente dentro de %d segundos."</string>
   <string name="peerTtyModeVco">O par solicitou o modo VCO de TTY</string>
   <string name="perm_costs_money">Isto poderá estar sujeito a custos</string>  
   <string name="permdesc_accessCoarseLocation">Permite que a aplicação obtenha a sua localização aproximada. Esta localização é gerada pelos serviços de localização, que utilizam fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização aproximada.</string>
-  <string name="permdesc_accessDrmCertificates">Permite que uma aplicação forneça e utilize certificados DRM. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_accessDrmCertificates">Permite que uma aplicação forneça e utilize certificados DRM. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação obtenha a sua localização exacta através do Sistema de Posicionamento Global (GPS) ou das fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização e poderão consumir mais energia da bateria.</string>
   <string name="permdesc_accessImsCallService">Permite que a aplicação utilize o serviço IMS para fazer chamadas sem a sua intervenção.</string>
   <string name="permdesc_accessLocationExtraCommands">Permite que a aplicação aceda a comandos adicionais do fornecedor de localização. Esta opção pode permitir que a aplicação interfira com o funcionamento do GPS ou de outras fontes de localização.</string>
-  <string name="permdesc_accessNetworkConditions">Permite que uma aplicação ouça observações sobre as condições da rede. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_accessNetworkConditions">Permite que uma aplicação ouça observações sobre as condições da rede. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_accessNetworkState">Permite que a aplicação visualize informações acerca das ligações de rede, como por exemplo, que redes existem e que estão ligadas.</string>
   <string name="permdesc_accessNotifications">Permite que a aplicação obtenha, examine e limpe notificações, incluindo as que foram publicadas por outras aplicações.</string>
   <string name="permdesc_accessWifiState">Permite que a aplicação visualize informações acerca de redes Wi-Fi, como por exemplo, se o Wi-Fi está activado e o nome dos dispositivos Wi-Fi ligados.</string>
@@ -671,9 +671,9 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada de Voice Mail.</string>
   <string name="permdesc_bindCarrierMessagingService">Permite ao titular ligar à interface de nível superior do serviço de mensagens de uma operadora. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_bindCarrierServices">Permite ao titular vincular-se a serviços da operadora. Nunca deverá ser necessário nas aplicações normais.</string>
-  <string name="permdesc_bindConditionProviderService">Permite que o titular vincule a interface de nível superior de um serviço de fornecedor de condição. Nunca deverá ser necessário para aplicações normais.</string>
-  <string name="permdesc_bindDreamService">Permite que o titular fique vinculado à interface de nível superior de um serviço de sonho. Nunca deverá ser necessário para aplicações normais.</string>
-  <string name="permdesc_bindNotificationListenerService">Permite que o titular vincule a interface de nível superior de um serviço de escuta de notificações. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindConditionProviderService">Permite que o titular vincule a interface de nível superior de um serviço de fornecedor de condição. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindDreamService">Permite que o titular fique vinculado à interface de nível superior de um serviço de sonho. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_bindNotificationListenerService">Permite que o titular vincule a interface de nível superior de um serviço de escuta de notificações. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bind_connection_service">Permite à aplicação interagir com serviços telefónicos e efectuar/receber chamadas.</string>
   <string name="permdesc_bind_incall_service">Permite que a aplicação controle quando e como o utilizador vê o ecrã durante uma chamada.</string>
   <string name="permdesc_bluetooth">Permite que a aplicação visualize a configuração do Bluetooth no telefone e que estabeleça e aceite ligações com dispositivos emparelhados.</string>
@@ -699,7 +699,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_getTasks">Permite que a aplicação recupere informações acerca de tarefas executadas actual e recentemente. Isto pode permitir que a aplicação descubra informações acerca de quais as aplicações utilizadas no dispositivo.</string>
   <string name="permdesc_handoverStatus">Permite que esta aplicação receba informações acerca das transferências actuais do Android Beam</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos ao ecrã principal sem a intervenção do utilizador.</string>
-  <string name="permdesc_invokeCarrierSetup">Permite que o titular invoque a aplicação de configuração fornecida pela operadora. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_invokeCarrierSetup">Permite que o titular invoque a aplicação de configuração fornecida pela operadora. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_killBackgroundProcesses">Permite que a aplicação termine processos em segundo plano de outras aplicações. Isto pode fazer com que outras aplicações deixem de funcionar.</string>
   <string name="permdesc_manageFingerprint">Permite que a aplicação invoque métodos para adicionar e eliminar modelos de impressão digital para utilização.</string>
   <string name="permdesc_manageNetworkPolicy">Permite que a aplicação faça a gestão de políticas de rede e defina regras específicas de aplicações.</string>
@@ -727,7 +727,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_recordAudio">Permite que a aplicação grave áudio com o microfone. Esta permissão permite que a aplicação grave áudio em qualquer altura sem a confirmação do utilizador.</string>
   <string name="permdesc_register_call_provider">Permite que a aplicação registe novas ligações de telecomunicação.</string>
   <string name="permdesc_register_sim_subscription">Permite que a aplicação registe novas ligações SIM de telecomunicações.</string>
-  <string name="permdesc_removeDrmCertificates">Permite que uma aplicação remova certificados DRM. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_removeDrmCertificates">Permite que uma aplicação remova certificados DRM. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_reorderTasks">Permite que a aplicação mova tarefas para primeiro e segundo plano. A aplicação poderá fazê-lo sem qualquer entrada do utilizador.</string>
   <string name="permdesc_requestInstallPackages">Permite que uma aplicação peça a instalação de pacotes.</string>
   <string name="permdesc_route_media_output">Permite que a aplicação encaminhe a saída de som multimédia para outros dispositivos externos.</string>
@@ -780,7 +780,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permission_request_notification_with_subtitle">"Permissão pedida
 para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">Aceder à localização aproximada (baseada na rede)</string>
-  <string name="permlab_accessDrmCertificates">aceder a certificados DRM</string>
+  <string name="permlab_accessDrmCertificates">Aceder a certificados DRM</string>
   <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
   <string name="permlab_accessImsCallService">aceder ao serviço de chamadas IMS</string>
   <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>

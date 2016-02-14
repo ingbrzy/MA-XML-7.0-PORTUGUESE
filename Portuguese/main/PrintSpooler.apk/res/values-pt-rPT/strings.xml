@@ -33,8 +33,8 @@
   <string name="page_count_unknown">Páginas</string>
   <string name="page_description_template">Página %1$d de %2$d</string>
   <string name="pages_range_example">Ex.: 1–5, 8, 11–13</string>
-  <string name="permdesc_accessAllPrintJobs">Permite ao titular ter acesso a trabalhos de impressão criados por outra aplicação. Nunca deverá ser necessário para aplicações normais.</string>
-  <string name="permdesc_startPrintServiceConfigActivity">Permite ao titular iniciar a configuração das actividades de impressão. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_accessAllPrintJobs">Permite ao titular ter acesso a trabalhos de impressão criados por outra aplicação. Nunca deve ser necessário para aplicações normais.</string>
+  <string name="permdesc_startPrintServiceConfigActivity">Permite ao titular iniciar a configuração das actividades de impressão. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permlab_accessAllPrintJobs">Aceder a todos os trabalhos de impressão</string>
   <string name="permlab_startPrintServiceConfigActivity">Iniciar configuração das actividades de impressão</string>
   <string name="print_add_printer">Adicionar impressora</string>
