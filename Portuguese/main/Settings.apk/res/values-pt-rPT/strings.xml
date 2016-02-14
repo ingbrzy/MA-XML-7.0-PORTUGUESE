@@ -2948,7 +2948,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_required_info_text">Para completar a instalação é necessário o seu dispositivo ter acesso ao Wi-Fi. Depois da instalação pode alternar entre os dados móveis e o Wi-Fi.</string>
   <string name="wifi_save">Guardar</string>
   <string name="wifi_scan_always_available">Localizar está sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Deixe o serviço de localização do Google e outras aplicações pesquisar por outras redes quando o Wi-Fi estiver desligado</string>
+  <string name="wifi_scan_always_available_summary">Permita que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando Wi-Fi está desligado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
   <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s deseja activar a verificação de rede, mesmo quando o Wi-Fi está desligado.
