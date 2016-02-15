@@ -181,7 +181,7 @@
   <string name="folder_exist">A pasta já existe.</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
-  <string name="forward_to_web_recycle_prompt"><a href=\"%1$s\">Toque</a>para ir para a pasta do lixo</string>
+  <string name="forward_to_web_recycle_prompt"><a href="%1$s">Toque</a>para ir para a pasta do lixo</string>
   <string name="found_router">Router ligado</string>
   <string name="found_usb">Armazenamento USB ligado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
