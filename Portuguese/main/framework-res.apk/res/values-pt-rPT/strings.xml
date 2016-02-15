@@ -955,7 +955,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie a administração CDMA. As aplicações maliciosas podem iniciar a administração CDMA desnecessáriamente.</string>
   <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o telefone mais lento.</string>
   <string name="permdesc_pkgUsageStats">Permite que a aplicação modifique as estatísticas de utilização recolhidas dos componentes. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_processOutgoingCalls">Permite que a aplicação processe chamadas efectuadas e mude o número a marcar. Esta autorização permite que a aplicação monitore, redireccione ou impeça a realização de chamadas.</string>
+  <string name="permdesc_processOutgoingCalls">Permite que a aplicação processe chamadas efectuadas e mude o número a marcar. Esta autorização permite que a aplicação monitorize, redireccione ou impeça a realização de chamadas.</string>
   <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do calendário guardados no telefone, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do calendário, independentemente da confidencialidade ou da sensibilidade.</string>
   <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do telefone, incluindo dados acerca de chamadas recebidas e efectuadas. Esta autorização permite que as aplicações guardem os dados de registo de chamadas e as aplicações maliciosas podem partilhar dados de registo de chamadas sem o seu conhecimento.</string>
   <string name="permdesc_readCellBroadcasts">Permite que a aplicação leia mensagens de transmissão celular recebidas pelo seu dispositivo. Os alertas de transmissão celular são fornecidos em algumas localizações para avisá-lo sobre situações de emergência. As aplicações maliciosas podem interferir com o desempenho ou funcionamento do seu dispositivo quando for recebida uma transmissão celular de emergência.</string>
@@ -1020,7 +1020,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_uninstall_shortcut">Permite que a aplicação remova atalhos da Página inicial, sem a intervenção do utilizador.</string>
   <string name="permdesc_updateAppOpsStats">Permite à aplicação modificar as estatísticas recolhidas sobre o funcionamento da aplicação. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_updateBatteryStats">Permite à aplicação modificar as estatísticas recolhidas sobre a bateria. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_updateLock">Permite ao administrador disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para actualização do dispositivo.</string>
+  <string name="permdesc_updateLock">Permite ao administrador disponibilizar informações ao sistema acerca do melhor momento para efectuar um reinício não interactivo para a actualização do dispositivo.</string>
   <string name="permdesc_useCredentials">Permite que a aplicação solicite tokens de autenticação.</string>
   <string name="permdesc_use_sip">Permite que a aplicação efectue e receba chamadas SIP.</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>
@@ -1246,7 +1246,7 @@ para a conta %s."</string>
   <string name="permlab_readCallLog">ler registo de chamadas</string>
   <string name="permlab_readCellBroadcasts">ler mensagens de transmissão móveis</string>
   <string name="permlab_readContacts">ler os contactos</string>
-  <string name="permlab_readDictionary">ler as palavras adicionados ao dicionário</string>
+  <string name="permlab_readDictionary">ler as palavras adicionadas ao dicionário</string>
   <string name="permlab_readFrameBuffer">ler o buffer do frame</string>
   <string name="permlab_readHistoryBookmarks">ler os marcadores da Web e histórico</string>
   <string name="permlab_readInputState">gravar o que utilizador escreve e as acções que efectua</string>
@@ -1275,7 +1275,7 @@ para a conta %s."</string>
   <string name="permlab_runSetActivityWatcher">monitorizar e controlar a inicialização de todas as aplicações</string>
   <string name="permlab_sdcardAccessAll">acesso ao armazenamento externo de todos os utilizadores</string>
   <string name="permlab_sdcardRead">ler os conteúdos do cartão SD</string>
-  <string name="permlab_sdcardWrite">modificar ou eliminar conteúdos do cartão SD</string>
+  <string name="permlab_sdcardWrite">modificar/eliminar conteúdos do cartão SD</string>
   <string name="permlab_sendRespondViaMessageRequest">enviar resposta via eventos de mensagem</string>
   <string name="permlab_sendSms">enviar mensagens SMS</string>
   <string name="permlab_serialPort">aceder a portas série</string>
