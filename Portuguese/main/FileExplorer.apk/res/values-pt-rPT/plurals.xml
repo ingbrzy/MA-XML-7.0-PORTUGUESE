@@ -177,11 +177,11 @@
         <item quantity="many">Copiados %1$d vídeos WeChat.</item>
     </plurals>
 	<plurals name="remote_video_update">
-    <item quantity="other">Encontrados %1$d novos vídeos</item>
-    <item quantity="zero">Encontrados %1$d novos vídeos</item>
-    <item quantity="one">Encontrados %1$d novo vídeo</item>
-    <item quantity="two">Encontrados %1$d novos vídeos</item>
-    <item quantity="few">Encontrados %1$d novos vídeos</item>
-    <item quantity="many">Encontrados %1$d novos vídeos</item>
+    <item quantity="other">Encontrados %1$d vídeos novos</item>
+    <item quantity="zero">Encontrados %1$d vídeos novos</item>
+    <item quantity="one">Encontrado %1$d vídeo novo</item>
+    <item quantity="two">Encontrados %1$d vídeos novos</item>
+    <item quantity="few">Encontrados %1$d vídeos novos</item>
+    <item quantity="many">Encontrados %1$d vídeos novos</item>
   </plurals>
 </resources>
