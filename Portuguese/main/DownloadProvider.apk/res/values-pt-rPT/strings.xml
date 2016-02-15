@@ -41,7 +41,7 @@
   <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir arquivos para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
   <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. As aplicações maliciosas podem utilizar isto para confundir outras aplicações que fazem transferências de arquivos.</string>
   <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir arquivos. As aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
-  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas usam isto para interromper as transferências e aceder a informações privadas.</string>
+  <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
   <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador.</string>
   <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
   <string name="permlab_accessAllDownloads">Aceder a todas as transferências do sistema</string>
