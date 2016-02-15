@@ -1,28 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Galeria</string>
+  <string name="app_name">Ecrãs de bloqueio diários</string>
+  <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
   <string name="cancel">Sair</string>
+  <string name="cancel_international">Cancelar</string>
   <string name="change_time">Alterar intervalo</string>
   <string name="day">1 dia</string>
-  <string name="declaration">Transfira conteúdos gratuitos e actualizados. Mantenha-se a par das notícias mais recentes, estreia de filmes, celebridades.</string>
-  <string name="declaration_lockscreen_title">Activar ecrãs de bloqueio diários</string>
-  <string name="declaration_title">Termos de Utilização</string>
+  <string name="declaration">Actualizações e destaques de notícias, celebridades, reportagens, estilos de vida. Tudo para si em tempo real.</string>
+  <string name="declaration_lockscreen_title">Ligar ecrãs de bloqueio diários</string>
+  <string name="declaration_title">Termos e Condições</string>
   <string name="hour_1">1 hora</string>
   <string name="hour_3">3 horas</string>
-  <string name="lockscreen_magazine_subscribe">%1$s seguidores</string>
-  <string name="lockscreen_magazine_summary">Obter papéis de parede entregues no seu ecrã de bloqueio todos os dias.</string>
-  <string name="lockscreen_magazine_system_subscribe">%1$s papéis de parede</string>
+  <string name="lockscreen_magazine_summary">Obter papeis de parede entregues no seu ecrã de bloqueio todos os dias.</string>
   <string name="lockscreen_magazine_system_title">Predefinido</string>
   <string name="lockscreen_magazine_title">Papéis de parede diários</string>
   <string name="no_long_show">Não mostrar novamente</string>
   <string name="ok_lockscreen">OK</string>
-  <string name="ok_network">Concordar e activar ecrãs de bloqueio diários</string>
+  <string name="ok_network">Concordar e ligar</string>
   <string name="resource_apply">Aplicar</string>
-  <string name="resource_no_network_text">Não é possível ligação à rede.</string>
+  <string name="resource_no_network_text">Não é possível ligação à rede</string>
   <string name="setting_head">Definições</string>
-  <string name="summary">"Ao utilizar este produto está a concordar com a nossa &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Acordo de Utilizador&lt;/a&gt; e &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Política de Privacidade&lt;/a&gt;. Esta aplicação necessita de uma ligação à internet para funcionar normalmente."</string>
-  <string name="theme_apply_failured">Não é possível aplicar papel de parede no ecrã de bloqueio</string>
-  <string name="theme_apply_success">Imagem aplicada no ecrã de bloqueio</string>
+  <string name="summary">"Aceitar o nosso <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acordo de Utilizador</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para começar. Necessário ligação à internet."</string>
+  <string name="summary_international">"Ao utilizar este produto, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à internet para funcionar normalmente.​"</string>
+  <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
+  <string name="theme_apply_success">Bloqueio de ecrã aplicado</string>
   <string name="theme_applying">A aplicar…</string>
-  <string name="wlan_download">Apenas Wi-Fi</string>
+  <string name="wlan_download">Actualizar quando ligado ao Wi-Fi</string>
 </resources>
