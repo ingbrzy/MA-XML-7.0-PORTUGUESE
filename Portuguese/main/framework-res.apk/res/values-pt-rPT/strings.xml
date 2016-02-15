@@ -855,6 +855,8 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_bindJobService">Permite ao sistema Android executar a aplicação em segundo plano quando requisitado.</string>
   <string name="permdesc_bindNfcService">Permite que o titular vincule aplicações que estão a emular cartões NFC. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindNotificationListenerService">Permite que o titular vincule a interface de nível superior de um serviço de escuta de notificações. Nunca deverá ser necessário para aplicações normais.</string>
+  <string name="permdesc_bind_incall_service">Permite que a aplicação controle quando e como o utilizador vê o ecrã durante uma chamada.</string>
+  <string name="permdesc_bind_connection_service">Permite à aplicação interagir com serviços telefónicos e efectuar/receber chamadas.</string>
   <string name="permdesc_bindPackageVerifier">Permite que o titular solicite verificações de pacotes. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindPrintService">Permite que o titular vincule a interface de nível superior de um serviço de impressão. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_bindPrintSpoolerService">Permite que o titular vincule a interface de nível superior de um serviço de spooler de impressão. Nunca deverá ser necessário para aplicações normais.</string>
@@ -1247,7 +1249,7 @@ para a conta %s."</string>
   <string name="permlab_readCellBroadcasts">ler mensagens de transmissão móveis</string>
   <string name="permlab_readContacts">ler os contactos</string>
   <string name="permlab_readDictionary">ler as palavras adicionadas ao dicionário</string>
-  <string name="permlab_readFrameBuffer">ler o buffer do frame</string>
+  <string name="permlab_readFrameBuffer">ler a memória intermédia de fotogramas</string>
   <string name="permlab_readHistoryBookmarks">ler os marcadores da Web e histórico</string>
   <string name="permlab_readInputState">gravar o que utilizador escreve e as acções que efectua</string>
   <string name="permlab_readLogs">ler dados sensíveis do registo</string>
