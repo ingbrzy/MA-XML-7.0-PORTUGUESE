@@ -1110,7 +1110,7 @@ para a conta %s."</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
   <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
   <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
-  <string name="permlab_accessMockLocation">Fontes de localização fictícias para teste</string>
+  <string name="permlab_accessMockLocation">fontes de localização fictícias para teste</string>
   <string name="permlab_accessMtp">implementar protocolo MTP</string>
   <string name="permlab_accessNetworkConditions">ouvir as observações sobre as condições da rede</string>
   <string name="permlab_accessNetworkState">ver ligações de rede</string>
@@ -1148,13 +1148,13 @@ para a conta %s."</string>
   <string name="permlab_bind_call_service">interagir com o ecrã de chamada</string>
   <string name="permlab_bluetooth">sincronizar com dispositivos Bluetooth</string>
   <string name="permlab_bluetoothAdmin">aceder às definições de Bluetooth</string>
-  <string name="permlab_bluetoothPriv">Permitir emparelhamento Bluetooth por aplicação</string>
+  <string name="permlab_bluetoothPriv">permitir emparelhamento Bluetooth por aplicação</string>
   <string name="permlab_brick">desactivar telefone de forma permanente</string>
   <string name="permlab_broadcastPackageRemoved">enviar difusão de pacote removido</string>
   <string name="permlab_broadcastSmsReceived">enviar difusão recebida por SMS</string>
   <string name="permlab_broadcastSticky">enviar difusão fixa</string>
   <string name="permlab_broadcastWapPush">enviar difusão recebida através de PUSH WAP</string>
-  <string name="permlab_cache_filesystem">Aceder aos ficheiros de sistema em cache</string>
+  <string name="permlab_cache_filesystem">aceder aos ficheiros de sistema em cache</string>
   <string name="permlab_callPhone">marcar números de telefone directamente</string>
   <string name="permlab_callPrivileged">marcar directamente qualquer número de telefone</string>
   <string name="permlab_camera">tirar fotos e vídeos</string>
@@ -1204,7 +1204,7 @@ para a conta %s."</string>
   <string name="permlab_hardware_test">testar hardware</string>
   <string name="permlab_injectEvents">pressionar as teclas e botões de controlo</string>
   <string name="permlab_installLocationProvider">autorização para instalar um fornecedor de localização</string>
-  <string name="permlab_installPackages">Instalar aplicações directamente</string>
+  <string name="permlab_installPackages">instalar aplicações directamente</string>
   <string name="permlab_install_shortcut">instalar atalhos</string>
   <string name="permlab_interactAcrossUsers">interacção entre os utilizadores</string>
   <string name="permlab_interactAcrossUsersFull">permissão total de interacção entre os utilizadores</string>
@@ -1213,7 +1213,7 @@ para a conta %s."</string>
   <string name="permlab_killBackgroundProcesses">fechar outras aplicações</string>
   <string name="permlab_locationUpdates">controlar notificações de actualização de localização</string>
   <string name="permlab_magnify_display">ampliar exibição</string>
-  <string name="permlab_manageAccounts">Adicionar ou remover contas</string>
+  <string name="permlab_manageAccounts">adicionar ou remover contas</string>
   <string name="permlab_manageActivityStacks">gerir uma grande quantidade de actividades</string>
   <string name="permlab_manageAppTokens">gerir tokens da aplicação</string>
   <string name="permlab_manageCaCertificates">gerir certificados de confiança</string>
