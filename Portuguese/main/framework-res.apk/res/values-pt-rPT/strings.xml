@@ -924,7 +924,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_installLocationProvider">Criar fontes de localização fictícias para fins de teste ou instalar um fornecedor de localização novo. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
   <string name="permdesc_installPackages">Permite que a aplicação instale ou actualize novos pacotes Android. As aplicações maliciosas podem utilizar isto para adicionar novas permissões de segurança elevada.</string>
   <string name="permdesc_install_shortcut">Permite que a aplicação adicione atalhos na Página inicial, sem a intervenção do usuário.</string>
-  <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções em diferentes usuários no dispositivo. As aplicações maliciosas podem utilizar isso para violar a protecção entre os usuários.</string>
+  <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções através de vários utilizadores no dispositivo. As aplicações maliciosas podem utilizar isto para violar a protecção entre utilizadores.</string>
   <string name="permdesc_interactAcrossUsersFull">Permite todas as interacções possíveis em todos os utilizadores.</string>
   <string name="permdesc_internalSystemWindow">Permite que a aplicação crie janelas que se destinam a ser utilizadas ​​pela interface de utilizador do sistema interno. Nunca será necessário para aplicações normais.</string>
   <string name="permdesc_invokeCarrierSetup">Permite ao titular invocar a aplicação de configuração fornecida pelo transportador. Não deve ser utilizado por aplicações normais.</string>
@@ -954,7 +954,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_packageVerificationAgent">Permite que a aplicação verifique se um pacote é instalável.</string>
   <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie a administração CDMA. As aplicações maliciosas podem iniciar a administração CDMA desnecessáriamente.</string>
   <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o telefone mais lento.</string>
-  <string name="permdesc_pkgUsageStats">Permite que a aplicação modifique as estatísticas de utilização de componentes recolhidas. Não se destina a utilização por aplicações normais.</string>
+  <string name="permdesc_pkgUsageStats">Permite que a aplicação modifique as estatísticas de utilização recolhidas dos componentes. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_processOutgoingCalls">Permite que a aplicação processe chamadas efectuadas e mude o número a marcar. Esta autorização permite que a aplicação monitore, redireccione ou impeça a realização de chamadas.</string>
   <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do calendário guardados no telefone, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do calendário, independentemente da confidencialidade ou da sensibilidade.</string>
   <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do telefone, incluindo dados acerca de chamadas recebidas e efectuadas. Esta autorização permite que as aplicações guardem os dados de registo de chamadas e as aplicações maliciosas podem partilhar dados de registo de chamadas sem o seu conhecimento.</string>
@@ -1108,7 +1108,7 @@ Tente novamente dentro de %d segundos."</string>
 para a conta %s."</string>
   <string name="permlab_accessCoarseLocation">aceder à localização aproximada (baseada na rede)</string>
   <string name="permlab_accessContentProvidersExternally">aceder a fornecedores de conteúdos externos</string>
-  <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e rede)</string>
+  <string name="permlab_accessFineLocation">aceder à localização exacta (baseada no GPS e na rede)</string>
   <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
   <string name="permlab_accessMockLocation">fontes de localização fictícias para teste</string>
   <string name="permlab_accessMtp">implementar protocolo MTP</string>
@@ -1137,7 +1137,7 @@ para a conta %s."</string>
   <string name="permlab_bindJobService">"executar tarefa agendada em segundo plano da aplicação"</string>
   <string name="permlab_bindNfcService">vincular ao serviço NFC</string>
   <string name="permlab_bindNotificationListenerService">vincular a um serviço de escuta de notificações</string>
-  <string name="permlab_bind_connection_service">Interagir com serviços telefónicos</string>
+  <string name="permlab_bind_connection_service">interagir com serviços telefónicos</string>
   <string name="permlab_bind_incall_service">interagir com o ecrã durante uma chamada</string>
   <string name="permlab_bindPackageVerifier">vincular a um verificador de pacotes</string>
   <string name="permlab_bindPrintService">vincular a um serviço de impressão</string>
@@ -1148,9 +1148,9 @@ para a conta %s."</string>
   <string name="permlab_bindVpnService">vincular a um serviço VPN</string>
   <string name="permlab_bindWallpaper">vincular a um papel de parede</string>
   <string name="permlab_bind_call_service">interagir com o ecrã de chamada</string>
-  <string name="permlab_bluetooth">sincronizar com dispositivos Bluetooth</string>
+  <string name="permlab_bluetooth">emparelhar com dispositivos Bluetooth</string>
   <string name="permlab_bluetoothAdmin">aceder às definições de Bluetooth</string>
-  <string name="permlab_bluetoothPriv">Permitir emparelhamento Bluetooth por aplicação</string>
+  <string name="permlab_bluetoothPriv">permitir emparelhamento Bluetooth por aplicação</string>
   <string name="permlab_brick">desactivar telefone de forma permanente</string>
   <string name="permlab_broadcastPackageRemoved">enviar difusão de pacote removido</string>
   <string name="permlab_broadcastSmsReceived">enviar difusão recebida por SMS</string>
@@ -1276,7 +1276,7 @@ para a conta %s."</string>
   <string name="permlab_sdcardAccessAll">acesso ao armazenamento externo de todos os utilizadores</string>
   <string name="permlab_sdcardRead">ler os conteúdos do cartão SD</string>
   <string name="permlab_sdcardWrite">modificar ou eliminar conteúdos do cartão SD</string>
-  <string name="permlab_sendRespondViaMessageRequest">Enviar resposta via eventos de mensagem</string>
+  <string name="permlab_sendRespondViaMessageRequest">enviar resposta via eventos de mensagem</string>
   <string name="permlab_sendSms">enviar mensagens SMS</string>
   <string name="permlab_serialPort">aceder a portas série</string>
   <string name="permlab_setAlarm">definir um alarme</string>
