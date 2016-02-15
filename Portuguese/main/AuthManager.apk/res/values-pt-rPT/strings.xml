@@ -84,7 +84,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">ligar ou desligar o Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s aplicações podem ligar ou desligar o Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensores de corpo</string>
-  <string name="HIPS_Perm_Body_Sensors_Desc">Sensores de corpo (Sensor de batimentos cardíacos)</string>
+  <string name="HIPS_Perm_Body_Sensors_Desc">sensores de corpo (Sensor de batimentos cardíacos)</string>
   <string name="HIPS_Perm_Calendar">Ler eventos do calendário</string>
   <string name="HIPS_Perm_Calendar_Desc">ler os seus eventos do calendário</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s aplicações podem ler os seus eventos do calendário</string>
@@ -147,7 +147,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Notification_Desc">mostrar notificações na área de notificações</string>
   <string name="HIPS_Perm_Notification_Hint">%1$s aplicações podem mostrar notificações</string>
   <string name="HIPS_Perm_PhoneID">Obter informação do dispositivo</string>
-  <string name="HIPS_Perm_PhoneID_Desc">Aceder ao número de telefone, IMEI e IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc">aceder ao número de telefone, IMEI e IMSI</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s aplicações podem ler o IMEI e IMSI do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_ICCID">ler o ICCD do dispositivo</string>
   <string name="HIPS_Perm_PhoneID_IMEI">ler o IMEI do dispositivo</string>
@@ -218,15 +218,15 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Xiaomi_Account_Desc">aceder à sua conta Mi</string>
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder à sua conta Mi</string>
   <string name="HIPS_Perm_add_voicemail">Mensagens de Voz</string>
-  <string name="HIPS_Perm_add_voicemail_Desc">Adicionar mensagens de voz de sistema</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
   <string name="HIPS_Perm_get_accounts">Aceder contas no dispositivo</string>
   <string name="HIPS_Perm_get_accounts_Desc">Aceder a todas as contas no dispositivo</string>
   <string name="HIPS_Perm_install_shortcut">Atalhos de ecrã inicial</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">Adicionar atalhos ao ecrã inicial</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos ao ecrã inicial</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
-  <string name="HIPS_Perm_process_nfc_Desc">Aceder ao hardware de NFC (Near Field Communication)</string>
+  <string name="HIPS_Perm_process_nfc_Desc">aceder ao hardware de NFC (Near Field Communication)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Aceder aplicação Telefone</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">Monitorizar e terminar chamadas</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
   <string name="HIPS_Perm_use_sip_Desc">Utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
