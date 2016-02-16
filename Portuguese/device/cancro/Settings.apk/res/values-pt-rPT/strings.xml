@@ -395,7 +395,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Nível da bateria</string>
   <string name="battery_light_title">LED da bateria</string>
-  <string name="battery_light_summary">LED da bateria ligado quando a carregar</string>
+  <string name="battery_light_summary">Activar LED da bateria quando a carregar</string>
   <string name="battery_msg_unaccounted">A utilização da bateria é uma aproximação da utilização de energia e não inclui todas as fontes de descarregamento da bateria. Os diversos são a diferença entre a utilização de energia aproximada calculada e o descarregamento real observado na bateria.</string>
   <string name="battery_saver">Poupança de bateria</string>
   <string name="battery_saver_turn_on_automatically_never">Nunca</string>
