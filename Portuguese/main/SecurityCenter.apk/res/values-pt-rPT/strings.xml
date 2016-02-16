@@ -201,7 +201,7 @@
   <string name="hints_scan_result_safe">Seguro</string>
   <string name="hints_scan_result_virus">Vírus detectados</string>
   <string name="hints_scanning_text">A verificar…</string>
-  <string name="hints_scanning_virus_by_cloud">Verificação na nuvem em curso…</string>
+  <string name="hints_scanning_virus_by_cloud">Verificação da Nuvem em curso…</string>
   <string name="hints_unknown_virus_name">Desconhecido</string>
   <string name="hints_virus_apk_list_item_summary">Vírus (apk)</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
@@ -534,8 +534,8 @@
   <string name="title_cleaner_cloudscan">Enviar nome das pastas</string>
   <string name="title_cloud_account">Conta Mi</string>
   <string name="title_cloud_service">Nuvem Mi</string>
-  <string name="title_cloud_space_almost_full">Armazenamento na Nuvem quase cheio, itens podem não sincronizar</string>
-  <string name="title_cloud_space_full">"Armazenamento na Nuvem cheio, não é possível sincronizar fotos"</string>
+  <string name="title_cloud_space_almost_full">Armazenamento da Nuvem quase cheio, itens podem não sincronizar</string>
+  <string name="title_cloud_space_full">"Armazenamento da Nuvem está cheio, não é possível sincronizar fotos"</string>
   <string name="title_cmcc_app_check">Verificação não está completa</string>
   <string name="title_data_flow">Definir um aviso de utilização de dados</string>
   <string name="title_default_app">%s MIUI não está como predefinido</string>
@@ -578,7 +578,7 @@
   <string name="toast_shortcut_uninstall">Atalho removido</string>
   <string name="toast_show_notification">Fixado na área de notificações</string>
   <string name="toast_virus_cloudscan">A verificação de vírus irá utilizar definições online</string>
-  <string name="toast_virus_in_cloud_scanning">Não pode parar a verificação na nuvem</string>
+  <string name="toast_virus_in_cloud_scanning">Não pode parar a verificação da Nuvem</string>
   <string name="usage_type_audio">Áudio</string>
   <string name="usage_type_cpu">CPU total</string>
   <string name="usage_type_cpu_foreground">CPU em primeiro plano</string>

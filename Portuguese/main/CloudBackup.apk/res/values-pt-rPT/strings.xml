@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Aguarde…</string>
-  <string name="app_name">Cópias Nuvem Mi​</string>
+  <string name="app_name">Cópias da Nuvem Mi​</string>
   <string name="as_new_device">Substituir o ecrã inicial e definições anteriores</string>
-  <string name="as_new_device_summary">Eliminar cópias Nuvem Mi anteriores</string>
+  <string name="as_new_device_summary">Eliminar cópias anteriores da Nuvem Mi</string>
   <string name="back_up_task_in_process">A fazer cópia…</string>
   <string name="back_up_task_unfinished">Cópia não terminada</string>
   <string name="backing_up_to_micloud">A fazer cópia…</string>
@@ -52,7 +52,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_backup_detail_frequence_day">Copiar uma vez %1$s</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
   <string name="cloud_backup_detail_manage_summary">Cópias: %1$s Tamanho: %2$s</string>
-  <string name="cloud_backup_detail_state">Cópias Nuvem Mi</string>
+  <string name="cloud_backup_detail_state">Cópias da Nuvem Mi</string>
   <string name="cloud_backup_detail_state_summary">Aplicações, ecrã inicial e definições de sistema</string>
   <string name="cloud_backup_detail_time">". Data da cópia: %1$s"</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
@@ -89,9 +89,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
-  <string name="query_restore_back_view">Cópias Nuvem Mi</string>
+  <string name="query_restore_back_view">Cópias da Nuvem Mi</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluidas na cópia vão ser movidas para o último ecrã inicial.</string>
-  <string name="query_restore_summary">Encontrou uma cópia Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias Nuvem Mi anteriores?</string>
+  <string name="query_restore_summary">Encontrou uma cópia da Nuvem Mi para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Nuvem Mi anteriores?</string>
   <string name="recover_from_micloud">Restaurar da Nuvem Mi</string>
   <string name="recover_home_settings">Restaurar definições do ecrã inicial</string>
   <string name="recover_miui_settings">Restaurar definições de sistema</string>
