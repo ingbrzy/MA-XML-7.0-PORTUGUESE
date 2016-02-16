@@ -1477,8 +1477,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="inactive_app_inactive_summary">Inactiva. Toque para activar.</string>
   <string name="inactive_apps_title">Aplicações inactivas</string>
   <string name="include_app_data_title">Incluir dados de aplicações</string>
-  <string name="incoming_call_breathing_light_color_title">Cor do LED nas chamadas</string>
-  <string name="incoming_call_breathing_light_freq_title">Frequência do flash do LED nas chamadas</string>
+  <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
+  <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
   <string name="incoming_call_volume_title">Toques</string>
   <string name="information_dialog_button_text">Entendi</string>
   <string name="input_method">Teclado</string>
@@ -1919,8 +1919,8 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="miui_screensaver_state_on">Ligado</string>
   <string name="miui_screensaver_title">Protecção de ecrã</string>
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
-  <string name="mms_breathing_light_color_title">Cor do LED nas mensagens</string>
-  <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas mensagens</string>
+  <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
+  <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
   <string name="mobile_connect_to_internet">Por favor, active a ligação à internet</string>
   <string name="mobile_data_always_on">Dados móveis sempre activados</string>
   <string name="mobile_data_always_on_summary">Manter sempre os dados móveis activados, mesmo quando o Wi-Fi estiver activado (para mudança de rede rápida)</string>
@@ -2084,7 +2084,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="not_installed">Não instalado</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
-  <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+  <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
   <string name="notification_log_title">Registo de notificações</string>

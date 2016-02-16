@@ -1192,8 +1192,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="immediately_destroy_activities_summary">Destruir todas as actividades assim que forem abandonadas</string>
   <string name="ims_reg_required_off">Desactivar registo obrigatório IMS</string>
   <string name="ims_reg_required_on">Activar registo obrigatório IMS</string>
-  <string name="incoming_call_breathing_light_color_title">Cor do LED nas chamadas</string>
-  <string name="incoming_call_breathing_light_freq_title">Frequência do flash do LED nas chamadas</string>
+  <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
+  <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
   <string name="incoming_call_volume_title">Toques</string>
   <string name="information_dialog_button_text">Entendi</string>
   <string name="input_method">Teclado</string>
@@ -1545,8 +1545,8 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="miui_screensaver_state_on">Ligado</string>
   <string name="miui_screensaver_title">Protecção de ecrã</string>
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
-  <string name="mms_breathing_light_color_title">Cor do LED nas mensagens</string>
-  <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas mensagens</string>
+  <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
+  <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
   <string name="mobile_connect_to_internet">Por favor, active a ligação à internet</string>
   <string name="mobile_insert_sim_card">Insira um cartão SIM e reinicie</string>
   <string name="mobile_no_provisioning_url">%1$s não tem serviço de Web</string>
@@ -1678,7 +1678,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="normal_smartcover_title">Capa com frente opaca</string>
   <string name="not_installed">Não instalado</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
-  <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+  <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Activar %1$s?</string>
   <string name="notification_pulse_title">Activar LED de notificações</string>
