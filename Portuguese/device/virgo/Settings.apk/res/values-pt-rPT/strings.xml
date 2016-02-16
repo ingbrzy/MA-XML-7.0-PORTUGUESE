@@ -2071,7 +2071,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_media_button_receiver">Não</string>
   <string name="no_memory_use_summary">Nenhuma memória utilizada nas últimas 3 horas</string>
   <string name="no_nearby_wifi">Não foram detectadas redes</string>
-  <string name="no_notification_listeners">Sem aplicações emisoras de notificações instaladas.</string>
+  <string name="no_notification_listeners">Sem aplicações emissoras de notificações instaladas.</string>
   <string name="no_running_services">Sem serviços em execução.</string>
   <string name="no_services">Sem serviços activos</string>
   <string name="no_trust_agents">Nenhum agente fidedigno disponível</string>
@@ -2088,7 +2088,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_listener_security_warning_summary">%1$s vai poder ler todas as notificações escritas pelo sistema ou outra aplicação instalada, que pode incluir informação pessoal como nomes de contactos e texto de mensagens enviados para si. Pode dispensar estas notificações ou tocar nos botões de acção dentro deles.</string>
   <string name="notification_listener_security_warning_title">Permitir o acesso a notificações de %1$s?</string>
   <string name="notification_log_title">Registo de notificações</string>
-  <string name="notification_pulse_title">Utilizar LED de notificações</string>
+  <string name="notification_pulse_title">LED de notificações</string>
   <string name="notification_ringtone_title">Toque de notificação predefinido</string>
   <string name="notification_section_header">Notificações</string>
   <string name="notification_settings">Som e notificações</string>
@@ -2119,12 +2119,12 @@ Seleccione o seu sistema operativo:"</string>
   <string name="oldman_mode_enabled_name">Modo Leve</string>
   <string name="oldman_mode_entry_name">Modo Leve</string>
   <string name="oldman_mode_entry_title">Modo Leve</string>
-  <string name="oldman_mode_settings_caption">Definições do modo leve</string>
+  <string name="oldman_mode_settings_caption">Definições do modo Leve</string>
   <string name="oldman_mode_summary">Utilizar menus simplificados</string>
-  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à internet e ler os seus contactos, mensagens, e localização para funcionar normalmente.</string>
+  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à internet, ler os seus contactos, mensagens e obter a localização para funcionar normalmente</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos online</string>
-  <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro lançador.</string>
+  <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher.</string>
   <string name="only_when_charging">Apenas quando estiver a carregar</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes.</string>
