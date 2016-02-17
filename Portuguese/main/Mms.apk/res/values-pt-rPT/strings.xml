@@ -378,7 +378,7 @@
   <string name="pref_summary_mms_auto_retrieval">Transferir fotos e vídeos automaticamente nas mensagens</string>
   <string name="pref_summary_mms_read_reports">Mostrar notificação na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Transferir fotos e vídeos automaticamente nas mensagens quando o roaming estiver activo</string>
-  <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e barra de estado</string>
+  <string name="pref_summary_notification_body_enabled">>Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo Convidado</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
@@ -402,7 +402,7 @@
   <string name="pref_title_mms_read_reports">Relatórios de leitura</string>
   <string name="pref_title_mms_retrieval_during_roaming">Transferir conteúdo MMS em roaming</string>
   <string name="pref_title_mms_validity_period">Período de validade de MMS</string>
-  <string name="pref_title_notification_body_enabled">Mostrar mensagens</string>
+  <string name="pref_title_notification_body_enabled">Mensagens no ecrã de bloqueio</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
   <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver inactivo</string>
   <string name="pref_title_send_delivery_reports">Enviar mensagens de entrega</string>
@@ -569,7 +569,7 @@
   <string name="timed_message_in_total">(%d mensagens)</string>
   <string name="timed_message_to">para</string>
   <string name="title_allow_network_access">Actualizar informação automaticamente</string>
-  <string name="title_collapse_sp_messages">Agrupar notificações</string>
+  <string name="title_collapse_sp_messages">Grupo de notificações</string>
   <string name="title_date_type">Registo da hora da mensagem</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>

@@ -12,6 +12,7 @@
   <string name="enable_find_device_error">Não foi possível ligar localizar dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar dispositivo está ligado</string>
   <string name="find_device">Localizar dispositivo</string>
+  <string name="find_device_crash">Localizar dispositivo fechou inesperadamente</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente.</string>
   <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente.</string>
@@ -23,6 +24,7 @@
   <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
 Se trocar de cartões SIM outra SMS irá ser enviada automaticamente para reactivar este recurso."</string>
   <string name="find_device_stop_noise">Toque OK para silenciar</string>
+  <string name="find_device_storage_corrupted">Armazenamento de Localizar dispositivo corrompido. O seu dispositivo está inseguro</string>
   <string name="find_device_success_title">Localizar dispositivo</string>
   <string name="i_know">OK</string>
   <string name="lock_msg_phone">Informação de contacto: %s</string>
@@ -42,6 +44,15 @@ Se trocar de cartões SIM outra SMS irá ser enviada automaticamente para reacti
   <string name="unlock_error_ssl_hand_shake">Não foi possível ligar ao servidor. Tente definir a data e hora manualmente.</string>
   <string name="unlock_error_unknown">Não é possível iniciar sessão</string>
   <string name="unlock_error_user_name">Utilizador inválido</string>
+  <string name="unlock_help">"Mantenha-se ligado à rede
+Certifique-se que inseriu um cartão SIM válido e que o seu dispositivo está ligado a uma rede Wi-Fi
+
+Esqueceu a palavra-passe?
+Vá a id.mi.com para redefinir a sua palavra-passe
+
+Outros motivos
+Inicie sessão em i.mi.com e tente desbloquear o seu dispositivo a partir de lá"</string>
+  <string name="unlock_help_title">Ajuda a desbloquear:</string>
   <string name="unlock_wrong_captcha">O código que introduziu está incorrecto.</string>
   <string name="unlocking">A activar…</string>
   <string name="verify_password_failed">Não foi possível verificar a Conta Mi. %s.</string>
