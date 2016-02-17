@@ -247,7 +247,7 @@
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Erro</string>
   <string name="menu_item_notification_power_text">Energia</string>
-  <string name="menu_item_notification_title">Mostrar no painel de notificações</string>
+  <string name="menu_item_notification_title">Mostrar na área de notificações</string>
   <string name="menu_item_settings_title">Definições</string>
   <string name="menu_item_shortcut_summary">Colocar recursos utilizados no ecrã inicial</string>
   <string name="menu_item_shortcut_title">Gerir atalhos</string>
@@ -506,7 +506,7 @@
   <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
   <string name="summary_dev">Evitar malware e proteger dados pessoais</string>
   <string name="summary_find_device">Localizar e bloquear o seu dispositivo em qualquer lugar</string>
-  <string name="summary_flow_notification">Mostrar as suas estatísticas de utilização de dados mensais no painel de notificações</string>
+  <string name="summary_flow_notification">Mostrar as suas estatísticas de utilização de dados mensais na área de notificações</string>
   <string name="summary_flow_purchase_beyond">Já excedeu o limite mensal de dados do seu plano de operadora em %sMB</string>
   <string name="summary_flow_purchase_left">Já só tem %sMB de dados móveis este mês</string>
   <string name="summary_flow_verify">Ainda não sincronizou as estatísticas de utilização de dados da operadora em %d dias</string>
@@ -521,7 +521,7 @@
   <string name="summary_permission_root">O dispositivo e os dados pessoais são mais vulneráveis a ataques de aplicações que têm acesso root</string>
   <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo</string>
   <string name="summary_saving_switch">Restringir aplicações de utilizar a sua ligação de dados móveis para transferir dados</string>
-  <string name="summary_show_notification">Fixar controlos de Segurança no painel de notificações</string>
+  <string name="summary_show_notification">Fixar controlos de Segurança na área de notificações</string>
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
   <string name="summary_usb">Prevenir malware de ser transmitido via USB</string>
   <string name="summary_virus">Remover vírus para manter o seu dispositivo seguro</string>
@@ -576,7 +576,7 @@
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>
   <string name="toast_shortcut_install">Atalho colocado no ecrã inicial</string>
   <string name="toast_shortcut_uninstall">Atalho removido</string>
-  <string name="toast_show_notification">Fixado no painel de notificações</string>
+  <string name="toast_show_notification">Fixado na área de notificações</string>
   <string name="toast_virus_cloudscan">A verificação de vírus irá utilizar definições online</string>
   <string name="toast_virus_in_cloud_scanning">Não pode parar a verificação da Nuvem</string>
   <string name="usage_type_audio">Áudio</string>
