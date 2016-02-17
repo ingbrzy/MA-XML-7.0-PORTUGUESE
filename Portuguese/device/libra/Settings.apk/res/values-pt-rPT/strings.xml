@@ -1776,7 +1776,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
   <string name="permission_manage">Gestor de permissões</string>
-  <string name="permission_manage_summary">Pedir permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
+  <string name="permission_manage_summary">Pedir a sua permissão antes de dar acesso às aplicações de lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
@@ -1791,7 +1791,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pico_not_installed">Não instalado</string>
   <string name="pico_voice_summary_female">Feminino</string>
   <string name="pico_voice_summary_male">Masculino</string>
-  <string name="picture_source">Fonte da imagem</string>
+  <string name="picture_source">Fotos</string>
   <string name="pin_failed">A operação PIN do SIM falhou!</string>
   <string name="ping_test_label">Executar teste de ping</string>
   <string name="please_select_phase2">Autenticação da Fase 2</string>
@@ -1833,7 +1833,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preferred_app_settings_reset_button">Redefinir</string>
   <string name="preferred_app_settings_reset_message">Todas as aplicações serão repostas para as predefinições de fábrica.</string>
   <string name="preferred_application_title">Preferidas %s</string>
-  <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de energia, reduzir a velocidade, e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso.</string>
+  <string name="preferred_application_warning_message">Substituir %1$s predefinido pode aumentar o consumo de energia, reduzir a velocidade e pode colocar em risco o conteúdo do telefone. Utilize %2$s em vez disso.</string>
   <string name="preferred_application_warning_replace">Substituir</string>
   <string name="preferred_application_warning_title">Substituir %s predefinido</string>
   <string name="preferred_application_warning_use_system">Utilizar %s</string>
