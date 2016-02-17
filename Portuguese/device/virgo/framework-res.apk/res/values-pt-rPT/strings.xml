@@ -695,7 +695,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado.</string>
   <string name="permdesc_flashlight">Permite à aplicação controlar a lanterna.</string>
   <string name="permdesc_getAccounts">Permite que a aplicação obtenha a lista de contas reconhecidas pelo telefone. Pode incluir qualquer conta criada pelas aplicações instaladas.</string>
-  <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanhos de cache da mesma</string>
+  <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanho de cache da mesma</string>
   <string name="permdesc_getTasks">Permite que a aplicação recupere informações acerca de tarefas executadas actual e recentemente. Isto pode permitir que a aplicação descubra informações acerca de quais as aplicações utilizadas no dispositivo.</string>
   <string name="permdesc_handoverStatus">Permite que esta aplicação receba informações acerca das transferências actuais do Android Beam</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos ao ecrã principal sem a intervenção do utilizador.</string>
@@ -715,7 +715,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca de contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento.</string>
   <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os URLs visitados pelo Navegador e todos os marcadores do Navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
   <string name="permdesc_readInstallSessions">Permite que uma aplicação leia sessões de instalação. Isto permite que veja detalhes acerca de instalações de pacotes activas.</string>
-  <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia utilização histórica da rede para redes e aplicações específicas.</string>
+  <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia a utilização histórica da rede para redes e aplicações específicas.</string>
   <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta permissão permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
   <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no telefone ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
   <string name="permdesc_readSyncSettings">Permite que a aplicação leia as definições de sincronização de uma conta. Por exemplo, pode determinar se a aplicação Contactos está sincronizada com uma conta.</string>

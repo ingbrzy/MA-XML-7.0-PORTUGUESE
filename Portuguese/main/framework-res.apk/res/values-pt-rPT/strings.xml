@@ -917,15 +917,15 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_getAccounts">Permite que a aplicação obtenha a lista de contas conhecidas pelo telefone. Pode incluir quaisquer contas criadas pelas aplicações instaladas.</string>
   <string name="permdesc_getAppOpsStats">Permite que a aplicação recupere as estatísticas recolhidas sobre o funcionamento de uma aplicação. Não deve ser utilizado por aplicações normais.</string>
   <string name="permdesc_getDetailedTasks">Permite à aplicação obter informações detalhadas sobre tarefas actualmente em execução e recentemente executadas. As aplicações maliciosas poderão descobrir informações privadas de outras aplicações.</string>
-  <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanhos do histórico de dados da mesma</string>
-  <string name="permdesc_getTasks">Permite que a aplicação recuperar informação sobre tarefas actuais ou recentes. Isso pode permitir que a aplicação descubra informações sobre quais aplicações são usadas ​​no dispositivo.</string>
+  <string name="permdesc_getPackageSize">Permite à aplicação obter o código, os dados e o tamanho de cache da mesma</string>
+  <string name="permdesc_getTasks">Permite à aplicação recuperar informação sobre as tarefas actuais ou recentes. Isto pode permitir que a aplicação descubra informações sobre as aplicações que são utilizadas ​​no dispositivo.</string>
   <string name="permdesc_getTopActivityInfo">Permite ao titular obter informações privadas sobre a aplicação actual em primeiro plano do ecrã.</string>
   <string name="permdesc_grantRevokePermissions">Permite que uma aplicação conceda ou revogue permissões específicas para si mesma ou para outras aplicações. As aplicações maliciosas podem utilizar isto para aceder a recursos para os quais não têm permissão.</string>
   <string name="permdesc_hardware_test">Permite à aplicação controlar vários periféricos para fins de teste de hardware.</string>
   <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas etc.) a outras aplicações. As aplicações maliciosas podem utilizar isto para controlar o telefone.</string>
   <string name="permdesc_installLocationProvider">Criar fontes de localização fictícias para fins de teste ou instalar um fornecedor de localização novo. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
   <string name="permdesc_installPackages">Permite que a aplicação instale ou actualize novos pacotes Android. As aplicações maliciosas podem utilizar isto para adicionar novas permissões de segurança elevada.</string>
-  <string name="permdesc_install_shortcut">Permite que a aplicação adicione atalhos na Página inicial, sem a intervenção do usuário.</string>
+  <string name="permdesc_install_shortcut">Permite que a aplicação adicione atalhos na Página inicial, sem a intervenção do utilizador.</string>
   <string name="permdesc_interactAcrossUsers">Permite que a aplicação execute acções através de vários utilizadores no dispositivo. As aplicações maliciosas podem utilizar isto para violar a protecção entre utilizadores.</string>
   <string name="permdesc_interactAcrossUsersFull">Permite todas as interacções possíveis em todos os utilizadores.</string>
   <string name="permdesc_internalSystemWindow">Permite que a aplicação crie janelas que se destinam a ser utilizadas ​​pela interface de utilizador do sistema interno. Nunca será necessário para aplicações normais.</string>
@@ -933,7 +933,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_killBackgroundProcesses">Permite que a aplicação termine processos em segundo plano de outras aplicações. Isto pode fazer com que outras aplicações deixem de funcionar.</string>
   <string name="permdesc_locationUpdates">Permite que a aplicação active/desactive as notificações de actualização de localização do rádio. Não se destina a utilização por aplicações normais.</string>
   <string name="permdesc_magnify_display">Permite à aplicação ampliar o conteúdo de um ecrã. As aplicações maliciosas podem transformar o conteúdo do ecrã de uma forma que torna o aparelho inutilizável.</string>
-  <string name="permdesc_manageAccounts">Permite que a aplicação execute operações, como adicionar e remover contas e eliminar a respectiva palavra-passe.</string>
+  <string name="permdesc_manageAccounts">Permite que a aplicação execute tarefas, como adicionar ou remover contas e eliminar a respectiva palavra-passe.</string>
   <string name="permdesc_manageActivityStacks">Permite à aplicação adicionar, remover e modificar uma grande quantidade de actividades em outras aplicações executadas. As aplicações maliciosas podem perturbar o comportamento de outras aplicações.</string>
   <string name="permdesc_manageAppTokens">Permite que a aplicação crie e faça a gestão dos seus próprios tokens, ignorando a ordenação normal dos mesmos pelo eixo dos Z. Nunca será necessário para aplicações normais.</string>
   <string name="permdesc_manageCaCertificates">Permite à aplicação instalar e desinstalar certificados CA como credenciais confiáveis.</string>
@@ -967,7 +967,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os sites visitados pelo Navegador e todos os marcadores do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
   <string name="permdesc_readInputState">Permite que a aplicação monitorize as teclas que o utilizador prime, mesmo ao interagir com outra aplicação, como por exemplo, ao introduzir uma palavra-passe. Nunca deverá ser necessário para aplicações normais.</string>
   <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais do que o utilizador faz no telefone, podendo inclusivé, incluir dados pessoais ou privados.</string>
-  <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia utilização histórica da rede para redes e aplicações específicas.</string>
+  <string name="permdesc_readNetworkUsageHistory">Permite que a aplicação leia a utilização histórica da rede para redes e aplicações específicas.</string>
   <string name="permdesc_readPhoneState">Permite que a aplicação aceda aos recursos do telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está activa e qual o número remoto ligado por uma chamada.</string>
   <string name="permdesc_readProfile">Permite que a aplicação leia dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
   <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no telefone ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
@@ -1120,7 +1120,7 @@ para a conta %s."</string>
   <string name="permlab_accessSurfaceFlinger">aceder ao SurfaceFlinger</string>
   <string name="permlab_accessWifiState">ver ligações Wi-Fi</string>
   <string name="permlab_accessWimaxState">ligar e desligar do WiMAX</string>
-  <string name="permlab_access_keyguard_secure_storage">aceder ao armazenamento seguro da protecção do teclado.</string>
+  <string name="permlab_access_keyguard_secure_storage">aceder ao armazenamento seguro da protecção do teclado</string>
   <string name="permlab_accountManagerService">funciona como Serviço de Gestor de Conta</string>
   <string name="permlab_addVoicemail">adicionar Voice Mail</string>
   <string name="permlab_anyCodecForPlayback">utilizar qualquer descodificador de multimédia para a reprodução</string>
@@ -1275,7 +1275,7 @@ para a conta %s."</string>
   <string name="permlab_retrieve_window_info">recuperar janela de informações</string>
   <string name="permlab_route_media_output">saída remota multimédia</string>
   <string name="permlab_runSetActivityWatcher">monitorizar e controlar a inicialização de todas as aplicações</string>
-  <string name="permlab_sdcardAccessAll">acesso ao armazenamento externo de todos os utilizadores</string>
+  <string name="permlab_sdcardAccessAll">acesso ao armazenamento externo por todos os utilizadores</string>
   <string name="permlab_sdcardRead">ler os conteúdos do cartão SD</string>
   <string name="permlab_sdcardWrite">modificar/eliminar conteúdos do cartão SD</string>
   <string name="permlab_sendRespondViaMessageRequest">enviar resposta via eventos de mensagem</string>
