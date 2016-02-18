@@ -38,9 +38,9 @@
   <string name="notification_paused_in_background">Em pausa em segundo plano.</string>
   <string name="paused_waiting_for_network">A aguardar pela rede</string>
   <string name="permdesc_accessAllDownloads">Permite à aplicação exibir e modificar todas as transferências iniciadas por qualquer aplicação no sistema.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir arquivos para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
-  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. As aplicações maliciosas podem utilizar isto para confundir outras aplicações que fazem transferências de arquivos.</string>
-  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir arquivos. As aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir ficheiros para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
+  <string name="permdesc_downloadCompletedIntent">Permite que a aplicação envie notificações sobre transferências concluídas. As aplicações maliciosas podem utilizar isto para confundir outras aplicações que fazem transferências de ficheiros.</string>
+  <string name="permdesc_downloadManager">Permitir que as aplicações acedam ao gestor de transferências e usem-no para transferir ficheiros. As aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
   <string name="permdesc_downloadManagerAdvanced">Permite à aplicação aceder às funções avançadas do gestor de transferências. Aplicações maliciosas podem utilizar isto para interromper as transferências e aceder a informações privadas.</string>
   <string name="permdesc_downloadWithoutNotification">Permite à aplicação transferir ficheiros através do gestor de transferências sem qualquer aviso prévio de notificação mostrada ao utilizador.</string>
   <string name="permdesc_seeAllExternal">Permite à aplicação ver todas as transferências no cartão SD, independentemente da aplicação transferida.</string>
@@ -49,7 +49,7 @@
   <string name="permlab_downloadCompletedIntent">Enviar notificações de transferências</string>
   <string name="permlab_downloadManager">Aceder ao gestor de transferências</string>
   <string name="permlab_downloadManagerAdvanced">Recursos avançados do gestor de transferências</string>
-  <string name="permlab_downloadWithoutNotification">Transferência de arquivos sem notificação</string>
+  <string name="permlab_downloadWithoutNotification">transferir ficheiros sem notificação</string>
   <string name="permlab_seeAllExternal">Ver todas as transferências no armazenamento USB</string>
   <string name="privacy_notif_content">Toque para ver os detalhes.</string>
   <string name="privacy_notif_title">O acelerador de transferências Xunlei está activo</string>
