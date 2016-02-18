@@ -45,7 +45,7 @@
   <string name="area_code_preference_summary">Marcar automaticamente o código de área</string>
   <string name="areacode_set_default">Predefinido</string>
   <string name="atr_disable">Relatórios de Trânsito estão desligados</string>
-  <string name="atr_enable">Relatórios de Trânsito estão ligados</string>  
+  <string name="atr_enable">Relatórios de Trânsito estão ligados</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Auricular do aparelho</string>
   <string name="audio_mode_speaker">Altifalante</string>
@@ -97,7 +97,7 @@
   <string name="bad_pin2">O PIN2 antigo que introduziu está incorrecto.</string>
   <string name="bad_puk">O código PUK que introduziu está incorrecto.</string>
   <string name="bad_puk2">O código PUK2 que introduziu está incorrecto.</string>
-  <string name="bf_news_settings">Notícias sobre Negócios e Finanças</string>  
+  <string name="bf_news_settings">Notícias sobre Negócios e Finanças</string>
   <string name="callFailed_cb_enabled">Não é possível fazer chamadas enquanto o barramento de chamadas estiver ligado.</string>
   <string name="callFailed_cdma_activation">Um cartão SIM ativou o seu serviço e actualizou as capacidades de roaming do seu telefone.</string>
   <string name="callFailed_congestion">Rede ocupada</string>
@@ -143,7 +143,7 @@
   <string name="call_record_auto_whitelist_summary">%d números</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_off_summary">Gravação de chamadas está desligada</string>
-  <string name="call_record_on_summary">Chamadas irão ser gravadas automaticamente</string>
+  <string name="call_record_on_summary">Chamadas vão ser gravadas automaticamente</string>
   <string name="call_record_setting">Definições de gravação de chamada</string>
   <string name="call_record_whitelist_custom">Números seleccionados</string>
   <string name="call_recording_notification_message">Toque para ouvir</string>
@@ -268,7 +268,7 @@
   <string name="corporate_unlock_success">Cartão SIM da empresa desbloqueado.</string>
   <string name="cursorError">Erro no cursor</string>
   <string name="data_enable_summary">Permitir a utilização de dados</string>
-  <string name="data_enabled">Dados Móveis</string>
+  <string name="data_enabled">Dados móveis</string>
   <string name="deactivate_all">Cancelar tudo</string>
   <string name="default_area_code_setting">Código de área predefinido</string>
   <string name="default_areacode">Código de área predefinido</string>
@@ -299,7 +299,7 @@
   <string name="dial">Marcar</string>
   <string name="dial_emergency_empty_error">Não é possível telefonar. Marque um número de emergência.</string>
   <string name="dial_emergency_error">Não é possível telefonar. %s não é um número de emergência.</string>
-  <string name="dial_related_setting_catory">Marcar</string>  
+  <string name="dial_related_setting_catory">Marcar</string>
   <string name="dialerKeyboardHintText">Utilizar o teclado para marcar</string>
   <string name="dialog_activate_livetalk">Verificar</string>
   <string name="dialog_call_ordinary_telephone">Utilizar SIM</string>
@@ -389,7 +389,7 @@
   <string name="entertainment_news_settings">Notícias sobre Entretenimento</string>
   <string name="eo_disable">Oportunidades de Emprego desligado</string>
   <string name="eo_enable">Oportunidades de Emprego está ligado</string>
-  <string name="error_type_account_201">Fundos insuficientes</string>  
+  <string name="error_type_account_201">Fundos insuficientes</string>
   <string name="error_type_account_203">"O tipo de número que marcou não é suportado"</string>
   <string name="error_type_account_208">"Não foi possível realizar a chamada para este número"</string>
   <string name="error_type_account_500">"Não foi possível ligar à rede móvel"</string>
@@ -486,12 +486,12 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPsw">Introduzir palavra-passe (4 a 8 números)</string>
-  <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>  
+  <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>
   <string name="invalid_password">Introduzir uma palavra-passe com 4 números</string>
   <string name="invalid_pin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalid_pin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalid_puk">Introduzir um PUK que tenha entre 4 a 8 números.</string>
-  <string name="invalid_puk2">Introduzir um PUK2 que tenha 8 números.</string>  
+  <string name="invalid_puk2">Introduzir um PUK2 que tenha 8 números.</string>
   <string name="ivr_mo_area_code_settings">Código de área actual</string>
   <string name="ivr_mo_area_code_settings_hint">Introduzir código de área actual</string>
   <string name="ivr_parameter_settings">Definições dos parâmetros IVR</string>
@@ -710,7 +710,7 @@ Será utilizada a rede preferida em vez."</string>
   <string name="no_voip">Chamadas pela internet não suportadas</string>
   <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi e Definições de rede).</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>  
+  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
   <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
@@ -718,7 +718,7 @@ Será utilizada a rede preferida em vez."</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
   <string name="not_support_message">Pacotes de recarga não suportam esse tipo de números neste momento. Pode tentar fazer uma chamada normal.</string>
   <string name="not_support_title">Número não suportado</string>
-  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>  
+  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
   <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_network_selection_text">Rede seleccionada (%s) indisponível</string>
@@ -794,7 +794,7 @@ Precisa de encontrar uma zona com melhor cobertura (perto de uma janela, ou no e
 Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções."</string>
   <string name="other">Outros</string>
   <string name="other_settings">Outras definições de chamada</string>
-  <string name="other_settings_category">Outro</string>
+  <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Roaming internacional</string>
   <string name="password_changed">Palavra-passe alterada</string>
   <string name="password_title">Palavra-passe</string>
@@ -849,9 +849,9 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preference_dial_pad_touch_tone_title">Tons de toque do teclado de marcação</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
   <string name="preference_telocation_summary_countrycode_on">marcar automaticamente o código do país</string>
-  <string name="preference_telocation_summary_teloc_off">Ocultar local do contacto</string>
-  <string name="preference_telocation_summary_teloc_on">Mostrar local do contacto</string>
-  <string name="preference_telocation_title">Locais</string>
+  <string name="preference_telocation_summary_teloc_off">Ocultar localização do contacto</string>
+  <string name="preference_telocation_summary_teloc_on">Mostrar localização do contacto</string>
+  <string name="preference_telocation_title">Localizações</string>
   <string name="preferred_duration_title">Mostrar duração</string>
   <string name="preferred_network_mode_3g_2g_auto">3G/2G (auto)</string>
   <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (auto)</string>
@@ -1119,18 +1119,18 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="telocation_countrycode_alert_title">Alerta</string>
   <string name="telocation_custom_empty">Adicionar um número tocando no botão adicionar (+)</string>
   <string name="telocation_custom_location_summary">Gerir códigos de área guardados e números de grupo</string>
-  <string name="telocation_custom_location_title">Meus locais</string>
+  <string name="telocation_custom_location_title">As minhas localizações</string>
   <string name="telocation_custom_name_hint">Nome</string>
   <string name="telocation_custom_number_hint">Código de área ou número de grupo</string>
-  <string name="telocation_edit_custom_location_title">Configurar local</string>
-  <string name="telocation_enable_title">Mostrar local</string>
+  <string name="telocation_edit_custom_location_title">Configurar localização</string>
+  <string name="telocation_enable_title">Mostrar localização</string>
   <string name="telocation_error_message_number">%s apenas suporta números</string>
   <string name="telocation_jituan_error_message_number">%s apenas suporta números e caracteres especiais</string>
   <string name="telocation_number_type">Tipo de número</string>
   <string name="telocation_number_type_jituan">Número de grupo</string>
   <string name="telocation_number_type_mob">Telemóvel</string>
   <string name="telocation_number_type_tel">Telefone fixo</string>
-  <string name="telocation_setting">Definições de locais</string>
+  <string name="telocation_setting">Definições de localização</string>
   <string name="telocation_show_settings">Definições de visualização</string>
   <string name="third_party_account_summary">Esta conta está ser utilizada por %s.</string>
   <string name="throttle_current_usage">Dados utilizados no período actual</string>
@@ -1185,7 +1185,7 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="vibrate_after_connected_title">Vibração após ligação</string>
   <string name="vm_change_failed">"Não foi possível alterar o número de Voice Mail.
 Contacte a sua operadora se este problema persistir."</string>
-  <string name="vm_changed">Número de Voice Mail alterado.</string>
+  <string name="vm_changed">Número de Voice Mail alterado</string>
   <string name="voice_privacy">Privacidade de voz</string>
   <string name="voice_privacy_summary"/>
   <string name="voice_report_incoming_call">A chamar</string>
