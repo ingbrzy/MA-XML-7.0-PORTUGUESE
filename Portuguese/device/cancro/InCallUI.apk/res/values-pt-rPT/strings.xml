@@ -29,11 +29,13 @@
   <string name="callFailed_timedOut">Sem resposta, tempo expirado</string>
   <string name="callFailed_unobtainable_number">Número inválido</string>
   <string name="callFailed_userBusy">Linha ocupada</string>
-  <string name="callUnanswered_forwarded">Chamada Não Atendida e Reencaminhada</string>  
+  <string name="callUnanswered_forwarded">Chamada não atendida reencaminhada</string>
+  <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos porque a permissão de leitura de contactos foi negada</string>
   <string name="call_description_recording">A gravar…</string>
   <string name="call_extension_conference_mode">Modo de Conferência</string>
   <string name="call_record_button_label">A gravar %s</string>
   <string name="call_record_wait_label">A aguardar</string>
+  <string name="call_recording_deny_permission_msg">Não é possível gravar porque a permissão de gravação foi negada</string>
   <string name="call_recording_error_low_storage">Não há espaço suficiente: o seu cartão SD está muito cheio</string>
   <string name="call_recording_error_privacy">Não é possível gravar enquanto está no modo Convidado</string>
   <string name="call_recording_error_sd_access">Não é possível aceder ao cartão SD</string>
