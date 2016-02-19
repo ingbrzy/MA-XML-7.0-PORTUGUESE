@@ -63,7 +63,7 @@
   <string name="auto_answer_setting_title">Definições de atender automaticamente</string>
   <string name="auto_answer_summary_delay">" (atraso: %s segundos)"</string>
   <string name="auto_answer_summary_not_enabled">Desligado</string>
-  <string name="auto_record_yellowpage">Directório</string>
+  <string name="auto_record_yellowpage">Directoria</string>
   <string name="auto_redial_pref_summary">Remarcação automática</string>
   <string name="auto_redial_pref_title">Marcação automática</string>
   <string name="auto_retry_mode_summary">Ligar o modo de remarcação automática</string>
@@ -125,12 +125,12 @@
   <string name="call_ind_services">Chamar Serviços Independentes</string>
   <string name="call_record_add_numbers">Adicionar números</string>
   <string name="call_record_auto_always">Todos os números</string>
-  <string name="call_record_auto_scenario_title">Definições da gravação automática</string>
-  <string name="call_record_auto_summary">Todas as chamadas gravadas serão guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
-  <string name="call_record_auto_title">Gravar automaticamente</string>
+  <string name="call_record_auto_scenario_title">Gravar chamadas de</string>
+  <string name="call_record_auto_summary">As gravações serão guardadas na pasta MIUI/sound_recorder/call_rec ou no armazenamento interno do dispositivo</string>
+  <string name="call_record_auto_title">Gravar chamadas automaticamente</string>
   <string name="call_record_auto_unknown_number">Números privados</string>
   <string name="call_record_auto_whitelist">Lista personalizada</string>
-  <string name="call_record_auto_whitelist_no_item">Adicione um número pressionando o botão +</string>
+  <string name="call_record_auto_whitelist_no_item">Adicionar um número tocando no botão adicionar (+)</string>
   <string name="call_record_auto_whitelist_summary">%d números</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_off_summary">Gravação automática está desligada</string>
@@ -143,7 +143,7 @@
   <string name="call_recording_notification_summary">Mostrar uma notificação na barra de estado quando a chamada estiver a ser gravada</string>
   <string name="call_recording_notification_title">Gravação de chamada</string>
   <string name="call_recording_notification_title_error">A gravação da chamada falhou</string>
-  <string name="call_recording_notification_toggle_title">Notificações de gravação de chamadas</string>
+  <string name="call_recording_notification_toggle_title">Notificação de gravação de chamada</string>
   <string name="call_recording_setting">Gravar chamadas</string>
   <string name="call_remove_exception_numbers_confirm">%d números vão ser eliminados.</string>
   <string name="call_settings">Telefone</string>
@@ -1226,7 +1226,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="telocation_countrycode_alert_message_warning">O código do país que introduziu pode estar incorrecto.</string>
   <string name="telocation_countrycode_alert_message_wrong">O código do país que introduziu está incorrecto.</string>
   <string name="telocation_countrycode_alert_title">Aviso</string>
-  <string name="telocation_custom_empty">Adicione um número pressionando o botão (+)</string>
+  <string name="telocation_custom_empty">Adicionar um número tocando no botão adicionar (+)</string>
   <string name="telocation_custom_location_summary">Gerir códigos de área guardados e os números de grupo</string>
   <string name="telocation_custom_location_title">As minhas localizações</string>
   <string name="telocation_custom_name_hint">Nome</string>
