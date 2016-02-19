@@ -250,7 +250,7 @@
   <string name="contact_edit_set_black_list_title">Adicionar à lista de bloqueio</string>
   <string name="contact_edit_set_phone_contact">Editar contactos do telefone</string>
   <string name="contact_edit_title_phone_contact">Lista de contactos do telefone</string>
-  <string name="contact_in_filter_call_phone_str">Chamada de %s</string>
+  <string name="contact_in_filter_call_phone_str">Ligar para %s</string>
   <string name="contact_in_filter_title">Remetente</string>
   <string name="contact_info_string">Mostrar informações do contacto de %1$s</string>
   <string name="contact_info_string_default">Mostrar informações de contacto</string>
@@ -260,9 +260,9 @@
   <string name="contact_select">Seleccionar contactos</string>
   <string name="content_description">%1$s sobre %2$s, %3$s em %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s às %4$s, %5$s</string>
-  <string name="contextmenu_add">Adicionar aos Contactos</string>
+  <string name="contextmenu_add">Adicionar aos contactos</string>
   <string name="contextmenu_add_contact">Adicionar contacto</string>
-  <string name="contextmenu_call">Chamada</string>
+  <string name="contextmenu_call">Ligar</string>
   <string name="contextmenu_copy">Copiar</string>
   <string name="contextmenu_copylink">Copiar URL do link</string>
   <string name="contextmenu_create">Criar novo contacto</string>
