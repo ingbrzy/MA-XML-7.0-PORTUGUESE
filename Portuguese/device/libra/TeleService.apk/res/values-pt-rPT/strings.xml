@@ -266,7 +266,7 @@
   <string name="corporate_unlock_success">Cartão SIM da empresa desbloqueado.</string>
   <string name="cursorError">Erro no cursor</string>
   <string name="data_enable_summary">Permitir a utilização de dados</string>
-  <string name="data_enabled">Dados Móveis</string>
+  <string name="data_enabled">Dados móveis</string>
   <string name="deactivate_all">Cancelar todos</string>
   <string name="default_area_code_setting">Código de área predefinido</string>
   <string name="default_areacode">Código de área predefinido</string>
@@ -866,7 +866,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais inf
   <string name="other">Outros</string>
   <string name="other_countries_and_regions">Outras localizações</string>
   <string name="other_settings">Outras definições de chamada</string>
-  <string name="other_settings_category">Outro</string>
+  <string name="other_settings_category">Outros</string>
   <string name="overseas_roaming_setting">Roaming internacional</string>
   <string name="password_changed">Palavra-passe alterada</string>
   <string name="password_title">Palavra-passe</string>
@@ -927,9 +927,9 @@ O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preference_dial_pad_touch_tone_title">Sons do teclado</string>
   <string name="preference_telocation_summary_countrycode_off">não marcar automaticamente o código do país</string>
   <string name="preference_telocation_summary_countrycode_on">marcar automaticamente o código do país</string>
-  <string name="preference_telocation_summary_teloc_off">Ocultar a localização do contacto</string>
-  <string name="preference_telocation_summary_teloc_on">Mostrar a localização do contacto</string>
-  <string name="preference_telocation_title">Localização</string>
+  <string name="preference_telocation_summary_teloc_off">Ocultar localização do contacto</string>
+  <string name="preference_telocation_summary_teloc_on">Mostrar localização do contacto</string>
+  <string name="preference_telocation_title">Localizações</string>
   <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo auto</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modo de rede preferido: CDMA/EvDo/GSM/WCDMA</string>
@@ -1231,8 +1231,8 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="telocation_custom_location_title">As minhas localizações</string>
   <string name="telocation_custom_name_hint">Nome</string>
   <string name="telocation_custom_number_hint">Código da área ou número de grupo</string>
-  <string name="telocation_edit_custom_location_title">Definir a localização</string>
-  <string name="telocation_enable_title">Mostrar a localização</string>
+  <string name="telocation_edit_custom_location_title">Configurar localização</string>
+  <string name="telocation_enable_title">Mostrar localização</string>
   <string name="telocation_error_message_number">%s só suporta números</string>
   <string name="telocation_jituan_error_message_number">%s só suporta números e caracteres especiais</string>
   <string name="telocation_number_type">Tipo de número</string>
