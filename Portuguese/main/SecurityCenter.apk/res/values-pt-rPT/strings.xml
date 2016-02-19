@@ -288,14 +288,14 @@
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
   <string name="permission_with_call_and_contact">Permissões relacionadas com chamadas telefónicas, informação de contactos e registo de chamadas</string>
   <string name="pm_root_success_notification_title">Acesso root activado</string>
-  <string name="power_20s_enter_mode">Em %1$ds bateria altera para %2$s</string>
+  <string name="power_20s_enter_mode">A alterar para %2$s em %1$ds</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em 20 segundos</string>
   <string name="power_apply_toast">Alterado para %s</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Eliminar</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center_auto_shutdown">Definições de ligar/desligar automático</string>
-  <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar o dispositivo em horário programado</string>
+  <string name="power_center_auto_shutdown_summary_default">Ligar ou desligar o dispositivo no horário programado</string>
   <string name="power_center_battery_full">Bateria completamente carregada</string>
   <string name="power_center_charge_time">%1$s até estar carregada</string>
   <string name="power_center_consume_rank">Utilização de bateria</string>
@@ -375,7 +375,7 @@
   <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_exitlowbattery_whencharge">Desactivar quando ligado à corrente</string>
   <string name="power_idle">Telefone inactivo</string>
-  <string name="power_mode_airplane_mode">Modo de avião</string>
+  <string name="power_mode_airplane_mode">Modo de Avião</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Após %1$d minutos</string>
   <string name="power_mode_auto_clean_memory">Limpar memória</string>
   <string name="power_mode_auto_clean_memory_in_five_minutes">Após 5 minutos</string>

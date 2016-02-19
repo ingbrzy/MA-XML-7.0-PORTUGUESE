@@ -56,12 +56,12 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="Generic_UserApp">Transferidas (%d)</string>
   <string name="Generic_Version">Versão: %1$s</string>
   <string name="HIPS_Action_Accept">Permitir</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Permitir&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored"><font color="#478800">Permitir</font></string>
   <string name="HIPS_Action_Accept_Once">Permitir uma vez</string>
   <string name="HIPS_Action_Prompt">Perguntar</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Perguntar&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored"><font color="#FF8A00">Perguntar</font></string>
   <string name="HIPS_Action_Reject">Negar</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Negar&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored"><font color="#DF0000">Negar</font></string>
   <string name="HIPS_Action_Reject_Once">Negar uma vez</string>
   <string name="HIPS_Group_DataPrivacy">Privacidade</string>
   <string name="HIPS_Group_Expense">Segurança</string>
@@ -112,7 +112,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplicações podem desactivar o seu ecrã de bloqueio</string>
   <string name="HIPS_Perm_EndCall">terminar chamadas</string>
   <string name="HIPS_Perm_External_Storage">Aceder e alterar ficheiros no armazenamento interno</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
+  <string name="HIPS_Perm_External_Storage_Desc">adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
   <string name="HIPS_Perm_GetCallState">aceder aos estados precisos do telefone</string>
   <string name="HIPS_Perm_ListenCallState">ler os estados precisos do telefone</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
@@ -217,10 +217,10 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Xiaomi_Account">Conta Mi</string>
   <string name="HIPS_Perm_Xiaomi_Account_Desc">aceder à sua conta Mi</string>
   <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplicações podem aceder à sua conta Mi</string>
-  <string name="HIPS_Perm_add_voicemail">Mensagens de Voz</string>
+  <string name="HIPS_Perm_add_voicemail">Mensagens de voz</string>
   <string name="HIPS_Perm_add_voicemail_Desc">adicionar mensagens de voz de sistema</string>
   <string name="HIPS_Perm_get_accounts">Aceder contas no dispositivo</string>
-  <string name="HIPS_Perm_get_accounts_Desc">Aceder a todas as contas no dispositivo</string>
+  <string name="HIPS_Perm_get_accounts_Desc">aceder a todas as contas no dispositivo</string>
   <string name="HIPS_Perm_install_shortcut">Atalhos de ecrã inicial</string>
   <string name="HIPS_Perm_install_shortcut_Desc">adicionar atalhos ao ecrã inicial</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
@@ -228,7 +228,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_process_outgoing_calls">Aceder aplicação Telefone</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">monitorizar e terminar chamadas</string>
   <string name="HIPS_Perm_use_sip">Serviços de vídeo</string>
-  <string name="HIPS_Perm_use_sip_Desc">Utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
+  <string name="HIPS_Perm_use_sip_Desc">utilizar Protocolo de Início de Sessão para transmitir vídeo</string>
   <string name="HIPS_SecurityPrompt_Accept">Permitir (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Permitir</string>
   <string name="HIPS_SecurityPrompt_Accept_Once">Permitir uma vez (%d)</string>

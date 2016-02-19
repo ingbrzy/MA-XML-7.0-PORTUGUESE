@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="about_device">Acerca do telefone</string>
   <string name="active_xiaomi_account">Activa</string>
@@ -13,11 +13,11 @@
   <string name="auto_button_examine_immediately">Ver</string>
   <string name="auto_button_sure_cancel">Cancelar</string>
   <string name="auto_check_clause_button">Ver</string>
-  <string name="auto_dialog_msg">"A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema."</string>
+  <string name="auto_dialog_msg">A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema</string>
   <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
-  <string name="auto_update">Transferência de actualizações</string>
-  <string name="auto_update_sum">Transferir automaticamente as actualizações quando o Wi-Fi estiver ligado</string>
+  <string name="auto_update">Transferir actualizações automaticamente</string>
+  <string name="auto_update_sum">Transferir automaticamente quando ligado ao Wi-Fi</string>
   <string name="autosetmode">Definições</string>
   <string name="best_update">Melhor actualização</string>
   <string name="boot_recovery">Reiniciar em modo de restauro?</string>
@@ -29,17 +29,17 @@
   <string name="cancel_download">Parar de transferir a actualização?</string>
   <string name="cancel_download_buton_text">Cancelar</string>
   <string name="check_local_package_update_btn">Reiniciar e actualizar</string>
-  <string name="check_local_package_update_msg">Vai actualizar para a versão MIUI %s. O telefone irá reiniciar automaticamente durante a actualização.</string>
+  <string name="check_local_package_update_msg">Vai actualizar para a versão MIUI %s. O telefone irá reiniciar automaticamente durante a actualização</string>
   <string name="check_local_package_update_title">Actualizar</string>
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização.</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
-  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo.</string>
+  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
-  <string name="check_update_when_wifi_available">Verificar actualizações por Wi-Fi</string>
-  <string name="check_update_when_wifi_available_sum">Apenas será utilizado o Wi-Fi para verificar as actualizações</string>
+  <string name="check_update_when_wifi_available">Verificar actualizações apenas em Wi-Fi</string>
+  <string name="check_update_when_wifi_available_sum">Utilizar apenas Wi-Fi para verificar as actualizações</string>
   <string name="clean_up_button">Limpar</string>
   <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
   <string name="comment_publish">Submeter</string>
@@ -48,12 +48,17 @@
   <string name="comment_upload_hint">Obrigado pelo seu comentário!</string>
   <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua conta Mi</string>
   <string name="comment_upload_success">Enviado</string>
+  <string name="confirm_local_package_wipe_btn">Eliminar e actualizar</string>
+  <string name="confirm_local_package_wipe_msg">Os seus dados pessoais vão ser eliminados. Certifique-se de fazer cópias de segurança de tudo o que quer manter antes de proceder.</string>
+  <string name="confirm_local_package_wipe_title">Eliminar dados?</string>
+  <string name="continue_update_negative_btn">Continuar</string>
+  <string name="continue_update_positive_btn">Parar</string>
   <string name="daily_build">Diária</string>
   <string name="download_again">Tente novamente</string>
   <string name="download_cancel">Cancelar</string>
   <string name="download_current_rom">Reiniciar para aplicar a actualização</string>
   <string name="download_diff">Transferência de comparação</string>
-  <string name="download_error">Erro inesperado. Aguarde um ou dois minutos e tente novamente.</string>
+  <string name="download_error">Erro inesperado. Aguarde um ou dois minutos e tente novamente</string>
   <string name="download_failed">Erro na transferência</string>
   <string name="download_full">Transferência completa</string>
   <string name="download_success_reboot_immediately">Reiniciar para aplicar a actualização</string>
@@ -88,7 +93,7 @@
   <string name="menu_title_download_current_rom">Transferir actualização</string>
   <string name="menu_title_pick_rom_file">Seleccionar actualização</string>
   <string name="menu_title_recovery">Reiniciar em modo de restauro</string>
-  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;Vá ao fórum MIUI&lt;/a&gt;" "</string>
+  <string name="miui_BBS">" "<a href="http://bbs.miui.com">Vá ao fórum MIUI</a>" "</string>
   <string name="miui_summary_has_new_version">" Actualização disponível "</string>
   <string name="miui_summary_no_new_version">Não existem actualizações disponíveis</string>
   <string name="miui_summary_now_version">Não é possível ligar à rede</string>
@@ -104,9 +109,9 @@
   <string name="new_updates_found_notification_title">Actualização disponível</string>
   <string name="next">Seguinte</string>
   <string name="no_log">Não há resumo disponível</string>
-  <string name="no_wifi_msg">Se utilizar a sua ligação de dados móveis vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="no_wifi_msg">Se utilizar a sua ligação de dados móveis vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="no_wifi_title">Aviso de utilização de dados</string>
-  <string name="not_open">Agora não</string>
+  <string name="not_open">Não</string>
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automaticamente</string>
   <string name="notification_downloading">A transferir actualização…</string>
   <string name="notification_fail_msg">Tente transferir a ROM completa</string>
@@ -115,7 +120,7 @@
   <string name="notification_load_title_alpha">Inicie sessão na sua conta Mi</string>
   <string name="notification_load_title_dev">Inicie sessão na sua conta Mi</string>
   <string name="notification_reboot_btn">Reiniciar</string>
-  <string name="notification_reboot_seccess_des">Tocar para partilhar informação da actualização.</string>
+  <string name="notification_reboot_seccess_des">Tocar para ver informação da actualização</string>
   <string name="notification_reboot_seccess_title">Dispositivo actualizado</string>
   <string name="notification_reboot_summary_hm">Tocar para reiniciar o dispositivo.</string>
   <string name="notification_reboot_title">Reiniciar para aplicar a actualização</string>
@@ -126,7 +131,7 @@
   <string name="notification_update_now">Actualizar agora</string>
   <string name="notification_updating">A actualizar…</string>
   <string name="on_checking">A verificar…</string>
-  <string name="open_now">Abrir agora</string>
+  <string name="open_now">Sim</string>
   <string name="particular_build">Particular</string>
   <string name="pause">Pausa</string>
   <string name="pm_root_acquired_button">Acesso root</string>
@@ -155,15 +160,15 @@
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
   <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root?</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
-  <string name="set_auto_msg">Transferir actualizações automaticamente quando o Wi-Fi estiver ligado.</string>
-  <string name="set_auto_update_title">Transferir actualizações automaticamente</string>
+  <string name="set_auto_msg">Transferir actualizações automaticamente quando estiver ligado ao Wi-Fi?</string>
+  <string name="set_auto_update_title">Transferir actualizações automaticamente?</string>
   <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro.</string>
-  <string name="set_installfail_msg">Transferir esta actualização através de sua ligação de dados móveis vai aumentar excessivamente o consumo de dados.</string>
+  <string name="set_installfail_msg">Transferir esta actualização através da sua ligação de dados móveis vai aumentar excessivamente o consumo de dados</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
-  <string name="set_network_msg">Para transferir esta actualização tem de ligar o acesso à rede</string>
-  <string name="set_network_root_msg">Para obter acesso root, ligue a uma rede Wi-Fi.</string>
-  <string name="set_network_title">Ligar acesso à rede</string>
+  <string name="set_network_msg">Para transferir esta actualização, ligue a uma rede Wi-Fi</string>
+  <string name="set_network_root_msg">Para obter acesso root, ligue a uma rede Wi-Fi</string>
+  <string name="set_network_title">Ligar à rede</string>
   <string name="set_only_wifi">Utilizar apenas Wi-Fi</string>
   <string name="share">Partilhar</string>
   <string name="share_qq">Partilhar via Tencent weibo</string>
@@ -196,7 +201,7 @@
   <string name="unstable_build">Instável</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Comentário</string>
-  <string name="update_downfull_no_info_sum">Aguarde alguns minutos e tente novamente.</string>
+  <string name="update_downfull_no_info_sum">Aguarde alguns minutos e tente novamente</string>
   <string name="update_downfull_no_info_title">Não é possível transferir</string>
   <string name="update_feedback">Comentário do programa Beta</string>
   <string name="update_feedback_end">Perdeu a quarta grelha desta semana</string>
@@ -226,12 +231,13 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI. É necessário actualizar o kernel manualmente. Consulte o tutorial de actualização:
 "</string>
   <string name="user_begin">Transferir</string>
-  <string name="user_intertup_download_msg">A transferência foi pausada. Pode retomá-la em qualquer altura na aplicação transferências.</string>
+  <string name="user_intertup_download_msg">A transferência foi pausada. Pode retomá-la em qualquer altura na aplicação Transferências</string>
   <string name="user_intertup_download_title">Transferência em pausa</string>
-  <string name="validate_pkg_failed_msg">A actualização que transferiu não coincide com os nossos dados. Tente fazer a transferência novamente.</string>
+  <string name="validate_pkg_failed_msg">A actualização que transferiu não coincide com os nossos dados. Tente fazer a transferência novamente</string>
   <string name="validate_pkg_failed_title">Não é possível verificar a actualização</string>
   <string name="view_upgrade_tutorial">Ver</string>
   <string name="vote_beta">Comentário de Programa Beta</string>
+  <string name="vote_error_nonetwork">Não é possível ligar à rede</string>
   <string name="vote_error1">"Parece que não é um membro
 no Comentário de Programa Beta"</string>
   <string name="vote_error2">"Não é possível enviar o comentário.
@@ -241,7 +247,6 @@ Tente novamente iniciar sessão na sua conta Mi."</string>
   <string name="vote_error4">Já submeteu o seu comentário</string>
   <string name="vote_error5">"Algo está errado
 Não foi possível submeter o comentário"</string>
-  <string name="vote_error_nonetwork">Não é possível ligar à rede</string>
   <string name="vote_experience">Esperiência no fórum</string>
   <string name="vote_hint">Obtenha 20 pontos de experiência no fórum MIUI que votou</string>
   <string name="vote_join">Votado</string>

@@ -105,9 +105,9 @@
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
   <string name="deepclean_similar_summary_empty">Verificação concluída. Não foram encontradas fotos​</string>
-  <string name="deepclean_size_summary_less">Não existe espaço suficiente de armazenamento disponível</string>
-  <string name="deepclean_size_summary_more">Existe espaço suficiente de armazenamento disponível</string>
-  <string name="deepclean_size_summary_normal">Existe espaço de armazenamento disponível</string>
+  <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
+  <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
+  <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
   <string name="deepclean_title_large_file">Eliminar ficheiros grandes</string>
   <string name="deepclean_title_uninstall_apps">Aplicações raramente utilizadas</string>
   <string name="deepclean_video_content">Eliminar vídeos já vistos ou desnecessários</string>

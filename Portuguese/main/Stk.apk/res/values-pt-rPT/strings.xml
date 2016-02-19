@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alphabet">Alfabeto</string>
-  <string name="app_name">Toolkit do SIM</string>
-  <string name="app_name2">Toolkit do SIM2</string>
-  <string name="app_name3">Toolkit do SIM3</string>
+  <string name="app_name">Ferramentas do SIM</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_no">Não</string>
   <string name="button_ok">OK</string>
@@ -13,19 +11,23 @@
   <string name="default_open_channel_msg">Abrir canal?</string>
   <string name="default_receive_data_msg">A receber dados</string>
   <string name="default_send_data_msg">A enviar dados</string>
-  <string name="default_setup_call_msg">A estabelecer a chamada…</string>
+  <string name="default_setup_call_msg">A configurar chamada</string>
   <string name="default_tone_dialog_msg">A tocar toque</string>
   <string name="digits">Dígitos (0 a 9, *, #, +)</string>
-  <string name="disable_app">Desligado</string>
-  <string name="enable_app">Ligado</string>
+  <string name="disable_app">Desactivado</string>
+  <string name="enable_app">Activado</string>
   <string name="help">Ajuda</string>
   <string name="menu_back">Voltar</string>
   <string name="menu_end_session">Finalizar a sessão</string>
+  <string name="no_sim_card_inserted">Introduza SIM para executar Ferramentas do SIM.</string>
   <string name="service_name">Nome do serviço</string>
+  <string name="sim_type_sim_name">Ferramentas do SIM</string>
+  <string name="sim_type_uim_name">Ferramentas do UIM</string>
+  <string name="sim_type_usim_name">Ferramentas do USIM</string>
   <string name="stk_app_state">Estado da aplicação</string>
-  <string name="stk_dialog_accept">Aceitar</string>
-  <string name="stk_dialog_reject">Rejeitar</string>
-  <string name="stk_dialog_title">Toolkit do SIM</string>
+  <string name="stk_dialog_accept">SIM</string>
+  <string name="stk_dialog_reject">NÃO</string>
+  <string name="stk_dialog_title">Ferramentas do SIM</string>
   <string name="stk_intent_permission">Permitir STK Intents</string>
   <string name="stk_no_service">Nenhum serviço disponível</string>
 </resources>

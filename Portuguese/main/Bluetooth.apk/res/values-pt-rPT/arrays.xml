@@ -5,11 +5,6 @@
         <item>Mi Fit</item>
         <item></item>
      </string-array>
-     <string-array name="ble_packages">
-        <item></item>
-        <item>com.xiaomi.hm.health</item>
-        <item></item>
-     </string-array>
      <string-array name="ble_profile_mi_band">
         <item>Vibrar ao receber chamada</item>
         <item>Vibrar ao receber mensagem</item>
