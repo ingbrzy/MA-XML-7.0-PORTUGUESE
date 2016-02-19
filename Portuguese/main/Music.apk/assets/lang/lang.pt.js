@@ -120,7 +120,7 @@
     "impunity_declaration_title": "Termos de Utilização",    
     "impunity_declaration_ignore": "Não mostrar novamente",
     "impunity_declaration_settings": "Mostrar Termos de Utilização",
-    "impunity_declaration_summary": "Exibir pop-up dos Termos de Utilização sempre que abrir aplicação para música online Baidu",
+    "impunity_declaration_summary": "Mostrar pop-up dos Termos de Utilização sempre que abrir aplicação para música online Baidu",
     "impunity_declaration_positive_text": "Aceitar",
     "impunity_declaration_negative_text": "Sair",
     "take_effect_afater_restart": "Reiniciar a aplicação Música para que esta configuração tenha efeito.",
