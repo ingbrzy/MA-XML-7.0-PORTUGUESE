@@ -84,7 +84,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">ligar ou desligar o Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s aplicações podem ligar ou desligar o Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensores de corpo</string>
-  <string name="HIPS_Perm_Body_Sensors_Desc">Sensores de corpo (sensor de batimentos cardíacos)</string>
+  <string name="HIPS_Perm_Body_Sensors_Desc">sensores de corpo (sensor de batimentos cardíacos)</string>
   <string name="HIPS_Perm_Calendar">Ler eventos do calendário</string>
   <string name="HIPS_Perm_Calendar_Desc">ler os seus eventos do calendário</string>
   <string name="HIPS_Perm_Calendar_Hint">%1$s aplicações podem ler os seus eventos do calendário</string>
@@ -112,7 +112,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplicações podem desactivar o seu ecrã de bloqueio</string>
   <string name="HIPS_Perm_EndCall">terminar chamadas</string>
   <string name="HIPS_Perm_External_Storage">Aceder e alterar ficheiros no armazenamento interno</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
+  <string name="HIPS_Perm_External_Storage_Desc">adicionar e eliminar ficheiros no armazenamento interno do dispositivo</string>
   <string name="HIPS_Perm_GetCallState">aceder aos estados precisos do telefone</string>
   <string name="HIPS_Perm_ListenCallState">ler os estados precisos do telefone</string>
   <string name="HIPS_Perm_Location">Obter informações de localização</string>
@@ -121,7 +121,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_Perm_Location_CellLocation">obter localização aproximada utilizando da localização da antenas de telemóvel</string>
   <string name="HIPS_Perm_Location_Desc">obter localização exacta (baseada no GPS e na rede)</string>
   <string name="HIPS_Perm_Location_Hint">%1$s aplicações podem obter localização exacta (baseada no GPS e na rede)</string>
-  <string name="HIPS_Perm_Location_Monitor">pesquisar a sua localização</string>
+  <string name="HIPS_Perm_Location_Monitor">rastrear a sua localização</string>
   <string name="HIPS_Perm_Location_Source_Cellular">localização aproximada utilizando as antenas de telemóvel</string>
   <string name="HIPS_Perm_Location_Source_GPS">obter localização exacta utilizando o GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">localização aproximada utilizando fontes baseadas em rede</string>
