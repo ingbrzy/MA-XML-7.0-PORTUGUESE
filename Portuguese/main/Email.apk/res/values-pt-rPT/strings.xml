@@ -25,7 +25,7 @@
   <string name="account_settings_data_usage">Definições de sincronização</string>
   <string name="account_settings_description_label">Nome da conta</string>
   <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
-  <string name="account_settings_edit_quick_responses_summary">Edite o texto que costuma inserir nos seus emails</string>
+  <string name="account_settings_edit_quick_responses_summary">Editar mensagens de resposta predefinidas</string>
   <string name="account_settings_enforced_label">Políticas</string>
   <string name="account_settings_enforced_summary">Nenhuma</string>
   <string name="account_settings_incoming_summary">Nome do utilizador, palavra-passe e outras definições do servidor</string>
@@ -37,7 +37,7 @@
   <string name="account_settings_name_label">Nome</string>
   <string name="account_settings_notifications">Notificações</string>
   <string name="account_settings_notify_label">Notificações de email</string>
-  <string name="account_settings_notify_summary">Mostrar notificação quando chegarem emails</string>
+  <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos emails</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
   <string name="account_settings_retry_label">Tentativa de sincronização</string>
@@ -153,7 +153,7 @@
   <string name="add_pre_message_attachments_yes">Adicionar</string>
   <string name="add_star">Estrela</string>
   <string name="allread">Lêr todos</string>
-  <string name="always_bcc_myself">Enviar sempre Cco para mim</string>
+  <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
   <string name="always_show_images">Mostrar sempre imagens deste remetente</string>
   <string name="app_name">Email</string>
   <string name="archive">Arquivar</string>
@@ -396,7 +396,7 @@
   <string name="folder_sent_name_en3">Ficheiros enviados</string>
   <string name="folder_sent_name_en4">[Gmail]/Email enviado</string>
   <string name="folder_shortcut_widget_label">Pasta Email</string>
-  <string name="folder_synchronization_mail_settings">Definições de sincronização de pastas de correio</string>
+  <string name="folder_synchronization_mail_settings">Definições de sincronização de pastas</string>
   <string name="folder_trash_name_cn0">已删除</string>
   <string name="folder_trash_name_cn1">已删除邮件</string>
   <string name="folder_trash_name_cn2">[Gmail]/已删除邮件</string>
@@ -686,7 +686,7 @@
   <string name="quick_2">Parece uma boa ideia!</string>
   <string name="quick_3">Irei ler isso mais tarde e dar-lhe-ei uma resposta.</string>
   <string name="quick_4">Podemos marcar uma reunião para discutir isso.</string>
-  <string name="quick_reply_dialog_title">Ecolher uma resposta</string>
+  <string name="quick_reply_dialog_title">Escolher uma resposta</string>
   <string name="quick_reply_hint">Responder a todas %1$d pessoas</string>
   <string name="quick_reply_hint_bcc">"(Em BCC) "</string>
   <string name="quick_reply_hint_cc">"(Em CC) "</string>
