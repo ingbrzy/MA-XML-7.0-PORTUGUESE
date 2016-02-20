@@ -3880,7 +3880,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_notification_summary">MIUI ligou-o a uma rede Wi-Fi pública.</string>
   <string name="wifi_share_other_network">Outras redes</string>
   <string name="wifi_share_qrcode_finish">OK</string>
-  <string name="wifi_share_qrcode_summary">Para partilhar, digitalize o código QR em baixo.</string>
+  <string name="wifi_share_qrcode_summary">Para partilhar, digitalize o código QR acima.</string>
   <string name="wifi_share_qrcode_title">Partilhar rede Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
@@ -3893,9 +3893,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_uploading">A partilhar…</string>
   <string name="wifi_show_advanced">Mostrar opções avançadas</string>
   <string name="wifi_show_password">Mostrar palavra-passe</string>
-  <string name="wifi_signal">Intensidade do sinal</string>
+  <string name="wifi_signal">Potência do sinal</string>
   <string name="wifi_signal_found_msg">Ligar a um PA Wi-Fi?</string>
-  <string name="wifi_skip_anyway">Ignorar de qualquer maneira</string>
+  <string name="wifi_skip_anyway">Ignorar na mesma</string>
   <string name="wifi_skipped_message">AVISO: Se ignorar o Wi-Fi, o dispositivo utilizará apenas dados de rede móvel para as transferências e actualizações iniciais. Para evitar possíveis taxas de dados, estabeleça ligação a uma rede Wi-Fi.</string>
   <string name="wifi_speed">Velocidade da ligação</string>
   <string name="wifi_ssid">SSID</string>
@@ -3917,9 +3917,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_switch_away_when_unvalidated">Mudar para dados móveis se o Wi-Fi perder o acesso à internet.</string>
   <string name="wifi_switch_to_gsm_message">Perdeu ligação ao Wi-Fi. Utilizar ligação de dados móveis?</string>
   <string name="wifi_switch_to_gsm_title">Utilizar GSM?</string>
-  <string name="wifi_tether_checkbox_text">Ponto de Acesso Móvel</string>
+  <string name="wifi_tether_checkbox_text">Ponto de acesso móvel</string>
   <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso móvel</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
+  <string name="wifi_tether_configure_ssid_default">Ponto de acesso Android</string>
   <string name="wifi_tether_configure_subtext">Ponto de acesso móvel: SSID %1$s</string>
   <string name="wifi_tether_enabled_subtext">Ponto de acesso móvel %1$s activo</string>
   <string name="wifi_tether_failed_subtext">Erro de ponto de acesso móvel</string>

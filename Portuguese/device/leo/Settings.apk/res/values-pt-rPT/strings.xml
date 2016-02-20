@@ -3141,7 +3141,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_share_notification_summary">MIUI ligou-o a uma rede Wi-Fi pública.</string>
   <string name="wifi_share_other_network">Outras redes</string>
   <string name="wifi_share_qrcode_finish">OK</string>
-  <string name="wifi_share_qrcode_summary">Para partilhar digitalize o código QR acima.</string>
+  <string name="wifi_share_qrcode_summary">Para partilhar, digitalize o código QR acima.</string>
   <string name="wifi_share_qrcode_title">Partilhar rede Wi-Fi</string>
   <string name="wifi_share_show_network">Mostrar redes</string>
   <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
@@ -3157,7 +3157,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_signal">Potência do sinal</string>
   <string name="wifi_signal_found_msg">Ligar a um PA Wi-Fi?</string>
   <string name="wifi_skip_anyway">Ignorar na mesma</string>
-  <string name="wifi_skipped_message">"Atenção: Podem surgir custos adicionais.
+  <string name="wifi_skipped_message">"AVISO: Podem surgir custos adicionais.
 
 A configuração do telefone pode exigir a actividade de rede significativa."</string>
   <string name="wifi_speed">Velocidade da ligação</string>
@@ -3202,7 +3202,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento não tem o certificado AS, por favor verifique.</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correcto.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Introduza o nome do certificado AS</string>
-  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Falhou na criação da directoria.</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de certificados WAPI</string>
