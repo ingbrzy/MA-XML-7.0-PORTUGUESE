@@ -3779,9 +3779,9 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>
   <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
-  <string name="wifi_p2p_menu_search">Pesquisar por dispositivos</string>
+  <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
   <string name="wifi_p2p_menu_searching">A pesquisar…</string>
-  <string name="wifi_p2p_peer_devices">Aparelhos P2P</string>
+  <string name="wifi_p2p_peer_devices">Dispositivos P2P</string>
   <string name="wifi_p2p_persist_network">Guardar esta ligação</string>
   <string name="wifi_p2p_remembered_groups">Grupos guardados</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Directo</string>
@@ -3805,13 +3805,13 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_saved_access_points_label">Redes guardadas</string>
   <string name="wifi_saved_access_points_titlebar">Redes guardadas</string>
   <string name="wifi_scan_always_available">Localizar sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Permita que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando Wi-Fi está desligado</string>
+  <string name="wifi_scan_always_available_summary">Permita que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando o Wi-Fi está desligado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
-  <string name="wifi_scan_always_turnoff_message">Para desligar, aceda a Avançadas no menu adicional.</string>
+  <string name="wifi_scan_always_turnoff_message">Para desligar, aceda a Definições avançadas Wi-Fi.</string>
   <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s pretende ligar a verificação de redes, mesmo quando o Wi-Fi está desligado.
 
-Permitir esta opção para todas as aplicações que pretenderem verificar?"</string>
+Permitir esta opção para todas as aplicações que pretenderem verificar a localização?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
   <string name="wifi_scan_notify_text">Para melhorar a precisão da localização, os serviços e as aplicações do sistema podem continuar a procurar redes Wi-Fi. Pode alterar esta opção nas LINK_BEGINdefinições de pesquisaLINK_END.</string>
   <string name="wifi_security">Segurança</string>

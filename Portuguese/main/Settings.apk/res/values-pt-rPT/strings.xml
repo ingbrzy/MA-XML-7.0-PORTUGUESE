@@ -2926,16 +2926,16 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>
   <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
-  <string name="wifi_p2p_menu_search">Localizar dispositivos</string>
-  <string name="wifi_p2p_menu_searching">A localizar…</string>
-  <string name="wifi_p2p_peer_devices">Outros dispositivos</string>
+  <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
+  <string name="wifi_p2p_menu_searching">A pesquisar…</string>
+  <string name="wifi_p2p_peer_devices">Dispositivos P2P</string>
   <string name="wifi_p2p_persist_network">Guardar esta ligação</string>
   <string name="wifi_p2p_remembered_groups">Grupos guardados</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Directo</string>
   <string name="wifi_p2p_wps_setup">Configuração WPS</string>
   <string name="wifi_password">Palavra-passe</string>
   <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
-  <string name="wifi_poor_network_detection_summary">Não utilize uma rede Wi-Fi a menos que tenha uma boa ligação com a internet</string>
+  <string name="wifi_poor_network_detection_summary">Não utilize uma rede Wi-Fi a menos que tenha uma boa ligação</string>
   <string name="wifi_priority_changed" formatted="false">Valor antigo %s | Novo valor %s</string>
   <string name="wifi_priority_label">Prioridade</string>
   <string name="wifi_priority_settings_label">Definições de prioridade</string>
@@ -2946,18 +2946,18 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardado</string>
-  <string name="wifi_required_info_text">Para completar a instalação é necessário o seu dispositivo ter acesso ao Wi-Fi. Depois da instalação pode alternar entre os dados móveis e o Wi-Fi.</string>
+  <string name="wifi_required_info_text">Para finalizar a instalação, o seu dispositivo necessita de aceder ao Wi-Fi. Depois da instalação, pode alternar entre os dados móveis e o Wi-Fi.</string>
   <string name="wifi_save">Guardar</string>
-  <string name="wifi_scan_always_available">Localizar está sempre disponível</string>
-  <string name="wifi_scan_always_available_summary">Permita que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando Wi-Fi está desligado</string>
+  <string name="wifi_scan_always_available">Localizar sempre disponível</string>
+  <string name="wifi_scan_always_available_summary">Permita que o serviço de localização do Google e outras aplicações pesquisem redes, mesmo quando o Wi-Fi está desligado</string>
   <string name="wifi_scan_always_confirm_allow">Permitir</string>
   <string name="wifi_scan_always_confirm_deny">Negar</string>
-  <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s deseja activar a verificação de rede, mesmo quando o Wi-Fi está desligado.
+  <string name="wifi_scan_always_turnon_message">"Para melhorar a precisão da localização e para outros fins, %1$s pretende ligar a verificação de redes, mesmo quando o Wi-Fi está desligado.
 
-Permitir isto para todas as aplicações que queiram verificar a localização?"</string>
+Permitir esta opção para todas as aplicações que pretenderem verificar a localização?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
-  <string name="wifi_scan_notify_text_location_off">Aplicações podem localizar as redes próximas, mesmo quando a Wi-Fi está desligada. Se não deseja que isso aconteça, vá a Avançado &gt; Localizar sempre disponível.</string>
-  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e para outros fins, o Google e outras aplicações podem pesquisar as redes próximas, mesmo quando o Wi-Fi está desligado. Se não deseja que isto aconteça, vá a Definições avançadas Wi-Fi &gt; Localizar está sempre disponível.</string>
+  <string name="wifi_scan_notify_text_location_off">As aplicações podem pesquisar redes, mesmo quando o Wi-Fi está desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível.</string>
+  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e para outros fins, o Google e outras aplicações podem pesquisar redes, mesmo quando o Wi-Fi está desligado. Pode alterar esta opção nas Definições avançadas Wi-Fi &gt; Localizar sempre disponível.</string>
   <string name="wifi_secured_first_item">Protegido com %1$s</string>
   <string name="wifi_secured_second_item">, protegido com %1$s</string>
   <string name="wifi_security">Segurança</string>
