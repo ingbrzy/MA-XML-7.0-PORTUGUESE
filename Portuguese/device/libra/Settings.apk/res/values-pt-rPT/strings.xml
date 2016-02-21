@@ -3061,7 +3061,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
 Permitir isto para todas as aplicações que queiram verificar a localização?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
   <string name="wifi_scan_notify_text_location_off">Aplicações podem localizar as redes próximas, mesmo quando a Wi-Fi está desligada. Se não deseja que isso aconteça, vá a Avançado &gt; Localizar sempre disponível.</string>
-  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e para outros fins, o Google e outras aplicações podem pesquisar as redes próximas, mesmo quando a Wi-Fi está desligada. Se não deseja que isto aconteça, vá a Avançado &gt; Localizar sempre disponível.</string>
+  <string name="wifi_scan_notify_text_location_on">Para melhorar a precisão da localização e para outros fins, o Google e outras aplicações podem pesquisar as redes próximas, mesmo quando o Wi-Fi está desligado. Se não deseja que isto aconteça, vá a Definições avançadas Wi-Fi &gt; Localizar está sempre disponível.</string>
   <string name="wifi_secured_first_item">Protegido com %1$s</string>
   <string name="wifi_secured_second_item">, protegido com %1$s</string>
   <string name="wifi_security">Segurança</string>
