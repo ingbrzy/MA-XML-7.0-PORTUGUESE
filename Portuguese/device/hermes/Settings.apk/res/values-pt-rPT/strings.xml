@@ -3094,9 +3094,9 @@ Permitir isto para todas as aplicações que queiram verificar a localização?"
   <string name="wifi_setup_back">Voltar</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Ligar</string>
-  <string name="wifi_setup_description_connected">Toque em &lt;b&gt;Seguinte&lt;/b&gt;" para continuar a instalação.
+  <string name="wifi_setup_description_connected">Toque em <b>Seguinte</b>" para continuar a instalação.
 
-Toque em "&lt;b&gt;Voltar&lt;/b&gt; para ligar a uma rede Wi-Fi diferente.</string>
+Toque em "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
   <string name="wifi_setup_description_connecting">A ligação poderá demorar alguns minutos…</string>
   <string name="wifi_setup_detail">Detalhes da rede</string>
   <string name="wifi_setup_eap_not_supported">Não pode configurar uma ligação Wi-Fi EAP durante a instalação. Após a instalação, ir a Definições &gt; Redes e Wi-Fi.</string>
@@ -3112,7 +3112,7 @@ Toque em "&lt;b&gt;Voltar&lt;/b&gt; para ligar a uma rede Wi-Fi diferente.</stri
   <string name="wifi_setup_status_existing_network">Ligar a uma rede existente</string>
   <string name="wifi_setup_status_new_network">Ligar a uma nova rede</string>
   <string name="wifi_setup_status_proceed_to_next">Ir para o próximo passo</string>
-  <string name="wifi_setup_status_scanning">A localizar redes…</string>
+  <string name="wifi_setup_status_scanning">A pesquisar redes…</string>
   <string name="wifi_setup_status_select_network">Toque numa rede para se ligar a ela</string>
   <string name="wifi_setup_status_unsecured_network">Ligar a uma rede não segura</string>
   <string name="wifi_setup_title">Configuração de Wi-Fi</string>
@@ -3121,7 +3121,7 @@ Toque em "&lt;b&gt;Voltar&lt;/b&gt; para ligar a uma rede Wi-Fi diferente.</stri
   <string name="wifi_setup_title_connecting_network">A ligar a %s…</string>
   <string name="wifi_setup_title_editing_network">Ligar a %s</string>
   <string name="wifi_setup_wizard_title">Seleccionar rede Wi-Fi</string>
-  <string name="wifi_setup_wps">Instalação automática (WPS)</string>
+  <string name="wifi_setup_wps">Configuração automática (WPS)</string>
   <string name="wifi_share">Partilhar Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Parar a partilha de redes</string>
   <string name="wifi_share_action_turn_on">Partilhar Wi-Fi</string>
