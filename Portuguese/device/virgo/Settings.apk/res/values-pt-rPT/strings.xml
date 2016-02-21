@@ -3653,7 +3653,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_calling_mode_dialog_title">Modo de chamada Wi-Fi</string>
   <string name="wifi_calling_mode_title">Preferências das chamadas</string>
   <string name="wifi_calling_off_explanation">Se as chamadas Wi-Fi estiverem activadas, o telefone pode encaminhar as chamadas através de redes Wi-Fi ou da rede do seu operador, consoante as suas preferências e do sinal que for mais forte. Antes de activar esta funcionalidade, verifique junto do seu operador questões como tarifas, entre outras.</string>
-  <string name="wifi_calling_settings_title">Chamadas Wi-Fig</string>
+  <string name="wifi_calling_settings_title">Chamadas Wi-Fi</string>
   <string name="wifi_cancel">Cancelar</string>
   <string name="wifi_certificate">Certificado</string>
   <string name="wifi_click_share_wlan">Toque para partilhar palavra-passe</string>
@@ -3666,11 +3666,11 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Não voltar a mostrar</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
-  <string name="wifi_connected_no_internet">Ligado, sem internet</string>
+  <string name="wifi_connected_no_internet">Ligado, mas sem internet</string>
   <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WAPI</string>
-  <string name="wifi_context_menu_connect">Ligar</string>
-  <string name="wifi_context_menu_forget">Esquecer</string>
+  <string name="wifi_context_menu_connect">Ligar à rede</string>
+  <string name="wifi_context_menu_forget">Esquecer rede</string>
   <string name="wifi_datanetwork_switch_not_remind">Não mostrar novamente</string>
   <string name="wifi_dialog_remind_type_title">Rede de dados móveis</string>
   <string name="wifi_disabled_generic">Desactivado</string>
@@ -3717,7 +3717,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
-  <string name="wifi_fail_to_scan">Não é possível pesquisar por redes</string>
+  <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
   <string name="wifi_failed_connect_message">Erro ao ligar à rede</string>
   <string name="wifi_failed_forget_message">Não conseguiu esquecer rede</string>
   <string name="wifi_failed_save_message">Erro ao guardar a rede</string>
@@ -3732,7 +3732,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_hotspot_message">%1$s necessita que inicie sessão online antes de se ligar à rede.</string>
   <string name="wifi_hotspot_title">Iniciar sessão para ligar?</string>
   <string name="wifi_in_airplane_mode">Em Modo de Avião</string>
-  <string name="wifi_install_credentials">Instalar Certificados</string>
+  <string name="wifi_install_credentials">Instalar certificados</string>
   <string name="wifi_ip_address">Endereço IP:</string>
   <string name="wifi_ip_settings">Definições de IP</string>
   <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido.</string>
