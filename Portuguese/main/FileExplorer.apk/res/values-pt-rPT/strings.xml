@@ -136,8 +136,8 @@
   <string name="dir_not_support">"Não é possível ocultar esta pasta."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Vazio</string>
-  <string name="disk_available">Disponível:</string>
-  <string name="disk_total">Total:</string>
+  <string name="disk_available">Disponível: </string>
+  <string name="disk_total">Total: </string>
   <string name="dlg_error_unmount_text">Erro ao desmontar o armazenamento USB.</string>
   <string name="download_current_progress">%1$d%%</string>
   <string name="download_failed">Erro na transferência</string>
@@ -494,7 +494,7 @@ e nunca perca as novidades!"</string>
   <string name="search_description">Pesquisar todos os ficheiros no dispositivo</string>
   <string name="search_empty_view_hint">Sem resultados</string>
   <string name="search_error_hint">Introduzir palavras-chave para pesquisar</string>
-  <string name="search_file_type_apk">Apk</string>
+  <string name="search_file_type_apk">APK</string>
   <string name="search_file_type_doc">Documentos</string>
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_other">Outros</string>
