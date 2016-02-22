@@ -642,7 +642,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Apenas software</string>
-  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
+  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio do ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais está activado.</string>
   <string name="credentials_erased">O armazenamento de credenciais está eliminado.</string>
   <string name="credentials_install">Instalar do armazenamento</string>
@@ -875,7 +875,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
-  <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
+  <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio do ecrã</string>
   <string name="disconnect">Desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
   <string name="display_label">Ecrã</string>
@@ -1050,7 +1050,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
-  <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
+  <string name="fingerprint_and_password_entrance_title">Bloqueio do ecrã e impressão digital</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
@@ -1364,12 +1364,12 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
   <string name="lock_settings">Bloqueio do ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
-  <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
-  <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
+  <string name="lock_settings_picker_settings">Definir bloqueio do ecrã</string>
+  <string name="lock_settings_picker_title">Escolher bloqueio do ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
+  <string name="lock_settings_with_fingerprint">Bloqueio do ecrã e leitor de impressões digitais</string>
   <string name="lock_setup">Configuração concluída.</string>
-  <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
+  <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
   <string name="lockpassword_choose_your_password_header">Escolher palavra-passe</string>
@@ -2371,7 +2371,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
-  <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
+  <string name="status_bar_app_enable_keyguard">Bloqueio do ecrã</string>
   <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
   <string name="status_bar_screen_button_key">Botões do ecrã</string>
@@ -2598,7 +2598,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
-  <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
+  <string name="unlock_set_enter_system">Ignorar bloqueio do ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após activar o ecrã</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo (experimental)</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
@@ -2623,7 +2623,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_summary">Segurança média a alta</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
-  <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
+  <string name="unlock_set_unlock_summary">Definir um bloqueio do ecrã</string>
   <string name="unmount_inform_text">O armazenamento USB será desmontado.</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
@@ -2736,7 +2736,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_image_take_photo">Tirar fotografia</string>
   <string name="user_info_settings_title">Infor. do utilizador</string>
   <string name="user_list_title">Utilizadores e perfis</string>
-  <string name="user_need_lock_message">Antes de criar um perfil restrito é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
+  <string name="user_need_lock_message">Antes de criar um perfil restrito é necessário definir um bloqueio do ecrã para proteger as suas aplicações e dados pessoais.</string>
   <string name="user_new_profile_name">Novo perfil</string>
   <string name="user_new_user_name">Novo utilizador</string>
   <string name="user_nickname">Alcunha</string>

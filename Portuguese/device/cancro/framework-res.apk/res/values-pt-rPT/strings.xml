@@ -315,7 +315,7 @@ utilizando %s"</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Assistência</string>
   <string name="global_action_bug_report">Relatório de erros</string>
-  <string name="global_action_lock">Bloqueio de ecrã</string>
+  <string name="global_action_lock">Bloqueio do ecrã</string>
   <string name="global_action_lockdown">Bloquear agora</string>
   <string name="global_action_power_off">Desligar</string>
   <string name="global_action_reboot">Reiniciar</string>
@@ -812,7 +812,7 @@ para a conta %s."</string>
   <string name="permlab_connection_manager">gerir ligações de telecomunicação</string>
   <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
   <string name="permlab_createNetworkSockets">acesso total à rede</string>
-  <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
+  <string name="permlab_disableKeyguard">desactivar o bloqueio do ecrã</string>
   <string name="permlab_enableCarMode">activar Modo de Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
   <string name="permlab_flashlight">controlar lanterna</string>
@@ -918,10 +918,10 @@ para a conta %s."</string>
   <string name="policylab_disableCamera">Desactivar câmaras</string>
   <string name="policylab_disableKeyguardFeatures">Desactivar funcionalidades na protecção do teclado</string>
   <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>
-  <string name="policylab_expirePassword">Definir validade da palavra-passe do bloqueio de ecrã</string>
+  <string name="policylab_expirePassword">Definir validade da palavra-passe do bloqueio do ecrã</string>
   <string name="policylab_forceLock">Bloquear o ecrã</string>
   <string name="policylab_limitPassword">Definir as regras da palavra-passe</string>
-  <string name="policylab_resetPassword">Alterar o bloqueio de ecrã</string>
+  <string name="policylab_resetPassword">Alterar o bloqueio do ecrã</string>
   <string name="policylab_setGlobalProxy">Definir o proxy global do dispositivo</string>
   <string name="policylab_watchLogin">Monitorizar tentativas de desbloqueio do ecrã</string>
   <string name="policylab_wipeData">Apagar todos os dados</string>
@@ -1014,7 +1014,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="screen_compat_mode_hint">Reactivar este modo nas definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
   <string name="screen_compat_mode_scale">Escala</string>
   <string name="screen_compat_mode_show">Mostrar sempre</string>
-  <string name="screen_lock">Bloqueio de ecrã</string>
+  <string name="screen_lock">Bloqueio do ecrã</string>
   <string name="search_go">Pesquisar</string>
   <string name="search_hint">Pesquisar…</string>
   <string name="searchview_description_clear">Limpar pesquisa</string>
