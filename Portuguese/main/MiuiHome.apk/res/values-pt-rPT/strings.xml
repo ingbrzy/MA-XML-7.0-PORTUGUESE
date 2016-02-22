@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo</string>
-  <string name="add_screen">Adicionar botão de ecrã</string>
+  <string name="add_screen">Adicionar ecrã</string>
   <string name="app_already_exist">Aplicação já existe</string>
   <string name="app_being_backup_message">Aplicação está a ser copiada</string>
   <string name="app_being_restored_message">Aplicação está a ser restaurada</string>
@@ -60,7 +60,7 @@
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Ferramentas</string>
   <string name="delete">Eliminar</string>
-  <string name="delete_screen">Eliminar botão de ecrã</string>
+  <string name="delete_screen">Eliminar ecrã</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
   <string name="delete_wallpapers_message">Eliminar %1$d papéis de parede?</string>
   <string name="deselect_all">Desmarcar tudo</string>
@@ -117,7 +117,7 @@
   <string name="gadget_photo_24_label">Imagem 4x2</string>
   <string name="gadget_photo_44_label">Imagem 4x4</string>
   <string name="gadget_photo_label">Imagem</string>
-  <string name="gadget_power_clear_button_label">Limpeza profunda</string>
+  <string name="gadget_power_clear_button_label">Limpeza Profunda</string>
   <string name="gadget_search_label">Pesquisar</string>
   <string name="gadget_weather_app_not_installed">Toque para transferir a aplicação Tempo da MIUI</string>
   <string name="gadget_weather_aqi_title">"Qualidade do ar: "</string>

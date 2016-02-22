@@ -265,7 +265,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
   <string name="apply_now_button_text">Actualizar</string>
-  <string name="apply_password_to_category_title">Requer palavra-passe</string>
+  <string name="apply_password_to_category_title">Requer desbloqueio</string>
   <string name="apply_update_fail">Erro na actualização</string>
   <string name="apps_storage">Armazenamento de aplicações</string>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
@@ -707,7 +707,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="cellular_data_summary">Permitir utilizar dados através rede móvel</string>
   <string name="cellular_data_title">Dados de rede móvel</string>
   <string name="change">Alterar</string>
-  <string name="change_password">Alterar bloqueio de segurança</string>
+  <string name="change_password">Alterar bloqueio do ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
   <string name="change_storage">Alterar armazenamento</string>
   <string name="charging_sounds_title">Sons de carregamento</string>
@@ -1087,7 +1087,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
   <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não incomodar estiver ligado</string>
-  <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
+  <string name="dndm_menu_add_vip_custom">Adicionar</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não incomodar está ligado</string>
   <string name="dndm_open">Não incomodar</string>
@@ -1108,7 +1108,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
   <string name="dndm_vip_list_starred_contact">Todos os contactos nos Favoritos</string>
-  <string name="dndm_wristband">Banda Mi</string>
+  <string name="dndm_wristband">Activar com Banda Mi</string>
   <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de início marcada"</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
   <string name="dock_audio_media_disabled">Todo o áudio</string>
@@ -1284,7 +1284,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_write_settings_apps">Podem modificar as definições do sistema</string>
   <string name="fingerprint_add_max">Pode adicionar até %d impressões digitais</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
-  <string name="fingerprint_and_password_entrance_title">Palavra-passe e impressão digital</string>
+  <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
@@ -2015,7 +2015,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="music_hifi_summary">Reduzir o ruído e distorção e aumentar a qualidade de áudio</string>
   <string name="music_hifi_title">Áudio Hi-Fi</string>
   <string name="music_hifi_volume">Volume Hi-Fi</string>
-  <string name="music_mi_effect_summary">Activar o melhoramento de som Mi quando utilizar auriculares</string>
+  <string name="music_mi_effect_summary">Activar o melhoramento de som Mi quando utilizar altifalantes</string>
   <string name="music_mi_effect_title">Melhoramento de som Mi</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="musicfx_title">Efeitos da música</string>
@@ -2200,8 +2200,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
-  <string name="password_entrance_title">Bloqueio de segurança</string>
-  <string name="password_guard">Bloqueio de segurança</string>    
+  <string name="password_entrance_title">Bloqueio do ecrã</string>
+  <string name="password_guard">Bloqueio do ecrã</string>    
   <string name="performance_category">Desempenho</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">Segurança: %1$d | Privacidade: %2$d | Outras: %3$d</string>
@@ -2661,7 +2661,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_results_title">Definições</string>
   <string name="search_settings">Pesquisar</string>
   <string name="search_settings_summary">Gerir as definições da pesquisa e do histórico</string>
-  <string name="secure_keyguard_business_title">Palavra-passe de bloqueio de ecrã</string>
+  <string name="secure_keyguard_business_title">&gt;Definir bloqueio de ecrã</string>
   <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não utilizará o bloqueio de ecrã para optimizar a encriptação de dados.</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
@@ -3255,11 +3255,11 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tts_status_ok">%1$s é totalmente suportado</string>
   <string name="tts_status_requires_network">%1$s necessita de uma ligação de rede</string>
   <string name="tts_status_title">Estado do idioma predefinido</string>
-  <string name="turn_off_common_password_confirm_msg">A palavra-passe irá ser desligada também.</string>
+  <string name="turn_off_common_password_confirm_msg">O bloqueio do ecrã vai ser desligado também</string>
   <string name="turn_off_radio">Desligar rádio</string>
   <string name="turn_off_security_lock">Desactivar bloqueio</string>
   <string name="turn_on_radio">Ligar rádio</string>
-  <string name="turn_on_security_lock">Adicionar bloqueio de segurança</string>
+  <string name="turn_on_security_lock">Escolher bloqueio do ecrã</string>
   <string name="under_keyguard">Bloqueio do ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
@@ -3537,7 +3537,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="volume_notification_description">Notificações</string>
   <string name="volume_notification_mute">Silenciar notificações</string>
   <string name="volume_restore">Restaurar volumes</string>
-  <string name="volume_restore_alert">Todos os níveis de volume irão ser restaurados.</string>
+  <string name="volume_restore_alert">Restaurar todos os níveis de volume para as definições predefinidas?</string>
   <string name="volume_ring_description">Toques e notificações</string>
   <string name="volume_ring_mute">Silenciar toques e notificações</string>
   <string name="volume_system_description">Disparo da câmara, ecrã de bloqueio e outras notificações de sistema</string>
@@ -3936,7 +3936,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi, mostrar por RSSI de SSID no seleccionador de Wi-Fi</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
-  <string name="wifi_wapi_cert_create_subdir">Criar uma directoria</string>
+  <string name="wifi_wapi_cert_create_subdir">Criar uma pasta</string>
   <string name="wifi_wapi_cert_delet_subdir">Seleccionar um certificado compatível</string>
   <string name="wifi_wapi_cert_install">Instalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
@@ -3946,7 +3946,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de certificados WAPI</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">Certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor, instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>
