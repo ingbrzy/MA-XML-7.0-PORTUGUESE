@@ -3255,9 +3255,9 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="tts_status_ok">%1$s é totalmente suportado</string>
   <string name="tts_status_requires_network">%1$s necessita de uma ligação de rede</string>
   <string name="tts_status_title">Estado do idioma predefinido</string>
-  <string name="turn_off_common_password_confirm_msg">O bloqueio de ecrã vai ser desligado também</string>
+  <string name="turn_off_common_password_confirm_msg">O bloqueio de ecrã também vai ser desligado</string>
   <string name="turn_off_radio">Desligar rádio</string>
-  <string name="turn_off_security_lock">Desactivar bloqueio</string>
+  <string name="turn_off_security_lock">Desactivar bloqueio de ecrã</string>
   <string name="turn_on_radio">Ligar rádio</string>
   <string name="turn_on_security_lock">Escolher bloqueio de ecrã</string>
   <string name="under_keyguard">Bloqueio de ecrã</string>
