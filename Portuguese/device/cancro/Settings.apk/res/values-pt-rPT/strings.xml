@@ -3442,7 +3442,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="user_image_choose_photo">Escolher foto da Galeria</string>
   <string name="user_image_photo_selector">Seleccionar foto</string>
   <string name="user_image_take_photo">Tirar foto</string>
-  <string name="user_info_settings_title">Info. utilizador</string>
+  <string name="user_info_settings_title">Info. do utilizador</string>
   <string name="user_list_title">Utilizadores e perfis</string>
   <string name="user_need_lock_message">Antes de criar um perfil restrito, é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
   <string name="user_new_profile_name">Novo perfil</string>
@@ -3474,7 +3474,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="version_text">versão %1$s</string>
   <string name="vibrate_category_title">Vibrar</string>
   <string name="vibrate_in_normal_title">Vibrar quando estiver a tocar</string>
-  <string name="vibrate_in_silent_title">Vibrar quando estiver em silêncio</string>
+  <string name="vibrate_in_silent_title">Vibrar em modo silêncio</string>
   <string name="vibrate_input_devices">Utilizar vibração</string>
   <string name="vibrate_input_devices_summary">Redireccionar vibração para o controlador de jogo quando ligado.</string>
   <string name="vibrate_on_touch_title">Vibrar ao tocar</string>
@@ -3520,8 +3520,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
   <string name="voice_input_settings">Definições de entrada de texto por voz</string>
   <string name="voice_input_settings_title">Entrada de texto por voz</string>
-  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz poderá efectuar monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s application. Permitir a utilização deste serviço?</string>
-  <string name="voice_interactor_preference_summary">Palavra de activação e interação completas</string>
+  <string name="voice_interaction_security_warning">Este serviço de entrada de texto por voz poderá efectuar a monitorização de voz permanente e controlar aplicações activadas por voz em seu nome. É proveniente da aplicação %s. Permitir a utilização deste serviço?</string>
+  <string name="voice_interactor_preference_summary">Palavra de activação e interacção completas</string>
   <string name="voice_recognizer_preference_summary">Serviço simples de voz para texto</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
   <string name="voice_service_preference_section_title">Serviços de entrada de texto por voz</string>
@@ -3609,7 +3609,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wfd_disconnect_multiple_diag_message">Desligar de %1$s e %2$s outros dispositivos?</string>
   <string name="wfd_enable_wifi_diag_title">Ligar Wi-Fi?</string>
   <string name="wfd_enabler_title">Visualização sem fios</string>
-  <string name="wfd_menu_search">Pesquisar por dispositivos</string>
+  <string name="wfd_menu_search">Pesquisar dispositivos</string>
   <string name="wfd_menu_searching">A pesquisar…</string>
   <string name="wfd_menu_teardown">Parar</string>
   <string name="wfd_settings_description">Ligar a um ecrã através de Wi-Fi</string>
