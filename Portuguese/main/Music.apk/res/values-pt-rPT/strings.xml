@@ -298,10 +298,12 @@
   <string name="more_online_release">Mais</string>
   <string name="more_online_song">Mais</string>
   <string name="more_online_suggest">Mais</string>
+  <string name="more_settings">Mais definições avançadas</string>
+  <string name="more_settings_summary">Transferir definições, modo de suspensão, controlo de fluxo, filtros de ficheiro, etc</string>
   <string name="multichoice">Seleccionar</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
-  <string name="music_quality">Música de qualidade</string>
+  <string name="music_service">Serviço de música</string>
   <string name="music_settings">Música</string>
   <string name="my_account">Conta Mi</string>
   <string name="my_music_empty">Lista de reprodução vazia.</string>
@@ -353,7 +355,6 @@
   <string name="online_playlist_is_empty">Lista de reprodução vazia</string>
   <string name="order_pending">A aguardar confirmação</string>
   <string name="order_process_fail">Não foi possível autorizar a sua conta. Aguarde alguns minutos e tente novamente.</string>
-  <string name="page_local_setting">Definições</string>
   <string name="pay">Pagar:</string>
   <string name="pay_now">Serviço actual</string>
   <string name="payment_fail">Não foi possível pagar</string>
@@ -405,6 +406,7 @@
   <string name="send_to">Partilhar</string>
   <string name="send_to_title">Enviar para (%1$s)</string>
   <string name="server_error">Erro do servidor. Tente mais tarde</string>
+  <string name="service_and_settings">Definições e serviços</string>
   <string name="service_stop">Serviço discontinuado</string>
   <string name="set_album_successful">O álbum foi definido com sucesso</string>
   <string name="set_as_ring">Definir como tom de toque</string>
@@ -415,6 +417,7 @@
   <string name="set_lyric_successful">A letra foi definida com sucesso</string>
   <string name="set_ringtones_failed">Não é possível definir como toque</string>
   <string name="set_ringtones_successful">%s definir como toque</string>
+  <string name="settings">Definições</string>
   <string name="share_append_text">De @MIUI</string>
   <string name="share_chooser_title">Partilhar via</string>
   <string name="share_description">De Música Mi</string>
@@ -449,6 +452,7 @@
   <string name="sync_only_in_wifi_summary">Sincronizar a sua música em todos os seus dispositivos com a Nuvem Mi. Ao utilizar a sua ligação de dados móveis para sincronizar música vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="sub_explanation">Plano de dados de música</string>
   <string name="sub_explanation_message">O plano de dados de música é suportado actualmente pela China Unicom. A sua operadora não suporta esta funcionalidade. Pode comprar dados móveis normais.</string>
+  <string name="subed">Ligado</string>
   <string name="tab_album">Álbuns</string>
   <string name="tab_album_list">Álbum</string>
   <string name="tab_artist">Artistas</string>
@@ -461,7 +465,9 @@
   <string name="tab_local_track_list">Músicas</string>
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Música</string>
-  <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito.</string>
+  <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
+  <string name="ticket_summary">Comprar bilhetes para shows, concertos e outros eventos</string>
+  <string name="ticket_title">Mostrar bilhetes</string>
   <string name="time_to_upgrade">Deve actualizar Música Mi</string>
   <string name="title_online_artist">Artistas Tendências</string>
   <string name="title_online_billboard">Charts</string>

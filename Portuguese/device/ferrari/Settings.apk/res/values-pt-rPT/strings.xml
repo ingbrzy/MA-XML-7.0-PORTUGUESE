@@ -207,7 +207,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
   <string name="apply_fingerprint_to_category_title">Aplicar impressão digital a…</string>
   <string name="apply_now_button_text">Actualizar</string>
-  <string name="apply_password_to_category_title">Requer palavra-passe</string>
+  <string name="apply_password_to_category_title">Requer desbloqueio</string>
   <string name="apply_update_fail">Erro na actualização</string>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
   <string name="apps_with_restrictions_settings_button">Expandir as definições para aplicação</string>
@@ -577,7 +577,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio do ecrã, credencial de bloqueio do armazenamento</string>
   <string name="cell_broadcast_settings">Definições de difusão móvel</string>
   <string name="cell_broadcast_settings_summary">Seleccione o tipo de alertas de emergência a mostrar</string>
-  <string name="change_password">Alterar bloqueio de segurança</string>
+  <string name="change_password">Alterar bloqueio do ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Verificar actualizações</string>
@@ -642,7 +642,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="credential_storage_type">Tipo de armazenamento</string>
   <string name="credential_storage_type_hardware">Suportado por hardware</string>
   <string name="credential_storage_type_software">Apenas software</string>
-  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
+  <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio do ecrã ou palavra-passe antes de efectuar o armazenamento de credenciais</string>
   <string name="credentials_enabled">O armazenamento de credenciais está activado.</string>
   <string name="credentials_erased">O armazenamento de credenciais está eliminado.</string>
   <string name="credentials_install">Instalar do armazenamento</string>
@@ -875,7 +875,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
-  <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
+  <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio do ecrã</string>
   <string name="disconnect">Desligar</string>
   <string name="display_font_size_label">Tamanho do tipo de letra:</string>
   <string name="display_label">Ecrã</string>
@@ -908,7 +908,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_auto_time_turn_on_title">Ligar automaticamente Não incomodar</string>
   <string name="dndm_dlg_remove_ok">Remover</string>
   <string name="dndm_dlg_remove_vip">Chamadas desta pessoa serão silenciadas quando Não incomodar estiver ligado</string>
-  <string name="dndm_menu_add_vip_custom">Adicionar excepção</string>
+  <string name="dndm_menu_add_vip_custom">Adicionar</string>
   <string name="dndm_mute_all">Silenciar chamadas e mensagens</string>
   <string name="dndm_notification">Não incomodar está ligado</string>
   <string name="dndm_open">Não incomodar</string>
@@ -928,7 +928,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_vip_list_custom">Excepções</string>
   <string name="dndm_vip_list_custom_group">Excepções</string>
   <string name="dndm_vip_list_group">Lista de excepções</string>
-  <string name="dndm_wristband">Banda Mi</string>
+  <string name="dndm_wristband">Activar com Banda Mi</string>
   <string name="dndm_wristband_detailed">"Ligar Não incomodar se a Banda Mi detectar que está a dormir uma hora antes da hora de início marcada"</string>
   <string name="dndm_wristband_detailed2">"Desligar Não incomodar se a Banda Mi detectar que está acordado uma hora antes da hora de fim marcada"</string>
   <string name="do_not_disturb_mode">Não incomodar</string>
@@ -1050,7 +1050,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_apps_running">Em execução</string>
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
-  <string name="fingerprint_and_password_entrance_title">Palavra-passe e impressão digital</string>
+  <string name="fingerprint_and_password_entrance_title">Bloqueio do ecrã e impressão digital</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
@@ -1364,12 +1364,12 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
   <string name="lock_settings">Bloqueio do ecrã</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
-  <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
-  <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
+  <string name="lock_settings_picker_settings">Definir bloqueio do ecrã</string>
+  <string name="lock_settings_picker_title">Escolher bloqueio do ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
+  <string name="lock_settings_with_fingerprint">Bloqueio do ecrã e leitor de impressões digitais</string>
   <string name="lock_setup">Configuração concluída.</string>
-  <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
+  <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_lock_generic_header">Selecção de desbloqueio</string>
   <string name="lockpassword_choose_your_password_header">Escolher palavra-passe</string>
@@ -1769,8 +1769,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_page2_title">Pré-visualizar</string>
   <string name="page_layout_small_title">Muito pequeno</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
-  <string name="password_entrance_title">Bloqueio de segurança</string>
-  <string name="password_guard">Bloqueio de segurança</string>
+  <string name="password_entrance_title">Bloqueio do ecrã</string>
+  <string name="password_guard">Bloqueio do ecrã</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Desempenho</string>
   <string name="permission_detail_info">Detalhes</string>
@@ -2203,7 +2203,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="search_wallpaper">papel de parede</string>
   <string name="search_wifi">wi-fi</string>
   <string name="search_wifi_display">visualização wi-fi</string>
-  <string name="secure_keyguard_business_title">Palavra-passe de bloqueio do ecrã</string>
+  <string name="secure_keyguard_business_title">&gt;Definir bloqueio do ecrã</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
   <string name="security_enable_widgets_title">Activar widgets</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
@@ -2371,7 +2371,7 @@ Para mais informações contacte o seu administrador."</string>
   <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_app_disable_notification">Notificações ocultas</string>
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
-  <string name="status_bar_app_enable_keyguard">Bloqueio de ecrã</string>
+  <string name="status_bar_app_enable_keyguard">Bloqueio do ecrã</string>
   <string name="status_bar_app_enable_message">Ícones</string>
   <string name="status_bar_key_position_custom">Personalizar a posição dos botões</string>
   <string name="status_bar_screen_button_key">Botões do ecrã</string>
@@ -2581,11 +2581,11 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="tts_status_ok">%1$s é totalmente compatível</string>
   <string name="tts_status_requires_network">%1$s necessita de uma ligação de rede</string>
   <string name="tts_status_title">Estado do idioma predefinido</string>
-  <string name="turn_off_common_password_confirm_msg">A palavra-passe irá ser desligada também.</string>
+  <string name="turn_off_common_password_confirm_msg">O bloqueio do ecrã vai ser desligado também</string>
   <string name="turn_off_radio">Desligar o rádio</string>
   <string name="turn_off_security_lock">Desactivar bloqueio</string>
   <string name="turn_on_radio">Ligar rádio</string>
-  <string name="turn_on_security_lock">Adicionar bloqueio de segurança</string>
+  <string name="turn_on_security_lock">Escolher bloqueio do ecrã</string>
   <string name="under_keyguard">Bloqueio do ecrã</string>
   <string name="uninstall_all_users_text">Desinstalar para todos os utilizadores</string>
   <string name="uninstall_text">Desinstalar</string>
@@ -2598,7 +2598,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_disable_lock_pattern_summary">Remover padrão de desbloqueio</string>
   <string name="unlock_disable_lock_pin_summary">Desligar PIN</string>
   <string name="unlock_disable_lock_title">Desactivar o bloqueio do ecrã</string>
-  <string name="unlock_set_enter_system">Ignorar bloqueio de ecrã</string>
+  <string name="unlock_set_enter_system">Ignorar bloqueio do ecrã</string>
   <string name="unlock_set_enter_system_summary">Ir directamente para o ecrã inicial após activar o ecrã</string>
   <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo (experimental)</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
@@ -2623,7 +2623,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
   <string name="unlock_set_unlock_pin_summary">Segurança média a alta</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
-  <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
+  <string name="unlock_set_unlock_summary">Definir um bloqueio do ecrã</string>
   <string name="unmount_inform_text">O armazenamento USB será desmontado.</string>
   <string name="untitled_apn">Sem título</string>
   <string name="update_progress_for_updates">A actualizar (%s)</string>
@@ -2736,7 +2736,11 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="user_image_take_photo">Tirar fotografia</string>
   <string name="user_info_settings_title">Info. do utilizador</string>
   <string name="user_list_title">Utilizadores e perfis</string>
+<<<<<<< HEAD
   <string name="user_need_lock_message">Antes de criar um perfil restrito, é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
+=======
+  <string name="user_need_lock_message">Antes de criar um perfil restrito é necessário definir um bloqueio do ecrã para proteger as suas aplicações e dados pessoais.</string>
+>>>>>>> origin/master
   <string name="user_new_profile_name">Novo perfil</string>
   <string name="user_new_user_name">Novo utilizador</string>
   <string name="user_nickname">Alcunha</string>
@@ -2827,7 +2831,11 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
   <string name="volume_notification_description">Notificações</string>
   <string name="volume_notification_mute">Silenciar notificações</string>
   <string name="volume_restore">Restaurar volumes</string>
+<<<<<<< HEAD
   <string name="volume_restore_alert">Todos os níveis de volume irão ser restaurados.</string>
+=======
+  <string name="volume_restore_alert">Restaurar todos os níveis de volume para as definições predefinidas?</string>
+>>>>>>> origin/master
   <string name="volume_ring_description">Toques e notificações</string>
   <string name="volume_ring_mute">Silenciar toques e notificações</string>
   <string name="volume_system_description">Disparo da câmara, ecrã de bloqueio e outras notificações de sistema</string>
@@ -3195,7 +3203,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_verbose_logging_summary">Aumentar o nível de reg. de Wi-Fi, mostrar por RSSI de SSID no seleccionador de Wi-Fi</string>
   <string name="wifi_wapi_as_cert">Certificado AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancelar</string>
-  <string name="wifi_wapi_cert_create_subdir">Criar uma directoria</string>
+  <string name="wifi_wapi_cert_create_subdir">Criar uma pasta</string>
   <string name="wifi_wapi_cert_delet_subdir">Seleccionar um certificado compatível</string>
   <string name="wifi_wapi_cert_install">Instalar Certificado WAPI</string>
   <string name="wifi_wapi_cert_install_button">Instalar</string>
@@ -3205,7 +3213,7 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Não foi possível criar uma pasta.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe uma pasta com este nome.</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Introduzir nome da pasta</string>
-  <string name="wifi_wapi_cert_mgmt_titlebar">Gestão de certificados WAPI</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">Certificados WAPI</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Insira o nome do certificado de utilizador</string>
   <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de utilizador está errado! Por favor, instale o certificado de utilizador correcto.</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Insira o nome do certificado de utilizador</string>

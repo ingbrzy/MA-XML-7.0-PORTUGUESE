@@ -437,7 +437,6 @@
   <string name="recipients_over_size">Demasiados destinatários.</string>
   <string name="recording_failed">Não foi possível gravar</string>
   <string name="red_package_btn">Abrir</string>
-  <string name="red_package_default_hint">恭喜发财，万事如意!</string>
   <string name="refill_now">Recarregar agora</string>
   <string name="refresh">Actualizar</string>
   <string name="refresh_failed">Actualização sem sucesso</string>
@@ -571,6 +570,9 @@
   <string name="title_allow_network_access">Actualizar informação automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar notificações</string>
   <string name="title_date_type">Registo da hora da mensagem</string>
+  <string name="title_recv_red_package">Obter pacote vermelho</string>
+  <string name="title_red_package">Pacote vermelho</string>
+  <string name="title_send_red_package">Verificar pacote vermelho</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
