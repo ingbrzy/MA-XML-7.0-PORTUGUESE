@@ -2599,22 +2599,22 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="user_add_user_item_summary">Os utilizadores têm as suas próprias aplicações e conteúdos</string>
   <string name="user_add_user_item_title">Utilizador</string>
   <string name="user_add_user_menu">Adicionar utilizador ou perfil</string>
-  <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas criando utilizadores adicionais. Cada utilizador tem o seu próprio espaço, que pode personalizar com as suas próprias aplicações, fundos de ecrã, etc. Os utilizadores também podem modificar as definições do telefone como Wi-Fi que afectam todos. 
+  <string name="user_add_user_message_long">"Pode partilhar este dispositivo com outras pessoas ao criar utilizadores adicionais. Cada utilizador possui o seu próprio espaço, que pode ser personalizado com aplicações, papel de parede, etc. Os utilizadores também podem ajustar as definições do dispositivo, como o Wi-Fi, que afectam os restantes utilizadores.
 
 Depois de criar um novo utilizador, é necessário seguir o processo de definições. 
 
-Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada em nome de todos os utilizadores."</string>
+Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores."</string>
   <string name="user_add_user_message_short">"Depois de criar um novo utilizador, esse utilizador tem que passar por um processo de definições.
 
-Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada em nome de todos os utilizadores."</string>
+Qualquer utilizador pode actualizar aplicações para todos os outros utilizadores."</string>
   <string name="user_add_user_title">Adicionar novo utilizador</string>
   <string name="user_add_user_type_title">Adicionar</string>
   <string name="user_adding_new_user">A adicionar novo utilizador…</string>
-  <string name="user_cannot_add_accounts_message">Os utilizadores restritos não podem adicionar contas</string>
-  <string name="user_cannot_manage_message">Apenas o proprietário do telefone pode gerir os utilizadores</string>
+  <string name="user_cannot_add_accounts_message">Perfis restritos não podem adicionar contas</string>
+  <string name="user_cannot_manage_message">A gestão dos utilizadores só pode ser feita pelo proprietário do telefone</string>
   <string name="user_confirm_remove_message">O espaço e dados deste utilizador serão eliminados do telefone. Não pode reverter esta acção.</string>
-  <string name="user_confirm_remove_self_message">Perderá todo o espaço e dados neste telefone. Não pode reverter esta acção.</string>
-  <string name="user_confirm_remove_self_title">Eliminar o seu utilizador?</string>
+  <string name="user_confirm_remove_self_message">Perderá os dados e espaço neste telefone. Não é possível reverter esta acção.</string>
+  <string name="user_confirm_remove_self_title">Eliminar-se a si próprio?</string>
   <string name="user_confirm_remove_title">Remover utilizador?</string>
   <string name="user_delete_button">Eliminar</string>
   <string name="user_delete_user_description">Eliminar utilizador</string>
