@@ -4,7 +4,7 @@
     "more_settings_summary": "Transferir definições, modo de suspensão, controlo de fluxo, filtros de ficheiro, etc",
 	"service_and_settings": "Definições e serviços",
 	"subed": "Ligado",
-	"ticket_summary": "Comprar bilhetes para shows, concertos e outros eventos",
+	"ticket_summary": "Comprar bilhetes para espetáculos, concertos e outros eventos",
     "ticket_title": "Mostrar bilhetes",
 	"buy_other_flow": "Dados móveis",
     "buy_traffic": "China Unicom",
