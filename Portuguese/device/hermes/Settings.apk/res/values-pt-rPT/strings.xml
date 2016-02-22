@@ -2727,13 +2727,13 @@ Qualquer utilizador pode aceitar as permissões de uma aplicação actualizada e
   <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
   <string name="user_dict_settings_context_menu_edit_title">Editar</string>
   <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
-  <string name="user_dict_settings_empty_text">"Não tem nenhum dicionário
-Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
+  <string name="user_dict_settings_empty_text">"Não tem palavras no dicionário do utilizador.
+Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="user_dict_settings_more_languages">Mais idiomas…</string>
   <string name="user_dict_settings_summary"/>
-  <string name="user_dict_settings_title">Dicionário do utilizador</string>
+  <string name="user_dict_settings_title">Dicionário pessoal</string>
   <string name="user_image_choose_photo">Escolher foto da Galeria</string>
-  <string name="user_image_take_photo">Tirar fotografia</string>
+  <string name="user_image_take_photo">Tirar foto</string>
   <string name="user_info_settings_title">Info. do utilizador</string>
   <string name="user_list_title">Utilizadores e perfis</string>
   <string name="user_need_lock_message">Antes de criar um perfil restrito, é necessário definir um bloqueio de ecrã para proteger as suas aplicações e dados pessoais.</string>
