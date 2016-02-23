@@ -40,12 +40,11 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-        <item>XXL</item>
-        <item>XXXL</item>
+        <item>Normal</item>
+        <item>Média</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+        <item>Ultra</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Muito lenta</item>

@@ -512,14 +512,14 @@
   <string name="summary_flow_verify">Ainda não sincronizou as estatísticas de utilização de dados da operadora em %d dias</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicações antes da instalação</string>
-  <string name="summary_live_talk_purchase">Apenas 0,0071€ por minuto para chamadas nacionais.</string>
+  <string name="summary_live_talk_purchase">Poupe 70% nas suas tarifas de chamadas</string>
   <string name="summary_miui_update">Actualização disponível para %s.</string>
   <string name="summary_mms">Bloquear automaticamente spam nas SMS</string>
   <string name="summary_network_switch">Permitir à aplicação Segurança ligar à internet</string>
   <string name="summary_never_flow_verify">Este número não foi verificado com a sua operadora</string>
   <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
   <string name="summary_permission_root">O dispositivo e os dados pessoais são mais vulneráveis a ataques de aplicações que têm acesso root</string>
-  <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo</string>
+  <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo quando tiver pouca bateria</string>
   <string name="summary_saving_switch">Restringir aplicações de utilizar a sua ligação de dados móveis para transferir dados</string>
   <string name="summary_show_notification">Fixar controlos de Segurança na área de notificações</string>
   <string name="summary_telecom_operator">Obter as suas estatísticas de utilização de dados mensais da sua operadora</string>
@@ -527,6 +527,7 @@
   <string name="summary_virus">Remover vírus para manter o seu dispositivo seguro</string>
   <string name="summary_virus_cloudscan">Enviar nomes e detalhes das aplicações e dados e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
+  <string name="summary_xiaomi_roaming">0.01 euros por MB para tráfego internacional</string>
   <string name="system_check_content">%1$d riscos</string>
   <string name="system_check_content_none">Seguro</string>
   <string name="system_header_title">Limpar %1$d processos para libertar %2$s da memória</string>
@@ -548,7 +549,7 @@
   <string name="title_garbage_lib">Actualizações automáticas</string>
   <string name="title_install_virus_no">Monitor de instalação desligado</string>
   <string name="title_install_virus_yes">Monitor de instalação ligado</string>
-  <string name="title_live_talk_purchase">Recarregar agora</string>
+  <string name="title_live_talk_purchase">Activar pacotes de carregamento</string>
   <string name="title_miui_update">Actualização disponível</string>
   <string name="title_mms_no">Filtro de mensagens desactivado</string>
   <string name="title_mms_yes">Filtro de mensagens activado</string>
@@ -567,6 +568,7 @@
   <string name="title_virus_update_no">Actualização automática de definições de vírus desligado</string>
   <string name="title_virus_update_yes">Actualização automática de definições de vírus ligado</string>
   <string name="title_virus_yes">Não foram detectados vírus</string>
+  <string name="title_xiaomi_roaming">Roaming Mi</string>
   <string name="toast_cleaner_cloudscan">Limpeza irá utilizar definições online</string>
   <string name="toast_default_app">"%1$s definir como aplicação de sistema predefinida %2$s"</string>
   <string name="toast_flow_notification">Notificações de utilização de dados ligada</string>
