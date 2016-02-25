@@ -87,10 +87,10 @@
   <string name="conn_of_function_safe">Ligação de rede para segurança</string>
   <string name="connecting">A ligar…</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
-  <string name="deepclean_apk_summary_empty">Verificação concluída. Não foram encontrados APKs ou aplicações desnecessárias</string>
+  <string name="deepclean_apk_summary_empty">Verificação concluída. Não foram encontrados APKs</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>
-  <string name="deepclean_app_content">Desinstalar aplicações não usadas em 30 dias</string>
-  <string name="deepclean_app_summary_empty">Verificação concluída. Não foram encontradas aplicações com mais de 30 dias​ sem uso</string>
+  <string name="deepclean_app_content">Desinstalar aplicações não utilizadas em 30 dias</string>
+  <string name="deepclean_app_summary_empty">Verificação concluída. Não foram encontradas aplicações com mais de 30 dias sem utilização</string>
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
   <string name="deepclean_cache_summary_empty">Verificação concluída. Não foram encontrados dados gerados por aplicações desinstaladas</string>
@@ -104,7 +104,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
-  <string name="deepclean_similar_summary_empty">Verificação concluída. Não foram encontradas fotos​</string>
+  <string name="deepclean_similar_summary_empty">Verificação concluída. Não foram encontradas fotos</string>
   <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
   <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
