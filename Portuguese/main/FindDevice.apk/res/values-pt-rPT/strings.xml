@@ -14,10 +14,11 @@
   <string name="find_device">Localizar dispositivo</string>
   <string name="find_device_crash">Localizar dispositivo fechou inesperadamente</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
+  <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente.</string>
   <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente.</string>
-  <string name="find_device_error_server">Erro de servidor</string>
-  <string name="find_device_error_unknown">Erro desconhecido.</string>
+  <string name="find_device_error_server">Erro de servidor (%s)</string>
+  <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
   <string name="find_device_noise_title">Alarme de Localizar dispositivo</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
