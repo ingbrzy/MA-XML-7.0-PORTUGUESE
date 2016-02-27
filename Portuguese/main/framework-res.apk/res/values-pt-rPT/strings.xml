@@ -530,7 +530,7 @@ Tem a certeza de que deseja sair desta página?"</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que será reposta a predefinição de fábrica.</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu o padrão?</string>
   <string name="kg_invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
-  <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas irão desactivar o SIM permanentemente.</string>
+  <string name="kg_invalid_puk">Reintroduzir o código PUK correcto. Tentativas repetidas vão desactivar o SIM permanentemente.</string>
   <string name="kg_invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números.</string>
   <string name="kg_invalid_sim_puk_hint">Código PUK deve ter 8 números.</string>
   <string name="kg_login_account_recovery_hint">"Esqueceu o nome de utilizador ou a palavra-passe?
@@ -602,7 +602,7 @@ Para soltar, toque e segure o botão Recentes.</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
   <string name="lockscreen_charged">Carregado</string>
   <string name="lockscreen_emergency_call">Chamada de emergência</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador irão ser eliminados.</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telefone %d vezes de forma incorrecta. Após mais %d tentativa(s) sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador vão ser eliminados.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou o seu padrão de desbloqueio incorrectamente %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
 Tente novamente dentro de %d segundos."</string>
@@ -1396,7 +1396,7 @@ Tentativas restantes :"</string>
   <string name="reason_unknown">desconhecido</string>
   <string name="reboot_confirm">O dispositivo vai reiniciar.</string>
   <string name="reboot_progress">A reiniciar…</string>
-  <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto irá desactivar todas as aplicações de terceiros instaladas. Estas irão ser restauradas quando reiniciar novamente.</string>
+  <string name="reboot_safemode_confirm">Quer reiniciar no modo de segurança? Isto vai desactivar todas as aplicações de terceiros instaladas. Estas vão ser restauradas quando reiniciar novamente.</string>
   <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
   <string name="recent_tasks_title">Recente</string>
   <string name="relationTypeAssistant">Assistente</string>
@@ -1721,13 +1721,13 @@ Pretende fechar?"</string>
   <string name="wifi_p2p_enabled_notification_title">Wi-Fi Directo está ligado</string>
   <string name="wifi_p2p_enter_pin_message">Introduzir o PIN pedido:</string>
   <string name="wifi_p2p_failed_message">Não foi possível iniciar o Wi-Fi Directo.</string>
-  <string name="wifi_p2p_frequency_conflict_message">O telefone irá desligar temporariamente do Wi-Fi enquanto estiver ligado a %1$s</string>
+  <string name="wifi_p2p_frequency_conflict_message">O telefone vai desligar temporariamente do Wi-Fi enquanto estiver ligado a %1$s</string>
   <string name="wifi_p2p_from_message">De:</string>
   <string name="wifi_p2p_invitation_sent_title">Convite enviado</string>
   <string name="wifi_p2p_invitation_to_connect_title">Convite para ligar</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Para:</string>
-  <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Isto irá desligar o cliente/PA Móvel Wi-Fi.</string>
+  <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Isto vai desligar o cliente/PA Móvel Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Não foi possível ligar ao Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à internet fraca."</string>

@@ -512,10 +512,10 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_filter_nashvile">Indigo</string>
   <string name="in_call_show_filter_none">Normal</string>
   <string name="in_call_show_filter_process_error">Ocorreu um erro, por favor repita.</string>
-  <string name="in_call_show_filter_processing">A processar...</string>
+  <string name="in_call_show_filter_processing">A processar…</string>
   <string name="in_call_show_filter_vivid">Vívido</string>
   <string name="in_call_show_guide_intro">"Gravar um vídeo de perfil
-  que irá tocar nos outros utilizadores MIUI quando telefonar"</string>
+  que vai ser reproduzido nos dispositivos de outros utilizadores MIUI quando telefonar"</string>
   <string name="in_call_show_guide_start_recording">Gravar agora</string>
   <string name="in_call_show_guide_title">Vídeo de perfil</string>
   <string name="in_call_show_long_press_to_record">Prima e segure para gravar</string>
@@ -658,7 +658,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_finding_label">Localizar cartões de contacto</string>
   <string name="miprofile_name">Meu perfil</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Introduzir alcunha</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Alcunha irá ser mostrada no registo de chamadas e informação de perfil</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Alcunha vai ser mostrada no registo de chamadas e informação de perfil</string>
   <string name="miprofile_nick_name_edit_dialog_title">Editar alcunha</string>
   <string name="miprofile_notice_text">"Toque para ver a foto de perfil do contacto"</string>
   <string name="miprofile_request_agenda_date">Esta pessoa quer trocar cartões de contacto [%1$s]</string>
@@ -691,10 +691,10 @@ Motivo: \"%s\""</string>
   <string name="multi_number_menu_group">Novo grupo</string>
   <string name="multi_number_menu_message">Mensagem</string>
   <string name="multi_number_title">Chamada em conferência</string>
-  <string name="multipleContactDeleteConfirmation">Eliminar este contacto irá eliminar informações de várias contas.</string>
-  <string name="multipleContactDeleteConfirmationDetail">Eliminar \"%s\" eliminar informações de várias contas.</string>
+  <string name="multipleContactDeleteConfirmation">Eliminar este contacto vai eliminar informações de várias contas</string>
+  <string name="multipleContactDeleteConfirmationDetail">Eliminar \"%s\" eliminar informações de várias contas</string>
   <string name="my_in_call_show">Meu vídeo</string>
-  <string name="my_phone_not_provider_bluetooth">O meu telefone não tem bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">O meu telefone não tem Bluetooth</string>
   <string name="my_phone_provider_bluetooth">O meu telefone tem Bluetooth</string>
   <string name="nameLabelsGroup">Nome</string>
   <string name="name_family">Apelido</string>

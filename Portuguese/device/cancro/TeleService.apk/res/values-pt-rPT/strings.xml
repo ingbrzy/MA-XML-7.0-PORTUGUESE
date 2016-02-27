@@ -544,7 +544,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_activate_number_1">Verificar SIM 1</string>
   <string name="livetalk_activate_number_2">Verificar SIM 2</string>
   <string name="livetalk_activate_sim_card">Activar</string>
-  <string name="livetalk_activate_summary">Um SMS irá ser enviado para verificar este serviço.</string>
+  <string name="livetalk_activate_summary">Um SMS vai ser enviado para verificar este serviço.</string>
   <string name="livetalk_add_white_list_info">Adicionar número de telefone à marcação rápida.</string>
   <string name="livetalk_before_provision">Eu li e aceitei</string>
   <string name="livetalk_charge_now">Recargas</string>
@@ -552,7 +552,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="livetalk_complete">Concluído</string>
   <string name="livetalk_complete_domestic_phone">Fazer chamadas nacionais utilizando um pacote de recarga.</string>
   <string name="livetalk_complete_international_phone">Fazer chamadas internacionais utilizando um pacote de recarga.</string>
-  <string name="livetalk_complete_introduction">Pacote de recarga foi adicionado à sua conta Mi e irá ser utilizado na sua próxima chamada.</string>
+  <string name="livetalk_complete_introduction">Pacote de recarga foi adicionado à sua conta Mi e vai ser utilizado na sua próxima chamada.</string>
   <string name="livetalk_complete_name">Mudar para pacote de recarga</string>
   <string name="livetalk_complete_title">Ligar para concluir a recarga</string>
   <string name="livetalk_continue_button">Utilizar</string>
@@ -710,15 +710,15 @@ Será utilizada a rede preferida em vez."</string>
   <string name="no_voip">Chamadas pela internet não suportadas</string>
   <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi e Definições de rede).</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada.</string>
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada.</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
   <string name="not_support_message">Pacotes de recarga não suportam esse tipo de números neste momento. Pode tentar fazer uma chamada normal.</string>
   <string name="not_support_title">Número não suportado</string>
-  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_network_selection_text">Rede seleccionada (%s) indisponível</string>
@@ -835,7 +835,7 @@ Funções relacionadas com PIN2 serão bloqueadas depois de outra tentativa falh
   <string name="pin_changed">PIN do SIM foi alterado com sucesso.</string>
   <string name="pin_failed">O PIN que introduziu está incorrecto.</string>
   <string name="pin_lock_warning">"
-O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
+O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar PIN…</string>
   <string name="pin_progress_change_pin2">A alterar PIN2…</string>
   <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio FDN…</string>

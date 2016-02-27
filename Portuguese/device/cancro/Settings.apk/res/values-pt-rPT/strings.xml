@@ -115,7 +115,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
-  <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador irá ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
+  <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
 O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo."</string>
   <string name="additional_permissions">Permissões adicionais</string>
@@ -136,7 +136,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="airplane_mode">Modo de Avião</string>
   <string name="alarm_volume_option_title">Volume do alarme</string>
   <string name="alarm_volume_title">Alarme</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Mostrar protecção de ecrã irá consumir energia adicional da bateria</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Mostrar protecção de ecrã vai consumir energia adicional da bateria</string>
   <string name="alert_show_screensaver_when_not_charging_title">Utilização de bateria</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
@@ -277,7 +277,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="assist_access_screenshot_title">Utilizar captura de ecrã</string>
   <string name="assist_and_voice_input_title">Assistência e entrada de voz</string>
   <string name="assist_footer">Aplicações de assistência podem ajudá-lo com base na informação do ecrã que está a ver. Algumas aplicações suportam tanto o launcher como os serviços de entrada de voz para lhe dar uma assistência integrada.</string>
-  <string name="assistant_security_warning">O assistente irá poder ler informação acerca de aplicações em utilização no seu sistema, incluindo informação visível no seu ecrã ou acessível através das aplicações.</string>
+  <string name="assistant_security_warning">O assistente vai poder ler informação acerca de aplicações em utilização no seu sistema, incluindo informação visível no seu ecrã ou acessível através das aplicações.</string>
   <string name="assistant_security_warning_agree">Concordar</string>
   <string name="assistant_security_warning_disagree">Não concordar</string>
   <string name="assistant_security_warning_title">Fazer de %s o seu assistente?</string>
@@ -811,7 +811,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
 
 Para continuar a utilizar o telefone, é necessário efectuar uma reposição de fábrica. Quando configurar o telefone após a reposição, terá a oportunidade de restaurar quaisquer dados da cópia de segurança da sua Conta Google."</string>
   <string name="crypt_keeper_data_corrupt_title">Desencriptação sem sucesso</string>
-  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, assumindo que configurou um bloqueio de ecrã, irá ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro e único método de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
+  <string name="crypt_keeper_decrypt_methods">Após encriptar o seu telefone, assumindo que configurou um bloqueio de ecrã, vai ser necessário desbloquear o ecrã para desencriptar o telefone sempre que o ligar. O outro e único método de desencriptar é fazer uma reposição dos dados de fábrica, apagando todos os seus dados</string>
   <string name="crypt_keeper_decrypt_methods_title">Desencriptar o seu dispositivo</string>
   <string name="crypt_keeper_desc">"Pode encriptar as suas contas, definições, dados, aplicações transferidas, multimédia e outros ficheiros. Assim que encriptar o telefone, deverá introduzir um código PIN numérico ou uma palavra-passe para o desencriptar cada vez que o liga. Não pode desencriptar o telefone excepto ao executar um restauro de dados de fábrica, eliminando todos os seus dados.
 
@@ -1043,7 +1043,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="disable_overlays">Desactivar sobreposições HW</string>
   <string name="disable_overlays_summary">Usar sempre GPU para combinar ecrãs</string>
   <string name="disable_power_key_long_press_under_keyguard">Desligar menu do botão ligar/desligar</string>
-  <string name="disable_service_message">Tocar em OK irá parar %1$s.</string>
+  <string name="disable_service_message">Tocar em OK vai parar %1$s.</string>
   <string name="disable_service_title">Parar %1$s?</string>
   <string name="disable_text">Desactivar</string>
   <string name="disabled">Desactivada</string>
@@ -1095,7 +1095,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="dndm_repeated_call_summary_3min">Tocar quando receber uma chamada do mesmo número num espaço de três minutos</string>
   <string name="dndm_repeated_call_summary_none">Silenciar chamadas repetidas do mesmo número</string>
   <string name="dndm_special_call_setting_group">Excepções</string>
-  <string name="dndm_summary">Chamadas e notificações que chegarem enquanto Não incomodar estiver ligado irão ser silenciadas.</string>
+  <string name="dndm_summary">Chamadas e notificações que chegarem enquanto Não incomodar estiver ligado vão ser silenciadas.</string>
   <string name="dndm_vip_call_button_title">Permitir chamadas das excepções</string>
   <string name="dndm_vip_call_setting_detal">Aceitar sempre chamadas das excepções</string>
   <string name="dndm_vip_call_setting_title">Excepções</string>
@@ -1962,14 +1962,14 @@ Seleccione o seu sistema operativo:"</string>
   <string name="msd_install_status_done">Driver instalado.</string>
   <string name="msd_install_status_undo">Instalar driver</string>
   <string name="msd_install_succeed">Driver instalado</string>
-  <string name="msd_pc_system_install_finish_summary_vista">Para o Windows Vista e mais recentes, %1$s irá aparecer como dispositivo de armazenamento USB quando for ligado ao computador.</string>
+  <string name="msd_pc_system_install_finish_summary_vista">Para o Windows Vista e mais recentes, %1$s vai aparecer como dispositivo de armazenamento USB quando for ligado ao computador.</string>
   <string name="msd_pc_system_install_finish_summary_xp">"Depois de instalar este driver
 %1$s vai aparecer como dispositivo de armazenamento USB quando ligado a um computador"</string>
   <string name="msd_pc_system_install_summary_xp">1. Executar setup.exe para instalar</string>
   <string name="msg_wlan_signal_found">Ligar a %s?</string>
   <string name="mtp_ptp_mode_summary">A função MTP ou PTP está activa</string>
   <string name="multi_touch_points_category_title">Pontos multi-toque</string>
-  <string name="multi_touch_points_preference">Esta definição apenas irá ter efeito assim que reiniciar o seu dispositivo</string>
+  <string name="multi_touch_points_preference">Esta definição apenas vai ter efeito assim que reiniciar o seu dispositivo</string>
   <string name="music_audio_effect_optimize">Definições de áudio</string>
   <string name="music_audio_effect_optimize_summary">Auriculares e outras definições de áudio</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Hi-Fi, auriculares e outras definições áudio</string>
@@ -2120,7 +2120,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="oem_unlock_enable_summary">Permitir o desbloqueio do carregador de arranque</string>
   <string name="okay">OK</string>
   <string name="oldman_mode_confirm_title">Reiniciar agora?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo irá reiniciar para sair do modo Leve.</string>
+  <string name="oldman_mode_confirm_will_normal_mode_text">O seu dispositivo vai reiniciar para sair do modo Leve.</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">O dispositivo vai reiniciar para entrar no modo Leve.</string>
   <string name="oldman_mode_enabled_name">Modo Leve</string>
   <string name="oldman_mode_entry_name">Modo Leve</string>
@@ -2287,11 +2287,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="preferred_media_app_summary">Escolher leitor de música</string>
   <string name="preferred_network_offload_footer">Desactivar a transmissão do nome da rede protege do acesso por terceiros às suas informações de rede.</string>
   <string name="preferred_network_offload_header">Desactivar a transmissão do nome da rede</string>
-  <string name="preferred_network_offload_popup">Desactivar a transmissão do nome da rede irá evitar a ligação automática a redes ocultas.</string>
+  <string name="preferred_network_offload_popup">Desactivar a transmissão do nome da rede vai evitar a ligação automática a redes ocultas.</string>
   <string name="preferred_network_offload_title">Descarga de rede preferida</string>
   <string name="preferred_network_type_summary">LTE (recomendado)</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
-  <string name="preferred_sms_settings">Esta aplicação irá ser definida como a sua aplicação predefinida para ler e escrever mensagens.</string>
+  <string name="preferred_sms_settings">Esta aplicação vai ser definida como a sua aplicação predefinida para ler e escrever mensagens.</string>
   <string name="preferred_sms_title">Aplicação de mensagens predefinida</string>
   <string name="preferred_sms_warning_message">Utilizar \"%1$s\" como aplicação predefinida de mensagens pode aumentar a utilização de dados e comprometer a segurança dos seus dados.</string>
   <string name="preferred_sms_warning_use_system">Não utilizar</string>
@@ -2465,7 +2465,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="repeat_title">Repetir</string>
   <string name="reset_app_preferences">Redefinir preferências da aplicação</string>
   <string name="reset_app_preferences_button">Redefinir aplicações</string>
-  <string name="reset_app_preferences_desc">"Isto irá redefinir todas as preferências para:
+  <string name="reset_app_preferences_desc">"Isto vai redefinir todas as preferências para:
 
  "<li>Aplicações desactivadas</li>"
  "<li>Notificações de aplicação desactivadas</li>"
@@ -2473,7 +2473,7 @@ Seleccione o seu sistema operativo:"</string>
  "<li>Restrições de dados em segundo plano para aplicações</li>"
  "<li>Quaisquer restrições de permissão</li>"
 
-Não irá perder quaisquer dados das aplicações."</string>
+Não vai perder quaisquer dados das aplicações."</string>
   <string name="reset_app_preferences_title">Redefinir preferências da aplicação?</string>
   <string name="reset_legacy_password_settings_preface_text">Tem que redefinir a sua palavra-passe no ecrã de bloqueio.</string>
   <string name="reset_network_button_text">Redefinir definições</string>
@@ -2524,7 +2524,7 @@ Não irá perder quaisquer dados das aplicações."</string>
   <string name="roaming_warning">Quando permite roaming de dados, poderá acarretar custos significativos!</string>
   <string name="roaming_warning_multiuser">"Quando permite dados em roaming, poderá acarretar custos significativos de roaming!
 
-Estas definições irão afectar todos os  utilizadores deste telefone."</string>
+Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_frequency">Frequência</string>
   <string name="running_process_item_removed_user_label">Utilizador removido</string>
@@ -2544,7 +2544,7 @@ Estas definições irão afectar todos os  utilizadores deste telefone."</string
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidade não irão funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidade não vão funcionar correctamente até reiniciar o telefone.</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2849,7 +2849,7 @@ Possívelmente o código PIN está incorrecto."</string>
   <string name="sim_status_title">Estado do SIM</string>
   <string name="simulate_color_space">Simular espaço de cor</string>
   <string name="skip_label">Ignorar</string>
-  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas irão ser desligados no ecrã de bloqueio.</string>
+  <string name="skip_lock_screen_confirm_msg">Notificações, controlos do leitor de música, e deslizar para a direita para aceder à lista de chamadas vão ser desligados no ecrã de bloqueio.</string>
   <string name="skip_step">Ignorar</string>
   <string name="slot_status_title">Informação do IMEI</string>
   <string name="small_font">Pequena</string>
@@ -2930,7 +2930,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">Nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
-  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes irão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar detalhes do streaming</string>
   <string name="status_bar_settings_show_home_message">Ícone da aplicação</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
@@ -3510,7 +3510,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="virus_scanner_select_Cancel">Cancelar</string>
   <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Seleccionar definições de vírus</string>
-  <string name="virus_scanner_select_multi">Seleccionar mais do que um conjunto de definições irá diminuir a velocidade da instalação e verificação</string>
+  <string name="virus_scanner_select_multi">Seleccionar mais do que um conjunto de definições vai diminuir a velocidade da instalação e verificação</string>
   <string name="virus_scanner_select_single">Apenas utilizar definições de fontes seguras.</string>
   <string name="virus_scanner_select_trust_lib">Seleccionar definições de vírus</string>
   <string name="virus_scanner_title">Antivírus</string>
@@ -3773,8 +3773,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
   <string name="wifi_p2p_delete_group_message">Esquecer este grupo?</string>
   <string name="wifi_p2p_device_info">Informação do dispositivo</string>
-  <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s irá terminar.</string>
-  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s irá terminar.</string>
+  <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s vai terminar.</string>
+  <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s vai terminar.</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>

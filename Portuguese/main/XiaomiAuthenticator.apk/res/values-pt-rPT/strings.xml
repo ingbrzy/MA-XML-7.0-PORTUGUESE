@@ -56,7 +56,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="how_it_works_menu_item">Como funciona</string>
   <string name="howitworks_page_enter_code_details">Esta aplicação vai gerar o código necessário para proceder ao início de sessão.</string>
   <string name="howitworks_page_enter_code_title">Se estiver num novo computador, introduza o código no seu telefone</string>
-  <string name="howitworks_page_enter_password_details">Se estiver num novo computador ou dispositivo, a Xiaomi irá pedir um código especial para certificação de utilizador</string>
+  <string name="howitworks_page_enter_password_details">Se estiver num novo computador ou dispositivo, a Xiaomi vai pedir um código especial para certificação de utilizador</string>
   <string name="howitworks_page_enter_password_title">Para iniciar sessão tem de introduzir a sua palavra-passe.</string>
   <string name="howitworks_page_verify_device_details">Também pode optar por guardar a ligação a este computador e a Xiaomi não voltará a pedir um código quando a usar o mesmo computador.</string>
   <string name="howitworks_page_verify_device_title">Depois fica com a sessão iniciada.</string>
@@ -110,7 +110,7 @@ Inicie sessão em account.xiaomi.com e toque Reactivar."</string>
   <string name="progress_loading">A carregar…</string>
   <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai &lt;b&gt;remover a sua capacidade&lt;/b&gt; de gerar códigos, no entanto, &lt;b&gt;não&lt;/b&gt; vai desligar a verificação em 2 passos. Isto pode impedir o início de sessão na sua conta. &lt;p&gt;Antes de remover: &lt;ul&gt; &lt;li&gt;Desligar a verificação em 2 passos, ou&lt;/li&gt; &lt;li&gt;Certifique-se que tem um método alternativo para gerar códigos.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;</string>
   <string name="remove_account">Remover conta</string>
-  <string name="remove_account_dialog_message">"Remover esta conta irá remover a sua capacidade de gerar códigos. Isto pode impedir o início sessão na sua conta.
+  <string name="remove_account_dialog_message">"Remover esta conta vai remover a sua capacidade de gerar códigos. Isto pode impedir o início sessão na sua conta.
 
 Antes de remover:
 —Desligar a verificação em 2 passos para esta conta ou

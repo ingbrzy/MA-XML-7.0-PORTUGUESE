@@ -344,7 +344,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar Economizador de Dados irá afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está o Economizador de Dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
+  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar Economizador de Dados vai afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está o Economizador de Dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; O Economizador de Dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
   <string name="pref_traffic_saving_no_compress">Sem compressão</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar na área de notificações</string>
   <string name="pref_traffic_saving_notify_switch_hint">Mostrar estatística de utilização de dados na área de notificações</string>
@@ -393,7 +393,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="see_detail">Detalhes</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
   <string name="settings">Definições de utilização de dados</string>
-  <string name="show_traffic_dialog_message">A sua utilização de dados irá estar visível na área de notificações. Pode ligar ou desligar este recurso em Utilização de dados &gt; Definições</string>
+  <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar este recurso em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área.</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
@@ -526,7 +526,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_saving_tecsupport_international">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_title">Economizador de dados</string>
   <string name="traffic_saving_toast_start_mobile">Economizador de dados está ligado</string>
-  <string name="traffic_saving_toast_start_none_mobile">Economizador de dados irá ser activado sempre que utilizar dados móveis</string>
+  <string name="traffic_saving_toast_start_none_mobile">Economizador de dados vai ser activado sempre que utilizar dados móveis</string>
   <string name="traffic_saving_toast_start_unreachable">Não é possível iniciar o Economizador de Dados</string>
   <string name="traffic_saving_toast_stop">Economizador de dados está desligado</string>
   <string name="traffic_saving_whitelist_btn_add">Adicionar</string>

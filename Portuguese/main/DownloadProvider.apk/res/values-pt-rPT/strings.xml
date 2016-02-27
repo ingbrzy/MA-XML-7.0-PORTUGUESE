@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Gestor de transferências</string>
-  <string name="auto_restart_under_wifi">Rede sem fios irá transferir automaticamente este ficheiro</string>
+  <string name="auto_restart_under_wifi">Este ficheiro será transferido automaticamente por Wi-Fi</string>
   <string name="button_cancel_download">Cancelar</string>
   <string name="button_download_now">Transferir agora</string>
   <string name="button_queue_for_wifi">Em espera</string>

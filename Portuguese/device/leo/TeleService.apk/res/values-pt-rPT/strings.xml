@@ -599,7 +599,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="livetalk_complete">Concluído</string>
   <string name="livetalk_complete_domestic_phone">Fazer chamadas nacionais utilizando um pacote de carregamento.</string>
   <string name="livetalk_complete_international_phone">Fazer chamadas internacionais utilizando um pacote de carregamento.</string>
-  <string name="livetalk_complete_introduction">Pacote de carregamento foi adicionado à sua conta Mi e irá ser utilizado na sua próxima chamada.</string>
+  <string name="livetalk_complete_introduction">Pacote de carregamento foi adicionado à sua conta Mi e vai ser utilizado na sua próxima chamada.</string>
   <string name="livetalk_complete_name">Mudar para pacote de carregamento</string>
   <string name="livetalk_complete_title">Ligar para concluir o carregamento</string>
   <string name="livetalk_continue_button">Continuar</string>
@@ -781,13 +781,13 @@ Será utilizada a rede preferida."</string>
   <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi &amp; definições de rede).</string>
   <string name="no_wifi_available_title">Sem ligação à rede Wi-Fi</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
-  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
-  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_activate_sim_card_content_with_operator">"O pacote de recarga não foi verificado para o cartão SIM %1$s(%2$s). Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede.</string>
-  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada.</string>
+  <string name="not_sufficient_funds_content">Sem saldo suficiente na sua conta. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada.</string>
   <string name="not_sufficient_funds_content_title">Sem saldo</string>
-  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora irá cobrar por esta chamada."</string>
+  <string name="not_supported_number_content">"Pacote de recarga não suporta números de serviço. Tente utilizar o SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_supported_number_content_title">Não suportado</string>
   <string name="not_voice_capable">Chamada por voz não suportada</string>
   <string name="notification_action_end_call">Desligar</string>
@@ -909,7 +909,7 @@ Restam %d tentativas."</string>
   <string name="pin_changed">O PIN do SIM foi alterado com êxito.</string>
   <string name="pin_failed">O PIN que introduziu está incorrecto.</string>
   <string name="pin_lock_warning">"
-O telefone irá bloquear automaticamente após outra tentativa falhada"</string>
+O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pin_progress_change_pin">A alterar o PIN…</string>
   <string name="pin_progress_change_pin2">A alterar o PIN2…</string>
   <string name="pin_progress_set_fdn_lock">A definir o estado de bloqueio FDN…</string>
