@@ -324,6 +324,7 @@
   <string name="network_request_error">Não foi possível ligar à rede</string>
   <string name="network_settings_error">Não foi possível ligar à rede</string>
   <string name="network_traffic">Utilização de dados</string>
+  <string name="next_time">Próxima vez</string>
   <string name="no_album_info">Sem informação do álbum</string>
   <string name="no_artist_info">Sem informação do artista</string>
   <string name="no_enough_info">Não existe informação suficiente da música</string>
@@ -383,8 +384,9 @@
   <string name="renew">Renovar:</string>
   <string name="renew_1">Renovar</string>
   <string name="renew_period">"Expira: "</string>
-  <string name="repeat_all_notif">A repetir todas as músicas.</string>
-  <string name="repeat_current_notif">A repetir a música actual.</string>
+  <string name="repeat_all_notif">A repetir todas as músicas</string>
+  <string name="repeat_current_notif">A repetir a música actual</string>
+  <string name="restart_immediate">Reiniciar agora</string>
   <string name="retry">Repetir</string>
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
   <string name="search_album">Pesquisar albums</string>
@@ -448,6 +450,7 @@
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
   <string name="start_to_use">Abrir aplicação</string>
+  <string name="start_update">Actualizar para a versão mais recente da aplicação Música</string>
   <string name="stream_normal">Reproduzir na qualidade standard</string>
   <string name="stream_quality">Qualidade do streaming</string>
   <string name="streamloadingtext">Ligar a %s</string>
@@ -517,6 +520,8 @@
   <string name="upgrade_force">Estamos a descontinuar o nosso serviço de transmissão devido a questões de direitos de autor. Actualize para a versão mais recente da aplicação de música para ouvir música de alta qualidade.</string>
   <string name="upgrade_immediate">Actualizar agora</string>
   <string name="upgrade_membership">Obter mais espaço</string>
+  <string name="upgrade_music">Actualizar Música</string>
+  <string name="upgrade_music_message">O pacote está pronto. Reinicie para actualizar</string>
   <string name="upgrade_nobeta">Estamos a descontinur o nosso serviço de transmissão actual, enquanto não forem resolvidas questões de direitos de autor. Lamentamos pelo inconveniente :(</string>
   <string name="upgrade_remind">Actualização disponível</string>
   <string name="upgrade_services">Actualizações</string>

@@ -41,7 +41,7 @@
   <string name="audio_chat">Conversa de voz</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
-  <string name="back_view_description">Toque para voltar</string>
+  <string name="back_view_description">Voltar</string>
   <string name="batch_delete">Eliminar contactos</string>
   <string name="blacklist">Bloquear</string>
   <string name="bluetooth_connection_failed_toast">Ligação Bluetooth interrompida</string>
@@ -344,7 +344,7 @@
   <string name="dialer_empty_text_loading">Aguarde…</string>
   <string name="dialer_empty_text_no_call_log">Sem contactos recentes</string>
   <string name="dialer_empty_text_no_search_result">Não foram encontrados contactos</string>
-  <string name="dialer_menu_description">Toque para mostrar o menu de marcação</string>
+  <string name="dialer_menu_description">Mostrar o menu de marcação</string>
   <string name="dialer_returnToInCallScreen">Retorno da chamada em curso</string>
   <string name="dialer_useDtmfDialpad">Utilizar o tom de toque do teclado</string>
   <string name="dialog_import">Importar contactos</string>
@@ -684,6 +684,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Ligar</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualizar foto de perfil</string>
   <string name="missing_name">(Sem nome)</string>
+  <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="more_call_logs">Ver registo de chamadas detalhado em i.mi.com</string>
   <string name="move_and_resize">Mover e dimensionar</string>
   <string name="multi_number_menu_call">Ligar</string>
@@ -853,8 +854,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="postal_region">Estado</string>
   <string name="postal_street">Rua</string>
   <string name="pref_key_photo">Foto</string>
-  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos que não têm imagem</string>
-  <string name="pref_key_photo_word_title">Atribuir imagem ao contacto</string>
+  <string name="pref_key_photo_word_summary">Atribuir automaticamente uma imagem para os contactos que não têm foto</string>
+  <string name="pref_key_photo_word_title">Atribuir fotos aos contactos</string>
   <string name="pref_key_rebuild_t9_index_message">Reconstruir o índice para resolver problemas de pesquisa</string>
   <string name="pref_key_rebuild_t9_index_title">Reconstruir dados do índice</string>
   <string name="pref_key_sim_manage">Cartões SIM</string>
@@ -1134,14 +1135,14 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_status_configure_voicemail">Configurar Voice Mail</string>
   <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor do Voice Mail. Novas mensagens de voz em espera</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail</string>
-  <string name="voip_audio_description">Toque para fazer uma chamada VoIP</string>
+  <string name="voip_audio_description">Chamada VoIP</string>
   <string name="voip_contact_label">Voz Mi</string>
   <string name="voip_contacts_entry">Voz Mi</string>
   <string name="voip_loading_contact">Aguarde…</string>
   <string name="voip_name">Voz Mi</string>
   <string name="voip_recommend_msg">Toque para utilizar Voz Mi</string>
   <string name="voip_shortcut_name">Voz Mi</string>
-  <string name="voip_video_description">Toque para fazer uma videochamada VoIP</string>
+  <string name="voip_video_description">Videochamada VoIP</string>
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Limpar dados</string>
