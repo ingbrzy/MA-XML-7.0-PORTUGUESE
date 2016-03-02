@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
+  <string name="access_sd_fail">Não foi possível aceder ao armazenamento USB</string>
   <string name="accessibility_audio_shutter_bg">Som do disparo</string>
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_countdown">Botão contagem decrescente</string>
@@ -305,7 +305,7 @@
   <string name="simple_mode_button_text_ubifocus">Desligar Refocar</string>
   <string name="snapshot_lower_than_video">A resolução da imagem em disparo contínuo durante a gravação é inferior à resolução do vídeo. Seleccione uma resolução maior ou igual ao tamanho do vídeo actual</string>
   <string name="snapshotsize_low_powermode">A alteração da resolução de imagem não é suportada pelas definições actuais da gestão de energia. Seleccione o modo de energia normal para permitir a mudança do tamanho da imagem</string>
-  <string name="spaceIsLow_content">Cartão SD está a ficar sem espaço</string>
+  <string name="spaceIsLow_content">Armazenamento USB está a ficar sem espaço</string>
   <string name="start_capture">OK</string>
   <string name="tap_to_exposure">Toque para ajustar exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
