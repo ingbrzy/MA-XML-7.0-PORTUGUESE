@@ -52,12 +52,12 @@
         <item quantity="one"><b>%1$d</b> ignorada</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"<b>%1$d</b> mensagens removidas da pasta 'importante'"</item>
-        <item quantity="one">"<b>%1$d</b> removida da pasta 'importante'"</item>
+        <item quantity="other">"<b>%1$d</b> mensagens removidas da pasta importante"</item>
+        <item quantity="one">"<b>%1$d</b> removida da pasta importante"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"<b>%1$d</b> removidas da pasta 'spam'"</item>
-        <item quantity="one">"<b>%1$d</b> removida da pasta 'spam'"</item>
+        <item quantity="other">"<b>%1$d</b> removidas da pasta spam"</item>
+        <item quantity="one">"<b>%1$d</b> removida da pasta spam"</item>
     </plurals>
     <plurals name="conversation_phished">
         <item quantity="other"><b>%1$d</b> mensagens reportadas como spam</item>
