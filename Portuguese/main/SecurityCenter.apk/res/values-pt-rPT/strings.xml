@@ -287,6 +287,12 @@
   <string name="permission_send_sms_descx">Aplicações podem enviar mensagens SMS e MMS</string>
   <string name="permission_with_SMS_and_MMS">Permissões relacionadas com SMS e MMS</string>
   <string name="permission_with_call_and_contact">Permissões relacionadas com chamadas telefónicas, informação de contactos e registo de chamadas</string>
+  <string name="pm_auto_start_basic_services_lock">Bloquear</string>
+  <string name="pm_auto_start_basic_services_unlock">Desbloquear</string>
+  <string name="pm_auto_start_by_basic_services">Serviços básicos</string>
+  <string name="pm_auto_start_by_other_services">Tente desligar estes serviços</string>
+  <string name="pm_auto_start_by_system">Iniciar aplicações</string>
+  <string name="pm_auto_start_proc_is_running">Em execução</string>
   <string name="pm_root_success_notification_title">Acesso root activado</string>
   <string name="power_20s_enter_mode">A alterar para %2$s em %1$ds</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em 20 segundos</string>

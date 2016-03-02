@@ -121,12 +121,12 @@
         <item quantity="many">%1$d dias atrás</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Encontrados %1$d novos ficheiros</item>
-        <item quantity="zero">Encontrados %1$d novos ficheiros</item>
-        <item quantity="one">Encontrado %1$d novo ficheiro</item>
-        <item quantity="two">Encontrados %1$d novos ficheiros</item>
-        <item quantity="few">Encontrados %1$d novos ficheiros</item>
-        <item quantity="many">Encontrados %1$d novos ficheiros</item>
+        <item quantity="other">Encontrados %1$d ficheiros novos</item>
+        <item quantity="zero">Encontrados %1$d ficheiros novos</item>
+        <item quantity="one">Encontrado %1$d ficheiro novo</item>
+        <item quantity="two">Encontrados %1$d ficheiros novos</item>
+        <item quantity="few">Encontrados %1$d ficheiros novos</item>
+        <item quantity="many">Encontrados %1$d ficheiros novos</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Recebeu %1$d ficheiros da Aplicação %2$s</item>

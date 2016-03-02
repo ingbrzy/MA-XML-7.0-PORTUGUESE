@@ -291,6 +291,12 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_brightness_title">Brilho adaptável</string>
   <string name="auto_caps">Capitalização automática</string>
   <string name="auto_caps_summary">Capitalizar primeira letra nas frases</string>
+  <string name="auto_disable_screenbuttons_ask">Perguntar para desactivar</string>
+  <string name="auto_disable_screenbuttons_auto">Desactivar sempre</string>
+  <string name="auto_disable_screenbuttons_cancel">Cancelar</string>
+  <string name="auto_disable_screenbuttons_no">Nunca desactivar</string>
+  <string name="auto_disable_screenbuttons_summary">Desactivar botões de navegação automaticamente ao utilizar as aplicações seleccionadas. Duplo toque em qualquer botão de navegação para reactivar</string>
+  <string name="auto_disable_screenbuttons_title">Desactivar botões de navegação automaticamente</string>
   <string name="auto_launch_disable_text">Sem predefinições definidas</string>
   <string name="auto_launch_enable_text">Optou por iniciar esta aplicação por predefinição para algumas acções.</string>
   <string name="auto_launch_label">Iniciar por predefinição</string>

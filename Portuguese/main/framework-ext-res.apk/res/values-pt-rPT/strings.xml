@@ -6,6 +6,13 @@
   <string name="apply_password_action">Definir palavra-passe</string>
   <string name="apply_password_confirm_dlg_msg">Exigir palavra-passe para %s​?</string>
   <string name="apply_password_confirm_dlg_title">Esta palavra-passe vai ser utilizada para %s</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Botões de ecrã desactivados. Duplo clique em qualquer botão para sair</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Botões de ecrã activados</string>
+  <string name="auto_disable_screenbuttons_float_text">Toque para desactivar os botões de ecrã</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Duplo clique em qualquer botão para sair deste modo e executar a acção deste botão</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Não mostrar novamente</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Desactivar botões de ecrã automaticamente</string>
   <string name="auto_start_warning_allow">Permitir</string>
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>

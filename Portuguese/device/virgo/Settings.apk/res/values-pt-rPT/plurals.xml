@@ -93,4 +93,12 @@
         <item quantity="other">Está a %1$d passos de enviar relatório de erros</item>
         <item quantity="one">Está a %1$d passo de enviar relatório de erros</item>
     </plurals>
+	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Desactivar sempre para %d aplicações</item>
+        <item quantity="one">Desactivar sempre para 1 aplicação</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nunca desactivar para %d aplicações</item>
+        <item quantity="one">Nunca desactivar para 1 aplicação</item>
+    </plurals>
 </resources>

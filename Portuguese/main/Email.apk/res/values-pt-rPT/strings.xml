@@ -3,12 +3,6 @@
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="SMTP_password_text">Palavra-passe</string>
   <string name="SMTP_username_text">Nome de utilizador</string>
-  <string name="abc_action_mode_done">Concluído</string>
-  <string name="abc_searchview_description_clear">Limpar pesquisa</string>
-  <string name="abc_searchview_description_query">Pesquisa</string>
-  <string name="abc_searchview_description_search">Pesquisar</string>
-  <string name="abc_searchview_description_submit">Submeter</string>
-  <string name="abc_searchview_description_voice">Pesquisa por voz</string>
   <string name="account_duplicate_dlg_message_fmt">Já está a utilizar este nome do utilizador para a conta \"%s\".</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_name_toast">Já existe uma conta com este nome</string>
@@ -151,7 +145,7 @@
   <string name="add_pre_message_attachments">Adicionar os anexos de pré-mensagem?</string>
   <string name="add_pre_message_attachments_no">Não adicionar</string>
   <string name="add_pre_message_attachments_yes">Adicionar</string>
-  <string name="add_star">Estrela</string>
+  <string name="add_star">Favoritos</string>
   <string name="allread">Lêr todos</string>
   <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
   <string name="always_show_images">Mostrar sempre imagens deste remetente</string>
@@ -226,6 +220,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
+  <string name="click_to_reload">Clique no ecrã para carregar</string>
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
@@ -442,6 +437,18 @@
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
+  <string name="info_actionbar_normal_detail">Detalhes do artigo</string>
+  <string name="info_actionbar_subscribe">Subscrever linha</string>
+  <string name="info_item_from">De</string>
+  <string name="info_item_hide">Ocultar</string>
+  <string name="info_loading">A carregar</string>
+  <string name="info_name_title">Notícias</string>
+  <string name="info_no_message">Sem artigos</string>
+  <string name="info_no_more_message">Não há mais itens para mostrar</string>
+  <string name="info_switch_summary">Ver notícias em destaque</string>
+  <string name="info_switch_title">Notícias da caixa de entrada</string>
+  <string name="info_sync_error">Erro de sincronização. Tente novamente mais tarde</string>
+  <string name="information_subscribe_first_intro">Parece que está a utilizar o feed de Notícias pela primeira vez. Fale nos sobre os seus interesses para que possamos personalizar as suas notícias</string>
   <string name="inline_picture_deleted">A transferir imagem perdida…</string>
   <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
   <string name="invalid_recipient">O endereço %s é inválido.</string>
@@ -469,7 +476,7 @@
   <string name="mailbox_name_display_junk">Spam</string>
   <string name="mailbox_name_display_outbox">Caixa de saída</string>
   <string name="mailbox_name_display_sent">Correio enviado</string>
-  <string name="mailbox_name_display_starred">Com estrela</string>
+  <string name="mailbox_name_display_starred">Nos Favoritos</string>
   <string name="mailbox_name_display_trash">Lixo</string>
   <string name="mailbox_name_display_unread">Não lidos</string>
   <string name="mailbox_settings_activity_title">Opções de sincronização</string>
@@ -511,6 +518,7 @@
   <string name="menu_att_mgr_order_size">Ordenar por tamanho</string>
   <string name="menu_change_folders">Mover</string>
   <string name="menu_compose">Escrever</string>
+  <string name="menu_discovery">Descobrir</string>
   <string name="menu_folder_options">Opções de sincronização</string>
   <string name="menu_move_to">Mover para</string>
   <string name="menu_move_to_inbox">Mover para a Caixa de entrada</string>
@@ -544,16 +552,19 @@
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>
+  <string name="net_check_title">Não foi possível ligar à rede</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
-  <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar.</string>
+  <string name="network_try_again">Verifique a ligação de rede</string>
+  <string name="network_unavailable">Rede não disponível</string>
+  <string name="new_incoming_messages_one">Nova mensagem de %s. Mostrar</string>
   <string name="new_messages">%1$d novas mensagens</string>
   <string name="next_action">Seguinte</string>
   <string name="no">Não</string>
   <string name="no_address_email">noaddressemail@123.com</string>
-  <string name="no_application_found">Não foi encontrada nenhuma aplicação para abrir este anexo.</string>
-  <string name="no_application_found_title">Abrir este anexo.</string>
-  <string name="no_contacts">Sem contactos.</string>
+  <string name="no_application_found">Não foi encontrada nenhuma aplicação para abrir este anexo</string>
+  <string name="no_application_found_title">Abrir este anexo</string>
+  <string name="no_contacts">Sem contactos</string>
   <string name="no_content_in_body">[Sem conteúdo]</string>
   <string name="no_conversations">Sem mensagens</string>
   <string name="no_mails">Sem emails</string>
@@ -663,6 +674,7 @@
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="pull_to_refresh">Descer para actualizar</string>
+  <string name="pull_up_to_load_more">Carregar mais</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
   <string name="push_wps_better_confirm_message">Tente usar o WPS Office para abrir este anexo.</string>
@@ -727,7 +739,7 @@
   <string name="remote_search_result">%s resultados no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
-  <string name="remove_star">Remover estrela</string>
+  <string name="remove_star">Remover dos Favoritos</string>
   <string name="reply">Responder</string>
   <string name="reply_add_bodycontent">Adicionar texto de resposta rápida ao conteúdo da mensagem?</string>
   <string name="reply_all">Responder a todos</string>
@@ -760,6 +772,7 @@
   <string name="security_unsupported_ticker_fmt">Conta \"%s\" não pode ser sincronizada devido a requisitos de segurança.</string>
   <string name="select_attachment_type">Seleccionar anexo de</string>
   <string name="select_no_file">Sem anexos seleccionados</string>
+  <string name="selected_lable">Seleccionados</string>
   <string name="send">Enviar</string>
   <string name="send_failed">A mensagem não foi enviada.</string>
   <string name="sender_whitelist_cleared">As imagens não serão mostradas automaticamente.</string>
@@ -833,6 +846,7 @@
   <string name="turn_auto_sync_on_dialog_title">Activar sincronização automática?</string>
   <string name="undo">Anular</string>
   <string name="unread_string">conversa não lida</string>
+  <string name="unselected_lable">Mais</string>
   <string name="unsent_messages_in_outbox">%1$s não enviadas em %2$s</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -859,6 +873,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
+  <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Enviar registo usando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>
