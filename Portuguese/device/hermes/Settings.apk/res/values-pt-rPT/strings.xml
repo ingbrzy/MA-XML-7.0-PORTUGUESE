@@ -17,7 +17,7 @@
   <string name="access_control_no_back_footer">Toque [icon] para sair</string>
   <string name="access_control_password_title">Bloqueio de ecrã</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
-  <string name="access_control_reset_by_account">Iniciar a sessão na sua conta Mi para redefinir palavra-passe</string>
+  <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
   <string name="accessibility_captioning_title">Legendas</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
@@ -856,12 +856,12 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="device_status">Estado</string>
   <string name="device_status_activity_title">Estado</string>
   <string name="device_status_summary">Número de telefone, sinal, etc</string>
-  <string name="dialog_content_login">Iniciar sessão na sua conta Mi para actualizar?</string>
+  <string name="dialog_content_login">Iniciar sessão na sua Conta Mi para actualizar?</string>
   <string name="dialog_no">Não</string>
   <string name="dialog_title_color_calibration">Correcção de cores predefinido</string>
   <string name="dialog_title_font_size">Tamanho do tipo de letra</string>
   <string name="dialog_title_hdmi_color_calibration">Correcção de cores predefinido</string>
-  <string name="dialog_title_login">Iniciar sessão na sua conta Mi</string>
+  <string name="dialog_title_login">Iniciar sessão na sua Conta Mi</string>
   <string name="dialog_yes">Sim</string>
   <string name="dirac_control">Optimizar qualidade de áudio</string>
   <string name="dirac_mode_earbuds">Auriculares Mi</string>
@@ -1029,7 +1029,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="erase_internal_storage_description">Eliminar músicas, fotos, vídeos e outros dados do utilizador</string>
   <string name="erase_optional">Conteúdo</string>
   <string name="erase_personal_data">Dados pessoais</string>
-  <string name="erase_personal_data_description">Eliminar a sua conta Mi, dados de aplicações e definições de sistema</string>
+  <string name="erase_personal_data_description">Eliminar a sua Conta Mi, dados de aplicações e definições de sistema</string>
   <string name="erase_sure">Dados pessoais</string>
   <string name="error_apn_empty">O APN não pode estar vazio.</string>
   <string name="error_mcc_not3">Campo MCC deve ter 3 dígitos.</string>
@@ -1138,8 +1138,8 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="global_locale_change_title">Alterar idioma</string>
   <string name="google_backup_section_title">Cópia do Google e restauro</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
-  <string name="handy_mode">Modo de uma mão</string>
-  <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de uma mão</string>
+  <string name="handy_mode">Modo de Uma Mão</string>
+  <string name="handy_mode_enter_ask">Perguntar antes de entrar no modo de Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
   <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início, para arrastar a imagem para um dos lados.</string>
   <string name="haptic_feedback_enable_title">Vibrar ao tocar</string>
@@ -2520,7 +2520,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="title_local_resource">Recursos locais</string>
   <string name="title_system_resource">Recursos do sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
-  <string name="toast_need_login">Iniciar sessão na sua conta Mi</string>
+  <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>
   <string name="touch_sensitive_summary">Faz com que a sensibilidade do ecrã seja maior para poder responder quando utiliza luvas</string>

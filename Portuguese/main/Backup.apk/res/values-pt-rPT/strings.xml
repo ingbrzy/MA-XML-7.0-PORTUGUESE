@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">A cópia não terminou. Deseja parar na mesma?</string>
-  <string name="account_contact_backup_info">Conta Google, conta Mi e dados de contactos</string>
+  <string name="account_contact_backup_info">Conta Google, Conta Mi e dados de contactos</string>
   <string name="account_login">Iniciar a sessão</string>
-  <string name="account_summary">Cópia da conta Gmail, conta Mi e outros dados do utilizador</string>
+  <string name="account_summary">Cópia da conta Gmail, Conta Mi e outros dados do utilizador</string>
   <string name="already_enable_encrypt">Encriptação activada</string>
   <string name="app_name">Cópias</string>
   <string name="apps_and_data_item_desc">Aplicações e dados</string>
@@ -58,7 +58,7 @@
   <string name="click_to_view">Toque para ver</string>
   <string name="cloud_app_name">Cópia na Nuvem Mi</string>
   <string name="cloud_backup_hint">Para aceder às suas cópias, inicie agora sessão</string>
-  <string name="cloud_backup_login">Iniciar sessão na sua conta Mi</string>
+  <string name="cloud_backup_login">Iniciar sessão na sua Conta Mi</string>
   <string name="cloud_backup_window_title">Cópia na Nuvem Mi</string>
   <string name="cloud_home_title">Cópia de segurança online</string>
   <string name="cloud_item_info_summary">" (Local : %1$s  | Nuvem : %2$s)"</string>
@@ -89,8 +89,8 @@
   <string name="enable_encrypt_fail">Erro na encriptação</string>
   <string name="enable_encrypt_indicator">Toque para encriptar</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">Inicie sessão na sua conta Mi para aceder a cópias encriptadas</string>
-  <string name="enable_encrypt_summery2">As suas cópias de segurança serão encriptadas automaticamente. Para aceder tem que iniciar sessão na sua conta Mi</string>
+  <string name="enable_encrypt_summery1">Inicie sessão na sua Conta Mi para aceder a cópias encriptadas</string>
+  <string name="enable_encrypt_summery2">As suas cópias de segurança serão encriptadas automaticamente. Para aceder tem que iniciar sessão na sua Conta Mi</string>
   <string name="enable_encrypt_title">Activar encriptação</string>
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar</string>
   <string name="err_authentication_failed">A autenticação falhou</string>
@@ -117,7 +117,7 @@
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação Mi Talk e inicie a sessão.
 \u0009http://www.miliao.com
 
-2.\u0009Ir para definições MiTalk e seleccione ”Faça cópia dos seus contactos na conta Mi”"</string>
+2.\u0009Ir para definições MiTalk e seleccione ”Faça cópia dos seus contactos na Conta Mi”"</string>
   <string name="import_from_xiaomi_account_hint2">Se já fez a sua cópia, toque Seguinte.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para copiar os seus contactos entre dispositivos.</string>
   <string name="local_app_name">Cópias</string>
@@ -133,7 +133,7 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
   <string name="local_select_video">Vídeos</string>
-  <string name="miliao_account_guide">Utilize a sua conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
+  <string name="miliao_account_guide">Utilize a sua Conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
   <string name="miliao_account_login">Início de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
@@ -179,7 +179,7 @@
   <string name="sc_internal_server_error">Erro interno do servidor.</string>
   <string name="sc_network_unavailable">Verifique a sua ligação à rede e tente novamente</string>
   <string name="sc_others">Ocorreu um erro</string>
-  <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua conta Mi</string>
+  <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Mi</string>
   <string name="sc_request_timeout">O tempo solicitado terminou</string>
   <string name="sc_service_unavailable">Nuvem Mi indisponível</string>
   <string name="sc_unaccess_password_file">Não é possível localizar a palavra-passe de rede</string>
@@ -205,9 +205,9 @@
   <string name="state_mounting">A aceder ao armazenamento do router…</string>
   <string name="state_waiting">Aguarde…</string>
   <string name="succeed">Concluído</string>
-  <string name="summary_err_backup_encrypting">Iniciar sessão na sua conta Mi</string>
+  <string name="summary_err_backup_encrypting">Iniciar sessão na sua Conta Mi</string>
   <string name="summary_err_backup_no_network">Não é possível ligar à rede</string>
-  <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta Cópia foi feita utilizando a sua conta Mi</string>
+  <string name="summary_err_restore_encrypting">Não é possível restaurar. Certifique-se que esta Cópia foi feita utilizando a sua Conta Mi</string>
   <string name="summary_err_restore_no_network">Não é possível ligar à rede</string>
   <string name="system_backup">Cópia de Segurança</string>
   <string name="system_backup_info">Definições do sistema e disposição do ecrã inicial</string>
