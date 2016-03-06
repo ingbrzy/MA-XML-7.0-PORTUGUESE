@@ -2,8 +2,8 @@
 <resources>
   <string name="add_alarm">Adicionar alarme</string>
   <string name="alarm_alert">Toque predefinido</string>
-  <string name="alarm_alert_alert_silenced">O alarme desliga em %d minutos.</string>
-  <string name="alarm_alert_snooze_set">Suspender por %d minutos.</string>
+  <string name="alarm_alert_alert_silenced">O alarme desliga em %d minutos</string>
+  <string name="alarm_alert_snooze_set">Suspender por %d minutos</string>
   <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
   <string name="alarm_ascending_mode_title">Volume ascendente</string>
   <string name="alarm_disabled">Desligado</string>
@@ -12,9 +12,9 @@
   <string name="alarm_label_hint">Nome do alarme</string>
   <string name="alarm_list_title">Alarme</string>
   <string name="alarm_notify_snooze_label">Suspender %s</string>
-  <string name="alarm_notify_text">Suspender ou desligar o alarme</string>
+  <string name="alarm_notify_text">Suspender ou desligar alarme</string>
   <string name="alarm_repeat">Repetir</string>
-  <string name="alarm_screen">Alarme no ecrã e com toque</string>
+  <string name="alarm_screen">Ecrã e toque do alarme</string>
   <string name="alarm_settings">Definições do alarme</string>
   <string name="alarm_vibrate">Vibrar</string>
   <string name="alarm_volume_summary">Definir volume do alarme</string>
@@ -49,7 +49,7 @@
   <string name="delete_timezone_title">Eliminar fuso horário</string>
   <string name="dialog_confirm_abort">Rejeitar alterações?</string>
   <string name="done">Concluído</string>
-  <string name="edit_systemtime">Editar hora do sistema</string>
+  <string name="edit_systemtime">Editar hora de sistema</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Todos os dias</string>
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
@@ -58,7 +58,7 @@
   <string name="hours">%s horas</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
-  <string name="label_pref_summary">Definiir nome do alarme</string>
+  <string name="label_pref_summary">Definir nome deste alarme</string>
   <string name="lap">Volta</string>
   <string name="lap_num">Volta</string>
   <string name="legal_workday">Dias úteis</string>
@@ -85,6 +85,7 @@
   <string name="shutdown_alarm_enable_summary">Alarme com telefone desligado está ligado</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
   <string name="silent_alarm_summary">Silêncio</string>
+  <string name="skip_alarm_once_hint">Desligar uma vez em %s</string>
   <string name="slider_text">Deslizar para cima para desligar</string>
   <string name="snooze_confirm_cancel">Cancelar suspensão</string>
   <string name="snooze_duration_title">Duração da suspensão</string>
@@ -105,10 +106,14 @@
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Seg</string>
   <string name="timer_new_item">Adicionar temporizador</string>
-  <string name="timer_notify_text">Suspender ou desactivar o temporizador</string>
-  <string name="timer_start_alarm">Terminou o tempo</string>
+  <string name="timer_notify_text">Suspender ou desactivar temporizador</string>
+  <string name="timer_start_alarm">Acabou o tempo!</string>
   <string name="timer_title">Temporizador</string>
   <string name="timezone_exist_error_message">Já está a mostrar este fuso horário</string>
+  <string name="today">Hoje</string>
+  <string name="tomorrow">Amanhã</string>
+  <string name="turn_off_a_repeat_alarm">Desligar um alarme repetitivo</string>
+  <string name="turn_off_this_repeat_alarm">Desligar este alarme repetitivo</string>
   <string name="vibrate_pref_summary">Vibrar quando o alarme toca</string>
   <string name="vibrate_when_ringing">Vibrar quando tocar</string>
   <string name="volume_button_setting_summary">Definir a função dos botões de volume durante o alarme</string>
