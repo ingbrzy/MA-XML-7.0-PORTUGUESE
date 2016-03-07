@@ -525,7 +525,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="international_disable">Notícias internacionais desactivo</string>
   <string name="international_enable">Notícias internacionais activo</string>
   <string name="international_roaming_setting">Dados em roaming</string>
-  <string name="internet_phone">Chamada pela internet</string>
+  <string name="internet_phone">Chamada pela Internet</string>
   <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPuk2">Introduzir um PUK2 que tenha 8 números.</string>
@@ -586,7 +586,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Os códigos curtos de números é um serviço que não é suportado neste momento. É necessário ligação à internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Utilize uma aplicação gratuita para utilizar este serviço ou a sua operadora pode cobrar taxas adicionais por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Os códigos curtos de números é um serviço que não é suportado neste momento. É necessário ligação à Internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Utilize uma aplicação gratuita para utilizar este serviço ou a sua operadora pode cobrar taxas adicionais por roaming.)"</string>
   <string name="livetalk_activate">Activar pacotes de carregamento</string>
   <string name="livetalk_activate_number">Verificar cartão SIM</string>
   <string name="livetalk_activate_number_1">Verificar SIM 1</string>
@@ -622,7 +622,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="livetalk_provider">Fornecido por %1$s</string>
   <string name="livetalk_provision">Termos do Serviço</string>
   <string name="livetalk_provision_checkbox">Aceitar Termos do Serviço</string>
-  <string name="livetalk_provision_second">e é necessário ligar à internet para funcionar normalmente.</string>
+  <string name="livetalk_provision_second">e é necessário ligar à Internet para funcionar normalmente.</string>
   <string name="livetalk_service_and_short_number_not_support">Números curtos e de serviço não são suportados.</string>
   <string name="livetalk_setting">Definições dos Carregamentos</string>
   <string name="livetalk_sim_card_not_activated">"Este cartão não está activo"</string>
@@ -767,18 +767,18 @@ Será utilizada a rede preferida."</string>
   <string name="new_sim_detected">Novo cartão SIM detectado:</string>
   <string name="no_change">Não foram feitas alterações.</string>
   <string name="no_data">Sem dados</string>
-  <string name="no_internet_available">Para fazer uma chamada pela internet tem de ter uma ligação à internet.</string>
-  <string name="no_internet_available_title">Sem ligação à internet</string>
+  <string name="no_internet_available">Para fazer uma chamada pela Internet tem de ter uma ligação à Internet.</string>
+  <string name="no_internet_available_title">Sem ligação à Internet</string>
   <string name="no_more">Não</string>
   <string name="no_product_list">Vazio</string>
-  <string name="no_sip_account_found">Não há contas de chamadas pela internet neste telefone. Quer adicionar uma conta agora?</string>
-  <string name="no_sip_account_found_title">Sem conta de chamada pela internet</string>
+  <string name="no_sip_account_found">Não há contas de chamadas pela Internet neste telefone. Quer adicionar uma conta agora?</string>
+  <string name="no_sip_account_found_title">Sem conta de chamada pela Internet</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
-  <string name="no_voip">Chamadas pela internet não suportadas</string>
+  <string name="no_voip">Chamadas pela Internet não suportadas</string>
   <string name="no_volte">Não é possível fazer chamadas IMS</string>
   <string name="no_vt_allowed">Para efectuar uma videochamada desligue o modo TTY</string>
-  <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi &amp; definições de rede).</string>
+  <string name="no_wifi_available">É necessário ligação a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi &amp; definições de rede).</string>
   <string name="no_wifi_available_title">Sem ligação à rede Wi-Fi</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
   <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
@@ -894,7 +894,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para obter mais inf
   <string name="phone_number_hint_text">Número de telefone</string>
   <string name="phone_numbers">Inserir números de telefone</string>
   <string name="pick_outgoing_call_phone_type">Fazer chamada</string>
-  <string name="pick_outgoing_sip_phone">"Utilizar a conta de chamadas pela internet "</string>
+  <string name="pick_outgoing_sip_phone">"Utilizar a conta de chamadas pela Internet "</string>
   <string name="pin2_attempts">"
 There are %d remaining attempts."</string>
   <string name="pin2_changed">O PIN2 do cartão SIM foi alterado.</string>
@@ -997,8 +997,8 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="private_num">Número privado</string>
   <string name="proceed">Continuar</string>
   <string name="progress_dialog_exiting_ecm">Sair do modo de Chamada de Volta de emergência</string>
-  <string name="provision_content">Este recurso necessita de uma ligação à internet para funcionar normalmente.</string>
-  <string name="provision_title">Ligação à internet</string>
+  <string name="provision_content">Este recurso necessita de uma ligação à Internet para funcionar normalmente.</string>
+  <string name="provision_title">Ligação à Internet</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>
   <string name="pstn_connection_service_label">Cartões SIM integrados</string>
@@ -1037,7 +1037,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="registration_status_done">Receber chamadas.</string>
   <string name="registration_status_failed_try_later">Não é possível ligar a conta. %s</string>
   <string name="registration_status_invalid_credentials">O Utilizador ou palavra-passe que introduziu está incorrecta.</string>
-  <string name="registration_status_no_data">Não tem nenhuma ligação à internet.</string>
+  <string name="registration_status_no_data">Não tem nenhuma ligação à Internet.</string>
   <string name="registration_status_no_wifi_data">Não está ligado a nenhuma ligação Wi-Fi</string>
   <string name="registration_status_not_receiving">Não receber chamadas.</string>
   <string name="registration_status_not_running">Não é possível ligar a conta</string>
@@ -1051,7 +1051,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="remain_mins_domestic">Restante (nacional)</string>
   <string name="remain_mins_international">Restante (internacional)</string>
   <string name="remain_mins_unit">min</string>
-  <string name="remember_my_choice">Utilizar sempre para fazer chamadas pela internet</string>
+  <string name="remember_my_choice">Utilizar sempre para fazer chamadas pela Internet</string>
   <string name="remove">Eliminar</string>
   <string name="remove_ims_account">Remover conta</string>
   <string name="remove_sip_account">Remover conta</string>
@@ -1068,7 +1068,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="requesting_sim_unlock">A solicitar o desbloqueio do cartão SIM…</string>
   <string name="requesting_sp_unlock">A solicitar o desbloqueio do serviço da operadora do cartão SIM…</string>
   <string name="requesting_unlock">A solicitar o desbloqueio do cartão SIM…</string>
-  <string name="reset_my_choice_hint">Pode alterar qual a conta de chamadas pela internet a utilizar por predefinição a partir do telefone&gt; Definições &gt; Definições de chamadas internet&gt; Contas.</string>
+  <string name="reset_my_choice_hint">Pode alterar qual a conta de chamadas pela Internet a utilizar por predefinição a partir do telefone&gt; Definições &gt; Definições de chamadas Internet&gt; Contas.</string>
   <string name="respond_via_sms_canned_response_1">Não posso falar agora. Liga-me mais tarde?</string>
   <string name="respond_via_sms_canned_response_2">Eu ligo de volta.</string>
   <string name="respond_via_sms_canned_response_3">Ligo mais tarde.</string>
@@ -1151,14 +1151,14 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
   <string name="sip_accounts_title">Contas SIP</string>
-  <string name="sip_add_account_tip_text">Para utilizar chamadas pela internet adicione uma conta SIP</string>
+  <string name="sip_add_account_tip_text">Para utilizar chamadas pela Internet adicione uma conta SIP</string>
   <string name="sip_always_send_keepalive">Enviar sempre</string>
   <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados está disponível</string>
   <string name="sip_call_options_entry_2">Apenas para chamadas SIP</string>
   <string name="sip_call_options_entry_3">Perguntar em cada chamada</string>
   <string name="sip_call_options_title">Utilizar chamadas SIP</string>
   <string name="sip_call_options_wifi_only_entry_1">Para todas as chamadas</string>
-  <string name="sip_call_options_wifi_only_title">Utilize chamadas pela internet (apenas Wi-Fi)</string>
+  <string name="sip_call_options_wifi_only_title">Utilize chamadas pela Internet (apenas Wi-Fi)</string>
   <string name="sip_connection_service_label">Chamada SIP embutida</string>
   <string name="sip_edit_new_title">Detalhes da conta SIP</string>
   <string name="sip_edit_title">Detalhes da conta SIP</string>
@@ -1167,7 +1167,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sip_menu_save">Guardar</string>
   <string name="sip_receive_calls">Receber chamadas</string>
   <string name="sip_receive_calls_summary">Utiliza mais bateria</string>
-  <string name="sip_settings">Chamada pela internet</string>
+  <string name="sip_settings">Chamada pela Internet</string>
   <string name="sip_system_decide">Automático</string>
   <string name="slot">Slot</string>
   <string name="sp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão SIM falhou.</string>

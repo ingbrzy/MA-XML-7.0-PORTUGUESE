@@ -109,7 +109,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
-  <string name="internet_access_dspt">Esta aplicação necessita de uma ligação à internet para funcinonar normalmente.</string>
+  <string name="internet_access_dspt">Esta aplicação necessita de uma ligação à Internet para funcinonar normalmente.</string>
   <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações agora, vá a %s.</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_hint">A carregar…</string>
@@ -252,8 +252,8 @@ Toque nas definições de sincronização para ver mais opções."</string>
 
 %s Créditos Mi"</string>
   <string name="micloud_member_buy_title">Confirmar encomenda</string>
-  <string name="micloud_member_net_error_alert_message">Não está ligado à internet.</string>
-  <string name="micloud_member_net_error_alert_title">Não é possível ligar à internet</string>
+  <string name="micloud_member_net_error_alert_message">Não está ligado à Internet.</string>
+  <string name="micloud_member_net_error_alert_title">Não é possível ligar à Internet</string>
   <string name="micloud_member_pay_fail_toast">Não foi possível concluir o pagamento</string>
   <string name="micloud_member_pay_miid_error_toast">Erro de conta</string>
   <string name="micloud_member_pay_order_error_toast">Erro de dados</string>
@@ -337,10 +337,10 @@ Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</strin
   <string name="mx_dspt_provision_privacy_no_sim">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso quando o cartão SIM for detectado.
 
 Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de internet. Pode ligar ou desligar este recurso em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
+  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de Internet. Pode ligar ou desligar este recurso em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
-  <string name="mx_sub_dspt_provision_with_voip">Chamadas pela internet</string>
+  <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
   <string name="mx_voip_dspt">Voz Mi</string>
   <string name="next">Seguinte</string>
   <string name="noRemind">Não voltar a lembrar</string>

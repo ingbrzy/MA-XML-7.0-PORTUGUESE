@@ -85,7 +85,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_clean">Limpar</string>
   <string name="confirm_know">OK</string>
-  <string name="connect_network_setting_des">Perguntar por ligação à internet</string>
+  <string name="connect_network_setting_des">Perguntar por ligação à Internet</string>
   <string name="connecting">A ligar…</string>
   <string name="connection_error">"Não foi possível ligar"</string>
   <string name="copy_failed">Não foi possível copiar, parece que o armazenamento está cheio</string>
@@ -100,8 +100,8 @@
   <string name="data_consumption_cancel">Sair</string>
   <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Esta aplicação necessita de uma ligação à internet através do Wi-Fi para funcionar normalmente.</string>
-  <string name="data_consumption_title">Ligação à internet</string>
+  <string name="data_consumption_message">Esta aplicação necessita de uma ligação à Internet através do Wi-Fi para funcionar normalmente.</string>
+  <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
   <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
@@ -321,7 +321,7 @@
   <string name="need_read_storage_permission">Explorador necessita de permissão para aceder ao armazenamento do dispositivo</string>
   <string name="net_lose_connected">Ligação perdida</string>
   <string name="networkView_notConnected">Não é possível ligar à rede</string>
-  <string name="network_connect_confirm_des">Explorador necessita de uma ligação à internet para funcionar normalmente</string>
+  <string name="network_connect_confirm_des">Explorador necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="network_dialog_checkbox_tip">Não mostrar novamente</string>
   <string name="network_spent_reminding">Abrir esta página requer algum tráfego do seu plano de dados</string>
   <string name="network_spent_reminding_title">Notificação de utilização de dados</string>
@@ -573,7 +573,7 @@ Espaço livre adicionado %1$s"</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>
   <string name="subtitle_report_video">De %1$s</string>
   <string name="sys_size_enable">" disponível"</string>
-  <string name="system_alert">Ligação à internet</string>
+  <string name="system_alert">Ligação à Internet</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_common_app">Aplicações básicas</string>
   <string name="tab_expand">Expandir</string>

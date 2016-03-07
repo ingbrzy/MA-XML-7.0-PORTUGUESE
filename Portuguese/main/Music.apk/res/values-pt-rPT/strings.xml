@@ -21,6 +21,7 @@
   <string name="action_item_send">Enviar</string>
   <string name="action_item_share">Partilhar</string>
   <string name="add_music">Adicionar músicas</string>
+  <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="alaka_required">Esta música não está disponível.</string>
   <string name="album_name">Álbum</string>
   <string name="album_search_title">Álbum</string>
@@ -244,6 +245,7 @@
   <string name="japan_korea_group">Bandas (Japão/Coreia)</string>
   <string name="japan_korea_male">Cantores (Japão/Coreia)</string>
   <string name="ktv_playlist">Lista de reprodução KTV</string>
+  <string name="latest_song">Reproduzir histórico(%d)</string>
   <string name="like">Gosto</string>
   <string name="list_detail_title">Detalhes</string>
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
@@ -334,7 +336,7 @@
   <string name="no_local_songs">Vazio</string>
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
   <string name="no_local_source_find">Não é possível localizar a música</string>
-  <string name="no_online_song_selected">Não foi seleccionada nenhuma Música</string>
+  <string name="no_online_song_selected">Não foi seleccionada nenhuma música</string>
   <string name="no_results_return">Sem resultados de pesquisa</string>
   <string name="no_song">Sem músicas</string>
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
@@ -362,7 +364,8 @@
   <string name="pay_now">Serviço actual</string>
   <string name="payment_fail">Não foi possível pagar</string>
   <string name="payment_success">Pagamento efectuado</string>
-  <string name="play_all_song">Tocar todas</string>
+  <string name="play_all_song">Reproduzir todas</string>
+  <string name="play_next">Reproduzir seguinte</string>
   <string name="playback_failed_no_title_by_bad_file">O formato desta música não é suportado ou o ficheiro não existe.</string>
   <string name="playlist_deleted_message">Eliminar lista de reprodução</string>
   <string name="playlist_renamed_message">Lista de reprodução renomeada</string>
@@ -377,10 +380,20 @@
   <string name="priority_storage_summary">Se disponível transferir automaticamente para o cartão SD</string>
   <string name="project_device">Telefone Mi</string>
   <string name="project_device_mobile">Dispositivo móvel</string>
+  <string name="radar">ACRCloud</string>
+  <string name="radar_click_to_retry">Clique para repetir</string>
+  <string name="radar_fail">Sem resultados</string>
+  <string name="radar_fail_by_noise">Muito barulho</string>
+  <string name="radar_listening_state">Reconhecimento em curso</string>
+  <string name="radar_possible_result">Músicas possíveis</string>
+  <string name="radar_retry">Repetir</string>
+  <string name="radar_searching_state">Pesquisa em curso</string>
+  <string name="radar_support_by">Fornecido por ACRCloud</string>
   <string name="really_pay">Pagar agora?</string>
   <string name="recommend_fragment_title">Em destaque</string>
   <string name="remaining">Restante este mês:</string>
   <string name="remove">Remover</string>
+  <string name="remove_from_nowplaying">Remover da lista de reprodução</string>
   <string name="renew">Renovar:</string>
   <string name="renew_1">Renovar</string>
   <string name="renew_period">"Expira: "</string>
@@ -389,6 +402,7 @@
   <string name="restart_immediate">Reiniciar agora</string>
   <string name="retry">Repetir</string>
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
+  <string name="save_to_playlist">Guardar na lista de reprodução</string>
   <string name="search_album">Pesquisar albums</string>
   <string name="search_for_album">Álbum</string>
   <string name="search_for_artist">Artista</string>
@@ -503,7 +517,7 @@
   <string name="track_list_control_edit_add_tracks">Adicionar Músicas</string>
   <string name="track_list_control_edit_delete_playlist">Eliminar</string>
   <string name="track_list_control_edit_rename_playlist">Renomear</string>
-  <string name="track_list_control_play">Tocar</string>
+  <string name="track_list_control_play">Reproduzir</string>
   <string name="track_main_fragment_tab_album">Álbum</string>
   <string name="track_main_fragment_tab_track">Música</string>
   <string name="track_search_title">Música</string>

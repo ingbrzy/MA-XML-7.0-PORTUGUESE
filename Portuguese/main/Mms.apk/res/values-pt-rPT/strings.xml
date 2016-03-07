@@ -163,7 +163,7 @@
   <string name="feedback_submit">Enviar</string>
   <string name="festival">Respostas rápidas</string>
   <string name="festival_continue">Continuar</string>
-  <string name="festival_networking_desc">Esta função tem de ligar à internet para funcionar normalmente</string>
+  <string name="festival_networking_desc">Esta função tem de ligar à Internet para funcionar normalmente</string>
   <string name="festival_networking_title">Notícia</string>
   <string name="festival_never_remind">Não mostrar novamente.</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -276,7 +276,7 @@
   <string name="mx_activate_dlg_title_ex">Activar Mensagens e Voz Mi</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar Mensagens Mi para este cartão SIM.</string>
   <string name="mx_activate_error_server">Não foi possível activar o cartão SI</string>
-  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi é necessário enviar uma SMS desde o dispositivo para os servidores da Xiaomi</string>
+  <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar Mensagens Mi é necessário enviar uma SMS para os servidores da Xiaomi</string>
   <string name="mx_activate_error_title">Não foi possível activar</string>
   <string name="mx_activate_hint_malformed_info">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
   <string name="mx_activate_hint_server">Uma SMS será enviada para reactivar Mensagens Mi para o cartão SIM actual. Vai ter custos nacionais da sua operadora.</string>
@@ -328,7 +328,7 @@
   <string name="mx_type_guide">Mensagens Mi permite enviar mensagens grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à internet para utilizar este serviço.</string>
+  <string name="networking_allow_desc">Mensagens inteligentes permitem que envie mensagens de texto e voz gratuitas, reconhecer números desconhecidos, filtrar spam, etc. Ao utilizar este serviço está a concordar com %1$s e %2$s da Xiaomi. É necessário ligação às páginas amarelas e à Internet para utilizar este serviço.</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Nova mensagem</string>
   <string name="new_message_arrived">Tem uma mensagem nova</string>
@@ -382,7 +382,7 @@
   <string name="pref_summary_mms_read_reports">Mostrar notificação na vista de conversa quando o receptor transferir o conteúdo da MMS</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Transferir fotos e vídeos automaticamente nas mensagens quando o roaming estiver activo</string>
   <string name="pref_summary_mx_feedback">Reportar erros e enviar comentários</string>
-  <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e na área de notificações</string>
+  <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e área de notificações</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Não pode pré-visualizar mensagens em modo Convidado</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
@@ -391,7 +391,7 @@
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_disabled_summary">"Não é suportado com o actual tamanho de tipo de letra"</string>
-  <string name="pref_time_auto_group_summary">As mensagens ficam agrupadas na mesma conversa por data</string>
+  <string name="pref_time_auto_group_summary">Agrupar mensagens na mesma conversa por data</string>
   <string name="pref_time_auto_group_title">Agrupar por data</string>
   <string name="pref_title_allow_si_sl_push">Permitir envio de mensagens WAP</string>
   <string name="pref_title_card_format">Formato de partilha de cartão</string>
@@ -408,7 +408,7 @@
   <string name="pref_title_mms_validity_period">Período de validade de MMS</string>
   <string name="pref_title_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
-  <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver inactivo</string>
+  <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver desligado</string>
   <string name="pref_title_send_delivery_reports">Enviar mensagens de entrega</string>
   <string name="pref_title_show_recent_contacts">Mostrar contactos recentes</string>
   <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
@@ -535,6 +535,8 @@
   <string name="sms_rejected_title">A mensagem de texto foi rejeitada</string>
   <string name="sms_report_failed">Erro ao enviar relatório</string>
   <string name="sms_report_success">Relatório enviado</string>
+  <string name="snippet_audio">[audio]</string>
+  <string name="snippet_picture">[picture]</string>
   <string name="sp_category_all">Todas as mensagens de serviço</string>
   <string name="sp_category_bank">Banco de serviço de mensagens</string>
   <string name="sp_category_title_prefix">%s</string>

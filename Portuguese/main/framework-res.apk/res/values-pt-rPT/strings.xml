@@ -899,7 +899,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_controlWifiDisplay">Permite que a aplicação controle os recursos de baixo nível de exibição do Wi-Fi.</string>
   <string name="permdesc_control_keyguard">Permite que uma aplicação controle a protecção do teclado</string>
   <string name="permdesc_copyProtectedData">Permite que a aplicação solicite o serviço de conteúdo predefinido para copiar um novo conteúdo. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet. Esta autorização não é necessária para enviar dados para a internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet. Esta autorização não é necessária para enviar dados para a Internet.</string>
   <string name="permdesc_deleteCacheFiles">Permite que a aplicação elimine ficheiros do histórico de dados.</string>
   <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar este recurso para eliminar aplicações importantes.</string>
   <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telefone.</string>
@@ -1730,7 +1730,7 @@ Pretende fechar?"</string>
   <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Isto vai desligar o cliente/PA Móvel Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Não foi possível ligar ao Wi-Fi</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à internet fraca."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à Internet fraca."</string>
   <string name="wireless_display_route_description">Visualização sem fios</string>
   <string name="write_fail_reason_cancelled">Cancelado</string>
   <string name="write_fail_reason_cannot_write">Erro ao escrever conteúdo</string>

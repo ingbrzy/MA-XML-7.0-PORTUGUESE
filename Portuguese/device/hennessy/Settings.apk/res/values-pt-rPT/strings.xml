@@ -141,8 +141,8 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="apn_auth_type_none">Nenhum</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP ou CHAP</string>
-  <string name="apn_chinaunicom_3gnet_general">Ligação à internet para utilizadores de banda larga Wal</string>
-  <string name="apn_chinaunicom_3gwap_general">Utilizadores de internet móvel de banda larga Waugh</string>
+  <string name="apn_chinaunicom_3gnet_general">Ligação à Internet para utilizadores de banda larga Wal</string>
+  <string name="apn_chinaunicom_3gwap_general">Utilizadores de Internet móvel de banda larga Waugh</string>
   <string name="apn_cm_net">CMNET</string>
   <string name="apn_cm_wap">CMWAP</string>
   <string name="apn_edit">Editar ponto de acesso</string>
@@ -397,8 +397,8 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_disconnect_all_profiles">Isto vai terminar a ligação com::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s será desligado do áudio de mãos livres.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s será desligado do dispositivo de entrada.</string>
-  <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desligado da partilha de ligação da internet deste telefone.</string>
-  <string name="bluetooth_disconnect_pan_user_profile">Acesso à internet através de %1$s será desligado.</string>
+  <string name="bluetooth_disconnect_pan_nap_profile">%1$s será desligado da partilha de ligação da Internet deste telefone.</string>
+  <string name="bluetooth_disconnect_pan_user_profile">Acesso à Internet através de %1$s será desligado.</string>
   <string name="bluetooth_disconnect_title">Desligar?</string>
   <string name="bluetooth_disconnected">Desligado</string>
   <string name="bluetooth_disconnecting">A desligar…</string>
@@ -451,9 +451,9 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_pairing_rejected_error_message">Emparelhamento rejeitado por %1$s.</string>
   <string name="bluetooth_pairing_request">Pedido de emparelhamento Bluetooth</string>
   <string name="bluetooth_pairing_will_share_phonebook">Emparelhar concede acesso aos contactos e registo de chamadas quando ligado.</string>
-  <string name="bluetooth_pan_nap_profile_summary_connected">A partilhar a ligação à internet com o dispositivo</string>
-  <string name="bluetooth_pan_profile_summary_use_for">Utilizar para aceder à internet</string>
-  <string name="bluetooth_pan_user_profile_summary_connected">Ligado ao dispositivo para acesso à internet</string>
+  <string name="bluetooth_pan_nap_profile_summary_connected">A partilhar a ligação à Internet com o dispositivo</string>
+  <string name="bluetooth_pan_profile_summary_use_for">Utilizar para aceder à Internet</string>
+  <string name="bluetooth_pan_user_profile_summary_connected">Ligado ao dispositivo para acesso à Internet</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s quer aceder aos seus contactos e registo de chamadas. Dar acesso a %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Não perguntar novamente</string>
   <string name="bluetooth_permission_request">Pedido de permissão Bluetooth</string>
@@ -470,8 +470,8 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_profile_hid">Dispositivo de entrada</string>
   <string name="bluetooth_profile_map">Acesso às mensagens</string>
   <string name="bluetooth_profile_opp">Transferência de ficheiro</string>
-  <string name="bluetooth_profile_pan">Acesso à internet</string>
-  <string name="bluetooth_profile_pan_nap">Partilha de ligação à internet</string>
+  <string name="bluetooth_profile_pan">Acesso à Internet</string>
+  <string name="bluetooth_profile_pan_nap">Partilha de ligação à Internet</string>
   <string name="bluetooth_quick_toggle_summary">Ligar Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Não perguntar novamente</string>
@@ -485,11 +485,11 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
   <string name="bluetooth_show_received_files">Mostrar os ficheiros recebidos</string>
   <string name="bluetooth_tether_checkbox_text">Ancoragem Bluetooth</string>
-  <string name="bluetooth_tethering_available_subtext">A partilhar ligação de internet do telefone</string>
-  <string name="bluetooth_tethering_device_connected_subtext">A partilhar ligação de internet do telefone com 1 dispositivo</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">A partilhar ligação de internet do telefone com %1$d dispositivos</string>
+  <string name="bluetooth_tethering_available_subtext">A partilhar ligação de Internet do telefone</string>
+  <string name="bluetooth_tethering_device_connected_subtext">A partilhar ligação de Internet do telefone com 1 dispositivo</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">A partilhar ligação de Internet do telefone com %1$d dispositivos</string>
   <string name="bluetooth_tethering_errored_subtext">Não ligado</string>
-  <string name="bluetooth_tethering_off_subtext">Não está a partilhar ligação de internet deste telefone</string>
+  <string name="bluetooth_tethering_off_subtext">Não está a partilhar ligação de Internet deste telefone</string>
   <string name="bluetooth_tethering_overflow_error">Não pode ligar mais do que %1$d dispositivos.</string>
   <string name="bluetooth_turning_off">A desligar Bluetooth…</string>
   <string name="bluetooth_turning_on">A ligar Bluetooth…</string>
@@ -1553,7 +1553,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenament
   <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
-  <string name="mobile_connect_to_internet">Por favor, active a ligação à internet</string>
+  <string name="mobile_connect_to_internet">Por favor, active a ligação à Internet</string>
   <string name="mobile_insert_sim_card">Insira um cartão SIM e reinicie</string>
   <string name="mobile_no_provisioning_url">%1$s não tem serviço de Web</string>
   <string name="mobile_unknown_sim_operator">Operador SIM desconhecido</string>
@@ -1703,7 +1703,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="oldman_mode_entry_title">Modo Leve</string>
   <string name="oldman_mode_settings_caption">Definições do modo Leve</string>
   <string name="oldman_mode_summary">Utilizar menus simplificados</string>
-  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à internet, ler os seus contactos, mensagens e obter a localização para funcionar normalmente</string>
+  <string name="oldman_mode_summary_cta">Modo Leve necessita de uma ligação à Internet, ler os seus contactos, mensagens e obter a localização para funcionar normalmente</string>
   <string name="onekey_migrate">Transferir</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher.</string>
@@ -2089,6 +2089,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="scan_list_label">Resultados da pesquisa:</string>
   <string name="screen">Ecrã</string>
   <string name="screen_color_and_optimize">Cores e contraste</string>
+  <string name="screen_color_and_optimize_disabled">Não é possível ajustar temperatura da cor no Modo de Leitura</string>
   <string name="screen_color_temperature">Cores</string>
   <string name="screen_color_temperature_and_saturation">Cores e saturação</string>
   <string name="screen_compatibility_label">Compatibilidade do ecrã</string>
@@ -2119,8 +2120,8 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screen_paper_mode_turn_on">Ligado</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Não mostrar novamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Permitir</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de Leitura é necessário ligação à internet.</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à internet</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Para actualizar a lista de aplicações que utilizam o modo de Leitura é necessário ligação à Internet.</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Ligação à Internet</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Actualizar lista de aplicações que utilizam o modo de Leitura automaticamente</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automaticamente</string>
   <string name="screen_resolution_confirm">Confirmar e reiniciar</string>
@@ -2203,7 +2204,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="search_status_bar">barra de estado</string>
   <string name="search_storage">armazenamento</string>
   <string name="search_sync">sincronização</string>
-  <string name="search_tether">compartilhamento internet</string>
+  <string name="search_tether">compartilhamento Internet</string>
   <string name="search_unlock_set">desbloqueio</string>
   <string name="search_vpn">vpn</string>
   <string name="search_wallpaper">papel de parede</string>
@@ -2261,7 +2262,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças.</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
-  <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à internet.</string>
+  <string name="settings_safetylegal_activity_unreachable">Não tem uma ligação de dados. Para ver esta informação agora, vá a %s em qualquer computador ligado à Internet.</string>
   <string name="settings_safetylegal_title">Informações de segurança</string>
   <string name="settings_shortcut">Atalho de Definições</string>
   <string name="show_all_anrs">Mostrar todos os ANRs</string>
@@ -2290,7 +2291,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à internet.</string>
+  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à Internet.</string>
   <string name="shut_down_find_device_network_failure_title">Não foi possível ligação à rede. Verifique a sua ligação e tente novamente.</string>
   <string name="shuting_down_find_device">A desligar Localizar dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
@@ -2365,12 +2366,12 @@ Tentativas restantes :"</string>
   <string name="ssl_ca_cert_info_message">"Este dispositivo é gerido por:
 %s
 
-O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de internet seguras.
+O seu administrador pode monitorizar a sua actividade na rede, incluindo emails, aplicações e páginas de Internet seguras.
 
 Para mais informações contacte o seu administrador."</string>
   <string name="ssl_ca_cert_settings_button">Verificar credenciais de confiança</string>
   <string name="ssl_ca_cert_warning">A rede poderá ser monitorizada</string>
-  <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de internet seguras.</string>
+  <string name="ssl_ca_cert_warning_message">"Software de terceiros podem monitorizar a sua actividade na rede, incluindo mensagens de email, aplicações e páginas de Internet seguras.</string>
   <string name="stable_build">" | Stable"</string>
   <string name="status_awake_time">Tempo de actividade</string>
   <string name="status_bar_and_notification_bar">Área de notificações e barra de estado</string>
@@ -2915,7 +2916,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_aggressive_handover_summary">Se estiver activado, o Wi-Fi será mais agressivo ao transmitir a lig. de dados p/ a rede móvel quando o sinal Wi-Fi estiver fraco</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre a detecção de Wi-Fi em roaming</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/impedir a detecção de Wi-Fi em roaming com base na quantidade de tráfego de dados presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à internet o dispositivo fica impedido de verificar se o software está actualizado</string>
+  <string name="wifi_and_mobile_skipped_message">ATENÇÃO: Enquanto não existir uma ligação à Internet o dispositivo fica impedido de verificar se o software está actualizado</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Ligar automaticamente</string>
   <string name="wifi_available_title">Ligar a Wi-Fi</string>
@@ -2938,7 +2939,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_datanetwork_switch_not_remind">Não mostrar novamente</string>
   <string name="wifi_disabled_generic">Desactivado</string>
   <string name="wifi_disabled_help">A ligação foi desligada devido ao sinal fraco.</string>
-  <string name="wifi_disabled_network_failure">Evitar ligações de internet fracas</string>
+  <string name="wifi_disabled_network_failure">Evitar ligações de Internet fracas</string>
   <string name="wifi_disabled_password_failure">Problema de autenticação</string>
   <string name="wifi_disconnected_notification_summary">Não está ligado ao Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi desligado</string>

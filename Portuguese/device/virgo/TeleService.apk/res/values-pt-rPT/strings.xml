@@ -451,7 +451,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="importToFDNfromContacts">Importar dos contactos</string>
   <string name="important_attention">Atenção</string>
   <string name="importingSimContacts">Importar contactos do SIM</string>
-  <string name="ims_set_wifi_calling_preference_failed">Erro ao definir preferências nas chamadas de internet</string>
+  <string name="ims_set_wifi_calling_preference_failed">Erro ao definir preferências nas chamadas pela Internet</string>
   <string name="ims_settings">Definições IMS</string>
   <string name="incall_error_call_failed">Não é possível fazer a chamada.</string>
   <string name="incall_error_emergency_only">Não registado na rede.</string>
@@ -482,7 +482,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="international_disable">Notícias Internacionais desligado</string>
   <string name="international_enable">Notícias Internacionais ligado</string>
   <string name="international_roaming_setting">Dados em roaming</string>
-  <string name="internet_phone">Chamadas pela internet</string>
+  <string name="internet_phone">Chamadas pela Internet</string>
   <string name="invalidPin">Introduzir um PIN que tenha entre 4 a 8 números.</string>
   <string name="invalidPin2">Introduzir um PIN2 que tenha entre 4 a 8 números.</string>
   <string name="invalidPsw">Introduzir palavra-passe (4 a 8 números)</string>
@@ -702,13 +702,13 @@ Será utilizada a rede preferida em vez."</string>
   <string name="no_call_barring">Sem barramentos</string>
   <string name="no_change">Não foram feitas alterações.</string>
   <string name="no_data">Sem dados</string>
-  <string name="no_internet_available">Para fazer uma chamada pela internet, tem de ter uma ligação à internet.</string>
+  <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet.</string>
   <string name="no_more">Não mais</string>
   <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
-  <string name="no_voip">Chamadas pela internet não suportadas</string>
-  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela internet (utilize o Wi-Fi e Definições de rede).</string>
+  <string name="no_voip">Chamadas pela Internet não suportadas</string>
+  <string name="no_wifi_available">Precisa de estar ligado a uma rede Wi-Fi para fazer chamadas pela Internet (utilize o Wi-Fi e Definições de rede).</string>
   <string name="not_a_valid_port">O número da porta deve ser entre 1000 e 65534.</string>
   <string name="not_activate_sim_card_content">"O pacote de recarga não foi verificado para o cartão SIM seleccionado. Tente usar o seu cartão SIM para fazer esta chamada. A sua operadora vai cobrar por esta chamada."</string>
   <string name="not_activate_sim_card_content_title">"O número de telefone não foi ainda verificado"</string>
@@ -1047,7 +1047,7 @@ O cartão SIM será eliminado após outra tentativa falhada."</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
   <string name="sip_accounts_title">Contas</string>
-  <string name="sip_add_account_tip_text">Para utilizar chamadas pela internet adicione uma conta SIP</string>
+  <string name="sip_add_account_tip_text">Para utilizar chamadas pela Internet adicione uma conta SIP</string>
   <string name="sip_always_send_keepalive">Enviar sempre</string>
   <string name="sip_call_options_entry_1">Para todas as chamadas quando a rede de dados está disponível</string>
   <string name="sip_call_options_entry_2">Apenas para chamadas SIP</string>

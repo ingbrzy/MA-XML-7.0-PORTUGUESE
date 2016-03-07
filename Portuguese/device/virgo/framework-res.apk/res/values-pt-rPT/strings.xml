@@ -689,7 +689,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
   <string name="permdesc_connection_manager">Permite que a aplicação faça a gestão das ligações de telecomunicação.</string>
   <string name="permdesc_control_incall_experience">Permite que a aplicação proporcione uma experiência de utilizador em chamada.</string>
-  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a internet, pelo que esta permissão não é necessária para enviar dados para a internet.</string>
+  <string name="permdesc_createNetworkSockets">Permite que a aplicação crie ligações de rede e utilize protocolos de rede personalizados. O navegador e outras aplicações fornecem meios para enviar dados para a Internet, pelo que esta permissão não é necessária para enviar dados para a Internet.</string>
   <string name="permdesc_disableKeyguard">Permite que a aplicação desactive o bloqueio de teclas e qualquer segurança por palavra-passe associada. Por exemplo, o telefone desactiva o bloqueio de teclas quando recebe uma chamada e reactiva o bloqueio de teclas ao terminar a chamada.</string>
   <string name="permdesc_enableCarMode">Permite que a aplicação active o Modo Condução.</string>
   <string name="permdesc_expandStatusBar">Permite à aplicação expandir ou fechar a barra de estado.</string>
@@ -1223,7 +1223,7 @@ Pretende fechá-la?"</string>
   <string name="wifi_connect_alert_message">A aplicação %1$s pretende ligar à rede Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Permitir ligação?</string>
   <string name="wifi_connect_default_application">Uma aplicação</string>
-  <string name="wifi_no_internet">O Wi-Fi não tem acesso à internet</string>
+  <string name="wifi_no_internet">O Wi-Fi não tem acesso à Internet</string>
   <string name="wifi_no_internet_detailed">Tocar para obter opções</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
   <string name="wifi_p2p_enabled_notification_message">Toque para aceder às definições</string>
@@ -1239,7 +1239,7 @@ Pretende fechá-la?"</string>
   <string name="wifi_p2p_turnon_message">Iniciar Wi-Fi Directo. Isto vai desligar o cliente/PA Móvel Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Não foi possível ligar ao Wi-Fi</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à internet fraca."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à Internet fraca."</string>
   <string name="wireless_display_route_description">Visualização sem fios</string>
   <string name="work_profile_deleted">Perfil de trabalho eliminado</string>
   <string name="work_profile_deleted_description">Perfil de trabalho eliminado devido a aplicação de administração em falta.</string>

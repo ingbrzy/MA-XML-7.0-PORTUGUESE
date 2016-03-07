@@ -103,8 +103,8 @@
   <string name="declaration_content">1. Ao utilizar este serviço, concorda com Sohu vídeo, iQiyi e outros fornecedores de conteúdo<a href="file:///android_asset/terms.html">Termos de Utilização</a>".
 2. Ajude a melhorar este produto através do envio automático de diagnósticos e de dados de utilização para a Mi.
 3. O nosso plugin HD Vídeo será instalado automaticamente.
-4. Este serviço necessita de uma ligação à internet para funcionar normalmente."</string>
-  <string name="declaration_content_td_custom">Esta aplicação tem que estabelecer ligação à internet para funcionar normalmente.</string>
+4. Este serviço necessita de uma ligação à Internet para funcionar normalmente."</string>
+  <string name="declaration_content_td_custom">Esta aplicação tem que estabelecer ligação à Internet para funcionar normalmente.</string>
   <string name="defaults">Predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_action_text">Eliminar (%d)</string>
@@ -394,6 +394,7 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>
+  <string name="vp_ad_skip">Ignorar</string>
   <string name="vp_adapt_height">Ajustar altura</string>
   <string name="vp_adapt_width">Ajustar largura</string>
   <string name="vp_app_download">Transferir aplicação</string>
@@ -480,7 +481,7 @@
   <string name="vp_unknown_source">Fonte desconhecida</string>
   <string name="vp_using_16_9">Forçar 16:9</string>
   <string name="vp_using_4_3">Forçar 4:3</string>
-  <string name="vp_video_bad_network_condition">Ligação de internet fraca. Tente novamente mais tarde</string>
+  <string name="vp_video_bad_network_condition">Ligação de Internet fraca. Tente novamente mais tarde</string>
   <string name="vp_video_invalid_cp_info">Informações inválidas do fornecedor do vídeo, reinicie a aplicação</string>
   <string name="vp_video_loading">A carregar…</string>
   <string name="vp_video_plugin_installation">A instalar %1$s…</string>
