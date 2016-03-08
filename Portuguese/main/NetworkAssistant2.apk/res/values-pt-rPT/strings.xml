@@ -86,7 +86,7 @@
   <string name="datausage_purchase_title_order">Comprar dados</string>
   <string name="datausage_purchase_title_pkglist">Comprar dados</string>
   <string name="datausage_purchase_view_detail">Ver detalhes</string>
-  <string name="declaration_dialog_msg">Este recurso pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador.</string>
+  <string name="declaration_dialog_msg">Esta funcionalidade pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador.</string>
   <string name="deleted_apps">Aplicações Eliminadas</string>
   <string name="detail_app_button">Informação da aplicação</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis.</string>
@@ -361,7 +361,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_declare_dialog_message">"Ao utilizar este serviço, está a concordar com os &lt;a href=%s&gt; Termos do Serviço&lt;/a&gt; da Opera."</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para actualizar os seus dados e informações de utilização.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Este recurso necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Esta funcionalidade necessita de encriptar e enviar o IMEI, número de telefone e dados da operadora para os servidores Mi para conseguir receber as estatísticas de utilização de dados da sua operadora.</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para obter mais informação sobre as opções de compra de dados.</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
@@ -390,11 +390,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="saving_conflict_dialog_title">Atenção</string>
   <string name="saving_conflict_restrictbackground_msg">"Não é possível utilizar Economizador de Dados quando os dados em segundo plano estão restringidos. Permitir dados em segundo plano e ligar Economizador de Dados?"</string>
   <string name="sc_allow_network_dialog_message">Esta aplicação necessita de uma ligação à Internet para funcionar normalmente.</string>
-  <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar este recurso</string>
+  <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
   <string name="see_detail">Detalhes</string>
   <string name="setting_traffic_pkg">Definir pacote de dados</string>
   <string name="settings">Definições de utilização de dados</string>
-  <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar este recurso em Utilização de dados &gt; Definições</string>
+  <string name="show_traffic_dialog_message">A sua utilização de dados vai estar visível na área de notificações. Pode ligar ou desligar esta funcionalidade em Utilização de dados &gt; Definições</string>
   <string name="show_traffic_dialog_title">Mostrar utilização de dados na área de notificações</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
@@ -429,11 +429,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_notify_get_timeout_body">Processo expirou . Confirme com a sua operadora se o código de inquérito SMS que introduziu está correcto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Não é possível obter o relatório de utilização de dados</string>
   <string name="tc_sms_report_receive_content">Conteúdo do SMS com relatório da utilização de dados (confirme estatística do uso de dados)</string>
-  <string name="tc_sms_report_receive_content_null">Ajude a melhorar este recurso!&lt;br/	Veja como:&lt;br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/	2. Toque \"Obter modelo SMS\"&lt;br/	3. Aguarde até receber uma mensagem da sua operadora &lt;br/	4. Toque \"Enviar para a MIUI\"</string>
+  <string name="tc_sms_report_receive_content_null">Ajude a melhorar esta funcionalidade!&lt;br/	Veja como:&lt;br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/	2. Toque \"Obter modelo SMS\"&lt;br/	3. Aguarde até receber uma mensagem da sua operadora &lt;br/	4. Toque \"Enviar para a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
-  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatado para obter a sua mais recente utilização de dados da sua operadora. Se este recurso não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado será enviado para os nossos servidores.</string>
+  <string name="tc_sms_report_tips_dialog_message">A utilização de dados usa uma SMS especialmente formatado para obter a sua mais recente utilização de dados da sua operadora. Se esta funcionalidade não está a funcionar normalmente, tente actualizar o formato SMS utilização de dados. O novo formato actualizado será enviado para os nossos servidores.</string>
   <string name="tc_sms_report_tips_dialog_title">Utilização de dados de SMS</string>
   <string name="tc_sms_report_title">Reportar erro da utilização de dados</string>
   <string name="tc_sms_report_toast_text">A obter informação…</string>

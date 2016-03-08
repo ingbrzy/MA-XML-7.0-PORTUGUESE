@@ -16,8 +16,8 @@
   <string name="auto_dialog_msg">A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema</string>
   <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
-  <string name="auto_update">Transferir actualizações</string>
-  <string name="auto_update_sum">Transferir automaticamente actualizações quando ligado ao Wi-Fi</string>
+  <string name="auto_update">Transferir actualizações automaticamente</string>
+  <string name="auto_update_sum">Transferir automaticamente quando ligado ao Wi-Fi</string>
   <string name="autosetmode">Definições</string>
   <string name="best_update">A melhor actualização até agora</string>
   <string name="boot_recovery">Reiniciar em modo de restauro?</string>
@@ -34,12 +34,12 @@
   <string name="check_local_package_validate_error_button">OK</string>
   <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização.</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
-  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser eliminados. Certifique-se que faz cópias de segurança de todos os dados importantes antes de iniciar o processo</string>
+  <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
   <string name="check_new_version">Verificar</string>
   <string name="check_update_policy">Definições</string>
-  <string name="check_update_when_wifi_available">Verificar actualizações por Wi-Fi</string>
-  <string name="check_update_when_wifi_available_sum">Utilizar apenas o Wi-Fi para verificar as actualizações</string>
+  <string name="check_update_when_wifi_available">Verificar actualizações apenas em Wi-Fi</string>
+  <string name="check_update_when_wifi_available_sum">Utilizar apenas Wi-Fi para verificar as actualizações</string>
   <string name="clean_up_button">Limpar</string>
   <string name="comment_invalid">Avaliar esta actualização (toque nas estrelas)</string>
   <string name="comment_publish">Submeter</string>
@@ -49,7 +49,7 @@
   <string name="comment_upload_not_logined">Primeiro tem que iniciar sessão na sua Conta Mi</string>
   <string name="comment_upload_success">Enviado</string>
   <string name="confirm_local_package_wipe_btn">Eliminar e actualizar</string>
-  <string name="confirm_local_package_wipe_msg">Os seus dados pessoais vão ser eliminados. Certifique-se de fazer cópias de segurança de tudo o que quer manter antes de continuar.</string>
+  <string name="confirm_local_package_wipe_msg">Os seus dados pessoais vão ser eliminados. Certifique-se de fazer cópias de segurança de tudo o que quer manter antes de continuar</string>
   <string name="confirm_local_package_wipe_title">Eliminar dados?</string>
   <string name="continue_update_negative_btn">Continuar</string>
   <string name="continue_update_positive_btn">Parar</string>
@@ -158,7 +158,7 @@
   <string name="repeat">Tente novamente</string>
   <string name="root_acquired">Permitir acesso root</string>
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
-  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root?</string>
+  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root.</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
   <string name="set_auto_msg">Transferir actualizações automaticamente quando estiver ligado ao Wi-Fi?</string>
   <string name="set_auto_update_title">Transferir actualizações automaticamente?</string>
@@ -240,7 +240,7 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="vote_error_nonetwork">Não é possível ligar à rede</string>
   <string name="vote_error1">"Parece que não é um membro
 no Comentário de Programa Beta"</string>
-  <string name="vote_error2">"Não foi possível enviar o comentário.
+  <string name="vote_error2">"Não é possível enviar o comentário.
 Actualize o seu dispositivo e tente novamente"</string>
   <string name="vote_error3">"Não foi possível iniciar sessão.
 Tente novamente iniciar sessão na sua Conta Mi."</string>

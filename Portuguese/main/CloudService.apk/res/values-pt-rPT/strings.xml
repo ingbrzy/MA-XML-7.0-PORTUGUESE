@@ -17,7 +17,7 @@
   <string name="button_cancel">Cancelar</string>
   <string name="buy_more_space_b_class">Iniciar sessão em mi.com/micloud para obter mais espaço de armazenamento.
 É necessário um cartão bancário de Mainland China para comprar espaço de armazenamento adicional."</string>
-  <string name="buy_more_space_c_class">Este recurso necessita dum cartão bancário de Mainland China.
+  <string name="buy_more_space_c_class">Esta funcionalidade necessita dum cartão bancário de Mainland China.
 Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="buy_space_expire">O espaço comprado expira em %s</string>
   <string name="buy_space_expire_concat">%1$s para %2$s</string>
@@ -68,16 +68,16 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão.</string>
   <string name="error_unknown">Não foi possível iniciar a sessão</string>
   <string name="find_device">Localizar dispositivo</string>
-  <string name="find_device_disabled_notice">Pode ligar ou desligar este recurso em qualquer altura nas definições da Nuvem Mi</string>
+  <string name="find_device_disabled_notice">Pode ligar ou desligar esta funcionalidade em qualquer altura nas definições da Nuvem Mi</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desligar…</string>
   <string name="find_device_dspt">Localizar, bloquear ou reiniciar o seu dispositivo remotamente</string>
-  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear ou reinicializar. Pode ligar ou desligar este recurso em qualquer altura nas Definições.
+  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições.
 "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-  <string name="find_device_dspt_provision_3">. Pode em qualquer altura ligar ou desligar este recurso nas definições.</string>
-  <string name="find_device_dspt_provision_4">Se trocar de cartão SIM, será enviada uma mensagem para reactivar este recurso.</string>
+  <string name="find_device_dspt_provision_3">. Pode em qualquer altura ligar ou desligar esta funcionalidade nas definições.</string>
+  <string name="find_device_dspt_provision_4">Se trocar de cartão SIM, será enviada uma mensagem para reactivar esta funcionalidade.</string>
   <string name="find_device_enabling">A ligar…</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente.</string>
   <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente.</string>
@@ -86,7 +86,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar o seu telefone.
-Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reactivar este recurso."</string>
+Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reactivar esta funcionalidade."</string>
   <string name="find_device_reading_status">A carregar estado…</string>
   <string name="find_device_reading_status_failure">Não foi possível carregar estado.</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço.</string>
@@ -179,7 +179,7 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_find_device_finish">Concluído</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar dispositivo</string>
   <string name="micloud_find_device_guide_content">"Quando trocar o seu cartão SIM, uma mensagem vai ser enviada automaticamente 
-  para reactivar este recurso."</string>
+  para reactivar esta funcionalidade."</string>
   <string name="micloud_find_device_guide_fail_reopen">Ligar Localizar dispositivo na Nuvem Mi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Ligação expirou. Tente novamente mais tarde.</string>
@@ -327,17 +327,17 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="mx_dspt">Mensagens Mi</string>
   <string name="mx_dspt_provision">"Mensagens Mi permitem enviar mensagens para outros dispositivos MIUI gratuitamente quando ligados ao Wi-Fi.
 
-Pode ligar ou desligar este recurso em qualquer altura nas Definições."</string>
-  <string name="mx_dspt_provision_privacy">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso.
+Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições."</string>
+  <string name="mx_dspt_provision_privacy">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade.
 
-Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de duas SMS para activar este recurso.
+Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de duas SMS para activar esta funcionalidade.
 
-Este recurso encripta e envia o ID do dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Este recurso poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar este recurso quando o cartão SIM for detectado.
+Esta funcionalidade encripta e envia o ID do dispositivo para os servidores Mi."</string>
+  <string name="mx_dspt_provision_privacy_no_sim">"Esta funcionalidade poderá necessitar do seu número de telefone. A sua operadora vai cobrar um valor adicional pelo envio de uma SMS para activar esta funcionalidade quando o cartão SIM for detectado.
 
-Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
-  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de Internet. Pode ligar ou desligar este recurso em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
+Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores Mi."</string>
+  <string name="mx_dspt_provision_with_voip">Ligar para outros dispositivos MIUI gratuitamente utilizando a sua ligação de Internet. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições. VoIP é fornecido por Weihui. Ver Política de Privacidade da Weihui.</string>
   <string name="mx_dspt_provision_with_voip2">Política de Privacidade</string>
   <string name="mx_sub_dspt_provision">Mensagens Mi</string>
   <string name="mx_sub_dspt_provision_with_voip">Chamadas pela Internet</string>
@@ -395,7 +395,7 @@ Este recurso encripta e envia o seu ID de dispositivo para os servidores Mi."</s
   <string name="sync_dspt_provision">"Sincronizar as suas fotos, contactos, notas, e mais em todos os seus dispositivos ou aceda os em "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-  <string name="sync_dspt_provision3">". Pode ligar ou desligar este recurso em qualquer altura nas Definições.
+  <string name="sync_dspt_provision3">". Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições.
 "</string>
   <string name="sync_dspt_provision_header">Sincronizar</string>
   <string name="sync_dspt_provision_title">Nuvem Mi</string>

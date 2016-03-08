@@ -160,10 +160,10 @@
   <string name="caller_id_summary">Ocultar o meu número (confirme se a sua operadora suporta esta função)</string>
   <string name="caller_id_title">ID do autor da chamada</string>
   <string name="caller_manage_header">Chamada de conferência %s</string>
-  <string name="callind">Definições dos recursos de chamadas</string>
+  <string name="callind">Definições das funcionalidades de chamadas</string>
   <string name="callind_multi_sim">Definições SUBS</string>
   <string name="calling_via_template">A telefonar via %s</string>
-  <string name="callwait_open_hint">\"Chamada em espera\" é um recurso fornecido pela sua operadora de comunicações móveis. Se receber uma notificação de erro entre em contacto com a sua operadora e certifique-se de que este recurso está activo para o seu número.</string>
+  <string name="callwait_open_hint">\"Chamada em espera\" é uma funcionalidade fornecida pela sua operadora de comunicações móveis. Se receber uma notificação de erro entre em contacto com a sua operadora e certifique-se de que esta funcionalidade está activo para o seu número.</string>
   <string name="can_not_use_for_not_data_sim">(Não é possível usar: Deve ser definido como SIM padrão de dados)</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_call">Cancelar</string>
@@ -336,10 +336,10 @@
   <string name="dialpad_star_letters"/>
   <string name="dialpad_star_number">*</string>
   <string name="disable">Desligar</string>
-  <string name="disable_all_cf">Desactivar todos os recursos de reencaminhamento de chamada</string>
-  <string name="disable_cfb_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando está ocupado.</string>
-  <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando o telefone está inacessível.</string>
-  <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando não atende.</string>
+  <string name="disable_all_cf">Desactivar todas as funcionalidades de reencaminhamento de chamada</string>
+  <string name="disable_cfb_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamada quando está ocupado</string>
+  <string name="disable_cfnrc_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando o telefone está inacessível</string>
+  <string name="disable_cfnry_forbidden">A sua operadora não suporta a desactivação do reencaminhamento de chamadas quando não atende</string>
   <string name="disable_fdn">Desactivar FDN</string>
   <string name="disable_fdn_ok">Activar FDN</string>
   <string name="disable_pin_ok">Código PIN do cartão SIM desactivo.</string>
@@ -586,7 +586,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="list_language_summary">Seleccione o idioma das notícias</string>
   <string name="list_language_title">Idioma</string>
   <string name="livetalk_about_info">About</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Os códigos curtos de números é um serviço que não é suportado neste momento. É necessário ligação à Internet para utilizar este recurso. Cada chamada utiliza 1Kb de dados móveis. Utilize uma aplicação gratuita para utilizar este serviço ou a sua operadora pode cobrar taxas adicionais por roaming.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Os códigos curtos de números é um serviço que não é suportado neste momento. É necessário ligação à Internet para utilizar esta funcionalidade. Cada chamada utiliza 1Kb de dados móveis. Utilize uma aplicação gratuita para utilizar este serviço ou a sua operadora pode cobrar taxas adicionais por roaming.)"</string>
   <string name="livetalk_activate">Activar pacotes de carregamento</string>
   <string name="livetalk_activate_number">Verificar cartão SIM</string>
   <string name="livetalk_activate_number_1">Verificar SIM 1</string>
@@ -613,9 +613,9 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="livetalk_network_confirm">OK</string>
   <string name="livetalk_network_confirm_summary">Pacotes de carregamentos utilizam cerca de 1KB de dados móveis sempre que é realizada uma chamada.</string>
   <string name="livetalk_next_step">Seguinte</string>
-  <string name="livetalk_niece_price_arrow">Este recurso está disponível em 13 países e regiões</string>
+  <string name="livetalk_niece_price_arrow">Esta funcionalidade está disponível em 13 países e regiões</string>
   <string name="livetalk_niece_price_summary">Ver tarifas internacionais para mais informações</string>
-  <string name="livetalk_niece_price_title">Este recurso ainda não está disponível</string>
+  <string name="livetalk_niece_price_title">Esta funcionalidade ainda não está disponível</string>
   <string name="livetalk_nsufficient_balance">Saldo insuficiente</string>
   <string name="livetalk_package_introduction_text">Descontos exclusivos para utilizadores MIUI. Menos consumo de dados e preços mais baixos.</string>
   <string name="livetalk_package_name">Saldo dos carregamentos</string>
@@ -997,7 +997,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="private_num">Número privado</string>
   <string name="proceed">Continuar</string>
   <string name="progress_dialog_exiting_ecm">Sair do modo de Chamada de Volta de emergência</string>
-  <string name="provision_content">Este recurso necessita de uma ligação à Internet para funcionar normalmente.</string>
+  <string name="provision_content">Esta funcionalidade necessita de uma ligação à Internet para funcionar normalmente.</string>
   <string name="provision_title">Ligação à Internet</string>
   <string name="proxy_address">Endereço Proxy</string>
   <string name="proxy_address_title">Endereço de proxy de saída</string>

@@ -13,6 +13,12 @@
   <string name="activate_feature_mx_and_voip">Mensagens e Voz Mi</string>
   <string name="activate_feature_register_xiaomi_account">Configuração de Conta Mi</string>
   <string name="activate_feature_verify_mx_token">Verificação de Conta Mi</string>
+  <string name="activate_history_cancelled">cancelado</string>
+  <string name="activate_history_multisim_overview">Activação para o cartão %3$d %1$s. É espoletada pela funcionalidade \"%2$s\".</string>
+  <string name="activate_history_overview">Activação para o cartão SIM %1$s. É espoletada pela funcionalidade \"%2$s\".</string>
+  <string name="activate_history_sms">Uma SMS foi enviada durante a activação.</string>
+  <string name="activate_history_success">com sucesso</string>
+  <string name="activate_history_title">Activação do cartão SIM</string>
   <string name="activate_phone_cancel_notif_title">Activação de cartão SIM cancelada</string>
   <string name="activate_phone_cancel_notif_title_msim">Activação de cartão SIM %s cancelada</string>
   <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
@@ -96,7 +102,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_title_activating_msim">A activar cartão SIM %s…</string>
   <string name="app_name">Serviço Xiaomi framework</string>
   <string name="error_device_id_message">"ID de Dispositivo inválido: %s
-ID do Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispositivo alguns recursos da conta e Nuvem vão ficar indisponíveis."</string>
+ID do Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispositivo algumas funcionalidades da conta e nuvem vão estar indisponíveis."</string>
   <string name="error_device_id_title">Não é possível um ID de Dispositivo válido</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
   <string name="sync_notification_title_format">A sincronizar item: %1$s</string>

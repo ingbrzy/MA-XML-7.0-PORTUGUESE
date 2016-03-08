@@ -610,7 +610,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_dialog">OK</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
-  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração. Nota: Ao desligar este recurso pode trazer grandes mudanças nos layouts e nos elementos da UI.</string>
+  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração. Nota: Ao desligar esta funcionalidade pode trazer grandes mudanças nos layouts e nos elementos da UI.</string>
   <string name="cmcc_hardware_version">Versão de hardware:</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
@@ -708,7 +708,7 @@ Para continuar a utilizar o telefone, deverá executar um restauro de fábrica. 
   <string name="data_usage_app_restrict_background">Restringir dados em segundo plano</string>
   <string name="data_usage_app_restrict_background_summary">Desactivar dados em segundo plano nas redes móveis. Será utilizado o Wi-Fi, se disponível.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Para restringir dados em segundo plano para esta aplicação, defina primeiro um limite para dados móveis.</string>
-  <string name="data_usage_app_restrict_dialog">"Este recurso pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
+  <string name="data_usage_app_restrict_dialog">"Esta funcionalidade pode fazer com que uma aplicação que depende de dados em segundo plano deixe de funcionar quando apenas estiverem disponíveis redes móveis.
 
 Poderá encontrar controlos de utilização de dados mais adequados nas definições disponíveis da aplicação."</string>
   <string name="data_usage_app_restrict_dialog_title">Restringir dados em segundo plano?</string>
@@ -2082,7 +2082,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, alguns recursos vão deixar de funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidades vão deixar de funcionar correctamente até reiniciar o telefone.</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2657,7 +2657,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="usage_type_wifi_running">Wi-Fi em execução</string>
   <string name="usb_audio_disable_routing">Desactivar encaminhamento áudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactivar encaminhamento automático para periféricos de áudio USB</string>
-  <string name="usb_charging_summary">Desligue todos os outros recursos de ligação USB para acelerar o carregamento.</string>
+  <string name="usb_charging_summary">Desligue todas as outras funcionalidades de ligação USB para acelerar o carregamento</string>
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
   <string name="usb_host_mode_subtext">Utilizar controladores de jogos e outros periféricos na porta USB pode consumir mais bateria</string>

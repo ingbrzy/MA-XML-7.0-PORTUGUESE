@@ -308,7 +308,7 @@ Verifique o seu número de registo."</string>
   <string name="payment_failed_common_problems">Ocorreu um problema durante o pagamento</string>
   <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente.</string>
   <string name="payment_unknown_status_title">Não foi possível confirmar o estado do pagamento</string>
-  <string name="phone_event_setting_notice_text">Identificação de números desconhecidos ajuda-o a entender que um fornecedor de serviços lhe telefonou ou enviou mensagem. Uma mensagem que contem a informação do fornecedor de serviços vai ser remetida para o seu telefone depois de ser verificada pela Xiaomi. Deve ler e concordar com %1$s e %2$s para utilizar este recurso.</string>
+  <string name="phone_event_setting_notice_text">Identificação de números desconhecidos ajuda-o a entender que um fornecedor de serviços lhe telefonou ou enviou mensagem. Uma mensagem que contem a informação do fornecedor de serviços vai ser remetida para o seu telefone depois de ser verificada pela Xiaomi. Deve ler e concordar com %1$s e %2$s para utilizar esta funcionalidade.</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
@@ -375,7 +375,7 @@ Total: EURO %3$s"</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tentar novamente</string>
   <string name="turn_off_hint_title">Aviso</string>
-  <string name="turn_off_phone_event_hint">Se desligar este recurso, não poderá utilizá-lo depois de desligar.</string>
+  <string name="turn_off_phone_event_hint">Se desligar esta funcionalidade, não poderá utilizá-lo depois de desligar.</string>
   <string name="turn_off_smart_antispam_hint">Desligar a protecção para chamadas de desconhecidos?</string>
   <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de números</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>

@@ -314,7 +314,7 @@
   <string name="mx_enable_ex">Mensagens Mi &amp; Voz</string>
   <string name="mx_enable_popup_msg">Mensagens Mi permite enviar mensagens grátis para outros dispositivos MIUI.</string>
   <string name="mx_filter_message_from_stranger">Bloquear Mensagens Mi de números desconhecidos</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar este recurso em qualquer altura nas Mensagens &gt; Definições."</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">"Ainda vai conseguir receber mensagens SMS de números desconhecidos. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Mensagens &gt; Definições."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bloquear Mensagens Mi de números desconhecidos</string>
   <string name="mx_filter_message_from_stranger_summary">Ainda vai conseguir receber mensagens SMS de números desconhecidos</string>
   <string name="mx_msg">Mensagens Mi</string>
@@ -398,7 +398,7 @@
   <string name="pref_title_delivery_reports">Relatórios de entrega</string>
   <string name="pref_title_festival_networking">Notificações de ligação</string>
   <string name="pref_title_fwd_sender_info">Reenviar informações do remetente</string>
-  <string name="pref_title_hide_festival">Ocultar recursos de língua chinesa</string>
+  <string name="pref_title_hide_festival">Ocultar funcionalidades da língua chinesa</string>
   <string name="pref_title_manage_sim_messages">Armazenamento do cartão SIM</string>
   <string name="pref_title_miui_card">Enviar via cartão</string>
   <string name="pref_title_mms_auto_retrieval">Transferir conteúdo MMS automaticamente</string>
@@ -626,6 +626,6 @@ Tentativas efectuadas: %s."</string>
   <string name="wild_msg_processing">A processar…</string>
   <string name="wild_msg_title">Escolher números de telefone para sincronizar</string>
   <string name="xiaomi_service_number">Número de serviço</string>
-  <string name="yellowpage_recommend_msg">Experimente os recursos das mensagens SMS da MIUI</string>
+  <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens SMS da MIUI</string>
   <string name="yes">OK</string>
 </resources>

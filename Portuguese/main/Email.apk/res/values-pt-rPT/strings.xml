@@ -10,7 +10,7 @@
   <string name="account_password_spaces_error">Essa palavra-passe inicia ou termina com um ou mais caracteres de espaço. Muitos servidores não suportam palavras-passe com espaços.</string>
   <string name="account_security_dialog_content_fmt">%s solicita que actualize as suas definições de segurança.</string>
   <string name="account_security_dialog_title">Actualização de segurança</string>
-  <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de alguns recursos de segurança do seu dispositivo Android.</string>
+  <string name="account_security_policy_explanation_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android.</string>
   <string name="account_security_title">Segurança do dispositivo</string>
   <string name="account_set_up_change_type_note">Para alterar o tipo de conta entre POP3 e IMAP, elimine a sua conta e crie uma nova com as definições desejadas.</string>
   <string name="account_settings_action">Definições de conta</string>
@@ -89,7 +89,7 @@
   <string name="account_setup_failed_ioerror">Não foi possível abrir a ligação com o servidor.</string>
   <string name="account_setup_failed_protocol_unsupported">Introduziu um endereço de servidor errado ou o servidor requer uma versão do protocolo que o Email não suporta.</string>
   <string name="account_setup_failed_security">Não foi possível abrir a ligação com o servidor devido a um erro de segurança.</string>
-  <string name="account_setup_failed_security_policies_unsupported">Este servidor pede recursos de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
+  <string name="account_setup_failed_security_policies_unsupported">Este servidor pede funcionalidades de segurança que o seu dispositivo Android não suporta, incluindo: %s</string>
   <string name="account_setup_failed_tls_required">É necessário TLS mas não é suportado pelo servidor.</string>
   <string name="account_setup_failed_too_many_partnerships">Erro na autenticação, foi atingido o número máximo de ligações ao servidor permitido.</string>
   <string name="account_setup_incoming_delete_policy_delete_label">Quando eliminar da Caixa de entrada</string>
@@ -129,7 +129,7 @@
   <string name="account_setup_outgoing_port_label">Porta</string>
   <string name="account_setup_outgoing_require_login_label">É necessário iniciar sessão</string>
   <string name="account_setup_outgoing_smtp_server_label">Servidor SMTP</string>
-  <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controlo remoto de alguns recursos de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
+  <string name="account_setup_security_policies_required_fmt">O servidor %s requer a permissão de controlo remoto de algumas funcionalidades de segurança do seu dispositivo Android. Deseja concluir a configuração desta conta?</string>
   <string name="account_setup_security_required_title">Administração de segurança remota</string>
   <string name="account_setup_server_acc_manager_title">Contas</string>
   <string name="account_setup_username_password_toast">Introduza um endereço de email e palavra-passe válida.</string>
@@ -543,8 +543,8 @@
   <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem reencaminhada serão transferidos antes do envio.</string>
   <string name="mibill_privacy_policy_button1">Não concordo</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
-  <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Este recurso está inactivo por defeito para endereços de email de empresa.</string>
-  <string name="mibill_privacy_policy_link">Ao utilizar este recurso, está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
+  <string name="mibill_privacy_policy_description">Permitir que a Carteira Mi analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactivo por defeito para endereços de email de empresa.</string>
+  <string name="mibill_privacy_policy_link">Ao utilizar esta funcionalidade, está a concordar com o nosso <a href="https://www.mipay.com/res/doc/eula/email.html">Termos de Serviço</a></string>
   <string name="mibill_privacy_policy_title">Gerir contas automaticamente</string>
   <string name="more_atts_remaining">%1$d mais restantes</string>
   <string name="more_context">Mais</string>
