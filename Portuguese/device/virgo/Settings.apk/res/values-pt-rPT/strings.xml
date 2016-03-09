@@ -570,7 +570,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Teclado</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Nome</string>
   <string name="bluetooth_preference_paired_dialog_title">Dispositivo emparelhado</string>
-  <string name="bluetooth_preference_scan_title">Pesquisar por dispositivos</string>
+  <string name="bluetooth_preference_scan_title">Pesquisar dispositivos</string>
   <string name="bluetooth_profile_a2dp">Áudio multimédia</string>
   <string name="bluetooth_profile_details">Definições de perfil</string>
   <string name="bluetooth_profile_dun">Acesso Dial-up</string>
@@ -592,7 +592,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_sap_profile_summary_connected">Ligado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
   <string name="bluetooth_sap_request">Pedido de acesso ao SIM</string>
-  <string name="bluetooth_scan_for_devices">Pesquisar por dispositivos</string>
+  <string name="bluetooth_scan_for_devices">Pesquisar dispositivos</string>
   <string name="bluetooth_search_for_devices">Actualizar</string>
   <string name="bluetooth_searching_for_devices">A pesquisar…</string>
   <string name="bluetooth_settings">Bluetooth</string>
@@ -1689,10 +1689,10 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="location_network_based">Wi-Fi e redes móveis</string>
   <string name="location_no_recent_apps">Sem aplicações</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth em qualquer altura.</string>
-  <string name="location_scanning_bluetooth_always_scanning_title">Pesquisar por Bluetooth</string>
+  <string name="location_scanning_bluetooth_always_scanning_title">Pesquisa Bluetooth</string>
   <string name="location_scanning_screen_title">A pesquisar</string>
   <string name="location_scanning_wifi_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem redes Wi-Fi em qualquer altura.</string>
-  <string name="location_scanning_wifi_always_scanning_title">Pesquisar por Wi-Fi</string>
+  <string name="location_scanning_wifi_always_scanning_title">Pesquisa Wi-Fi</string>
   <string name="location_settings_title">Localização</string>
   <string name="location_sources_heading">Fontes da localização</string>
   <string name="location_street_level">Deixar as aplicações utilizar o GPS para identificar a sua localização</string>
@@ -2322,7 +2322,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="print_restart">Reiniciar</string>
   <string name="print_search_box_hidden_utterance">Caixa de pesquisa oculta</string>
   <string name="print_search_box_shown_utterance">Caixa de pesquisa vísivel</string>
-  <string name="print_searching_for_printers">A pesquisar por impressoras</string>
+  <string name="print_searching_for_printers">A pesquisar impressoras</string>
   <string name="print_service_disabled">Serviço desactivado</string>
   <string name="print_service_security_warning_summary">O documento pode passar por um ou mais servidores no seu caminho para a impressora.</string>
   <string name="print_service_security_warning_title">Utilizar %1$s?</string>
@@ -3617,7 +3617,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wfd_disconnect_multiple_diag_message">Desligar de %1$s e %2$s outros dispositivos?</string>
   <string name="wfd_enable_wifi_diag_title">Ligar Wi-Fi?</string>
   <string name="wfd_enabler_title">Visualização sem fios</string>
-  <string name="wfd_menu_search">Pesquisar por dispositivos</string>
+  <string name="wfd_menu_search">Pesquisar dispositivos</string>
   <string name="wfd_menu_searching">A pesquisar…</string>
   <string name="wfd_menu_teardown">Parar</string>
   <string name="wfd_settings_description">Ligar a um ecrã através de Wi-Fi</string>
@@ -3725,7 +3725,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
-  <string name="wifi_fail_to_scan">Não é possível pesquisar por redes</string>
+  <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
   <string name="wifi_failed_connect_message">Erro ao ligar à rede</string>
   <string name="wifi_failed_forget_message">Não conseguiu esquecer rede</string>
   <string name="wifi_failed_save_message">Erro ao guardar a rede</string>
@@ -3787,7 +3787,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
   <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>
   <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
-  <string name="wifi_p2p_menu_search">Pesquisar por dispositivos</string>
+  <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
   <string name="wifi_p2p_menu_searching">A pesquisar…</string>
   <string name="wifi_p2p_peer_devices">Dispositivos P2P</string>
   <string name="wifi_p2p_persist_network">Guardar esta ligação</string>
