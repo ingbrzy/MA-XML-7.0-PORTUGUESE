@@ -6,7 +6,7 @@
   <string name="activate_number_change_dialog_message">Escolher um número de telefone que vai ser visível para outros dispositivos quando telefonar via VoIP.</string>
   <string name="activating">A activar…</string>
   <string name="alert_notif_title_dspt">Não está a sincronizar</string>
-  <string name="antispam_sync">Definições de Não incomodar</string>
+  <string name="antispam_sync">Definições de Não Incomodar</string>
   <string name="app_name">Nuvem Mi</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Serviço Nuvem Apple</string>
@@ -18,7 +18,7 @@
   <string name="buy_more_space_b_class">Iniciar sessão em mi.com/micloud para obter mais espaço de armazenamento.
 É necessário um cartão bancário de Mainland China para comprar espaço de armazenamento adicional."</string>
   <string name="buy_more_space_c_class">Esta funcionalidade necessita dum cartão bancário de Mainland China.
-Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
+Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="buy_space_expire">O espaço comprado expira em %s</string>
   <string name="buy_space_expire_concat">%1$s para %2$s</string>
   <string name="buy_space_sulotion_auto_renew">Renovar automaticamente</string>
@@ -31,18 +31,18 @@ Para obter mais espaço de armazenamento visite mi.com/micloud.</string>
   <string name="click_to_enabled">Toque para sincronizar.</string>
   <string name="cloud_back_up_button_ok">Forçar paragem</string>
   <string name="cloud_back_up_close_info">Toque para fazer cópia de segurança</string>
-  <string name="cloud_back_up_dialog_content">"Interromper cópia de segurança em curso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações."</string>
-  <string name="cloud_back_up_network_unavailable">"Não foi possível remover é necessário uma ligação à rede Wi-Fi. Tente novamente mais tarde."</string>
-  <string name="cloud_back_up_open_info">"Fazer cópia quando se ligar ao Wi-Fi uma vez a cada %1$s
+  <string name="cloud_back_up_dialog_content">Interromper cópia de segurança em curso? Se interromper agora não poderá usar esta cópia de segurança para restaurar aplicações</string>
+  <string name="cloud_back_up_network_unavailable">Não foi possível remover. É necessário uma ligação ao Wi-Fi. Tente novamente mais tarde</string>
+  <string name="cloud_back_up_open_info">"Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s
 Última cópia: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando se ligar ao Wi-Fi uma vez a cada %1$s</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Fazer cópia quando ligado ao Wi-Fi uma vez a cada %1$s</string>
   <string name="cloud_back_up_remove_success">Cópia de segurança eliminada</string>
   <string name="cloud_back_up_summary">Copiar quando se ligar ao Wi-Fi</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
   <string name="cloud_find_device">Localizar dispositivo</string>
   <string name="cloud_restore_title">Restaurar dados da cópia</string>
-  <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua Nuvem.</string>
+  <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua nuvem.</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
   <string name="cloud_space_upgrade_title">Mais espaço para a Nuvem Mi</string>
   <string name="cloudservice_new_sync">Sincronizar %s com Nuvem Mi</string>
@@ -143,7 +143,7 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_confusion_cancel">Cancelar</string>
   <string name="micloud_confusion_check_account_title">Inicie sessão na sua Conta Mi para reactivar a Nuvem Mi.</string>
   <string name="micloud_confusion_entrance_hint">Não inicie sessão na sua Conta Mi em dispositivos públicos</string>
-  <string name="micloud_confusion_entrance_notify_text">Toque para ver detalhes.</string>
+  <string name="micloud_confusion_entrance_notify_text">Toque para ver detalhes</string>
   <string name="micloud_confusion_entrance_notify_title">Outro dispositivo está a modificar a sua conta</string>
   <string name="micloud_confusion_entrance_question">Mudou recentemente a sua Conta Mi utilizando um %s?</string>
   <string name="micloud_confusion_entrance_title">Data modificada</string>
@@ -175,7 +175,7 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_detail_wlan_contact">%d fotos de contactos aguardam sincronização</string>
   <string name="micloud_detail_wlan_mms">%d MMS aguardam sincronização</string>
   <string name="micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados e localizar o seu dispositivo,</string>
-  <string name="micloud_dspt_provision">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos.</string>
+  <string name="micloud_dspt_provision">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_find_device_finish">Concluído</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar dispositivo</string>
   <string name="micloud_find_device_guide_content">"Quando trocar o seu cartão SIM, uma mensagem vai ser enviada automaticamente 
@@ -209,16 +209,16 @@ Para corrigir esta situação pode eliminar alguns ficheiros para libertar espa�
   <string name="micloud_full_influence_title">Quando a Nuvem Mi está cheia…</string>
   <string name="micloud_main_battery_low">Sem bateria suficiente para sincronizar</string>
   <string name="micloud_main_battery_message">"Ligue o seu dispositivo a um carregador para sincronizar
-%d dados"</string>
+%d itens"</string>
   <string name="micloud_main_clear_now">Limpo</string>
   <string name="micloud_main_data_unsynced">%d aguardam sincronização</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_last_sync_time">Última sincronização foi %s</string>
-  <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns dados que armazenou na Nuvem.</string>
+  <string name="micloud_main_memory_low_message">Para sincronizar elimine alguns itens que armazenou na Nuvem.</string>
   <string name="micloud_main_memory_low_title">Sem espaço de armazenamento suficiente</string>
-  <string name="micloud_main_message_not_synced">%s dado(s) não sincronizado(s)</string>
-  <string name="micloud_main_network_abnormal">Não é possível ligação à rede</string>
-  <string name="micloud_main_network_error">Não é possível ligação à rede</string>
+  <string name="micloud_main_message_not_synced">%s dados não sincronizados</string>
+  <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
+  <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_set_internet">Rede</string>
   <string name="micloud_main_space_full">Armazenamento na Nuvem está cheio</string>
   <string name="micloud_main_space_full_title">Armazenamento na Nuvem está cheio</string>
@@ -262,12 +262,14 @@ Toque nas definições de sincronização para ver mais opções."</string>
   <string name="micloud_member_webload_fail_toast_4xx">Não foi possível carregar a página</string>
   <string name="micloud_member_webload_fail_toast_5xx">Erro de servidor</string>
   <string name="micloud_more">Saber mais</string>
+  <string name="micloud_notif_content_clipboard_push">Pode colar em qualquer lado</string>
   <string name="micloud_notif_content_battery_low">Bateria está muito fraca</string>
   <string name="micloud_notif_content_depend_wifi">Ligar ao Wi-Fi para sincronizar</string>
   <string name="micloud_notif_content_master_depend_wifi">Ligar primeiro ao Wi-Fi</string>
   <string name="micloud_notif_content_memory_low">Sem espaço de armazenamento suficiente</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o seu dispositivo agora</string>
   <string name="micloud_notif_title_battery_low">Não é possível sincronizar com a Nuvem Mi</string>
+  <string name="micloud_notif_title_clipboard_push">Conteúdo copiado para a área de transferências</string>
   <string name="micloud_notif_title_depend_wifi">%d a aguardar para sincronizar</string>
   <string name="micloud_notif_title_master_depend_wifi">Não é possível sincronizar com a Nuvem Mi</string>
   <string name="micloud_notif_title_memory_low">Não é possível sincronizar com a Nuvem Mi</string>
@@ -350,8 +352,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="phone_number_may_required_dspt_provision">"Este serviço pode necessitar do seu número de telefone. "</string>
   <string name="phone_number_required_dspt_provision">"Este serviço necessita do seu número de telefone. "</string>
   <string name="photo">Fotos</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">"Apenas sincronizar as fotos de perfil dos contactos quando se ligar a uma rede Wi-Fi"</string>
-  <string name="pref_summary_sync_video_on_wifi_only">"Apenas sincronizar os perfis de vídeo dos contactos quando se ligar a uma rede Wi-Fi"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Apenas sincronizar as fotos de perfil dos contactos quando estiver ligado a uma rede Wi-Fi</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Apenas sincronizar os perfis de vídeo dos contactos quando estiver ligado a uma rede Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="pref_title_sync_video_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar vídeos</string>
@@ -381,7 +383,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sub_alert_notif_dspt_add">%s aguardam sincronização.</string>
   <string name="sub_alert_notif_dspt_no">Sincronizado</string>
   <string name="sub_alert_notif_title">A Nuvem Mi não está a sincronizar</string>
-  <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens com fotos, áudio ou outro tipo de multimédia quando se ligar a uma rede Wi-Fi</string>
+  <string name="sub_sync_item_sms_summary">Apenas sincronizar mensagens com fotos, áudio ou outro tipo de multimédia quando estiver ligado a uma rede Wi-Fi</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilizar apenas Wi-Fi para sincronizar MMS</string>
   <string name="success_upgraded_space">%s adicionado</string>
   <string name="sync_dspt">Sincronizar</string>

@@ -9,36 +9,36 @@
         <item quantity="one">1 aplicação pode mostrar notificações</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Está agora a %1$d passos de ser um programador.</item>
-        <item quantity="one">Está agora a %1$d passo de ser um programador.</item>
+        <item quantity="other">Está agora a %1$d passos de ser um programador</item>
+        <item quantity="one">Está agora a %1$d passo de ser um programador</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">%1$d impressões digitais configuradas</item>
         <item quantity="one">%1$d impressão digital configurada</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d números.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um número.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d números</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um número</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
     </plurals>
     <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d aplicações providenciam condições</item>
@@ -82,18 +82,18 @@
         <item quantity="one">1 aplicação utilizou a memória nos(as) últimos(as) %2$s</item>
     </plurals>    
     <plurals name="show_pho_countdown">
-        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone.</item>
-        <item quantity="one">Está a %1$d passo de entrar nas informações do telefone.</item>
+        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
+        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Está a %1$d passos de entrar em modo de diagnóstico.</item>
-        <item quantity="one">Está a %1$d passo de entrar em modo de diagnóstico.</item>
+        <item quantity="other">Está a %1$d passos de entrar em modo de diagnóstico</item>
+        <item quantity="one">Está a %1$d passos de entrar em modo de diagnóstico</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">Está a %1$d passos de enviar relatório de erros</item>
-        <item quantity="one">Está a %1$d passo de enviar relatório de erros</item>
+        <item quantity="other">Está a %1$d passos de reportar erros</item>
+        <item quantity="one">Está a %1$d passo de reportar erros</item>
     </plurals>
-	<plurals name="auto_disable_screenbuttons_enabled_header_title">
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>
         <item quantity="one">Desactivar sempre para 1 aplicação</item>
     </plurals>

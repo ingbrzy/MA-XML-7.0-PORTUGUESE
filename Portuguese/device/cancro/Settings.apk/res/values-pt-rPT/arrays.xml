@@ -167,7 +167,7 @@
         <item>Nenhum</item>
         <item>Manual</item>
         <item>Config. autom. do proxy</item>
-    </string-array>    
+    </string-array>
     <string-array name="apn_auth_entries">
         <item>Nenhuma</item>
         <item>PAP</item>
@@ -223,7 +223,7 @@
         <item>modificar calendário</item>
         <item>pesquisa de wi-fi</item>
         <item>notificação</item>
-        <item>pesquisa telemóvel</item>
+        <item>pesquisa móvel</item>
         <item>ligar para telefone</item>
         <item>ler SMS</item>
         <item>escrever SMS</item>
@@ -302,7 +302,7 @@
         <item>Volume de multimédia</item>
         <item>Volume do alarme</item>
         <item>Volume de notificações</item>
-        <item>Volume de bluetooth</item>
+        <item>Volume de Bluetooth</item>
         <item>Manter activo</item>
         <item>Localização</item>
         <item>Localização</item>
@@ -325,7 +325,7 @@
         <item>Sans-serif condensado</item>
         <item>Monoespaço Sans-serif</item>
         <item>Serif</item>
-        <item>Monoespaço serif</item>
+        <item>Monoespaço Serif</item>
         <item>Ocasionais</item>
         <item>Cursivo</item>
         <item>Maiúsculas pequenas</item>
@@ -351,7 +351,7 @@
         <item>Preto em branco</item>
         <item>Amarelo em preto</item>
         <item>Amarelo em azul</item>
-        <item>Personalizar</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Mem. int. 64K p rg.</item>
@@ -648,7 +648,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Redução de ruído com um micro</item>
-        <item>Redução de ruído com os dois micros</item>
+        <item>Redução de ruído com um micro</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Desbloquear com o rosto</item>

@@ -73,7 +73,6 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="account_list">Outras contas</string>
   <string name="account_settings">Contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
-  <string name="activate_miui_screensaver">Protecção de ecrã durante suspensão</string>
   <string name="activating">A activar…</string>
   <string name="active_device_admin_msg">Administrador do dispositivo</string>
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
@@ -112,8 +111,6 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="agps_roaming_summary">Utilizar dados móveis para auxiliar o GPS quando em roaming</string>
   <string name="airplane_mode">Modo de Avião</string>
   <string name="alarm_volume_title">Alarme</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Mostrar protecção de ecrã vai consumir energia adicional da bateria</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Utilização de bateria</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra.</string>
@@ -1545,12 +1542,6 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</
   <string name="miui_allow_music">Multimédia</string>
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
-  <string name="miui_screensaver_show_time">Duração</string>
-  <string name="miui_screensaver_show_time_select_title">Definir a duração de apresentação de diapositivos</string>
-  <string name="miui_screensaver_state_off">Desligado</string>
-  <string name="miui_screensaver_state_on">Ligado</string>
-  <string name="miui_screensaver_title">Protecção de ecrã</string>
-  <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
   <string name="mobile_connect_to_internet">Por favor, active a ligação à Internet</string>
@@ -1707,7 +1698,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher.</string>
-  <string name="only_when_charging">Apenas quando estiver a carregar</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O dispositivo vai reiniciar para aplicar esta alteração.</string>
@@ -1797,7 +1787,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pico_not_installed">Não instalado</string>
   <string name="pico_voice_summary_female">Feminino</string>
   <string name="pico_voice_summary_male">Masculino</string>
-  <string name="picture_source">Fotos</string>
   <string name="pin_failed">A operação PIN do SIM falhou!</string>
   <string name="ping_test_label">Executar teste de ping</string>
   <string name="please_select_phase2">Autenticação da Fase 2</string>

@@ -101,7 +101,7 @@
   <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
   <string name="callrecordview_item_op_video">Vídeo</string>
   <string name="callrecordview_menu_add_call_note">Adicionar nota de chamada</string>
-  <string name="callrecordview_menu_batch_delete">Seleccionar e eliminar registos de chamadas</string>
+  <string name="callrecordview_menu_batch_delete">Eliminar registos de chamadas</string>
   <string name="callrecordview_menu_conference">Chamada em conferência</string>
   <string name="callrecordview_menu_delete">Eliminar registo de chamadas</string>
   <string name="callrecordview_menu_delete_accepted">Limpar registos das chamadas atendidas</string>
@@ -612,7 +612,7 @@ Motivo: \"%s\""</string>
   <string name="menu_new_contact_action_bar">Novo</string>
   <string name="menu_new_favorite_action_bar">Adicionar aos favoritos</string>
   <string name="menu_new_group_action_bar">Novo</string>
-  <string name="menu_not_redirect_calls_to_vm">O Voice Mail não está activo</string>
+  <string name="menu_not_redirect_calls_to_vm">O Voice Mail não a ser utilizado</string>
   <string name="menu_redirect_calls_to_vm">Todas as chamadas para o Voice Mail</string>
   <string name="menu_removeStar">Remover dos favoritos</string>
   <string name="menu_search">Pesquisar</string>
@@ -680,7 +680,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_save_alertdialog_message">O seu cartão vai ser enviado para este contacto automaticamente.</string>
   <string name="miprofile_save_alertdialog_title">Cartão de contacto recebido</string>
   <string name="miprofile_switch_off_alertdialog_message">Não vai poder trocar cartões de contacto com outras pessoas</string>
-  <string name="miprofile_switch_on_alertdialog_message">Trocar cartões de contacto para ver fotos de perfil actualizadas.</string>
+  <string name="miprofile_switch_on_alertdialog_message">Trocar cartões de contacto para ver fotos de perfil actualizadas</string>
   <string name="miprofile_switch_on_alertdialog_positive">Ligar</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualizar foto de perfil</string>
   <string name="missing_name">(Sem nome)</string>
@@ -828,7 +828,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="phone_primary">Primário</string>
   <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone.</string>
   <string name="photo_fragment">Foto</string>
-  <string name="photo_load_failed">"Não foi possível carregar foto"</string>
+  <string name="photo_load_failed">Não foi possível carregar foto</string>
   <string name="pick_new_photo">Seleccionar nova foto da galeria</string>
   <string name="pick_photo">Escolher foto da galeria</string>
   <string name="pickerNewContactHeader">Criar novo contacto</string>
@@ -887,7 +887,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
-  <string name="preference_simple_mode_description">Mostrar fotos e outras informações de contacto na lista de contactos</string>
+  <string name="preference_simple_mode_description">Mostrar fotos e outras informações de contacto em vista de lista</string>
   <string name="preference_simple_mode_title">Mostrar fotos e informações</string>
   <string name="preference_smart_group_company_summary">Agrupar por empresa</string>
   <string name="preference_smart_group_company_title">Empresas</string>
@@ -980,7 +980,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="separatorJoinAggregateSuggestions">Contactos sugeridos</string>
   <string name="service_provider">Directoria</string>
   <string name="set_default">Definir predefinido</string>
-  <string name="set_photo_failed_msg">Não foi possível atribuir imagem.</string>
+  <string name="set_photo_failed_msg">Não foi possível atribuir imagem</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
   <string name="share_over_limit">Mais de 1000, não pode ser partilhado</string>
   <string name="share_via">Enviar via</string>
@@ -999,8 +999,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sim_capacity_content" formatted="false">%d total | %d utilizado</string>
   <string name="sim_card_no_free_space_message">Não há espaço suficiente</string>
   <string name="sim_card_no_free_space_title">Cartão SIM cheio</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Desmarcar tudo</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Seleccionar todos</string>
   <string name="sim_contact_existing">O contacto já existe</string>
   <string name="sim_contact_invalid">Contacto do SIM inválido</string>
   <string name="sim_contact_search_error">Ocorreu um erro</string>

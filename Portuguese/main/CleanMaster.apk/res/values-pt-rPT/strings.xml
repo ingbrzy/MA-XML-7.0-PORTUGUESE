@@ -87,15 +87,15 @@
   <string name="conn_of_function_safe">Ligação de rede para segurança</string>
   <string name="connecting">A ligar…</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
-  <string name="deepclean_apk_summary_empty">Verificação concluída. Não foram encontrados APKs</string>
+  <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>
   <string name="deepclean_app_content">Desinstalar aplicações não utilizadas em 30 dias</string>
-  <string name="deepclean_app_summary_empty">Verificação concluída. Não foram encontradas aplicações com mais de 30 dias sem utilização</string>
+  <string name="deepclean_app_summary_empty">Verificação concluída. Sem aplicações para eliminar​</string>
   <string name="deepclean_cache_content">Limpar dados gerados pelas aplicações</string>
   <string name="deepclean_cache_header_left">Ficheiros de dados: %d</string>
-  <string name="deepclean_cache_summary_empty">Verificação concluída. Não foram encontrados dados gerados por aplicações desinstaladas</string>
+  <string name="deepclean_cache_summary_empty">Verificação concluída. Sem dados para limpar</string>
   <string name="deepclean_large_content">Eliminar ficheiros maiores que 10MB</string>
-  <string name="deepclean_large_summary_empty">Verificação concluída. Não foram encontrados ficheiros maiores que 10MB</string>
+  <string name="deepclean_large_summary_empty">Verificação concluída. Sem ficheiros para eliminar</string>
   <string name="deepclean_list_item_from_app">Loja de Aplicações</string>
   <string name="deepclean_list_item_from_dcim_thumbnails">Miniaturas</string>
   <string name="deepclean_list_item_from_download">Transferências</string>
@@ -104,7 +104,7 @@
   <string name="deepclean_list_item_from_music">Música</string>
   <string name="deepclean_list_item_from_sdcard">Cartão SD</string>
   <string name="deepclean_similar_ignore">Ignorar</string>
-  <string name="deepclean_similar_summary_empty">Verificação concluída. Não foram encontradas fotos</string>
+  <string name="deepclean_similar_summary_empty">Verificação concluída. Sem fotos para eliminar​</string>
   <string name="deepclean_size_summary_less">Sem espaço suficiente</string>
   <string name="deepclean_size_summary_more">Espaço de armazenamento disponível suficiente</string>
   <string name="deepclean_size_summary_normal">Espaço de armazenamento disponível</string>
@@ -226,7 +226,7 @@
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
   <string name="month_day_format">MMM dd</string>
-  <string name="msg_cleanup_db_update_checking">A verificar actualizações…</string>
+  <string name="msg_cleanup_db_update_checking">A verificar por actualizações…</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualização desconhecida</string>
   <string name="msg_update_error_code_already_running">A actualizar…</string>
   <string name="msg_update_error_code_network_error">Não é possível ligar à rede</string>
@@ -239,7 +239,7 @@
   <string name="net_assistant_detail">Utilizado %1$s, poupado %2$s</string>
   <string name="net_assistant_title">Utilizado %s de dados móveis este mês</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
-  <string name="no_network">Não é possível ligação à rede. Tente mais tarde.</string>
+  <string name="no_network">Não é possível ligar à rede. Tente mais tarde.</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="notification_summary_after_auto_cleanup">Limpo %s.</string>
   <string name="notification_summary_of_apps_cleanup">Aplicações não utilizadas estão a tirar %s de armazenamento</string>
@@ -266,7 +266,7 @@
   <string name="pref_summary_garbage_cleanup_check_size">Limpar automaticamente quando o lixo atinge um determinado tamanho</string>
   <string name="pref_summary_garbage_cleanup_check_time">Agendar uma rotina de limpeza</string>
   <string name="pref_summary_garbage_process_mode">Definir notificações quando a limpeza está em execução</string>
-  <string name="pref_summary_open_optimizer_cloud_scan">Carregar e comparar os nomes de ficheiros desconhecidos com as definições online</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Carregar e comparar os nomes dos ficheiros desconhecidos com as definições online</string>
   <string name="pref_summary_open_optimizer_memory_scan">Verificar e limpar automaticamente a memória</string>
   <string name="pref_title_apps_check_size">Limite de espaço de armazenamento</string>
   <string name="pref_title_apps_check_time">Frequência</string>
