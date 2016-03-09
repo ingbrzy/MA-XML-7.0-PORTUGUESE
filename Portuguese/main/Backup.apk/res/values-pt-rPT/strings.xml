@@ -284,13 +284,13 @@ Toque [Sou um destinatário] para criar um código QR"</string>
   <string name="trans_receiver_time_remained">"%s restantes. Mantenha o dispositivo carregado.
 Não desligue o Ponto de Acesso Wi-Fi. 
 Mantenha ambos os dispositivos perto um do outro."</string>
-  <string name="trans_receiving_completed">Dados recebidos</string>
+  <string name="trans_receiving_completed">Recebido com sucesso</string>
   <string name="trans_restoring">A restaurar…</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
   <string name="trans_retry">Repetir</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR utilizando dispositivo novo</string>
-  <string name="trans_select_data">Escolher dados</string>
+  <string name="trans_select_data">Seleccionar itens a enviar</string>
   <string name="trans_select_data_no_space">"%s disponível no novo dispositivo
 Seleccione ficheiros novamente ou liberte espaço"</string>
   <string name="trans_select_data_tips">"Seleccionar itens para transferir
@@ -305,7 +305,7 @@ A aguardar que o dispositivo antigo se ligue…"</string>
   <string name="trans_sender_time_remained">"%s restantes. Mantenha o dispositivo carregado.
 Não desligue o Wi-Fi. 
 Mantenha ambos os dispositivos perto um do outro."</string>
-  <string name="trans_sending_completed">Dados enviados</string>
+  <string name="trans_sending_completed">Enviado com sucesso</string>
   <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
   <string name="trans_start_failed_message">Erro ao iniciar. Repita ou reinicie e tente novamente</string>

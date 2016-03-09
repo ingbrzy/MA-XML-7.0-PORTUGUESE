@@ -216,7 +216,7 @@
   <string name="hints_virus_scan_result_descx">Esta aplicação é um grande risco para a segurança do seu telefone.</string>
   <string name="history_details_title">Detalhes do histórico</string>
   <string name="info_and_call">Chamadas e mensagens</string>
-  <string name="install_title">Instalar via computador</string>
+  <string name="install_title">Instalar via USB</string>
   <string name="item_app_permission">Permissões de aplicação</string>
   <string name="item_dev_mode">Opções de programador</string>
   <string name="item_install_monitor">Monitor de instalação</string>
@@ -271,7 +271,7 @@
   <string name="menu_text_power_manager">Utilização de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
-  <string name="monitor_requests_from_pc">Gerir a instalação de aplicações utilizando o computador</string>
+  <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="month_report_month_report_switch">Mostrar relatório mensal</string>
   <string name="never">1 vez</string>
   <string name="notification_button_text_of_low_memory">Limpar</string>
@@ -280,8 +280,8 @@
   <string name="notification_title_firewall_blocked">Bloqueado</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
-  <string name="pc_install_manager">Gestor de instalações</string>
-  <string name="pc_to_phone_install">Instalação bloqueada de %s do computador</string>
+  <string name="pc_install_manager">Instalar via USB</string>
+  <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Aceitar</string>
   <string name="permission_action_prompt">Notificar</string>
@@ -490,7 +490,7 @@
   <string name="recently_reject_message_one">Rejeitados %1$s pedidos de instalação</string>
   <string name="reject_all">Restringir tudo</string>
   <string name="reject_countdown">Negar (%d)</string>
-  <string name="reject_usb_install">Foi negado o acesso para instalar estas aplicações utilizando o computador</string>
+  <string name="reject_usb_install">Foi negada a instalação destas aplicações via USB</string>
   <string name="risk_list_header_title">%d aplicações suspeitas detectadas</string>
   <string name="root_apply_step_1">Conceder acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder acesso root às aplicações pode causar instabilidade no dispositivo</string>
@@ -613,6 +613,6 @@
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Manter activo</string>
   <string name="usage_type_wifi_running">Wi-Fi em utilização</string>
-  <string name="usb_install_desc">Instalar esta aplicação utilizando o computador?</string>
+  <string name="usb_install_desc">Instalar esta aplicação via USB?</string>
   <string name="virus_list_header_title">%d vírus detectados</string>
 </resources>

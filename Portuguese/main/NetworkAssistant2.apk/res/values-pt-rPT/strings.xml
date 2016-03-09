@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_miservice_dialog_content">"%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros."</string>
-  <string name="add_miservice_dialog_title">Serviço Framework MIUI</string>
+  <string name="add_miservice_dialog_content">%s necessita que adicione o serviço de Framework MIUI à lista de excepções. Pode receber notificações de aplicações MIUI embutidas e outras aplicações de terceiros</string>
+  <string name="add_miservice_dialog_title">Serviço FrameWork MIUI</string>
   <string name="add_to_whitelist_button">Excepções de dados em roaming</string>
   <string name="add_white_list">Adicionar</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Actualizado há mais de um mês</string>
@@ -32,16 +32,16 @@
   <string name="connect_internet_by_mobiledata">Ligação de dados móveis</string>
   <string name="connect_internet_by_usbshare">Internet partilhada por USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
-  <string name="current_network_state_not_need_diagnose">Ligação à Internet está a funcionar.</string>
+  <string name="current_network_state_not_need_diagnose">Ligação à Internet está normal</string>
   <string name="daily_limit_and_lock_screen">Limite de dados e notificações</string>
-  <string name="daily_limit_network_available_body">Toque para ver as estatísticas de utilização de dados.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os dados móveis.</string>
+  <string name="daily_limit_network_available_body">Toque para ver as estatísticas de utilização de dados</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ligar os dados móveis</string>
   <string name="daily_limit_over_message">Excedeu o limite diário de dados</string>
   <string name="daily_pkg_traffic">Limite de utilização mensal</string>
   <string name="data_network_blocked_notification_title">Sem ligação à Internet</string>
   <string name="data_usage_correction_timeout_body">Toque para actualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Sincronização da utilização de dados expirou</string>
-  <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização do seu pacote de dados. Se exedeu o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="data_usage_disabled_dialog">Já atingiu o limite de utilização do seu pacote de dados. Se exedeu o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="data_usage_disabled_dialog_enable">Ligar dados</string>
   <string name="data_usage_leisure_warning_body">Toque para ver os detalhes da utilização de dados.</string>
   <string name="data_usage_leisure_warning_title">Limite de utilização de dados</string>
@@ -54,7 +54,7 @@
   <string name="data_usage_no_total_package_title">Definir um limite de utilização de dados</string>
   <string name="data_usage_restricted_body">Toque para ligar dados em segundo plano.</string>
   <string name="data_usage_restricted_title">Dados em segundo plano restringidos</string>
-  <string name="data_usage_warning_body">Toque para ver detalhes de utilização de dados.</string>
+  <string name="data_usage_warning_body">Toque para ver detalhes de utilização de dados</string>
   <string name="data_usage_warning_title">Aviso de utilização de dados</string>
   <string name="datausage_ignore_app_list_count">A ignorar utilização de dados de %d aplicações</string>
   <string name="datausage_purchase_backto_ns">Voltar</string>
@@ -80,7 +80,7 @@
   <string name="datausage_purchase_pkglist_servererror">Algo está errado com o servidor.</string>
   <string name="datausage_purchase_result_failed">Não foi possível comprar dados. Verifique com a sua operadora para mais informações sobre o assunto.</string>
   <string name="datausage_purchase_result_ok">"Acabou de comprar %s
- Para mais informações, verifique a mensagem que recebeu da sua operadora"</string>
+Para mais informações, verifique a mensagem que recebeu da sua operadora"</string>
   <string name="datausage_purchase_time_in">" em "</string>
   <string name="datausage_purchase_title_confirm">Detalhes da compra</string>
   <string name="datausage_purchase_title_order">Comprar dados</string>
@@ -117,7 +117,7 @@
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s foi restringido de utilizar %2$s redes</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
-  <string name="force_stop_dlg_text">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi.</string>
+  <string name="force_stop_dlg_text">Se restringir os dados móveis em segundo plano, algumas aplicações e serviços não vão funcionar. Excepto com uma ligação à rede Wi-Fi</string>
   <string name="force_stop_dlg_title">Restringir dados em segundo plano</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="free_time_traffic">Limite de dados no período de menor tráfego</string>
@@ -137,7 +137,7 @@
   <string name="input_used_max_hint">Introduzir utilização de dados (menos de %s)</string>
   <string name="international_roaming_setting">Dados em roaming</string>
   <string name="international_roaming_whitelist_count">%d aplicações podem utilizar dados móveis em roaming</string>
-  <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema use um endereço IP estático.</string>
+  <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Vazio</string>
@@ -248,17 +248,17 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="network_speed_for_apps_others">Outros</string>
   <string name="network_speed_for_apps_title">Ligação</string>
   <string name="network_speed_for_apps_total">Velocidade da ligação</string>
-  <string name="networkchanged_exception_summary">Ligação de rede foi alterada. Por favor teste novamente.</string>
+  <string name="networkchanged_exception_summary">Ligação de rede foi alterada. Por favor teste novamente</string>
   <string name="networkchanged_exception_title">Ligação alterada</string>
   <string name="none_mi_service_app_detail">Vazio</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal.</string>
   <string name="notify_daily_limit_body">Toque para definir limite de dados.</string>
   <string name="notify_daily_limit_title">Utilizados %s hoje</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s utilizados %2$s hoje</string>
-  <string name="notify_month_traffic_body">Defina um limite de consumo de dados para não exceder o valor mensal subscrito no seu plano de dados.</string>
+  <string name="notify_month_traffic_body">Defina um limite de consumo de dados para não exceder o valor mensal subscrito no seu plano de dados</string>
   <string name="notify_month_traffic_title">Utilizados %s este mês</string>
   <string name="notify_month_traffic_title_for_slotnum">%1$s utilizados %2$s este mês</string>
-  <string name="notify_weekly_traffic_body">Para limitar o consumo de dados automaticamente defina um plano de dados mensal.</string>
+  <string name="notify_weekly_traffic_body">Para limitar o consumo de dados automaticamente defina um plano de dados mensal</string>
   <string name="notify_weekly_traffic_title">Utilizados %s esta semana</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilizados %2$s esta semana</string>
   <string name="ok_button">OK</string>
@@ -273,8 +273,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="other_exception_title">A verificar por outros problemas</string>
   <string name="package_change_notification_summary">Toque para saber mais</string>
   <string name="package_change_notification_title">Ajustar limite de dados automaticamente</string>
-  <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados.</string>
-  <string name="package_setted_error_notification_titile">"Não foi possível definir plano de dados"</string>
+  <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
+  <string name="package_setted_error_notification_titile">Não foi possível definir plano de dados</string>
   <string name="pay_charge">Comprar dados adicionais</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="permission_exception_summary">Algumas aplicações não têm permissão para ligar à Internet</string>
@@ -365,9 +365,9 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_prompt_traffic_purchase_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para obter mais informação sobre as opções de compra de dados.</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
-  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo.</string>
+  <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
   <string name="reach_daily_limit_value_body">Reduzir a sua utilização de dados móveis.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Toque para ligar economizador de dados.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Toque para ligar Economizador de Dados.</string>
   <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>
   <string name="read_number">86 artigos</string>
   <string name="read_unit">" artigos"</string>
@@ -401,7 +401,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sim_location_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
   <string name="sim_location_error_notify_message">Toque para alterar localização do SIM.</string>
   <string name="sim_location_error_notify_title">Erro cartão SIM</string>
-  <string name="sim_state_exception_summary">O estado do cartão SIM indica que pode existir algum problema com o seu cartão SIM.</string>
+  <string name="sim_state_exception_summary">O estado do cartão SIM indica que pode existir algum problema com o seu cartão SIM</string>
   <string name="songs_number">18 músicas</string>
   <string name="songs_unit">" músicas"</string>
   <string name="sorted_button">Ordenar por</string>
@@ -470,25 +470,25 @@ Passou dados extra"</string>
   <string name="traffic_correction_start_correction">A conversar com os servidores da operadora…</string>
   <string name="traffic_correction_start_correction_failed">Pedido falhou, por favor, verifique as configurações da operadora</string>
   <string name="traffic_correction_success">Utilização de dados actualizada</string>
-  <string name="traffic_correction_success_notify_message">Toque para ver detalhes.</string>
+  <string name="traffic_correction_success_notify_message">Toque para ver detalhes</string>
   <string name="traffic_limit_error_alert_body">Os seus dados restantes para este mês (%1$s) são maiores que o seu plano mensal (%2$s). Marcar dados extra como pacote de carregamento?</string>
   <string name="traffic_limit_error_alert_package">"
 
 Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
-  <string name="traffic_over_purchase_body">Toque para ver detalhes.</string>
+  <string name="traffic_over_purchase_body">Toque para ver detalhes</string>
   <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Poderá ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Limite de dados excedido</string>
-  <string name="traffic_protection_data_usage_summary">Definir os avisos de utilização de dados para evitar exceder o limite de dados do seu plano mensal contratado com a operadora.</string>
+  <string name="traffic_protection_data_usage_summary">Definir avisos de utilização de dados para evitar exceder os limites de dados do seu plano mensal contratado com a operadora</string>
   <string name="traffic_protection_label">Aviso de utilização de dados</string>
   <string name="traffic_protection_next">Seguinte</string>
   <string name="traffic_protection_summary">Definir avisos para quando a sua utilização de dados atingir um determinado nível</string>
   <string name="traffic_protection_text_hint">Definir limite de utilização de dados para %s</string>
   <string name="traffic_protection_unknown"><u>Configurar mais tarde</u></string>
   <string name="traffic_protection_use_data">Dados móveis</string>
-  <string name="traffic_purchase_body">Toque para carregar o seu saldo.</string>
-  <string name="traffic_purchse_suggestion">Carregar dados móveis</string>
+  <string name="traffic_purchase_body">Toque para recarregar o seu saldo.</string>
+  <string name="traffic_purchse_suggestion">Recarregar dados móveis</string>
   <string name="traffic_saving_button_mng">Gerir aplicações</string>
   <string name="traffic_saving_button_sorted">Detalhes</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Ordenar por</string>

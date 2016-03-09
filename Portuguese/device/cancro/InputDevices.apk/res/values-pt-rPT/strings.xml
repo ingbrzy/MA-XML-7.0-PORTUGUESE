@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_label">Dispositivos de entrada</string>
   <string name="keyboard_layout_arabic">Árabe</string>
@@ -8,12 +8,13 @@
   <string name="keyboard_layout_croatian">Croata</string>
   <string name="keyboard_layout_czech">Checo</string>
   <string name="keyboard_layout_danish">Dinamarquês</string>
-  <string name="keyboard_layout_english_uk_label">Inglês (Reino Unido)</string>
+  <string name="keyboard_layout_english_uk_label">Inglês (RU)</string>
   <string name="keyboard_layout_english_us_colemak_label">Inglês (EUA), estilo Colemak</string>
   <string name="keyboard_layout_english_us_dvorak_label">Inglês (EUA), estilo Dvorak</string>
-  <string name="keyboard_layout_english_us_intl">Inglês (EUA), estilo internacional</string>
+  <string name="keyboard_layout_english_us_intl">Inglês (EUA), est. Internacional</string>
   <string name="keyboard_layout_english_us_label">Inglês (EUA)</string>
-  <string name="keyboard_layout_estonian">Estoniano</string>
+  <string name="keyboard_layout_english_us_workman_label">Inglês (EUA), estilo Workman</string>
+  <string name="keyboard_layout_estonian">Estónio</string>
   <string name="keyboard_layout_finnish">Finlandês</string>
   <string name="keyboard_layout_french_ca_label">Francês (Canadá)</string>
   <string name="keyboard_layout_french_label">Francês</string>
@@ -23,7 +24,7 @@
   <string name="keyboard_layout_hungarian">Húngaro</string>
   <string name="keyboard_layout_icelandic">Islandês</string>
   <string name="keyboard_layout_italian">Italiano</string>
-  <string name="keyboard_layout_latvian">Letonia</string>
+  <string name="keyboard_layout_latvian">Letão</string>
   <string name="keyboard_layout_lithuanian">Lituano</string>
   <string name="keyboard_layout_norwegian">Norueguês</string>
   <string name="keyboard_layout_portuguese">Português</string>
@@ -32,10 +33,10 @@
   <string name="keyboard_layout_slovak">Eslovaco</string>
   <string name="keyboard_layout_slovenian">Esloveno</string>
   <string name="keyboard_layout_spanish_label">Espanhol</string>
-  <string name="keyboard_layout_spanish_latin">Espanhol (Latin)</string>
+  <string name="keyboard_layout_spanish_latin">Espanhol (América Latina)</string>
   <string name="keyboard_layout_swedish">Sueco</string>
-  <string name="keyboard_layout_swiss_french_label">Francês suíço</string>
-  <string name="keyboard_layout_swiss_german_label">Alemão suíço</string>
+  <string name="keyboard_layout_swiss_french_label">Francês (Suíça)</string>
+  <string name="keyboard_layout_swiss_german_label">Alemão (Suíça)</string>
   <string name="keyboard_layout_turkish">Turco</string>
   <string name="keyboard_layout_ukrainian">Ucraniano</string>
   <string name="keyboard_layouts_label">Teclado do Android</string>

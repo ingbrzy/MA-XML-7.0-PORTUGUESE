@@ -136,7 +136,7 @@ A poupança de bateria desliga-se automaticamente quando o dispositivo está a c
   <string name="chooser_wallpaper">Alterar papel de parede</string>
   <string name="clearDefaultHintMsg">Limpar a predefinição nas Definições do Sistema &gt; Aplicações &gt; Transferidas.</string>
   <string name="common_name">Nome comum:</string>
-  <string name="condition_provider_service_binding_label">Fornecedor de condição</string>  
+  <string name="condition_provider_service_binding_label">Fornecedor de condição</string>
   <string name="configure_input_methods">Definir métodos de introdução</string>
   <string name="contentServiceSync">Sincronização</string>
   <string name="contentServiceSyncNotificationTitle">Sincronização</string>
@@ -650,13 +650,13 @@ Tente novamente dentro de %d segundos."</string>
   <string name="passwordIncorrect">Palavra-passe incorrecta.</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
-  <string name="password_keyboard_label_symbol_key">\?123</string>  
+  <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="paste">Colar</string>
   <string name="peerTtyModeFull">O par solicitou o modo COMPLETO de TTY</string>
   <string name="peerTtyModeHco">O par solicitou o modo HCO de TTY</string>
   <string name="peerTtyModeOff">O par solicitou o modo DESLIGADO de TTY</string>
   <string name="peerTtyModeVco">O par solicitou o modo VCO de TTY</string>
-  <string name="perm_costs_money">Isto poderá estar sujeito a custos</string>  
+  <string name="perm_costs_money">Isto poderá estar sujeito a custos</string>
   <string name="permdesc_accessCoarseLocation">Permite que a aplicação obtenha a sua localização aproximada. Esta localização é gerada pelos serviços de localização, que utilizam fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização aproximada.</string>
   <string name="permdesc_accessDrmCertificates">Permite que uma aplicação forneça e utilize certificados DRM. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_accessFineLocation">Permite que a aplicação obtenha a sua localização exacta através do Sistema de Posicionamento Global (GPS) ou das fontes de localização da rede, tais como, torres de telemóvel e Wi-Fi. Estes serviços de localização têm de estar activados e disponíveis no dispositivo para que a aplicação os utilize. As aplicações poderão utilizá-los para determinar a sua localização e poderão consumir mais energia da bateria.</string>
@@ -670,7 +670,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_access_notification_policy">Permite à aplicação ler e alterar a configuração de Não incomodar</string>
   <string name="permdesc_addVoicemail">Permite que a aplicação adicione mensagens à sua caixa de entrada de Voice Mail.</string>
   <string name="permdesc_bindCarrierMessagingService">Permite ao titular ligar à interface de nível superior do serviço de mensagens de uma operadora. Não deve ser utilizado por aplicações normais.</string>
-  <string name="permdesc_bindCarrierServices">Permite ao titular vincular-se a serviços da operadora. Nunca deverá ser necessário nas aplicações normais.</string>
+  <string name="permdesc_bindCarrierServices">Permite ao titular vincular-se a serviços da operadora. Nunca deve ser necessário nas aplicações normais.</string>
   <string name="permdesc_bindConditionProviderService">Permite que o titular vincule a interface de nível superior de um serviço de fornecedor de condição. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindDreamService">Permite que o titular fique vinculado à interface de nível superior de um serviço de sonho. Nunca deve ser necessário para aplicações normais.</string>
   <string name="permdesc_bindNotificationListenerService">Permite que o titular vincule a interface de nível superior de um serviço de escuta de notificações. Nunca deve ser necessário para aplicações normais.</string>
@@ -735,7 +735,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_sdcardWrite">Permite que a aplicação escreva na unidade de armazenamento USB.</string>
   <string name="permdesc_sendSms">Permite que a aplicação envie mensagens SMS. Isto pode resultar em custos inesperados. As aplicações maliciosas podem fazer com que incorra em custos, enviando mensagens sem a sua confirmação.</string>
   <string name="permdesc_setAlarm">Permite que a aplicação defina um alarme numa aplicação de despertador instalada. Algumas aplicações de despertador podem não integrar esta funcionalidade.</string>
-  <string name="permdesc_setInputCalibration">Permite à aplicação modificar os parâmetros de calibragem do ecrã táctil. Esta funcionalidade nunca deverá ser necessária para aplicações normais.</string>
+  <string name="permdesc_setInputCalibration">Permite à aplicação modificar os parâmetros de calibragem do ecrã táctil. Esta funcionalidade nunca deve ser necessária para aplicações normais.</string>
   <string name="permdesc_setTimeZone">Permite que a aplicação altere o fuso horário do telefone.</string>
   <string name="permdesc_setWallpaper">Permite à aplicação definir o papel de parede do sistema.</string>
   <string name="permdesc_setWallpaperHints">Permite que a aplicação defina as sugestões de tamanho do papel de parede do sistema.</string>
@@ -751,7 +751,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_vibrate">Permite à aplicação controlar a vibração.</string>
   <string name="permdesc_wakeLock">Permite que a aplicação impeça o telefone de entrar em inatividade.</string>
   <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no telefone, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
-  <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar isto para eliminar ou modificar o seu registo de chamadas.</string>
+  <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telefone, incluindo os dados sobre as chamadas recebidas e efectuadas. As aplicações maliciosas podem utilizar esta funcionalidade para eliminar ou modificar o seu registo de chamadas.</string>
   <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telefone, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta permissão permite que as aplicações eliminem dados de contactos.</string>
   <string name="permdesc_writeGeolocationPermissions">Permite que a aplicação modifique as permissões de geolocalização do navegador. As aplicações maliciosas podem utilizar isto para permitir o envio de informações de localização para Web sites arbitrárias.</string>
   <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do Navegador ou marcadores guardados no telefone. Isto pode permitir que a aplicação elimine ou modifique dados do Navegador. Nota: esta permissão pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
@@ -811,7 +811,7 @@ para a conta %s."</string>
   <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
   <string name="permlab_connection_manager">gerir ligações de telecomunicação</string>
   <string name="permlab_control_incall_experience">proporcionar uma experiência de utilizador em chamada</string>
-  <string name="permlab_createNetworkSockets">acesso total à rede</string>
+  <string name="permlab_createNetworkSockets">ter acesso total à rede</string>
   <string name="permlab_disableKeyguard">desactivar o bloqueio de ecrã</string>
   <string name="permlab_enableCarMode">activar Modo de Condução</string>
   <string name="permlab_expandStatusBar">expandir/fechar barra de estado</string>
@@ -872,7 +872,7 @@ para a conta %s."</string>
   <string name="permlab_use_sip">efectuar/receber chamadas SIP</string>
   <string name="permlab_vibrate">controlar vibração</string>
   <string name="permlab_wakeLock">impedir que o telefone entre em inactividade</string>
-  <string name="permlab_writeCalendar">adicionar ou modificar eventos do calendário e enviar email a convidados sem o conhecimento dos proprietários</string>
+  <string name="permlab_writeCalendar">adicionar ou modificar eventos do calendário e enviar emails a convidados sem o conhecimento dos proprietários</string>
   <string name="permlab_writeCallLog">modificar o registo de chamadas</string>
   <string name="permlab_writeContacts">modificar os contactos</string>
   <string name="permlab_writeGeolocationPermissions">modificar permissões de geolocalização do Navegador</string>
@@ -1005,7 +1005,7 @@ para a conta %s."</string>
   <string name="safeMode">Modo seguro</string>
   <string name="safe_media_volume_warning">"Aumentar o volume acima do nível recomendado?
 
-Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição."</string>  
+Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicial para a sua audição."</string>
   <string name="save_password_label">Confirmar</string>
   <string name="save_password_message">Quer que o navegador memorize esta palavra-passe?</string>
   <string name="save_password_never">Nunca</string>
@@ -1040,7 +1040,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="serviceClassData">Dados</string>
   <string name="serviceClassDataAsync">Assíncronos</string>
   <string name="serviceClassDataSync">Síncronos</string>
-  <string name="serviceClassFAX">FAX</string> 
+  <string name="serviceClassFAX">FAX</string>
   <string name="serviceClassPAD">PAD</string>
   <string name="serviceClassPacket">Pacote</string>
   <string name="serviceClassSMS">SMS</string>
@@ -1199,7 +1199,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="webpage_unresponsive">"A página deixou de responder.
 
 Pretende fechá-la?"</string>
-  <string name="websearch">Pesquisar na Web</string> 
+  <string name="websearch">Pesquisar na Web</string>
   <string name="week">semana</string>
   <string name="weeks">semanas</string>
   <string name="wfcDataSpnFormat">%s</string>

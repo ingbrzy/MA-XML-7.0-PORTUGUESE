@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ACaddnumcontent">Introduzir código da área</string>
-  <string name="ACaddnumtitle">Adicionar o prefixo do número de telefone às excepções</string>
+  <string name="ACaddnumcontent">Introduzir código de área</string>
+  <string name="ACaddnumtitle">Adicionar prefixo do número de telefone às excepções</string>
   <string name="AD_ALLOW">Permitir anúncios</string>
   <string name="AD_APPInfo">Informações da aplicação</string>
   <string name="AD_AntiSpam">Bloqueador de Anúncios</string>
@@ -10,7 +10,7 @@
   <string name="AD_BLOCK_ALL">Bloquear tudo</string>
   <string name="AD_COUNT">%d bloqueado</string>
   <string name="AD_Info">Plug-in Anúncios</string>
-  <string name="AD_Info_Hint">O adware é utilizado por empresas de terceiros para enviar anúncios para o seu dispositivo.</string>
+  <string name="AD_Info_Hint">Adware é utilizado por empresas de terceiros para enviar anúncios para o seu dispositivo.</string>
   <string name="AD_NOT_BLOCK">Não bloquear</string>
   <string name="AD_SCANNING">A verificar…</string>
   <string name="AD_SCAN_BUTTON">Verificar</string>
@@ -23,7 +23,7 @@
   <string name="Call_PREFIX">Lista de bloqueio de prefixos</string>
   <string name="Call_PRIVATE_CALL">Chamadas privadas</string>
   <string name="NACaddnumcontent">Introduzir número de telefone</string>
-  <string name="NACaddnumtitle">Adicionar o número de telefone às excepções</string>
+  <string name="NACaddnumtitle">Adicionar número de telefone às excepções</string>
   <string name="PAST_BLOCK">Bloqueadas anteriormente</string>
   <string name="Phonepass">Permitir chamadas</string>
   <string name="SMS_ADRESS">Lista de bloqueio de localizações</string>
@@ -140,7 +140,7 @@
   <string name="mark_agent_block">Reportado como agência</string>
   <string name="mark_agent_block_large">Agências</string>
   <string name="mark_agent_time_setting">Bloquear números reportados como agências um número específico de vezes</string>
-  <string name="mark_fraud">Bloquear fraudes reportadas</string>
+  <string name="mark_fraud">Bloquear Fraudes reportadas</string>
   <string name="mark_fraud_block">Reportado como Fraude</string>
   <string name="mark_fraud_block_large">Fraudes</string>
   <string name="mark_fraud_time_setting">Bloquear números reportados como fraudes um número específico de vezes</string>
@@ -165,7 +165,7 @@
   <string name="mark_time_setting_dialog_title">Reportar número</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_others">"%d outros utilizadores marcaram como "</string>
-  <string name="marked_by_user">"Marcou como "</string>
+  <string name="marked_by_user">"marcou como "</string>
   <string name="menu_add">Adicionar</string>
   <string name="menu_add_into_contact">Adicionar a um contacto existente</string>
   <string name="menu_add_new_contact">Novo contacto</string>
@@ -286,8 +286,8 @@
   <string name="st_other_setting_group">Outras definições</string>
   <string name="st_settings_name">Definições da lista de bloqueio</string>
   <string name="st_show_block_notification">Mostrar notificações bloqueadas</string>
-  <string name="st_show_num_keyword">" Palavras-chave"</string>
-  <string name="st_show_num_number">" Números"</string>
+  <string name="st_show_num_keyword">" palavras-chave"</string>
+  <string name="st_show_num_number">" números"</string>
   <string name="st_sms_group">Mensagens</string>
   <string name="st_sub_title_customize_mode_name">Nome</string>
   <string name="st_sub_title_whiteblack_list_group">Lista de bloqueio</string>
@@ -304,7 +304,7 @@
   <string name="st_title_back_sound_choose">Mensagem de ausência</string>
   <string name="st_title_back_sound_closed">Desligado</string>
   <string name="st_title_back_sound_none">Número não existe</string>
-  <string name="st_title_back_sound_stop">Número fora de serviço</string>
+  <string name="st_title_back_sound_stop">Fora de serviço</string>
   <string name="st_title_backsound_group">Mensagem de ausência</string>
   <string name="st_title_blacklist_numbers">Números bloqueados</string>
   <string name="st_title_call_wait">Notificação de chamada em espera</string>
@@ -314,8 +314,8 @@
   <string name="st_title_keywords_blacklist">Filtro de palavras-chave</string>
   <string name="st_title_man_addblacklist">Adicionar número à lista de bloqueio</string>
   <string name="st_title_man_addwhitelist">Adicionar número de telefone às excepções</string>
-  <string name="st_title_man_editblacklist">Escolher código da área para adicionar à lista de bloqueio</string>
-  <string name="st_title_man_editwhitelist">Escolher código da área para adicionar às excepções</string>
+  <string name="st_title_man_editblacklist">Escolher código de área para adicionar à lista de bloqueio</string>
+  <string name="st_title_man_editwhitelist">Escolher código de área para adicionar às excepções</string>
   <string name="st_title_man_head_addblacklist">Adicionar prefixo do número de telefone à lista de bloqueio</string>
   <string name="st_title_man_head_addwhitelist">Adicionar prefixo do número de telefone às excepções</string>
   <string name="st_title_markednumber_group">Bloquear números reportados</string>
@@ -343,5 +343,4 @@
   <string name="website">Website</string>
   <string name="whitelist_prefix_add_hint">Adicionar todos os números com prefixo às excepções</string>
   <string name="wl_no_whitelist">Sem excepções</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">Está a %1$d passos de ligar o modo Ultimate</item>
+        <item quantity="one">Está a %1$d passo de ligar o modo Ultimate</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Está a %1$d passos de desligar o modo Ultimate</item>
+        <item quantity="one">Está a %1$d passo de desligar o modo Ultimate</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Concluir %1$d passos para desbloquear todos os itens</item>
+        <item quantity="one">Concluir %1$d passo para desbloquear todos os itens</item>
+    </plurals>
+</resources>

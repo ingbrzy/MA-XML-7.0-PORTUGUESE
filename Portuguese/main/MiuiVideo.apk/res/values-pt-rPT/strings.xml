@@ -34,13 +34,13 @@
   <string name="all_ep">Todos os Ep</string>
   <string name="all_episode">Todos os Episódios</string>
   <string name="app_charging_wifi_mode">Actualizar em Wi-Fi</string>
-  <string name="app_charging_wifi_mode_summary">Actualizar aplicação automaticamente quando ligado ao Wi-Fi e a carregar a bateria</string>
+  <string name="app_charging_wifi_mode_summary">Actualizar aplicação automaticamente quando ligado ao Wi-Fi e a carregar bateria</string>
   <string name="app_latest_version">Não existem actualizações</string>
   <string name="app_name">Vídeos</string>
   <string name="app_plugin_ready">%1$s instalado</string>
   <string name="app_update_background">Actualize a sua aplicação em segundo plano</string>
-  <string name="app_upgrade_hint">Toque para ver o vídeo online em HD.</string>
-  <string name="app_upgrade_title">Vídeos já está actualizado com a versão mais recente.</string>
+  <string name="app_upgrade_hint">Toque para ver o vídeo online em HD</string>
+  <string name="app_upgrade_title">Vídeos já está actualizado com a versão mais recente</string>
   <string name="app_upgrade_version">Actualização disponível</string>
   <string name="app_version">Versão</string>
   <string name="app_wifi_mode">Actualizar automaticamente</string>
@@ -90,7 +90,7 @@
   <string name="count_qi">Ep. %s</string>
   <string name="data_buffering">A carregar…</string>
   <string name="datastream_alert_download">Se utilizar a sua ligação de dados móveis para transferir vídeos o consumo de dados poderá aumentar. Se exceder o limite de utilização de dados do seu pacote a sua operadora pode cobrar taxas adicionais</string>
-  <string name="datastream_alert_hint">Pode desligar a notificação de utilização de dados móveis em qualquer altura em definições.</string>
+  <string name="datastream_alert_hint">Pode desligar as notificações de utilização de dados móveis em qualquer altura em definições</string>
   <string name="datastream_alert_negative_button">Cancelar</string>
   <string name="datastream_alert_play">Se utilizar a sua ligação de dados móveis para ver vídeos o consumo de dados poderá aumentar. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="datastream_alert_positive_button">Continuar</string>
@@ -104,7 +104,7 @@
 2. Ajude a melhorar este produto através do envio automático de diagnósticos e de dados de utilização para a Mi.
 3. O nosso plugin HD Vídeo será instalado automaticamente.
 4. Este serviço necessita de uma ligação à Internet para funcionar normalmente."</string>
-  <string name="declaration_content_td_custom">Esta aplicação tem que estabelecer ligação à Internet para funcionar normalmente.</string>
+  <string name="declaration_content_td_custom">Esta aplicação tem ligar à Internet para funcionar normalmente</string>
   <string name="defaults">Predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_action_text">Eliminar (%d)</string>
@@ -138,6 +138,7 @@
   <string name="download_start_message">Transferir e instalar %1$s?</string>
   <string name="download_task_with">%d tarefas</string>
   <string name="download_url_waiting">A obter informação URL…</string>
+  <string name="download_url_waiting_no_wifi">A aguardar por Wi-Fi…</string>
   <string name="download_with">A transferir %1$s/%2$s</string>
   <string name="downloading_app_plugin">A transferir %1$s…</string>
   <string name="edit">Editar</string>
@@ -181,7 +182,7 @@
   <string name="introduce">Resumo</string>
   <string name="join_alert_title">Juntar-se aos testes beta</string>
   <string name="join_hint">Introduzir código do convite</string>
-  <string name="key_back_down_toast">Toque voltar novamente para sair</string>
+  <string name="key_back_down_toast">Prima voltar novamente para sair</string>
   <string name="lastrefresh">Última actualização</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
@@ -319,7 +320,7 @@
   <string name="select_tv">Canais</string>
   <string name="select_tv_empty_hint">Sem canais</string>
   <string name="select_tvs">Canais</string>
-  <string name="send">Enviar</string>
+  <string name="send">Submeter</string>
   <string name="server_summary">Escolher servidor</string>
   <string name="server_switch">Servidor</string>
   <string name="setting">Definições</string>
@@ -335,7 +336,7 @@
   <string name="star3">3 estrelas</string>
   <string name="star4">4 estrelas</string>
   <string name="star5">5 estrelas</string>
-  <string name="start_addon">Começo de publicidade</string>
+  <string name="start_addon">Iniciar addon</string>
   <string name="storage_remain">"Disponível: "</string>
   <string name="storage_total">"Espaço total: "</string>
   <string name="suffix_countdown">s</string>
@@ -343,7 +344,7 @@
   <string name="temp_play_history_button_label">Histórico</string>
   <string name="tencent">Tencent</string>
   <string name="to_be_play_label_v5">"A seguir: "</string>
-  <string name="toast_back_key_pressed_notice">Toque novamente para sair</string>
+  <string name="toast_back_key_pressed_notice">Prima voltar novamente para sair</string>
   <string name="toast_message_continue_play_from">Reproduzir a partir de </string>
   <string name="toast_message_continue_play_hour">h </string>
   <string name="toast_message_continue_play_minute">m </string>
@@ -368,8 +369,8 @@
   <string name="use_cellular_network_summary">Se utilizar a sua ligação de dados móveis para transferir vídeos o consumo de dados vai aumentar.</string>
   <string name="use_cellular_offlinedownload_summary">Mostrar notificação quando é utilizada uma ligação de dados móveis para transferir vídeos</string>
   <string name="use_cellular_offlinedownload_title">Notificação de utilização de dados</string>
-  <string name="use_cellular_play_summary">Mostrar notificações ao utilizar a ligação de dados móveis para visualizar vídeos</string>
-  <string name="use_cellular_play_title">Notificação de streaming</string>
+  <string name="use_cellular_play_summary">Utilizar a sua ligação de dados móveis para assistir a vídeos vai aumentar a sua utilização de dados. Se ultrapassar o limite de dados do seu plano, a sua operadora pode cobrar taxas adicionais</string>
+  <string name="use_cellular_play_title">Utilizar dados móveis para ver vídeos</string>
   <string name="user_tab">Conta</string>
   <string name="version_select">Escolher versão</string>
   <string name="version_select_summary">Escolher qual a versão a utilizar</string>
@@ -381,7 +382,7 @@
   <string name="video_info_audio_bitrate_label">Taxa de amostragem de áudio:</string>
   <string name="video_info_audio_coding_label">Formato de codificação de áudio:</string>
   <string name="video_info_audio_null">Nenhum</string>
-  <string name="video_info_frame_rate_label">Cadência:</string>
+  <string name="video_info_frame_rate_label">Framerate:</string>
   <string name="video_info_length_label">Tamanho:</string>
   <string name="video_info_resolution_label">Resolução de vídeo:</string>
   <string name="video_info_video_coding_label">Formato de codificação de vídeo:</string>
@@ -390,7 +391,7 @@
   <string name="video_plugin_prepare">Aguarde…</string>
   <string name="vip_package">Pacote vip</string>
   <string name="vp_VideoView_error_button">OK</string>
-  <string name="vp_VideoView_error_network_not_available">Não é possível ligação à rede</string>
+  <string name="vp_VideoView_error_network_not_available">Não é possível ligar à rede</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>
@@ -408,9 +409,9 @@
   <string name="vp_closedialog">OK</string>
   <string name="vp_confirm">OK</string>
   <string name="vp_content_description">Descrição</string>
-  <string name="vp_datastream_alert_hint">Pode desligar as notificações de utilização de dados em qualquer altura nas definições.</string>
+  <string name="vp_datastream_alert_hint">Pode desligar as notificações de utilização de dados em qualquer altura nas Definições</string>
   <string name="vp_datastream_alert_negative_button">Cancelar</string>
-  <string name="vp_datastream_alert_play">Utilizar a sua ligação de dados móveis para ver vídeos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="vp_datastream_alert_play">Utilizar a sua ligação de dados móveis para ver vídeos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="vp_datastream_alert_positive_button">Continuar</string>
   <string name="vp_datastream_alert_title">Aviso de utilização de dados</string>
   <string name="vp_device_list">Dispositivos</string>
@@ -422,7 +423,7 @@
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Ecrã inteiro</string>
   <string name="vp_function">Definições</string>
-  <string name="vp_get_url_error">Não é possível localizar o URL deste vídeo.</string>
+  <string name="vp_get_url_error">Não é possível localizar o URL deste vídeo</string>
   <string name="vp_hide_media_info">Ocultar informação de vídeo</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Atenção</string>

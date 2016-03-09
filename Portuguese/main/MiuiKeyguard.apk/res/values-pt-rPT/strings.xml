@@ -3,7 +3,7 @@
   <string name="click_to_enter_text">Toque para desbloquear</string>
   <string name="confirm_pin_msg">Insira novamente o PIN</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
-  <string name="delete">Apagar</string>
+  <string name="delete">Eliminar</string>
   <string name="emergency_call_string">Emergência</string>
   <string name="experimental_try_string">Experimente</string>
   <string name="experimental_validate">Validar</string>
@@ -15,21 +15,21 @@
   <string name="experimental_validate_warning">Obrigado por ajudar a tornar MIUI melhor!</string>
   <string name="find_device_turn_off_flight_mode">Desactivar Modo de Avião</string>
   <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo introduza a sua palavra-passe.</string>
-  <string name="fingerprint_not_identified_title">"Não foi possível ler impressão digital"</string>
+  <string name="fingerprint_not_identified_title">Introduzir palavra-passe</string>
   <string name="fingerprint_try_again_text">Tente novamente</string>
   <string name="forget_password_string">Esqueceu a palavra-passe</string>
   <string name="incorrect_pincode">Código PIN errado</string>
   <string name="incorrect_pincode_remaining_attempts">Código PIN errado %d tentativas restantes</string>
   <string name="incorrect_pukcode">Código PUK errado</string>
   <string name="incorrect_pukcode_remaining_attempts">Código PUK errado %d tentativas restantes</string>
-  <string name="input_password_after_boot_msg">Terá que introduzir a palavra-passe depois do dispositivo reiniciar.</string>
-  <string name="input_password_hint_text">Introduza a palavra-passe</string>
+  <string name="input_password_after_boot_msg">Terá que introduzir palavra-passe depois do dispositivo reiniciar.</string>
+  <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_pin_code">PIN</string>
   <string name="input_puk_code">Introduzir PUK</string>
-  <string name="invalid_confirm_pin_hint">Códigos PIN não coincidem</string>
-  <string name="invalid_sim_pin_hint">Introduzir um PIN de 4 a 8 números</string>
-  <string name="invalid_sim_puk_hint">Código PUK deve ter 8 ou mais números</string>
-  <string name="keyguard_torch_cover_text">Para manter a lanterna ligada prima o botão de Ligar/Desligar</string>
+  <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
+  <string name="invalid_sim_pin_hint">PIN deve conter 4 a 8 números</string>
+  <string name="invalid_sim_puk_hint">PUK deve ser pelo menos 8 números ou mais</string>
+  <string name="keyguard_torch_cover_text">Para manter a lanterna ligada segure o botão de Ligar/Desligar</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
@@ -40,13 +40,13 @@
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, as definições de origem do telefone serão repostas e todos os dados do utilizador serão eliminados.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu incorrectamente a sua palavra-passe %d vezes. Após mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telefone com as suas credenciais de início de sessão do Google.
 
-Tente novamente dentro de %d segundos."</string>
+ Tente novamente dentro de %d segundos."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telefone %d vezes de forma incorrecta, pelo que serão repostas as respectivas definições de fábrica.</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
-  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválidos.</string>
+  <string name="lockscreen_glogin_invalid_input">Utilizador ou palavra-passe inválidos</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
-  <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
-  <string name="login_website_in_case_forget_password">Para repor a palavra-passe vá a www.mi.com/micloud</string>
+  <string name="lockscreen_glogin_submit_button">Iniciar sessão em</string>
+  <string name="login_website_in_case_forget_password">Para repor a palavra-passe, vá a www.mi.com/micloud</string>
   <string name="missed_call_text">%d chamadas não atendidas</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a câmara</string>
@@ -55,7 +55,6 @@ Tente novamente dentro de %d segundos."</string>
   <string name="phone_locked_string">O dispositivo foi bloqueado</string>
   <string name="phone_locked_timeout_minutes_string">Tente novamente em %s minutos</string>
   <string name="phone_locked_timeout_seconds_string">Tente novamente em %s segundos</string>
-  <string name="set_lock_wallpaper_failed">Sem papéis de parede novos</string>
   <string name="unlock_sim_string">Desbloquear</string>
   <string name="unlock_string">Desbloquear</string>
   <string name="unlocking_sim_card">Desbloquear o cartão SIM</string>

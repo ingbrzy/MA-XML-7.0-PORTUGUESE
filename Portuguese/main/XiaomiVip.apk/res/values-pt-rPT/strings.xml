@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="achieve_condition">Premiado por:</string>
   <string name="achieved">GANHOU</string>
@@ -32,6 +32,7 @@
   <string name="device_charge_times">Vezes carregado</string>
   <string name="device_unlock_screen_times">Ecrã desbloqueado</string>
   <string name="device_usage_data">Estatísticas de utilização do telefone</string>
+  <string name="download_fail">Não é possível transferir aplicação: %s</string>
   <string name="download_message">Transferir %s?</string>
   <string name="download_progress">%d%%</string>
   <string name="download_title">Transferir esta aplicação?</string>
@@ -73,13 +74,13 @@
   <string name="miuishare_title_share">Partilhar</string>
   <string name="miuishare_wechat_timeline_title">Momentos Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="my_award">Os Meus prémios</string>
+  <string name="my_award">Os meus prémios</string>
   <string name="my_rank">A minha classificação</string>
   <string name="my_rank_not_ready">N/D</string>
   <string name="no_achievements">Vazio</string>
   <string name="no_app">Instale primeiro a aplicação</string>
   <string name="no_award">Sem prémios</string>
-  <string name="no_network">"Não é possível ligação à rede"</string>
+  <string name="no_network">"Não é possível ligar à rede"</string>
   <string name="no_task">Todas os desafios foram concluídos</string>
   <string name="passive_task">Desafios em segundo plano</string>
   <string name="personal_info">Perfil</string>

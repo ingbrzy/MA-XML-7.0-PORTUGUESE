@@ -13,7 +13,7 @@
   <string name="am">AM</string>
   <string name="birthday">Aniversário</string>
   <string name="check_phone_error_title">Sincronização está desligada</string>
-  <string name="check_phone_io_error">Não é possível ligação à rede</string>
+  <string name="check_phone_io_error">Não é possível ligar à rede</string>
   <string name="chinese_day_1">" "</string>
   <string name="chinese_day_10">" "</string>
   <string name="chinese_day_11">" "</string>
@@ -343,7 +343,7 @@
   <string name="error_forbidden">A sincronização foi desligada devido a problemas com a sua Conta Mi</string>
   <string name="error_not_acceptable">A sincronização foi desligada.</string>
   <string name="error_title">Não é possível sincronizar</string>
-  <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início de sessão.</string>
+  <string name="error_unauthorized">A sincronização foi desligada devido a muitas tentativas de início de sessão</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date">" "</string>
   <string name="fmt_date">D</string>
@@ -369,7 +369,7 @@
   <string name="fmt_time">T</string>
   <string name="fmt_time_12hour">"h 'o''clock'"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
-  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm </string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
   <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
@@ -458,7 +458,7 @@
   <string name="name">Nome</string>
   <string name="nickname">Alcunha</string>
   <string name="night">PM</string>
-  <string name="no_network">Não é possível ligação à rede</string>
+  <string name="no_network">Não é possível ligar à rede</string>
   <string name="no_sim">Não foi detectado nenhum cartão SIM.</string>
   <string name="noon">PM</string>
   <string name="note">Nota</string>

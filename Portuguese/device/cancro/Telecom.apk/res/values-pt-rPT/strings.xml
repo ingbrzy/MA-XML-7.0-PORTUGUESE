@@ -13,7 +13,7 @@
   <string name="handle_restricted">RESTRINGIDO</string>
   <string name="incall_error_call_failed">Não foi possível efectuar a chamada.</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
-  <string name="no_vm_number_msg">Não existe número de Voice Mail gravado no cartão SIM.</string>
+  <string name="no_vm_number_msg">Não existe um número de Voice Mail armazenado no cartão SIM.</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
   <string name="notification_missedCallTitle">Chamada não atendida</string>
   <string name="notification_missedCall_call_back">Ligar de volta</string>
@@ -41,7 +41,7 @@
   <string name="test_account_2_label">Círculos Sonoma Talk Plus</string>
   <string name="test_account_2_short_description">Fale com as pessoas que estão adicionadas nos seus círculos!</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
-  <string name="test_account_3_short_description">Converse com outros utilizadores ligados à rede de Chat</string>  
+  <string name="test_account_3_short_description">Converse com outros utilizadores ligados à rede de Chat</string>
   <string name="unknown">Desconhecido</string>
   <string name="userCallActivityLabel">Telefone</string>
   <string name="video_call_not_allowed_if_tty_enabled">Por favor desactive o modo TTY para fazer videochamadas.</string>

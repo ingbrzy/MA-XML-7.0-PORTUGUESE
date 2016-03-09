@@ -3,8 +3,8 @@
   <string name="accessibility_airplane_mode">Modo de Avião</string>
   <string name="accessibility_back">Voltar</string>
   <string name="accessibility_battery_level">Bateria a %d por cento</string>
-  <string name="accessibility_bluetooth_connected">Bluetooth activado</string>
-  <string name="accessibility_bluetooth_disconnected">Bluetooth desactivado</string>
+  <string name="accessibility_bluetooth_connected">Bluetooth ligado</string>
+  <string name="accessibility_bluetooth_disconnected">Bluetooth desligado</string>
   <string name="accessibility_bluetooth_tether">Bluetooth tethering</string>
   <string name="accessibility_camera_button">Câmara</string>
   <string name="accessibility_clear_all">Limpar todas as notificações</string>
@@ -48,7 +48,7 @@
   <string name="account_info">Sem sessão iniciada</string>
   <string name="activate_usb_message">Para activar esta funcionalidade, insira o seu cartão SIM</string>
   <string name="activate_usb_title">Activar USB</string>
-  <string name="always_use_accessory">Utilize por predefinição para este acessório USB</string>
+  <string name="always_use_accessory">Utilizar por predefinição para este acessório USB</string>
   <string name="always_use_device">Utilize por predefinição para este dispositivo USB</string>
   <string name="app_label">Sistema</string>
   <string name="audio_effect_custom">Configurar</string>
@@ -67,14 +67,14 @@
   <string name="camera_key_action_category_title">Utilizar se a aplicação câmara não estiver aberta</string>
   <string name="camera_key_action_none_title">Sem acções</string>
   <string name="camera_key_action_setting_title">Botão Mi</string>
-  <string name="camera_key_action_shortcut_call">Chamada</string>
+  <string name="camera_key_action_shortcut_call">Ligar</string>
   <string name="camera_key_action_shortcut_home">Voltar ao ecrã inicial</string>
   <string name="camera_key_action_shortcut_screenshot">Captura de ecrã</string>
   <string name="camera_key_action_shortcut_search">Pesquisar</string>
   <string name="camera_key_action_shortcut_title">Atalho</string>
   <string name="camera_key_action_shortcut_wake">Dispositivo Bloquear/Activar</string>
   <string name="camera_key_action_toggle_title">Selecção de atalhos</string>
-  <string name="chooseUsbActivity">Seleccionar uma aplicação para o dispositivo USB</string>
+  <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
   <string name="data_usage_disabled_dialog">"Alcançou o limite de utilização de dados definido.
 
 Se voltar a activar os dados móveis poderá ter custos adicionais facturados pela operadora."</string>
@@ -154,10 +154,10 @@ Utilize apenas o carregador fornecido."</string>
   <string name="notification_otg_unknow_out">Dispositivo OTG desligado</string>
   <string name="notification_template_text">Nova notificação. Toque para ver</string>
   <string name="oldman_airplane_mode_text">Modo de Avião</string>
-  <string name="oldman_incall_text">em chamada</string>
+  <string name="oldman_incall_text">Em chamada</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
-  <string name="reject_call">A rejeitar chamada</string>
+  <string name="reject_call">A rejeitar a chamada</string>
   <string name="return_to_incall_screen">Voltar à chamada</string>
   <string name="screen_button_notification_text">Para voltar a activar, prima em Início e no botão Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Os botões de navegação foram desactivados</string>

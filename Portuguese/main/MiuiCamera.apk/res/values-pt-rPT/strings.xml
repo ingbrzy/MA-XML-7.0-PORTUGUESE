@@ -212,8 +212,8 @@
   <string name="pref_camera_skinToneEnhancement_entry_enable">Activado</string>
   <string name="pref_camera_snap_enable_title">Modo disparo contínuo</string>
   <string name="pref_camera_snap_entry_off">Desligado</string>
-  <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar a gravação de vídeo. Solte-o para parar.</string>
-  <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado prima e segure o botão de volume menos para iniciar o disparo contínuo de fotos. Solte-o para parar.</string>
+  <string name="pref_camera_snap_entry_take_movie">Quando o ecrã está desligado prima e segure o botão de Volume Menos para iniciar a gravação de vídeo. Solte-o para parar.</string>
+  <string name="pref_camera_snap_entry_take_picture">Quando o ecrã está desligado prima e segure o botão de Volume Menos para iniciar o disparo contínuo de fotos. Solte-o para parar.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Não é possível usar disparo contínuo enquanto \"Acordar com botões de volume\" estiver ligado."</string>
   <string name="pref_camera_snap_value_off">Desligado</string>
   <string name="pref_camera_snap_value_take_movie">Filme</string>
@@ -282,7 +282,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">Intervalo de 30 segundos(900 vezes)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Intervalo de time lapse</string>
   <string name="preparing_sd">A verificar armazenamento interno…</string>
-  <string name="record_back_pressed_hint">Toque voltar novamente para parar a gravação</string>
+  <string name="record_back_pressed_hint">Toque Voltar novamente para terminar a gravação</string>
   <string name="see_qrcode_detals">Ver detalhes</string>
   <string name="setting_top_text">Modos da Câmara</string>
   <string name="simple_mode_button_asd_flash">Desligar Flash</string>
@@ -312,7 +312,7 @@
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de time lapse</string>
   <string name="toast_burst_snap_finished_end">fotos</string>
   <string name="toast_burst_snap_finished_start">Disparo contínuo</string>
-  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está activa</string>
+  <string name="toast_burst_snap_forbidden_when_audio_capture_open">Disparo contínuo não é suportado quando a captura de áudio está ligada</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>
   <string name="ubi_focus_capture_fail">Não foi possível tirar foto</string>
   <string name="ubifocus_capture_warning_message">Para melhorar o resultado da imagem os objectos devem estar a menos de um metro de distância da lente</string>

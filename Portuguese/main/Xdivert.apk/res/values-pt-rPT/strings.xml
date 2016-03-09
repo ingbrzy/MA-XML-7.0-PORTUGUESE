@@ -3,7 +3,7 @@
   <string name="close_dialog">OK</string>
   <string name="error_updating_title">Erro nas definições de chamada</string>
   <string name="exception_error">Erro na rede ou cartão SIM</string>
-  <string name="fdn_check_failure">A definição da aplicação números autorizados do seu telefone está activada. Por conseguinte, algumas funcionalidades relacionadas com chamadas não estão a funcionar.</string>
+  <string name="fdn_check_failure">A definição Números Autorizados da aplicação do seu telefone está activada. Por conseguinte, algumas funcionalidades relacionadas com chamadas não estão a funcionar.</string>
   <string name="phone_numbers">Introduzir números de telefone</string>
   <string name="proceed">Avançar</string>
   <string name="radio_off_error">Active o rádio antes de visualizar estas definições.</string>
@@ -29,7 +29,7 @@
   <string name="xdivert_partial_set">X-Divert só foi definido apenas para a 1ª assinatura</string>
   <string name="xdivert_setting">Definição X-Divert</string>
   <string name="xdivert_status">Estado X-Divert</string>
-  <string name="xdivert_sub_absent">Ambas as assinaturas deverão estar activas para processar X-Divert</string>
+  <string name="xdivert_sub_absent">Ambas as assinaturas deverão estar activadas para processar X-Divert</string>
   <string name="xdivert_summary">Reencaminhamento de chamada quando inacessível</string>
   <string name="xdivert_title">X-Divert</string>
 </resources>
