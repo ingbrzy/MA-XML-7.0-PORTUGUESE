@@ -318,7 +318,7 @@
   <string name="power_center_custom_title">Perfis de bateria</string>
   <string name="power_center_low_battery_summary_default">Alterar perfis quando a bateria está fraca</string>
   <string name="power_center_low_battery_summary_dynamic">Aos %1$d%% alterar para %2$s</string>
-  <string name="power_center_low_battery_title">Economizador de bateria</string>
+  <string name="power_center_low_battery_title">Poupança de bateria</string>
   <string name="power_center_on_time_summary_default">Alterar perfis de bateria no horário programado</string>
   <string name="power_center_on_time_summary_dynamic">%1$s - %2$s alterar para %3$s</string>
   <string name="power_center_on_time_title">Alteração de perfil programada</string>
@@ -368,7 +368,7 @@
   <string name="power_dialog_cpu_state_balance_desc">Aumentar o desempenho do CPU quando necessário</string>
   <string name="power_dialog_cpu_state_performance">Desempenho</string>
   <string name="power_dialog_cpu_state_performance_desc">Tornar o desempenho da CPU uma prioridade sobre a duração da bateria</string>
-  <string name="power_dialog_cpu_state_save">Economizar a bateria</string>
+  <string name="power_dialog_cpu_state_save">Poupar bateria</string>
   <string name="power_dialog_cpu_state_save_desc">Tornar a duração da bateria uma prioridade sobre o desempenho da CPU</string>
   <string name="power_dialog_cpu_state_title">Utilização do CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">Está a utilizar este perfil actualmente</string>
@@ -404,7 +404,7 @@
   <string name="power_mode_cpu_state_balance_desc">Apenas aumentar o desempenho do CPU quando necessário</string>
   <string name="power_mode_cpu_state_performance">Desempenho</string>
   <string name="power_mode_cpu_state_performance_desc">Tornar o desempenho uma prioridade sobre a duração da bateria</string>
-  <string name="power_mode_cpu_state_save">Economizar a bateria</string>
+  <string name="power_mode_cpu_state_save">Poupar bateria</string>
   <string name="power_mode_cpu_state_save_desc">Tornar a duração da bateria uma prioridade sobre o desempenho</string>
   <string name="power_mode_gps">GPS</string>
   <string name="power_mode_internet">Redes</string>
@@ -434,7 +434,7 @@
   <string name="power_recovery_mode">Bateria altera para %1$s</string>
   <string name="power_save_choose_mode">Escolha um perfil</string>
   <string name="power_save_choose_recovery_mode">Escolha um perfil</string>
-  <string name="power_save_low_battery_auto_save_title">Economizador de bateria</string>
+  <string name="power_save_low_battery_auto_save_title">Poupança de bateria</string>
   <string name="power_save_low_battery_option_recovery_title">Se a bateria recuperou alterar para</string>
   <string name="power_save_low_battery_option_summary">Quando a bateria estiver acima do limite de fraca o dispositivo voltará ao perfil recentemente utilizado</string>
   <string name="power_save_low_battery_option_title">Se a bateria está fraca alterar para</string>
@@ -444,7 +444,7 @@
   <string name="power_save_low_battery_percentage_thirty">30%</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Alterar perfis de bateria quando a energia restante é inferior a %1$d%%</string>
-  <string name="power_save_low_battery_title">Economizador de bateria</string>
+  <string name="power_save_low_battery_title">Poupança de bateria</string>
   <string name="power_save_on_time_auto_save_title">Programar alteração de perfil</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Fim</string>
@@ -462,8 +462,8 @@
   <string name="power_settings_shape">Gráfico</string>
   <string name="power_settings_title">Definir</string>
   <string name="power_settings_top">Barra no topo</string>
-  <string name="power_subtitle_lowbattery">Alterar perfis de bateria para economizar energia.</string>
-  <string name="power_subtitle_ontime">Perfis de bateria alterados como programado.</string>
+  <string name="power_subtitle_lowbattery">Alterar perfis de bateria para poupar energia</string>
+  <string name="power_subtitle_ontime">Perfis de bateria alterados como programado</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_category_title_lock_screen_memory_clean">Limpar no ecrã de bloqueio</string>
   <string name="pref_category_title_module_settings">Definições das funcionalidades</string>
@@ -575,8 +575,8 @@
   <string name="title_permission_no">Monitor de permissões desligado</string>
   <string name="title_permission_root">Aviso de acesso root</string>
   <string name="title_permission_yes">Monitor de permissões ligado</string>
-  <string name="title_power_optimizer">Economizador de bateria</string>
-  <string name="title_saving_switch">Economizador de dados</string>
+  <string name="title_power_optimizer">Poupança de bateria</string>
+  <string name="title_saving_switch">Poupança de dados</string>
   <string name="title_show_notification">Controlos da área de notificações</string>
   <string name="title_telecom_operator">Uilizar contagem operadora</string>
   <string name="title_usb_no">Depuração USB ligada</string>

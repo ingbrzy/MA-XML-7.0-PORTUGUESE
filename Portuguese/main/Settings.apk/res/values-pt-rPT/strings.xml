@@ -342,7 +342,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="battery_sugg_bluetooth_basic">Desligar Bluetooth quando não estiver em utilização</string>
   <string name="battery_sugg_bluetooth_headset">Tente ligar a um dispositivo Bluetooth diferente</string>
   <string name="battery_sugg_display">Reduzir o brilho e/ou tempo limite do ecrã</string>
-  <string name="battery_sugg_radio">Alterar para o Modo de Avião para economizar bateria nas áreas sem cobertura de rede</string>
+  <string name="battery_sugg_radio">Alterar para o Modo de Avião para poupar bateria nas áreas sem cobertura de rede</string>
   <string name="battery_sugg_wifi">Desligar Wi-Fi quando não estiver em utilização ou disponível</string>
   <string name="bearer">Portador</string>
   <string name="biometric_weak_improve_matching_title">Melhorar correspondência do rosto</string>
@@ -1815,7 +1815,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Inactividade do telefone</string>
   <string name="power_center">Energia</string>
-  <string name="power_hide_mode_summary">"Economizar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS"</string>
+  <string name="power_hide_mode_summary">"Poupar bateria restringindo processos individualmente em segundo plano das aplicações, ligações Wi-Fi, dados móveis e utilização de GPS"</string>
   <string name="power_hide_mode_title">Gerir utilização da bateria das aplicações</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_mgr">Bateria</string>
