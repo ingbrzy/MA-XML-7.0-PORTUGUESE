@@ -51,8 +51,8 @@
   <string name="determine">OK</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser retomada.</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) no dispositivo?</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %d tarefas?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Transferência seleccionada</string>
+  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Eliminar estas transferências</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe.</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado.</string>
