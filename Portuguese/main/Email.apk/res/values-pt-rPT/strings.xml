@@ -298,11 +298,11 @@
   <string name="device_admin_label">Email</string>
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
   <string name="device_not_activiey_lint2">O serviço de correio não funciona em Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>
-  <string name="dialog_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada.</string>
-  <string name="dialog_change_sync_lookback">O email recebido %s atrás vai ser eliminado automaticamente. Toque para alterar.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada</string>
+  <string name="dialog_auto_sync_setting_no_open">Não é possível receber novas mensagens. A sincronização está desligada</string>
+  <string name="dialog_change_sync_lookback">O email recebido (%s) vai ser eliminado automaticamente. Toque para alterar</string>
   <string name="dialog_gmail_proxy_server_is_error">Erro de servidor proxy do Gmail.</string>
-  <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo.</string>
+  <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não há espaço suficiente no armazenamento externo</string>
   <string name="dialog_insufficient_space_on_internal">Não há espaço suficiente no armazenamento interno.</string>
   <string name="disable_admin_warning">AVISO: Ao desactivar a aplicação email como administrador do dispositivo, todas as contas de email vinculadas serão eliminadas, assim como os emails, contactos, eventos do calendário e outros dados</string>
   <string name="discard">Rejeitar</string>
@@ -321,7 +321,7 @@
   <string name="downlaod_nonWifi_confirm_message">Utilizar os dados móveis para transferir o anexo?</string>
   <string name="downlaod_nonWifi_confirm_title">Transferir o anexo?</string>
   <string name="download_again">Transferir novamente</string>
-  <string name="download_before_sharing">" a transferência ainda não terminou."</string>
+  <string name="download_before_sharing">" a transferência ainda não terminou"</string>
   <string name="download_cancel_confirm_message">A transferência será interrompida</string>
   <string name="download_cancel_confirm_title">Transferir anexo?</string>
   <string name="download_complete_not_cancel">Transferência concluída</string>
