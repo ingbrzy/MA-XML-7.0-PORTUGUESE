@@ -146,7 +146,7 @@
   <string name="downloading">A transferir…</string>
   <string name="downloading_in_3g">A transferir em 3G…</string>
   <string name="email_platform">Email</string>
-  <string name="enable_documentsui">Activar primeiro %s em Definições &gt; Aplicações instaladas</string>
+  <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>
   <string name="enable_usb">Ligar dispositivo USB</string>
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
@@ -353,7 +353,7 @@ e nunca perca as novidades!"</string>
   <string name="no_tasks">Sem tarefas</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
-  <string name="not_installed_documentsui">Ainda não instalou DocumentsUI</string>
+  <string name="not_installed_documentsui">DocumentsUI não instalado</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
   <string name="notification_content_hint">Toque para ver</string>
@@ -591,7 +591,7 @@ e nunca perca as novidades!"</string>
   <string name="tag_weixin_video">Vídeos</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Aplicações</string>
-  <string name="title_enable_documentsui">Activar DocumentsUI</string>
+  <string name="title_enable_documentsui">Ligar DocumentsUI</string>
   <string name="title_expire_video">Mesmo a expirar</string>
   <string name="title_recent">Recentes</string>
   <string name="title_report_video">Reportar</string>

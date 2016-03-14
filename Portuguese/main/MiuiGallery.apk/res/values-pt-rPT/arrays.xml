@@ -11,5 +11,14 @@
          <item>Avó Paterno</item>
          <item>Avô Materno</item>
          <item>Avó Materno</item>
-     </string-array> 
+     </string-array>
+     <string-array name="relation_with_me">
+        <item>Eu</item>
+        <item>Crianças</item>
+        <item>Família</item>
+        <item>Colegas</item>
+        <item>Colegas de escola</item>
+        <item>Amigos</item>
+        <item>Desconhecidos</item>
+    </string-array>
 </resources>

@@ -119,13 +119,13 @@
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
   <string name="dialog_msg_load_cleanup_engine_error">O motor de limpeza foi interrompido devido a um erro</string>
-  <string name="dialog_msg_stop_scan">Parar verificação do lixo antes de estar terminada?</string>
+  <string name="dialog_msg_stop_scan">Parar a verificação em curso?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estas aplicações?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Copiar e desinstalar</string>
   <string name="dialog_title_check_all">Seleccionar tudo</string>
   <string name="dialog_title_delete_image">Eliminar imagens seleccionadas</string>
   <string name="dialog_title_load_cleanup_engine_error">Erro inesperado</string>
-  <string name="dialog_title_stop_scan">Parar verificação do lixo</string>
+  <string name="dialog_title_stop_scan">Parar verificação</string>
   <string name="dialog_title_uninstall_apps">Desinstalar</string>
   <string name="download">Transferir</string>
   <string name="downloading">A transferir…</string>
@@ -298,7 +298,9 @@
   <string name="privacy_clipboard_type">Área de transferência</string>
   <string name="privacy_search_desc">Histórico de pesquisa</string>
   <string name="privacy_search_type">Pesquisa Google</string>
-  <string name="promotion">Anúncio</string>
+  <string name="promotion">Anúncios</string>
+  <string name="recommend_news">Fontes recomendadas</string>
+  <string name="recommend_the_following">Execute as acções seguintes para tirar mais do seu dispositivo</string>
   <string name="recommended">Em destaque</string>
   <string name="safety_check_detail">%1$d vezes, ganhou %2$d pontos</string>
   <string name="safety_rank">À frente de %d%% utilizadores MIUI em Termos de Segurança</string>

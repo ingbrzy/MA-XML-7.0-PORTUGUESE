@@ -242,12 +242,12 @@
   <string name="trans_backingup">A copiar…</string>
   <string name="trans_backingup_no_items">A sincronizar…</string>
   <string name="trans_calculating">A calcular…</string>
-  <string name="trans_calculating_app_sd_size">A calcular o tamanho dos dados para enviar. %s verificados</string>
-  <string name="trans_calculating_base_size">A calcular o tamanho base da aplicação</string>
+  <string name="trans_calculating_app_sd_size">A calcular o tamanho dos ficheiros. Verificados %s</string>
+  <string name="trans_calculating_base_size">A calcular o tamanho das aplicações</string>
   <string name="trans_cancel_confirm">Transferência em curso. Cancelar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
-  <string name="trans_connect_failed_message">Erro na ligação. Repita ou reinicie. E no outro dispositivo, vá a Definições &gt; Definições adicionais &gt; Mi Mover, Toque [Sou um remetente] ou execute novamente Mi Mover depois de reiniciar</string>
-  <string name="trans_connect_failed_title">Erro na ligação</string>
+  <string name="trans_connect_failed_message">Não foi possível ligar. Reinicie o dispositivo ou tente novamente. Execute Mi Mover depois de reiniciar ou vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] no outro dispositivo</string>
+  <string name="trans_connect_failed_title">Não foi possível ligar</string>
   <string name="trans_connect_failed_toast">Não foi possível ligar</string>
   <string name="trans_connecting_toast">A ligar…</string>
   <string name="trans_detail_category_account">Contas e contactos</string>
@@ -258,8 +258,8 @@
   <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
-  <string name="trans_native_no_space">"Este dispositivo não tem espaço suficiente
- Limpe pelo menos %s"</string>
+  <string name="trans_native_no_space">"Sem espaço de armazenamento disponível
+ Liberte pelo menos %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
@@ -287,7 +287,7 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_receiving_completed">Recebido com sucesso</string>
   <string name="trans_restoring">A restaurar…</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
-  <string name="trans_retry">Repetir</string>
+  <string name="trans_retry">Tentar novamente</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR utilizando dispositivo novo</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
@@ -308,8 +308,8 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_sending_completed">Enviado com sucesso</string>
   <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
-  <string name="trans_start_failed_message">Erro ao iniciar. Repita ou reinicie e tente novamente</string>
-  <string name="trans_start_failed_title">Erro ao iniciar</string>
+  <string name="trans_start_failed_message">Não foi possível iniciar. Tente novamente ou reinicie o dispositivo</string>
+  <string name="trans_start_failed_title">Não foi possível iniciar</string>
   <string name="trans_time_format_second">Menos de um minuto</string>
   <string name="trans_time_spent">"
 Tempo gasto: %s"</string>
