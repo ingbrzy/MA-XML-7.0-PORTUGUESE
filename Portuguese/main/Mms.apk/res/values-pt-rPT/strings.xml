@@ -48,6 +48,7 @@
   <string name="bookmark_confirm_delete_message">Remover mensagens seleccionadas dos favoritos?</string>
   <string name="bookmark_empty">Sem favoritos</string>
   <string name="bookmark_list_title">Favoritos</string>
+  <string name="call_sender">Telefonar ao remetente</string>
   <string name="cannot_add_picture_and_video">É impossível adicionar um vídeo e uma imagem no mesmo diapositivo.</string>
   <string name="cannot_add_slide_anymore">É impossível adicionar mais diapositivos.</string>
   <string name="cannot_forward_drm_obj">O objecto DRM incluído na mensagem não pode ser reencaminhado.</string>
@@ -515,6 +516,7 @@
   <string name="set">Definir</string>
   <string name="share_img">Partilhar</string>
   <string name="show_all_messages">Mostrar todas as mensagens</string>
+  <string name="show_sender">Mostrar informação do remetente</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
   <string name="sim_card_cloud">%s (Mensagem pela Nuvem)</string>

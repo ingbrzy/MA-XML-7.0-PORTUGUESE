@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="SMS_and_MMS">SMS e MMS</string>
+  <string name="Setting_lock">Definições</string>
   <string name="Settings_title_anti_spam">Definições da lista de bloqueio</string>
   <string name="Settings_title_anti_virus">Definições do antivírus</string>
   <string name="Settings_title_garbage_cleanup">Definições da Limpeza</string>
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de bateria</string>
+  <string name="access_control_need_password">"%s Bloqueio adicionado com sucesso
+"</string>
+  <string name="access_control_need_to_unlock">"Desbloquear com impressão digital
+ou introduzir palavra-passe"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe de desbloqueio</string>
+  <string name="access_control_recording_intro_header">Desenhar padrão para adicionar bloqueio de aplicações</string>
+  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o bloqueio de aplicações</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Antivírus</string>
   <string name="activity_title_apps_manager">Aplicações</string>
@@ -51,6 +59,7 @@
   <string name="antivirus_sec_support">Desenvolvido por %s</string>
   <string name="antivirus_update_db">%s</string>
   <string name="app_install_intercept">Bloquear instalação</string>
+  <string name="app_name">Bloqueio de aplicações</string>
   <string name="app_name_securitycenter">Segurança</string>
   <string name="app_not_installed_toast">A aplicação não está instalada no seu dispositivo</string>
   <string name="auto_handle_title">GERAL</string>
@@ -83,6 +92,8 @@
   <string name="boot_time_day_tomorrow">Ligar: %1$s</string>
   <string name="brightness_auto_adjust_off">O brilho do ecrã permanecerá constante em todos os ambientes</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
+  <string name="btn_jump">Ignorar</string>
+  <string name="btn_lock">Adicionar bloqueio</string>
   <string name="btn_text_cleanup_all">Limpar</string>
   <string name="btn_text_done">Concluído</string>
   <string name="btn_text_network_speed_detail">Ligação</string>
@@ -117,11 +128,13 @@
   <string name="button_text_view_power">Ver</string>
   <string name="cache_header_title">Limpar %1$d ficheiros de cache para libertar %2$s de espaço</string>
   <string name="call_and_contact">Chamadas e contactos</string>
+  <string name="cancal_to_setting_fingerprint">Cancelar</string>
   <string name="cancel">Cancelar</string>
   <string name="cmcc_app_check_dialog_message">Reinicie o dispositivo para concluir o reparo.</string>
   <string name="cmcc_app_check_dialog_negative">Mais tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
   <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="continue_install">Instalar</string>
   <string name="cta_button_text_agree">OK</string>
@@ -172,9 +185,24 @@
   <string name="examination_score_80_100_with_recommend">%d itens podem ser optimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas</string>
+  <string name="finger_remind_message">O bloqueio de aplicações suporta o desbloqueio através de impressões digitais. Adicionar impressão digital?</string>
+  <string name="fingerprint_identify_msg">A verificar impressão digital…</string>
+  <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo introduza a sua palavra-passe</string>
+  <string name="fingerprint_not_remind">Não perguntar novamente</string>
+  <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
+  <string name="fingerprint_to_lock">Desbloquear com impressão digital</string>
+  <string name="fingerprint_verification">Verificação de impressão digital</string>
+  <string name="fingerprint_verification_message">Verificar as impressões digitais actuais para começar a utilizar esta funcionalidade</string>
+  <string name="fingerprint_verify_failed">Não foi possível verificar</string>
+  <string name="fingerprint_verify_succeed">Verificada com sucesso</string>
+  <string name="fingerprint_verify_try_agin">Não foi possível verificar. Tente novamente</string>
+  <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
+  <string name="go_to_setting_fingerprint">Ir para as Definições</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memória</string>
   <string name="handle_text_system">Sistema</string>
+  <string name="help_label">Ajuda</string>
   <string name="hints_auto_start_warning_info">Se restringir o auto iniciar, algumas aplicações e serviços não vão receber notificações.</string>
   <string name="hints_cleanning_text">A limpar…</string>
   <string name="hints_handle_item_text_risk">Riscos: %d</string>
@@ -234,7 +262,29 @@
   <string name="legal_workday_invalidate">Segunda a Sexta (info. de dias úteis expirada) </string>
   <string name="legal_workday_invalidate_message">Toque para actualizar os dias úteis</string>
   <string name="legal_workday_message">(Ignorar feriados)</string>
-  <string name="manual_handle_title">RECURSOS DISPONÍVEIS</string>
+  <string name="lock_settings_title">Bloqueio de ecrã e palavra-passe</string>
+  <string name="lockpassword_confirm_your_password_header">Confirmar palavra-passe</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirmar padrão</string>
+  <string name="lockpattern_confirm_button_text">OK</string>
+  <string name="lockpattern_continue_button_text">Seguinte</string>
+  <string name="lockpattern_need_to_confirm">Desenhar o padrão novamente para confirmar</string>
+  <string name="lockpattern_need_to_unlock">Confirmar o padrão desenhado</string>
+  <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
+  <string name="lockpattern_recording_inprogress">Remover o dedo depois do padrão estar concluído</string>
+  <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
+  <string name="lockpattern_retry_button_text">Desenhar novamente</string>
+  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
+  <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
+  <string name="lockpattern_tutorial_continue_label">Seguinte</string>
+  <string name="lockscreen_glogin_checking_password">A verificar…</string>
+  <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
+  <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
+  <string name="manual_handle_title">FUNCIONALIDADES DISPONÍVEIS</string>
   <string name="manual_item_white_list_summary">Impedir que as aplicações seleccionadas sejam optimizadas</string>
   <string name="manual_item_white_list_title">Excepções</string>
   <string name="manual_white_list_header">%d excepções</string>
@@ -271,6 +321,8 @@
   <string name="menu_text_power_manager">Utilização de bateria</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
+  <string name="modify_password_info">Desbloquear padrão</string>
+  <string name="modifypassword">Alterar palavra-passe</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="month_report_month_report_switch">Mostrar relatório mensal</string>
   <string name="never">1 vez</string>
@@ -280,6 +332,7 @@
   <string name="notification_title_firewall_blocked">Bloqueado</string>
   <string name="ok">OK</string>
   <string name="packages_subtitle">Pacotes incluídos</string>
+  <string name="passwordIncorrect">Utilizador ou palavra-passe inválidos</string>
   <string name="pc_install_manager">Instalar via USB</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
   <string name="percentage">%d%%</string>
@@ -480,6 +533,7 @@
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
+  <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Servidor de multimédia</string>
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
@@ -488,6 +542,7 @@
   <string name="protection_category_security_title">Limpas (%d)</string>
   <string name="recently_reject_message">Instalação rejeitada de %1$s e %2$d outras aplicações</string>
   <string name="recently_reject_message_one">Rejeitados %1$s pedidos de instalação</string>
+  <string name="recommend_app">Aplicações recomendadas</string>
   <string name="reject_all">Restringir tudo</string>
   <string name="reject_countdown">Negar (%d)</string>
   <string name="reject_usb_install">Foi negada a instalação destas aplicações via USB</string>
@@ -504,8 +559,11 @@
   <string name="scanning_bar_system_text">Permissões da aplicação</string>
   <string name="scanning_bar_system_title">A verificar sistema…</string>
   <string name="score_pts">%</string>
+  <string name="security_app_lock">Bloqueio de aplicações</string>
   <string name="security_scan_optimizing">A optimizar…</string>
+  <string name="select_pattern">Seleccionar padrão</string>
   <string name="settings_title_permission">Definições de permissões</string>
+  <string name="showpattern">Mostrar padrão</string>
   <string name="shutdown_cancel_reminder">Não desligou</string>
   <string name="shutdown_cancel_reminder_detail">O dispositivo não vai desligar porque está no decorrer de uma chamada</string>
   <string name="shutdown_time">Desligar: %1$s</string>
@@ -514,6 +572,7 @@
   <string name="st_title_mode_choose_group">Escolher perfil</string>
   <string name="suffix_virus_count_bottom">total</string>
   <string name="suffix_virus_count_top">riscos</string>
+  <string name="suggest_app_tolock">Sugestões</string>
   <string name="summary_cleaner_cloudscan">Enviar e comparar os nomes das pastas com definições online</string>
   <string name="summary_cloud_account">Tire o máximo proveito do seu dispositivo Mi</string>
   <string name="summary_cloud_service">Sincronizar as suas fotos, contactos e muito mais em todos os seus dispositivos</string>
@@ -546,9 +605,13 @@
   <string name="summary_virus_cloudscan">Enviar nomes e detalhes das aplicações e dados e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
   <string name="summary_xiaomi_roaming">0.01 euros por MB para tráfego internacional</string>
+  <string name="system_application">Aplicações de sistema</string>
   <string name="system_check_content">%1$d riscos</string>
   <string name="system_check_content_none">Seguro</string>
   <string name="system_header_title">Limpar %1$d processos para libertar %2$s da memória</string>
+  <string name="system_info_remind">Adicionar bloqueios para prevenir acessos não autorizados às suas aplicações</string>
+  <string name="text_lock_info">Desenhar padrão de desbloqueio</string>
+  <string name="third_application">Aplicações de terceiros</string>
   <string name="title_app_update">Actualizações disponíveis</string>
   <string name="title_cleaner_cloudscan">Enviar nome das pastas</string>
   <string name="title_cloud_account">Conta Mi</string>
@@ -591,6 +654,7 @@
   <string name="toast_default_app">"%1$s definir como aplicação de sistema predefinida %2$s"</string>
   <string name="toast_flow_notification">Notificações de utilização de dados ligada</string>
   <string name="toast_garbage_lib">Actualizações automáticas de Limpeza ligada</string>
+  <string name="toast_lockscreen_glogin_empty_password">Necessário palavra-passe</string>
   <string name="toast_network_switch">Esta aplicação pode ligar à Internet</string>
   <string name="toast_root_apply_accept">Acesso root concedido a %s</string>
   <string name="toast_root_apply_reject">Negado o acesso root a %s</string>

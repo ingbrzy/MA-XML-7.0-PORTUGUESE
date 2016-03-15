@@ -69,7 +69,8 @@
   <string name="autofix">Ajuste automático</string>
   <string name="baby_album">Álbum do bébé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
-  <string name="baby_album_new_photo_remind">Existem novas fotos no seu álbum de bebé.</string>
+  <string name="baby_album_needs_auto_backup_tip">O álbum de bebé não pode desactivar a cópia automática</string>
+  <string name="baby_album_new_photo_remind">Existem novas fotos no seu álbum de bebé</string>
   <string name="baby_album_setting_title">Informação do bebé</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
 %4$s de %3$s partilhou o álbum de %5$s contigo"</string>
@@ -103,6 +104,7 @@
   <string name="by_sms">Mensagem de texto</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Preto e Branco</string>
+  <string name="camera_needs_auto_backup_tip">Tem de ser feita uma cópia ao álbum</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Cancelar papel de parede do bebé e repor o papel de parede predefinido do ecrã de bloqueio?</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_remove_creator">Não é possível remover o criador</string>
@@ -117,6 +119,8 @@
   <string name="click_download_gif">Clique para transferir gif</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
+  <string name="cloud_guide_auto_backup_title">Escolher álbuns que vão ser copiados para a Nuvem Mi</string>
+  <string name="cloud_guide_welcome_title">Nuvem Mi</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
   <string name="cloud_settings">Nuvem Mi</string>
   <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode iniciar com '%s'"</string>
@@ -194,6 +198,8 @@
   <string name="email_picker_title">Adicionar Email partilhado</string>
   <string name="enable_cloud_for_sharing">Para ver as fotos partilhadas tem de ligar os álbuns na Nuvem Mi</string>
   <string name="enable_face_album_summary">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
+  <string name="enable_face_album_title">Ordenar por pessoas</string>
+  <string name="enable_micloud_service">Começar a utilizar a Nuvem Mi</string>
   <string name="enabling_face_feature">Aguarde…</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -248,6 +254,7 @@
   <string name="frame_white">Branco</string>
   <string name="free">Livre</string>
   <string name="gallery_setting">Definições</string>
+  <string name="gallery_sync_disable_toast">A sincronização com a galeria não está activada</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -275,7 +282,7 @@
   <string name="ignore_alert_title">Não mostrar este álbum?</string>
   <string name="ignore_face">Ignorar esta pessoa</string>
   <string name="image_download_item_title">Transferir foto (%s)</string>
-  <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente.</string>
+  <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
   <string name="impunity_declaration_settings">Notificação de ligação à Internet</string>
   <string name="impunity_declaration_summary">Mostrar notificação de ligação à Internet sempre que abrir a galeria</string>
   <string name="initializing_cloud">A iniciar…</string>
@@ -284,9 +291,10 @@
   <string name="input_baby_nick_name">Introduzir alcunha</string>
   <string name="input_nickname_toast">Introduzir nome do bebé</string>
   <string name="input_or_select_a_name">Introduzir ou seleccionar nome</string>
+  <string name="introduce">Fazer cópia de fotos e vídeos automaticamente</string>
   <string name="invalid_invition_url">URL de convite inválido</string>
   <string name="invalid_recipient_message">Os nomes dos destinatários que introduziu são inválidos</string>
-  <string name="invite_send_sms_tip">A sua operadora pode cobrar por uma mensagem utilizada para enviar este convite.</string>
+  <string name="invite_send_sms_tip">A sua operadora pode cobrar por uma mensagem utilizada para enviar este convite</string>
   <string name="invite_sharer_again_confirm_button_text">Convidar novamente</string>
   <string name="invite_sharer_confirm_button_text">Convidar</string>
   <string name="invite_sharer_phone_number_tip">Introduzir número de telefone</string>
@@ -332,6 +340,7 @@
   <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
   <string name="negative">Negativo</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
+  <string name="next">Seguinte</string>
   <string name="no">Não</string>
   <string name="no_map_app">Não foi encontrada nenhuma aplicação lidar com esta acção</string>
   <string name="no_network_connected">Sem redes detectadas</string>
@@ -348,10 +357,10 @@
   <string name="operation_add_secret">Adicionar ao álbum oculto</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Info. detalhada</string>
-  <string name="operation_disable_auto_upload">Disable autoBackup</string>
-  <string name="operation_download">Download photo (%s)</string>
-  <string name="operation_edit">Edit</string>
-  <string name="operation_enable_auto_upload">Enable autoBackup</string>
+  <string name="operation_disable_auto_upload">Desactivar cópia automática</string>
+  <string name="operation_download">Transferir foto (%s)</string>
+  <string name="operation_edit">Editar</string>
+  <string name="operation_enable_auto_upload">Activar cópia automática</string>
   <string name="operation_failed">A operação falhou</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
@@ -487,6 +496,7 @@
   <string name="slideshow_interval_title">Mostrar cada diapositivo por</string>
   <string name="slideshow_interval_value">%1$d segundos</string>
   <string name="slim_after_backuped_summary">Substituir as fotos em alta definição por versões optimizadas após terem sido copiadas para a Nuvem Mi. As imagens em alta definição serão armazenadas na Nuvem Mi. Isto pode poupar muito espaço de armazenamento</string>
+  <string name="slim_after_backuped_summary_with_size">Substituir as fotos em alta definição por versões optimizadas após terem sido copiadas para a Nuvem Mi. As imagens em alta definição serão armazenadas na Nuvem Mi. Isto pode poupar %1$s.</string>
   <string name="slim_after_backuped_title">Optimizar armazenamento local após cópia</string>
   <string name="square">Quadrado</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
@@ -511,6 +521,7 @@
   <string name="title_set_name">Introduzir nome</string>
   <string name="title_warn">Aviso</string>
   <string name="to_count">%d total</string>
+  <string name="to_enable_gallery_sync_dialog_message">Active primeiro a sincronização da galeria</string>
   <string name="to_enable_sync_dialog_message">Activar a sincronização primeiro</string>
   <string name="to_enable_sync_dialog_positive_button_text">Ir</string>
   <string name="to_enable_sync_dialog_title">Sincronizar</string>
@@ -534,6 +545,7 @@
   <string name="view_face_album">Ver álbum</string>
   <string name="view_queuing_status">Verificar estado</string>
   <string name="vignette">Vinheta</string>
+  <string name="welcome">Bem-vindo à Nuvem Mi</string>
   <string name="where_is_barcode">Onde está o código QR?</string>
   <string name="who_is_this">Quem?</string>
   <string name="xiaomi_account_not_exists_toast">Conta Mi não existe</string>

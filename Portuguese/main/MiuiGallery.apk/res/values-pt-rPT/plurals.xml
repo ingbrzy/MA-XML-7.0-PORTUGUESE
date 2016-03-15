@@ -56,6 +56,10 @@
         <item quantity="other">%1$d fotos a aguardar para serem copiadas</item>
         <item quantity="one">1 foto a aguardar para ser copiada</item>
     </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d itens | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+    </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d vídeos a aguardar para serem copiados</item>
         <item quantity="one">1 vídeo a aguardar para ser copiado</item>
