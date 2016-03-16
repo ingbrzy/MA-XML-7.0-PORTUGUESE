@@ -61,6 +61,8 @@
   <string name="label_pref_summary">Definir nome deste alarme</string>
   <string name="lap">Volta</string>
   <string name="lap_num">Volta</string>
+  <string name="legal_off_day">Dias não úteis</string>
+  <string name="legal_off_day_message">" (Alarme desligado durante dias úteis)"</string>
   <string name="legal_workday">Dias úteis</string>
   <string name="legal_workday_invalidate">A data está expirada (O alarme toca de segunda a sexta)</string>
   <string name="legal_workday_invalidate_message">(Data expirada. Actualize em Definições)</string>
@@ -75,6 +77,7 @@
   <string name="minute">1 minuto</string>
   <string name="minutes">%s minutos</string>
   <string name="never">Uma vez</string>
+  <string name="oneshot_alarm">Eliminar após desligado</string>
   <string name="pause">Pausar</string>
   <string name="remind_ringtone">Toque</string>
   <string name="reset">Repor</string>

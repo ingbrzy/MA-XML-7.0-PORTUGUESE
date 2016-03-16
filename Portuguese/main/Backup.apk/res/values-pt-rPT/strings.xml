@@ -263,8 +263,7 @@
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
   <string name="trans_operate_func_two">Método B</string>
-  <string name="trans_operate_new_phone_tips">"Digitalize o código QR utilizando o novo dispositivo
-Vá a Definições &gt; Definições Adicionais &gt; Mi Mover
+  <string name="trans_operate_new_phone_tips">"Vá a Definições &gt; Definições Adicionais &gt; Mi Mover
 Toque [Sou um destinatário] para criar um código QR"</string>
   <string name="trans_operate_old_phone_tips1">"1. Instalar a aplicação Mi Mover no seu dispositivo antigo
 2. Abrir a aplicação e tocar em Iniciar
@@ -289,7 +288,7 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
   <string name="trans_retry">Tentar novamente</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
-  <string name="trans_scan_qr_code_tips">Digitalizar código QR utilizando dispositivo novo</string>
+  <string name="trans_scan_qr_code_tips">Digitalizar código QR no dispositivo novo</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
   <string name="trans_select_data_no_space">"%s disponível no novo dispositivo
 Seleccione ficheiros novamente ou liberte espaço"</string>
