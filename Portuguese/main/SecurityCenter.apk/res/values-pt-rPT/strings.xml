@@ -600,6 +600,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="online_read">Notícias</string>
   <string name="online_songs">Música</string>
   <string name="open_now">Permitir que a aplicação utilize dados móveis</string>
+  <string name="operator_diagnostic">Diagnósticos da operadora</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -842,6 +843,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_leisure_not_opened">Desligado</string>
   <string name="pref_manual_adjust">Definir estatísticas de utilização de dados manualmente</string>
   <string name="pref_month_begin_date">Ciclo utilização de dados</string>
+  <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Definições adicionais</string>
   <string name="pref_new_installed_preconfig_title">Definições predefinidas para novas aplicações</string>
   <string name="pref_open_adjust_traffic">Actualizar utilização de dados todos os dias com estatísticas da sua operadora</string>
@@ -972,6 +974,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="shutdown_time_day_tomorrow">Desligar: %1$s</string>
   <string name="signal_exception_summary">Não é possível ligar à rede nesta área</string>
   <string name="signal_exception_title">Testar potência do sinal</string>
+  <string name="sim_location_diagnostic">Diagnósticos de localização</string>
   <string name="sim_location_error_dialog_message">O SIM que está a utilizar é de %1$s. Isto é diferente da localização que introduziu manualmente (%2$s). Alterar a localização do SIM para %3$s?</string>
   <string name="sim_location_error_notify_message">Toque para alterar localização do SIM.</string>
   <string name="sim_location_error_notify_title">Erro cartão SIM</string>
@@ -1095,10 +1098,17 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_upload_success">SMS com relatório de utilização de dados enviado.</string>
   <string name="tc_sms_report_upload_when_net">Obrigado pelo seu comentário!</string>
   <string name="ten_percent_total_pkg">%s (10%% dos dados mensais)</string>
+  <string name="text_button">Entendi</string>
   <string name="text_day"/>
   <string name="text_lock_info">Desenhar padrão de desbloqueio</string>
   <string name="third_application">Aplicações de terceiros</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
+  <string name="timeshow_h">%.1fh</string>
+  <string name="timeshow_h_int">%dh</string>
+  <string name="timeshow_h_m">%1$dh %2$dm</string>
+  <string name="timeshow_m">%dm</string>
+  <string name="timeshow_m_s">%1$dm %2$ds</string>
+  <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Não sabe o seu limite</string>
   <string name="tips_message">Para ver o detalhe do seu plano de dados, marque %2$s (%1$s)</string>
   <string name="title_app_update">Actualizações disponíveis</string>
@@ -1272,6 +1282,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_setting_open">Ligado</string>
   <string name="traffic_setting_step_num">Definições de plano de dados</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
+  <string name="updating_diagnostic_botton">A analizar dados…</string>
   <string name="unable_connect_internet">Sem ligação à Internet</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
   <string name="usage_sorted_empty_text">Vazio</string>
