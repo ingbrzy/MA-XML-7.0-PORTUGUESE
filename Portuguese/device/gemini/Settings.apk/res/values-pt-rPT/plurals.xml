@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s aplicações não podem mostrar notificações</item>
+        <item quantity="one">1 aplicação não pode mostrar notificações</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplicações podem mostrar notificações</item>
+        <item quantity="one">1 aplicação pode mostrar notificações</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Está agora a %1$d passos de ser um programador</item>
+        <item quantity="one">Está agora a %1$d passo de ser um programador</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d impressões digitais configuradas</item>
+        <item quantity="one">%1$d impressão digital configurada</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d números</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um número</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d aplicações providenciam condições</item>
+        <item quantity="one">%d aplicação providencia condições</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicações podem ler as notificações</item>
+        <item quantity="one">%d aplicação pode ler as notificações</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Alterar para apenas alarmes por %1$d minutos (até às %2$s)</item>
+        <item quantity="one">Alterar para apenas alarmes por um minuto até às %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Alterar para apenas alarmes por %1$d horas até às %2$s</item>
+        <item quantity="one">Alterar para apenas alarmes por uma hora até às %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d permissões concedidas</item>
+        <item quantity="one">%d permissão concedida</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d de %2$d permissões concedidas</item>
+        <item quantity="one">%1$d de %2$d permissão concedida</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d permissões adicionais</item>
+        <item quantity="one">%d permissão adicional</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplicações podem abrir links compatíveis</item>
+        <item quantity="zero">Nenhuma aplicação pode abrir qualquer link compatível</item>
+        <item quantity="one">Uma aplicação pode abrir links compatíveis</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplicações com permissão para ignorar a optimização de bateria</item>
+        <item quantity="one">1 aplicação com permissão para ignorar a optimização de bateria</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplicações utilizaram a memória nos(as) últimos(as) %2$s</item>
+        <item quantity="one">1 aplicação utilizou a memória nos(as) últimos(as) %2$s</item>
+    </plurals>    
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Está a %1$d passos de entrar nas informações do telefone</item>
+        <item quantity="one">Está a %1$d passos de entrar nas informações do telefone</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Está a %1$d passos de entrar em modo de diagnóstico</item>
+        <item quantity="one">Está a %1$d passos de entrar em modo de diagnóstico</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Está a %1$d passos de reportar erros</item>
+        <item quantity="one">Está a %1$d passo de reportar erros</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Desactivar sempre para %d aplicações</item>
+        <item quantity="one">Desactivar sempre para 1 aplicação</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nunca desactivar para %d aplicações</item>
+        <item quantity="one">Nunca desactivar para 1 aplicação</item>
+    </plurals>
+</resources>
