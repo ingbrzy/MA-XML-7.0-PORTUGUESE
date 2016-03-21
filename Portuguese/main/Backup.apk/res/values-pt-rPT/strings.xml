@@ -242,8 +242,8 @@
   <string name="trans_backingup">A copiar…</string>
   <string name="trans_backingup_no_items">A sincronizar…</string>
   <string name="trans_calculating">A calcular…</string>
-  <string name="trans_calculating_app_sd_size">A calcular o tamanho dos ficheiros. Verificados %s</string>
-  <string name="trans_calculating_base_size">A calcular o tamanho das aplicações</string>
+  <string name="trans_calculating_app_sd_size">A calcular o tamanho dos dados: %s</string>
+  <string name="trans_calculating_base_size">A calcular o tamanho dos dados</string>
   <string name="trans_cancel_confirm">Transferência em curso. Cancelar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
   <string name="trans_connect_failed_message">Não foi possível ligar. Reinicie o dispositivo ou tente novamente. Execute Mi Mover depois de reiniciar ou vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] no outro dispositivo</string>

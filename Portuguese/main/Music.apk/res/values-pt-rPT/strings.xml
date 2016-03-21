@@ -463,7 +463,7 @@
   <string name="start_download_music">A transferir actualizações…</string>
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
-  <string name="start_to_use">Abrir aplicação</string>
+  <string name="start_to_use">Iniciar para desfrutar</string>
   <string name="start_update">Actualizar para a versão mais recente da aplicação Música</string>
   <string name="stream_normal">Reproduzir na qualidade standard</string>
   <string name="stream_quality">Qualidade do streaming</string>
@@ -501,6 +501,7 @@
   <string name="title_search_hot">Popular</string>
   <string name="to_mi_pay">Créditos Mi</string>
   <string name="toast_cancel_download">Transferência cancelada</string>
+  <string name="toast_cancel_play">Reprodução cancelada</string>
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música.</string>
   <string name="toast_download_in_process">Transferência em curso</string>

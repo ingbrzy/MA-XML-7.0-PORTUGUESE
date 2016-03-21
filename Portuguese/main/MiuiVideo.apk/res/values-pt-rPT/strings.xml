@@ -111,6 +111,7 @@
   <string name="delete_addon">Eliminar</string>
   <string name="delete_addon_content">Eliminar este item?</string>
   <string name="delete_with">Eliminar (%d)</string>
+  <string name="detail">Detalhes</string>
   <string name="detail_comment_empty">Vazio</string>
   <string name="develop_version">Actualizações beta</string>
   <string name="development_setting">Definições de desenvolvimento</string>
@@ -291,6 +292,8 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Filme</string>
   <string name="receive_develop_summary">Receba as actualizações para a versão beta desta aplicação</string>
+  <string name="receive_follow">Notificações de novos episódios</string>
+  <string name="receive_follow_summary">Receber notificações quando estiver disponível um novo episódio</string>
   <string name="receive_mipush">Notificações de conteúdo</string>
   <string name="receive_mipush_summary">Receber notificações quando estiverem disponíveis novos conteúdos online</string>
   <string name="recentplay">Reproduzidos recentemente</string>
@@ -339,6 +342,7 @@
   <string name="start_addon">Iniciar addon</string>
   <string name="storage_remain">"Disponível: "</string>
   <string name="storage_total">"Espaço total: "</string>
+  <string name="subscribe">Subscrever</string>
   <string name="suffix_countdown">s</string>
   <string name="system_setting">Definições da aplicação</string>
   <string name="temp_play_history_button_label">Histórico</string>
