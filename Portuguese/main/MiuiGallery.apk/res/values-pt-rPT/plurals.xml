@@ -69,15 +69,15 @@
         <item quantity="one">1 item a aguardar para ser copiado</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">A copiar %1$d fotos…</item>
-        <item quantity="one">A copiar foto…</item>
+        <item quantity="other">A fazer cópia de %1$d fotos…</item>
+        <item quantity="one">A fazer cópia de foto…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">A copiar %1$d vídeos…</item>
-        <item quantity="one">A copiar vídeo…</item>
+        <item quantity="other">A fazer cópia de %1$d vídeos…</item>
+        <item quantity="one">A fazer cópia de vídeo…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">A copiar %1$d itens…</item>
-        <item quantity="one">A copiar item…</item>
+        <item quantity="other">A fazer cópia de %1$d itens…</item>
+        <item quantity="one">A fazer cópia de item…</item>
     </plurals>
 </resources>

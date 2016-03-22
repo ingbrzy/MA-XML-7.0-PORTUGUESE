@@ -683,7 +683,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_callPhone">Permite que a aplicação ligue para números de telefone sem a intervenção do utilizador. Esta acção pode resultar em cobranças ou chamadas inesperadas. Tenha em atenção que isto não permite que a aplicação ligue para números de emergência. As aplicações maliciosas podem fazer com que incorra em custos, fazendo chamadas sem a sua confirmação.</string>
   <string name="permdesc_camera">Permite que a aplicação tire fotos e grave vídeos com a câmara. Esta permissão permite que a aplicação utilize a câmara sem a sua confirmação em qualquer altura.</string>
   <string name="permdesc_changeNetworkState">Permite que a aplicação altere o estado de conectividade da rede.</string>
-  <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede ligada.</string>
+  <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede partilhada.</string>
   <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o telefone. Utiliza mais energia do que o modo não multicast.</string>
   <string name="permdesc_changeWifiState">Permite que a aplicação se ligue e desligue de pontos de acesso Wi-Fi e que efetue alterações à configuração do dispositivo para redes Wi-Fi.</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
@@ -805,7 +805,7 @@ para a conta %s."</string>
   <string name="permlab_callPhone">marcar números de telefone directamente</string>
   <string name="permlab_camera">tirar fotos e vídeos</string>
   <string name="permlab_changeNetworkState">alterar conectividade de rede</string>
-  <string name="permlab_changeTetherState">alterar conectividade associada</string>
+  <string name="permlab_changeTetherState">alterar conectividade da rede partilhada</string>
   <string name="permlab_changeWifiMulticastState">permitir recepção Multicast Wi-Fi</string>
   <string name="permlab_changeWifiState">ligar e desligar de redes Wi-Fi</string>
   <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
@@ -1121,11 +1121,11 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="system_error_manufacturer">Existe um problema interno no seu dispositivo. Contacte o fabricante para obter mais informações.</string>
   <string name="system_error_wipe_data">Existe um problema interno no seu dispositivo e pode ficar instável até efectuar uma reposição de dados de fábrica.</string>
   <string name="terabyteShort">TB</string>
-  <string name="tethered_notification_message">Toque para configurar.</string>
+  <string name="tethered_notification_message">Toque para configurar</string>
   <string name="tethered_notification_multi_device_message">%1$s dispositivos ligados</string>
   <string name="tethered_notification_no_device_message">Sem dispositivos ligados</string>
   <string name="tethered_notification_one_device_message">%1$s dispositivo ligado</string>
-  <string name="tethered_notification_title">Ligação ponto a ponto ou PA Móvel activos</string>
+  <string name="tethered_notification_title">Partilha de ligação ou PA Móvel activos</string>
   <string name="textSelectionCABTitle">Selecção de texto</string>
   <string name="text_copied">Texto copiado para a área de transferência.</string>
   <string name="time_picker_decrement_hour_button">Diminuir hora</string>

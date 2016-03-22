@@ -887,7 +887,7 @@ Tente novamente dentro de %d segundos."</string>
   <string name="permdesc_changeComponentState">Permite que a aplicação altere a opção de activar/desactivar componentes de outra aplicação. As aplicações maliciosas utilizam isto para desactivar componentes de aplicações importantes do telefone. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
   <string name="permdesc_changeConfiguration">Permite que a aplicação altere a configuração actual, como o tamanho e o tipo de letra.</string>
   <string name="permdesc_changeNetworkState">Permite que a aplicação altere o estado de conectividade da rede.</string>
-  <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede ligada.</string>
+  <string name="permdesc_changeTetherState">Permite que a aplicação altere o estado de conectividade da rede partilhada.</string>
   <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o telefone. Utiliza mais energia do que o modo não multicast.</string>
   <string name="permdesc_changeWifiState">Permite que a aplicação se ligue e desligue de pontos de acesso Wi-Fi e que efectue alterações à configuração do dispositivo para redes Wi-Fi.</string>
   <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telefone de redes WiMAX.</string>
@@ -1170,8 +1170,8 @@ para a conta %s."</string>
   <string name="permlab_changeBackgroundDataSetting">alterar a definição de utilização de dados de segundo plano</string>
   <string name="permlab_changeComponentState">activar ou desactivar componentes da aplicação</string>
   <string name="permlab_changeConfiguration">alterar as definições de visualização do sistema</string>
-  <string name="permlab_changeNetworkState">mudar conectividade de rede</string>
-  <string name="permlab_changeTetherState">alterar conectividade associada</string>
+  <string name="permlab_changeNetworkState">alterar conectividade de rede</string>
+  <string name="permlab_changeTetherState">alterar conectividade da rede partilhada</string>
   <string name="permlab_changeWifiMulticastState">permitir recepção Multicast Wi-Fi</string>
   <string name="permlab_changeWifiState">ligar e desligar de redes Wi-Fi</string>
   <string name="permlab_changeWimaxState">alterar estado do WiMAX</string>
@@ -1558,7 +1558,7 @@ Ouvir níveis elevados de volume durante longos períodos poderá ser prejudicia
   <string name="sync_too_many_deletes_desc">Há %1$d itens eliminados de %2$s, conta %3$s. O que pretende fazer?</string>
   <string name="sync_undo_deletes">Anular as eliminações</string>
   <string name="terabyteShort">TB</string>
-  <string name="tethered_notification_message">Toque para configurar.</string>
+  <string name="tethered_notification_message">Toque para configurar</string>
   <string name="tethered_notification_multi_device_message">%1$s dispositivos ligados</string>
   <string name="tethered_notification_no_device_message">Sem dispositivos ligados</string>
   <string name="tethered_notification_one_device_message">%1$s dispositivo ligado</string>

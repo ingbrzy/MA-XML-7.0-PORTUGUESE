@@ -250,6 +250,7 @@
   <string name="trans_connect_failed_title">Não foi possível ligar</string>
   <string name="trans_connect_failed_toast">Não foi possível ligar</string>
   <string name="trans_connecting_toast">A ligar…</string>
+  <string name="trans_connection_failed">Dispositivo desligado</string>
   <string name="trans_detail_category_account">Contas e contactos</string>
   <string name="trans_detail_category_files">Ficheiros</string>
   <string name="trans_detail_category_sysdata">Dados de sistema</string>
@@ -258,7 +259,7 @@
   <string name="trans_generate_qr_code_failed">Não foi possível criar código QR</string>
   <string name="trans_main_tutor">Mover contactos, registo de chamadas, mensagens, disposição do ecrã, aplicações, definições, etc. para um novo dispositivo</string>
   <string name="trans_my_device">O meu dispositivo</string>
-  <string name="trans_native_no_space">"Sem espaço de armazenamento disponível
+  <string name="trans_native_no_space">"Sem espaço suficiente neste dispositivo.
  Liberte pelo menos %s"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Método A</string>
@@ -276,8 +277,8 @@ Toque [Sou um destinatário] para criar um código QR"</string>
   <string name="trans_progress_subdescript_transing_sender">A enviar %1$s, %2$s completos</string>
   <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros, %s completos</string>
   <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros, %s completos</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">A receber dados de %1$s do cartão SD. %2$s concluído</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">A enviar dados de %1$s do cartão SD. %2$s concluído</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">A receber ficheiros do cartão SD de %1$s. %2$s concluído</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">A enviar ficheiros do cartão SD de %1$s. %2$s concluído</string>
   <string name="trans_progress_subdescript_waiting">A aguardar para receber %s</string>
   <string name="trans_receiver">Sou um destinatário</string>
   <string name="trans_receiver_time_remained">"%s restantes. Mantenha o dispositivo carregado.
@@ -286,12 +287,12 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_receiving_completed">Recebido com sucesso</string>
   <string name="trans_restoring">A restaurar…</string>
   <string name="trans_restoring_no_items">A sincronizar items</string>
-  <string name="trans_retry">Tentar novamente</string>
+  <string name="trans_retry">Repetir</string>
   <string name="trans_scan_invalid_qrcode">Código QR inválido</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR no dispositivo novo</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
-  <string name="trans_select_data_no_space">"%s disponível no novo dispositivo
-Seleccione ficheiros novamente ou liberte espaço"</string>
+  <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo.
+Seleccione os ficheiros novamente ou liberte %s armazenamento no novo dispositivo"</string>
   <string name="trans_select_data_tips">"Seleccionar itens para transferir
 Ficheiros iguais no novo dispositivo vão ser substituídos"</string>
   <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados</string>
