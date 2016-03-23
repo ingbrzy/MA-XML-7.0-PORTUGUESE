@@ -3,15 +3,15 @@
   <string name="app_name">Ecrãs de bloqueio diários</string>
   <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
   <string name="auto_interval">Auto</string>
-  <string name="cancel">Sair</string>
+  <string name="cancel">Cancelar</string>
   <string name="cancel_international">Cancelar</string>
-  <string name="change_time">Alterar intervalo</string>
-  <string name="day">1 dia</string>
-  <string name="declaration">Actualizações e destaques de notícias, celebridades, reportagens, estilos de vida. Tudo em tempo real</string>
-  <string name="declaration_lockscreen_title">Ligar ecrãs de bloqueio diários</string>
+  <string name="change_time">Alterar papéis de parede</string>
+  <string name="day">Uma vez por dia</string>
+  <string name="declaration">Obter novos papéis de parede entregues directamente no seu ecrã de bloqueio todos os dias gratuitamente</string>
+  <string name="declaration_lockscreen_title">Carrosel de Papéis de Parede</string>
   <string name="declaration_title">Termos e Condições</string>
-  <string name="hour_1">1 hora</string>
-  <string name="hour_3">3 horas</string>
+  <string name="hour_1">A cada hora</string>
+  <string name="hour_3">A cada 3 horas</string>
   <string name="lockscreen_magazine_summary">Obter papéis de parede entregues no seu ecrã de bloqueio todos os dias</string>
   <string name="lockscreen_magazine_system_title">Predefinido</string>
   <string name="lockscreen_magazine_title">Papéis de parede diários</string>
@@ -22,11 +22,22 @@
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">Não é possível ligar à rede</string>
   <string name="setting_head">Definições</string>
+  <string name="sst_favor_desc">Verificar papéis de parede favoritos</string>
+  <string name="sst_favor_title">Favoritos</string>
+  <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede favoritos</string>
+  <string name="sst_prov_enable_desc">Disfrute de mais papéis de parede no ecrã de bloqueio</string>
+  <string name="sst_prov_enable_title">Activar Carrosel de Papéis de Parede</string>
+  <string name="sst_require_one_category_hint">Subscreva pelo menos um item</string>
+  <string name="sst_sti_desc">Definir o intervalo de tempo para a alteração dos papéis de parede do ecrã de bloqueio</string>
+  <string name="sst_sti_title">Alteração do intervalo de tempo</string>
+  <string name="sst_subscribe_title">Subscrever</string>
+  <string name="sst_wifi_only_desc">Sugerir a desactivação para poupar dados móveis</string>
+  <string name="sst_wifi_only_title">Activar a transferência de imagens com a ligação de dados móveis</string>
   <string name="summary">"Aceitar o nosso <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acordo de Utilizador</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para começar. Necessário ligação à Internet."</string>
-  <string name="summary_international">"Ao utilizar este produto, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente.​"</string>
+  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente.​"</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Bloqueio de ecrã aplicado</string>
   <string name="theme_applying">A aplicar…</string>
-  <string name="wlan_download">Actualizar quando ligado ao Wi-Fi</string>
-  <string name="wlan_download_cn">Actualizar quando ligado ao Wi-Fi</string>
+  <string name="wlan_download">Actualizar através de Wi-Fi</string>
+  <string name="wlan_download_cn">Actualizar através de Wi-Fi</string>
 </resources>

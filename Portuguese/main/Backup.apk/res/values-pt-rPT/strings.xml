@@ -149,6 +149,8 @@
   <string name="notif_restore_complete_title">Restaurado com sucesso</string>
   <string name="notif_restore_content">A restaurar dados</string>
   <string name="notif_restore_title">Restaurar dados</string>
+  <string name="notif_trans_receiving_completed">Dados recebidos com sucesso</string>
+  <string name="notif_trans_sending_completed">Dados enviados com sucesso</string>
   <string name="page_loading">Aguarde…</string>
   <string name="progress_backup_hint">A copiar os seus dados…</string>
   <string name="progress_restore_hint">A restaurar…</string>
@@ -273,7 +275,9 @@ Toque [Sou um destinatário] para criar um código QR"</string>
   <string name="trans_please_waiting">Aguarde…</string>
   <string name="trans_progress_subdescript_br_receiver">A restaurar %1$s, %2$s completos</string>
   <string name="trans_progress_subdescript_br_sender">A copiar %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Copiados %s, a aguardar para enviar…</string>
   <string name="trans_progress_subdescript_transing_receiver">A receber %1$s, %2$s completos</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Recebidos %s, a aguardar para restaurar…</string>
   <string name="trans_progress_subdescript_transing_sender">A enviar %1$s, %2$s completos</string>
   <string name="trans_progress_subdescript_transingsd_receiver">A receber ficheiros, %s completos</string>
   <string name="trans_progress_subdescript_transingsd_sender">A enviar ficheiros, %s completos</string>
@@ -322,7 +326,16 @@ e Transferências estão activas"</string>
   <string name="unit_piece">" itens"</string>
   <string name="unknown_hint">Desconhecido</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Não foi possível ligar ao Gestor de Transferências. Verifique o estado do Gestor de Transferências na Gestão de Aplicações</string>
+  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
+  <string name="xiaomi_update_dialog_message">"A introduzir a versão %1$s
+Tamanho: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"A introduzir a versão %1$s
+Tamanho da actualização Delta: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">Nova versão disponível!</string>
 </resources>

@@ -154,10 +154,12 @@
   <string name="encrypt_success">Ocultados com sucesso</string>
   <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Explorador.</string>
   <string name="encrypting">A encriptar…</string>
+  <string name="error_contains_sharer_path">"Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova os ficheiros para outra directoria e tente novamente"</string>
   <string name="error_filename_too_long">O nome do ficheiro é muito longo.</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro.</string>
   <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção.</string>
   <string name="expand_all">Tudo</string>
+  <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fail_to_create_folder">Espaço insuficiente ou a pasta já existe.</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
@@ -422,7 +424,6 @@ e nunca perca as novidades!"</string>
   <string name="operation_show_sys">Mostrar ficheiros ocultos</string>
   <string name="operation_unfavorite">Remover dos favoritos</string>
   <string name="operation_unlike">Remover dos favoritos</string>
-  <string name="otg_file_can_not_open">Não é possível abrir o ficheiro no USB. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="pan_settting">Definições KuaiPan</string>
   <string name="partial_cancel_successful">"Não foi possível remover alguns ficheiros. O resto dos ficheiro foram movidos para sdcard/fileexplorer/decryption"</string>
   <string name="partial_delete_failure">"Não foi possível eliminar alguns ficheiros, tente novamente"</string>

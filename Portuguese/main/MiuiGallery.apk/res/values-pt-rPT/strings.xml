@@ -33,7 +33,6 @@
   <string name="album_page_label">Álbuns</string>
   <string name="album_quota_fulfiled">Demasiados álbuns. Elimine alguns álbuns e tente novamente</string>
   <string name="album_screenshot_name">Capturas de ecrã</string>
-  <string name="album_setting_show_in_photo_tab_success">Este álbum já está na página inicial</string>
   <string name="album_share_exit_confirm">Sair deste álbum?</string>
   <string name="album_share_kicked">%1$s está fechado</string>
   <string name="album_share_stat_content">Convites</string>
@@ -224,6 +223,8 @@
   <string name="expand_people">Mostrar mais pessoas</string>
   <string name="face_album_detecting_tip">Aguarde…</string>
   <string name="face_album_empty">Vazio</string>
+  <string name="face_album_empty_syncing">A sincronizar dados</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Sincronizar dados de rostos quando o dispositivo está ligado ao Wi-Fi</string>
   <string name="face_album_long_tap_tip">Para seleccionar várias pessoas ou alterar as definições de grupo, prima e segure uma foto de perfil</string>
   <string name="face_album_new_name_hint">Novo nome</string>
   <string name="face_album_not_named">Sem nome</string>
@@ -381,6 +382,8 @@
   <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde alguns minutos e tente novamente.</string>
   <string name="operation_unforce_top">Soltar</string>
   <string name="operation_unhide">Mostrar</string>
+  <string name="orientation_lock_tip">Rotação bloqueada</string>
+  <string name="orientation_unlock_tip">Auto-rotação aberta</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_settings">Definições adicionais</string>
@@ -437,8 +440,6 @@
   <string name="relation_text_maternal_grandmother">Avó Materna</string>
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher uma relação</string>
-  <string name="remind_shows_in_photo_tab_summary">Mostrar este álbum na página inicial?</string>
-  <string name="remind_shows_in_photo_tab_title">Definições do álbum</string>
   <string name="remove_from_secret_fail">Não foi possível remover álbum dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode ser removido do álbum oculto. %1$s.</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s.</string>
@@ -480,6 +481,7 @@
   <string name="set_face_group_toast_msg_old_user">Segure num rosto e identifique esta pessoa (família, amigos, etc.)</string>
   <string name="set_face_group_toast_title_new_user">Sugestão</string>
   <string name="set_face_group_toast_title_old_user">As pessoas podem ser organizadas em grupos</string>
+  <string name="set_face_image">Definir um novo rosto</string>
   <string name="set_group">Definir grupo</string>
   <string name="shadow">Sombras</string>
   <string name="share_album">Partilhar álbum</string>

@@ -1,32 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
+    <string-array name="education">
+        <item>Escola preparatória</item>
+        <item>Escola básica</item>
+        <item>Escola secundária</item>
+        <item>Escola profissional</item>
+        <item>Faculdade</item>
+        <item>Mestrado</item>
+        <item>Doutoramento</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Família</item>
+        <item>Nome da avó materna</item>
+        <item>Nome do avô materno</item>
+        <item>Nome do avô paterno</item>
+        <item>Nome da avó paterna</item>
+        <item>Aniversário do pai</item>
+        <item>Aniversário da mãe</item>
+        <item>Qual é a diferença de idade dos seus pais (anos e meses)?</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Escolaridade</item>
+        <item>Qual o nome do presidente de classe na preparatória?</item>
+        <item>Qual o nome do presidente de classe na pré-primária?</item>
+        <item>Nº de aluno na faculdade</item>
+        <item>Qual o nome do seu colega de quarto na faculdade?</item>
+        <item>Qual o nome do seu supervisor na faculdade?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Informação pessoal</item>
+        <item>Como é que os seus pais o chamam?</item>
+        <item>Últimos 6 dígitos do seu nº de passaporte</item>
+        <item>Em que hospital nasceu?</item>
+        <item>Qual o nome do seu melhor amigo?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Primeiras vezes</item>
+        <item>Qual o nome do seu primeiro animal de estimação?</item>
+        <item>Qual o nome do seu primeiro namorado/a?</item>
+        <item>Qual o nome da empresa onde começou a trabalhar?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Casamento</item>
+        <item>Em que data se casou?</item>
+        <item>Nome do cônjuge</item>
+        <item>Aniversário do cônjuge</item>
     </string-array>
 </resources>

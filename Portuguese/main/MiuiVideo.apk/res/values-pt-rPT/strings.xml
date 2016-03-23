@@ -6,7 +6,6 @@
   <string name="about_version_label">"Versão "</string>
   <string name="actor">Actor</string>
   <string name="actor_intro">Acerca de</string>
-  <string name="ad_countdown">%ss restantes</string>
   <string name="ad_moredetail">Ver detalhes</string>
   <string name="add_favorite_success">Favoritos</string>
   <string name="add_more_addons">Adicionar mais add-ons</string>
@@ -285,7 +284,6 @@
   <string name="positive_comment">Gostos</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
-  <string name="prefix_countdown">"Anúncios restantes: "</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Se disponível guardar automaticamente no cartão SD</string>
   <string name="pulltorefresh">Descer para actualizar</string>
@@ -399,7 +397,10 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Este tipo de ficheiro não é suportado.</string>
   <string name="vp_VideoView_error_text_unknown">Ocorreu um erro desconhecido.</string>
   <string name="vp_VideoView_error_title">Erro desconhecido</string>
-  <string name="vp_ad_skip">Ignorar</string>
+  <string name="vp_ad_countdown_m_s">Anúncios %1$dm%2$ss</string>
+  <string name="vp_ad_countdown_s">%1$s</string>
+  <string name="vp_ad_skip">Ignorar anúncios</string>
+  <string name="vp_ad_skip_at">Ignorar anúncios depois de %1$d</string>
   <string name="vp_adapt_height">Ajustar altura</string>
   <string name="vp_adapt_width">Ajustar largura</string>
   <string name="vp_app_download">Transferir aplicação</string>
