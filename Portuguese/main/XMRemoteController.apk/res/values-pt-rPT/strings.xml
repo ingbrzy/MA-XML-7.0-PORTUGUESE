@@ -16,6 +16,8 @@
   <string name="add_device_match_desc_center">    2. Toque no botão</string>
   <string name="add_device_match_desc_top">    1. Aponte o seu dispositivo Mi ao seu %1$s</string>
   <string name="add_device_remote">Adicionar controlo remoto %1$s</string>
+  <string name="add_fav_channel">添加收藏</string>
+  <string name="add_fav_channel_hint">添加收藏更多频道，方便您找到喜欢的节目</string>
   <string name="add_more">Adicionar mais dispositivos IR</string>
   <string name="add_new_control">Adicionar controlo remoto</string>
   <string name="add_new_tv">Adicionar TV…</string>
@@ -50,8 +52,13 @@
   <string name="app_uninstall">Desinstalar</string>
   <string name="app_update">Actualizar</string>
   <string name="app_version">Versão %1$s</string>
+  <string name="append_ok_key_after_num">数字键换台后增加确认键</string>
   <string name="application">Aplicações</string>
   <string name="back">Voltar</string>
+  <string name="backup">备份到云端</string>
+  <string name="backup_failed">备份失败，请您重试</string>
+  <string name="backup_succeed">备份成功</string>
+  <string name="backuping">正在备份</string>
   <string name="bedroom">Quarto</string>
   <string name="bind_stb_dlg">Emparelhar set-top box para trocar canais</string>
   <string name="bind_stb_dlg_agree">Emparelhar</string>
@@ -70,6 +77,7 @@
   <string name="cancel_share">Parar de partilhar</string>
   <string name="cancel_share_done">Parou de partilhar</string>
   <string name="carrier_data">Informação de operadora</string>
+  <string name="change_to_channel">正在换台 [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s已加入收藏</string>
   <string name="channel_catogory_name">Canais</string>
@@ -79,6 +87,7 @@
   <string name="choose_address_title">Seleccionar localização</string>
   <string name="circlepad_slide_tips">Utilizar o botão roda para ajustar o volume</string>
   <string name="click_to_expend">Expandir</string>
+  <string name="click_to_login">点击登陆</string>
   <string name="click_to_retry">Toque para tentar novamente</string>
   <string name="click_to_shrink">Minimizar</string>
   <string name="close">Desligar</string>
@@ -147,7 +156,9 @@
   <string name="epg_detail_title_text">Descrição</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_episode_open">Mostrar tudo</string>
-  <string name="epg_fav_channels">Adicionar canal aos favoritos</string>
+  <string name="epg_fav_channels">Guardar canal</string>
+  <string name="epg_home_sliding_down">收起</string>
+  <string name="epg_home_sliding_up">上划</string>
   <string name="epg_hot_channels">Canais</string>
   <string name="epg_hot_programs">Séries</string>
   <string name="epg_loading_hint">Trocar canais na sua set-top box utilizando o telefone</string>
@@ -193,6 +204,8 @@
   <string name="gesture_pad_orietaion_tips">Deslizar para mover em qualquer direcção. Toque para confirmar.</string>
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume.</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
+  <string name="get_backup_failed">恢复失败，请您重试</string>
+  <string name="get_backup_succeed">恢复完成，共%1$d个, 已有%2$d个，恢复%3$d个，</string>
   <string name="get_data_fail_tips">获取数据失败，请您重试</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
@@ -250,6 +263,7 @@
   <string name="just_now">Agora mesmo</string>
   <string name="just_used">Agora mesmo</string>
   <string name="key_press_vibrate">Vibrar ao tocar</string>
+  <string name="last_bak_time">最近一次备份 %1$s</string>
   <string name="last_use_frame">%1$s atrás</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Sala de estar</string>
@@ -262,9 +276,15 @@
   <string name="locate_current_place">Encontrar localização actual</string>
   <string name="location_select">Renomear dispositivo</string>
   <string name="login">登录</string>
+  <string name="login_directly">直接登录</string>
   <string name="login_done">Com sessão iniciada</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
+  <string name="login_failed_tips">抱歉获取账号信息失败，请确认网络畅通</string>
   <string name="login_thirdparty">其他方式登录</string>
+  <string name="login_wxfailed_tips">获取微信账号信息失败，请稍后再试</string>
+  <string name="logining">登录中</string>
+  <string name="logout">退出登录</string>
+  <string name="logout_done">已退出登录</string>
   <string name="management_app_management">Aplicações</string>
   <string name="management_settings">Definições</string>
   <string name="management_video_favor">Histórico e favoritos</string>
@@ -345,6 +365,7 @@ aguarde um momento depois da acção."</string>
   <string name="max_enter">Não é possível exceder %d caracteres</string>
   <string name="maybe_is">Certifique-se:</string>
   <string name="menu">Menu</string>
+  <string name="mi_account">小米账号</string>
   <string name="mi_account_name">Conta Mi</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">C.Remoto Mi</string>
@@ -357,10 +378,12 @@ aguarde um momento depois da acção."</string>
   <string name="month">月</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Mais</string>
+  <string name="more_fav_channel">更多收藏</string>
   <string name="more_hot_programs">Mais séries…</string>
   <string name="mute">Silenciar</string>
   <string name="my_activity">我的活动</string>
   <string name="my_appointment">我的预约</string>
+  <string name="my_backup">遥控器备份</string>
   <string name="my_favorite">我的收藏</string>
   <string name="my_setting">设置</string>
   <string name="network_diagnosis">Testar rede</string>
@@ -369,6 +392,7 @@ aguarde um momento depois da acção."</string>
   <string name="network_unstable">· Tem uma ligação estável</string>
   <string name="next_step">Seguinte</string>
   <string name="no">Não</string>
+  <string name="no_backup">没有发现可恢复数据</string>
   <string name="no_brand_service">Marca actualmente não disponível</string>
   <string name="no_current_play">"A reproduzir: - "</string>
   <string name="no_data">Sem informação</string>
@@ -386,6 +410,7 @@ aguarde um momento depois da acção."</string>
   <string name="notification_found_shared_remote_title">Encontrou um %1$s próximo</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" vai começar em 30 minutos.</string>
+  <string name="notification_str3">\" vai começar em 5 minutos.</string>
   <string name="notification_title">Notificação temporizador</string>
   <string name="num_keys">Numérico</string>
   <string name="office">Escritório</string>
@@ -569,6 +594,8 @@ Para activar a sua conta, siga o
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Controlo remoto</string>
+  <string name="recover">从云端恢复</string>
+  <string name="recovering">正在恢复</string>
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_no_point">A actualizar…</string>
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
@@ -578,6 +605,7 @@ Para activar a sua conta, siga o
   <string name="rename_hint">Introduzir nome do dispositivo</string>
   <string name="repeat_diagnosis">Testar novamente</string>
   <string name="report_problem">Reportar problema</string>
+  <string name="require_login">请先登录</string>
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Toque para ver mais</string>
   <string name="save">Guardar</string>
@@ -604,6 +632,7 @@ Para activar a sua conta, siga o
   <string name="select_area">Escolher localização</string>
   <string name="select_brand">Seleccionar %s</string>
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
+  <string name="select_stb">选择机顶盒</string>
   <string name="service_info">Informação de Serviço</string>
   <string name="setting_airkan">ECRÃ SEM FIOS</string>
   <string name="setting_common">GERAL</string>
@@ -671,6 +700,7 @@ Para activar a sua conta, siga o
   <string name="somthing_wrong">Com problemas?</string>
   <string name="sorry">Erro</string>
   <string name="speech_init_failed">Toque para instalar motor de voz iFly</string>
+  <string name="speed_up_channel_switch">在一些机顶盒上可以提高换台速度</string>
   <string name="splash_add_device_des">Comece por adicionar alguns dispositivos</string>
   <string name="splash_desc">Controlar tudo apenas com um toque.</string>
   <string name="start_diagnosis">Testar</string>
@@ -721,6 +751,7 @@ Para activar a sua conta, siga o
   <string name="upgrading">A actualizar…</string>
   <string name="use_tv_power_key">"Utilizar o botão Ligar/Desligar de %1$s
 Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
+  <string name="user_title">我的</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
@@ -741,6 +772,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="video_play_count_label">"Vistos: "</string>
   <string name="virtual_keyhboard">Utilizar teclado do dispositivo</string>
   <string name="virtual_keyhboard_intro">Utilizar o teclado do seu dispositivo para escrever no ecrã</string>
+  <string name="voice">语音</string>
   <string name="voice_download_tips">Toque OK para transferir motor de voz</string>
   <string name="voice_download_title">Atenção</string>
   <string name="voice_engine_ifly_fail">Não foi possível reconhecer voz</string>
@@ -748,10 +780,11 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="voice_resolving">A reconhecer voz…</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatura exterior:</string>
+  <string name="wechat_account">微信账号</string>
   <string name="wind_direct">Fixo</string>
-  <string name="wind_direct_automatic">Balanço auto.</string>
+  <string name="wind_direct_automatic">Balanço</string>
   <string name="wind_direct_down">Baixo</string>
-  <string name="wind_direct_manual">Balanço</string>
+  <string name="wind_direct_manual">Fixo</string>
   <string name="wind_direct_middle">Meio</string>
   <string name="wind_direct_up">Cima</string>
   <string name="wind_speed">Velocidade</string>
@@ -760,6 +793,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="wind_speed_low">Baixo</string>
   <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Ventoinha</string>
+  <string name="wx_not_installed">您没有安装微信客户端</string>
   <string name="year_month_day_format">yyyy, dd MMM</string>
   <string name="yes">Sim</string>
   <string name="yesterday">Ontem</string>
