@@ -154,6 +154,7 @@
   <string name="archived">Arquivada</string>
   <string name="att_download_failed_content">Não é possível transferir o anexo desta mensagem</string>
   <string name="att_download_failed_network_slow">A velocidade da rede está lenta, tente novamente mais tarde</string>
+  <string name="att_download_failed_permission_denied">Não tem permissões para aceder ao armazenamento externo</string>
   <string name="att_download_failed_title">Não é possível transferir o anexo</string>
   <string name="att_file_not_exists">Não foi possível encontrar %s</string>
   <string name="att_mgr_no_attachment">Sem anexos.</string>
@@ -220,7 +221,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Limpar aprovações de fotos?</string>
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
-  <string name="click_to_reload">Clique no ecrã para carregar</string>
+  <string name="click_to_reload">Toque no ecrã para actualizar</string>
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="colon">:</string>
   <string name="compose">Escrever</string>
@@ -327,7 +328,8 @@
   <string name="download_complete_not_cancel">Transferência concluída</string>
   <string name="download_confirm_message">Transferir %1$s anexos?</string>
   <string name="download_confirm_title">Transferir anexo</string>
-  <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir.</string>
+  <string name="download_message_failed_for_too_large">Mensagem demasiado grande para transferir</string>
+  <string name="download_whole_email">Transferir a reposição de conteúdo</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Fechar área de navegação</string>
   <string name="drawer_open">Abrir área de navegação</string>
@@ -357,6 +359,8 @@
   <string name="feedback">Enviar comentários</string>
   <string name="feedback_body">Mensagem</string>
   <string name="feedback_sent">Obrigado pelo seu comentário</string>
+  <string name="feedback_user_edit_hint">Descreva o problema aqui. Vamos enviar lhe um email após verificarmos</string>
+  <string name="feedback_user_edit_tag">De MIUI </string>
   <string name="fetching_attachment">A obter anexo</string>
   <string name="file_deleted_success">Ficheiro eliminado</string>
   <string name="file_not_found">Não foi possível encontrar o ficheiro</string>
@@ -437,18 +441,18 @@
   <string name="hint_quick_reply_all">Responder a todos</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">A palavra-passe para o servidor de entrada de correio está errada</string>
-  <string name="info_actionbar_normal_detail">Detalhes do artigo</string>
-  <string name="info_actionbar_subscribe">Subscrever linha</string>
+  <string name="info_actionbar_normal_detail">Detalhes</string>
+  <string name="info_actionbar_subscribe">Feed de notícias</string>
   <string name="info_item_from">De</string>
   <string name="info_item_hide">Ocultar</string>
-  <string name="info_loading">A carregar</string>
+  <string name="info_loading">A carregar…</string>
   <string name="info_name_title">Notícias</string>
-  <string name="info_no_message">Sem artigos</string>
-  <string name="info_no_more_message">Não há mais itens para mostrar</string>
+  <string name="info_no_message">Se artigos para ver</string>
+  <string name="info_no_more_message">Se mais itens para ver</string>
   <string name="info_switch_summary">Ver notícias em destaque</string>
-  <string name="info_switch_title">Notícias da caixa de entrada</string>
-  <string name="info_sync_error">Erro de sincronização. Tente novamente mais tarde</string>
-  <string name="information_subscribe_first_intro">Parece que está a utilizar o feed de Notícias pela primeira vez. Fale nos sobre os seus interesses para que possamos personalizar as suas notícias</string>
+  <string name="info_switch_title">Notícias</string>
+  <string name="info_sync_error">Não foi possível sincronizar. Tente novamente mais tarde</string>
+  <string name="information_subscribe_first_intro">Está a utilizar o feed de notícias pela primeira vez. Diga-nos quais os seus interesses para podermos personalizar as notícias</string>
   <string name="inline_picture_deleted">A transferir imagem perdida…</string>
   <string name="input_password_prompt">Introduza a sua palavra-passe:</string>
   <string name="invalid_recipient">O endereço %s é inválido.</string>
@@ -855,8 +859,8 @@
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
   <string name="upload_log_success">Registos enviados com sucesso</string>
-  <string name="upload_log_title">Enviar registo à Xiaomi</string>
-  <string name="upload_log_yes">A enviar</string>
+  <string name="upload_log_title">Enviar registos para nos ajudar a melhorar o Email WPS</string>
+  <string name="upload_log_yes">Enviar</string>
   <string name="uploading_logs">Aguarde…</string>
   <string name="validation_failed_prompt">Não foi possível verificar a conta, verifique as definições do servidor %s</string>
   <string name="veiled_address"/>
@@ -873,7 +877,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
-  <string name="yidianzixun">yidianzixun</string>
+  <string name="yidianzixun">Yi Dian Zixun</string>
   <string name="you_are_in_mobile_network">Enviar registo usando a sua ligação de dados móveis? Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
   <string name="zip_viewer_no_file">Sem ficheiros.</string>
 </resources>
