@@ -6,7 +6,7 @@
   <string name="all">Tudo</string>
   <string name="app_name">Rádio</string>
   <string name="app_to_share">Concluir acção utilizando</string>
-  <string name="avoid_to_use_traffic_summary">Utilizar a sua ligação de dados móveis para transferir conteúdos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="avoid_to_use_traffic_summary">Utilizar a sua ligação de dados móveis para transferir conteúdos vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="avoid_to_use_traffic_title">Aviso de dados móveis</string>
   <string name="batch_download">Transferir</string>
   <string name="batch_download_start_toast">A transferir…</string>
@@ -45,7 +45,7 @@
   <string name="has_no_program_now">Vazio</string>
   <string name="high_quality">Alta (48 kbps)</string>
   <string name="hotlist_name">Destaques</string>
-  <string name="impunity_declaration">Rádio tem de ligar à Internet e aceder à sua localização para funcionar normalmente.</string>
+  <string name="impunity_declaration">Rádio tem de ligar à Internet e aceder à sua localização para funcionar normalmente7.</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
   <string name="impunity_declaration_negative_text">Não permitir</string>
   <string name="impunity_declaration_positive_text">OK</string>
@@ -59,7 +59,7 @@
   <string name="local_list_item_history">Histórico</string>
   <string name="local_program">Dispositivo</string>
   <string name="metered_alert">Aviso de utilização de dados</string>
-  <string name="metered_alert_msg">Utilizar a sua ligação de dados móveis para ouvir música aumenta o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais.</string>
+  <string name="metered_alert_msg">Utilizar a sua ligação de dados móveis para ouvir música aumenta o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais7.</string>
   <string name="metered_allow">Stream</string>
   <string name="metered_disallow">Cancelar</string>
   <string name="metered_network_text">Transmitir utilizando rede calibrada</string>
@@ -74,7 +74,7 @@
   <string name="no_display_history_text">Sem histórico</string>
   <string name="no_display_other_text">Sem resultados</string>
   <string name="no_download_text">Sem transferências</string>
-  <string name="no_network_button_radio">Utilizar rádio FM</string>
+  <string name="no_network_button_radio">Utilizar Rádio FM</string>
   <string name="no_network_button_refresh">Actualizar</string>
   <string name="no_network_text">Não é possível ligar à rede.</string>
   <string name="no_program">Vazio</string>
@@ -118,5 +118,5 @@
   <string name="ultra_high_quality">Boa (64 kbps)</string>
   <string name="unfavorite">Remover dos favoritos</string>
   <string name="updated">" actualizado"</string>
-  <string name="use_fm_radio_failed">Este dispositivo não pode utilizar o rádio FM</string>
+  <string name="use_fm_radio_failed">Este dispositivo não pode utilizar o Rádio FM</string>
 </resources>
