@@ -10,7 +10,7 @@
   <string name="auto_backup">Cópia de segurança automática</string>
   <string name="auto_backup_all_user_apps">Todas as aplicações</string>
   <string name="auto_backup_choose">Cópia de segurança automática</string>
-  <string name="auto_backup_choose_empty">Não existem cópias de segurança.</string>
+  <string name="auto_backup_choose_empty">Não existem cópias de segurança</string>
   <string name="auto_backup_choose_title">Escolha os ficheiros a copiar</string>
   <string name="auto_backup_date">Dia</string>
   <string name="auto_backup_only_wifi">Só através de Wi-Fi</string>
@@ -81,7 +81,7 @@
   <string name="delete">Eliminar</string>
   <string name="delete_backup_process">A eliminar…</string>
   <string name="delete_backup_title">Eliminar cópias</string>
-  <string name="delete_failed_backup_confirm">Esta cópia contem erros.</string>
+  <string name="delete_failed_backup_confirm">Esta cópia contem erros</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="digit_percent">%</string>
   <string name="disable_encrypt_title">Encriptação desactivada</string>
@@ -97,11 +97,11 @@
   <string name="err_bakfile_broken">Não pode usar esta cópia</string>
   <string name="err_filesystem_mount">Não foi possível aceder ao armazenamento do router</string>
   <string name="err_low_storage">Não existe espaço suficiente</string>
-  <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente.</string>
+  <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
   <string name="err_router_files_delete">Não foi possível eliminar os ficheiros de cópia no router</string>
   <string name="err_unknown">Erro desconhecido</string>
-  <string name="err_version_too_old">O ficheiro Cópia é muito antigo.</string>
-  <string name="err_version_unsupported">A versão não é suportada.</string>
+  <string name="err_version_too_old">O ficheiro Cópia é muito antigo</string>
+  <string name="err_version_unsupported">A versão não é suportada</string>
   <string name="every_day">Todos os dias</string>
   <string name="exchange_account">Conta Exchange</string>
   <string name="fail">Erro</string>
@@ -112,14 +112,14 @@
   <string name="files_backup_info">Todos os ficheiros no cartão SD (incluindo fotos, músicas, vídeos, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos da Nuvem Mi</string>
-  <string name="guarded_mode_dialog_message">Esta função não é permitida no modo de convidado.</string>
-  <string name="guarded_mode_dialog_title">Está em modo de convidado</string>
+  <string name="guarded_mode_dialog_message">Esta função não é permitida no modo de Convidado</string>
+  <string name="guarded_mode_dialog_title">Está em modo de Convidado</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação Mi Talk e inicie a sessão.
 \u0009http://www.miliao.com
 
 2.\u0009Ir para definições MiTalk e seleccione ”Faça cópia dos seus contactos na Conta Mi”"</string>
-  <string name="import_from_xiaomi_account_hint2">Se já fez a sua cópia, toque Seguinte.</string>
-  <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para copiar os seus contactos entre dispositivos.</string>
+  <string name="import_from_xiaomi_account_hint2">Se já fez a sua cópia, toque Seguinte</string>
+  <string name="import_from_xiaomi_account_hint_title">Utilize o MiTalk para copiar os seus contactos entre dispositivos</string>
   <string name="local_app_name">Cópias</string>
   <string name="local_backup_window_title">Cópia de dados local</string>
   <string name="local_home_title">Cópia de segurança local</string>
@@ -133,7 +133,7 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicações</string>
   <string name="local_select_video">Vídeos</string>
-  <string name="miliao_account_guide">Utilize a sua Conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar.</string>
+  <string name="miliao_account_guide">Utilize a sua Conta Mi para iniciar sessão na Nuvem Mi, Loja de Temas MIUI e outros serviços Mi, em qualquer lugar</string>
   <string name="miliao_account_login">Início de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
@@ -142,7 +142,7 @@
   <string name="no_encrypt_password">Sem palavra-passe</string>
   <string name="no_network">Não é possível ligação à rede</string>
   <string name="note_title">Notas</string>
-  <string name="nothing_searched">Sem resultados.</string>
+  <string name="nothing_searched">Sem resultados</string>
   <string name="notif_backup_complete_title">Copiado com sucesso</string>
   <string name="notif_backup_content">Copiar dados do utilizador</string>
   <string name="notif_backup_title">Copiar dados</string>
@@ -178,7 +178,7 @@
   <string name="reverse_all">Eliminar todos</string>
   <string name="router_backup_hint">Mantenha o seu dispositivo ligado</string>
   <string name="sc_bad_request">Pedido inválido</string>
-  <string name="sc_internal_server_error">Erro interno do servidor.</string>
+  <string name="sc_internal_server_error">Erro interno do servidor</string>
   <string name="sc_network_unavailable">Verifique a sua ligação à rede e tente novamente</string>
   <string name="sc_others">Ocorreu um erro</string>
   <string name="sc_precondition_failed">Primeiro tem que adicionar um endereço email à sua Conta Mi</string>
@@ -187,7 +187,7 @@
   <string name="sc_unaccess_password_file">Não é possível localizar a palavra-passe de rede</string>
   <string name="sc_unauthorized">Inicie sessão novamente</string>
   <string name="sd_not_available">Insira agora o cartão SD</string>
-  <string name="sdcard_no_enough_space">Não há espaço no cartão SD.</string>
+  <string name="sdcard_no_enough_space">Não há espaço no cartão SD</string>
   <string name="sdcard_no_enough_space_message">Não há espaço suficiente no armazenamento</string>
   <string name="sdcard_unmounted">Insira agora o seu cartão SD</string>
   <string name="see_backup_files_on_router">Ver cópias no Router Mi %s</string>
@@ -238,7 +238,7 @@
   <string name="task_running_hint">O serviço está a ser executado em segundo plano</string>
   <string name="task_running_restore_dialog">Restauro em curso. Toque OK para ver</string>
   <string name="task_running_restore_hint">O serviço está a ser executado em segundo plano</string>
-  <string name="task_service_not_launched">A tarefa ainda não iniciou.</string>
+  <string name="task_service_not_launched">A tarefa ainda não iniciou</string>
   <string name="task_stopped_exception">Restauro interrompido</string>
   <string name="total_num">"%d itens, "</string>
   <string name="trans_backingup">A copiar…</string>
@@ -325,6 +325,9 @@ e Transferências estão activas"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" itens"</string>
   <string name="unknown_hint">Desconhecido</string>
+  <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
+  <string name="user_notice_message">Algumas funcionalidades necessitam duma ligação à Internet para funcionar normalmente</string>
+  <string name="user_notice_title">Notificações de utilizador</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível ligar ao Gestor de Transferências. Verifique o estado do Gestor de Transferências na Gestão de Aplicações</string>

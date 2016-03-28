@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">A mover dados do utilizador. Aguarde alguns minutos.</string>
+  <string name="account_bind_prompt">A mover dados do utilizador. Aguarde alguns minutos</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Seleccionar tudo</string>
   <string name="ad_download">Transferir</string>
@@ -10,7 +10,7 @@
   <string name="add_task">Adicionar tarefas</string>
   <string name="adding_upload_tasks">A adicionar tarefas#8230;</string>
   <string name="already_liked">Já adiconou este item aos Favoritos</string>
-  <string name="already_signin_description">Já foi deu entrada hoje.</string>
+  <string name="already_signin_description">Já foi deu entrada hoje</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Câmara</string>
@@ -67,15 +67,14 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Ficheiros</string>
-  <string name="change_sticker">Escolha outro adesivo</string>
+  <string name="change_sticker">Escolher outro sticker</string>
   <string name="choose_report_reason">Porque está a reportar este vídeo?</string>
   <string name="choose_send_type">Enviar via…</string>
   <string name="choose_upload_location">Enviar para KuaiPan</string>
   <string name="clean_hint">Toque para libertar espaço</string>
-  <string name="clean_message">%1$s de espaço libertado.</string>
-  <string name="clean_title">Eliminar ficheiros com mais de 30 dias.</string>
+  <string name="clean_message">%1$s de espaço libertado</string>
+  <string name="clean_title">Eliminar ficheiros com mais de 30 dias</string>
   <string name="clean_trash_box">Esvaziar lixo</string>
-  <string name="cleaning">A limpar…</string>
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
   <string name="close">Fechar</string>
   <string name="compress_fail">Não foi possível comprimir. Já existe um ficheiro com o mesmo nome</string>
@@ -104,11 +103,11 @@
   <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>
   <string name="decompress_confirm">Extrair</string>
-  <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho.</string>
-  <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados.</string>
+  <string name="decompress_destination_error">Não é possível extrair ficheiros para este caminho</string>
+  <string name="decompress_encrypted_rar_not_supported">Ficheiros rar encriptados não são suportados</string>
   <string name="decompress_fail">Não foi possível extrair. Armazenamento está cheio ou ocorreu um erro desconhecido</string>
   <string name="decompress_input_password">Introduzir palavra-passe…</string>
-  <string name="decompress_password_error">A palavra-passe que introduziu está incorrecta.</string>
+  <string name="decompress_password_error">A palavra-passe que introduziu está incorrecta</string>
   <string name="decompress_success">Extracção concluída</string>
   <string name="decompress_title">Extrair</string>
   <string name="decompress_to">Extrair ficheiros para…</string>
@@ -127,7 +126,6 @@
   <string name="delete_folders">Eliminar %1$d pastas?</string>
   <string name="delete_selected_tasks">Eliminar tarefas seleccionadas?</string>
   <string name="des_running_trans">%1$d ficheiros não foram transferidos</string>
-  <string name="dialog_confirm">OK</string>
   <string name="dialog_select_type">Escolher tipo</string>
   <string name="dialog_type_audio">Áudio</string>
   <string name="dialog_type_image">Imagens</string>
@@ -152,18 +150,18 @@
   <string name="encrypt_error">Não foi possível ocultar ficheiros. Tente novamente</string>
   <string name="encrypt_prefix">Ocultos</string>
   <string name="encrypt_success">Ocultados com sucesso</string>
-  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Explorador.</string>
+  <string name="encrypt_success_first_five">Ficheiro encriptado e ocultado. Para ver os ficheiros ocultados desça a página inicial do Explorador</string>
   <string name="encrypting">A encriptar…</string>
   <string name="error_contains_sharer_path">"Não é possível encriptar ficheiros na pasta /MIUI/Gallery/cloud/sharer. Mova os ficheiros para outra directoria e tente novamente"</string>
-  <string name="error_filename_too_long">O nome do ficheiro é muito longo.</string>
-  <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro.</string>
-  <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção.</string>
+  <string name="error_filename_too_long">O nome do ficheiro é muito longo</string>
+  <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro</string>
+  <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção</string>
   <string name="expand_all">Tudo</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
-  <string name="fail_to_create_folder">Espaço insuficiente ou a pasta já existe.</string>
+  <string name="fail_to_create_folder">Espaço insuficiente ou a pasta já existe</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
-  <string name="fail_to_rename">Já existe um ficheiro com o mesmo nome.</string>
+  <string name="fail_to_rename">Já existe um ficheiro com o mesmo nome</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Toques</string>
   <string name="favorite_screen_cap">Capturas de ecrã</string>
@@ -181,7 +179,7 @@
   <string name="file_too_large">O ficheiro é muito grande para enviar</string>
   <string name="files">Ficheiros</string>
   <string name="finished">Concluído</string>
-  <string name="folder_exist">A pasta já existe.</string>
+  <string name="folder_exist">A pasta já existe</string>
   <string name="folder_name_empty">Nome de pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome de pasta inválida</string>
   <string name="forward_to_web_recycle_prompt"><a href="%1$s">Toque</a>para ir para a pasta do lixo</string>
@@ -189,7 +187,7 @@
   <string name="found_usb">Armazenamento USB ligado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, maiúsculas e minúsculas</string>
   <string name="ftp_anonymous_login">Iniciar sessão anónima</string>
-  <string name="ftp_invalid_username_or_password">O nome do utilizador ou palavra-passe é inválida.</string>
+  <string name="ftp_invalid_username_or_password">O nome do utilizador ou palavra-passe é inválida</string>
   <string name="ftp_open_port_error">"Não foi possível abrir a porta. Verifique a ligação de rede ou reinicie o número da porta."</string>
   <string name="ftp_password_hint">Palavra-passe</string>
   <string name="ftp_port_number">Número da porta</string>
@@ -198,7 +196,6 @@
   <string name="ftp_username_hint">Utilizador</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
   <string name="gbk_title">GBK</string>
-  <string name="get_cloud_space">Adicionar 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="good_tip">Bom trabalho!</string>
   <string name="group_title">%2$s de %1$s</string>
@@ -209,8 +206,8 @@
   <string name="homepage_tab_category">Categorias</string>
   <string name="homepage_tab_file_view">Armazenamento</string>
   <string name="homepage_tab_recent">Recentes</string>
-  <string name="hot_sticker">Adesivos populares</string>
-  <string name="hot_video">Vídeos populares</string>
+  <string name="hot_sticker">Stickers</string>
+  <string name="hot_video">Vídeos</string>
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="input_memo_hint">Introduzir razões adicionais (opcional)</string>
@@ -247,7 +244,7 @@
   <string name="load_err">Não é possível carregar</string>
   <string name="load_more">Ver mais</string>
   <string name="loading">Aguarde…</string>
-  <string name="load_sticker_fail">Não foi possível carregar adesivo</string>
+  <string name="load_sticker_fail">Não foi possível carregar sticker</string>
   <string name="local_image">Imagens</string>
   <string name="local_music">Ficheiros de Áudio</string>
   <string name="local_sticker_str">Desligado</string>
@@ -283,7 +280,7 @@
   <string name="mobile_network_dialog_cancle">Cancelar</string>
   <string name="mobile_network_dialog_confirm">OK</string>
   <string name="mobile_network_dialog_tip">Utilizar a sua ligação de dados móveis para ver esta página?</string>
-  <string name="mobile_network_dialog_tip2">Vai receber taxas de dados móveis da sua operadora se continuar a fazer streaming de vídeos utilizando a sua ligação de dados móveis.</string>
+  <string name="mobile_network_dialog_tip2">Vai receber taxas de dados móveis da sua operadora se continuar a fazer streaming de vídeos utilizando a sua ligação de dados móveis</string>
   <string name="mobile_network_dialog_title">Aviso de dados móveis</string>
   <string name="mobile_network_upload_tip">Se utilizar a sua ligação de dados móveis para partilhar vídeos o consumo de dados poderá aumentar</string>
   <string name="mobile_photo">Fotos do telefone</string>
@@ -328,25 +325,26 @@
   <string name="networkView_notConnected">Não é possível ligar à rede</string>
   <string name="network_connect_confirm_des">Explorador necessita de uma ligação à Internet para funcionar normalmente</string>
   <string name="network_dialog_checkbox_tip">Não mostrar novamente</string>
+  <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_spent_reminding">Utilizar a sua ligação de dados móveis para ver esta página?</string>
   <string name="network_spent_reminding_title">Notificação de utilização de dados</string>
   <string name="never_notify_network_connect">Memorizar preferências</string>
   <string name="new_folder_name">Pasta sem nome</string>
   <string name="new_function">Pastas ocultas</string>
   <string name="new_function_info">Para ver pastas ocultas desça a página inicial do Explorador</string>
-  <string name="new_function_str">"Adesivos WeChat podem ser agora coleccionados automaticamente.
+  <string name="new_function_str">"Stickers WeChat podem ser agora coleccionados automaticamente.
 Transfira-os quando quiser
 e nunca perca as novidades!"</string>
-  <string name="new_function_title_str">Acerca de adesivos WeChat</string>
+  <string name="new_function_title_str">Acerca dos stickers WeChat</string>
   <string name="no">Não</string>
   <string name="no_apk">Toque para obter aplicações</string>
   <string name="no_app_tags">Vazio</string>
   <string name="no_display_file">Não é possível mostrar %1$s</string>
-  <string name="no_downloaded_sticker_tip">Não foi possível encontrar adesivos transferidos. Verifique os adesivos partilhados pelos fãs Mi</string>
-  <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio.</string>
+  <string name="no_downloaded_sticker_tip">Não foi possível encontrar stickers transferidos. Verifique os stickers partilhados pelos fãs Mi</string>
+  <string name="no_enough_storage_indication">O armazenamento do dispositivo está cheio</string>
   <string name="no_enough_storage_title">Não há espaço suficiente</string>
   <string name="no_file">Vazio</string>
-  <string name="no_local_sticker_tip">Não foi possível encontrar adesivos transferidos. Confira os adesivos partilhados pelos fãs Mi</string>
+  <string name="no_local_sticker_tip">Não foi possível encontrar stickers transferidos. Confira os stickers partilhados pelos fãs Mi</string>
   <string name="no_more_space">Sem espaço de armazenamento suficiente</string>
   <string name="no_network_retry">Não é possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="no_network_str">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
@@ -369,8 +367,8 @@ e nunca perca as novidades!"</string>
   <string name="notification_wechat_auto_backup_hint">Toque para saber mais</string>
   <string name="notification_wechat_auto_backup_switch_title">Fazer cópia de vídeos Chats</string>
   <string name="notification_wechat_expired_empty">Estes vídeos já foram eliminados pelo WeChat</string>
-  <string name="notification_wechat_sticker_hint">Mostrar notificação quando novos adesivos WeChat estiverem disponíveis</string>
-  <string name="notification_wechat_sticker_switch_title">Notificação de novos adesivos diários</string>
+  <string name="notification_wechat_sticker_hint">Mostrar notificação quando novos stickers WeChat estiverem disponíveis</string>
+  <string name="notification_wechat_sticker_switch_title">Notificação de novos stickers diários</string>
   <string name="notification_wechat_title">Quando vídeos chat estão quase a expirar</string>
   <string name="notify_private_folder_msg">Toque para saber mais</string>
   <string name="notify_private_folder_title">Criar pastas ocultas</string>
@@ -378,7 +376,7 @@ e nunca perca as novidades!"</string>
   <string name="open_changed_file_message">"O ficheiro que está a tentar abrir foi alterado. Por favor:
 1. Faça novamente a transferência do ficheiro para o actualizar.
 2. Carregue-a da sua conta KuaiPan."</string>
-  <string name="open_changed_file_title">Alteração aplicada.</string>
+  <string name="open_changed_file_title">Alteração aplicada</string>
   <string name="open_file_failed">Erro ao abrir</string>
   <string name="open_private_folder">Soltar para ver pastas ocultas…</string>
   <string name="operate_confirm_in_3g">Utilizar a sua ligação de dados móveis para transferir este ficheiro?</string>
@@ -450,21 +448,20 @@ e nunca perca as novidades!"</string>
   <string name="port_range">A porta tem de ser entre 1024–65535</string>
   <string name="private_files">Ocultos</string>
   <string name="private_folder">Pastas ocultas</string>
-  <string name="private_folder_no_file_hints">Sem ficheiros ocultos.</string>
+  <string name="private_folder_no_file_hints">Sem ficheiros ocultos</string>
   <string name="private_folder_update">A actualizar ficheiros ocultos…</string>
   <string name="private_toast_hint1">Toque para adicionar ficheiros a pastas ocultas</string>
-  <string name="private_toast_hint2">Para ocultar um ficheiro prima e segure-o, depois adicione-o a uma pasta oculta.</string>
+  <string name="private_toast_hint2">Para ocultar um ficheiro prima e segure-o, depois adicione-o a uma pasta oculta</string>
   <string name="private_toast_hint3">Descer para ver as pastas ocultas</string>
   <string name="promot_enctypt_password">Introduzir palavra-passe utilizada para desbloquear o seu dispositivo ou desligar o Modo Criança</string>
-  <string name="pull_to_signin">Descer para dar entrada.</string>
+  <string name="pull_to_signin">Descer para dar entrada</string>
   <string name="qq_not_installed">QQ não está instalado</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
   <string name="release_to_signin">Soltar para dar entrada</string>
   <string name="remote_video_no_network">Não é possível ligar à rede</string>
-  <string name="remote_video_report_success">Obrigado pelo seu comentário! Vamos dar seguimento assim que possível.</string>
+  <string name="remote_video_report_success">Obrigado pelo seu comentário! Vamos dar seguimento assim que possível</string>
   <string name="remote_video_server_error">Não é possível ligar ao servidor</string>
-  <string name="remote_video_update">%1$s vídeos novos</string>
   <string name="rename_alert">"Se mudar a extensão deste ficheiro, pode não conseguir abri-lo."</string>
   <string name="rename_description">A renomear…</string>
   <string name="rename_failed">Não é possível renomear %1$s</string>
@@ -478,6 +475,7 @@ e nunca perca as novidades!"</string>
   <string name="report_politics">Incorreção política</string>
   <string name="report_porn">Pornografia</string>
   <string name="report_violence">Violência</string>
+  <string name="request_timeout">Pedido de rede expirou</string>
   <string name="reset_password">Alterar palavra-passe</string>
   <string name="restoring">A restaurar…</string>
   <string name="rlv_last_loading_time">Actualizado em: %1$s</string>
@@ -489,7 +487,7 @@ e nunca perca as novidades!"</string>
   <string name="save_to_local">Transferir</string>
   <string name="sd_card_available">Disponível: %1$s</string>
   <string name="sd_card_size">Cartão SD: %1$s</string>
-  <string name="sd_full">O seu cartão SD está cheio.</string>
+  <string name="sd_full">O seu cartão SD está cheio</string>
   <string name="sdcard">Cartão SD</string>
   <string name="sdcard_available">Disponível %1$s</string>
   <string name="sdcard_total">Total %1$s</string>
@@ -529,14 +527,15 @@ e nunca perca as novidades!"</string>
   <string name="select_image">Imagens</string>
   <string name="select_music">Ficheiros de Áudio</string>
   <string name="select_video">Ficheiros de Vídeo</string>
-  <string name="send_sticker">Enviar adesivo</string>
+  <string name="send_sticker">Enviar sticker</string>
   <string name="send_to_midrive">KuaiPan</string>
-  <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado.</string>
+  <string name="send_to_midrive_failed_message">Este tipo de ficheiro não é suportado</string>
   <string name="send_to_qq">Enviar para QQ</string>
   <string name="send_to_weixin">Enviar para WeChat</string>
   <string name="server_control_advanced_settings">Definições de FTP</string>
   <string name="server_control_charset">Codificação da transferência</string>
   <string name="server_control_settings">Definições</string>
+  <string name="server_error">Erro de servidor (Erro %s)</string>
   <string name="share_box">Partilhado</string>
   <string name="share_box_receive">Recebido</string>
   <string name="share_box_send">Enviado</string>
@@ -548,14 +547,14 @@ e nunca perca as novidades!"</string>
   <string name="shared_sticker_network_permission_tip">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
   <string name="shared_sticker_page_no_file">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
   <string name="shared_sticker_str">Partilhado por fãs Mi</string>
-  <string name="shared_sticker_suffix">Adesivo em %s</string>
-  <string name="shared_sticker_use_tip">"Pode enviar os adesivos que gravou nos diálogos Chats da mesma maneira que envia imagens.
-(GIFs podem ser adicionados a Personalizado nos Adesivos WeChat)."</string>
-  <string name="shared_sticker_use_tip_title">Como utilizar adesivos</string>
+  <string name="shared_sticker_suffix">Sticker em %s</string>
+  <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos Chats da mesma maneira que envia imagens.
+(GIFs podem ser adicionados a Personalizado nos Stickers WeChat)."</string>
+  <string name="shared_sticker_use_tip_title">Como utilizar stickers</string>
   <string name="shared_str">Partilhado por %s</string>
-  <string name="show_message">Tem que transferir este ficheiro antes de o poder abrir.</string>
+  <string name="show_message">Tem que transferir este ficheiro antes de o poder abrir</string>
   <string name="sign_description">A iniciar sessão…</string>
-  <string name="signin_error">Não é possível ligar ao servidor. Verifique a sua ligação de rede.</string>
+  <string name="signin_error">Não é possível ligar ao servidor. Verifique a sua ligação de rede</string>
   <string name="signin_success">"Bem-vindo!
 %1$s de espaço livre adicionado %1$s"</string>
   <string name="smb_loading">Aguarde…</string>
@@ -598,17 +597,17 @@ e nunca perca as novidades!"</string>
   <string name="title_report_video">Reportar</string>
   <string name="title_select_volume">Escolher pasta</string>
   <string name="title_upload_video">Partilhar vídeos</string>
-  <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção.</string>
+  <string name="toast_file_not_can_read">Não existe nenhuma aplicação para concluir esta acção</string>
   <string name="tools">Ferramentas</string>
   <string name="trans_task">Transferência pela rede</string>
-  <string name="transfer_done">Ficheiros movidos com sucesso.</string>
+  <string name="transfer_done">Ficheiros movidos com sucesso</string>
   <string name="transfer_private_data">A mover ficheiros ocultos do cartão SD…</string>
   <string name="transing">A enviar</string>
   <string name="trash_box_capacity">Lixo %1$s</string>
   <string name="trash_box_link">Para esvaziar o lixo, visite <b>pan.xiaomi.com</b></string>
   <string name="trash_box_message1">Eliminar ficheiros desnecessários para libertar espaço</string>
   <string name="trash_box_message2">Esvaziar o lixo para libertar espaço</string>
-  <string name="type_not_support">Este formato de ficheiro não é suportado. Descompacte este ficheiro e tente novamente.</string>
+  <string name="type_not_support">Este formato de ficheiro não é suportado. Descompacte este ficheiro e tente novamente</string>
   <string name="ui_filechange_btn_download">Transferir ficheiro?</string>
   <string name="ui_filechange_btn_upload">Enviar ficheiros</string>
   <string name="ui_main_menu_option_sign_in">Iniciar sessão</string>
@@ -635,7 +634,7 @@ e nunca perca as novidades!"</string>
   <string name="user_guide_download_other_version">Enviar ficheiros do computador</string>
   <string name="user_guide_kuaipan_copy">Copiar os ficheiros do seu telefone e colar no KuaiPan</string>
   <string name="user_guide_kuaipan_lable">Armazenamento em nuvem conveniente e seguro</string>
-  <string name="user_guide_other_version">Iniciar sessão com o seu ID Conta Mi (%1$s) e transferir em mi.kuaipan.cn.</string>
+  <string name="user_guide_other_version">Iniciar sessão com o seu ID Conta Mi (%1$s) e transferir em mi.kuaipan.cn</string>
   <string name="user_guide_save_file">Guardar os seus ficheiros utilizando KuaiPan</string>
   <string name="user_guide_summary">Armazenamento em nuvem conveniente e seguro</string>
   <string name="user_guide_upload_to_kuaipan">Armazenar ficheiros do telefone no KuaiPan</string>
@@ -645,7 +644,7 @@ e nunca perca as novidades!"</string>
   <string name="video_play_failed">Erro desconhecido</string>
   <string name="video_releasing">A enviar…</string>
   <string name="video_replay">Reproduzir novamente</string>
-  <string name="view_more_sticker">Ver mais adesivos</string>
+  <string name="view_more_sticker">Ver mais stickers</string>
   <string name="wait_net">A aguardar pela rede</string>
   <string name="wait_sdcard">A aguardar pelo cartão SD…</string>
   <string name="wait_wifi">A aguardar por Wi-Fi</string>
@@ -654,7 +653,7 @@ e nunca perca as novidades!"</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Vídeo em %s</string>
   <string name="weixin_not_installed">WeChat não está instalado</string>
-  <string name="weixin_sticker_tag_str">Adesivos</string>
+  <string name="weixin_sticker_tag_str">Stickers</string>
   <string name="wifi_state">Rede Wi-Fi</string>
   <string name="wxcircle_platform">Momentos</string>
   <string name="xiaomi_account">Conta Mi</string>
