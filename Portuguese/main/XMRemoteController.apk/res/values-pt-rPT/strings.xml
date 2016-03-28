@@ -52,7 +52,7 @@
   <string name="app_uninstall">Desinstalar</string>
   <string name="app_update">Actualizar</string>
   <string name="app_version">Versão %1$s</string>
-  <string name="append_ok_key_after_num">数字键换台后增加确认键</string>
+  <string name="append_ok_key_after_num">Os botões núméricos aumentam após confirmação</string>
   <string name="application">Aplicações</string>
   <string name="back">Voltar</string>
   <string name="backup">Fazer cópia para a Nuvem Mi</string>
@@ -206,8 +206,8 @@
   <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume.</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_backup_failed">Erro no restauro. Tente novamente</string>
-  <string name="get_backup_succeed">恢复完成，共%1$d个, 已有%2$d个，恢复%3$d个，</string>
-  <string name="get_data_fail_tips">获取数据失败，请您重试</string>
+  <string name="get_backup_succeed">Restauro concluído. Restaurados %1$d de %2$d. Restaurar %3$d</string>
+  <string name="get_data_fail_tips">Erro ao obter os dados</string>
   <string name="get_info_failed">Não foi possível obter informação</string>
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
@@ -324,8 +324,8 @@ Solte quando %1$s responder"</string>
   <string name="match_mibox_third">    · Adicionar outro dispositivo Mi automaticamente</string>
   <string name="match_name_power">Ligar/Desligar</string>
   <string name="match_number_default">Os botões numéricos funcionam?</string>
-  <string name="match_power_confirm_tip_frame">%1$s是否开机?</string>
-  <string name="match_power_main_tip_frame">%1$s是否开机？</string>
+  <string name="match_power_confirm_tip_frame">%1$s está ligado?</string>
+  <string name="match_power_main_tip_frame">%1$s está ligado?</string>
   <string name="match_stb_intro_left">Soltar quando o cursor se mover para a esquerda</string>
   <string name="match_stb_intro_ok">Soltar quando alteração é mostrada no ecrã</string>
   <string name="match_stb_intro_up">Soltar quando o cursor se mover para cima</string>
@@ -379,7 +379,7 @@ aguarde um momento depois da acção."</string>
   <string name="month">mês</string>
   <string name="month_day_format">dd MMM</string>
   <string name="more">Mais</string>
-  <string name="more_fav_channel">更多收藏</string>
+  <string name="more_fav_channel">Mais favoritos</string>
   <string name="more_hot_programs">Mais séries…</string>
   <string name="mute">Silenciar</string>
   <string name="my_activity">Meus eventos</string>
@@ -393,7 +393,7 @@ aguarde um momento depois da acção."</string>
   <string name="network_unstable">· Tem uma ligação estável</string>
   <string name="next_step">Seguinte</string>
   <string name="no">Não</string>
-  <string name="no_backup">没有发现可恢复数据</string>
+  <string name="no_backup">Sem cópias</string>
   <string name="no_brand_service">Marca actualmente não disponível</string>
   <string name="no_current_play">"A reproduzir: - "</string>
   <string name="no_data">Sem informação</string>
@@ -595,8 +595,8 @@ Para activar a sua conta, siga o
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
   <string name="rc_name">Controlo remoto</string>
-  <string name="recover">从云端恢复</string>
-  <string name="recovering">正在恢复</string>
+  <string name="recover">Restaurar da Nuvem Mi</string>
+  <string name="recovering">A restaurar…</string>
   <string name="refreshing">A actualizar…</string>
   <string name="refreshing_no_point">A actualizar…</string>
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
@@ -633,7 +633,7 @@ Para activar a sua conta, siga o
   <string name="select_area">Escolher localização</string>
   <string name="select_brand">Seleccionar %s</string>
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
-  <string name="select_stb">选择机顶盒</string>
+  <string name="select_stb">Seleccionar a set-top box</string>
   <string name="service_info">Informação de Serviço</string>
   <string name="setting_airkan">ECRÃ SEM FIOS</string>
   <string name="setting_common">GERAL</string>
