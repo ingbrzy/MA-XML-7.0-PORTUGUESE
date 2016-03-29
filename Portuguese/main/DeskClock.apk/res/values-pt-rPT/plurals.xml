@@ -32,4 +32,12 @@
         <item quantity="other">Alarmes vão desligar após %d minutos</item>
         <item quantity="one">Alarmes vão desligar após %d minuto</item>
      </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Eliminar os alarmes seleccionados?</item>
+        <item quantity="one">Eliminar este alarme?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Eliminar o fuso horário seleccionado?</item>
+        <item quantity="one">Eliminar este fuso horário?</item>
+    </plurals>
 </resources>

@@ -104,8 +104,9 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_auto_startup_application">Adicionar aplicações de início automático</string>
   <string name="add_device_admin">Activar</string>
   <string name="add_device_admin_msg">Activar o administrador do dispositivo?</string>
-  <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital.</string>
+  <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital</string>
   <string name="add_fingerprint_done_title">Feito!</string>
+  <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digita. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
   <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital coloque o seu dedo no leitor de impressões digitais. Certifique-se que o seu dedo preenche o limite interior do leitor</string>
   <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
@@ -1616,7 +1617,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="launch_by_default">Abrir por predefinição</string>
   <string name="launch_defaults_none">Nenhuma predefinição definida</string>
   <string name="launch_defaults_some">Algumas predefinições definidas</string>
-  <string name="launching_cit">A iniciar modo de diagnóstico</string>
+  <string name="launching_cit">A iniciar testes de hardware</string>
   <string name="launching_pho">A iniciar informações do telefone, por favor aguarde.</string>
   <string name="launching_rep">A reportar…</string>
   <string name="layout_size_exhuge">XXL</string>
