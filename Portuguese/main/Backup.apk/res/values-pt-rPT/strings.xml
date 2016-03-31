@@ -244,7 +244,7 @@
   <string name="trans_backingup">A copiar…</string>
   <string name="trans_backingup_no_items">A sincronizar…</string>
   <string name="trans_calculating">A calcular…</string>
-  <string name="trans_calculating_app_sd_size">A calcular o tamanho dos dados: %s</string>
+  <string name="trans_calculating_app_sd_size">A calcular tamanho: %s</string>
   <string name="trans_calculating_base_size">A calcular o tamanho dos dados</string>
   <string name="trans_cancel_confirm">Transferência em curso. Cancelar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
@@ -296,7 +296,7 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_scan_qr_code_tips">Digitalizar código QR no dispositivo novo</string>
   <string name="trans_select_data">Seleccionar itens a enviar</string>
   <string name="trans_select_data_no_space">"Sem espaço suficiente no novo dispositivo.
-Seleccione os ficheiros novamente ou liberte %s armazenamento no novo dispositivo"</string>
+Seleccione os ficheiros novamente ou liberte %s de armazenamento no novo dispositivo"</string>
   <string name="trans_select_data_tips">"Seleccionar itens para transferir
 Ficheiros iguais no novo dispositivo vão ser substituídos"</string>
   <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados</string>

@@ -110,13 +110,13 @@
   <string name="exit">Sair</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
-  <string name="forward_to_bind">Associar</string>
+  <string name="forward_to_bind">Adicionar</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="ignore">Agora não</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
-  <string name="internet_statement_message">Ao aceitar, está a concordar com os termos que a aplicação vai ter acesso à Internet</string>
-  <string name="internet_statement_title">Termos de Utilização</string>
+  <string name="internet_statement_message">A aplicação necessita de ligação à Internet para funcionar normalmente</string>
+  <string name="internet_statement_title">Ligação necessária</string>
   <string name="just_a_second">Aguarde…</string>
   <string name="loading_micloud_sync_data">Aguarde…</string>
   <string name="locating_current_location">A localizar</string>
@@ -313,8 +313,8 @@ Para activar a sua conta siga o
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="security_question">Seleccionar pergunta</string>
   <string name="security_question_answer">Introduzir a resposta</string>
-  <string name="security_question_notice_message">Definir perguntas de segurança depois de associar o seu telefone para poder repor as perguntas em caso de esquecimento</string>
-  <string name="security_question_notice_title">Associar telefone</string>
+  <string name="security_question_notice_message">Adicionar o seu telefone antes de definir as perguntas de segurança para poder repor as perguntas em caso de esquecimento</string>
+  <string name="security_question_notice_title">Adicionar telefone</string>
   <string name="security_question_prompt">"Perguntas de segurança podem ser utilizados quando alterar ou repuser a sua palavra-passe.
 Certifique-se que memoriza as respostas a estas perguntas."</string>
   <string name="select_location_title">Seleccionar a sua localização</string>
