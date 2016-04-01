@@ -2,7 +2,7 @@
 <resources>
   <string name="abandon">Cancelar</string>
   <string name="accept">Aceitar</string>
-  <string name="accept_or_deny">%1$s partilhou o álbum %2$s contigo.</string>
+  <string name="accept_or_deny">%1$s partilhou o álbum %2$s contigo</string>
   <string name="add_automatically_alert_msg">Adicionar fotos de \"%1$s\" a este álbum automaticamente?</string>
   <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
   <string name="add_sharer">Adicionar membro</string>
@@ -13,8 +13,8 @@
   <string name="add_to_album_success">Adicionado ao álbum</string>
   <string name="add_to_secret_exist">Foto já existe no álbum oculto</string>
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
-  <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s.</string>
-  <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s.</string>
+  <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
+  <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adding_to_album">A adicionar fotos…</string>
@@ -52,7 +52,7 @@
   <string name="alert_secret_album_message">Descer para ver álbuns ocultos</string>
   <string name="alert_secret_album_title">Como ver álbuns ocultos</string>
   <string name="all_video_album_display_name">Todos os vídeos</string>
-  <string name="already_create_baby_album">Álbum do bebé já existe na Nuvem Mi.</string>
+  <string name="already_create_baby_album">Álbum do bebé já existe na Nuvem Mi</string>
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Ver imagem</string>
   <string name="apply">Aplicar</string>
@@ -128,7 +128,7 @@
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
   <string name="collaps_people">Ocultar</string>
   <string name="confirm">OK</string>
-  <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível.</string>
+  <string name="confirm_download_video_message">Tem que terminar de transferir este vídeo para que possa vê-lo. A transferência será retomada quando a ligação Wi-Fi estiver disponível</string>
   <string name="confirm_download_video_title">Transferir vídeo</string>
   <string name="confirm_face">Corresponder</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
@@ -187,7 +187,7 @@
   <string name="doodle">Riscar</string>
   <string name="doodle_tooltip">Toque para riscar</string>
   <string name="download_tip">Transferir</string>
-  <string name="download_without_wifi_msg">Utilizar dados móveis para transferir fotos vai aumentar a sua utilização de dados. Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais.</string>
+  <string name="download_without_wifi_msg">Utilizar dados móveis para transferir fotos vai aumentar a sua utilização de dados. Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais</string>
   <string name="download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="duotone">Dupla tonalidade</string>
   <string name="early_bird">Amanhecer</string>
@@ -206,14 +206,14 @@
   <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi</string>
   <string name="error_invalid_link">Link inválido</string>
   <string name="error_link_has_expired">Link expirou</string>
-  <string name="error_not_acceptable">Sincronização foi desactivada.</string>
+  <string name="error_not_acceptable">Sincronização foi desactivada</string>
   <string name="error_repeat_apply">Este álbum já foi partilhado</string>
   <string name="error_share_not_support">Esta funcionalidade ainda não é suportada</string>
   <string name="error_share_with_creator">Este álbum já está a ser partilhado consigo</string>
   <string name="error_socket_timeout">A ligação de rede expirou</string>
   <string name="error_title">Não é possível sincronizar</string>
-  <string name="error_unauthorized">Sincronização foi desactivada devido a muitas tentativas de início de sessão.</string>
-  <string name="error_unknown_host">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente.</string>
+  <string name="error_unauthorized">Sincronização foi desactivada devido a muitas tentativas de início de sessão</string>
+  <string name="error_unknown_host">Não é possível ligar à rede. Verifique a sua ligação de dados e tente novamente</string>
   <string name="exit">Sair</string>
   <string name="exit_share">Sair do álbum</string>
   <string name="exit_share_failed">Não foi possível sair de %1$s</string>
@@ -238,7 +238,7 @@
   <string name="facetan">Rosto bronzeado</string>
   <string name="fail_hint">Erro na operação</string>
   <string name="fail_to_pick_email">Email inválido</string>
-  <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente.</string>
+  <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
   <string name="family_member_invitation_text">Outro membro da família</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Luz de preenchimento</string>
@@ -319,7 +319,7 @@
   <string name="loading_image">A transferir imagem…</string>
   <string name="loading_image_thumbnail">A transferir miniaturas…</string>
   <string name="loading_members">A carregar membros026</string>
-  <string name="loading_suspend">Transferência em pausa. Será retomada quando Wi-Fi estiver disponível.</string>
+  <string name="loading_suspend">Transferência em pausa. Será retomada quando Wi-Fi estiver disponível</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
   <string name="lomoish">Lomo</string>
@@ -347,7 +347,7 @@
   <string name="no_network_connected">Sem redes detectadas</string>
   <string name="not_ask_any_more">"Não perguntar outra vez por \"%s\" respostas"</string>
   <string name="not_is">Não</string>
-  <string name="not_remind_any_more">"Não mostrar novamente"</string>
+  <string name="not_remind_any_more">Não mostrar novamente</string>
   <string name="number_of_uploading_finish">Álbuns foram automaticamente copiados</string>
   <string name="old">Vintage</string>
   <string name="open">Ligar</string>
@@ -366,7 +366,7 @@
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
   <string name="operation_in_process">A processar…</string>
-  <string name="operation_not_show_in_photos_tab">Não mostrar no separador de Fotos</string>
+  <string name="operation_not_show_in_photos_tab">Não mostrar no separador Fotos</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
   <string name="operation_remove_secret">Remover do álbum oculto</string>
@@ -375,11 +375,11 @@
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
   <string name="operation_set_wallpaper">Definir como papel de parede</string>
   <string name="operation_share">Partilhar</string>
-  <string name="operation_show_in_photos_tab">Mostrar na página inicial</string>
+  <string name="operation_show_in_photos_tab">Mostrar no separador Fotos</string>
   <string name="operation_show_on_map">Mostrar no mapa</string>
   <string name="operation_slide_show">Iniciar apresentação de diapositivos</string>
   <string name="operation_successful">Concluído</string>
-  <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde alguns minutos e tente novamente.</string>
+  <string name="operation_too_often">Muitos pedidos estão a ser feitos a partir de seu endereço IP. Aguarde alguns minutos e tente novamente</string>
   <string name="operation_unforce_top">Soltar</string>
   <string name="operation_unhide">Mostrar</string>
   <string name="orientation_lock_tip">Rotação bloqueada</string>
@@ -393,7 +393,7 @@
   <string name="paint_cancel_title">Rejeitar alterações</string>
   <string name="paint_crop_cancel_context">Guardar imagem cortada?</string>
   <string name="paint_crop_cancel_title">Rejeitar alterações</string>
-  <string name="paint_crop_tips">Colocar a área alvo da imagem perto do centro da grade.</string>
+  <string name="paint_crop_tips">Colocar a área alvo da imagem perto do centro da grade</string>
   <string name="paint_highlight">Riscar</string>
   <string name="paint_highlight_cancel_context">Gravar a imagem com riscos?</string>
   <string name="paint_highlight_cancel_title">Rejeitar alterações</string>
@@ -441,8 +441,8 @@
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher uma relação</string>
   <string name="remove_from_secret_fail">Não foi possível remover álbum dos álbuns ocultos</string>
-  <string name="remove_from_secret_failed_with_reason">Não pode ser removido do álbum oculto. %1$s.</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s.</string>
+  <string name="remove_from_secret_failed_with_reason">Não pode ser removido do álbum oculto. %1$s</string>
+  <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
   <string name="remove_from_secret_successful">Removido do álbum oculto</string>
   <string name="rename_face_album">Alterar nome</string>
   <string name="rename_fail_msg">Não foi possível alterar nome</string>
@@ -462,9 +462,9 @@
   <string name="save">Guardar</string>
   <string name="save_photo">Guardar a foto editada?</string>
   <string name="saving_failure">Não é possível guardar foto</string>
-  <string name="scan_barcode_guide">Para obter código QR do álbum, toque no ícone Partilhar.</string>
+  <string name="scan_barcode_guide">Para obter código QR do álbum, toque no ícone Partilhar</string>
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
-  <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum.</string>
+  <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
   <string name="secret_album_display_name">Álbum oculto</string>
   <string name="secret_reason_space_full">O álbum na Nuvem Mi está cheio</string>
   <string name="secret_reason_too_large">Ficheiro demasiado grande</string>
@@ -490,7 +490,7 @@
   <string name="share_by_email_successfully">Partilhado %1$s</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s contigo. Veja-o em %2$s</string>
   <string name="share_with_family">Partilhar com a família</string>
-  <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas.</string>
+  <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas</string>
   <string name="sharpen">Afiado</string>
   <string name="show_hidden_album_title">Mostrar álbuns ocultos</string>
   <string name="slideshow_interval_dialog_title">Introduzir intervalo</string>
@@ -498,7 +498,7 @@
   <string name="slideshow_interval_title">Mostrar cada diapositivo por</string>
   <string name="slideshow_interval_value">%1$d segundos</string>
   <string name="slim_after_backuped_summary">Substituir as fotos em alta definição por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta definição vão estar disponíveis na Nuvem Mi. Isto pode poupar muito espaço de armazenamento</string>
-  <string name="slim_after_backuped_summary_with_size">Substituir as fotos em alta definição no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta definição vão estar disponíveis na Nuvem Mi. Isto pode poupar %1$s.</string>
+  <string name="slim_after_backuped_summary_with_size">Substituir as fotos em alta definição no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta definição vão estar disponíveis na Nuvem Mi. Isto pode poupar %1$s</string>
   <string name="slim_after_backuped_title">Optimizar armazenamento local após cópia com sucesso</string>
   <string name="square">Quadrado</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
