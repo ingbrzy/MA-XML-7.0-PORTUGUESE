@@ -548,7 +548,11 @@
         <item>Cinzento</item>
         <item>Branco</item>
         <item>Violeta</item>
-    </string-array>   
+    </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Botão Recentes à esquerda, botão Voltar à direita</item>
+        <item>Botão Voltar à esquerda, botão Recentes à direita</item>
+    </string-array>
     <string-array name="screen_key_press_action">
         <item>Mostrar aplicações recentes</item>
         <item>Mostrar o menu</item>
@@ -664,13 +668,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="wifi_ssid_type_entries">
         <item>Ligar automaticamente</item>
         <item>Ligar manualmente</item>
-    </string-array>
-    <string-array name="slideshow_time_entries">
-        <item>5 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>Ilimitado</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>

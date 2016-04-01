@@ -91,7 +91,6 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="account_settings_menu_auto_sync_work">Sinc. auto. de dados de trabalho</string>
   <string name="account_settings_title">Contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
-  <string name="activate_miui_screensaver">Protecção de ecrã durante suspensão</string>
   <string name="activating">A activar…</string>
   <string name="active_device_admin_msg">Administrador do dispositivo</string>
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
@@ -138,8 +137,6 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="airplane_mode">Modo de Avião</string>
   <string name="alarm_volume_option_title">Volume do alarme</string>
   <string name="alarm_volume_title">Alarme</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Mostrar protecção de ecrã vai consumir mais energia</string>
-  <string name="alert_show_screensaver_when_not_charging_title">Utilização de bateria</string>
   <string name="all_volume_title">Volumes</string>
   <string name="allow">Permitir</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Depois de criar o widget, %1$s pode aceder a todos os dados que ele mostra.</string>
@@ -1035,6 +1032,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"Dual-core "</string>
   <string name="device_cpu4_info">"Quad-core "</string>
+  <string name="device_cpu6_info">"Hexa-core "</string>
   <string name="device_cpu8_info">"Octa-core "</string>
   <string name="device_edit_title">Renomear telefone</string>
   <string name="device_feedback">Enviar feedback acerca do dispositivo</string>
@@ -1312,6 +1310,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
+  <string name="fingerprint_for_keyguard_disabled">根据设备安全策略，锁屏已禁用指纹</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
@@ -1559,6 +1558,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="keep_screen_on">Manter activo</string>
   <string name="keep_screen_on_summary">O ecrã nunca entrará em suspensão durante o carregamento</string>
   <string name="kernel_version">Versão de kernel</string>
+  <string name="key_position_cat">Posição dos botões</string>
   <string name="key_settings">Botões</string>
   <string name="key_settings_title">Botões</string>
   <string name="keyboard_layout_default_label">Predefinido</string>
@@ -1865,7 +1865,10 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="master_clear_progress_title">A eliminar</string>
   <string name="master_clear_summary">Formatar todos os dados do telefone</string>
   <string name="master_clear_title">Restaurar definições de fábrica</string>
-  <string name="max_fingerprint_number_reached">"Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente."</string>
+  <string name="max_cpu4_info">"Quad-core Max "</string>
+  <string name="max_cpu6_info">"Hexa-core Max "</string>
+  <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>
@@ -1944,12 +1947,6 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="miui_allow_vibrate">Vibrações</string>
   <string name="miui_data_usage_menu_metered">Ponto de Acesso Móvel</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
-  <string name="miui_screensaver_show_time">Duração</string>
-  <string name="miui_screensaver_show_time_select_title">Definir a duração de apresentação de diapositivos</string>
-  <string name="miui_screensaver_state_off">Desligado</string>
-  <string name="miui_screensaver_state_on">Ligado</string>
-  <string name="miui_screensaver_title">Protecção de ecrã</string>
-  <string name="miui_screensaver_usage">A protecção de ecrã começa 5 segundos após o ecrã desligar</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
   <string name="mms_breathing_light_freq_title">Frequência da luz do LED das mensagens</string>
   <string name="mobile_connect_to_internet">Por favor, active a ligação à Internet</string>
@@ -2156,7 +2153,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos online</string>
   <string name="only_one_home_message">Estas definições ficam ocultas até que instale outro launcher</string>
-  <string name="only_when_charging">Apenas quando estiver a carregar</string>
   <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
@@ -2255,7 +2251,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="pico_not_installed">Não instalado</string>
   <string name="pico_voice_summary_female">Feminino</string>
   <string name="pico_voice_summary_male">Masculino</string>
-  <string name="picture_source">Fotos</string>
   <string name="pin_failed">A operação PIN do SIM falhou!</string>
   <string name="ping_test_label">Executar teste de ping</string>
   <string name="please_select_phase2">Autenticação da Fase 2</string>
@@ -2594,6 +2589,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="screen_key_long_press">Pressão longa nos botões de navegação</string>
   <string name="screen_key_long_press_action">Premir o botão</string>
   <string name="screen_key_long_press_timeout">Definir tempo de espera do botão</string>
+  <string name="screen_key_position">Botões de navegação</string>
   <string name="screen_key_press">Premir os botões de navegação</string>
   <string name="screen_key_press_action">Premir o botão</string>
   <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
@@ -3105,6 +3101,7 @@ Este ^1 is está formatado para funcionar apenas neste dispositivo. Não funcion
   <string name="storage_type_internal">Armazenamento interno</string>
   <string name="storage_unmount_failure">Não foi possível ejectar com segurança %1$s</string>
   <string name="storage_unmount_success">%1$s foi ejectado com segurança</string>
+  <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_usb_settings">Armazenamento e USB</string>
   <string name="storage_used">Armazenamento utilizado</string>
   <string name="storage_volume_summary">%1$s utilizados de %2$s</string>
@@ -3408,9 +3405,13 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="usb_charging_summary">Desligue todas as outras funcionalidades de ligação USB para acelerar o carregamento</string>
   <string name="usb_charging_title">Acelerar carga</string>
   <string name="usb_connection_category">Ligar como</string>
-  <string name="usb_eject">Desmontar armazenamento USB</string>
+  <string name="usb_eject">Ejectar armazenamento USB</string>
+  <string name="usb_eject_summary">Ejectar armazenamento USB para o remover com segurança</string>
+  <string name="usb_format">Limpar armazenamento USB</string>
+  <string name="usb_format_summary">Apagar todos os dados no armazenamento USB (p.e. música e fotos)</string>
   <string name="usb_host_mode_subtext">Utilizar controladores de jogos e outros periféricos na porta USB pode consumir mais bateria</string>
   <string name="usb_host_mode_text">Modo de USB anfitrião</string>
+  <string name="usb_insert_summary">Ligar armazenamento USB</string>
   <string name="usb_midi_summary">Deixe as aplicações compatíveis com MIDI serem executadas através de USB com software MIDI no seu computador.</string>
   <string name="usb_midi_title">MIDI</string>
   <string name="usb_mount">Montar armazenamento USB</string>
