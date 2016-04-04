@@ -9,28 +9,28 @@
         <item quantity="one">1 aplicação pode mostrar notificações</item>
      </plurals>
      <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra</item>
      </plurals>
      <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras minúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra minúscula</item>
      </plurals>
      <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d caracteres sem letras</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um caracter sem letra</item>
      </plurals>
      <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d números.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um número.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d números</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um número</item>
      </plurals>
      <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d símbolos especiais</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos um símbolo especial</item>
      </plurals>
      <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas.</item>
-        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula.</item>
+        <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
+        <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
      </plurals>
      <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d aplicações providenciam condições</item>
@@ -61,8 +61,8 @@
         <item quantity="one">Está a %1$d passo de enviar relatório de erros</item>
      </plurals>
      <plurals name="wrong_pin_code">
-        <item quantity="other">Código PIN do cartão SIM está errado tem %d tentativas restantes.</item>
-        <item quantity="one">Código PIN do cartão SIM está errado tem %d tentativa restante. Deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
+        <item quantity="other">Código PIN do cartão SIM está errado tem %d tentativas restantes</item>
+        <item quantity="one">Código PIN do cartão SIM está errado tem %d tentativa restante. Deve entrar em contacto com sua operadora para desbloquear o dispositivo</item>
      </plurals>
 	 <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>
