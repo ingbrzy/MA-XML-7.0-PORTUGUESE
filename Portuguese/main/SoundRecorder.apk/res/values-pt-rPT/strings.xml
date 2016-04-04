@@ -51,7 +51,7 @@
   <string name="preference_record_scenes_dialog_title">Escolher tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
-  <string name="preference_tip_rename">Renomear as gravações manualmente</string>
+  <string name="preference_tip_rename">Atribuir nome às gravações manualmente</string>
   <string name="record_back_pressed_hint">Prima voltar novamente para parar a gravação</string>
   <string name="record_download">Transferir da Nuvem Mi</string>
   <string name="record_download_complete">Transferido</string>
@@ -72,8 +72,8 @@
   <string name="record_quliaty_preference_title">Qualidade de gravação</string>
   <string name="recording">Gravação</string>
   <string name="recording_stopped">Parada</string>
-  <string name="rename">Renomear</string>
-  <string name="rename_dialog_title">Renomear gravação</string>
+  <string name="rename">Mudar o nome</string>
+  <string name="rename_dialog_title">Mudar o nome da gravação</string>
   <string name="rename_duplicate">Outra gravação com este nome já existe.</string>
   <string name="rename_no_more_tip">Não mostrar novamente</string>
   <string name="retry">Repetir</string>

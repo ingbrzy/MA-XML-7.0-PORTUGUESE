@@ -443,9 +443,9 @@ Motivo: \"%s\""</string>
   <string name="group_name">Meus grupos</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
-  <string name="group_rename_dialog_title">Renomear grupo</string>
-  <string name="group_rename_fail_toast">Não foi possível renomear o grupo</string>
-  <string name="group_rename_success_toast">Grupo renomeado</string>
+  <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
+  <string name="group_rename_fail_toast">Não foi possível mudar o nome do grupo</string>
+  <string name="group_rename_success_toast">Nome do grupo alterado</string>
   <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários.</string>
   <string name="group_sms_progress_msg">Agrupar…</string>
   <string name="groupsLabel">Grupos</string>
@@ -580,7 +580,7 @@ Motivo: \"%s\""</string>
   <string name="menu_addStar">Favoritos</string>
   <string name="menu_bar_group_add">Adicionar</string>
   <string name="menu_bar_group_delete">Eliminar</string>
-  <string name="menu_bar_group_rename">Renomear</string>
+  <string name="menu_bar_group_rename">Mudar o nome</string>
   <string name="menu_bar_group_ringtone">Toque do grupo</string>
   <string name="menu_bar_group_ringtone_largeui">Toque</string>
   <string name="menu_bar_group_sms">Grupo SMS</string>
@@ -810,7 +810,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="option_edit_contact">Editar</string>
   <string name="option_not_in_group">Remover</string>
   <string name="option_not_star">Remover dos favoritos</string>
-  <string name="option_rename_group">Renomear</string>
+  <string name="option_rename_group">Mudar o nome</string>
   <string name="option_send_to_desktop">Colocar no ecrã inicial</string>
   <string name="option_send_to_others">Reencaminhar</string>
   <string name="option_view_contact">Ver</string>

@@ -380,7 +380,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Ligar ao dispositivo Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Ligar</string>
   <string name="bluetooth_device_advanced_profile_header_title">Perfis</string>
-  <string name="bluetooth_device_advanced_rename_device">Renomear</string>
+  <string name="bluetooth_device_advanced_rename_device">Mudar o nome</string>
   <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth emparelhado</string>
   <string name="bluetooth_device_context_connect">Ligar</string>
   <string name="bluetooth_device_context_connect_advanced">Opções…</string>
@@ -476,8 +476,8 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="bluetooth_quick_toggle_summary">Ligar Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Não perguntar novamente</string>
-  <string name="bluetooth_rename_button">Renomear</string>
-  <string name="bluetooth_rename_device">Renomear telefone</string>
+  <string name="bluetooth_rename_button">Mudar o nome</string>
+  <string name="bluetooth_rename_device">Mudar o nome deste dispositivo</string>
   <string name="bluetooth_scan_for_devices">Pesquisar dispositivos</string>
   <string name="bluetooth_search_for_devices">Pesquisar dispositivos</string>
   <string name="bluetooth_searching_for_devices">A pesquisar…</string>
@@ -843,7 +843,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="device_cpu2_info">"Dual-core "</string>
   <string name="device_cpu4_info">"Quad-core "</string>
   <string name="device_cpu8_info">"Octa-core "</string>
-  <string name="device_edit_title">Renomear telefone</string>
+  <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_info_default">Desconhecido</string>
   <string name="device_info_label">Informações do dispositivo</string>
   <string name="device_info_not_available">Não disponível</string>
@@ -3037,8 +3037,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s vai terminar.</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
   <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
-  <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>
-  <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
+  <string name="wifi_p2p_failed_rename_message">Erro ao mudar nome do dispositivo</string>
+  <string name="wifi_p2p_menu_rename">Mudar o nome do dispositivo</string>
   <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
   <string name="wifi_p2p_menu_searching">A pesquisar…</string>
   <string name="wifi_p2p_peer_devices">Dispositivos P2P</string>

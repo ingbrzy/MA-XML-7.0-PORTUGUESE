@@ -469,7 +469,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Ligar ao dispositivo Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Ligar</string>
   <string name="bluetooth_device_advanced_profile_header_title">Perfis</string>
-  <string name="bluetooth_device_advanced_rename_device">Renomear</string>
+  <string name="bluetooth_device_advanced_rename_device">Mudar o nome</string>
   <string name="bluetooth_device_advanced_title">Dispositivo Bluetooth emparelhado</string>
   <string name="bluetooth_device_context_connect">Ligar</string>
   <string name="bluetooth_device_context_connect_advanced">Opções…</string>
@@ -586,8 +586,8 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="bluetooth_quick_toggle_summary">Ligar Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Não perguntar novamente</string>
-  <string name="bluetooth_rename_button">Renomear</string>
-  <string name="bluetooth_rename_device">Renomear telefone</string>
+  <string name="bluetooth_rename_button">Mudar o nome</string>
+  <string name="bluetooth_rename_device">Mudar o nome deste dispositivo</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s pretende aceder ao seu cartão SIM. Ao conceder acesso ao cartão SIM, desativa a conetividade de dados no seu dispositivo durante a ligação. Dar acesso a %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Ligado a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilizar para acesso ao SIM</string>
@@ -1034,7 +1034,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="device_cpu4_info">"Quad-core "</string>
   <string name="device_cpu6_info">"Hexa-core "</string>
   <string name="device_cpu8_info">"Octa-core "</string>
-  <string name="device_edit_title">Renomear telefone</string>
+  <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar feedback acerca do dispositivo</string>
   <string name="device_info_default">Desconhecido</string>
   <string name="device_info_label">Informações do dispositivo</string>
@@ -3085,7 +3085,7 @@ Este ^1 is está formatado para funcionar apenas neste dispositivo. Não funcion
   <string name="storage_menu_format_public">Formatar como portátil</string>
   <string name="storage_menu_migrate">Migrar dados</string>
   <string name="storage_menu_mount">Montar</string>
-  <string name="storage_menu_rename">Renomear</string>
+  <string name="storage_menu_rename">Mudar o nome</string>
   <string name="storage_menu_set_up">Configurar</string>
   <string name="storage_menu_unmount">Ejectar</string>
   <string name="storage_mount_failure">Não foi possível montar %1$s</string>
@@ -3515,7 +3515,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="user_profile_confirm_remove_title">Remover este perfil?</string>
   <string name="user_remove_user">Remover utilizador</string>
   <string name="user_remove_user_menu">Eliminar %1$s deste dispositivo</string>
-  <string name="user_rename">RENOMEAR</string>
+  <string name="user_rename">MUDAR O NOME</string>
   <string name="user_restrictions_controlled_by">Controlado por %1$s</string>
   <string name="user_restrictions_title">Acesso às aplicações e conteúdo</string>
   <string name="user_set_lock_button">Definir bloqueio</string>
@@ -3837,9 +3837,9 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_p2p_disconnect_message">Se desligar, a ligação com %1$s vai terminar.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Se desligar, a sua ligação com outros dispositivos %1$s e %2$s vai terminar.</string>
   <string name="wifi_p2p_disconnect_title">Desligar?</string>
-  <string name="wifi_p2p_failed_connect_message">Não foi possível ligar.</string>
-  <string name="wifi_p2p_failed_rename_message">Erro ao renomear dispositivo.</string>
-  <string name="wifi_p2p_menu_rename">Renomear dispositivo</string>
+  <string name="wifi_p2p_failed_connect_message">Não foi possível ligar</string>
+  <string name="wifi_p2p_failed_rename_message">Erro ao mudar o nome do dispositivo</string>
+  <string name="wifi_p2p_menu_rename">Mudar o nome do dispositivo</string>
   <string name="wifi_p2p_menu_search">Pesquisar dispositivos</string>
   <string name="wifi_p2p_menu_searching">A pesquisar…</string>
   <string name="wifi_p2p_peer_devices">Dispositivos P2P</string>

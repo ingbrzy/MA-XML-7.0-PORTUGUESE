@@ -173,7 +173,7 @@
   <string name="eq_preset_create">Criar</string>
   <string name="eq_preset_format">Predefinição de utilizador %d</string>
   <string name="eq_preset_hint">Nome da predefinição</string>
-  <string name="eq_preset_rename">Renomear</string>
+  <string name="eq_preset_rename">Mudar o nome</string>
   <string name="eq_preset_select">Seleccionar predefinição</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizador</string>
@@ -369,7 +369,7 @@
   <string name="play_next">Reproduzir seguinte</string>
   <string name="playback_failed_no_title_by_bad_file">O formato desta música não é suportado ou o ficheiro não existe.</string>
   <string name="playlist_deleted_message">Eliminar lista de reprodução</string>
-  <string name="playlist_renamed_message">Lista de reprodução renomeada</string>
+  <string name="playlist_renamed_message">Lista de reprodução alterada</string>
   <string name="playlist_unavailable">A lista de reprodução não está disponível. Para a eliminar, toque e segure, depois escolha eliminar</string>
   <string name="please_download_first">Tem que transferir esta música antes que a possa definir como toque</string>
   <string name="please_search_or_select">Pesquise ou seleccione a letra</string>
@@ -518,7 +518,7 @@
   <string name="track_list_control_download">Transferir</string>
   <string name="track_list_control_edit_add_tracks">Adicionar Músicas</string>
   <string name="track_list_control_edit_delete_playlist">Eliminar</string>
-  <string name="track_list_control_edit_rename_playlist">Renomear</string>
+  <string name="track_list_control_edit_rename_playlist">Mudar o nome</string>
   <string name="track_list_control_play">Reproduzir</string>
   <string name="track_main_fragment_tab_album">Álbum</string>
   <string name="track_main_fragment_tab_track">Música</string>
