@@ -32,7 +32,7 @@
   <string name="app_clear">Limpar dados</string>
   <string name="app_detail_comments">Análises</string>
   <string name="app_detail_info">Ver detalhes</string>
-  <string name="app_detail_no_comments">Sem análises.</string>
+  <string name="app_detail_no_comments">Sem análises</string>
   <string name="app_detail_title_info">Resumo</string>
   <string name="app_detail_title_recomment">Aplicações relacionadas</string>
   <string name="app_exit_tip">Prima voltar novamente para sair</string>
@@ -131,7 +131,7 @@
   <string name="dialog_install_assistant_content">Instalar transmissor Mi Screen para obter o melhor da sua Mi TV ou Mi Box</string>
   <string name="dining_room">Sala de jantar</string>
   <string name="download_assistant">Transmitir ecrã</string>
-  <string name="download_path_fail">Não foi possível transferir. Verifique o cartão SD ou drive USB do seu dispositivo.</string>
+  <string name="download_path_fail">Não foi possível transferir. Verifique o cartão SD ou drive USB do seu dispositivo</string>
   <string name="download_times">Transferências: %1$d</string>
   <string name="downloading">A transferir…</string>
   <string name="dpad_down">Baixo</string>
@@ -202,8 +202,8 @@
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Não é possível utilizar orientação de paisagem no modo Gamepad</string>
   <string name="gesture_pad_first_line_tips">Utilizar os botões de Volume para ajustar o volume</string>
-  <string name="gesture_pad_orietaion_tips">Deslizar para mover em qualquer direcção. Toque para confirmar.</string>
-  <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume.</string>
+  <string name="gesture_pad_orietaion_tips">Deslizar para mover em qualquer direcção. Toque para confirmar</string>
+  <string name="gesture_pad_sencond_line_tips">· Toque e segure na área central do ecrã para ver o menu. Deslize para cima ou para baixo para ajustar o volume</string>
   <string name="gesture_pad_vol_tips">Utilizar o volume do telefone para ajustar o volume no dispositivo ligado</string>
   <string name="get_backup_failed">Erro no restauro. Tente novamente</string>
   <string name="get_backup_succeed">Restauro concluído. Restaurados %1$d de %2$d. Restaurar %3$d</string>
@@ -213,11 +213,11 @@
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
   <string name="guid_three">· Alguns controlos podem não estar disponíveis se a sua TV ou set-top box não suportar Android</string>
   <string name="guid_two">· Desligar isolamento do PA do router</string>
-  <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR.</string>
+  <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR</string>
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>
   <string name="hd_channel_preferred">Preferir vídeo HD</string>
-  <string name="history_none">Ainda não viu nenhum vídeo.</string>
+  <string name="history_none">Ainda não viu nenhum vídeo</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
   <string name="home_zhuye">Casa</string>
@@ -320,7 +320,7 @@ Volte para continuar"</string>
   <string name="match_main_tip_frame">"Aponte o controlo remoto para %1$s e prima o botão
 Solte quando %1$s responder"</string>
   <string name="match_mibox_first">    Mi TV encontrada</string>
-  <string name="match_mibox_sencond">    · Controlar a sua Mi TV com este dispositivo.</string>
+  <string name="match_mibox_sencond">    · Controlar a sua Mi TV com este dispositivo</string>
   <string name="match_mibox_third">    · Adicionar outro dispositivo Mi automaticamente</string>
   <string name="match_name_power">Ligar/Desligar</string>
   <string name="match_number_default">Os botões numéricos funcionam?</string>
@@ -388,7 +388,7 @@ aguarde um momento depois da acção."</string>
   <string name="my_favorite">Meus favoritos</string>
   <string name="my_setting">Definições</string>
   <string name="network_diagnosis">Testar rede</string>
-  <string name="network_no_connection">Não é possível ligar à rede. Verifique a sua ligação de rede e tente novamente.</string>
+  <string name="network_no_connection">Não é possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="network_ok">Sem problemas detectados</string>
   <string name="network_unstable">· Tem uma ligação estável</string>
   <string name="next_step">Seguinte</string>
@@ -398,7 +398,7 @@ aguarde um momento depois da acção."</string>
   <string name="no_current_play">"A reproduzir: - "</string>
   <string name="no_data">Sem informação</string>
   <string name="no_introduction">Sem descrição</string>
-  <string name="no_ir_other_support">Ainda pode utilizar o seu dispositivo para controlar a sua Mi TV ou Mi Box através de Wi-Fi.</string>
+  <string name="no_ir_other_support">Ainda pode utilizar o seu dispositivo para controlar a sua Mi TV ou Mi Box através de Wi-Fi</string>
   <string name="no_ir_support">Sem dispositivos IR encontrados</string>
   <string name="no_network">"· Está ligado à Internet"</string>
   <string name="no_program">Sem conteúdo aqui</string>
@@ -410,8 +410,8 @@ aguarde um momento depois da acção."</string>
   <string name="notification_found_shared_remote_text">Toque para o controlar</string>
   <string name="notification_found_shared_remote_title">Encontrou um %1$s próximo</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" vai começar em 30 minutos.</string>
-  <string name="notification_str3">\" vai começar em 5 minutos.</string>
+  <string name="notification_str2">\" vai começar em 30 minutos</string>
+  <string name="notification_str3">\" vai começar em 5 minutos</string>
   <string name="notification_title">Notificação temporizador</string>
   <string name="num_keys">Numérico</string>
   <string name="office">Escritório</string>
@@ -449,7 +449,7 @@ Para activar a sua conta, siga o
   <string name="passport_delete_account">Terminar sessão</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID Conta Mi</string>
-  <string name="passport_email_reg_success_summary">%1$s foi ligado com a sua conta. Pode utilizá-lo para iniciar sessão ou redefinir a palavra-passe.</string>
+  <string name="passport_email_reg_success_summary">%1$s foi ligado com a sua conta. Pode utilizá-lo para iniciar sessão ou redefinir a palavra-passe</string>
   <string name="passport_error_device_id">Não é possível obter id do dispositivo</string>
   <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
   <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
@@ -465,7 +465,7 @@ Para activar a sua conta, siga o
   <string name="passport_error_invalid_phone_num">Número de telefone inválido</string>
   <string name="passport_error_login">Não foi possível iniciar sessão</string>
   <string name="passport_error_network">Não é possível ligar à rede</string>
-  <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. Rede móvel não está disponível.</string>
+  <string name="passport_error_no_sms_service">Não é possível enviar mensagens de texto. Rede móvel não está disponível</string>
   <string name="passport_error_phone_error">Número de telefone inválido</string>
   <string name="passport_error_server">Erro de servidor</string>
   <string name="passport_error_sim_not_ready">Não é possível localizar cartão SIM</string>
@@ -474,7 +474,7 @@ Para activar a sua conta, siga o
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="passport_error_verify_code">O código que introduziu está incorrecto</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
-  <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe.</string>
+  <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
   <string name="passport_forget_password_no_underline">Esqueceu a palavra-passe?</string>
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
@@ -486,7 +486,7 @@ Para activar a sua conta, siga o
   <string name="passport_input_password_hint">Introduzir palavra-passe</string>
   <string name="passport_input_phone_hint">Introduzir número de telefone</string>
   <string name="passport_input_vcode_hint">Introduzir código de verificação</string>
-  <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s.</string>
+  <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão numa conta existente</string>
   <string name="passport_login_check_find_device">A verificar estado de Localizar dispositivo…</string>
@@ -501,7 +501,7 @@ Para activar a sua conta, siga o
   <string name="passport_login_with_email_or_id"><u>Iniciar sessão com endereço de email ou ID de Conta Mi</u></string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
-  <string name="passport_password_req_notice">A palavra-passe deve ter entre 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas).</string>
+  <string name="passport_password_req_notice">A palavra-passe deve ter entre 8 a 16 letras e incluir números e letras (maiúsculas e minúsculas)</string>
   <string name="passport_phone_num_hint_text">Número de telefone</string>
   <string name="passport_prev">Voltar</string>
   <string name="passport_privacy_policy">Política de Privacidade</string>
@@ -516,14 +516,14 @@ Para activar a sua conta, siga o
   <string name="passport_reg_new">Criar uma Conta Mi gratuitamente</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_reg_success">Conta criada</string>
-  <string name="passport_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe.</string>
+  <string name="passport_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
   <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
   <string name="passport_reg_using_other_phone">Utilizar número de telefone alternativo</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Criar uma nova conta utilizando "</string>
   <string name="passport_reg_using_phone_number_prompt">Criar conta utilizando número de telefone</string>
-  <string name="passport_reg_via_sms_alert">A sua operadora pode cobrar uma mensagem utilizada para activar este serviço.</string>
+  <string name="passport_reg_via_sms_alert">A sua operadora pode cobrar uma mensagem utilizada para activar este serviço</string>
   <string name="passport_reging">A criar conta…</string>
   <string name="passport_register">Criar uma conta</string>
   <string name="passport_register_account_goto_email">Vá ao seu email</string>
@@ -541,14 +541,14 @@ Para activar a sua conta, siga o
   <string name="passport_reset_password_prompt">Palavra-passe está incorrecta</string>
   <string name="passport_reset_password_title">Redefinir palavra-passe</string>
   <string name="passport_restart">Começar de novo</string>
-  <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta.</string>
+  <string name="passport_restart_register_prompt">É necessário outra mensagem de verificação para criar a sua conta</string>
   <string name="passport_restart_register_title">Criar uma Conta Mi</string>
-  <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente.</string>
+  <string name="passport_send_too_many_code">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="passport_setting">A configurar…</string>
   <string name="passport_sim_index_info">Cartão SIM %1$d - %2$s</string>
   <string name="passport_skip_login">Ignorar início de sessão</string>
   <string name="passport_skip_register">Ignorar registo</string>
-  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições.</string>
+  <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde em Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Confiar neste dispositivo</string>
@@ -581,7 +581,7 @@ Para activar a sua conta, siga o
   <string name="power_on">Ligado</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
-  <string name="privacy_content">"Ler "<a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente.</string>
+  <string name="privacy_content">"Ler "<a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>
@@ -610,7 +610,7 @@ Para activar a sua conta, siga o
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Toque para ver mais</string>
   <string name="save">Guardar</string>
-  <string name="save_share_tips">Gosta da aplicação? Pode classificá-la.</string>
+  <string name="save_share_tips">Gosta da aplicação? Pode classificá-la</string>
   <string name="save_share_title">Guardar o controlo remoto neste dispositivo?</string>
   <string name="scaning">A pesquisar…</string>
   <string name="scanning_milink">A pesquisar por dispositivos…</string>
@@ -653,7 +653,7 @@ Para activar a sua conta, siga o
   <string name="share_content_device_box_to_sina_weibo">Mi Box</string>
   <string name="share_content_device_other_to_sina_weibo">Dispositivo Mi</string>
   <string name="share_content_device_tv_to_sina_weibo">Mi TV</string>
-  <string name="share_content_to_sina_weibo">%1$s gostou de %2$s, partilhe com amigos.</string>
+  <string name="share_content_to_sina_weibo">%1$s gostou de %2$s, partilhe com amigos</string>
   <string name="share_content_type_app_to_sina_weibo">Aplicação</string>
   <string name="share_content_type_other_to_sina_weibo">Outros</string>
   <string name="share_content_type_video_to_sina_weibo">Vídeo</string>
@@ -671,7 +671,7 @@ Para activar a sua conta, siga o
   <string name="share_level_private_desc">Rede Wi-Fi: %1$s</string>
   <string name="share_level_private_error">Não ligado a Wi-Fi</string>
   <string name="share_level_public">Todas as pessoas próximas</string>
-  <string name="share_level_public_error">Não foi possível definir localização. Verifique as definições de localização e tente novamente.</string>
+  <string name="share_level_public_error">Não foi possível definir localização. Verifique as definições de localização e tente novamente</string>
   <string name="share_level_title">Quem pode ver o controlo remoto?</string>
   <string name="share_media_actor">"Elenco: "</string>
   <string name="share_media_area">"País: "</string>
@@ -693,7 +693,7 @@ Para activar a sua conta, siga o
   <string name="share_title_to_mitalk_ellipsis">…</string>
   <string name="share_title_to_sina_weibo">Partilhar utilizando Sina Weibo</string>
   <string name="share_to_others">Partilhar</string>
-  <string name="sharerc_tips">Após partilhar este controlo remoto, as pessoas próximas vão poder utilizá-lo.</string>
+  <string name="sharerc_tips">Após partilhar este controlo remoto, as pessoas próximas vão poder utilizá-lo</string>
   <string name="shortcut_pop_desc">Parece que utiliza o C.Remoto Mi frequentemente. Criar um atalho no ecrã principal?</string>
   <string name="shortcut_pop_title">Atalho</string>
   <string name="similar">Relacionado</string>
@@ -703,7 +703,7 @@ Para activar a sua conta, siga o
   <string name="speech_init_failed">Toque para instalar motor de voz iFly</string>
   <string name="speed_up_channel_switch">在一些机顶盒上可以提高换台速度</string>
   <string name="splash_add_device_des">Comece por adicionar alguns dispositivos</string>
-  <string name="splash_desc">Controlar tudo apenas com um toque.</string>
+  <string name="splash_desc">Controlar tudo apenas com um toque</string>
   <string name="start_diagnosis">Testar</string>
   <string name="start_match">Emparelhar</string>
   <string name="stb">Set-top box</string>
@@ -713,8 +713,8 @@ Para activar a sua conta, siga o
   <string name="stop_diagnosis">Parar</string>
   <string name="study_room">Sala de estudo</string>
   <string name="submit">Submeter</string>
-  <string name="submit_fail_retry">Não foi possível submeter informação do dispositivo. Aguarde alguns minutos e tente novamente.</string>
-  <string name="succeed_content">Adicionado %3$s %4$s com sucesso.</string>
+  <string name="submit_fail_retry">Não foi possível submeter informação do dispositivo. Aguarde alguns minutos e tente novamente</string>
+  <string name="succeed_content">Adicionado %3$s %4$s com sucesso</string>
   <string name="succeed_finish">Concluído</string>
   <string name="succeed_title">Emparelhado</string>
   <string name="supported_by_kookong">Suporte técnico por Youku</string>
@@ -737,7 +737,7 @@ Para activar a sua conta, siga o
   <string name="tv_power">Ligar/desligar TV</string>
   <string name="unknown">Desconhecido</string>
   <string name="unkown_device_input_hint">Introduzir modelo do dispositivo</string>
-  <string name="unkown_device_main">Não é possível emparelhar este dispositivo.</string>
+  <string name="unkown_device_main">Não é possível emparelhar este dispositivo</string>
   <string name="unkown_device_sub">Envie-nos detalhes sobre este dispositivo para futuramente ser possível fornecermos suporte</string>
   <string name="unkown_device_title">Não foi possível obter informação do dispositivo</string>
   <string name="upgrade_already_latest">Sem actualizações disponíveis</string>
