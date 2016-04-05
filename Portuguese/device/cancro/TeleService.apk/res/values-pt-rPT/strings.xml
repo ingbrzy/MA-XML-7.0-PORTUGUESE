@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Result_title">Resultados…</string>
+  <string name="Result_title">Resultados</string>
   <string name="accessibility_settings_activity_title">Acessibilidade</string>
   <string name="active_phone_fail_nochoice">Não foi possível verificar o cartão SIM</string>
   <string name="active_phone_fail_toast">Não foi possível verificar o cartão SIM %1$s</string>
@@ -157,7 +157,7 @@
   <string name="call_recording_notification_toggle_title">Notificação de gravação de chamada</string>
   <string name="call_recording_setting">Gravar chamada</string>
   <string name="call_remove_exception_numbers_confirm">%d números vão ser eliminados</string>
-  <string name="call_settings">Definições de chamadas</string>
+  <string name="call_settings">Telefone</string>
   <string name="call_settings_category">Chamadas</string>
   <string name="call_settings_primary_user_only">As definições de chamadas só podem ser alteradas pelo utilizador principal</string>
   <string name="call_settings_with_label">Definições adicionais (%s)</string>
@@ -179,12 +179,12 @@
   <string name="card_title_call_ended">Chamada terminada</string>
   <string name="card_title_callconnectedect">Chamada ECT activa</string>
   <string name="card_title_callconnectingect">A activar chamada ECT</string>
-  <string name="card_title_calliswaiting">Chamada em Espera</string>
-  <string name="card_title_callonhold">Colocar em Espera</string>
-  <string name="card_title_callonhold_released">Chamada Solta</string>
-  <string name="card_title_callretrieved">Chamada Recuperada</string>
-  <string name="card_title_clir_suppression_rejected">Supressão CLIR Rejeitada</string>
-  <string name="card_title_conditionalCF">Reencaminhamento de Chamada Condicional activo</string>
+  <string name="card_title_calliswaiting">Chamada em espera</string>
+  <string name="card_title_callonhold">Colocar em espera</string>
+  <string name="card_title_callonhold_released">Chamada solta</string>
+  <string name="card_title_callretrieved">Chamada recuperada</string>
+  <string name="card_title_clir_suppression_rejected">Supressão CLIR rejeitada</string>
+  <string name="card_title_conditionalCF">Reencaminhamento de chamada condicional activo</string>
   <string name="card_title_conf_call">Chamada de conferência</string>
   <string name="card_title_cugcall">Chamada CUG</string>
   <string name="card_title_deflectedcall">Chamada reencaminhada</string>
@@ -199,7 +199,7 @@
   <string name="card_title_on_hold">Em espera</string>
   <string name="card_title_outgoing_barred">Chamadas de saída barradas</string>
   <string name="card_title_redialing">A marcar novamente</string>
-  <string name="card_title_unconditionalCF">Reencaminhamento de Chamada Incondicional activo</string>
+  <string name="card_title_unconditionalCF">Reencaminhamento de chamada incondicional activo</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Definições da operadora</string>
@@ -221,7 +221,7 @@
   <string name="cell_bc_sms_enable">Transmissões Móveis SMS activada</string>
   <string name="cell_broadcast_sms">Transmissões Móveis SMS</string>
   <string name="cell_broadcast_settings">Transmissões de emergência</string>
-  <string name="cf_mobile_date">Por favor ligue os dados móveis e certifique-se que o Wi-Fi está desligado</string>
+  <string name="cf_mobile_date">Ligue os dados móveis e certifique-se que o Wi-Fi está desligado</string>
   <string name="cfb_title">Reencaminhar quando estiver ocupado</string>
   <string name="cfnrc_title">Reencaminhar quando estiver inacessível</string>
   <string name="cfnrc_title_cta">Reencaminhar quando estiver inacessível</string>
@@ -260,7 +260,7 @@
   <string name="connection_service_default_label">Serviço de ligação integrado</string>
   <string name="contactAddFailed">Não é possível adicionar contacto ao SIM</string>
   <string name="contactAddSuccess">Contacto adicionado ao SIM</string>
-  <string name="contactPhoto">foto do contacto</string>
+  <string name="contactPhoto">Foto do contacto</string>
   <string name="contactScreen">Adicionar/Editar contacto SIM</string>
   <string name="contactUpdateFailed">Contacto actualizado no SIM</string>
   <string name="contactUpdateSuccess">Contacto actualizado no SIM</string>
@@ -377,13 +377,13 @@
   <string name="enable_proximity_title">Sensor de proximidade</string>
   <string name="enable_sim_pin">Definir PIN do SIM</string>
   <string name="enable_video_calling_dialog_close">Fechar</string>
-  <string name="enable_video_calling_dialog_msg">Para activar as videochamadas, tem de activar o Modo 4G LTE avançado nas definições da rede</string>
+  <string name="enable_video_calling_dialog_msg">Para ligar as videochamadas, tem de activar o modo 4G LTE Avançado nas definições da rede</string>
   <string name="enable_video_calling_dialog_settings">Definições de rede</string>
-  <string name="enable_video_calling_title">Activar videochamada</string>
+  <string name="enable_video_calling_title">Ligar videochamadas</string>
   <string name="enhanced_4g_lte_mode_off_failed">Não foi possível desligar VoLTE</string>
   <string name="enhanced_4g_lte_mode_on_failed">Não foi possível ligar VoLTE</string>
   <string name="enhanced_4g_lte_mode_summary">Utilizar os serviços LTE para melhorar a voz e outras comunicações (recomendado)</string>
-  <string name="enhanced_4g_lte_mode_title">Modo 4G LTE avançado</string>
+  <string name="enhanced_4g_lte_mode_title">Modo 4G LTE Avançado</string>
   <string name="ensure_info">Sim</string>
   <string name="enterName">Nome</string>
   <string name="enterNumber">Número de telefone</string>
@@ -441,7 +441,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="get_smsc_address_error">Não é possível ligar à rede</string>
   <string name="get_smsc_address_timeout">O tempo de ligação chegou ao fim</string>
   <string name="get_use_history_failed">"Não foi possível obter o histórico"</string>
-  <string name="goPrivate">tornar privado</string>
+  <string name="goPrivate">Ficar privado</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Preferências de rede</string>
   <string name="gsm_umts_network_preferences_title">Preferências de rede</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
@@ -469,7 +469,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="incall_error_power_off">Desligue o Modo de Avião para fazer chamadas</string>
   <string name="incall_error_power_off_wfc">Desligue o Modo de Avião ou ligue-se a uma rede sem fios para fazer uma chamada</string>
   <string name="incall_error_supp_service_conference">Não é possível efectuar chamadas de conferência</string>
-  <string name="incall_error_supp_service_hangup">Não é possível libertar a(s) chamada(s)</string>
+  <string name="incall_error_supp_service_hangup">Não é possível desligar a chamada</string>
   <string name="incall_error_supp_service_reject">Não é possível rejeitar a chamada</string>
   <string name="incall_error_supp_service_separate">Não é possível separar a chamada</string>
   <string name="incall_error_supp_service_switch">Não é possível trocar chamadas</string>
@@ -511,7 +511,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="labelCFU">Reencaminhar sempre</string>
   <string name="labelCW">Chamada em espera</string>
   <string name="labelCallerId">ID do autor da chamada</string>
-  <string name="labelCbCancelAll">Cancelar todos os barramentos</string>
+  <string name="labelCbCancelAll">Desligar o barramento de chamadas</string>
   <string name="labelCbChangePassword">Alterar palavra-passe</string>
   <string name="labelCdmaMore_with_label">Definições de chamada CDMA (%s)</string>
   <string name="labelGSMMore">Definições de chamadas GSM</string>
@@ -707,7 +707,7 @@ Será utilizada a rede preferida em vez."</string>
   <string name="new_pin_label">Novo PIN</string>
   <string name="no_balance_message">Sem saldo suficiente no seu pacote de carregamento. Pode fazer uma chamada normal em vez</string>
   <string name="no_balance_title">Sem saldo suficiente</string>
-  <string name="no_call_barring">Sem barramentos</string>
+  <string name="no_call_barring">Barramento de chamadas desligado</string>
   <string name="no_change">Não foram feitas alterações.</string>
   <string name="no_data">Sem dados</string>
   <string name="no_internet_available">Para fazer uma chamada pela Internet, tem de ter uma ligação à Internet.</string>
@@ -758,7 +758,7 @@ Será utilizada a rede preferida em vez."</string>
   <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Abrir</string>
   <string name="operator_first">Dar prioridade ao plano da operadora</string>
-  <string name="operation_successfully">Operação com sucesso.</string>
+  <string name="operation_successfully">Concluído</string>
   <string name="operator_first_mins_hint">xx minutes</string>
   <string name="operator_first_mins_none_summary">Carregue o pacote primeiro</string>
   <string name="operator_first_mins_none_title">Minutos do pacote da operadora totalmente utilizados</string>
@@ -814,7 +814,7 @@ Tente novamente ou ligue para o serviço de apoio ao cliente para mais opções.
 "</string>
   <string name="pause_prompt_yes">Sim</string>
   <string name="payphone">Telefone público</string>
-  <string name="phoneAppLabel">Serviços de telefone</string>
+  <string name="phoneAppLabel">Telefone</string>
   <string name="phoneIconLabel">Telefone</string>
   <string name="phone_accounts">Contas de chamadas</string>
   <string name="phone_accounts_add_sip_account">Adicionar conta SIP</string>
@@ -917,10 +917,10 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="pstn_phone">Chamada de telemóvel</string>
   <string name="psw_enter_new">Nova palavra-passe</string>
   <string name="psw_enter_old">Palavra-passe antiga</string>
-  <string name="psw_reenter_new">Reintroduzir a sua palavra-passe</string>
+  <string name="psw_reenter_new">Introduzir palavra-passe novamente</string>
   <string name="puk2_blocked">PUK2 bloqueado permanentemente</string>
   <string name="puk2_label">Introduzir código PUK2</string>
-  <string name="puk2_requested">O código está errado, o cartão SIM foi bloqueado. Introduzir o código do PUK2</string>
+  <string name="puk2_requested">Código errado, o cartão SIM está bloqueado. Introduzir PUK2</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
 O cartão SIM será eliminado após outra tentativa falhada."</string>

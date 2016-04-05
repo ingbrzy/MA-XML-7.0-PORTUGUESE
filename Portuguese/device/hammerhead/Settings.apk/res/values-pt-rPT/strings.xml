@@ -107,15 +107,15 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_failed_retry_text">Não foi possível adicionar impressão digita. Tente novamente</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital coloque o seu dedo no leitor de impressões digitais. Certifique-se que o seu dedo preenche o limite interior do leitor</string>
-  <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
-  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressão digital</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Coloque e remova o dedo repetidamente até a sua impressão digital estar totalmente gravada</string>
-  <string name="add_fingerprint_put_finger_msg">Coloque e remova o dedo repetidamente até a sua impressão digital estar totalmente gravada</string>
-  <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Altere a posição do dedo</string>
+  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital, coloque o seu dedo no sensor e retire após sentir uma vibração</string>
+  <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
+  <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
+  <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
-  <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
+  <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
 
 O seu Administrador pode monitorizar e gerir definições, acessos, aplicações e dados associados com este Utilizador, incluíndo actividade de rede e a informação de localização do seu dispositivo."</string>
@@ -757,7 +757,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
-  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração. Nota: desligar esta funcionalidade vai trazer grandes mudanças nos layouts e nos elementos da UI</string>
+  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Nativo</string>
@@ -787,7 +787,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="confirm_enable_oem_unlock_title">Pretende permitir o desbloqueio de OEM?</string>
   <string name="confirm_erase">Eliminar</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar.</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_via_passpoint">Ligado via %1$s</string>
@@ -1011,7 +1011,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e a sua operador
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar dados da impressão digital?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -1310,10 +1310,10 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
-  <string name="fingerprint_for_keyguard_disabled">根据设备安全策略，锁屏已禁用指纹</string>
+  <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desactivadas pelas definições de segurança</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
-  <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
-  <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
+  <string name="fingerprint_identify_msg">A ler impressão digital…</string>
+  <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
   <string name="fingerprint_last_delete_confirm">Sim, remover</string>
   <string name="fingerprint_last_delete_message">Não poderá utilizar as impressões digitais para desbloquear o telemóvel, autorizar compras ou iniciar sessão em aplicações com elas.</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
@@ -1736,7 +1736,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
+  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressão digital</string>
   <string name="lock_setup">Configuração concluída.</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -1825,7 +1825,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="managed_device_admin_title">Trabalho</string>
   <string name="managed_profile_device_admin_info">Para o %1$s deixar de aceder ao seu perfil de trabalho, remova o perfil em Definições &gt; Contas</string>
   <string name="managed_profile_location_category">Perfil de trabalho</string>
-  <string name="managed_profile_location_switch_lockdown">Desligado pela sua empresa</string>
+  <string name="managed_profile_location_switch_lockdown">Desligado pelo administrador da sua empresa</string>
   <string name="managed_profile_location_switch_title">Localização para perfil de trabalho</string>
   <string name="managed_profile_not_available_label">O perfil de trabalho ainda não está disponível</string>
   <string name="managed_user_title">Perfil de trabalho</string>
@@ -1868,7 +1868,7 @@ Existem outros utilizadores presentes neste dispositivo.
   <string name="max_cpu4_info">"Quad-core Max "</string>
   <string name="max_cpu6_info">"Hexa-core Max "</string>
   <string name="max_cpu8_info">"Octa-core Max "</string>
-  <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma impressão digital, elimine primeiro uma impressão digital existente</string>
+  <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
   <string name="media_button">Botão multimédia</string>
   <string name="media_category">Multimédia</string>

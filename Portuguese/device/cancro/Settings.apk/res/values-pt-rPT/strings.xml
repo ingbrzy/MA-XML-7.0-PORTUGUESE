@@ -757,7 +757,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo."</string>
   <string name="clear_failed_dlg_title">Limpar dados</string>
   <string name="clear_user_data_text">Limpar dados</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
-  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração. Nota: desligar esta funcionalidade vai trazer grandes mudanças nos layouts e nos elementos da UI</string>
+  <string name="close_miui_optimization_warning_message">O seu dispositivo vai reiniciar para aplicar esta alteração</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
   <string name="color_calibration_none">Nativo</string>
@@ -1310,7 +1310,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueio de ecrã</string>
   <string name="fingerprint_enroll_button_add">Adicionar outra</string>
   <string name="fingerprint_enroll_button_next">Seguinte</string>
-  <string name="fingerprint_for_keyguard_disabled">根据设备安全策略，锁屏已禁用指纹</string>
+  <string name="fingerprint_for_keyguard_disabled">As impressões digitais foram desactivadas pelas definições de segurança</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
   <string name="fingerprint_identify_msg">A ler impressão digital…</string>
   <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
