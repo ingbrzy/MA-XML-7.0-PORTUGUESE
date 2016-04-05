@@ -112,8 +112,9 @@
   <string name="files_backup_info">Todos os ficheiros no cartão SD (incluindo fotos, músicas, vídeos, etc.)</string>
   <string name="findlost_contact">Restaurar contactos</string>
   <string name="findlost_contact_online">Restaurar contactos da Nuvem Mi</string>
-  <string name="guarded_mode_dialog_message">Esta função não é permitida no modo de Convidado</string>
-  <string name="guarded_mode_dialog_title">Está em modo de Convidado</string>
+  <string name="guarded_mode_dialog_backup_message">Não são permitidas cópias de segurança no modo Convidado</string>
+  <string name="guarded_mode_dialog_title">Está em modo Convidado</string>
+  <string name="guarded_mode_dialog_transfer_message">Não é possível utilizar Mi Mover no modo Convidado</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Transfira a aplicação Mi Talk e inicie a sessão.
 \u0009http://www.miliao.com
 
@@ -137,6 +138,8 @@
   <string name="miliao_account_login">Início de sessão no MiTalk</string>
   <string name="mms_title">Mensagens multimédia</string>
   <string name="multi_select_title">Seleccionado %1$s</string>
+  <string name="multi_user_mode_dialog_message">Não é possível utilizar Mi Mover no modo Multi-Utilizador. Desligue o modo Multi-Utilizador para continuar</string>
+  <string name="multi_user_mode_dialog_title">Está no modo Multi-Utilizador</string>
   <string name="never">Nunca</string>
   <string name="new_backup">Fazer Cópia de Segurança</string>
   <string name="no_encrypt_password">Sem palavra-passe</string>
@@ -248,7 +251,7 @@
   <string name="trans_calculating_base_size">A calcular o tamanho dos dados</string>
   <string name="trans_cancel_confirm">Transferência em curso. Cancelar agora?</string>
   <string name="trans_cancelling">A cancelar…</string>
-  <string name="trans_connect_failed_message">Não foi possível ligar. Reinicie o dispositivo ou tente novamente. Execute Mi Mover depois de reiniciar ou vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] no outro dispositivo</string>
+  <string name="trans_connect_failed_message">Não foi possível ligar. Tente novamente ou reinicie o dispositivo. No outro dispositivo, vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] ou execute Mi Mover depois de reiniciar</string>
   <string name="trans_connect_failed_title">Não foi possível ligar</string>
   <string name="trans_connect_failed_toast">Não foi possível ligar</string>
   <string name="trans_connecting_toast">A ligar…</string>
@@ -312,8 +315,8 @@ Mantenha ambos os dispositivos perto um do outro."</string>
   <string name="trans_sending_completed">Enviado com sucesso</string>
   <string name="trans_show_qr_code_label">Ligar dispositivo antigo</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
-  <string name="trans_start_failed_message">Não foi possível iniciar. Tente novamente ou reinicie o dispositivo</string>
-  <string name="trans_start_failed_title">Não foi possível iniciar</string>
+  <string name="trans_start_failed_message">Não foi possível iniciar a transferência. Tente novamente ou reinicie o dispositivo</string>
+  <string name="trans_start_failed_title">Não foi possível iniciar a transferência</string>
   <string name="trans_time_format_second">Menos de um minuto</string>
   <string name="trans_time_spent">"
 Tempo gasto: %s"</string>
@@ -327,7 +330,7 @@ e Transferências estão activas"</string>
   <string name="unknown_hint">Desconhecido</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
   <string name="user_notice_message">Algumas funcionalidades necessitam duma ligação à Internet para funcionar normalmente</string>
-  <string name="user_notice_title">Notificações de utilizador</string>
+  <string name="user_notice_title">Atenção</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível ligar ao Gestor de Transferências. Verifique o estado do Gestor de Transferências na Gestão de Aplicações</string>

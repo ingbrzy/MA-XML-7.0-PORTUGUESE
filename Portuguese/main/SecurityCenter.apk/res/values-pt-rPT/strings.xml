@@ -150,6 +150,7 @@ ou introduzir palavra-passe"</string>
   <string name="button_text_uninstall_shortcut">Remover atalho do ecrã inicial</string>
   <string name="button_text_view">Optimizar</string>
   <string name="button_text_view_power">Ver</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_title">Limpar %1$d ficheiros de cache para libertar %2$s de espaço</string>
   <string name="call_and_contact">Chamadas e contactos</string>
   <string name="cancal_to_setting_fingerprint">Cancelar</string>
@@ -329,6 +330,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Ir para as Definições</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memória</string>
@@ -393,6 +395,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="item_usb_debug">Depuração USB</string>
   <string name="item_virus">Vírus</string>
   <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
+  <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
   <string name="last_check_date_today">"Verificado hoje "</string>
@@ -436,6 +439,10 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
   <string name="lockpattern_tutorial_continue_label">Seguinte</string>
+  <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
+  <string name="lockscreen_access_pattern_cleared">Padrão adicionado</string>
+  <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
+  <string name="lockscreen_access_pattern_start">Padrão iniciado</string>
   <string name="lockscreen_glogin_checking_password">A verificar…</string>
   <string name="lockscreen_glogin_password_hint">Palavra-passe</string>
   <string name="lockscreen_glogin_submit_button">Iniciar sessão</string>
@@ -487,6 +494,7 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="manual_item_white_list_summary">Impedir que as aplicações seleccionadas sejam optimizadas</string>
   <string name="manual_item_white_list_title">Excepções</string>
   <string name="manual_white_list_header">%d excepções</string>
+  <string name="megabyteShort">MB</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content_none">Vazio</string>
   <string name="menu_item_about_content">Versão %s</string>

@@ -6,7 +6,7 @@
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Dados da aplicação</string>
   <string name="activity_title_deep_apk">Eliminar APKs</string>
-  <string name="activity_title_deep_clean">Limpeza profunda</string>
+  <string name="activity_title_deep_clean">Limpeza Profunda</string>
   <string name="activity_title_garbage_cleanup">Limpeza</string>
   <string name="activity_title_ignored_image">Ignorado</string>
   <string name="activity_title_image_gallery">Eliminar duplicados</string>
@@ -64,7 +64,7 @@
   <string name="button_text_uninstall">Desinstalar</string>
   <string name="button_text_uninstall_only">Desinstalar %s</string>
   <string name="button_text_unselect_all">Desmarcar tudo</string>
-  <string name="button_text_unselect_pic">Desmarcar</string>
+  <string name="button_text_unselect_pic">Desmarcar tudo</string>
   <string name="button_text_view_detail">Detalhes</string>
   <string name="button_text_view_file">Ficheiro</string>
   <string name="buy_immediately">Comprar</string>
@@ -136,7 +136,7 @@
   <string name="empty_title_ad">Não foram encontrados ficheiros</string>
   <string name="empty_title_apk">Não foram encontrados pacotes</string>
   <string name="empty_title_garbage_cache">Nada para limpar</string>
-  <string name="empty_title_garbage_white_list">Sem excepções</string>
+  <string name="empty_title_garbage_white_list">Prima e segure para adicionar excepções</string>
   <string name="empty_title_installed_apps">Vazio</string>
   <string name="empty_title_large_files">Vazio</string>
   <string name="empty_title_residual">Não foram encontrados resíduos</string>
@@ -222,6 +222,8 @@
   <string name="last_check_canceled">A verificação anterior foi cancelada</string>
   <string name="load_only_under_wlan">Carregar notícias quando ligado ao Wi-Fi</string>
   <string name="login_immediately">Iniciar sessão</string>
+  <string name="long_click_dialog_summary">Prima e segure para adicionar às excepções</string>
+  <string name="long_click_dialog_title">Nota</string>
   <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, memória %2$s</string>
@@ -239,9 +241,10 @@
   <string name="net_assistant_detail">Utilizado %1$s, poupado %2$s</string>
   <string name="net_assistant_title">Utilizado %s de dados móveis este mês</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
-  <string name="no_network">Não é possível ligar à rede. Tente mais tarde.</string>
+  <string name="news_change">Alterar</string>
+  <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
-  <string name="notification_summary_after_auto_cleanup">Limpo %s.</string>
+  <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
   <string name="notification_summary_of_apps_cleanup">Aplicações não utilizadas estão a tirar %s de armazenamento</string>
   <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s</string>
   <string name="notification_title_of_apps_cleanup">Aplicações não utilizadas</string>
@@ -252,13 +255,15 @@
   <string name="open_browser">Abrir no navegador</string>
   <string name="optimizecenter_data_support">Produzido por Clean Master</string>
   <string name="positive_confirm">OK</string>
-  <string name="pref_category_title_auto_clean_settings">Programar</string>
+  <string name="pref_category_title_auto_clean_settings">Limpar automaticamente</string>
   <string name="pref_category_title_auto_update_cleanup_db">Definições adicionais</string>
   <string name="pref_category_title_cleanup_white_list">Excepções</string>
   <string name="pref_category_title_garbage_cleanup_check">Notificações</string>
   <string name="pref_category_title_other_clean_settings">Definições adicionais</string>
   <string name="pref_content_cleanup_white_list_none">Nenhum</string>
+  <string name="pref_section_auto_clean_and_alert">Limpar automaticamente</string>
   <string name="pref_summary_auto_clean_and_alert">Programar limpeza para iniciar automaticamente</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Notificação de aplicações não utilizadas</string>
   <string name="pref_summary_auto_update_cleanup_db">Última actualização %s</string>
   <string name="pref_summary_cleanup_white_list">Impedir aplicações seleccionadas de serem limpas</string>
   <string name="pref_summary_expand_cache_group">Mostrar detalhes da cache automaticamente</string>
@@ -267,13 +272,12 @@
   <string name="pref_summary_garbage_cleanup_check_time">Agendar uma rotina de limpeza</string>
   <string name="pref_summary_garbage_process_mode">Definir notificações quando a limpeza está em execução</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Carregar e comparar os nomes dos ficheiros desconhecidos com as definições online</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Verificar e limpar automaticamente a memória</string>
   <string name="pref_title_apps_check_size">Limite de espaço de armazenamento</string>
   <string name="pref_title_apps_check_time">Frequência</string>
   <string name="pref_title_apps_cleanup_size">​Quando o tamanho da cache atingir</string>
   <string name="pref_title_auto_clean_and_alert">Limpar automaticamente</string>
   <string name="pref_title_auto_clean_content_choose">Escolher itens a limpar</string>
-  <string name="pref_title_auto_deepclean_and_alert">Notificação de aplicações não utilizadas</string>
+  <string name="pref_title_auto_deepclean_and_alert">Limpeza Profunda</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automaticamente</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>
   <string name="pref_title_expand_cache_group">Mostrar itens em cache</string>
@@ -284,7 +288,7 @@
   <string name="pref_title_garbage_process_mode">Notificações</string>
   <string name="pref_title_manual_check_cleanup_db_update">Verificar actualizações</string>
   <string name="pref_title_open_optimizer_cloud_scan">Enviar nomes de ficheiro</string>
-  <string name="pref_title_open_optimizer_memory_scan">Escolher aplicações automaticamente</string>
+  <string name="pref_title_open_optimizer_memory_scan">Verificar memória da aplicação</string>
   <string name="privacy_app_desc">Conta e palavra-passe</string>
   <string name="privacy_app_desc_message">Conta, palavras-passe e mensagens</string>
   <string name="privacy_app_desc_search">Conta, palavras-passe e histórico de pesquisa</string>
@@ -324,6 +328,7 @@
   <string name="summary_optimizer">Esta funcionalidade envia os nomes das pastas para actualizar a base de dados online do Cheetah Mobile e requer o ID do seu dispositivo</string>
   <string name="text_optimizer">Enviar nomes das pastas</string>
   <string name="there_is_no">Limpeza concluída. Volte mais tarde</string>
+  <string name="tips_of_app_manage">Eliminar aplicações raramente utilizadas para poupar espaço</string>
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="tips_of_cloud_service">Inicie sessão na sua Conta Mi para utilizar mais serviços Mi</string>
   <string name="tips_of_connect">Ligar à Internet para utilizar um conjunto completo de funcionalidades de segurança</string>
@@ -340,6 +345,7 @@
   <string name="title_delete_clipboard">Conteúdo da Área de transferência</string>
   <string name="title_delete_deepclean">Eliminar</string>
   <string name="title_delete_large_file">Eliminar ficheiros grandes</string>
+  <string name="title_of_app_manage">Aplicações</string>
   <string name="title_of_auto_launch_manage">Iniciar automaticamente</string>
   <string name="title_of_cloud_service">Serviços de Nuvem</string>
   <string name="title_of_garbage_cloud_scan">Verificação de nuvem</string>
