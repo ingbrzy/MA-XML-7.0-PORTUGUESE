@@ -89,15 +89,15 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital.</string>
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_finished_button_text">Feito</string>
-  <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital coloque o seu dedo no sensor.
-Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
-  <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
-  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressão digital</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
-  <string name="add_fingerprint_put_finger_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
-  <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
+  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital, coloque o seu dedo no sensor e retire após sentir uma vibração</string>
+  <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
+  <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
+  <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
-  <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
+  <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
@@ -641,7 +641,7 @@ Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_erase">Eliminar</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_wifi">Ligado</string>
@@ -822,7 +822,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar dados da impressão digital?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -910,7 +910,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="dndm_alarm_content_event_and_sms">Notificações e mensagens</string>
   <string name="dndm_alarm_content_not_all">Silenciar tudo</string>
   <string name="dndm_alarm_content_sms">Mensagens</string>
-  <string name="dndm_auto_button_title">Repetir hora de não incomodar</string>
+  <string name="dndm_auto_button_title">Repetir hora de Não incomodar</string>
   <string name="dndm_auto_setting_group">Programado</string>
   <string name="dndm_auto_time_setting">Definir hora</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
@@ -1063,9 +1063,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
-  <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
+  <string name="fingerprint_identify_msg">A ler impressão digital…</string>
+  <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
-  <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar paragem</string>
   <string name="finish_button_label">Terminar</string>
@@ -1379,7 +1379,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
+  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressão digital</string>
   <string name="lock_setup">Configuração concluída.</string>
   <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -1651,7 +1651,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="network_state_label">Estado da rede:</string>
   <string name="networkid_label">ID de rede:</string>
   <string name="networks">Seleccão de operadora</string>
-  <string name="networks_title">Redes móveis</string>
   <string name="never">Nunca</string>
   <string name="new_backup_pw_prompt">Introduza uma nova palavra-passe para a cópia de segurança completa</string>
   <string name="next_button_label">Seguinte</string>
@@ -2081,7 +2080,7 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="runningservicedetails_processes_title">Processos</string>
   <string name="runningservicedetails_services_title">Serviços</string>
   <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidades vão deixar de funcionar correctamente até reiniciar o telefone.</string>
+  <string name="runningservicedetails_stop_dlg_text">Se parar este serviço, algumas funcionalidades vão deixar de funcionar correctamente até reiniciar o telefone</string>
   <string name="runningservicedetails_stop_dlg_title">Parar o serviço do sistema?</string>
   <string name="runningservices_settings_summary">Ver e controlar os serviços em execução</string>
   <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2502,7 +2501,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="theme_settings_title">Temas</string>
   <string name="time_picker_title">Hora</string>
-  <string name="time_zone_auto_stub">Seleccionar fuso horário</string>
+  <string name="time_zone_auto_stub">Seleccionar Fuso Horário</string>
   <string name="timezone_settings">Fuso horário</string>
   <string name="title_color_calibration">Correcção de Cores</string>
   <string name="title_dolby_control">Dolby digital plus</string>
