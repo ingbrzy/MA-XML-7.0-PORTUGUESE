@@ -641,11 +641,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="permit_running_network">Dados em segundo plano</string>
   <string name="person_hotpot">Pontos de Acesso Móveis</string>
   <string name="pkg_traffic">Definir limite de utilização de dados</string>
-  <string name="pm_auto_start_basic_services_lock">Bloquear</string>
-  <string name="pm_auto_start_basic_services_unlock">Desbloquear</string>
-  <string name="pm_auto_start_by_basic_services">Serviços básicos</string>
-  <string name="pm_auto_start_by_other_services">Tente desligar estes serviços</string>
+  <string name="pm_auto_start_by_other">Início desencadeado</string>
+  <string name="pm_auto_start_by_other_app">Permitir que a aplicação seja iniciada por outras aplicações</string>
   <string name="pm_auto_start_by_system">Iniciar aplicações</string>
+  <string name="pm_auto_start_by_system_event">Permitir que aplicações iniciem automaticamente</string>
   <string name="pm_auto_start_proc_is_running">Em execução</string>
   <string name="pm_remember_choice">Memorizar esta escolha</string>
   <string name="pm_root_success_notification_title">Acesso root activado</string>

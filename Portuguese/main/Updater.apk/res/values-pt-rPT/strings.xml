@@ -16,8 +16,8 @@
   <string name="auto_dialog_msg">A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema</string>
   <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
-  <string name="auto_update">Transferir actualizações automaticamente</string>
-  <string name="auto_update_sum">Transferir automaticamente quando ligado ao Wi-Fi</string>
+  <string name="auto_update">Actualizar automaticamente</string>
+  <string name="auto_update_sum">Transferir actualizações automaticamente quando ligado ao Wi-Fi e instalá-las durante a noite</string>
   <string name="autosetmode">Definições</string>
   <string name="best_update">A melhor actualização até agora</string>
   <string name="boot_recovery">Reiniciar em modo de restauro?</string>
@@ -160,8 +160,8 @@
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
   <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root.</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
-  <string name="set_auto_msg">Transferir actualizações automaticamente quando estiver ligado ao Wi-Fi?</string>
-  <string name="set_auto_update_title">Transferir actualizações automaticamente?</string>
+  <string name="set_auto_msg">As actualizações vão ser transferidas automaticamente quando estiver ligado ao Wi-Fi e instaladas durante a noite quando não estiver a utilizar o dispositivo</string>
+  <string name="set_auto_update_title">Actualizar automaticamente?</string>
   <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro.</string>
   <string name="set_installfail_msg">Transferir esta actualização através da sua ligação de dados móveis vai aumentar excessivamente o consumo de dados</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>

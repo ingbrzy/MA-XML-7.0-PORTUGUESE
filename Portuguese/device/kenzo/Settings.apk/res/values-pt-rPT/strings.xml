@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="aaid_info">"
+Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
+
+Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente."</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Vai ser necessário palavra-passe para abrir a aplicação</string>
@@ -79,6 +83,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
+  <string name="ad_service">Serviços de anúncios</string>
   <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
   <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
@@ -89,15 +94,15 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_done_msg">Agora pode desbloquear o seu dispositivo com a sua impressão digital.</string>
   <string name="add_fingerprint_done_title">Feito!</string>
   <string name="add_fingerprint_finished_button_text">Feito</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar a sua impressão digital, coloque o seu dedo no sensor e retire após sentir uma vibração</string>
-  <string name="add_fingerprint_instruction_msg">Desbloquear o dispositivo ou verificar pagamentos com a sua impressão digital</string>
-  <string name="add_fingerprint_instruction_title">Adicionar a sua impressão digital</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
-  <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
-  <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Para adicionar a sua impressão digital coloque o seu dedo no sensor.
+Certifique-se que o seu dedo preenche o limite interior do sensor"</string>
+  <string name="add_fingerprint_instruction_msg">Desbloquear o seu dispositivo ou verificar pagamentos com a sua impressão digital</string>
+  <string name="add_fingerprint_instruction_title">Coloque o seu dedo no leitor de impressão digital</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
+  <string name="add_fingerprint_put_finger_msg">Depois de premir o sensor, remova o dedo e repita novamente.</string>
+  <string name="add_fingerprint_put_finger_title">Colocar e remover dedo</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
-  <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
+  <string name="add_fingerprint_toast_text">Coloque o seu dedo no leitor agora</string>
   <string name="additional_system_update"/>
   <string name="additional_system_update_menu"/>
   <string name="additional_system_update_settings_list_item_title">Actualizações adicionais do sistema</string>
@@ -641,8 +646,9 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_erase">Eliminar</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_wifi">Ligado</string>
   <string name="contributors_title">Contribuidores</string>
@@ -822,7 +828,7 @@ Esta definição afecta todos os utilizadores deste telefone."</string>
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
   <string name="delete_fingerprint_text">Remover impressão digital</string>
   <string name="delete_legacy_fingerprint">Eliminar</string>
-  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar dados da impressão digital?</string>
   <string name="deny">Negar</string>
   <string name="deny_sms_message">"Não permitir que as aplicações instaladas enviem SMS"</string>
   <string name="deny_sms_title">Bloquear SMS</string>
@@ -1063,9 +1069,9 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="filter_apps_third_party">Transferidas</string>
   <string name="filter_dlg_title">Escolher opções do filtro</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
-  <string name="fingerprint_identify_msg">A ler impressão digital…</string>
-  <string name="fingerprint_identify_try_again_msg">Não foi possível ler impressão digital. Tente novamente</string>
+  <string name="fingerprint_identificating_msg">A digitalizar impressão digital…</string>
   <string name="fingerprint_identify_input_password_msg">Introduzir palavra-passe</string>
+  <string name="fingerprint_identify_try_again_msg">"Não foi possível digitalizar, tente novamente"</string>
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="finish_application">Forçar paragem</string>
   <string name="finish_button_label">Terminar</string>
@@ -1379,7 +1385,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressão digital</string>
+  <string name="lock_settings_with_fingerprint">Bloqueio de ecrã e leitor de impressões digitais</string>
   <string name="lock_setup">Configuração concluída.</string>
   <string name="lock_sounds_enable_title">Som de bloqueio do ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -2022,6 +2028,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="repeat">Repetir</string>
+  <string name="repeat_title">Repetir</string>
+  <string name="reset_aaid">Repor identificador de anúncios</string>
   <string name="reset_app_preferences">Redefinir preferências da aplicação</string>
   <string name="reset_app_preferences_button">Redefinir aplicações</string>
   <string name="reset_app_preferences_desc">"Isto vai redefinir todas as preferências para:
@@ -2688,6 +2696,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="use_location_title">Localização e pesquisa do Google</string>
   <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Anúncios personalizados</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="user_account_title">Conta para conteúdo</string>
   <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicações e conteúdos a partir da sua conta</string>

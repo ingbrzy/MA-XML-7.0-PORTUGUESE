@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="aaid_info">"
+Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
+
+Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente."</string>
   <string name="about_settings">Acerca do telefone</string>
   <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
   <string name="ac_enable_summary">Vai ser necessário palavra-passe para abrir a aplicação</string>
@@ -79,6 +83,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="active_input_method_subtypes">Modos de entrada activos</string>
   <string name="activity_not_found">Aplicação não está instalada no seu dispositivo.</string>
   <string name="activity_picker_label">Escolher actividade</string>
+  <string name="ad_service">Serviços de anúncios</string>
   <string name="adb_keys_warning_message">Revogar acesso a depuração USB de todos os computadores que tenha previamente autorizado?</string>
   <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Pode ser utilizada para copiar dados entre o computador e o dispositivo, instalar aplicações neste dispositivo sem notificação e ler dados de registo.</string>
   <string name="adb_warning_title">Permitir a depuração USB?</string>
@@ -643,6 +648,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="confirm_erase">Eliminar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_reset_aaid">OK</string>
   <string name="connect_to_internet">Ligar à rede</string>
   <string name="connected_wifi">Ligado</string>
   <string name="contributors_title">Contribuidores</string>
@@ -2022,6 +2028,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="remove_device_admin">Desactivar</string>
   <string name="remove_from_frequently_fragment">Remover %s das definições comuns?</string>
   <string name="repeat">Repetir</string>
+  <string name="repeat_title">Repetir</string>
+  <string name="reset_aaid">Repor identificador de anúncios</string>
   <string name="reset_app_preferences">Redefinir preferências da aplicação</string>
   <string name="reset_app_preferences_button">Redefinir aplicações</string>
   <string name="reset_app_preferences_desc">"Isto vai redefinir todas as preferências para:
@@ -2688,6 +2696,7 @@ Um serviço do Google para sincronizar dados que permitem o acesso aos seus cont
   <string name="use_location_title">Localização e pesquisa do Google</string>
   <string name="use_nuplayer">Utilizar NuPlayer (experimental)</string>
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
+  <string name="use_personalized_ad_service">Anúncios personalizados</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
   <string name="user_account_title">Conta para conteúdo</string>
   <string name="user_add_profile_item_summary">Pode restringir o acesso a aplicações e conteúdos a partir da sua conta</string>
