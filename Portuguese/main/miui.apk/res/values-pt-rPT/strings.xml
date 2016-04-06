@@ -349,9 +349,9 @@
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">"d 'de' MMMM"</string>
-  <string name="fmt_date_long_year_month">"MMMM 'de' yyyy"</string>
-  <string name="fmt_date_long_year_month_day">"d 'de' MMMM 'de' yyyy"</string>
+  <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM \'de\' yyyy</string>
+  <string name="fmt_date_long_year_month_day">d \'de\' MMMM \'de\' yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">d/M</string>
