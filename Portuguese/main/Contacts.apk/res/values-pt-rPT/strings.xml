@@ -12,7 +12,7 @@
   <string name="activity_title_confirm_add_detail">Adicionar ao contacto</string>
   <string name="activity_title_contacts_filter">Contactos a mostrar</string>
   <string name="activity_title_settings">Definições</string>
-  <string name="addPeopleToGroup">Para adicionar alguns, edite o grupo.</string>
+  <string name="addPeopleToGroup">Para adicionar alguns, edite o grupo</string>
   <string name="add_2sec_pause">Adicionar pausa de 2 segundos</string>
   <string name="add_account">Adicionar conta</string>
   <string name="add_blacklist">Adicionar à lista de bloqueio</string>
@@ -31,11 +31,11 @@
   <string name="add_xiaomi_account_dialog_btn">Utilizar Conta Mi</string>
   <string name="add_xiaomi_account_dialog_msg">Faça cópia dos seus contactos para a sua Conta Mi para aceder aos mesmos em qualquer lugar!</string>
   <string name="add_xiaomi_account_dialog_title">Escolher conta</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações inseridas até agora serão guardadas.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Alterar o contacto seleccionado? As informações que inseriu até agora vão ser copiadas</string>
   <string name="aggregation_suggestion_edit_dialog_title">Mesmo nome</string>
   <string name="aggregation_suggestion_join_dialog_message">Juntar o contacto actual ao contacto seleccionado?</string>
   <string name="all_list_empty">Sem contactos</string>
-  <string name="antispam_mark_my_contribution">Mostrar aos outros utilizadores que eu reportei este número.</string>
+  <string name="antispam_mark_my_contribution">Mostrar aos outros utilizadores que eu reportei este número</string>
   <string name="antispam_provider_format">Reportado como spam por %s</string>
   <string name="attach_photo_dialog_title">Foto do contacto</string>
   <string name="audio_chat">Conversa de voz</string>
@@ -156,7 +156,7 @@
   <string name="close_dial_pad">Fechar teclado de marcação</string>
   <string name="cloud_antispam_mark">Reportar</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
-  <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi.</string>
+  <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Nuvem Mi</string>
   <string name="cloud_state_disabled">Sincronização com a Nuvem Mi está desligada</string>
   <string name="cloud_state_loading">Aguarde…</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Nuvem Mi</string>
@@ -164,9 +164,9 @@
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
   %2$s"</string>
-  <string name="composer_failed_to_get_database_infomation">Erro ao obter informações da base de dados.</string>
-  <string name="composer_has_no_exportable_contact">Não existem contactos para exportar. Se tem os contactos no telefone o fornecedor de dados pode ter impedido a exportação.</string>
-  <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente.</string>
+  <string name="composer_failed_to_get_database_infomation">Erro ao obter informações da base de dados</string>
+  <string name="composer_has_no_exportable_contact">Não existem contactos para exportar. Se tem os contactos no telefone o fornecedor de dados pode ter impedido a exportação</string>
+  <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
@@ -176,7 +176,7 @@
   <string name="confirm_delete_contact_all_call_logs">Eliminar registo de chamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">Eliminar registo de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
-  <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s.</string>
+  <string name="confirm_export_message">A sua lista de contactos será exportada para o ficheiro: %s</string>
   <string name="confirm_export_title">Exportar contactos?</string>
   <string name="connections">Ligações</string>
   <string name="contactDetailAbout">Informação do contacto</string>
@@ -221,12 +221,12 @@
   <string name="contact_edit_title_insert">Guardar no %s</string>
   <string name="contact_edit_title_readonly">Só de leitura</string>
   <string name="contact_editor_prompt_multiple_accounts">Guardar contacto para</string>
-  <string name="contact_editor_prompt_one_account">O novo contacto será sincronizado %1$s.</string>
+  <string name="contact_editor_prompt_one_account">O novo contacto será sincronizado %1$s</string>
   <string name="contact_editor_prompt_zero_accounts">Armazenar no telefone ou numa nova conta online</string>
   <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
   <string name="contact_pick_photo">Foto</string>
-  <string name="contact_read_only">Não editável a partir desta aplicação.</string>
+  <string name="contact_read_only">Não editável a partir desta aplicação</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contact_unfavorite_toast">Removido dos favoritos</string>
@@ -252,7 +252,7 @@
   <string name="date_time_set">Definir</string>
   <string name="date_year_toggle">Fornecer um ano</string>
   <string name="default_ringtone">Toque predefinido</string>
-  <string name="deleteConfirmation">Este contacto será eliminado.</string>
+  <string name="deleteConfirmation">Este contacto será eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
   <string name="deleteConfirmation_title">Eliminar este contacto?</string>
   <string name="delete_call_log_message">Eliminar registo(s) de chamada(s)?</string>
@@ -262,7 +262,7 @@
   <string name="delete_dial_input">Eliminar</string>
   <string name="delete_duplicate">Unir</string>
   <string name="delete_duplicate_message">"A unir contactos… "</string>
-  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\", os contactos não serão eliminados.</string>
+  <string name="delete_group_dialog_message">Eliminar o grupo \"%1$s\", os contactos não serão eliminados</string>
   <string name="delete_group_dialog_title">Eliminar grupo</string>
   <string name="delete_selected_sim_entry_miui">Eliminar contactos seleccionados</string>
   <string name="delete_sim_entries_finish">Contactos do cartão SIM eliminados</string>
@@ -367,7 +367,7 @@
   <string name="display_options_view_names_as">Ver nomes dos contactos como</string>
   <string name="display_sim_contacts">Mostrar contactos do SIM</string>
   <string name="display_ungrouped">Todos os outros contactos</string>
-  <string name="display_warn_remove_ungrouped">Remover \"%s\" da sincronização também vai remover da sincronização contactos desagrupados.</string>
+  <string name="display_warn_remove_ungrouped">Remover \"%s\" da sincronização também vai remover da sincronização contactos desagrupados</string>
   <string name="duplicate_group_name">Um grupo com este nome já existe</string>
   <string name="editContactDescription">Editar contacto</string>
   <string name="editGroupDescription">Editar grupo</string>
@@ -399,35 +399,35 @@
   <string name="exporting_contact_failed_message">"Os dados do contacto não foram exportados.
 Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">Não foi possível exportar</string>
-  <string name="exporting_contact_list_message">A exportar para %s.</string>
+  <string name="exporting_contact_list_message">A exportar para %s</string>
   <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
   <string name="exporting_contact_list_title">A exportar dados do contacto</string>
-  <string name="exporting_vcard_canceled_title">Exportação %s cancelada.</string>
-  <string name="exporting_vcard_finished_title">Exportação %s concluída.</string>
+  <string name="exporting_vcard_canceled_title">Exportação %s cancelada</string>
+  <string name="exporting_vcard_finished_title">Exportação %s concluída</string>
   <string name="external_profile_title">Meu %1$s perfil Mi</string>
-  <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s.</string>
-  <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\".</string>
-  <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado ficheiro vCard.</string>
-  <string name="fail_reason_failed_to_read_files">Um ou mais ficheiros não puderam ser importados (%s).</string>
+  <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar a exportação: \"%s\"</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s</string>
+  <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação: \"%s\"</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">Não foi possível recolher informações meta de determinado ficheiro vCard</string>
+  <string name="fail_reason_failed_to_read_files">Um ou mais ficheiros não puderam ser importados (%s)</string>
   <string name="fail_reason_io_error">Erro I/O</string>
-  <string name="fail_reason_low_memory_during_import">Memória insuficiente. O ficheiro pode ser muito grande.</string>
-  <string name="fail_reason_no_exportable_contact">Não existe nenhum contacto a ser exportado.</string>
-  <string name="fail_reason_not_supported">Formato não suportado.</string>
-  <string name="fail_reason_too_long_filename">Nome introduzido é demasiado longo (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">Demasiados ficheiros vCard no armazenamento.</string>
+  <string name="fail_reason_low_memory_during_import">Memória insuficiente. O ficheiro pode ser muito grande</string>
+  <string name="fail_reason_no_exportable_contact">Não existe nenhum contacto para ser exportado</string>
+  <string name="fail_reason_not_supported">Formato não suportado</string>
+  <string name="fail_reason_too_long_filename">O nome introduzido é demasiado longo (\"%s\")</string>
+  <string name="fail_reason_too_many_vcard">Demasiados ficheiros vCard no armazenamento</string>
   <string name="fail_reason_unknown">Erro desconhecido</string>
-  <string name="fail_reason_vcard_parse_error">Não foi possível analisar o vCard por um motivo inesperado.</string>
+  <string name="fail_reason_vcard_parse_error">Não foi possível analisar o vCard por um motivo inesperado</string>
   <string name="favoritesFrequentCalled">Frequentemente chamado</string>
   <string name="favoritesFrequentContacted">Frequentemente contactado</string>
   <string name="favorites_list_empty">Sem favoritos</string>
   <string name="firewall_setting">Lista de bloqueio</string>
   <string name="followed_yellowpage">Contas Verificadas</string>
-  <string name="foundTooManyContacts">Encontrados mais de %d.</string>
+  <string name="foundTooManyContacts">Encontrados mais de %d</string>
   <string name="frequentList">Frequentes</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
-  <string name="generic_no_account_prompt">Mantenha os seus contactos com segurança, mesmo que perca o seu telefone: sincronizar com um serviço online.</string>
+  <string name="generic_no_account_prompt">Mantenha os seus contactos seguros mesmo que perca o seu telefone: sincronize com um serviço online</string>
   <string name="generic_no_account_prompt_title">Adicionar uma conta</string>
   <string name="ghostData_company">Empresa</string>
   <string name="ghostData_title">Título</string>
@@ -440,13 +440,13 @@ Motivo: \"%s\""</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Nome do grupo</string>
   <string name="group_member_remove_toast">Removido do grupo</string>
-  <string name="group_name">Meus grupos</string>
+  <string name="group_name">Os meus grupos</string>
   <string name="group_name_hint">Nome do grupo</string>
   <string name="group_read_only">Não editável neste dispositivo</string>
   <string name="group_rename_dialog_title">Mudar o nome do grupo</string>
   <string name="group_rename_fail_toast">Não foi possível mudar o nome do grupo</string>
   <string name="group_rename_success_toast">Nome do grupo alterado</string>
-  <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários.</string>
+  <string name="group_sms_error_message">SMS não pode ter mais de %s destinatários</string>
   <string name="group_sms_progress_msg">Agrupar…</string>
   <string name="groupsLabel">Grupos</string>
   <string name="groups_list_empty">Sem grupos</string>
@@ -464,7 +464,7 @@ Motivo: \"%s\""</string>
   <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
   <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
   <string name="import_contact_card_button">Importar contacto</string>
-  <string name="import_failure_no_vcard_file">Sem ficheiros vCard encontrados no armazenamento.</string>
+  <string name="import_failure_no_vcard_file">Sem ficheiros vCard encontrados no armazenamento</string>
   <string name="import_from_onekey_migrate">Importar com Mi Mover</string>
   <string name="import_from_other_phone">Importar de outro telefone</string>
   <string name="import_from_sdcard">Importar do armazenamento</string>
@@ -487,8 +487,8 @@ Motivo: \"%s\""</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
   <string name="import_weibo_dialog_title">Importar contactos Weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Sem contactos correspondentes</string>
-  <string name="import_weibo_error_no_network">Não é possível ligar à rede.</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Não há números de telefone armazenados na sua Conta Mi.</string>
+  <string name="import_weibo_error_no_network">Não é possível ligar à rede</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Não há números de telefone armazenados na sua Conta Mi</string>
   <string name="import_weibo_error_unknown">Erro desconhecido</string>
   <string name="import_weibo_error_user_cancel">Importação cancelada</string>
   <string name="import_weibo_fetch_followers">A pesquisar contactos…</string>
@@ -511,7 +511,7 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_filter_mono">Mono</string>
   <string name="in_call_show_filter_nashvile">Indigo</string>
   <string name="in_call_show_filter_none">Normal</string>
-  <string name="in_call_show_filter_process_error">Ocorreu um erro, por favor repita.</string>
+  <string name="in_call_show_filter_process_error">Ocorreu um erro, por favor repita</string>
   <string name="in_call_show_filter_processing">A processar…</string>
   <string name="in_call_show_filter_vivid">Vívido</string>
   <string name="in_call_show_guide_intro">"Gravar um vídeo de perfil
@@ -527,9 +527,9 @@ Motivo: \"%s\""</string>
   <string name="in_call_show_save_completed">Vídeo de perfil gravado</string>
   <string name="in_call_show_save_failed">"Não foi possível gravar o vídeo"</string>
   <string name="in_call_show_tap_to_show_demo">Toque no ecrã para pré-visualizar</string>
-  <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo.</string>
+  <string name="in_call_show_too_short">Demasiado curto. Tente gravar um vídeo mais longo</string>
   <string name="in_call_show_video_pick">Escolher</string>
-  <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos. "</string>
+  <string name="in_call_show_video_pick_filter">"Vídeo tem que ser menor que 3 MB e ter menos de 20 segundos "</string>
   <string name="in_call_show_view_play_error">"Não foi possível reproduzir vídeo"</string>
   <string name="insertContactDescription">Criar contacto</string>
   <string name="insertGroupDescription">Criar grupo</string>
@@ -546,7 +546,7 @@ Motivo: \"%s\""</string>
   <string name="listFoundAllContactsZero">Sem contactos</string>
   <string name="listSingleContact">Contacto único</string>
   <string name="listTotalAllContactsZero">Sem contactos</string>
-  <string name="listTotalAllContactsZeroCustom">Sem contactos visíveis.</string>
+  <string name="listTotalAllContactsZeroCustom">Sem contactos visíveis</string>
   <string name="listTotalAllContactsZeroGroup">Sem contactos em %s</string>
   <string name="listTotalAllContactsZeroStarred">Sem favoritos</string>
   <string name="listTotalPhoneContactsZero">Não há contactos com números de telefone</string>
@@ -561,9 +561,9 @@ Motivo: \"%s\""</string>
   <string name="loading_groups">Aguarde…</string>
   <string name="loading_recent">Aguarde…</string>
   <string name="local_invisible_directory">Outro</string>
-  <string name="local_profile_title">Meu perfil</string>
+  <string name="local_profile_title">O meu perfil</string>
   <string name="local_search_label">Todos os contactos</string>
-  <string name="locale_change_in_progress">Lista de contactos está a ser actualizada para reflectir a alteração do idioma.</string>
+  <string name="locale_change_in_progress">A lista de contactos está a ser actualizada para reflectir a alteração do idioma</string>
   <string name="login_ok">Iniciar sessão</string>
   <string name="lunarBirthdayLabelsGroup">Aniversário lunar</string>
   <string name="lunar_calendar">Ano Novo lunar</string>
@@ -632,7 +632,7 @@ Motivo: \"%s\""</string>
   <string name="messageShortcutActivityTitle">Escolher um número para enviar mensagem</string>
   <string name="miprofile_account_type">Cartões de contacto</string>
   <string name="miprofile_alertdialog_edit">Introduzir nome</string>
-  <string name="miprofile_alertdialog_message">Mostrar este nome aos contactos quando pedir para trocar cartões.</string>
+  <string name="miprofile_alertdialog_message">Mostrar este nome aos contactos quando pedir para trocar cartões</string>
   <string name="miprofile_alertdialog_title">Introduzir nome</string>
   <string name="miprofile_bind_account_alertdialog_message">É necessário adicionar o número de telefone deste dispositivo para a sua Conta Mi para utilizar esta funcionalidade</string>
   <string name="miprofile_bind_account_alertdialog_positive">Adicionar número</string>
@@ -656,7 +656,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_find_profile_no_recommend">Sem perfis recomendados</string>
   <string name="miprofile_find_profile_subtitle">Adicionar para ver foto e mais informações</string>
   <string name="miprofile_finding_label">Localizar cartões de contacto</string>
-  <string name="miprofile_name">Meu perfil</string>
+  <string name="miprofile_name">O meu perfil</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Introduzir alcunha</string>
   <string name="miprofile_nick_name_edit_dialog_message">Alcunha vai ser mostrada no registo de chamadas e informação de perfil</string>
   <string name="miprofile_nick_name_edit_dialog_title">Editar alcunha</string>
@@ -667,7 +667,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_request_agree">Aceitar</string>
   <string name="miprofile_request_agree_exchange_profile">Cartões de contacto trocados</string>
   <string name="miprofile_request_agreed">%1$s aceitou trocar cartões de contacto</string>
-  <string name="miprofile_request_alertdialog_message">O seu cartão vai ser enviado automaticamente assim que esta pessoa aceitar.</string>
+  <string name="miprofile_request_alertdialog_message">O seu cartão vai ser enviado automaticamente assim que esta pessoa aceitar</string>
   <string name="miprofile_request_alertdialog_title">Trocar cartões de contacto</string>
   <string name="miprofile_request_deleted_or_not_added">Cartão eliminado ou não adicionado</string>
   <string name="miprofile_request_empty_request">Sem pedidos de troca</string>
@@ -677,7 +677,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_request_notification_message">Aceitar para ver foto de perfil e mais informações</string>
   <string name="miprofile_request_notification_title">%1$s pessoas querem trocar cartões de contacto</string>
   <string name="miprofile_request_notification_title_name">%1$s quer trocar cartões de contacto</string>
-  <string name="miprofile_save_alertdialog_message">O seu cartão vai ser enviado para este contacto automaticamente.</string>
+  <string name="miprofile_save_alertdialog_message">O seu cartão vai ser enviado para este contacto automaticamente</string>
   <string name="miprofile_save_alertdialog_title">Cartão de contacto recebido</string>
   <string name="miprofile_switch_off_alertdialog_message">Não vai poder trocar cartões de contacto com outras pessoas</string>
   <string name="miprofile_switch_on_alertdialog_message">Trocar cartões de contacto para ver fotos de perfil actualizadas</string>
@@ -715,7 +715,7 @@ Motivo: \"%s\""</string>
   <string name="nickname_editor_title">Editar a alcunha</string>
   <string name="nickname_picker_name_column">Nome de contacto</string>
   <string name="nickname_picker_nickname_column">Título</string>
-  <string name="noAccounts">Para criar grupos necessita de uma conta.</string>
+  <string name="noAccounts">Para criar grupos necessita de uma conta</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados dos contactos utilizando a Conta Mi</string>
   <string name="noContacts">Sem contactos</string>
@@ -730,7 +730,7 @@ Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", 
 "<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contactos do cartão SIM ou cartão SD
 "</b></font></li>"
 "</string>
-  <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar.</string>
+  <string name="noContactsHelpTextForCreateShortcut">Não tem contactos para mostrar</string>
   <string name="noContactsHelpTextWithSync">"Não tem nenhum contacto para mostrar (Se acabou de adicionar uma conta, poderá levar alguns minutos para sincronizar os contactos.)
 
 Para adicionar contactos, toque "<font fgcolor="#ffffffff"><b>Menu</b></font>", depois seleccione:
@@ -782,18 +782,18 @@ Para adicionar um contacto à sua lista de favoritos:
 "</li>"
 "</string>
   <string name="noGroups">Sem grupos</string>
-  <string name="noMatchingContacts">Não foram encontradas correspondências de contactos.</string>
+  <string name="noMatchingContacts">Não foram encontradas correspondências de contactos</string>
   <string name="noRecentContacts">Sem contactos recentes</string>
   <string name="no_account_prompt">"As pessoas trabalham melhor com uma conta Google.
 
 • Aceder a partir de qualquer navegador da Web.
 • Cópia dos contactos com segurança."</string>
-  <string name="no_contact_details">Nenhuma informação adicional para este contacto.</string>
+  <string name="no_contact_details">Sem informações adicionais para este contacto</string>
   <string name="no_contact_in_other_phone">Não foram encontrados contactos</string>
-  <string name="no_contacts_dialog_message">Contactos podem estar armazenados no seu cartão SIM. Podem estar armazenado na lista de contactos do cartão SIM, se assim for por favor importe as informações do cartão SIM para o seu telefone.</string>
+  <string name="no_contacts_dialog_message">Podem estar contactos armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do telefone e depois tente novamente</string>
   <string name="no_contacts_dialog_title">Não foi possível encontrar contactos</string>
-  <string name="no_contacts_selected">Sem contactos seleccionados.</string>
-  <string name="no_sdcard_message">Nenhum armazenamento encontrado.</string>
+  <string name="no_contacts_selected">Sem contactos seleccionados</string>
+  <string name="no_sdcard_message">Nenhum armazenamento encontrado</string>
   <string name="no_voip_contacts">Sem contactos Voz Mi</string>
   <string name="non_phone_add_to_contacts">Adicionar a um contacto existente</string>
   <string name="non_phone_caption">Número de telefone</string>
@@ -827,7 +827,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="phone_call_type_voip">Voz Mi</string>
   <string name="phone_number_too_long_toast">Número muito extenso</string>
   <string name="phone_primary">Primário</string>
-  <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone.</string>
+  <string name="photoPickerNotFoundText">Não existem imagens disponíveis no telefone</string>
   <string name="photo_fragment">Foto</string>
   <string name="photo_load_failed">Não foi possível carregar foto</string>
   <string name="pick_new_photo">Seleccionar nova foto da galeria</string>
@@ -909,7 +909,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="previous">Anterior</string>
   <string name="private_num">Número privado</string>
   <string name="profile_display_name">Configurar o meu perfil</string>
-  <string name="profile_name">Meu perfil</string>
+  <string name="profile_name">O meu perfil</string>
   <string name="profile_name_photo">Foto</string>
   <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
   <string name="pull_to_refresh_refreshing_label">A carregar…</string>
@@ -919,9 +919,9 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="quit_dialog_confirm_message">"Não uniu nenhum contacto"</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contactos</string>
-  <string name="readOnlyContactDeleteConfirmation">Este contacto contém informações de várias contas. Informações de contas só de leitura podem ser ocultas da sua lista de contactos, não eliminadas.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contém informações de várias contas. Qualquer informação que não possa ser eliminada será oculta da sua lista de contactos."</string>
-  <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos.</string>
+  <string name="readOnlyContactDeleteConfirmation">Este contacto contém informações de várias contas. Informações de contas só de leitura podem ser ocultas da sua lista de contactos, não eliminadas</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contém informações de várias contas. Qualquer informação que não possa ser eliminada será ocultada da sua lista de contactos"</string>
+  <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos</string>
   <string name="readingSimContacts">A ler cartão SIM…</string>
   <string name="reading_vcard_canceled_title">A leitura do vCard foi cancelada</string>
   <string name="reading_vcard_failed_title">Não foi possível ler os dados vCard</string>
@@ -939,7 +939,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="recent_contacts_label">Recentes</string>
   <string name="recent_number">Recente</string>
   <string name="recent_updates">Actualizações recentes</string>
-  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e Condições do contrato com o seu fornecedor de telecomunicações.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Antes de configurar o Voice Mail verifique os Termos e Condições do contrato com o seu fornecedor de telecomunicações</string>
   <string name="redirect_calls_to_vm_confirm_text">OK</string>
   <string name="refresh">Actualizar</string>
   <string name="relationLabelsGroup">Relação</string>
@@ -963,7 +963,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scan_merge">A pesquisar por contactos duplicados…</string>
   <string name="scan_qrcode_card_hint1">Digitalizar código QR acima</string>
   <string name="scan_qrcode_card_hint2"/>
-  <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
+  <string name="scanning_sdcard_failed_message">Motivo: \"%s\"</string>
   <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
   <string name="searchHint">Pesquisar contactos</string>
   <string name="search_results_searching">A pesquisar…</string>
@@ -1014,7 +1014,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="sim_error_storage_full">Armazenamento cartão SIM está cheio</string>
   <string name="sim_error_text_too_long">Nome é muito longo</string>
   <string name="sim_export_loading">A ler cartão SIM…</string>
-  <string name="sim_indexed_contact_not_exist">Posição %1$d no cartão SIM é inválida. A posição deve estar entre %2$d e %3$d.</string>
+  <string name="sim_indexed_contact_not_exist">Posição %1$d no cartão SIM é inválida. A posição deve estar entre %2$d e %3$d</string>
   <string name="sim_no_contact">Sem contactos no cartão SIM</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Sem membros de grupo</string>
@@ -1056,7 +1056,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="social_widget_label">Contacto</string>
   <string name="social_widget_loading">A carregar…</string>
   <string name="solar_calendar">Calendário</string>
-  <string name="splitConfirmation">Este contacto será separado em vários contactos.</string>
+  <string name="splitConfirmation">Este contacto será separado em vários contactos</string>
   <string name="splitConfirmation_title">Separar contacto?</string>
   <string name="starredList">Favoritos</string>
   <string name="starred_contacts">Favoritos</string>
@@ -1096,8 +1096,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="unknow_phone_number_mms_failed">Não é possível enviar mensagens para números desconhecidos</string>
   <string name="unknown">Número privado</string>
   <string name="unknown_contact_name">Contacto desconhecido</string>
-  <string name="upgrade_in_progress">Lista de contactos está a ser actualizada.</string>
-  <string name="upgrade_out_of_memory">"Contactos estão num processo de actualização.
+  <string name="upgrade_in_progress">A lista de contactos está a ser actualizada</string>
+  <string name="upgrade_out_of_memory">"Os contactos estão num processo de actualização.
 
 O processo de actualização requer aproximadamente %s MB de armazenamento interno.
 
@@ -1107,12 +1107,12 @@ Escolher uma das seguintes opções:"</string>
   <string name="use_photo_as_primary">Utilizar esta foto</string>
   <string name="use_photo_as_primary2">Utilizar foto do contacto %1s</string>
   <string name="user_profile_contacts_list_header">Eu</string>
-  <string name="vcard_export_request_rejected_message">O pedido de exportação do vCard foi rejeitado. Tente mais tarde.</string>
-  <string name="vcard_export_will_start_message">%s será exportado em breve.</string>
-  <string name="vcard_import_failed">"Não foi possível importar vCard %s."</string>
-  <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente mais tarde.</string>
-  <string name="vcard_import_will_start_message">%s será importado em breve.</string>
-  <string name="vcard_import_will_start_message_with_default_name">O ficheiro será importado em breve.</string>
+  <string name="vcard_export_request_rejected_message">O pedido de exportação do vCard foi rejeitado. Tente mais tarde</string>
+  <string name="vcard_export_will_start_message">%s será exportado em breve</string>
+  <string name="vcard_import_failed">Não foi possível importar vCard %s</string>
+  <string name="vcard_import_request_rejected_message">O pedido de importação do vCard foi rejeitado. Tente mais tarde</string>
+  <string name="vcard_import_will_start_message">%s será importado em breve</string>
+  <string name="vcard_import_will_start_message_with_default_name">O ficheiro será importado em breve</string>
   <string name="vcard_unknown_filename">Contacto</string>
   <string name="video_call">Videochamada</string>
   <string name="video_chat">Conversa de vídeo</string>
@@ -1131,7 +1131,7 @@ Escolher uma das seguintes opções:"</string>
   <string name="voicemail_speed_slowest">Velocidade mais lenta</string>
   <string name="voicemail_status_action_call_server">Telefonar para o Voice Mail</string>
   <string name="voicemail_status_action_configure">Configurar</string>
-  <string name="voicemail_status_audio_not_available">Áudio não disponível.</string>
+  <string name="voicemail_status_audio_not_available">Áudio não disponível</string>
   <string name="voicemail_status_configure_voicemail">Configurar Voice Mail</string>
   <string name="voicemail_status_messages_waiting">Não é possível ligar ao servidor do Voice Mail. Novas mensagens de voz em espera</string>
   <string name="voicemail_status_voicemail_not_available">Não é possível ligar ao servidor de Voice Mail</string>

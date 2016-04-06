@@ -77,7 +77,7 @@
   <string name="cancel_share">Parar de partilhar</string>
   <string name="cancel_share_done">Parou de partilhar</string>
   <string name="carrier_data">Informação de operadora</string>
-  <string name="change_to_channel">正在换台 [%1$s] %2$s</string>
+  <string name="change_to_channel">Mudar de canal [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s已加入收藏</string>
   <string name="channel_catogory_name">Canais</string>
@@ -277,12 +277,12 @@
   <string name="locate_current_place">Encontrar localização actual</string>
   <string name="location_select">Mudar o nome do dispositivo</string>
   <string name="login">Iniciar sessão</string>
-  <string name="login_directly">直接登录</string>
+  <string name="login_directly">>Iniciar sessão directamente</string>
   <string name="login_done">Com sessão iniciada</string>
   <string name="login_failed">Não foi possível iniciar sessão</string>
-  <string name="login_failed_tips">抱歉获取账号信息失败，请确认网络畅通</string>
+  <string name="login_failed_tips">Não foi possível obter informações da sua conta. Verifique a sua ligação à rede</string>
   <string name="login_thirdparty">其他方式登录</string>
-  <string name="login_wxfailed_tips">获取微信账号信息失败，请稍后再试</string>
+  <string name="login_wxfailed_tips">Não foi possível obter informações da conta WeChat. Tente novamente mais tarde</string>
   <string name="logining">A iniciar sessão</string>
   <string name="logout">Terminar sessão</string>
   <string name="logout_done">Sessão terminada</string>
@@ -752,7 +752,7 @@ Para activar a sua conta, siga o
   <string name="upgrading">A actualizar…</string>
   <string name="use_tv_power_key">"Utilizar o botão Ligar/Desligar de %1$s
 Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
-  <string name="user_title">Meu</string>
+  <string name="user_title">Eu</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
