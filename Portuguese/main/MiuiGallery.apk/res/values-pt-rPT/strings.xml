@@ -22,13 +22,13 @@
   <string name="album_already_exists">Já existe um álbum como o mesmo nome</string>
   <string name="album_already_forced_top">Já está no topo</string>
   <string name="album_camera_name">Câmara</string>
-  <string name="album_detail_page_empty">Sem fotos ou vídeos</string>
-  <string name="album_faces_name">Rostos</string>
-  <string name="album_member">Álbum de membros %s</string>
+  <string name="album_detail_page_empty">Sem itens</string>
+  <string name="album_faces_name">Pessoas</string>
+  <string name="album_member">Membros do álbum %s</string>
   <string name="album_name">Nome do álbum</string>
   <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
   <string name="album_others_share_info_format">De %s</string>
-  <string name="album_owner_share">Minhas partilhas</string>
+  <string name="album_owner_share">Partilhado</string>
   <string name="album_page_empty">Vazio</string>
   <string name="album_page_label">Álbuns</string>
   <string name="album_quota_fulfiled">Demasiados álbuns. Elimine alguns álbuns e tente novamente</string>
@@ -70,12 +70,12 @@
   <string name="baby_album">Álbum do bébé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
   <string name="baby_album_needs_auto_backup_tip">Não é possível desligar as cópias para os álbuns de bebé</string>
-  <string name="baby_album_new_photo_remind">Existem novas fotos no seu álbum de bebé</string>
+  <string name="baby_album_new_photo_remind">Existem fotos novas no seu álbum de bebé</string>
   <string name="baby_album_setting_title">Informação do bebé</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%2$s de %1$s,
 %4$s de %3$s partilhou o álbum de %5$s contigo"</string>
   <string name="baby_album_sharer_recommand_face">Adicionar fotos existentes de %1$s?</string>
-  <string name="baby_album_sharers_page_title">Partilhar com famílias</string>
+  <string name="baby_album_sharers_page_title">Partilhar com a família</string>
   <string name="baby_birthday">Aniversário</string>
   <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
   <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
@@ -100,11 +100,11 @@
   <string name="browse_category_title">Navegar</string>
   <string name="buy_member_tip">Tornar-se membro</string>
   <string name="by_email">Email</string>
-  <string name="by_others">Outros</string>
-  <string name="by_sms">Mensagem de texto</string>
+  <string name="by_others">Outro</string>
+  <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_black_white">Preto e Branco</string>
-  <string name="camera_needs_auto_backup_tip">Deve ser feita uma cópia ao álbum da câmara</string>
+  <string name="camera_needs_auto_backup_tip">Deve ser feita uma cópia às fotos da câmara</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Alterar para o papel de parede predefinido do ecrã de bloqueio?</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_remove_creator">Não é possível remover o criador</string>
@@ -119,10 +119,10 @@
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
-  <string name="cloud_guide_auto_backup_title">Escolher álbuns que vão ser copiados para a Nuvem Mi</string>
+  <string name="cloud_guide_auto_backup_title">Escolher álbuns para fazer cópia</string>
   <string name="cloud_guide_login_title">Fazer cópias de fotos e vídeos automaticamente</string>
-  <string name="cloud_guide_slim_text">Fazer cópias automaticamente. Poupe mais de 90% de espaço com a optimização</string>
-  <string name="cloud_guide_slim_title">Activar optimização dos álbuns para poupar %1$s</string>
+  <string name="cloud_guide_slim_text">Fazer cópias automaticamente. Reduza o tamanho das fotos no armazenamento interno para poupar 90% do espaço</string>
+  <string name="cloud_guide_slim_title">Reduzir o tamanho das fotos no armazenamento interno para poupar %1$s</string>
   <string name="cloud_guide_welcome_title">Nuvem Mi</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
   <string name="cloud_settings">Nuvem Mi</string>
@@ -138,9 +138,9 @@
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Unir este álbum com &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Unir estes álbuns com %s? &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Sem correspondências</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Este rosto vai ser movido para \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Tem a certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estes rostos vão ser movidos \"%2$s\" álbum após confirmação. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Tem a certeza que este é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Esta pessoa vai ser movida para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Certeza que este não é &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Tem a certeza que estes são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Estas pessoas vão ser movidas para o álbum \"%2$s\" após confirmação. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Tem a certeza que estes não são &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
   <string name="contact_tip">Contacto</string>
   <string name="context_menu_add_contact">Adicionar aos contactos</string>
@@ -153,13 +153,13 @@
   <string name="create_baby_album">Criar um álbum de bebé</string>
   <string name="create_baby_album_dialog_msg">Criar um álbum para \"%s\"?</string>
   <string name="create_baby_album_later_toast">Criar um álbum de bebé em qualquer altura nas Definições</string>
-  <string name="create_new_album">Criar novo álbum</string>
+  <string name="create_new_album">Criar um álbum</string>
   <string name="create_new_album_failed">Não foi possível criar</string>
   <string name="create_new_face">Nova pessoa</string>
-  <string name="create_quick_icon_on_desk">Criar atalhos</string>
+  <string name="create_quick_icon_on_desk">Criar atalho</string>
   <string name="creating_baby_album">A criar álbum…</string>
   <string name="crop">Cortar</string>
-  <string name="crop_label">Cortar</string>
+  <string name="crop_label">Fotos recortadas</string>
   <string name="crop_save_text">Guardar</string>
   <string name="crop_tooltip">Arrastar marcadores para cortar</string>
   <string name="crossprocess">Processo cruzado</string>
@@ -178,7 +178,7 @@
   <string name="delete_in_album">Quando eliminar uma foto ou vídeo de um álbum, também vai ser eliminado de:</string>
   <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da página inicial, também vai ser eliminado de:</string>
   <string name="delete_in_process">A eliminar…</string>
-  <string name="delete_origin">Eliminar imagens do álbum original</string>
+  <string name="delete_origin">Eliminar itens do álbum original</string>
   <string name="delete_other_shared_images">Não é possível eliminar fotos partilhadas por outras pessoas</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d eliminadas, %2$d guardadas</string>
   <string name="delete_third_party_photo">Eliminar esta foto?</string>
@@ -198,11 +198,11 @@
   <string name="edit_baby_info">Ver informação do bebé</string>
   <string name="edited_photo_bucket_name">Editado</string>
   <string name="effect">Filtros</string>
-  <string name="email_picker_title">Adicionar Email partilhado</string>
+  <string name="email_picker_title">Adicionar email partilhado</string>
   <string name="enable_cloud_for_sharing">Para ver as fotos partilhadas tem de ligar os álbuns na Nuvem Mi</string>
   <string name="enable_face_album_summary">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="enable_face_album_title">Ordenar por pessoas</string>
-  <string name="enable_slim_title">Activar redução de qualidade dos álbuns</string>
+  <string name="enable_slim_title">Reduzir tamanho das fotos</string>
   <string name="enabling_face_feature">Aguarde…</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -228,7 +228,7 @@
   <string name="face_album_detecting_tip">Aguarde…</string>
   <string name="face_album_empty">Vazio</string>
   <string name="face_album_empty_syncing">A sincronizar dados</string>
-  <string name="face_album_empty_syncing_when_connect_wifi">Sincronizar álbuns de pessoas quando ligado ao Wi-Fi</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Sincronizar álbuns com pessoas quando ligado ao Wi-Fi</string>
   <string name="face_album_long_tap_tip">Para seleccionar várias pessoas ou alterar as definições de grupo, prima e segure uma foto de perfil</string>
   <string name="face_album_new_name_hint">Novo nome</string>
   <string name="face_album_not_named">Sem nome</string>
@@ -241,7 +241,7 @@
   <string name="facelift">Brilho do rosto</string>
   <string name="facetan">Rosto bronzeado</string>
   <string name="fail_hint">Erro na operação</string>
-  <string name="fail_to_pick_email">Email inválido</string>
+  <string name="fail_to_pick_email">Endereço de email inválido</string>
   <string name="fail_to_sync_album">Não foi possível sincronizar álbum. Verifique a sua ligação de dados e tente novamente</string>
   <string name="family_member_invitation_text">Outro membro da família</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
@@ -272,7 +272,7 @@
   <string name="highlight_abbr">H</string>
   <string name="home_page_empty">Vazio</string>
   <string name="home_page_label">Fotos</string>
-  <string name="how_to_set_relation">Prima e segure um álbum para definir um grupo</string>
+  <string name="how_to_set_relation">Prima e segure um álbum para criar um grupo</string>
   <string name="hybrid_check_network">Definições de rede</string>
   <string name="hybrid_data_error">Ocorreu um erro</string>
   <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
@@ -327,7 +327,7 @@
   <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
   <string name="login_and_enable_service">Para utilizar a Nuvem Mi, inicie sessão com a sua Conta Mi</string>
   <string name="lomoish">Lomo</string>
-  <string name="long_press_to_refocus">Toque e segure para refocar</string>
+  <string name="long_press_to_refocus">Prima e segure para refocar</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Novo álbum</string>
   <string name="menu_item_sort_date">Data</string>
@@ -339,7 +339,7 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="micloud_introduce">Fazer cópias de fotos e vídeos automaticamente utilizando a sua Conta Mi</string>
   <string name="more_face_album_name">Mais pessoas</string>
-  <string name="must_pick_file">Seleccionar uma imagem</string>
+  <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
   <string name="need_to_turn_on_sync">Ligar as cópias para a Nuvem Mi primeiro</string>
   <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
@@ -359,7 +359,7 @@
   <string name="open_public_title">Partilhar</string>
   <string name="operation_add_album">Adicionar ao álbum</string>
   <string name="operation_add_picture">Adicionar itens</string>
-  <string name="operation_add_secret">Adicionar ao álbum oculto</string>
+  <string name="operation_add_secret">Ocultar</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalhes</string>
   <string name="operation_disable_auto_upload">Desligar cópia automática</string>
@@ -373,7 +373,7 @@
   <string name="operation_not_show_in_photos_tab">Não mostrar no separador Fotos</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
-  <string name="operation_remove_secret">Remover do álbum oculto</string>
+  <string name="operation_remove_secret">Mostrar</string>
   <string name="operation_save">Guardar</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
@@ -387,7 +387,7 @@
   <string name="operation_unforce_top">Soltar</string>
   <string name="operation_unhide">Mostrar</string>
   <string name="orientation_lock_tip">Rotação bloqueada</string>
-  <string name="orientation_unlock_tip">Auto-rotação aberta</string>
+  <string name="orientation_unlock_tip">Auto-rotação ligada</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_settings">Definições adicionais</string>
@@ -401,12 +401,12 @@
   <string name="paint_highlight">Riscar</string>
   <string name="paint_highlight_cancel_context">Gravar a imagem com riscos?</string>
   <string name="paint_highlight_cancel_title">Rejeitar alterações</string>
-  <string name="people_page_label">Rostos</string>
+  <string name="people_page_label">Pessoas</string>
   <string name="people_page_unname">Sem nome</string>
   <string name="pet_album_display_name">Fotos do animal de estimação</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Adicionar número de telefone</string>
-  <string name="photo">Imagens</string>
+  <string name="photo">Fotos</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar para fotos da Câmara</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada em fotos da Câmara</string>
   <string name="photo_save_succeed">Guardado com sucesso</string>
@@ -435,7 +435,7 @@
   <string name="recommanded_face_added_tip">Adicionado a \"%s\"</string>
   <string name="redeye">Olhos vermelhos</string>
   <string name="redeye_tooltip">Toque para remover olhos vermelhos</string>
-  <string name="relation_text_empty_alert">Adicionar informação de relacão</string>
+  <string name="relation_text_empty_alert">Adicionar relacionamento</string>
   <string name="relation_text_family">Membro da família</string>
   <string name="relation_text_father">Pai</string>
   <string name="relation_text_grandfather">Avô Paterno</string>
@@ -445,7 +445,7 @@
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher uma relação</string>
   <string name="remove_from_secret_fail">Não foi possível remover álbum dos álbuns ocultos</string>
-  <string name="remove_from_secret_failed_with_reason">Não pode ser removido do álbum oculto. %1$s</string>
+  <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
   <string name="remove_from_secret_successful">Removido do álbum oculto</string>
   <string name="rename_face_album">Alterar nome</string>
@@ -455,8 +455,8 @@
   <string name="request_sms_url_failed">Não foi possível obter informação</string>
   <string name="request_sms_url_msg">A pedir informação…</string>
   <string name="request_sms_url_title">Dica</string>
-  <string name="retry_to_create_album">Repetir</string>
-  <string name="retry_to_request_qr_code">Repetir</string>
+  <string name="retry_to_create_album">Tentar novamente</string>
+  <string name="retry_to_request_qr_code">Tentar novamente</string>
   <string name="rise">Quente</string>
   <string name="rotate">Rodar</string>
   <string name="rotate_tooltip">Arrastar foto para rodar</string>
@@ -470,7 +470,7 @@
   <string name="scan_barcode_to_join">Digitalizar código QR para adicionar álbum</string>
   <string name="scan_qr_code_buttom_text">Digitalizar código QR para ver este álbum</string>
   <string name="secret_album_display_name">Álbum oculto</string>
-  <string name="secret_reason_space_full">O álbum na Nuvem Mi está cheio</string>
+  <string name="secret_reason_space_full">Os álbuns na Nuvem Mi estão cheios</string>
   <string name="secret_reason_too_large">Ficheiro demasiado grande</string>
   <string name="secret_reason_type_not_support">Este tipo de ficheiro não é suportado</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
@@ -478,14 +478,14 @@
   <string name="send_invitation_fail">Não foi possível enviar convite</string>
   <string name="send_multiple_files_hint_format">Enviar (%s)</string>
   <string name="send_public_url">Enviar URL do álbum</string>
-  <string name="send_too_many_files_error">Não é possível enviar tantos itens (máximo %d itens)</string>
+  <string name="send_too_many_files_error">Não é possível enviar tantos itens (até %d itens)</string>
   <string name="sepia">Sépia</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
-  <string name="set_face_group_toast_msg_new_user">Segure num rosto para unir ou ignorar esta pessoa</string>
+  <string name="set_face_group_toast_msg_new_user">Segure numa pessoa para unir ou ignorar</string>
   <string name="set_face_group_toast_msg_old_user">Segure na foto de uma pessoa para criar grupos (p.e. Família, Amigos, etc.)</string>
   <string name="set_face_group_toast_title_new_user">Sugestão</string>
   <string name="set_face_group_toast_title_old_user">As pessoas podem ser organizadas em grupos</string>
-  <string name="set_face_image">Definir um novo rosto</string>
+  <string name="set_face_image">Definir uma nova pessoa</string>
   <string name="set_group">Definir grupo</string>
   <string name="shadow">Sombras</string>
   <string name="share">Partilhar</string>
@@ -504,14 +504,14 @@
   <string name="slideshow_interval_value">%1$d segundos</string>
   <string name="slim_after_backuped_summary">Substituir as fotos em alta resolução por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar muito espaço de armazenamento</string>
   <string name="slim_after_backuped_title">Optimizar armazenamento local após cópia com sucesso</string>
-  <string name="slim_introduce">Substituir as fotos/vídeos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar muito espaço de armazenamento. É necessário uma Conta Mi para funcionar normalmente</string>
-  <string name="slim_introduce_with_specific_size">Substituir as fotos/vídeos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. As fotos em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar %1$s. É necessário uma Conta Mi para funcionar normalmente</string>
-  <string name="slim_now">Optimizar agora</string>
-  <string name="slim_result_size">poupados %1$s</string>
-  <string name="slim_result_title">Optimizados com sucesso</string>
-  <string name="slim_tip_msg">Os álbuns vão ser optimizados automaticamente quando estiver ligado ao Wi-Fi. Transfira os ficheiros em alta resolução ao clicar no menu \"Transferir foto\" na página de detalhes da foto</string>
-  <string name="slim_tip_title">Dica de optimização</string>
-  <string name="slimming">A optimizar…</string>
+  <string name="slim_introduce">Substituir as fotos e vídeos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. Os itens em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar muito espaço de armazenamento. É necessário uma Conta Mi para funcionar normalmente</string>
+  <string name="slim_introduce_with_specific_size">Substituir as fotos e vídeos em alta resolução no dispositivo por versões optimizadas após terem sido copiadas para a Nuvem Mi. Os itens em alta resolução ainda vão estar disponíveis na Nuvem Mi. Isto pode poupar até %1$s. É necessário uma Conta Mi para funcionar normalmente</string>
+  <string name="slim_now">Reduzir agora</string>
+  <string name="slim_result_size">Poupados %1$s</string>
+  <string name="slim_result_title">Reduzido com sucesso</string>
+  <string name="slim_tip_msg">O tamanho das fotos vão ser reduzidos automaticamente quando o Wi-Fi estiver disponível. Para transferir os ficheiros em alta resolução da Nuvem Mi, toque \"Transferir foto\" em Detalhes</string>
+  <string name="slim_tip_title">Redução do tamanho das fotos</string>
+  <string name="slimming">A reduzir…</string>
   <string name="square">Quadrado</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
@@ -562,7 +562,7 @@
   <string name="welcome">Bem-vindo à Nuvem Mi</string>
   <string name="welcome_to_auto_backup">Bem-vindo à Nuvem Mi</string>
   <string name="welcome_to_micloud">Bem-vindo à Nuvem Mi</string>
-  <string name="welcome_to_slim">Mantenha as suas fotos, poupe espaço</string>
+  <string name="welcome_to_slim">Mantenha as suas fotos, poupe o seu espaço</string>
   <string name="where_is_barcode">Onde está o código QR?</string>
   <string name="who_is_this">Quem?</string>
   <string name="xiaomi_account_not_exists_toast">Conta Mi não existe</string>

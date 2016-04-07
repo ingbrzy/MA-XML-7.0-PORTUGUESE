@@ -5,8 +5,9 @@
   <string name="app_name">Localizar dispositivo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
-  <string name="default_lock_msg_words">Olá! Eu perdi o meu telefone. Entro em contacto consigo mais tarde. Obrigado pela compreensão!</string>
+  <string name="default_lock_msg_words">Este dispositivo está associado com uma Conta Mi existente. Por razões de segurança, tem de introduzir a sua palavra-passe para verificar o dispositivo</string>
   <string name="default_lock_msg_words_with_phone">Olá! Eu perdi o meu telefone. Por favor pode-me contactar? Obrigado!</string>
+  <string name="device_locked">Este dispositivo está bloqueado</string>
   <string name="device_lost">Este dispositivo está perdido</string>
   <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
   <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
@@ -17,7 +18,7 @@
   <string name="find_device_crash">Localizar dispositivo fechou inesperadamente</string>
   <string name="find_device_error_account_sys_timeout">Não foi possível ligar à Conta Mi</string>
   <string name="find_device_error_account_unknown_error">Erro na Conta Mi (%s)</string>
-  <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
+  <string name="find_device_error_network">Erro de rede</string>
   <string name="find_device_error_password_changed">Palavra-passe da conta foi alterada recentemente</string>
   <string name="find_device_error_server">Erro de servidor (%s)</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
@@ -45,8 +46,6 @@ Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reacti
   <string name="stop_on_empty_captcha">Captcha não pode estar em branco</string>
   <string name="stop_on_empty_password">Palavra-passe não pode estar em branco</string>
   <string name="time_correction_failure">Não é possível corrigir hora (%s)</string>
-  <string name="time_correction_failure_network">Erro de rede</string>
-  <string name="time_correction_failure_no_ntp">Servidores NTP indisponíveis</string>
   <string name="time_correction_success">Hora corrigida</string>
   <string name="unlock">Activar</string>
   <string name="unlock_access_denied">Acesso negado</string>

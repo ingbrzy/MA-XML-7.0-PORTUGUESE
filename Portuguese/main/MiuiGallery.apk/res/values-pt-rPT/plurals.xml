@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Não mostrar estes rostos?</item>
-        <item quantity="one">Não mostrar este rosto?</item>
+        <item quantity="other">Não mostrar estas pessoas?</item>
+        <item quantity="one">Não mostrar esta pessoa?</item>
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s fotos de %2$s</item>
