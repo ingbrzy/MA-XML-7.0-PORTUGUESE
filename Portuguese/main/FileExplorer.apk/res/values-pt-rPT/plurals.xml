@@ -129,12 +129,12 @@
     <item quantity="many">Encontrados %1$d ficheiros novos</item>
   </plurals>
   <plurals name="file_notify_title">
-    <item quantity="other">Recebeu %1$d ficheiros da Aplicação %2$s</item>
-    <item quantity="zero">Recebeu %1$d ficheiros da Aplicação %2$s</item>
-    <item quantity="one">Recebeu %1$d ficheiro da Aplicação %2$s</item>
-    <item quantity="two">Recebeu %1$d ficheiros da Aplicação %2$s</item>
-    <item quantity="few">Recebeu %1$d ficheiros da Aplicação %2$s</item>
-    <item quantity="many">Recebeu %1$d ficheiros da Aplicação %2$s</item>
+    <item quantity="other">Recebeu %1$d ficheiros da aplicação %2$s</item>
+    <item quantity="zero">Recebeu %1$d ficheiros da aplicação %2$s</item>
+    <item quantity="one">Recebeu %1$d ficheiro da aplicação %2$s</item>
+    <item quantity="two">Recebeu %1$d ficheiros da aplicação %2$s</item>
+    <item quantity="few">Recebeu %1$d ficheiros da aplicação %2$s</item>
+    <item quantity="many">Recebeu %1$d ficheiros da aplicação %2$s</item>
   </plurals>
   <plurals name="file_notify_title_wechat_video">
     <item quantity="other">Recebeu %1$d ficheiros do WeChat</item>

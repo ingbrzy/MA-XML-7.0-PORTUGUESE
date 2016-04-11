@@ -5,7 +5,7 @@
         <item quantity="one">1 ficheiro transferido</item>
     </plurals>
     <plurals name="notif_summary_waiting">
-        <item quantity="other">%d ficheiros em espera</item>
-        <item quantity="one">1 ficheiro em espera</item>
+        <item quantity="other">%d ficheiros a aguardar</item>
+        <item quantity="one">1 ficheiro a aguardar</item>
     </plurals>
 </resources>
