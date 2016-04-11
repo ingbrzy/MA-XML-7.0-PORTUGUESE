@@ -1326,6 +1326,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="fingerprint_list_title">Impressão digital</string>
   <string name="fingerprint_manage_category_title">Gerir impressões digitais</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
+  <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_usage_category_title">Utilizar impressões digitais para</string>
   <string name="finish_application">Forçar paragem</string>
   <string name="finish_button_label">Terminar</string>
@@ -3786,6 +3787,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis active o Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Activar dados e Wi-Fi em roaming</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Mudar para ligação de dados quando tanto o Wi-Fi como os dados estão a ligar e o Wi-Fi não consegue aceder à Internet</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>

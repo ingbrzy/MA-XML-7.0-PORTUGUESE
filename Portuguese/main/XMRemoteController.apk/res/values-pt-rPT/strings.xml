@@ -85,6 +85,7 @@
   <string name="check_upgrade">Verificar por actualizações</string>
   <string name="choose_ac">Escolher controlo remoto</string>
   <string name="choose_address_title">Seleccionar localização</string>
+  <string name="choose_key_to_fix">Seleccionar a chave para reparar</string>
   <string name="circlepad_slide_tips">Utilizar o botão roda para ajustar o volume</string>
   <string name="click_to_expend">Expandir</string>
   <string name="click_to_login">Toque para iniciar sessão</string>
@@ -146,6 +147,8 @@
   <string name="eject">Ejectar</string>
   <string name="empty_name_tip">Dar um nome a este controlo remoto</string>
   <string name="epg_all_channels">Todos os canais</string>
+  <string name="epg_book_all">全部预约</string>
+  <string name="epg_book_count">已预约%1$s集</string>
   <string name="epg_bookable">Reservar</string>
   <string name="epg_booked">Reservado</string>
   <string name="epg_booked_str">Programado</string>
@@ -156,21 +159,27 @@
   <string name="epg_channel_group_open">Mostrar tudo</string>
   <string name="epg_detail_title_text">Descrição</string>
   <string name="epg_details_episode">Ep. %1$s</string>
+  <string name="epg_edit_channel_name">频道名</string>
+  <string name="epg_edit_channel_number">频道号</string>
+  <string name="epg_edit_channel_title">编辑频道</string>
   <string name="epg_episode_open">Mostrar tudo</string>
-  <string name="epg_fav_channels">Guardar canal</string>
+  <string name="epg_fav_channels">Adicionar canal aos favoritos</string>
   <string name="epg_home_sliding_down">收起</string>
   <string name="epg_home_sliding_up">上划</string>
   <string name="epg_hot_channels">Canais</string>
   <string name="epg_hot_programs">Séries</string>
   <string name="epg_loading_hint">Trocar canais na sua set-top box utilizando o telefone</string>
   <string name="epg_name">Séries de TV</string>
+  <string name="epg_no_booking_data">还没有预约节目</string>
   <string name="epg_no_search_result">没有找到结果</string>
+  <string name="epg_program_detail_more_time_events">更多播出时间</string>
   <string name="epg_program_updated_to">播放至第%1$d集</string>
   <string name="epg_search_box_hint">搜索想要看的电视节目</string>
   <string name="epg_search_history">历史记录</string>
   <string name="epg_search_hot_keyword">热门搜索</string>
   <string name="epg_status_playing_text">A reproduzir…</string>
   <string name="epg_status_playing_text_v5">Ao vivo</string>
+  <string name="epg_unbook_all">取消全部</string>
   <string name="epg_unbooked_str">Não programado</string>
   <string name="epg_user_my_booked_events">我的预约</string>
   <string name="epg_user_my_favorite_channel">我的收藏</string>
@@ -180,6 +189,7 @@
   <string name="external_app">Instalar aplicação</string>
   <string name="external_photo">Ver fotos</string>
   <string name="external_video">Reproduzir vídeo</string>
+  <string name="extra_keys">扩展键</string>
   <string name="fail_add_controller_photo">Adicionar foto do controlo remoto</string>
   <string name="fail_add_device_photo">Adicionar foto do dispositivo</string>
   <string name="fail_content">"    Não foi possível localizar informação de emparelhamento. Pode enviar o seu feedback para os nossos engenheiros."</string>
@@ -198,6 +208,9 @@
   <string name="feedback_error_tips">Se encontrou problemas ao usar este dispositivo, toque aqui para reportar o problema</string>
   <string name="find_adb_frame">%1$d dispositivos ADB detectados</string>
   <string name="find_milink_frame">%1$d dispositivos Mi detectados</string>
+  <string name="fix_keys">修复按键</string>
+  <string name="fix_keys_success">修复成功！</string>
+  <string name="fix_keys_tips">如果部分按键不好用，可以尝试修复一下</string>
   <string name="from_share">Partilhado por outros</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">Não é possível utilizar orientação de paisagem no modo Gamepad</string>
@@ -217,6 +230,7 @@
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>
   <string name="hd_channel_preferred">Preferir vídeo HD</string>
+  <string name="help">Ajuda</string>
   <string name="history_none">Ainda não viu nenhum vídeo</string>
   <string name="history_title">Histórico</string>
   <string name="home">Casa</string>
@@ -238,7 +252,7 @@
   <string name="ir_device_air_cleaner">Purificador de Ar</string>
   <string name="ir_device_air_condition">"A/C"</string>
   <string name="ir_device_all_ir">Tudo</string>
-  <string name="ir_device_amp">Amplificador</string>
+  <string name="ir_device_amp">Receptor A/V</string>
   <string name="ir_device_box">Box</string>
   <string name="ir_device_camera">Câmara</string>
   <string name="ir_device_dvb_s">Set-top box</string>
@@ -311,6 +325,7 @@ Volte para continuar"</string>
   <string name="match_dvd_name_stop">Parar</string>
   <string name="match_fail_frame">Não foi possível emparelhar controlo remoto %1$d</string>
   <string name="match_fail_model_hint">Introduzir número do modelo do controlo remoto</string>
+  <string name="match_failed">Sem dados. Tente novamente</string>
   <string name="match_fan_intro_open">Soltar quando a ventoinha ligar</string>
   <string name="match_fan_name_open">Ligar</string>
   <string name="match_guide_main_frame">Apontar o seu dispositivo a %1$s</string>
@@ -319,6 +334,8 @@ Volte para continuar"</string>
   <string name="match_is_respond">O dispositivo responde?</string>
   <string name="match_main_tip_frame">"Aponte o controlo remoto para %1$s e prima o botão
 Solte quando %1$s responder"</string>
+  <string name="match_main_tip_frame_click">"Aponte o controlo remoto para %1$s e toque no botão
+ Depois responda à questão"</string>
   <string name="match_mibox_first">    Mi TV encontrada</string>
   <string name="match_mibox_sencond">    · Controlar a sua Mi TV com este dispositivo</string>
   <string name="match_mibox_third">    · Adicionar outro dispositivo Mi automaticamente</string>
@@ -584,6 +601,25 @@ Para activar a sua conta, siga o
   <string name="privacy_content">"Ler "<a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto Mi. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
+  <string name="program_booking_book_filter_book_status">预约状态</string>
+  <string name="program_booking_book_filter_not_booked">未预约</string>
+  <string name="program_booking_channel_filter_all_channels">全部频道</string>
+  <string name="program_booking_date_filter_day_0">今天</string>
+  <string name="program_booking_date_filter_day_1">明天</string>
+  <string name="program_booking_date_filter_day_2">后天</string>
+  <string name="program_booking_date_filter_friday">周五</string>
+  <string name="program_booking_date_filter_monday">周一</string>
+  <string name="program_booking_date_filter_next">下</string>
+  <string name="program_booking_date_filter_saturday">周六</string>
+  <string name="program_booking_date_filter_sunday">周日</string>
+  <string name="program_booking_date_filter_thursday">周四</string>
+  <string name="program_booking_date_filter_tuesday">周二</string>
+  <string name="program_booking_date_filter_wednesday">周三</string>
+  <string name="program_booking_date_filter_whole_week">一周</string>
+  <string name="program_booking_time_filter_dawn">凌晨</string>
+  <string name="program_booking_time_filter_day">白天</string>
+  <string name="program_booking_time_filter_night">晚上</string>
+  <string name="program_booking_time_filter_whole_day">全天</string>
   <string name="projection_failed_for_disconnect">Dispositivos não ligados</string>
   <string name="province">Província</string>
   <string name="pull_down_refresh">Descer para actualizar</string>
@@ -601,6 +637,7 @@ Para activar a sua conta, siga o
   <string name="refreshing_no_point">A actualizar…</string>
   <string name="refreshing_retry">Não foi possível carregar. Tente novamente</string>
   <string name="release_to_refresh">Soltar para actualizar</string>
+  <string name="rematch">Remarcar</string>
   <string name="remote_controller_name">C.Remoto Mi</string>
   <string name="rename">Mudar o nome</string>
   <string name="rename_hint">Introduzir nome do dispositivo</string>
@@ -708,7 +745,7 @@ Para activar a sua conta, siga o
   <string name="start_match">Emparelhar</string>
   <string name="stb">Set-top box</string>
   <string name="stb_detail_title_frame">%1$s - %2$d</string>
-  <string name="stb_power">Ligar/desligar set-top box</string>
+  <string name="stb_power">Ligar/desligar STB</string>
   <string name="steps">Tentativa #%d</string>
   <string name="stop_diagnosis">Parar</string>
   <string name="study_room">Sala de estudo</string>
@@ -783,7 +820,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
   <string name="wind_direct">Fixo</string>
-  <string name="wind_direct_automatic">Balanço</string>
+  <string name="wind_direct_automatic">Balanceado</string>
   <string name="wind_direct_down">Baixo</string>
   <string name="wind_direct_manual">Fixo</string>
   <string name="wind_direct_middle">Meio</string>
@@ -793,7 +830,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="wind_speed_high">Alto</string>
   <string name="wind_speed_low">Baixo</string>
   <string name="wind_speed_medium">Normal</string>
-  <string name="wind_sweep">Ventoinha</string>
+  <string name="wind_sweep">Balanço</string>
   <string name="wx_not_installed">您没有安装微信客户端</string>
   <string name="year_month_day_format">yyyy, dd MMM</string>
   <string name="yes">Sim</string>
