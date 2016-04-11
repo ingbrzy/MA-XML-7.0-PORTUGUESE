@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
+     <plurals name="download_finished">
+         <item quantity="other"><font color="red">%d músicas</font> transferidas</item>
+         <item quantity="one"><font color="red">%d música</font> transferida</item>
+     </plurals>
+     <plurals name="download_running">
+         <item quantity="other"><font color="red">%d músicas</font> a transferir</item>
+         <item quantity="one"><font color="red">%d música</font> a transferir</item>
+     </plurals>
      <plurals name="NTrackstoDownload">
         <item quantity="other">%d músicas vão ser transferidas</item>
         <item quantity="one">1 música vai ser transferida</item>
      </plurals>
-	 <plurals name="NPlaylist_delete_confirm">
+     <plurals name="NPlaylist_delete_confirm">
         <item quantity="other">Eliminar %d listas de reprodução?</item>
         <item quantity="one">Eliminar %d lista de reprodução?</item>
      </plurals>
@@ -77,8 +84,8 @@
         <item quantity="one">%d item seleccionado</item>
      </plurals>
      <plurals name="song_already_favorite">
-        <item quantity="other">Músicas adicionadas aos favoritos.</item>
-        <item quantity="one">Música adicionada aos favoritos.</item>
+        <item quantity="other">Músicas adicionadas aos favoritos</item>
+        <item quantity="one">Música adicionada aos favoritos</item>
      </plurals>
      <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Apenas pode transferir %d Músicas Premium este mês. Actualize o seu Pacote de Músicas Premium para transferir mais "</item>
