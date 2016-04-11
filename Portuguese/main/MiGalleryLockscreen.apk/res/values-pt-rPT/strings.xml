@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Ecrãs de bloqueio diários</string>
-  <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
+  <string name="app_name">Carrosel de Papéis de Parede</string>
+  <string name="at_least_one">Escolher pelo menos uma categoria</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_international">Cancelar</string>
@@ -12,31 +12,32 @@
   <string name="declaration_title">Termos e Condições</string>
   <string name="hour_1">A cada hora</string>
   <string name="hour_3">A cada 3 horas</string>
-  <string name="lockscreen_magazine_summary">Obter papéis de parede entregues no seu ecrã de bloqueio todos os dias</string>
-  <string name="lockscreen_magazine_system_title">Predefinido</string>
-  <string name="lockscreen_magazine_title">Papéis de parede diários</string>
+  <string name="lockscreen_magazine_summary">Categorias</string>
+  <string name="lockscreen_magazine_system_title">Offline</string>
+  <string name="lockscreen_magazine_title">Carrosel de Papéis de Parede</string>
   <string name="minutes_15">15 minutos</string>
   <string name="no_long_show">Não mostrar novamente</string>
+  <string name="ok_international">Concordar</string>
   <string name="ok_lockscreen">OK</string>
-  <string name="ok_network">Concordar e ligar</string>
+  <string name="ok_network">Concordar</string>
   <string name="resource_apply">Aplicar</string>
   <string name="resource_no_network_text">Não é possível ligar à rede</string>
   <string name="setting_head">Definições</string>
-  <string name="sst_favor_desc">Verificar papéis de parede favoritos</string>
+  <string name="sst_favor_desc">Ver papéis de parede favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
   <string name="sst_grid_view_select_all">Seleccionar tudo</string>
   <string name="sst_grid_view_unselect_all">Cancelar tudo</string>
-  <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede favoritos</string>
-  <string name="sst_prov_enable_desc">Disfrute de mais papéis de parede no ecrã de bloqueio</string>
-  <string name="sst_prov_enable_title">Activar Carrosel de Papéis de Parede</string>
-  <string name="sst_require_one_category_hint">Subscreva pelo menos um item</string>
-  <string name="sst_sti_desc">Definir o intervalo de tempo para a alteração dos papéis de parede do ecrã de bloqueio</string>
-  <string name="sst_sti_title">Alteração do intervalo de tempo</string>
-  <string name="sst_subscribe_title">Subscrever</string>
-  <string name="sst_wifi_only_desc">Sugerir a desactivação para poupar dados móveis</string>
-  <string name="sst_wifi_only_title">Activar a transferência de imagens com a ligação de dados móveis</string>
-  <string name="summary">"Aceitar o nosso <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acordo de Utilizador</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para começar. Necessário ligação à Internet."</string>
-  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente.​"</string>
+  <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede nos favoritos</string>
+  <string name="sst_prov_enable_desc">Ligar Carrosel de Papéis de Parede no ecrã de bloqueio</string>
+  <string name="sst_prov_enable_title">Ligar Carrosel de Papéis de Parede</string>
+  <string name="sst_require_one_category_hint">Seleccione pelo menos 1 categoria</string>
+  <string name="sst_sti_desc">Definir a frequência de actualização dos papéis de parede</string>
+  <string name="sst_sti_title">Frequência de actualização</string>
+  <string name="sst_subscribe_title">As minhas categorias</string>
+  <string name="sst_wifi_only_desc">Desligar esta funcionalidade para poupar dados móveis</string>
+  <string name="sst_wifi_only_title">Actualizar papéis de parede utilizando dados móveis</string>
+  <string name="summary">"Ao utilizar esta funcionalidade, está a concordar com o nosso <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Acordo de Utilizador</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta funcionalidade necessita de ligar à Internet para funcionar normalmente"</string>
+  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente​"</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Bloqueio de ecrã aplicado</string>
   <string name="theme_applying">A aplicar…</string>

@@ -447,8 +447,8 @@
   <string name="info_item_hide">Ocultar</string>
   <string name="info_loading">A carregar…</string>
   <string name="info_name_title">Notícias</string>
-  <string name="info_no_message">Se artigos para ver</string>
-  <string name="info_no_more_message">Se mais itens para ver</string>
+  <string name="info_no_message">Sem artigos para ver</string>
+  <string name="info_no_more_message">Sem mais itens para ver</string>
   <string name="info_switch_summary">Ver notícias em destaque</string>
   <string name="info_switch_title">Notícias</string>
   <string name="info_sync_error">Não foi possível sincronizar. Tente novamente mais tarde</string>
@@ -475,6 +475,7 @@
   <string name="mail_body_turncated">O anexo deste email é muito grande para transferir. Apenas é possível mostrar uma parte dele. Tente transferir mais tarde no seu computador</string>
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Contas combinadas</string>
+  <string name="mailbox_name_display_ad">Anúncios e notificações</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -858,7 +859,7 @@
   <string name="upload_log">Enviar registos</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
-  <string name="upload_log_success">Registos enviados com sucesso</string>
+  <string name="upload_log_success">Enviados com sucesso. Entraremos em contacto brevemente</string>
   <string name="upload_log_title">Enviar registos para nos ajudar a melhorar o Email WPS</string>
   <string name="upload_log_yes">Enviar</string>
   <string name="uploading_logs">Aguarde…</string>
