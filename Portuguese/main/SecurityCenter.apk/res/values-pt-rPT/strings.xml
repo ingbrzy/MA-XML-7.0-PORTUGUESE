@@ -7,13 +7,13 @@
   <string name="Settings_title_garbage_cleanup">Definições da Limpeza</string>
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de bateria</string>
-  <string name="access_control_need_password">"%s Bloqueio adicionado com sucesso
+  <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
-  <string name="access_control_need_to_unlock">"Desbloquear com impressão digital
-ou introduzir palavra-passe"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe de desbloqueio</string>
-  <string name="access_control_recording_intro_header">Desenhar padrão para adicionar bloqueio de aplicações</string>
-  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor o bloqueio de aplicações</string>
+  <string name="access_control_need_to_unlock">"Digitalizar impressão digital
+ou introduzir palavra-passe do Bloqueio de Aplicações"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe do Bloqueio de Aplicações</string>
+  <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de Aplicações</string>
+  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor a palavra-passe do Bloqueio de Aplicações</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Antivírus</string>
   <string name="activity_title_apps_manager">Aplicações</string>
@@ -165,7 +165,7 @@ ou introduzir palavra-passe"</string>
   <string name="cmcc_app_check_dialog_negative">Mais tarde</string>
   <string name="cmcc_app_check_dialog_positive">Reiniciar agora</string>
   <string name="cmcc_app_check_dialog_title">Sistema reparado</string>
-  <string name="confirm_fingerprint_msg">Coloque o seu dedo no leitor de impressões digitais</string>
+  <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_reject_all_permission">Restringir todas as aplicações de utilizarem esta funcionalidade?</string>
   <string name="connect_internet_by_mobiledata">Ligação de dados móveis</string>
   <string name="connect_internet_by_usbshare">Internet partilhada por USB</string>
@@ -290,17 +290,17 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="examination_score_80_100_with_recommend">%d itens podem ser optimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas</string>
-  <string name="finger_remind_message">O bloqueio de aplicações suporta o desbloqueio através de impressões digitais. Adicionar impressão digital?</string>
-  <string name="fingerprint_identify_msg">A verificar impressão digital…</string>
+  <string name="finger_remind_message">Também pode utilizar as impressões digitais com o Bloqueio de Aplicações</string>
+  <string name="fingerprint_identify_msg">Digitalizar a sua impressão digital</string>
   <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo introduza a sua palavra-passe</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
   <string name="fingerprint_to_lock">Desbloquear com impressão digital</string>
-  <string name="fingerprint_verification">Verificação de impressão digital</string>
-  <string name="fingerprint_verification_message">Verificar as impressões digitais actuais para começar a utilizar esta funcionalidade</string>
-  <string name="fingerprint_verify_failed">Não foi possível verificar</string>
-  <string name="fingerprint_verify_succeed">Verificada com sucesso</string>
-  <string name="fingerprint_verify_try_agin">Não foi possível verificar. Tente novamente</string>
+  <string name="fingerprint_verification">Digitalizar impressão digital</string>
+  <string name="fingerprint_verification_message">Digitalizar a sua impressão digital para utilizar esta funcionalidade</string>
+  <string name="fingerprint_verify_failed">Não foi possível digitalizar</string>
+  <string name="fingerprint_verify_succeed">Impressão digital digitalizada</string>
+  <string name="fingerprint_verify_try_agin">Não foi possível digitalizar. Tente novamente</string>
   <string name="firewall_activity_lable">Restringir utilização de dados por aplicação</string>
   <string name="firewall_applist">Aplicações</string>
   <string name="firewall_fragment_nonesys_listempty">Vazio</string>
@@ -331,7 +331,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
   <string name="gigabyteShort">GB</string>
-  <string name="go_to_setting_fingerprint">Ir para as Definições</string>
+  <string name="go_to_setting_fingerprint">Definições</string>
   <string name="handle_text_cache">Cache</string>
   <string name="handle_text_memory">Memória</string>
   <string name="handle_text_system">Sistema</string>
@@ -428,13 +428,13 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="lockpattern_need_to_confirm">Desenhar o padrão novamente para confirmar</string>
   <string name="lockpattern_need_to_unlock">Confirmar o padrão desenhado</string>
   <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
-  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_confirmed_header">Novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_recording_incorrect_too_short">Ligar pelo menos %d pontos</string>
-  <string name="lockpattern_recording_inprogress">Remover o dedo depois do padrão estar concluído</string>
+  <string name="lockpattern_recording_inprogress">Levantar o dedo quando estiver concluído</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
-  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
+  <string name="lockpattern_settings_help_how_to_record">Desenhar um padrão</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Demasiadas tentativas falhadas!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
@@ -965,7 +965,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="scanning_bar_system_title">A verificar sistema…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">Bloqueio de aplicações</string>
+  <string name="security_app_lock">Bloqueio de Aplicações</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
   <string name="select_pattern">Seleccionar padrão</string>
@@ -1109,7 +1109,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="text_button">Entendi</string>
   <string name="text_day"/>
   <string name="text_lock_info">Desenhar padrão de desbloqueio</string>
-  <string name="third_application">Aplicações de terceiros</string>
+  <string name="third_application">Aplicações instaladas</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
   <string name="timeshow_h">%.1fh</string>
   <string name="timeshow_h_int">%dh</string>

@@ -2,7 +2,7 @@
 <resources>
   <string name="about_device">Acerca do telefone</string>
   <string name="active_xiaomi_account">Activa</string>
-  <string name="active_xiaomi_account_msg">Para activar a sua Conta Mi, vá https://account.xiaomi.com/pass/serviceLogin.</string>
+  <string name="active_xiaomi_account_msg">Para activar a sua Conta Mi, vá https://account.xiaomi.com/pass/serviceLogin</string>
   <string name="active_xiaomi_account_title">Activar Conta Mi</string>
   <string name="app_name">Actualizar</string>
   <string name="apply_title">A actualizar (%s)</string>
@@ -14,7 +14,7 @@
   <string name="auto_button_sure_cancel">Cancelar</string>
   <string name="auto_check_clause_button">Ver</string>
   <string name="auto_dialog_msg">A nossa Política de Privacidade foi actualizada. Leia-a atentamente antes de actualizar o seu sistema</string>
-  <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema.</string>
+  <string name="auto_dialog_msg_check_again">Tem de concordar com a Política de Privacidade antes de actualizar o sistema</string>
   <string name="auto_dialog_title_check_again">Cancelar a actualização?</string>
   <string name="auto_update">Actualizar automaticamente</string>
   <string name="auto_update_sum">Transferir actualizações automaticamente quando ligado ao Wi-Fi e instalá-las durante a noite</string>
@@ -32,7 +32,7 @@
   <string name="check_local_package_update_msg">Vai actualizar para a versão MIUI %s. O telefone vai reiniciar automaticamente durante a actualização</string>
   <string name="check_local_package_update_title">Actualizar</string>
   <string name="check_local_package_validate_error_button">OK</string>
-  <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização.</string>
+  <string name="check_local_package_validate_error_msg">Não foi possível verificar o pacote de actualização</string>
   <string name="check_local_package_wipe_btn">Formatar e actualizar</string>
   <string name="check_local_package_wipe_msg">Vai actualizar para a versão MIUI %s, que é menos recente que a versão actual. Os seus dados pessoais vão ser formatados. Certifique-se que faz cópias de segurança de todos os itens importantes antes de iniciar o processo</string>
   <string name="check_local_package_wipe_title">Formatar dados?</string>
@@ -72,7 +72,7 @@
   <string name="expect">Expectativas</string>
   <string name="experimental_build">Alpha</string>
   <string name="finish">Terminar</string>
-  <string name="fourgrid_hint_text">Obrigado por ajudar o programador e a construir a MIUI! Diga-nos o que pensa para nos ajudar a fazer uma MIUI melhor.</string>
+  <string name="fourgrid_hint_text">Obrigado por ajudar o programador e a construir a MIUI! Diga-nos o que pensa para nos ajudar a fazer uma MIUI melhor</string>
   <string name="fourgrid_no_notificaiont">Não mostrar na barra de notificações</string>
   <string name="fourgrid_notificaiont">Mostrar na barra de notificações</string>
   <string name="get_auto">Utilizar rede móvel ou Wi-Fi</string>
@@ -115,14 +115,14 @@
   <string name="notification_auto_reboot_seccess_title">Dispositivo actualizado automaticamente</string>
   <string name="notification_downloading">A transferir actualização…</string>
   <string name="notification_fail_msg">Tente transferir a ROM completa</string>
-  <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo.</string>
-  <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo.</string>
+  <string name="notification_load_body_alpha">Obter as últimas actualizações para o seu dispositivo</string>
+  <string name="notification_load_body_dev">Obter as últimas actualizações para o seu dispositivo</string>
   <string name="notification_load_title_alpha">Inicie sessão na sua Conta Mi</string>
   <string name="notification_load_title_dev">Inicie sessão na sua Conta Mi</string>
   <string name="notification_reboot_btn">Reiniciar</string>
   <string name="notification_reboot_seccess_des">Tocar para ver informação da actualização</string>
   <string name="notification_reboot_seccess_title">Dispositivo actualizado</string>
-  <string name="notification_reboot_summary_hm">Tocar para reiniciar o dispositivo.</string>
+  <string name="notification_reboot_summary_hm">Tocar para reiniciar o dispositivo</string>
   <string name="notification_reboot_title">Reiniciar para aplicar a actualização</string>
   <string name="notification_reboot_title_hm">Reiniciar para aplicar a actualização</string>
   <string name="notification_restart">Actualizar novamente</string>
@@ -139,11 +139,11 @@
   <string name="pm_root_acquired_rooting">A obter acesso root %s</string>
   <string name="pm_root_checking">A verificar informação de sistema…</string>
   <string name="pm_root_fail_button_retry">Repetir</string>
-  <string name="pm_root_fail_msg">Esta aplicação não conseguiu ter acesso root. Tente novamente.</string>
-  <string name="pm_root_fail_service_busy">Aguarde até que o seu dispositivo tenha concluído a actualização e tente novamente.</string>
+  <string name="pm_root_fail_msg">Esta aplicação não conseguiu ter acesso root. Tente novamente</string>
+  <string name="pm_root_fail_service_busy">Aguarde até que o seu dispositivo tenha concluído a actualização e tente novamente</string>
   <string name="pm_root_fail_title">Não foi possível obter acesso root</string>
   <string name="pm_root_notification_download_title">A transferir</string>
-  <string name="pm_root_success_msg">Reinicie o dispositivo para concluir o último passo.</string>
+  <string name="pm_root_success_msg">Reinicie o dispositivo para concluir o último passo</string>
   <string name="pm_root_success_title">Acesso root activo</string>
   <string name="previous">Anterior</string>
   <string name="progress_title_checking">A verificar actualizações…</string>
@@ -153,16 +153,16 @@
   <string name="recovery_failed_notification_msg">Não é possível iniciar o modo de restauro</string>
   <string name="recovery_failed_title">Use Mi PC Suite para actualizar o seu sistema</string>
   <string name="recovery_power_not_enough_msg">Ligar carregador para actualizar se a bateria estiver a menos de 30%</string>
-  <string name="recovery_power_not_enough_msg_plugged">Bateria tem de estar acima de 15% para poder actualizar</string>
+  <string name="recovery_power_not_enough_msg_plugged">Bateria tem de estar acima dos 30% para poder actualizar</string>
   <string name="recovery_power_not_enough_title">Bateria fraca</string>
   <string name="repeat">Tente novamente</string>
   <string name="root_acquired">Permitir acesso root</string>
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
-  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root.</string>
+  <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expôr o seu dispositivo e dados pessoais a ataques de aplicações maliciosas. Concorda que é o único responsável por qualquer tipo de dano no seu dispositivo ou perca de dados que resultem da permissão de acesso root</string>
   <string name="set_auto">Verificar actualizações automaticamente</string>
   <string name="set_auto_msg">As actualizações vão ser transferidas automaticamente quando estiver ligado ao Wi-Fi e instaladas durante a noite quando não estiver a utilizar o dispositivo</string>
   <string name="set_auto_update_title">Actualizar automaticamente?</string>
-  <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro.</string>
+  <string name="set_installfail_full_msg">Erro inesperado. Toque OK para reportar este erro</string>
   <string name="set_installfail_msg">Transferir esta actualização através da sua ligação de dados móveis vai aumentar excessivamente o consumo de dados</string>
   <string name="set_installfail_title">Tente transferir novamente a actualização</string>
   <string name="set_installfail_title_full">Não é possível actualizar</string>
@@ -182,7 +182,7 @@
   <string name="sina_share_success">Enviado</string>
   <string name="sina_token_expired_warning">Conta Weibo expirou: Por favor ligue novamente</string>
   <string name="sina_token_invalid_warning">Conta Weibo é inválida: Por favor ligue novamente</string>
-  <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI7. Troque de teclado ou actualize para uma nova versão.</string>
+  <string name="sogou_uninstall_msg">Teclado Sogou (Edição Mi) deixou de ser compatível com MIUI7. Troque de teclado ou actualize para uma nova versão</string>
   <string name="sogou_uninstall_negative_button">Actualizar Sogou</string>
   <string name="sogou_uninstall_positive_button">Trocar teclados</string>
   <string name="sogou_uninstall_title">Teclados compatíveis</string>
@@ -194,7 +194,7 @@
   <string name="submit_progress">A enviar…</string>
   <string name="submit_success">Enviado</string>
   <string name="test">Testar</string>
-  <string name="timer_title">O dispositivo vai reiniciar em %d segundos.</string>
+  <string name="timer_title">O dispositivo vai reiniciar em %d segundos</string>
   <string name="title_toast_auto">As actualizações vão ser transferidas automaticamente</string>
   <string name="top_secret_build">Super secreto</string>
   <string name="unkown_error_title">Não é possível transferir</string>
@@ -205,12 +205,12 @@
   <string name="update_downfull_no_info_title">Não é possível transferir</string>
   <string name="update_feedback">Comentário do programa Beta</string>
   <string name="update_feedback_end">Perdeu a quarta grelha desta semana</string>
-  <string name="update_feedback_end_sum">Pode participar a cada segunda-feira.</string>
+  <string name="update_feedback_end_sum">Pode participar a cada segunda-feira</string>
   <string name="update_feedback_expired">"Perdeu a votação desta semana.
 Mas pode fazê-lo na segunda-feira."</string>
   <string name="update_feedback_need_account">É necessário iniciar sessão na Conta Mi</string>
   <string name="update_feedback_need_network">Ligue-se primeiro à Internet</string>
-  <string name="update_feedback_need_update">Tem que actualizar o seu sistema para a versão mais recente.</string>
+  <string name="update_feedback_need_update">Tem que actualizar o seu sistema para a versão mais recente</string>
   <string name="update_feel">O que estás a pensar?</string>
   <string name="update_general">Indiferente</string>
   <string name="update_happy">Satisfeito!</string>
@@ -223,7 +223,7 @@ Mas pode fazê-lo na segunda-feira."</string>
   <string name="updater_nolog">Não existem registos da actualização</string>
   <string name="updater_nonetwork">Ligue à rede para obter registo</string>
   <string name="updater_nonetwork_clause">Não é possível ligar à rede</string>
-  <string name="updater_service_busy_msg">Esta aplicação utiliza o serviço de Actualizar para obter acesso root aos ficheiros de origem necessários.</string>
+  <string name="updater_service_busy_msg">Esta aplicação utiliza o serviço de Actualizar para obter acesso root aos ficheiros de origem necessários</string>
   <string name="updater_service_busy_title">Serviço de Actualizar está ocupado</string>
   <string name="updater_wait_for_unzip">A descompactar actualização…</string>
   <string name="upgrade_close">Fechar</string>
