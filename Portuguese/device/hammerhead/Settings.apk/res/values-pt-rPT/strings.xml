@@ -3788,7 +3788,7 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Activar dados e Wi-Fi em roaming</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Mudar para ligação de dados quando tanto o Wi-Fi como os dados estão a ligar e o Wi-Fi não consegue aceder à Internet</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Mudar para ligação de dados quando o Wi-Fi não conseguir aceder à Internet</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>
