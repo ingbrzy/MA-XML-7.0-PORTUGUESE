@@ -49,16 +49,9 @@
         <item>1 dia</item>
         <item>Máximo</item>
      </string-array>
-     <string-array name="prefEntries_ringtone_repeat">
-        <item>1 vez</item>
-        <item>2 vezes</item>
-        <item>3 vezes</item>
-        <item>5 vezes</item>
-        <item>10 vezes</item>
-     </string-array>
      <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Só no modo silêncio</item>
+        <item>Apenas em modo silêncio</item>
         <item>Nunca</item>
      </string-array>
      <string-array name="resent_via_entries_mms">

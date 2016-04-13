@@ -127,7 +127,6 @@
   "download_running_percent": "Em curso, %d%%",
   "download_share_dialog": "Partilhar via",
   "download_success": "Concluído",
-  "download_title": "Transferências",
   "download_title_sorted_by_date": "Transferências - Ordenadas por data",
   "download_title_sorted_by_size": "Transferências - Ordenadas por tamanho",
   "download_traffic_dialog_buy_package": "Comprar plano de dados de música",
