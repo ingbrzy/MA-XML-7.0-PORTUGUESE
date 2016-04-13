@@ -457,10 +457,10 @@
   <string name="noon">PM</string>
   <string name="note">Nota</string>
   <string name="organization">Organização</string>
-  <string name="perm_payment_dspt">Permitir que as aplicações paguem através do serviço de Pagamento Mi</string>
-  <string name="perm_payment_lab">Pagamento Mi</string>
-  <string name="permdesc_sendSmsNoConfirmation">Aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados</string>
-  <string name="permlab_sendSmsNoConfirmation">Permitir mensagens SMS em segundo plano</string>
+  <string name="perm_payment_dspt">Permite que a aplicação pague através do serviço de Pagamentos Mi.</string>
+  <string name="perm_payment_lab">pagamentos Mi</string>
+  <string name="permdesc_sendSmsNoConfirmation">A aplicação pode enviar mensagens SMS sem pedir permissão. Isto pode resultar em custos inesperados.</string>
+  <string name="permlab_sendSmsNoConfirmation">permitir mensagens SMS em segundo plano</string>
   <string name="phone">Telefone</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Política de Privacidade</string>
