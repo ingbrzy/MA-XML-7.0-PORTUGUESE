@@ -5,7 +5,7 @@
 Tem certeza que deseja desactivá-lo?"</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
-  <string name="Dashboard_Log_Clear_Content">Todos os registos serão eliminados.</string>
+  <string name="Dashboard_Log_Clear_Content">Todos os registos serão eliminados</string>
   <string name="Dashboard_Log_Clear_Title">Limpar registos</string>
   <string name="Dashboard_Perm">Permissões</string>
   <string name="Dashboard_Perm_AutoStart">Permissões de início automático</string>
@@ -236,10 +236,10 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="HIPS_SecurityPrompt_Next">Seguinte</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Acesso root</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">Conceder %1$s acesso root?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">A concessão de permissões root a uma aplicação pode causar instabilidades no dispositivo.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras-passe e mensagens) podem ser comprometidas.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">A concessão de acesso root a aplicações também pode danificar o hardware do dispositivo.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda estas permissões por sua conta e risco.</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">A concessão de permissões root a uma aplicação pode causar instabilidades no dispositivo</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">A segurança dos seus dados (contas, palavras-passe e mensagens) podem ser comprometidas</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">A concessão de acesso root a aplicações também pode danificar o hardware do dispositivo</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step5">Conceda estas permissões por sua conta e risco</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Conceder %1$s acesso root?</string>
   <string name="HIPS_SecurityPrompt_Reject">Negar (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Negar uma vez (%d)</string>
@@ -253,15 +253,15 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="Privacy_App_Log">Registos</string>
   <string name="Privacy_App_Manage">Detalhes</string>
   <string name="Privacy_App_Trust">Pedir permissão</string>
-  <string name="Privacy_App_TrustDialog_Content">Não será questionado sobre permissões quando esta aplicação aceder a outras partes do sistema.</string>
+  <string name="Privacy_App_TrustDialog_Content">Não será questionado sobre permissões quando esta aplicação aceder a outras partes do sistema</string>
   <string name="Privacy_App_TrustDialog_Title">Permissões da aplicação</string>
   <string name="Privacy_App_Trust_Summary_Off">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>
   <string name="Privacy_App_Trust_Summary_On">Mostrar notificações quando esta aplicação tentar aceder a outras partes do sistema</string>
   <string name="Privacy_App_Uninstall">Desinstalar</string>
   <string name="Privacy_Perm_Count">%1$d permitido | %2$d negado</string>
-  <string name="Su_Enable_Dialog">%1$s está a solicitar acesso root.</string>
-  <string name="Su_Package_Forbidden">%1$s não possui acesso root.</string>
-  <string name="Su_Unavailable">O acesso root não está disponível nesta versão da MIUI. Tem de instalar a versão Developer da MIUI para conceder o acesso root.</string>
+  <string name="Su_Enable_Dialog">%1$s está a solicitar acesso root</string>
+  <string name="Su_Package_Forbidden">%1$s não possui acesso root</string>
+  <string name="Su_Unavailable">O acesso root não está disponível nesta versão da MIUI. Tem de instalar a versão Developer da MIUI para conceder o acesso root</string>
   <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
   <string name="SysOpt_Boost_AutoStart_Group">Início automático</string>
   <string name="SysOpt_Boost_Boot">Inicialização</string>
@@ -273,7 +273,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="grant_dialog_button_allow">Permitir</string>
   <string name="grant_dialog_button_deny">Negar</string>
   <string name="location_settings">Definições de Localização</string>
-  <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização.</string>
+  <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Encargos</string>
@@ -281,8 +281,8 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="permission_group_title_privacy_related">Privacidade</string>
   <string name="permission_group_title_settings_related">Definições</string>
   <string name="permission_request_title">Pedido de permissão</string>
-  <string name="permission_warning_template">Permitir que %1$s possa %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança &gt; Permissões.</string>
+  <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança &gt; Permissões</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
