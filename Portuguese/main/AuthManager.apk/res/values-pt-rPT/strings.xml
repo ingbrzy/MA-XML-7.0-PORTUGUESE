@@ -281,7 +281,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="permission_group_title_privacy_related">Privacidade</string>
   <string name="permission_group_title_settings_related">Definições</string>
   <string name="permission_request_title">Pedido de permissão</string>
-  <string name="permission_warning_template">Permitir %1$s para %2$s ?</string>
+  <string name="permission_warning_template">Permitir que %1$s %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança &gt; Permissões.</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
