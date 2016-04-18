@@ -118,12 +118,14 @@
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
+  <string name="dialog_msg_esc_cleanmaster">Parar a verificação de limpeza em curso?</string>
   <string name="dialog_msg_load_cleanup_engine_error">O motor de limpeza foi interrompido devido a um erro</string>
   <string name="dialog_msg_stop_scan">Parar a verificação em curso?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estas aplicações?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Copiar e desinstalar</string>
   <string name="dialog_title_check_all">Seleccionar tudo</string>
   <string name="dialog_title_delete_image">Eliminar imagens seleccionadas</string>
+  <string name="dialog_title_esc_cleanmaster">Sair da limpeza</string>
   <string name="dialog_title_load_cleanup_engine_error">Erro inesperado</string>
   <string name="dialog_title_stop_scan">Parar verificação</string>
   <string name="dialog_title_uninstall_apps">Desinstalar</string>
@@ -236,7 +238,7 @@
   <string name="msg_update_error_code_success">Concluído</string>
   <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
   <string name="name_debuglog_dir">Registo de Depuração Bsp</string>
-  <string name="name_optimizer">Política de Privacidade da Cheetah Mobile</string>
+  <string name="name_optimizer">Política de Privacidade da Clean Master</string>
   <string name="nb_clear_set">Limpar ROM, ver informações de bateria e lista de bloqueio na área de notificações</string>
   <string name="net_assistant_detail">Utilizado %1$s, poupado %2$s</string>
   <string name="net_assistant_title">Utilizado %s de dados móveis este mês</string>
@@ -253,11 +255,13 @@
   <string name="ok">OK</string>
   <string name="open">Ligar</string>
   <string name="open_browser">Abrir no navegador</string>
-  <string name="optimizecenter_data_support">Produzido por Clean Master</string>
+  <string name="optimizecenter_data_support_cm">Produzido por Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Produzido por Tencent</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Limpar automaticamente</string>
   <string name="pref_category_title_auto_update_cleanup_db">Definições adicionais</string>
   <string name="pref_category_title_cleanup_white_list">Excepções</string>
+  <string name="pref_category_title_engine_settings">Verificar configurações das definições</string>
   <string name="pref_category_title_garbage_cleanup_check">Notificações</string>
   <string name="pref_category_title_other_clean_settings">Definições adicionais</string>
   <string name="pref_content_cleanup_white_list_none">Nenhum</string>
@@ -279,6 +283,7 @@
   <string name="pref_title_auto_clean_content_choose">Escolher itens a limpar</string>
   <string name="pref_title_auto_deepclean_and_alert">Limpeza Profunda</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automaticamente</string>
+  <string name="pref_title_choose_engine">Definições</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>
   <string name="pref_title_expand_cache_group">Mostrar itens em cache</string>
   <string name="pref_title_garbage_auto_clean_content">Itens a limpar</string>

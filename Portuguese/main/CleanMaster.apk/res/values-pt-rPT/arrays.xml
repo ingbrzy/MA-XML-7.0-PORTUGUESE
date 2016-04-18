@@ -62,4 +62,8 @@
         <item>A cada 15 dias</item>
         <item>A cada 30 dias</item>
     </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+    </string-array>
 </resources>

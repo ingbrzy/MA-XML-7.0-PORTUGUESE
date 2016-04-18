@@ -208,6 +208,7 @@
   <string name="homepage_tab_recent">Recentes</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Vídeos</string>
+  <string name="hottest_sticker_str">Populares</string>
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">Não foi possível carregar imagem</string>
   <string name="input_memo_hint">Introduzir razões adicionais (opcional)</string>
@@ -350,6 +351,7 @@ e nunca perca as novidades!"</string>
   <string name="no_network_str">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
   <string name="no_recent_files">Sem ficheiros recentes</string>
   <string name="no_network_tip">Não é possível ligar à rede. Verifique a ligação e tente novamente</string>
+  <string name="no_new_content_tip">Todos os itens estão actualizados</string>
   <string name="no_tasks">Sem tarefas</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
@@ -543,10 +545,11 @@ e nunca perca as novidades!"</string>
   <string name="share_later">Cancelar</string>
   <string name="share_link_failed">Não foi possível criar o link</string>
   <string name="share_now">Partilhar</string>
+  <string name="share_title_1">Encontrei um bundle de stickers fixe!</string>
   <string name="share_to">Partilhar para…</string>
-  <string name="shared_sticker_network_permission_tip">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
-  <string name="shared_sticker_page_no_file">"Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente."</string>
-  <string name="shared_sticker_str">Partilhado por fãs Mi</string>
+  <string name="shared_sticker_network_permission_tip">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
+  <string name="shared_sticker_page_no_file">Não foi possível ligar à rede. Verifique a sua ligação de rede e tente novamente</string>
+  <string name="shared_sticker_str">Recentes</string>
   <string name="shared_sticker_suffix">Sticker em %s</string>
   <string name="shared_sticker_use_tip">"Pode enviar os stickers que gravou nos diálogos Chats da mesma maneira que envia imagens.
 (GIFs podem ser adicionados a Personalizado nos Stickers WeChat)."</string>
@@ -579,14 +582,19 @@ e nunca perca as novidades!"</string>
   <string name="subtitle_report_video">De %1$s</string>
   <string name="symbol_for_storage_tip">": "</string>
   <string name="system_alert">Ligação à Internet</string>
+  <string name="system_sticker_control">Mostrar stickers populares</string>
+  <string name="system_sticker_control_tip">Mostrar stickers populares no Explorador</string>
+  <string name="system_video_control">Mostrar vídeos populares</string>
+  <string name="system_video_control_tip">Mostrar vídeos populares no Explorador</string>
   <string name="tab_category">Categorias</string>
   <string name="tab_common_app">Aplicações e pastas</string>
   <string name="tab_expand">Expandir</string>
+  <string name="tab_hottest_video">Populares</string>
   <string name="tab_local">Dispositivo</string>
   <string name="tab_local_video">Dispositivo</string>
   <string name="tab_more">Mais</string>
   <string name="tab_path">Pastas</string>
-  <string name="tab_remote_video">Popular</string>
+  <string name="tab_remote_video">Recentes</string>
   <string name="tab_source">Aplicações</string>
   <string name="tab_storage">Armazenamento</string>
   <string name="tag_weixin_video">Vídeos</string>
