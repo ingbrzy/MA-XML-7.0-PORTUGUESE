@@ -1736,7 +1736,8 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lock_screen_secure_after_timeout_summary">Palavra-passe exigida em %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
-  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã de palavra-passe</string>
+  <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Clique para alterar</string>
   <string name="lock_settings">Ecrã de bloqueio e segurança</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_fingerprint_message">Escolha o método de bloqueio de ecrã de segurança</string>
