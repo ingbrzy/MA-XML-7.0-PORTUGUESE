@@ -116,12 +116,15 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
   <string name="dialog_content_delete_image_confirm">Eliminar %d foto(s)?</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
+  <string name="dialog_msg_add_white_list_error">Este ficheiro não suporta a adição às excepções</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
   <string name="dialog_msg_esc_cleanmaster">Parar a verificação de limpeza em curso?</string>
   <string name="dialog_msg_load_cleanup_engine_error">O motor de limpeza foi interrompido devido a um erro</string>
   <string name="dialog_msg_stop_scan">Parar a verificação em curso?</string>
   <string name="dialog_msg_uninstall_apps">Desinstalar estas aplicações?</string>
+  <string name="dialog_ok_add_white_list_error">Percebi</string>
+  <string name="dialog_title_add_white_list_error">Atenção</string>
   <string name="dialog_title_backup_and_uninstall_apps">Copiar e desinstalar</string>
   <string name="dialog_title_check_all">Seleccionar tudo</string>
   <string name="dialog_title_delete_image">Eliminar imagens seleccionadas</string>
