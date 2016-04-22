@@ -45,7 +45,7 @@
   <string name="create_task">Criar tarefa</string>
   <string name="delete">Eliminar</string>
   <string name="delete_download">Eliminar</string>
-  <string name="delete_downloads_records">Eliminar transferências</string>
+  <string name="delete_downloads_records">Eliminar transferência(s)</string>
   <string name="delete_the_downloaded_file">Os ficheiros transferidos vão ser eliminados</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="deselect_subfile_all">Desmarcar tudo</string>
@@ -77,7 +77,7 @@
   <string name="download_filesize_unknown">Desconhecido</string>
   <string name="download_from">Fonte:</string>
   <string name="download_in_process">A transferir</string>
-  <string name="download_info_count_deleted_tasks">%s transferência(s) removida(s)</string>
+  <string name="download_info_count_deleted_tasks">%s transferência(s) eliminada(s)</string>
   <string name="download_info_start_deleted_tasks">Eliminar transferências</string>
   <string name="download_list_get_free_vip">Testar Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Optimização de transferências Xunlei está ligado</string>
@@ -344,7 +344,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="third_web_savepath">Caminho</string>
   <string name="third_web_title">Tranferir</string>
   <string name="title_tips">Atenção</string>
-  <string name="title_unbind_xunlei">Remover a sua Conta Xunlei</string>
+  <string name="title_unbind_xunlei">Remover a sua conta Xunlei</string>
   <string name="toast_xunlei_engine_open">Ligou a optimização de transferências Xunlei</string>
   <string name="torrent_file_error">"Não foi possível analisar este ficheiro torrent"</string>
   <string name="torrent_no_subfile">Sem ficheiros neste torrent</string>
