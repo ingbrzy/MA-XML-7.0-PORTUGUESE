@@ -16,6 +16,7 @@
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
   <string name="add_to_secret_failed_with_reason_and_count">%2$s itens não puderam ser adicionados ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
+  <string name="adding">A adicionar</string>
   <string name="adding_recipients">A adicionar destinatários…</string>
   <string name="adding_to_album">A adicionar fotos…</string>
   <string name="adjust">Ajustar</string>
@@ -173,7 +174,7 @@
   <string name="delete_from_all_devices">de todos os dispositivos</string>
   <string name="delete_from_devices">Todos os dispositivos que sincronizam automaticamente</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
-  <string name="delete_from_homepage_album">Álbuns na página inicial</string>
+  <string name="delete_from_homepage_album">Álbuns mostrados na página inicial</string>
   <string name="delete_from_web">Álbuns Web</string>
   <string name="delete_in_album">Quando eliminar uma foto ou vídeo de um álbum, também vai ser eliminado de:</string>
   <string name="delete_in_home_page">Quando eliminar uma foto ou vídeo da página inicial, também vai ser eliminado de:</string>
@@ -183,6 +184,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d eliminadas, %2$d guardadas</string>
   <string name="delete_third_party_photo">Eliminar esta foto?</string>
   <string name="delete_third_party_video">Eliminar este vídeo?</string>
+  <string name="delete_to_trash_tips">Pode ver as fotos sincronizadas que foram eliminadas recentemente no lixo nas definições</string>
   <string name="deny">Rejeitar</string>
   <string name="detail_title">Detalhes</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
@@ -551,9 +553,10 @@
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
   <string name="user_agreement4">Política de Privacidade</string>
+  <string name="user_alias_self">Eu</string>
   <string name="user_notice_identify_summary_format">Ao utilizar este serviço está a concordar com os %1$s e a %2$s da Xiaomi</string>
   <string name="user_notice_title">Atenção</string>
-  <string name="user_alias_self">Próprio</string>
+  <string name="video_edit_file_not_exits_tip">É necessário transferir o vídeo primeiro</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
   <string name="view_baby_album">Ver álbum do bebé</string>
