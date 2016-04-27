@@ -121,6 +121,9 @@
   <string name="delete_message">Eliminar</string>
   <string name="delete_phrase">Eliminar resposta</string>
   <string name="delete_unlocked">Eliminar mensagens bloqueadas</string>
+  <string name="delete_wild_sims">Eliminar números</string>
+  <string name="delete_wild_sims_confirm">Todas as mensagens pertencentes aos números seleccionados vão ser eliminadas deste telefone. Pode restaurá-las em i.mi.com</string>
+  <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">"Mensagem recebida por %s "</string>
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir aplicação de mensagens predefinida?</string>
