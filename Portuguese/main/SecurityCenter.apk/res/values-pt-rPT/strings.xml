@@ -1042,7 +1042,7 @@ T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que h�
   <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir os diagnósticos</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de rede errada</string>
-  <string name="tc_diagnostic_brand_result"><font color=\'#CC0000\'>Resultado: Operadora errada<br/><br/>Definir operadora:<xliff:g id="operator" example="CMCC">%1$s</xliff:g><br/>Operadora actual: <xliff:g id="location" example="UNICOM">%2$s</xliff:g></font></string>
+  <string name="tc_diagnostic_brand_result">"<font color=\'#CC0000\'>Resultado: Operadora errada<br/><br/>Definir operadora:<xliff:g id="brand" example="UNICOM 3G">%1$s</xliff:g><br/>Operadora actual: <xliff:g id="location" example="UNICOM 4G">%2$s</xliff:g></font>"</string>
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_fragment_default">"Acerca dos diagnósticos
 1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos.
