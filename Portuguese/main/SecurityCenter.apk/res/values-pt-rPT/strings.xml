@@ -557,20 +557,20 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="network_roaming_exception_tips">Não é possível utilizar dados móveis em roaming para ligar à rede</string>
   <string name="network_route_exception_detail">"Pode existir um problema com o router a que está ligado:
 
- "&lt;b&gt;"1. Problemas de redes Wi-Fi públicas
-"&lt;/b&gt;"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
+ "<b>"1. Problemas de redes Wi-Fi públicas
+"</b>"Se está ligado a uma rede Wi-Fi pública, o número de utilizadores ligados a essa rede pode diminuir a velocidade ou criar problemas de ligação. Troque para outra rede e tente novamente.
 
- 2."&lt;b&gt;" Problemas do prestador de serviços de Internet
-T"&lt;/b&gt;"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de Internet.
+ 2."<b>" Problemas do prestador de serviços de Internet
+T"</b>"er a certeza de que sua conta está normal no seu Fornecedor de Serviços de Internet.
 
- 3."&lt;b&gt;" Problemas de router
-T"&lt;/b&gt;"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
+ 3."<b>" Problemas de router
+T"</b>"ente reiniciar o seu router ou verificar as definições de administrador para o seu router.
 
- 4."&lt;b&gt;" Outros problemas de router
-L"&lt;/b&gt;"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
+ 4."<b>" Outros problemas de router
+L"</b>;"er as instruções que vieram com o seu router e restaurar o seu router para as definições de fábrica.
 
- 5."&lt;b&gt;" Verifique se o seu router está ligado correctamente
-T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
+ 5."<b>" Verifique se o seu router está ligado correctamente
+T"</b>ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar que há um problema com a ligação, entre em contacto com o seu prestador de serviços de Internet</string>
   <string name="network_sim_exception_detail">"Pode existir um problema com o seu cartão SIM:
 
  1. Certifique-se que a sua conta está normal na sua operadora. Tente usar um cartão SIM de um amigo e vericar se consegue ligar normalmente.
@@ -883,7 +883,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Adicionar aplicações com capacidade de poupança de dados às excepções automaticamente</string>
   <string name="pref_traffic_saving_compressed">Comprimido</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"&lt;b&gt; 1. Ligar a poupança de dados vai afectar a minha privacidade? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt; 2. Porque não está a poupança de dados a funcionar? &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; A poupança de dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos."</string>
+  <string name="pref_traffic_saving_issue_content"><b> 1. Ligar a poupança de dados vai afectar a minha privacidade? </b><br/><br/><br/>Não. Os seus dados serão mantidos em privado e não serão partilhados com terceiros. <br/><br/><br/><b> 2. Porque não está a poupança de dados a funcionar? </b><br/><br/> A poupança de dados só funciona quando está a utilizar a rede da sua operadora para enviar ou receber conteúdos.</string>
   <string name="pref_traffic_saving_no_compress">Sem compressão</string>
   <string name="pref_traffic_saving_notify_switch">Mostrar na área de notificações</string>
   <string name="pref_traffic_saving_notify_switch_hint">Mostrar estatística de utilização de dados na área de notificações</string>
@@ -904,7 +904,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
-  <string name="privacy_declare_dialog_message">"Ao utilizar este serviço, está a concordar com os &lt;a href=%s&gt; Termos do Serviço&lt;/a&gt; da Opera."</string>
+  <string name="privacy_declare_dialog_message">Ao utilizar este serviço, está a concordar com os <a href="%s">Termos do Serviço</a> da Opera.</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
   <string name="privacy_prompt_tc_sms_report_message">O seu número e detalhes de operadora serão encriptados e enviados para os servidores Mi para actualizar os seus dados e informações de utilização</string>
@@ -965,7 +965,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="scanning_bar_system_text">Permissões da aplicação</string>
   <string name="scanning_bar_system_title">A verificar sistema…</string>
   <string name="score_pts">%</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_input_txt_na"><font color="#ff0000">%s</font></string>
   <string name="security_app_lock">Bloqueio de Aplicações</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
@@ -1042,7 +1042,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir os diagnósticos</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de rede errada</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=marca example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result"><font color=\'#CC0000\'>Resultado: Operadora errada<br/><br/>Definir operadora:<xliff:g id="operator" example="CMCC">%1$s</xliff:g><br/>Operadora actual: <xliff:g id="location" example="UNICOM">%2$s</xliff:g></font></string>
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_fragment_default">"Acerca dos diagnósticos
 1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos.
@@ -1055,24 +1055,24 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_onekey_repair_botton">Corrigir</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Toque para alterar definições da operadora</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operadora errada</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result"><font color=\'#CC0000\'>Resultado: Operadora errada<br/><br/>Definir operadora: <xliff:g id="operator" example="CMCC">%1$s</xliff:g><br/>Operadora actual: <xliff:g id="location" example="UNICOM">%2$s</xliff:g></font></string>
   <string name="tc_diagnostic_repair_and_continue">Corrigir e continuar</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização corrigidos.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização e operadora corrigidos.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location"><font color=\'#3EC234\'>Diagnóstico concluído. Problemas de localização corrigidos</font></string>
+  <string name="tc_diagnostic_repair_location_and_operator"><font color=\'#3EC234\'>Diagnóstico concluído. Problemas de localização e operadora corrigidos</font></string>
   <string name="tc_diagnostic_repair_success_toast">Alterado com sucesso</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultado: Não foi possível concluir os diagnósticos&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultado: Localização errada&lt;br/&gt;&lt;br/&gt;Definir localização: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Localização actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result"><font color=\'#CC0000\'>Resultado: Não foi possível concluir os diagnósticos<br/><br/>Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico</font></string>
+  <string name="tc_diagnostic_sim_location_result"><font color=\'#CC0000\'>Resultado: Localização errada<br/><br/>Definir localização:<xliff:g id="location" example="BeiJing">%1$s</xliff:g><br/>Localização actual:<xliff:g id="location" example="ShangHai">%2$s</xliff:g></font></string>
   <string name="tc_diagnostic_status_error_brand">Sem rede da operadora</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Erro&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Sem ligação de rede&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Não foi possível obter informação&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correcto&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;A rede da operadora responde&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Expirou&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_failure"><font color=\'#CC0000\'>Erro</font></string>
+  <string name="tc_diagnostic_status_no_network"><font color=\'#ED9523\'>Sem ligação de rede</font></string>
+  <string name="tc_diagnostic_status_not_get"><font color=\'#ED9523\'>Não foi possível obter informação</font></string>
+  <string name="tc_diagnostic_status_success"><font color=\'#3EC234\'>Correcto</font></string>
+  <string name="tc_diagnostic_status_success_brand"><font color=\'#3EC234\'>A rede da operadora responde</font></string>
+  <string name="tc_diagnostic_status_timeout"><font color=\'#CC0000\'>Expirou</font></string>
   <string name="tc_diagnostic_status_updating">A testar…</string>
   <string name="tc_diagnostic_success_notification_summary">Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico</string>
   <string name="tc_diagnostic_success_notification_title">Rede e marca da operadora correctos</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Resultado: Rede e marca da operadora definidos correctamente&lt;br/&gt;&lt;br/&gt;Não foi possível concluir o ajuste:&lt;br/&gt;1. As estatísticas da operadora podem não ser confiáveis no início ou fim do mês.&lt;br/&gt;2. O assistente de rede não foi actualizado.&lt;br/&gt;&lt;br/&gt;Reportar este problema para ajudar a MIUI a melhorar as ferramentas de diagnóstico&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result"><font color=\'#CC0000\'>Resultado: Rede da operadora definida incorrectamente<br/><br/>Não foi possível concluir os ajustes:<br/>1. As estatísticas da operadora podem não ser confiáveis entre o início ou no fim de cada mês.<br/>2. O assistente de rede não foi actualizado.<br/><br/>Reportar este problema para ajudar na melhoria da ferramenta de diagnósticos da MIUI.</font></string>
   <string name="tc_diagnostic_title">Diagnósticos da operadora</string>
   <string name="tc_diagnostic_upload_button">Reportar</string>
   <string name="tc_diagnostic_upload_no_network">Obrigado pelo seu comentário! O seu relatório vai ser submetido quando se ligar à rede</string>
@@ -1097,7 +1097,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de inquérito SMS que introduziu está correcto</string>
   <string name="tc_sms_report_notify_get_timeout_title">Não é possível obter o relatório de utilização de dados</string>
   <string name="tc_sms_report_receive_content">Conteúdo do SMS com relatório da utilização de dados (confirme estatística do uso de dados)</string>
-  <string name="tc_sms_report_receive_content_null">Ajude a melhorar esta funcionalidade!&lt;br/	Veja como:&lt;br/	1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"&lt;br/	2. Toque \"Obter modelo SMS\"&lt;br/	3. Aguarde até receber uma mensagem da sua operadora &lt;br/	4. Toque \"Enviar para a MIUI\"</string>
+  <string name="tc_sms_report_receive_content_null">Ajude a melhorar esta funcionalidade!<br/>Veja como:<br/>1. Vá a \"Verifique o comando SMS\" e \"Número de destinatário\"<br/>2. Toque \"Obter modelo SMS\"<br/>3. Aguarde até receber uma mensagem da sua operadora <br/>4. Toque \"Enviar para a MIUI\"</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Número de telefone da operadora #</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar esta função através do envio de um relatório quando a sua informação de utilização de dados estiver incorrecta ou não actualizar</string>
@@ -1207,7 +1207,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_limit_error_alert_title">Lembrete %s de limite de dados </string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes</string>
-  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.&lt;br/&gt;Poderá ter custos adicionais se exceder o limite de dados.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Toque para aumentar o limite do pacote de dados.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Atingiu o limite do pacote de dados.<br/>Poderá ter custos adicionais se exceder o limite de dados.<br/><br/><font color=\'#0000ff\'><u>Toque para aumentar o limite do pacote de dados.</u></font></string>
   <string name="traffic_over_purchase_title">Limite de dados excedido</string>
   <string name="traffic_protection_data_usage_summary">Definir avisos de utilização de dados para evitar exceder o limite de dados do seu plano mensal contratado com a operadora</string>
   <string name="traffic_protection_label">Aviso de utilização de dados</string>
@@ -1250,7 +1250,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_saving_ratio_low">"Não é possível uma drástica redução de dados"</string>
   <string name="traffic_saving_recommanded_close">Desligar</string>
   <string name="traffic_saving_recommanded_open">Ligar</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Activar a poupança de dados automaticamente para reduzir a utilização de dados das aplicações.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Se tiver um plano de dados mensal, lembre-se de desligar a poupança de dados para aplicações individuais para evitar gastos adicionais na sua operadora.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context"><big><font color=\'#7F000000\'>Activar a poupança de dados automaticamente para reduzir a utilização de dados das aplicações.</font></big><br/><br/><font color=\'#FF000000\'>Se tiver um plano de dados mensal, lembre-se de desligar a poupança de dados para aplicações individuais para evitar gastos adicionais na sua operadora.</font></string>
   <string name="traffic_saving_start_tip_title">Activar</string>
   <string name="traffic_saving_tecsupport">Desenvolvido por Opera Max</string>
   <string name="traffic_saving_tecsupport_international">Desenvolvido por Opera Max</string>
@@ -1264,7 +1264,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="traffic_saving_whitelist_btn_added">Adicionado</string>
   <string name="traffic_saving_whitelist_btn_remove">Remover</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplicação removida da lista</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; não estão a ser restringidos a utilização de dados das aplicações"</string>
+  <string name="traffic_saving_whitelist_count"><font color=\'#4DAA0F\'>%1$d</font>não estão a ser restringidos a utilização de dados das aplicações</string>
   <string name="traffic_saving_whitelist_no_app">Sem aplicações</string>
   <string name="traffic_saving_wifi_usage">Utilização Wi-Fi</string>
   <string name="traffic_setting_app_count">%d aplicações</string>
