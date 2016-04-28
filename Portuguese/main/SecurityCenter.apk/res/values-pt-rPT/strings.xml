@@ -1042,7 +1042,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_all_error_notification_title">Não foi possível concluir os diagnósticos</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Toque para ajustar o tipo de rede</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipo de rede errada</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=marca example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultado: Marca de operadora errada&lt;br/&gt;&lt;br/&gt;Definir marca: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Marca actual: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Concluído</string>
   <string name="tc_diagnostic_fragment_default">"Acerca dos diagnósticos
 1. O dispositivo vai ligar à rede da operadora, enviar uma mensagem gratuita e aguardar pela resposta da operadora. Pode levar até 5 minutos.
@@ -1055,7 +1055,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="tc_diagnostic_onekey_repair_botton">Corrigir</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Toque para alterar definições da operadora</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operadora errada</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Wrong carrier&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Resultado: Operadora errada&lt;br/&gt;&lt;br/&gt;Definir operadora: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Operadora actual: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_and_continue">Corrigir e continuar</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização corrigidos.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnóstico concluído. Problemas de localização e operadora corrigidos.&lt;/font&gt;"</string>
