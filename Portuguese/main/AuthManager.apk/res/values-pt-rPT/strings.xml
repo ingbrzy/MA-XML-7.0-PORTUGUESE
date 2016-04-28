@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Aplicações</string>
-  <string name="Dashboard_HIPS_Disable_Content">"Ao desactivar o Monitor de Permissões a MIUI não monitorará requisições de aplicações e não protegerá a segurança e privacidade dos seus dados.
-Tem certeza que deseja desactivá-lo?"</string>
+  <string name="Dashboard_HIPS_Disable_Content">A MIUI não irá monitorizar pedidos de permissões das aplicações</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissões</string>
   <string name="Dashboard_Log">Registos</string>
   <string name="Dashboard_Log_Clear_Content">Todos os registos serão eliminados</string>
@@ -282,7 +281,7 @@ Tem que instalar a versão Developer da MIUI para conceder acesso root."</string
   <string name="permission_group_title_settings_related">Definições</string>
   <string name="permission_request_title">Pedido de permissão</string>
   <string name="permission_warning_template">Permitir que %1$s possa %2$s?</string>
-  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. A qualquer momento pode alterar as permissões das aplicações em Segurança &gt; Permissões</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. Pode alterar as permissões das aplicações em Segurança &gt; Permissões</string>
   <string name="screen_overlay_button">Abrir definições</string>
   <string name="screen_overlay_message">Para alterar esta definição de permissão, tem de desligar primeiro a sobreposição de ecrã nas Definições &gt; Aplicações</string>
   <string name="screen_overlay_title">Detectada sobreposição de ecrã</string>
