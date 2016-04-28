@@ -1184,13 +1184,13 @@ Vai aproveitar esta?"</string>
   <string name="traffic_config_alert_body_extra">"
 Comprou %1$s de dados adicionais este mês. É diferente de %2$s que adicionou manualmente"</string>
   <string name="traffic_config_alert_body_extra_notset">"
-Comprou %s de dados adicionais este mês. Não se reflete nos dados mensais de limite definido manualmente"</string>
+Comprou %s de dados adicionais este mês. Isto não está reflectido no limite mensal definido manualmente"</string>
   <string name="traffic_config_alert_body_leisure">"
-O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %2$s que definiu manualmente"</string>
+O limite de utilização de dados do seu plano mensal é %1$s. É diferente do limite %2$s que definiu manualmente"</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-O limite de utilização de dados do seu plano mensal é %1$s. Não definiu um limite de uso de dados"</string>
+O limite de utilização de dados do seu plano mensal é %1$s. Não definiu um limite de utilização de dados"</string>
   <string name="traffic_config_alert_body_normal">"
-O limite de utilização de dados do seu plano mensal é %1$s. É diferente de %2$s que definiu manualmente"</string>
+O limite de utilização de dados do seu plano mensal é %1$s. É diferente do limite %2$s que definiu manualmente"</string>
   <string name="traffic_config_alert_package">"
 Passou dados extra"</string>
   <string name="traffic_config_alert_setted">Definições aplicadas</string>
