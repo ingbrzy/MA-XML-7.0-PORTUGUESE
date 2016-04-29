@@ -42,7 +42,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="cloud_back_up_summary">Copiar quando se ligar ao Wi-Fi</string>
   <string name="cloud_back_up_title">Cópia de dispositivo</string>
   <string name="cloud_backup_dialog_title">Fazer cópia de segurança com a Nuvem Mi</string>
-  <string name="cloud_find_device">Localizar dispositivo</string>
+  <string name="cloud_find_device">Localizar Dispositivo</string>
   <string name="cloud_restore_title">Restaurar dados da cópia</string>
   <string name="cloud_space_upgrade_message">Toque para adicionar %s GB à sua Nuvem Mi</string>
   <string name="cloud_space_upgrade_no_quota_info">Não foi possível obter informação de armazenamento</string>
@@ -54,12 +54,12 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="contact">Contactos</string>
   <string name="deskclock_backup">Cópia de relógios</string>
   <string name="detect_sim_card">Pesquisar por cartão SIM novamente</string>
-  <string name="disable_find_device_error">Não foi possível desligar Localizar dispositivo. %1$s</string>
-  <string name="disable_find_device_success">Localizar dispositivo está desligado</string>
+  <string name="disable_find_device_error">Não foi possível desligar Localizar Dispositivo. %1$s</string>
+  <string name="disable_find_device_success">Localizar Dispositivo está desligado</string>
   <string name="enableAll">Sincronizar tudo</string>
   <string name="enable_cloud_service_notification">É necessário activar a Nuvem Mi</string>
-  <string name="enable_find_device_error">Não foi possível ligar Localizar dispositivo. %1$s</string>
-  <string name="enable_find_device_success">Localizar dispositivo está ligado</string>
+  <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
+  <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
   <string name="enable_micloud">Utilizar a Nuvem Mi</string>
   <string name="enable_sync">Sincronizar</string>
   <string name="enable_sync_dspt">Não sincronizar</string>
@@ -72,7 +72,7 @@ Para obter mais espaço de armazenamento visite mi.com/micloud</string>
   <string name="error_title">Não foi possível sincronizar</string>
   <string name="error_unauthorized">A sincronização foi desactivada devido a muitas tentativas de início de sessão</string>
   <string name="error_unknown">Não foi possível iniciar a sessão</string>
-  <string name="find_device">Localizar dispositivo</string>
+  <string name="find_device">Localizar Dispositivo</string>
   <string name="find_device_disabled_notice">Pode ligar ou desligar esta funcionalidade em qualquer altura nas definições da Nuvem Mi</string>
   <string name="find_device_disabled_title">Localizar o dispositivo está desligado</string>
   <string name="find_device_disabling">A desligar…</string>
@@ -97,7 +97,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, poderá ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_status_ok">Localizar o seu dispositivo de qualquer lugar em i.mi.com</string>
   <string name="find_device_status_ok_international">Localizar o seu dispositivo de qualquer lugar em www.mi.com/micloud</string>
-  <string name="find_device_success_title">Localizar dispositivo</string>
+  <string name="find_device_success_title">Localizar Dispositivo</string>
   <string name="forget_password"><u>Esqueceu a palavra-passe</u></string>
   <string name="free_space_has_received">Já adicionou espaço grátis este mês</string>
   <string name="free_space_receive_fail">Não é possível actualizar</string>
@@ -110,7 +110,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="header_cloud_backup_settings">Cópia e Restauro</string>
   <string name="header_cloud_restore_summary">Reinstalar aplicações, restaurar a disposição inicial do ecrã e as definições de sistema de uma cópia na Nuvem Mi</string>
   <string name="header_data_and_synchronization">Dados e sincronização</string>
-  <string name="header_find_device_settings">Localizar dispositivo</string>
+  <string name="header_find_device_settings">Localizar Dispositivo</string>
   <string name="header_other_settings">Definições adicionais</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Introduzir palavra-passe</string>
@@ -182,23 +182,23 @@ na sua Conta Mi para reactivar a Nuvem Mi."</string>
   <string name="micloud_dspt">Utilizar a Nuvem Mi para sincronizar dados e localizar o seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilizar a Nuvem Mi para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_find_device_finish">Concluído</string>
-  <string name="micloud_find_device_guide_button">Ligar Localizar dispositivo</string>
+  <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_content">"Quando trocar o seu cartão SIM, uma mensagem vai ser enviada automaticamente 
   para reactivar esta funcionalidade."</string>
-  <string name="micloud_find_device_guide_fail_reopen">Ligar Localizar dispositivo na Nuvem Mi</string>
+  <string name="micloud_find_device_guide_fail_reopen">Ligar Localizar Dispositivo na Nuvem Mi</string>
   <string name="micloud_find_device_guide_fail_sub_net">Verifique a sua ligação de rede e tente novamente</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Ligação expirou. Tente novamente mais tarde</string>
   <string name="micloud_find_device_guide_micloud">Ligar sincronização com a Nuvem Mi</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronizar contactos, fotos, notas, e mais com a Nuvem Mi</string>
   <string name="micloud_find_device_guide_noti_content">Ligar</string>
-  <string name="micloud_find_device_guide_noti_title">Ligar Localizar dispositivo para proteger os seus dados mesmo quando o seu dispositivo for perdido</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ligar Localizar dispositivo para proteger os seus dados WeChat</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar Localizar dispositivo para proteger os seus dados AliPay</string>
-  <string name="micloud_find_device_guide_progress">A ligar Localizar dispositivo…</string>
+  <string name="micloud_find_device_guide_noti_title">Ligar Localizar Dispositivo para proteger os seus dados mesmo quando o seu dispositivo for perdido</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ligar Localizar Dispositivo para proteger os seus dados WeChat</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ligar Localizar Dispositivo para proteger os seus dados AliPay</string>
+  <string name="micloud_find_device_guide_progress">A ligar Localizar Dispositivo…</string>
   <string name="micloud_find_device_guide_title">"Iniciar sessão %s para localizar, bloquear
 ou formatar o seu dispositivo."</string>
-  <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar dispositivo</string>
-  <string name="micloud_find_device_opened">Localizar dispositivo ligado</string>
+  <string name="micloud_find_device_open_fail">Não foi possível ligar Localizar Dispositivo</string>
+  <string name="micloud_find_device_opened">Localizar Dispositivo ligado</string>
   <string name="micloud_find_device_opened_content">Localize o seu dispositivo em %s</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>

@@ -599,7 +599,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
-  <string name="checking_find_device_status">A verificar estado de Localizar dispositivo…</string>
+  <string name="checking_find_device_status">A verificar estado de Localizar Dispositivo…</string>
   <string name="checking_for_updates">A verificar actualizações…</string>
   <string name="children_mode_enable_title">Modo Criança</string>
   <string name="children_mode_set_apps_title">Aplicações acessíveis</string>
@@ -1054,11 +1054,11 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no cartão SD</string>
   <string name="factory_reset_summary">Formatar todos os dados do armazenamento interno do seu telefone</string>
-  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
-  <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de Localizar dispositivo</string>
+  <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="failed_to_check_find_device_status_title">Não foi possível verificar o estado de Localizar Dispositivo</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
-  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
-  <string name="failed_to_shut_down_find_device_title">Não foi possível desligar Localizar dispositivo</string>
+  <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde um minuto ou dois e tente novamente.</string>
+  <string name="failed_to_shut_down_find_device_title">Não foi possível desligar Localizar Dispositivo</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="filter">Filtro</string>
   <string name="filter_apps_all">Todas</string>
@@ -2294,9 +2294,9 @@ Estas definições vão afectar todos os  utilizadores deste telefone."</string>
   <string name="show_touches_summary">Mostrar comentários visuais para toques</string>
   <string name="show_user_info_on_lockscreen_label">Mostrar info. do proprietário no ecrã de bloqueio</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar dispositivo. Certifique-se que o seu dispositivo está ligado à Internet.</string>
+  <string name="shut_down_find_device_network_failure_content">Não foi possível desligar Localizar Dispositivo. Certifique-se que o seu dispositivo está ligado à Internet.</string>
   <string name="shut_down_find_device_network_failure_title">Não foi possível ligação à rede. Verifique a sua ligação e tente novamente.</string>
-  <string name="shuting_down_find_device">A desligar Localizar dispositivo…</string>
+  <string name="shuting_down_find_device">A desligar Localizar Dispositivo…</string>
   <string name="silent_mode_title">Modo silêncio</string>
   <string name="sim_bad_pin">Introduza um PIN com 4 a 8 números</string>
   <string name="sim_change_failed">"Não é possível alterar o PIN.
