@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Definições da Limpeza</string>
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de bateria</string>
+  <string name="ac_enable_title">Ligar Bloqueio de Aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
@@ -52,6 +53,7 @@ ou introduzir palavra-passe do Bloqueio de Aplicações"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
+  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar isto nas definições do Bloqueio de Aplicações</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Escolher definições</string>
   <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação está em curso</string>
@@ -411,6 +413,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="list_empty_text">Vazio</string>
   <string name="load_fail">Não foi possível carregar</string>
   <string name="local_ip_exception_summary">Não foi possível obter o endereço IP local. Para relatar este problema para a MIUI, seleccione o relatório de erros e envie um registo do seu dispositivo</string>
+  <string name="lock_mode_title">Bloquear definições</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s utilizados no ecrã de bloqueio</string>
   <string name="lock_screen_traffic_guide_notification_title">Toque para gerir a utilização de dados</string>
   <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s em %1$s, dados utilizados %3$s</string>
@@ -533,7 +536,6 @@ Maior tráfego: %1$s%2$s | %3$s utilizados"</string>
   <string name="mi_service_framework">Framework de serviços Xiaomi</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
-  <string name="modify_password_info">Desbloquear padrão</string>
   <string name="modifypassword">Alterar palavra-passe</string>
   <string name="monitor_requests_from_pc">Gerir a instalação de aplicações via USB</string>
   <string name="month_report_month_report_switch">Mostrar relatório mensal</string>

@@ -99,6 +99,11 @@
         <item>Apenas para excepções</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="lock_mode">
+        <item>Bloquear quando o dispositivo está bloqueado</item>
+        <item>Bloquear após sair da aplicação</item>
+        <item>Bloquear num minuto após sair da aplicação</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Após 1 minuto</item>
         <item>Após 5 minutos</item>

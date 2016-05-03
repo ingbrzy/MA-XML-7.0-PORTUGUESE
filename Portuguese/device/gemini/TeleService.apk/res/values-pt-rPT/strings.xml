@@ -173,6 +173,7 @@
   <string name="calling_via_template">A ligar via %s</string>
   <string name="callwait_open_hint">A funcionalidade \"Chamada em espera\" é fornecida pela sua operadora. Se receber uma notificação de erro, entre em contacto com a sua operadora e certifique-se de que esta funcionalidade é suportada</string>
   <string name="can_not_call_self">Não é possível marcar o próprio número</string>
+  <string name="can_not_use_for_not_data_sim">(Não é possível utilizar: Tem que ser definido como SIM de dados predefinido)</string>
   <string name="cancel">Cancelar</string>
   <string name="card_title_MOcall_forwarding">Chamada efectuada reencaminhada</string>
   <string name="card_title_MTcall_forwarding">Chamada recebida reencaminhada</string>
@@ -207,6 +208,8 @@
   <string name="cb_psw_dont_match">Palavras-passe não correspondem</string>
   <string name="cb_sms_settings">Definições de Transmissões Móveis SMS</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
+  <string name="cdma_alert_message">Se seleccionar outro cartão como predefinido para dados móveis, não vai poder utilizar o seu cartão UIM China Telecom UIM (excepto em roaming)</string>
+  <string name="cdma_alert_title">Cartão UIM tem estar como predefinido</string>
   <string name="cdma_display_precise_call_state_message">Se a sua operadora não suporta esta função, o estado da chamada pode ser impreciso</string>
   <string name="cdma_display_precise_call_state_summary">Confirme que a operadora suporta esta função</string>
   <string name="cdma_display_precise_call_state_title">Mostrar o estado da chamada</string>
@@ -246,6 +249,7 @@
   <string name="command_error_fdn_failure">Primeiro tem que desactivar FDN</string>
   <string name="common_problem_message">Saber mais em %1$s ou telefone para o nosso serviço de cliente (400-100-5678)</string>
   <string name="common_setting">Definições gerais</string>
+  <string name="config_default_data_sim">Definições</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Confirme o novo PIN2</string>
   <string name="confirmPinLabel">Confirme o novo PIN</string>
@@ -444,6 +448,7 @@ Mudar para um novo fornecedor de qualquer maneira?"</string>
   <string name="get_use_history_failed">"Não foi possível obter o histórico"</string>
   <string name="goPrivate">Ficar privado</string>
   <string name="go_to_virtual_sim_title">SIM Virtual</string>
+  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Preferências de rede</string>
   <string name="gsm_umts_network_preferences_title">Preferências de rede</string>
   <string name="gsm_umts_options">Opções GSM/UMTS</string>
