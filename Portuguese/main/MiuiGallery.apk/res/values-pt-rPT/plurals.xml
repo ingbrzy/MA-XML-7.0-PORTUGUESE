@@ -21,28 +21,28 @@
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotos do %2$s para serem adicionadas</item>
-        <item quantity="one">%1$d foto do %2$s para ser adicionada</item>
+        <item quantity="other">%1$d fotos de %2$s para serem adicionadas</item>
+        <item quantity="one">%1$d foto de %2$s para ser adicionada</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotos do %2$s para serem adicionadas</item>
-        <item quantity="one">%1$d foto do %2$s para ser adicionada</item>
+        <item quantity="other">%1$d fotos de %2$s para serem adicionadas</item>
+        <item quantity="one">%1$d foto de %2$s para ser adicionada</item>
     </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Já partilhado com %d pessoas</item>
         <item quantity="one">Já partilhado com %d pessoa</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
-        <item quantity="other">Eliminar %1$d fotos do %2$s?</item>
-        <item quantity="one">Eliminar esta foto do %2$s?</item>
+        <item quantity="other">Eliminar %1$d fotos de %2$s?</item>
+        <item quantity="one">Eliminar esta foto de %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
-        <item quantity="other">Eliminar %1$d vídeos do %2$s?</item>
-        <item quantity="one">Eliminar este vídeo do %2$s?</item>
+        <item quantity="other">Eliminar %1$d vídeos de %2$s?</item>
+        <item quantity="one">Eliminar este vídeo de %2$s?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
-        <item quantity="other">Eliminar %1$d itens do %2$s?</item>
-        <item quantity="one">Eliminar %1$d item do %2$s?</item>
+        <item quantity="other">Eliminar %1$d itens de %2$s?</item>
+        <item quantity="one">Eliminar %1$d item de %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d itens no total)</item>
