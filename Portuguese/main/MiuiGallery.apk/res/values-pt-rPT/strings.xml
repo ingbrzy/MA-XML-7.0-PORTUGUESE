@@ -65,8 +65,9 @@
   <string name="auto_update_on">Ligado</string>
   <string name="auto_upload_before_share_message">Fazer cópia deste álbum para a Nuvem Mi antes de partilhar</string>
   <string name="auto_upload_before_share_title">Dica</string>
-  <string name="auto_upload_disable_toast">As fotos e vídeos neste álbum não vão ser copiados automaticamente</string>
-  <string name="auto_upload_enable_toast">As fotos e vídeos neste álbum vão ser copiados automaticamente</string>
+  <string name="auto_upload_disable_tip">Cópia automática está desactivada</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Cópia automática está desactivada. Foi adicionada a outro álbum</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Cópia automática está activada. Volte à página do álbum para ver</string>
   <string name="autofix">Ajuste automático</string>
   <string name="baby_album">Álbum do bébé</string>
   <string name="baby_album_change_background">Alterar foto em segundo plano</string>
@@ -159,8 +160,8 @@
   <string name="create_new_face">Nova pessoa</string>
   <string name="create_quick_icon_on_desk">Criar atalho</string>
   <string name="creating_baby_album">A criar álbum…</string>
-  <string name="crop">Cortar</string>
-  <string name="crop_label">Fotos recortadas</string>
+  <string name="crop">Recortar</string>
+  <string name="crop_label">Recortar</string>
   <string name="crop_save_text">Guardar</string>
   <string name="crop_tooltip">Arrastar marcadores para cortar</string>
   <string name="crossprocess">Processo cruzado</string>
@@ -366,10 +367,10 @@
   <string name="operation_add_secret">Ocultar</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalhes</string>
-  <string name="operation_disable_auto_upload">Desligar cópia automática</string>
+  <string name="operation_disable_auto_upload">Desactivar cópia automática</string>
   <string name="operation_download">Transferir foto (%s)</string>
   <string name="operation_edit">Editar</string>
-  <string name="operation_enable_auto_upload">Ligar cópia automática</string>
+  <string name="operation_enable_auto_upload">Activar cópia automática</string>
   <string name="operation_failed">A operação falhou</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
@@ -394,6 +395,7 @@
   <string name="orientation_unlock_tip">Auto-rotação ligada</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
+  <string name="other_album">Outros álbuns</string>
   <string name="other_settings">Definições adicionais</string>
   <string name="owner_album_subtitle">Partilhar com %1$s pessoas</string>
   <string name="paint_brush">Pincel</string>
