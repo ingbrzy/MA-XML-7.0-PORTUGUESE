@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Plugin do serviço de Segurança</string>
-  <string name="app_not_installed_toast">Aplicação não está instalada no seu dispositivo.</string>
+  <string name="app_not_installed_toast">Aplicação não está instalada no seu dispositivo</string>
   <string name="cancel_button">Cancelar</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Comprar</string>
@@ -14,7 +14,7 @@
   <string name="month_report_disconnect_tip">Não foi possível ligar à rede</string>
   <string name="month_report_follow_service_negative">Não obrigado</string>
   <string name="month_report_follow_service_positive">Seguir</string>
-  <string name="month_report_follow_service_summary">Mantenha se actualizado com notícias e informações de segurança ao seguir a conta oficial da aplicação Segurança MIUI.</string>
+  <string name="month_report_follow_service_summary">Mantenha se actualizado com notícias e informações de segurança ao seguir a conta oficial da aplicação Segurança MIUI</string>
   <string name="month_report_follow_service_title">Actualizações de segurança</string>
   <string name="month_report_history_activity_label">Reportar histórico</string>
   <string name="month_report_network_dialog_description">Permitir que esta aplicação ligue à Internet para obter a informação do relatório?</string>
@@ -23,7 +23,7 @@
   <string name="month_report_result_share">Partilhar</string>
   <string name="month_report_share_img_fail">Não foi possível partilhar</string>
   <string name="month_report_share_loading">Aguarde…</string>
-  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, ligue esta funcionalidade na definições da aplicação Segurança.</string>
+  <string name="month_report_warning_dialog_description">Para ver o relatório mensal, ligue esta funcionalidade na definições da aplicação Segurança</string>
   <string name="month_report_warning_dialog_positive">Ligar</string>
   <string name="month_report_warning_dialog_title">Relatório de segurança mensal</string>
   <string name="network_not_available">"Não é possível ligar à rede"</string>
@@ -32,7 +32,7 @@
   <string name="open_browser">Abrir no navegador</string>
   <string name="pm_lable_name">Acerca do acesso root</string>
   <string name="privacy_declare_dialog_title">Termos do Serviço</string>
-  <string name="privacy_prompt_traffic_purchase_message">"O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados."</string>
+  <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="share">Partilhar</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="usage_sorted_loading_text">Aguarde…</string>
