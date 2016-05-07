@@ -167,12 +167,12 @@
   <string name="crossprocess">Processo cruzado</string>
   <string name="delete">Eliminar</string>
   <string name="delete_album_failed">Não foi possível eliminar álbum</string>
-  <string name="delete_album_msg_format">Eliminar \"%2$s\" álbum %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Eliminar álbum \"%2$s\" %1$s%3$s?</string>
   <string name="delete_album_success">Álbum eliminado</string>
   <string name="delete_finish_format">%d eliminado</string>
   <string name="delete_from_album">álbum \"%s\" (em todos os dispositivos)</string>
   <string name="delete_from_album_no_account">álbum \"%s\"</string>
-  <string name="delete_from_all_devices">todos os dispositivos</string>
+  <string name="delete_from_all_devices">de todos os dispositivos</string>
   <string name="delete_from_devices">Todos os dispositivos que sincronizam automaticamente</string>
   <string name="delete_from_devices_album">Todos os dispositivos que sincronizaram este álbum</string>
   <string name="delete_from_homepage_album">Álbuns mostrados na página inicial</string>
