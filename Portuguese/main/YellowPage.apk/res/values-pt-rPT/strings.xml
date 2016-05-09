@@ -10,7 +10,7 @@
   <string name="account_type_name">Conta Mi</string>
   <string name="account_updating_device">A actualizar…</string>
   <string name="account_updating_device_failed">Não é possível inicar a sessão</string>
-  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança, a sua Conta Mi necessita de ser verificada neste dispositivo.</string>
+  <string name="account_verify_password">Já está a utilizar este serviço noutro dispositivo. Por motivos de segurança, a sua Conta Mi necessita de ser verificada neste dispositivo</string>
   <string name="account_yellowpage_favorite">Favoritos</string>
   <string name="account_yellowpage_followed">Contas verificadas</string>
   <string name="account_yellowpage_recent">Ver histórico</string>
@@ -24,7 +24,7 @@
   <string name="average_price">Média %d EUR</string>
   <string name="back">Voltar</string>
   <string name="balance_inquiry_send_sms_fail_hint">Não é possível obter o saldo</string>
-  <string name="balance_inquiry_send_sms_hint">Vai ser enviada uma mensagem de texto gratuita à sua operadora para consulta do saldo.</string>
+  <string name="balance_inquiry_send_sms_hint">Vai ser enviada uma mensagem de texto gratuita à sua operadora para consulta do saldo</string>
   <string name="balance_inquiry_send_sms_summmary">Verificar saldo</string>
   <string name="balance_inquiry_title">Consulta do saldo</string>
   <string name="call">Ligar</string>
@@ -121,19 +121,19 @@ Verifique o número de rastreio."</string>
   <string name="express_inquiry_logistics_select_others_indication">Outro</string>
   <string name="express_inquiry_no_history">Sem histórico</string>
   <string name="express_inquiry_no_result">Sem resultados</string>
-  <string name="express_inquiry_number_empty">Introduzir o seu número de rastreio.</string>
+  <string name="express_inquiry_number_empty">Introduzir o seu número de rastreio</string>
   <string name="express_inquiry_number_invalid">"Número inválido.
 Verifique o seu número de rastreio."</string>
   <string name="express_inquiry_provider_info">Produzido por</string>
   <string name="express_inquiry_serial_number_indication">Número de rastreio</string>
   <string name="express_inquiry_serial_number_prefix">Número: %s</string>
   <string name="express_inquiry_trace">Rastrear</string>
-  <string name="express_inquiry_trace_device_login_notice">Está a utilizar este serviço em outro dispositivo. Para receber o estado de compras neste dispositivo verifique a sua Conta Mi.</string>
+  <string name="express_inquiry_trace_device_login_notice">Está a utilizar este serviço em outro dispositivo. Para receber o estado de compras neste dispositivo verifique a sua Conta Mi</string>
   <string name="express_inquiry_trace_success">Traçar</string>
-  <string name="express_inquiry_trace_user_notice_content">Vamos informá-lo quando o estado da sua encomenda for alterado.</string>
+  <string name="express_inquiry_trace_user_notice_content">Vamos informá-lo quando o estado da sua encomenda for alterado</string>
   <string name="express_inquiry_untrace">Não rastrear</string>
   <string name="express_inquiry_untrace_success">Rastreio parado</string>
-  <string name="express_location_failed">Não foi possível localizá-lo. Introduza o seu endereço.</string>
+  <string name="express_location_failed">Não foi possível localizá-lo. Introduza o seu endereço</string>
   <string name="express_no_address">Vazio</string>
   <string name="express_no_order">Sem encomendas</string>
   <string name="express_no_order_info">Sem informação de encomenda</string>
@@ -167,7 +167,7 @@ Verifique o seu número de rastreio."</string>
   <string name="express_select_sender">De</string>
   <string name="express_send">Envio</string>
   <string name="express_send_mms">Enviar</string>
-  <string name="express_send_mms_format">Pacote entregue por %1$s | Número de rastreio: %2$s.</string>
+  <string name="express_send_mms_format">Pacote entregue por %1$s | Número de rastreio: %2$s</string>
   <string name="express_send_notice">Itens proibidos</string>
   <string name="express_sender_info">Informações do remetente</string>
   <string name="express_sender_name">Nome do remetente</string>
@@ -182,7 +182,7 @@ Verifique o seu número de rastreio."</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequentemente utilizadas</string>
   <string name="follow_label">Seguir %1$s</string>
   <string name="follow_processing">a processar</string>
-  <string name="follow_success">A seguir %1$s.</string>
+  <string name="follow_success">A seguir %1$s</string>
   <string name="fraud_number_online_identification">Bloquear chamadas não desejadas</string>
   <string name="gallery">Galeria</string>
   <string name="general_btn_follow">Seguir</string>
@@ -214,18 +214,18 @@ Verifique o seu número de rastreio."</string>
   <string name="group_name_title"/>
   <string name="hms_no_subject_view">(Sem assunto)</string>
   <string name="hms_notification">Mensagens</string>
-  <string name="homepage_barcode_prompt">Digitalizar para entrar na minha página.</string>
+  <string name="homepage_barcode_prompt">Digitalizar para entrar na minha página</string>
   <string name="info_divider">|</string>
   <string name="locating_fail">Não foi possível encontrar a sua localização</string>
   <string name="login_before_use">Tem de iniciar sessão primeiro</string>
   <string name="login_ok">Iniciar sessão</string>
   <string name="mark_number_custom_mark_deleted">Etiqueta removida</string>
   <string name="mark_number_dialog_maintitle">Reportar este número</string>
-  <string name="mark_number_dialog_subtitle">Reportado por %2$d pessoas como %1$s.</string>
+  <string name="mark_number_dialog_subtitle">Reportado por %2$d pessoas como %1$s</string>
   <string name="mark_number_feedback">Reportar</string>
   <string name="mark_number_feedback_hint">Introduzir feedback</string>
   <string name="mark_number_feedback_invalid_hint">Introduzir o seu feedback</string>
-  <string name="mark_number_feedback_success">Feedback enviado com sucesso.</string>
+  <string name="mark_number_feedback_success">Feedback enviado com sucesso</string>
   <string name="mark_number_marked_maintitle">Alterar relatório para este número</string>
   <string name="mark_number_marked_subtitle">Reportou este número como %s</string>
   <string name="mark_number_remove">Remover etiqueta</string>
@@ -253,7 +253,7 @@ Verifique o seu número de rastreio."</string>
   <string name="miuishare_account_need_activate">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi, que neste momento não está activada. Activar a sua conta?</string>
   <string name="miuishare_account_need_login">Partilha Weibo necessita que a sua conta Weibo esteja ligada à sua conta Xiaomi, que neste momento não está iniciada. Iniciar sessão para partilhar?</string>
   <string name="miuishare_app_name">Partilha Miui</string>
-  <string name="miuishare_no_network">Não é possível ligar à rede.</string>
+  <string name="miuishare_no_network">Não é possível ligar à rede</string>
   <string name="miuishare_publish">Enviar</string>
   <string name="miuishare_share_done">Partilhado com sucesso</string>
   <string name="miuishare_share_editor_title">Partilhar</string>
@@ -306,9 +306,10 @@ Verifique o seu número de rastreio."</string>
   <string name="packages_wait_for_op_reply">Aguardar por uma mensagem de confirmação da sua operadora</string>
   <string name="payment_back">Voltar</string>
   <string name="payment_failed_common_problems">Ocorreu um problema durante o pagamento</string>
-  <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente.</string>
+  <string name="payment_unknown_status_summary">Verifique a sua ligação de rede e tente novamente</string>
   <string name="payment_unknown_status_title">Não foi possível confirmar o estado do pagamento</string>
-  <string name="phone_event_setting_notice_text">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s.</string>
+  <string name="phone_event_setting_notice_text">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">Ao utilizar esta funcionalidade está a concordar com a nossa %1$s e %2$s. A fim de inverter a pesquisa no telefone, é necessário permissão para aceder aos seus contactos</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d total</string>
   <string name="pull_to_refresh_pull_label">Descer para actualizar…</string>
@@ -333,7 +334,7 @@ Verifique o seu número de rastreio."</string>
   <string name="recharge_payment_error">Compra fechada ou ocorreu um erro</string>
   <string name="recharge_payment_result_failed_summary">Tente novamente</string>
   <string name="recharge_payment_result_failed_title">O carregamento falhou</string>
-  <string name="recharge_payment_result_ok_summary">Confirme que este montante será descontado no seu saldo.</string>
+  <string name="recharge_payment_result_ok_summary">Confirme que este montante será descontado no seu saldo</string>
   <string name="recharge_payment_result_ok_title">Adicionado EUR %s</string>
   <string name="recharge_payment_result_progress_summary">A verificar o resultado do pagamento…</string>
   <string name="recharge_phone">Número do carregamento:</string>
@@ -352,7 +353,7 @@ Total: EUR %3$s"</string>
   <string name="remember_preference">Memorizar preferências</string>
   <string name="remind_another_time">Não mostrar novamente</string>
   <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">Tenha cuidado: Deve verificar sempre primeiro a identidade do autor da chamada de telefone ou vídeo antes de partilhar a sua informação pessoal.</string>
+  <string name="remind_user_suspect_number_message">Tenha cuidado: Deve verificar sempre primeiro a identidade do autor da chamada de telefone ou vídeo antes de partilhar a sua informação pessoal</string>
   <string name="remind_user_suspect_number_title">Números suspeitos</string>
   <string name="rmb">EUR</string>
   <string name="scan">Verificar</string>
@@ -375,7 +376,7 @@ Total: EUR %3$s"</string>
   <string name="toast_text_copied">Texto copiado</string>
   <string name="try_again">Tentar novamente</string>
   <string name="turn_off_hint_title">Não identificar números desconhecidos?</string>
-  <string name="turn_off_phone_event_hint">Não vai poder ver informações de relatórios para números de telefone desconhecidos.</string>
+  <string name="turn_off_phone_event_hint">Não vai poder ver informações de relatórios para números de telefone desconhecidos</string>
   <string name="turn_off_smart_antispam_hint">Desligar a protecção para chamadas de desconhecidos?</string>
   <string name="turn_on_phone_event_dialog_title">Actualizar a base de dados de identificação de números</string>
   <string name="turn_on_phone_event_summary">Enviar estado do telefone dos números de serviço</string>
@@ -390,11 +391,11 @@ Total: EUR %3$s"</string>
   <string name="uploads_disabled">O envio de ficheiros está desactivo</string>
   <string name="user_agreement2">" Termos de Serviço"</string>
   <string name="user_agreement4">Privacidade e Política</string>
-  <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s.</string>
-  <string name="user_notice_identify_summary_format_cta">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-FI. Ao utilizar este serviço concorda com a nossa %1$s e %2$s.</string>
+  <string name="user_notice_identify_summary_format">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-Fi. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_identify_summary_format_cta">O seu telefone vai utilizar a base de dados da MIUI para bloquear chamadas indesejadas quando estiver ligado ao Wi-FI. Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="user_notice_title">Atenção</string>
-  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do directório de classificação estão desactualizadas. Quer actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s.</string>
-  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-lo? Ao utilizar este serviço concorda com a nossa %1$s e %2$s.</string>
+  <string name="user_notice_yp_detail_summary_format">Algumas das suas informações do directório de classificação estão desactualizadas. Quer actualizá-las? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
+  <string name="user_notice_yp_detail_summary_format_cta">Algumas das suas informações do directório de classificação estão desactualizadas. Deseja actualizá-lo? Ao utilizar este serviço concorda com a nossa %1$s e %2$s</string>
   <string name="view_orders">Ver encomendas</string>
   <string name="voicemail">Voice Mail</string>
   <string name="web_permission_message">%1$s necessita de ver o seu %2$s para funcionar normalmente</string>
@@ -402,7 +403,7 @@ Total: EUR %3$s"</string>
   <string name="yellow_page_website">Website oficial</string>
   <string name="yellowpage_navigation_network_location_enable">Permitir</string>
   <string name="yellowpage_navigation_network_location_enable_later">Agora não</string>
-  <string name="yellowpage_navigation_network_location_enabled">Acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições.</string>
-  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas aceder às suas informações de localização.</string>
+  <string name="yellowpage_navigation_network_location_enabled">Acesso à localização está ligado. Pode desligá-lo em qualquer altura nas Definições</string>
+  <string name="yellowpage_navigation_network_location_not_enabled_summary">Melhorar os resultados da pesquisa, permitindo às Páginas amarelas aceder às suas informações de localização</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Acesso à localização</string>
 </resources>

@@ -9,8 +9,10 @@
   <string name="backing_up_to_micloud">A fazer cópia…</string>
   <string name="backup_fail">Não foi possível fazer cópia</string>
   <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
+  <string name="backup_now">Fazer cópia agora</string>
   <string name="backup_size">Tamanho: %s</string>
-  <string name="backup_success">Cópia com sucesso</string>
+  <string name="backup_success">Cópia feita com sucesso</string>
+  <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Eliminar</string>
@@ -55,7 +57,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_backup_detail_manage_summary">Cópias: %1$s Tamanho: %2$s</string>
   <string name="cloud_backup_detail_state">Cópias da Nuvem Mi</string>
   <string name="cloud_backup_detail_state_summary">Aplicações, ecrã inicial e definições de sistema</string>
-  <string name="cloud_backup_detail_time">". Data da cópia: %1$s"</string>
+  <string name="cloud_backup_detail_time">Última cópia: %1$s</string>
   <string name="cloud_backup_have_data">Cópia encontrada na Nuvem Mi</string>
   <string name="cloud_backup_select_recover">Escolher cópia da Nuvem Mi</string>
   <string name="cloud_restore_from_other_device">Parar o restauro de %s e eliminar esta cópia de segurança? Não é possível reverter esta acção.</string>
@@ -104,6 +106,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="restore_from_cloud">Restaurar da Nuvem Mi</string>
   <string name="restore_from_this_device">Restaurar utilizando esta cópia</string>
   <string name="restore_home_screen_apps">Restaurar das cópias Nuvem Mi</string>
+  <string name="restore_task_unfinished">A restaurar aplicações. Tente novamente mais tarde</string>
   <string name="restoreing_file_tile">Restaurar %d ficheiros</string>
   <string name="retry">Tentar novamente</string>
   <string name="self_phone">Este telefone</string>

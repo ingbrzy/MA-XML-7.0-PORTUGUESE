@@ -36,6 +36,8 @@
   <string name="notification_download_success_more">Transferido %1$d</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência requer uma ligação Wi-Fi</string>
   <string name="notification_paused_in_background">Em pausa em segundo plano</string>
+  <string name="notify_disabled_net_by_app">Ligação à Internet restringida pela aplicação Segurança</string>
+  <string name="notify_only_wifi_download">A aguardar por Wi-Fi</string>
   <string name="paused_waiting_for_network">A aguardar pela rede</string>
   <string name="permdesc_accessAllDownloads">Permite à aplicação mostrar e modificar todas as transferências iniciadas por qualquer aplicação no sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Permite à aplicação transferir ficheiros para a cache de transferências. Esta acção não poderá ser eliminada automaticamente quando o gestor de transferências precisar de mais espaço.</string>
