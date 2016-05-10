@@ -192,4 +192,28 @@
     <item quantity="few"> Transferências</item>
     <item quantity="many"> Transferências</item>
   </plurals>
+  <plurals name="video_play_num">
+    <item quantity="other">%1$s reproduções</item>
+    <item quantity="zero">%1$s reproduções</item>
+    <item quantity="one">%1$s reprodução</item>
+    <item quantity="two">%1$s reproduções</item>
+    <item quantity="few">%1$s reproduções</item>
+    <item quantity="many">%1$s reproduções</item>
+  </plurals>
+  <plurals name="video_num">
+    <item quantity="other">%1$s vídeos</item>
+    <item quantity="zero">%1$s vídeos</item>
+    <item quantity="one">%1$s vídeo</item>
+    <item quantity="two">%1$s vídeos</item>
+    <item quantity="few">%1$s vídeos</item>
+    <item quantity="many">%1$s vídeos</item>
+  </plurals>
+  <plurals name="user_upload_items">
+    <item quantity="other">vídeos</item>
+    <item quantity="zero">vídeos</item>
+    <item quantity="one">vídeo</item>
+    <item quantity="two">vídeos</item>
+    <item quantity="few">vídeos</item>
+    <item quantity="many">vídeos</item>
+  </plurals>
 </resources>
