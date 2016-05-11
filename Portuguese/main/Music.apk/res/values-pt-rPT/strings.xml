@@ -492,6 +492,10 @@
   <string name="pay_now">Serviço actual</string>
   <string name="payment_fail">Não foi possível pagar</string>
   <string name="payment_success">Pagamento efectuado</string>
+  <string name="permission_declaration_message">Permitir acesso ao armazenamento em Segurança &gt; Permissões &gt; Permissões &gt; Armazenamento &gt; Música para poder utilizar a aplicação normalmente</string>
+  <string name="permission_declaration_negative_text">Mais tarde</string>
+  <string name="permission_declaration_positive_text">Ir para Segurança</string>
+  <string name="permission_declaration_title">Permitir acesso</string>
   <string name="play_all_song">Reproduzir todas</string>
   <string name="play_next">Reproduzir seguinte</string>
   <string name="playback_failed_no_title_by_bad_file">O formato desta música não é suportado ou o ficheiro não existe</string>

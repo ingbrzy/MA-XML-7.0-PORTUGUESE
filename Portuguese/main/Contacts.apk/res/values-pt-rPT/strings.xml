@@ -457,6 +457,12 @@ Motivo: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Localizar contactos</string>
   <string name="hint_more_contact">Unir contactos duplicados</string>
+  <string name="hybrid_check_network">Definições de rede</string>
+  <string name="hybrid_data_error">Ocorreu um erro</string>
+  <string name="hybrid_locating_fail">Não é possível encontrar a sua localização</string>
+  <string name="hybrid_network_unavaliable">Não é possível ligar à rede</string>
+  <string name="hybrid_service_unavailiable">Serviço indisponível</string>
+  <string name="hybrid_try_again">Tente novamente</string>
   <string name="ic_menu_back">Voltar</string>
   <string name="ic_menu_done">Concluído</string>
   <string name="imLabelsGroup">IM</string>
@@ -685,8 +691,8 @@ Motivo: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Ligar</string>
   <string name="miprofile_switch_on_alertdialog_title">Actualizar foto de perfil</string>
   <string name="missing_name">(Sem nome)</string>
-  <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="mobile_equipment_identification">Identificação de Equipamento Móvel</string>
+  <string name="missing_required_permission">Desactivou uma permissão necessária</string>
   <string name="more_call_logs">Ver registo de chamadas detalhado em i.mi.com</string>
   <string name="move_and_resize">Mover e dimensionar</string>
   <string name="multi_number_menu_call">Ligar</string>
@@ -885,6 +891,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_import">Importar</string>
   <string name="preference_import_export">Importar/Exportar</string>
   <string name="preference_import_export_title">Importar/Exportar contactos</string>
+  <string name="preference_key_trash_bin_title">Ver os contactos eliminados recentemente</string>
   <string name="preference_others">Outros</string>
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
