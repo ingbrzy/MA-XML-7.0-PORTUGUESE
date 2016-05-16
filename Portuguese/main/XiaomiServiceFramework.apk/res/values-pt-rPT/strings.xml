@@ -6,6 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS enviada do cartão SIM %s para activar \"Localizar Dispositivo\"</string>
   <string name="activate_auto_sms_notification_title">Activação do cartão SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar o registo de chamadas</string>
+  <string name="activate_feature_default_name">Serviços Mi</string>
   <string name="activate_feature_find_device">Localizar Dispositivo</string>
   <string name="activate_feature_live_talk">Pacote de carregamento do telefone</string>
   <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
@@ -73,6 +74,7 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_popup_title_manual">Activar %s</string>
   <string name="activate_popup_title_new_sim_card">Reactivar %s</string>
   <string name="activate_popup_title_register_account">Criar Conta Mi</string>
+  <string name="activate_sms_postfix">Este SMS é utilizado para activar os seus serviços Mi</string>
   <string name="activate_status_desc_acquire_phone_number">A obter número de telefone…</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Ocorreu um erro no servidor enquanto a aquisição de número de telefone</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Não é possível obter o número de telefone</string>
@@ -104,7 +106,10 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="app_name">Serviço Xiaomi framework</string>
   <string name="error_device_id_message">"ID de Dispositivo inválido: %s
 ID do Dispositivo tem que ter um IMEI ou MAC address válido. Sem o ID do dispositivo algumas funcionalidades da conta e nuvem vão estar indisponíveis."</string>
-  <string name="error_device_id_title">Não é possível um ID de Dispositivo válido</string>
+  <string name="error_device_id_title">Não é possível um ID de dispositivo válido</string>
+  <string name="explain_send_sms_permission_button">Verificar</string>
+  <string name="explain_send_sms_permission_msg">Para ligar %s, o Serviço Framework Xiaomi Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Este SMS vai ser taxado pela operadora</string>
+  <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
   <string name="sync_notification_title_format">A sincronizar item: %1$s</string>
   <string name="xiaomi_cloud_service">Nuvem Mi</string>
