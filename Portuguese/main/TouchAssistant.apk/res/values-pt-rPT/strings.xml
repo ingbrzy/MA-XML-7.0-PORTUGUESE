@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Assistente de Toque</string>
+  <string name="app_not_installed">Não instalado</string>
+  <string name="applications">Aplicações</string>
+  <string name="category_others">Outros</string>
+  <string name="category_setting">Definições</string>
+  <string name="customize_entries">Personalizar função</string>
+  <string name="enable_touch_assistant">Activar Assistente de Toque</string>
+  <string name="function_settings">Definições das funções</string>
+  <string name="hide_touch_assistant">Ocultar auto. Assistente de Toque</string>
+  <string name="hide_touch_assistant_intro">Ocultar Assistente de Toque em algumas aplicações</string>
+  <string name="name_alipay_payment_code">Pagamento rápido Alipay</string>
+  <string name="name_alipay_scan">Digitalizar código Alipay</string>
+  <string name="name_kill_processes">Limpeza de memória</string>
+  <string name="name_music_next_song">Música seguinte</string>
+  <string name="name_music_prev_song">Música anterior</string>
+  <string name="name_music_toggle">Reproduzir/Pausar música</string>
+  <string name="name_payment_code">Pagamento rápido</string>
+  <string name="name_press_back_key">Premir voltar</string>
+  <string name="name_press_home_key">Premir início</string>
+  <string name="name_press_menu_key">Premir menu</string>
+  <string name="name_quick_lock">Ecrã desligado</string>
+  <string name="name_quick_search">Pequisar</string>
+  <string name="name_scan_to_pay">Digitalizar para pagar</string>
+  <string name="name_screenshot">Captura de ecrã</string>
+  <string name="name_wechat_payment_code">Pagamento rápido Wechat</string>
+  <string name="name_wechat_scan">Digitalizar código Wechat</string>
+  <string name="pay_entry_dialog_title_select">Seleccionar aplicação para abrir</string>
+  <string name="pay_entry_dialog_title_setting">Definir aplicação para activar</string>
+  <string name="pref_category_others">Outros</string>
+  <string name="pref_category_quick_pay">Pagamento rápido</string>
+  <string name="pref_category_quick_settings">Definições rápidas</string>
+  <string name="pref_category_system">Definições de sistema</string>
+  <string name="restore_default">Repor para predefinidos</string>
+  <string name="restore_intro">Pepor para as definições predifinidas que incluem funções e encomendas. Isto não vai eliminar dados no seu telefone</string>
+</resources>

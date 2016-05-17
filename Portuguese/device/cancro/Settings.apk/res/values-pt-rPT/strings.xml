@@ -288,6 +288,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="assisted_gps">Utilizar GPS assistido</string>
   <string name="assisted_gps_disabled">Utilizar servidor para assistir GPS (desactivar para melhorar o desempenho do GPS)</string>
   <string name="assisted_gps_enabled">Utilizar servidor para assistir GPS (desactivar para reduzir a utilização de rede)</string>
+  <string name="attempt_other_network">Tentar outras redes</string>
   <string name="audio_list_loading">A carregar…</string>
   <string name="audio_profile_settings_title">Perfis de áudio</string>
   <string name="audio_record_proc_title">Redução de ruído</string>
@@ -2105,7 +2106,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_default_apps">Sem aplicações predefinidas</string>
   <string name="no_device_admins">Não há administradores de dispositivo disponíveis</string>
   <string name="no_internet_access_remember">Não perguntar novamente para esta rede</string>
-  <string name="no_internet_access_text">Esta rede não tem acesso à Internet. Pretende manter a ligação?</string>
+  <string name="no_internet_access_text">A rede %1$s não tem acesso à Internet. Pretende manter a ligação?</string>
   <string name="no_media_button_receiver">Não</string>
   <string name="no_memory_use_summary">Nenhuma memória utilizada nas últimas 3 horas</string>
   <string name="no_nearby_wifi">Não foram detectadas redes</string>
@@ -3469,6 +3470,7 @@ As suas impressões digitais guardadas também são removidas deste dispositivo 
   <string name="use_nuplayer_summary">Utilizar NuPlayer em vez de AwesomePlayer</string>
   <string name="use_personalized_ad_service">Anúncios personalizados</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
+  <string name="use_this_wlan">Utilizar esta rede Wi-Fi</string>
   <string name="user_account_title">Conta para conteúdo</string>
   <string name="user_add_max_count">É possível adicionar até %1$d utilizadores</string>
   <string name="user_add_on_lockscreen_menu">Adicionar utilizadores quando dispos. bloq.</string>
@@ -3571,8 +3573,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="virtual_sim_category_title">Roaming Mi</string>
   <string name="virtual_sim_description">Serviço de roaming de confiança</string>
   <string name="virtual_sim_global_category_title">SIM Mi</string>
-  <string name="virtual_sim_global_description">Não é necessário cartões SIM para ligar a uma rede de dados</string>
-  <string name="virtual_sim_global_title">Serviço de tráfego de dados</string>
+  <string name="virtual_sim_global_description">Ligar a uma rede de dados sem cartão SIM</string>
+  <string name="virtual_sim_global_title">Serviço de dados móveis</string>
   <string name="virtual_sim_title">Rede de dados roaming</string>
   <string name="virus_scan">Verificar vírus</string>
   <string name="virus_scan_app_continue">Continuar verificação</string>
@@ -3807,8 +3809,8 @@ Para adicionar uma palavra, toque no botão Adicionar (+)."</string>
   <string name="wifi_empty_list_wifi_off">Para ver as redes disponíveis active o Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">A localizar redes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Activar dados e Wi-Fi em roaming</string>
-  <string name="wifi_enable_data_and_wifi_roam_summary">Mudar para ligação de dados quando o Wi-Fi não conseguir aceder à Internet</string>
+  <string name="wifi_enable_data_and_wifi_roam">Alternar entre dados móveis e Wi-Fi</string>
+  <string name="wifi_enable_data_and_wifi_roam_summary">Manter os dados móveis e Wi-Fi ligados para alterar para dados quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_enable_watchdog_service_summary">Evitar ligações fracas</string>
   <string name="wifi_error">Erro</string>
   <string name="wifi_fail_to_scan">Não é possível pesquisar redes</string>

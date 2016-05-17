@@ -11,6 +11,7 @@
   <string name="activity_title_ignored_image">Ignorado</string>
   <string name="activity_title_image_gallery">Eliminar duplicados</string>
   <string name="activity_title_large_file">Ficheiros grandes</string>
+  <string name="activity_title_main">Limpeza</string>
   <string name="activity_title_news">Notícias</string>
   <string name="activity_title_privacy_cache">Cache de Privacidade</string>
   <string name="activity_title_residual">Residuais</string>
@@ -116,7 +117,7 @@
   <string name="dialog_content_checkbox_delete_cloud_image">Eliminar também as fotos da Nuvem Mi</string>
   <string name="dialog_content_delete_image_confirm">Eliminar %d foto(s)?</string>
   <string name="dialog_content_select_all_confirm">Manter uma cópia desta foto?</string>
-  <string name="dialog_msg_add_white_list_error">Este ficheiro não suporta a adição às excepções</string>
+  <string name="dialog_msg_add_white_list_error">Não é possível adicionar este ficheiro às excepções</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Copiar e desinstalar as aplicações seleccionadas?</string>
   <string name="dialog_msg_check_all">Confirma seleccionar %1$s que contém %2$d ficheiros</string>
   <string name="dialog_msg_esc_cleanmaster">Parar a verificação de limpeza em curso?</string>
@@ -128,7 +129,7 @@
   <string name="dialog_title_backup_and_uninstall_apps">Copiar e desinstalar</string>
   <string name="dialog_title_check_all">Seleccionar tudo</string>
   <string name="dialog_title_delete_image">Eliminar imagens seleccionadas</string>
-  <string name="dialog_title_esc_cleanmaster">Sair da limpeza</string>
+  <string name="dialog_title_esc_cleanmaster">Sair da Limpeza</string>
   <string name="dialog_title_load_cleanup_engine_error">Erro inesperado</string>
   <string name="dialog_title_stop_scan">Parar verificação</string>
   <string name="dialog_title_uninstall_apps">Desinstalar</string>
@@ -242,7 +243,7 @@
   <string name="msg_update_error_code_success">Concluído</string>
   <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
   <string name="name_debuglog_dir">Registo de Depuração Bsp</string>
-  <string name="name_optimizer">Política de Privacidade da Clean Master</string>
+  <string name="name_optimizer">Política de Privacidade</string>
   <string name="nb_clear_set">Limpar ROM, ver informações de bateria e lista de bloqueio na área de notificações</string>
   <string name="net_assistant_detail">Utilizado %1$s, poupado %2$s</string>
   <string name="net_assistant_title">Utilizado %s de dados móveis este mês</string>
@@ -251,9 +252,7 @@
   <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
-  <string name="notification_summary_of_apps_cleanup">Aplicações não utilizadas estão a tirar %s de armazenamento</string>
   <string name="notification_summary_of_garbage_cleanup">O lixo é mais de %s</string>
-  <string name="notification_title_of_apps_cleanup">Aplicações não utilizadas</string>
   <string name="notification_title_of_garbage_cleanup">Tamanho do lixo</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
@@ -271,7 +270,6 @@
   <string name="pref_content_cleanup_white_list_none">Nenhuma</string>
   <string name="pref_section_auto_clean_and_alert">Limpar automaticamente</string>
   <string name="pref_summary_auto_clean_and_alert">Programar limpeza para iniciar automaticamente</string>
-  <string name="pref_summary_auto_deepclean_and_alert">Notificação de aplicações não utilizadas</string>
   <string name="pref_summary_auto_update_cleanup_db">Última actualização %s</string>
   <string name="pref_summary_cleanup_white_list">Prevenir que as aplicações seleccionadas sejam limpas</string>
   <string name="pref_summary_expand_cache_group">Mostrar detalhes da cache automaticamente</string>
@@ -280,12 +278,9 @@
   <string name="pref_summary_garbage_cleanup_check_time">Agendar uma rotina de limpeza</string>
   <string name="pref_summary_garbage_process_mode">Definir notificações quando a limpeza está em execução</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Carregar e comparar os nomes dos ficheiros desconhecidos com as definições online</string>
-  <string name="pref_title_apps_check_size">Limite de espaço de armazenamento</string>
-  <string name="pref_title_apps_check_time">Frequência</string>
   <string name="pref_title_apps_cleanup_size">​Quando o tamanho da cache atingir</string>
   <string name="pref_title_auto_clean_and_alert">Limpar automaticamente</string>
   <string name="pref_title_auto_clean_content_choose">Escolher itens a limpar</string>
-  <string name="pref_title_auto_deepclean_and_alert">Limpeza Profunda</string>
   <string name="pref_title_auto_update_cleanup_db">Actualizar automaticamente</string>
   <string name="pref_title_choose_engine">Definições</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>

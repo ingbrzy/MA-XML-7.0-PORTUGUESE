@@ -239,7 +239,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="datausage_purchase_view_detail">Ver detalhes</string>
   <string name="declaration_dialog_msg">Esta funcionalidade pode ajudar a controlar a utilização, mas não é garantido que previna custos adicionais. Para obter melhores resultados, defina um limite conservador</string>
   <string name="delete">Eliminar</string>
-  <string name="deleted_apps">Aplicações Eliminadas</string>
+  <string name="deleted_apps">Aplicações eliminadas</string>
   <string name="delete_from_manual_item_white_list">Remover de excepções</string>
   <string name="descx_cleanuping_item">A optimizar %s</string>
   <string name="descx_finish_cleanup_cache">A finalizar optimização da cache</string>
@@ -297,7 +297,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas</string>
   <string name="finger_remind_message">Também pode utilizar as impressões digitais com o Bloqueio de Aplicações</string>
   <string name="fingerprint_identify_msg">Digitalizar a sua impressão digital</string>
-  <string name="fingerprint_not_identified_msg">Para desbloquear o seu dispositivo introduza a sua palavra-passe</string>
+  <string name="fingerprint_not_identified_msg">Para desbloquear o dispositivo introduza a sua palavra-passe</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueio com impressão digital</string>
   <string name="fingerprint_to_lock">Desbloquear com impressão digital</string>
@@ -616,6 +616,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="online_songs">Música</string>
   <string name="open_now">Permitir que a aplicação utilize dados móveis</string>
   <string name="operator_diagnostic">Diagnósticos da operadora</string>
+  <string name="operator_mi_sim">SIM Mi</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -856,6 +857,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_leisure_no_overlay">Ligado</string>
   <string name="pref_leisure_not_opened">Desligado</string>
   <string name="pref_manual_adjust">Definir estatísticas de utilização de dados manualmente</string>
+  <string name="pref_mi_sim_settings">Definições do SIM Mi</string>
   <string name="pref_month_begin_date">Ciclo utilização de dados</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Definições adicionais</string>
@@ -952,7 +954,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="roaming_not_start_title">Roaming</string>
   <string name="roaming_start_body">Toque para ver dados em roaming das excepções</string>
   <string name="roaming_start_title">Dados em roaming</string>
-  <string name="root">Acesso Root</string>
+  <string name="root">Acesso root</string>
   <string name="root_apply_step_1">Conceder acesso root a %s?</string>
   <string name="root_apply_step_2">Ao conceder acesso root às aplicações pode causar instabilidade no dispositivo</string>
   <string name="root_apply_step_3">A segurança dos seus dados de utilizador (contas, palavras-passe e mensagens) podem ser comprometidos</string>
@@ -1323,6 +1325,7 @@ Dados restantes incluem dados que foram passados do mês anterior."</string>
   <string name="usbsharenet_pc_exception_summary">Não é possível ligar à Internet partilhada por USB. Verifique a ligação à Internet do computador</string>
   <string name="usb_install_desc">Instalar esta aplicação via USB?</string>
   <string name="virus_list_header_title">%d vírus detectados</string>
+  <string name="warning_open_mi_sim">Ligar SIM Mi</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
   <string name="wifi_exception_title">Testar rede Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Sem ligação à Internet</string>
