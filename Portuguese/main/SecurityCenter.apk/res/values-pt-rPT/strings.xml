@@ -8,8 +8,11 @@
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de bateria</string>
   <string name="ac_enable_title">Ligar Bloqueio de Aplicações</string>
+  <string name="ac_enter_applock">Entrar no Bloqueio de Aplicações</string>
   <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de Aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Exigir palavra-passe para abrir as aplicações seleccionadas</string>
+  <string name="ac_summaryOff">Desligado. Não é necessário palavra-passe para abrir aplicações</string>
+  <string name="ac_summaryOn">Desligado. É necessário palavra-passe para abrir aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital

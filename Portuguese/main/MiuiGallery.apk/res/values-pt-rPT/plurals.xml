@@ -21,16 +21,16 @@
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d fotos de %2$s para serem adicionadas</item>
-        <item quantity="one">%1$d foto de %2$s para ser adicionada</item>
+        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d fotos de %2$s para serem adicionadas</item>
-        <item quantity="one">%1$d foto de %2$s para ser adicionada</item>
+        <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
+        <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
     </plurals>
     <plurals name="album_already_share_user_count">
-        <item quantity="other">Já partilhado com %d pessoas</item>
-        <item quantity="one">Já partilhado com %d pessoa</item>
+        <item quantity="other">Partilhado com %d pessoas</item>
+        <item quantity="one">Partilhado com %d pessoa</item>
     </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Eliminar %1$d fotos %2$s?</item>
@@ -45,8 +45,8 @@
         <item quantity="one">Eliminar %1$d item %2$s?</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d itens no total)</item>
-        <item quantity="one">(%d item no total)</item>
+        <item quantity="other">(%d itens)</item>
+        <item quantity="one">(%d item)</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="other">%d fotos</item>
@@ -79,5 +79,13 @@
     <plurals name="number_of_uploading_images_and_videos">
         <item quantity="other">A fazer cópia de %1$d itens…</item>
         <item quantity="one">A fazer cópia de item…</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">%1$d ficheiros transferidos em erro</item>
+        <item quantity="one">%1$d ficheiro transferido em erro</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d itens seleccionados</item>
+        <item quantity="one">%d item seleccionado</item>
     </plurals>
 </resources>

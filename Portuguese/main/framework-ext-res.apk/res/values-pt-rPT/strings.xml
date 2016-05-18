@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Adicionar frases frequentes</string>
   <string name="all_call_livetalk_enable">A utilizar pacote de carregamento para chamadas nacionais e internacionais</string>
   <string name="all_call_livetalk_remain_mins">Minutos restantes: (%1$s nacionais) ou (%2$s internacionais)</string>
   <string name="alwaysUsePrompt">Memorizar esta escolha?</string>
@@ -35,6 +36,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Agora não</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ir para Definições</string>
   <string name="fp_nav_center_action_choose_dlg_title">Toque rápido para o ecrã inicial</string>
+  <string name="frequent_phrases">Frases frequentes</string>
   <string name="global_actions_airplane_mode">Modo de Avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>

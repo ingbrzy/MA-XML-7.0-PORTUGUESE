@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MiPlay</string>
+  <string name="cancel">Cancelar</string>
+  <string name="media_feature_projection">Espelhar ecrã</string>
+  <string name="media_status_error">Erro</string>
+  <string name="media_status_started">Ligado</string>
+  <string name="media_status_starting">A ligar…</string>
+  <string name="media_status_stopped">Parado</string>
+  <string name="media_status_stopping">A parar…</string>
+  <string name="search_for_devices">Actualizar</string>
+  <string name="wifi_display_autonomous_go">Activar GO autónomo</string>
+  <string name="wifi_display_certification_heading">Certificação</string>
+  <string name="wifi_display_details">Definições de visualização</string>
+  <string name="wifi_display_enable_menu_item">Activar visualização sem fios</string>
+  <string name="wifi_display_listen_channel">Canal de escuta</string>
+  <string name="wifi_display_listen_mode">Activar modo de escuta</string>
+  <string name="wifi_display_no_devices_found">Sem dispositivos próximos</string>
+  <string name="wifi_display_operating_channel">Canal de operações</string>
+  <string name="wifi_display_options_done">Concluído</string>
+  <string name="wifi_display_options_forget">Esquecer</string>
+  <string name="wifi_display_options_name">Nome</string>
+  <string name="wifi_display_options_title">Opções de visualização sem fios</string>
+  <string name="wifi_display_pause">Pausar</string>
+  <string name="wifi_display_resume">Resumir</string>
+  <string name="wifi_display_session_info">Informação da sessão</string>
+  <string name="wifi_display_settings_title">Transmitir</string>
+  <string name="wifi_display_status_connected">Ligado</string>
+  <string name="wifi_display_status_connecting">A ligar</string>
+  <string name="wifi_display_status_in_use">Em utilização</string>
+  <string name="wifi_display_status_not_available">Indisponível</string>
+  <string name="wifi_display_wps_config">Configuração WPS</string>
+</resources>

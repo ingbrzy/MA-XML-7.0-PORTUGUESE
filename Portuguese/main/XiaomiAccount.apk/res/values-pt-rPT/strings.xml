@@ -12,7 +12,8 @@
   <string name="account_bind_settings">Contas</string>
   <string name="account_binded_phone">Telefone %d</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
-  <string name="account_empty_user_name">Introduzir o seu nome de utilizador da Conta Mi</string>
+  <string name="account_empty_user_name">Introduzir o seu utilizador da Conta Mi</string>
+  <string name="account_error_all_space_user_name">O nome não pode estar vazio</string>
   <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
   <string name="account_error_shorter_user_name">O nome tem de ter no mínimo 2 caracteres</string>
   <string name="account_error_user_birthday">A data de nascimento é inválida</string>
@@ -83,13 +84,14 @@
   <string name="continue_action">Continuar</string>
   <string name="cta_declaration_agree_and_continue">Concordar</string>
   <string name="cta_declaration_exit">Sair</string>
-  <string name="cta_declaration_ignore">Ignorar</string>
-  <string name="cta_declaration_message">Para iniciar sessão na sua Conta Mi, é necessário ligar à Internet, localizar o seu dispositivo e ligar a Nuvem Mi. Para fazer cópia dos seus dados pessoais, esta aplicação necessita de aceder aos seus contactos, mensagens SMS e MMS, registos de chamadas e gravações. Não vamos utilizar estes dados para fins comerciais ou partilhá-los com terceiros. Após iniciar sessão na Conta Mi, Mi VIP e Números de Serviço vão ligar à Internet</string>
-  <string name="cta_declaration_title">Termos de Utilizador</string>
+  <string name="cta_declaration_ignore">Não mostrar novamente</string>
+  <string name="cta_declaration_message">Para iniciar sessão na sua Conta Mi, é necessário ligar à Internet. Os serviços de localização e a sincronização com a Nuvem Mi vão ser ligados. Para fazer cópia dos seus dados, esta aplicação necessita de aceder aos seus contactos, mensagens, registos de chamadas e gravações. Não vamos utilizar os seus dados para fins comerciais ou partilhá-los com terceiros. Após iniciar sessão na Conta Mi, os serviços Mi vão ligar-se à Internet</string>
+  <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_location_title">Localização actual</string>
   <string name="data_keep_in_device">Manter neste dispositivo</string>
   <string name="data_wipe_from_device">Eliminar a partir deste dispositivo</string>
   <string name="delete_action">Eliminar</string>
+  <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">Não foi possível remover dispositivo</string>
   <string name="delete_device_notice">Depois do dispositivo ser removido a sua sessão da Conta Mi vai ser terminada automaticamente. Não será possível utilizar este dispositivo para aceder a fotos, mensagens ou outros conteúdos armazenados na sua conta</string>
