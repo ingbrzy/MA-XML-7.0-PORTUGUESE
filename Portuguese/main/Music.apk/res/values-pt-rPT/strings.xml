@@ -43,7 +43,7 @@
   <string name="all_tracks_short">Todas as músicas</string>
   <string name="already_download">A transferir…</string>
   <string name="already_favorited">Já foi adicionada aos favoritos</string>
-  <string name="android_sdk_too_low">Actualizar a versão do Android primeiro</string>
+  <string name="android_sdk_too_low">Actualizar a versão do Android para poder actualizar Música</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s transferências</string>
   <string name="app_label">Transferências</string>
@@ -95,7 +95,7 @@
   <string name="close_music_time">"Tempo restante: "</string>
   <string name="cloud_enable">Sincronizar música com a Nuvem Mi</string>
   <string name="cloud_settings">Definições de sincronização</string>
-  <string name="cloud_space_full">Sem espaço de armazenamento disponível</string>
+  <string name="cloud_space_full">Armazenamento na Nuvem Mi cheio</string>
   <string name="cloud_space_full_message">Sem espaço na sua Nuvem Mi para adicionar mais músicas. Para obter mais espaço actualize a sua Conta Mi</string>
   <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas</string>
   <string name="confirm_delete_the_download_item_message">Eliminar estas transferências?</string>
@@ -121,12 +121,12 @@
   <string name="desktop_lyric_button_close">Fechar</string>
   <string name="desktop_lyric_button_lock">Bloquear</string>
   <string name="desktop_lyric_color">Cor</string>
-  <string name="desktop_lyric_dialog_msg">Abrir em A minha música-Definições-Definições avançadas</string>
+  <string name="desktop_lyric_dialog_msg">Ligar ou desligar as letras no ecrã inicial em Música &gt; Definições &gt; Definições avançadas</string>
   <string name="desktop_lyric_dialog_positive_button">Experimentar agora</string>
-  <string name="desktop_lyric_dialog_title">Experimentar letras no ambiente de trabalho</string>
-  <string name="desktop_lyric_lock_toast">Bloqueado. Utilize o Mini Leitor na barra de notificações para desbloquear</string>
-  <string name="desktop_lyric_setting_summary">Mostrar as letras flutuantes no ambiente de trabalho</string>
-  <string name="desktop_lyric_setting_title">Letras no ambiente de trabalho</string>
+  <string name="desktop_lyric_dialog_title">Experimentar agora</string>
+  <string name="desktop_lyric_lock_toast">Bloqueado. Pode desbloquear Música na barra de notificações</string>
+  <string name="desktop_lyric_setting_summary">Mostrar letras no ecrã inicial</string>
+  <string name="desktop_lyric_setting_title">Letras no ecrã inicial</string>
   <string name="desktop_lyric_textsize">Texto</string>
   <string name="device_connected">Ligado</string>
   <string name="device_not_connected">Não ligado</string>
@@ -203,7 +203,7 @@
   <string name="download_method">Transferir</string>
   <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
   <string name="download_paused">Transferência em pausa</string>
-  <string name="download_paused_in_power_save_mode">O dispositivo está no modo Poupança de Bateria</string>
+  <string name="download_paused_in_power_save_mode">As transferências actuais estão em pausa devido à Poupança de Bateria</string>
   <string name="download_pending">Transferência pendente</string>
   <string name="download_processing">A transferindo…</string>
   <string name="download_quality">Transferir qualidade</string>
@@ -430,7 +430,7 @@
   <string name="network_request_error">Não foi possível ligar à rede</string>
   <string name="network_settings_error">Não foi possível ligar à rede</string>
   <string name="network_traffic">Utilização de dados</string>
-  <string name="next_time">Mais tarde</string>
+  <string name="next_time">Agora não</string>
   <string name="no_album_info">Sem informação do álbum</string>
   <string name="no_artist_info">Sem informação do artista</string>
   <string name="no_downloads">Sem transferências</string>
@@ -477,7 +477,7 @@
   <string name="order_pending">A aguardar confirmação</string>
   <string name="order_process_fail">Não foi possível autorizar a sua conta. Aguarde alguns minutos e tente novamente</string>
   <string name="other_filter">Outro</string>
-  <string name="othor_song_in_album">Outras músicas no mesmo álbum</string>
+  <string name="othor_song_in_album">Outras músicas deste álbum</string>
   <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Em pausa</string>
@@ -527,7 +527,7 @@
   <string name="project_device">Telefone Mi</string>
   <string name="project_device_mobile">Dispositivo móvel</string>
   <string name="radar">ACRCloud</string>
-  <string name="radar_click_to_retry">Toque para repetir</string>
+  <string name="radar_click_to_retry">Toque para tentar novamente</string>
   <string name="radar_fail">Sem resultados</string>
   <string name="radar_fail_by_noise">Muito barulho para reconhecer músicas</string>
   <string name="radar_listening_state">A reconhecer…</string>
@@ -549,7 +549,7 @@
   <string name="repeat_all_notif">A repetir todas as músicas</string>
   <string name="repeat_current_notif">A repetir a música actual</string>
   <string name="restart_download">Reiniciar</string>
-  <string name="restart_immediate">Reiniciar agora</string>
+  <string name="restart_immediate">Reiniciar</string>
   <string name="resume_download">Continuar</string>
   <string name="retry">Repetir</string>
   <string name="retry_after_network_available">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
@@ -610,7 +610,7 @@
   <string name="sleep_mode_canceled">O Modo de suspensão foi desligado</string>
   <string name="sleep_mode_summary">Parar a reprodução após um determinado tempo</string>
   <string name="sleep_mode_title">Temporizador</string>
-  <string name="song_exist_in_playlist">Erro na operação. A música já existe na lista de reprodução</string>
+  <string name="song_exist_in_playlist">Esta música já existe na lista de reprodução</string>
   <string name="song_is_empty">Nome da música não pode estar vazio</string>
   <string name="song_name">Música</string>
   <string name="song_not_find">Esta música não está disponível</string>
