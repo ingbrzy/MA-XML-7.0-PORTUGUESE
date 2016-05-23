@@ -43,7 +43,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
   <string name="cloud_back_up_frequence_long">A cada 7 dias</string>
   <string name="cloud_back_up_frequence_short">Todos os dias</string>
-  <string name="cloud_back_up_interval_long">em 7 dias</string>
+  <string name="cloud_back_up_interval_long">a cada 7 dias</string>
   <string name="cloud_back_up_interval_short">todos os dias</string>
   <string name="cloud_back_up_no_network_warn">Não é possível ligar à rede</string>
   <string name="cloud_back_up_ok_btn">OK</string>
@@ -53,7 +53,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Nuvem
   <string name="cloud_back_up_share_activity_title">Actualizar Conta Mi</string>
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup_detail_frequence">Programação de cópias</string>
-  <string name="cloud_backup_detail_frequence_day">Copiar a cada %1$s</string>
+  <string name="cloud_backup_detail_frequence_day">Fazer cópias %1$s</string>
   <string name="cloud_backup_detail_manage">Gerir cópias</string>
   <string name="cloud_backup_detail_manage_summary">Cópias: %1$s Tamanho: %2$s</string>
   <string name="cloud_backup_detail_state">Cópias da Nuvem Mi</string>
