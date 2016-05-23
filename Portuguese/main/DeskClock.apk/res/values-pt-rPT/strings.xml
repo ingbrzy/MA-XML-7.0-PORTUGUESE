@@ -8,7 +8,7 @@
   <string name="alarm_ascending_mode_title">Volume ascendente</string>
   <string name="alarm_disabled">Desligado</string>
   <string name="alarm_in_silent_mode_title">Alarme em modo de silêncio</string>
-  <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para os alarmes definidos no relógio</string>
+  <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para os alarmes definidos no Relógio</string>
   <string name="alarm_label_hint">Nome do alarme</string>
   <string name="alarm_list_title">Alarme</string>
   <string name="alarm_notify_snooze_label">Suspender %s</string>
@@ -35,7 +35,7 @@
   <string name="control_set_alarm">Definir alarme</string>
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
   <string name="day">1 dia</string>
-  <string name="day_concat">". "</string>
+  <string name="day_concat">", "</string>
   <string name="days">%s dias</string>
   <string name="default_alarm_alert">Definir toque predefinido</string>
   <string name="default_alarm_title">Toque predefinido</string>
@@ -68,7 +68,7 @@
   <string name="legal_workday_message">" (excepto feriados e férias)"</string>
   <string name="loading_ringtone">A carregar o toque…</string>
   <string name="menu_add_worldclock">Adicionar cidade</string>
-  <string name="menu_desk_clock">Relógio de secretária</string>
+  <string name="menu_desk_clock">Relógio</string>
   <string name="menu_edit_timer_item">Editar tarefa do temporizador</string>
   <string name="menu_item_dock_settings">Definições de ligação</string>
   <string name="menu_item_sort_by_gmt_offset">Ordenar por data</string>

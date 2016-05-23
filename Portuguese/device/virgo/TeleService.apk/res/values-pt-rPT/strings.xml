@@ -930,7 +930,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="puk2_requested">Código errado, o cartão SIM está bloqueado. Introduzir PUK2</string>
   <string name="puk_label">Introduzir código PUK</string>
   <string name="puk_lock_warning">"
-O cartão SIM será eliminado após outra tentativa falhada."</string>
+O cartão SIM será bloqueado após nova tentativa falhada"</string>
   <string name="puk_requested">Palavra-passe incorrecta, PIN está bloqueado. Necessário PUK</string>
   <string name="puk_unlock_failed">Desbloqueio com PUK sem sucesso</string>
   <string name="puk_unlock_success">Desbloqueio com PUK com sucesso</string>

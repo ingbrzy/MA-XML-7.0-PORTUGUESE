@@ -13,7 +13,7 @@
   <string name="account_binded_phone">Telefone %d</string>
   <string name="account_crop_user_avatar">Cortar foto</string>
   <string name="account_empty_user_name">Introduzir o seu utilizador da Conta Mi</string>
-  <string name="account_error_all_space_user_name">O nome não pode estar vazio</string>
+  <string name="account_error_all_space_user_name">O nome não pode conter apenas espaços</string>
   <string name="account_error_longer_user_name">O nome não pode exceder 20 caracteres</string>
   <string name="account_error_shorter_user_name">O nome tem de ter no mínimo 2 caracteres</string>
   <string name="account_error_user_birthday">A data de nascimento é inválida</string>
@@ -128,7 +128,7 @@
   <string name="forward_to_bind">Adicionar</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
-  <string name="i_know">Eu sei</string>
+  <string name="i_know">Percebi</string>
   <string name="ignore">Agora não</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
   <string name="just_a_second">Aguarde…</string>
@@ -180,7 +180,7 @@ Para activar a sua conta siga o
   <string name="passport_downlink_reg">Criar conta utilizando um número de telefone</string>
   <string name="passport_email">Endereço de email</string>
   <string name="passport_email_or_id_hint_text">Endereço de email ou ID da Conta Mi</string>
-  <string name="passport_email_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_email_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_error_device_id">Não foi possível obter o ID do dispositivo</string>
   <string name="passport_error_dup_email">O email introduzido já está associado a outra conta</string>
   <string name="passport_error_dup_phone">Este número de telefone já está associado a outra conta</string>
@@ -206,7 +206,7 @@ Para activar a sua conta siga o
   <string name="passport_error_verify_code">O código que introduziu está incorrecto</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_device_activate_account">Activar conta</string>
-  <string name="passport_find_device_display_id">Número de desbloqueio:%s</string>
+  <string name="passport_find_device_display_id">Número de desbloqueio: %s</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para redefinir a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
   <string name="passport_forget_password_no_underline">Esqueceu a palavra-passe?</string>
@@ -256,7 +256,7 @@ Para activar a sua conta siga o
   <string name="passport_reg_prompt">Não tem uma Conta Mi? Crie uma gratuitamente</string>
   <string name="passport_reg_sms_send_prompt">Enviar código de verificação para %s</string>
   <string name="passport_reg_success">Conta criada</string>
-  <string name="passport_reg_success_summary">%1$s foi associada com a sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
+  <string name="passport_reg_success_summary">%1$s foi adicionada à sua conta. Pode utilizá-la para iniciar sessão ou para redefinir a sua palavra-passe</string>
   <string name="passport_reg_type_email">Utilizar endereço de email</string>
   <string name="passport_reg_type_other_ways"><u>Utilizar o seu endereço de email ou um número alternativo</u></string>
   <string name="passport_reg_type_other_ways_title">Criar uma Conta Mi</string>
@@ -298,7 +298,7 @@ Para activar a sua conta siga o
   <string name="passport_uplink_slot1_reg">Utilizar SIM 1</string>
   <string name="passport_uplink_slot2_reg">Utilizar SIM 2</string>
   <string name="passport_use_generated_pwd_message">Certifique-se que memoriza a sua palavra-passe. Pode utilizá-la para iniciar sessão noutros serviços Mi</string>
-  <string name="passport_use_generated_pwd_title">Memorizar a sua palavra-passe!</string>
+  <string name="passport_use_generated_pwd_title">Memorizar a sua palavra-passe</string>
   <string name="passport_user_agreement">Termos de Utilização</string>
   <string name="passport_user_agreement_p1">"Concordar com "</string>
   <string name="passport_user_agreement_p2">Termos de Utilização</string>

@@ -28,16 +28,16 @@
        <item>Diariamente</item>
        <item>De seg. a sex.</item>
        <item>Personalizar</item>
-    </string-array>     
+    </string-array>
     <string-array name="alarm_set">
-       <item>Alarme definido para daqui a menos de um minuto</item>
-       <item>Alarme definido para daqui a %1$s</item>
-       <item>Alarme definido para daqui a %2$s</item>
-       <item>Alarme definido para daqui a %1$s e %2$s</item>
-       <item>Alarme definido para daqui a %3$s</item>
-       <item>Alarme definido para daqui a %1$s e %3$s</item>
-       <item>Alarme definido para daqui a %2$s e %3$s</item>
-       <item>Alarme definido para daqui a %1$s, %2$s e %3$s</item>
+       <item>Alarme vai desligar daqui a menos de um minuto</item>
+       <item>Alarme vai desligar daqui a %1$s</item>
+       <item>Alarme vai desligar daqui a %2$s</item>
+       <item>Alarme vai desligar daqui a %1$s e %2$s</item>
+       <item>Alarme vai desligar daqui a %3$s</item>
+       <item>Alarme vai desligar daqui a %1$s e %3$s</item>
+       <item>Alarme vai desligar daqui a %2$s e %3$s</item>
+       <item>Alarme vai desligar daqui a %1$s, %2$s e %3$s</item>
     </string-array>
     <string-array name="auto_silence_entries">
        <item>Nunca</item>

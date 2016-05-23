@@ -23,6 +23,7 @@
   <string name="album_already_exists">Já existe um álbum como o mesmo nome</string>
   <string name="album_already_forced_top">Já está no topo</string>
   <string name="album_camera_name">Câmara</string>
+  <string name="album_detail_clear_local_page_empty">Sem cópias de fotos ou vídeos para eliminar</string>
   <string name="album_detail_page_empty">Sem fotos ou vídeos</string>
   <string name="album_faces_name">Pessoas</string>
   <string name="album_member">Membros do álbum %s</string>
@@ -92,8 +93,11 @@
   <string name="baby_suffix">Bebé</string>
   <string name="backup_automatically_summary">Fazer cópias de fotos e vídeos de todos os dispositivos para a Nuvem Mi. Vai poder navegar, ordenar, editar e partilhar fotos e vídeos em todos os seus dispositivos</string>
   <string name="backup_automatically_title">Copiar e sincronizar automaticamente</string>
+  <string name="backup_detail_page_title">Cópias da Nuvem Mi</string>
   <string name="backup_only_in_wifi">Utilizar apenas Wi-Fi para fazer cópias de fotos ou vídeos</string>
   <string name="backup_only_in_wifi_summary">Nunca utilizar dados móveis para fazer cópias de fotos ou vídeos</string>
+  <string name="backup_waiting_button_text">Fazer cópia agora</string>
+  <string name="backuping">A fazer cópia de %1$d/%2$d</string>
   <string name="begin_share">Foi criado o álbum de bebé \"%s\". Pode agora partilhá-lo</string>
   <string name="begin_share_toast">Criar um álbum em separado para esta criança antes de o partilhar?</string>
   <string name="black_white">P&amp;B plano</string>
@@ -118,6 +122,7 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
   <string name="choose_some_people">Escolher álbum com %s</string>
+  <string name="clear_local_photo_direction">Se eliminar fotos ou vídeos do seu dispositivo, elas ainda vão estar disponíveis na Nuvem Mi</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="cloud_camera_display_name">Fotos da câmara</string>
@@ -128,6 +133,7 @@
   <string name="cloud_guide_welcome_title">Nuvem Mi</string>
   <string name="cloud_screenshots_display_name">Capturas de ecrã</string>
   <string name="cloud_settings">Nuvem Mi</string>
+  <string name="cloud_space_full_button_text">Obter mais espaço na Nuvem Mi</string>
   <string name="cloudfolder_cannot_start_with">"O nome do álbum não pode iniciar com '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"O nome do álbum não pode conter '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduzir um nome de álbum</string>
@@ -197,11 +203,11 @@
   <string name="documentary">Documentário</string>
   <string name="doodle">Riscar</string>
   <string name="doodle_tooltip">Toque para riscar</string>
-  <string name="download_retry_message">Erro ao transferir imagens</string>
-  <string name="download_retry_text">Repetir</string>
-  <string name="download_retry_title">Erro na transferência</string>
+  <string name="download_retry_message">Não foi possível transferir ficheiros. Verifique a ligação e tente novamente</string>
+  <string name="download_retry_text">Tentar novamente</string>
+  <string name="download_retry_title">Não foi possível transferir ficheiros</string>
   <string name="download_tip">Transferir</string>
-  <string name="download_title">Os ficheiros estão a ser preparados</string>
+  <string name="download_title">A preparar ficheiros…</string>
   <string name="download_without_wifi_msg">Utilizar dados móveis para transferir fotos vai aumentar a sua utilização de dados. Caso exceda o limite do seu pacote de dados, a sua operadora poderá cobrar tarifas adicionais</string>
   <string name="download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="duotone">Dupla tonalidade</string>
@@ -339,6 +345,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="loading_suspend">Transferência em pausa. Será retomada quando Wi-Fi estiver disponível</string>
   <string name="loading_video">A transferir vídeo…</string>
   <string name="loading_video_thumbnail">A transferir capa do vídeo…</string>
+  <string name="local_space_full_button_text">Limpar espaço</string>
   <string name="login_and_enable_service">Iniciar sessão com Conta Mi</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Prima e segure para refocar</string>
@@ -357,10 +364,11 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="must_pick_file">Seleccionar uma foto</string>
   <string name="name_split">", "</string>
   <string name="need_to_turn_on_network">Não tem uma ligação à Internet</string>
-  <string name="need_to_turn_on_sync">Ligar as cópias para a Nuvem Mi primeiro</string>
+  <string name="need_to_turn_on_sync">Ligar a sincronização com a Nuvem Mi primeiro</string>
   <string name="need_to_turn_on_wlan">Ligar ao Wi-Fi primeiro</string>
   <string name="negative">Negativo</string>
   <string name="network_connected_rescan">Não é possível ligar à rede</string>
+  <string name="network_unsatisfied_button_text">Ligar à rede</string>
   <string name="next">Seguinte</string>
   <string name="no">Não</string>
   <string name="no_map_app">Não foi encontrada nenhuma aplicação lidar com esta acção</string>
@@ -379,9 +387,11 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_detail">Detalhes</string>
   <string name="operation_disable_auto_upload">Desligar sincronização com a Nuvem Mi</string>
+  <string name="operation_do_delete_local_thumnail">Eliminar do dispositivo</string>
   <string name="operation_download">Transferir foto (%s)</string>
   <string name="operation_edit">Editar</string>
   <string name="operation_enable_auto_upload">Ligar sincronização com a Nuvem Mi</string>
+  <string name="operation_enter_delte_thumbnail">Eliminar cópias de fotos e vídeos do dispositivo</string>
   <string name="operation_failed">A operação falhou</string>
   <string name="operation_force_top">Fixar</string>
   <string name="operation_hide">Ocultar</string>
@@ -461,6 +471,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="relation_text_maternal_grandmother">Avó Materna</string>
   <string name="relation_text_mother">Mãe</string>
   <string name="relation_with_you">Escolher relação</string>
+  <string name="release_space_finish_format">Libertou %s de armazenamento</string>
   <string name="remove_from_secret_fail">Não foi possível remover álbum dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_failed_with_reason_and_count">%2$s itens podem ser removidos do álbum oculto. %1$s</string>
@@ -541,6 +552,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="sync_battery_low">Bateria fraca</string>
   <string name="sync_cloud_space_full">Sem espaço suficiente na Nuvem Mi</string>
   <string name="sync_diabled_toast">A sincronização está desligada</string>
+  <string name="sync_off_button_text">Liar sincronização</string>
   <string name="system_album">Álbum de sistema</string>
   <string name="temperature">Tonalidade</string>
   <string name="terabyteShort">TB</string>
