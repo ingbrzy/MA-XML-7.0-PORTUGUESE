@@ -30,14 +30,14 @@
        <item>Personalizar</item>
     </string-array>
     <string-array name="alarm_set">
-       <item>Alarme vai desligar daqui a menos de um minuto</item>
-       <item>Alarme vai desligar daqui a %1$s</item>
-       <item>Alarme vai desligar daqui a %2$s</item>
-       <item>Alarme vai desligar daqui a %1$s e %2$s</item>
-       <item>Alarme vai desligar daqui a %3$s</item>
-       <item>Alarme vai desligar daqui a %1$s e %3$s</item>
-       <item>Alarme vai desligar daqui a %2$s e %3$s</item>
-       <item>Alarme vai desligar daqui a %1$s, %2$s e %3$s</item>
+       <item>Alarme vai tocar daqui a menos de um minuto</item>
+       <item>Alarme vai tocar daqui a %1$s</item>
+       <item>Alarme vai tocar daqui a %2$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %2$s</item>
+       <item>Alarme vai tocar daqui a %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %2$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s, %2$s e %3$s</item>
     </string-array>
     <string-array name="auto_silence_entries">
        <item>Nunca</item>

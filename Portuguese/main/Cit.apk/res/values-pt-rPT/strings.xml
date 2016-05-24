@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="camerainfo">Informações da câmara</string>
   <string name="cit_OTG_plugin_check_summary">Quando um dispositivo OTG está ligado, o texto \"Dispositivo USB OTG detectado\" deverá ser mostrado abaixo.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecção)</string>
   <string name="cit_OTG_plugout_check_summary">Quando um dispositivo OTG é removido, o texto \"Dispositivo USB OTG removido\" deverá ser mostrado abaixo.</string>
@@ -333,4 +334,8 @@ Vire o telefone. Fale para o microfone frontal. Deve ouvir a sua voz no altifala
 Vire o telefone. Fale para microfone superior. Deve ouvir a sua voz no altifalante"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Teste de funcionamento do microfone superior</string>
   <string name="cit_yellow_torch_on">Ligar luz de LED amarela</string>
+  <string name="lcminfo">Informações LCM</string>
+  <string name="testing">A executar AutoTeste...</string>
+  <string name="tp_color">Cor TP:</string>
+  <string name="tp_version">Versão TP:</string>
 </resources>

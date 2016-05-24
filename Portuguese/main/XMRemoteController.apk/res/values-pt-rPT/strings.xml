@@ -23,6 +23,7 @@
   <string name="add_new_control">Adicionar controlo remoto</string>
   <string name="add_new_tv">Adicionar TV…</string>
   <string name="add_new_tv_power_only">Corresponder o botão Ligar/Desligar…</string>
+  <string name="adjust_auto_tune_interval">Ajuste automático do intervalo</string>
   <string name="agree">Concordar</string>
   <string name="airkan_disconnect">Dispositivos não ligados</string>
   <string name="airkan_disconnect_display_name">Dispositivos não ligados</string>
@@ -32,10 +33,18 @@
   <string name="all_catogory_name">Tudo</string>
   <string name="already_muted">Silêncio</string>
   <string name="anion">Ionizador</string>
+  <string name="apk_file_list_view_header">Total de %d pacotes</string>
+  <string name="apk_files_list_title">Instalação de pacotes</string>
   <string name="app_clear">Limpar dados</string>
   <string name="app_detail_comments">Análises</string>
+  <string name="app_detail_content_hidemore_text">Fechar</string>
+  <string name="app_detail_content_showmore_text">Expandir</string>
+  <string name="app_detail_content_title_text">Aplicações</string>
   <string name="app_detail_info">Ver detalhes</string>
+  <string name="app_detail_install_forbox">Box emparelhada</string>
+  <string name="app_detail_install_fortv">TV emparelhada</string>
   <string name="app_detail_no_comments">Sem análises</string>
+  <string name="app_detail_recomments_title_text">Aplicações relacionadas</string>
   <string name="app_detail_title_info">Resumo</string>
   <string name="app_detail_title_recomment">Aplicações relacionadas</string>
   <string name="app_exit_tip">Prima voltar novamente para sair</string>
@@ -45,6 +54,7 @@
   <string name="app_install">Instalar na Mi TV</string>
   <string name="app_install_count">%1$s instalado</string>
   <string name="app_installing">A instalar…</string>
+  <string name="app_lastest">Actualizadas</string>
   <string name="app_listitem_installing">A instalar…</string>
   <string name="app_listitem_waiting">A aguardar pela instalação</string>
   <string name="app_manager_get_data_failed">Não foi possível obter a informação da aplicação</string>
@@ -242,7 +252,7 @@
   <string name="get_location_fail_tip">Não foi possível definir localização. Escolha uma cidade</string>
   <string name="guid_one">· Ligar à mesma rede Wi-Fi que o dispositivo de destino</string>
   <string name="guid_three">· Alguns controlos podem não estar disponíveis se a sua TV ou set-top box não suportar Android</string>
-  <string name="guid_two">· Desligar isolamento do PA do router</string>
+  <string name="guid_two">· A sua MiTV vai ser detectada e mostrada nesta página</string>
   <string name="guid_zero">. O seu dispositivo não suporta dispositivos IR</string>
   <string name="guide">Guia</string>
   <string name="has_installed">Instalado</string>
@@ -292,6 +302,7 @@
   <string name="ir_device_stb">Set-top box</string>
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_wifi">Controlo remoto Wi-Fi</string>
+  <string name="ir_not_supported_devices">*Alguns dispositivos MiTV/Box não suportam IR. É recomendado o controlo remoto por Wi-Fi</string>
   <string name="jump_to_mivideo">Ver num dispositivo móvel</string>
   <string name="just_now">Agora mesmo</string>
   <string name="just_used">Agora mesmo</string>
@@ -451,6 +462,8 @@ aguarde um momento depois da acção."</string>
   <string name="none">Vazio</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_respond">Sem resposta</string>
+  <string name="notification_found_device_text">Pode utilizar o C.Remoto Mi para o controlar</string>
+  <string name="notification_found_device_title">Encontrado um %1$s</string>
   <string name="notification_found_shared_remote_text">Toque para o controlar</string>
   <string name="notification_found_shared_remote_title">Encontrou um %1$s próximo</string>
   <string name="notification_str1">\"</string>
@@ -703,6 +716,8 @@ Para activar a sua conta, siga o
   <string name="search_page_clear_history">Limpar histórico</string>
   <string name="search_rank">Pesquisar palavras-chave</string>
   <string name="search_video_app_hint">Pesquisar</string>
+  <string name="seconds">Segundos</string>
+  <string name="select_all">Seleccionar tudo</string>
   <string name="select_area">Escolher localização</string>
   <string name="select_brand">Seleccionar %s</string>
   <string name="select_dvb_carrier">Escolher provedor de serviço</string>
@@ -794,6 +809,7 @@ Para activar a sua conta, siga o
   <string name="succeed_content">Adicionado %3$s %4$s com sucesso</string>
   <string name="succeed_finish">Concluído</string>
   <string name="succeed_title">Emparelhado</string>
+  <string name="suggest_use_wifi_rc">*O controlo remoto por Wi-Fi tem mais funções tais como pesquisar vídeos, instalar aplicações, etc.</string>
   <string name="supported_by_kookong">Suporte técnico por Youku</string>
   <string name="supporting_soon">Brevemente</string>
   <string name="switch_place">Escolher cidade</string>
@@ -801,6 +817,7 @@ Para activar a sua conta, siga o
   <string name="temperature">Temperatura</string>
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Erro ao iniciar aplicação</string>
+  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Temporizador</string>
   <string name="timer_turn_off">Temporizador desligado</string>
   <string name="timer_turn_on">Temporizador ligado</string>
@@ -871,6 +888,7 @@ Para alterar, premir longamente o botão Ligar/Desligar da TV"</string>
   <string name="volume">Volume</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
+  <string name="wifi_rc_create_help">Como criar um controlo remoto Wi-Fi</string>
   <string name="wind_direct">Fixo</string>
   <string name="wind_direct_automatic">Balanceado</string>
   <string name="wind_direct_down">Baixo</string>
