@@ -45,26 +45,26 @@
         <item>Quando o ecrã está desligado</item>
     </string-array>
     <string-array name="app_groups">
-        <item>seleccionados</item>
-        <item>desmarcados</item>
-        <item>outros seleccionados</item>
+        <item>Neste modo</item>
+        <item>Não seleccionados</item>
+        <item>Seleccionados noutros modos</item>
     </string-array>
     <string-array name="hmode_app_groups">
         <item>Personalizadas</item>
-        <item>Sugeridas</item>
+        <item>Poupança de bateria</item>
     </string-array>
     <string-array name="power_checker_group_prefix">
-         <item>a utilizar</item>
-         <item></item>
-         <item></item>
+         <item>Agora</item>
+         <item>Em segundo plano</item>
+         <item>Recentemente</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
         <item>Kernel WakeLock</item>
         <item>WakeLock</item>
-        <item>WIFI scan</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Wake Up</item>
+        <item>A pesquisar por Wi-Fi</item>
+        <item>A utilizar GPS</item>
+        <item>A ocupar a CPU</item>
+        <item>A acordar o dispositivo frequentemente</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
         <item>Kernel WakeLock</item>
@@ -76,8 +76,8 @@
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>demasiado neste momento</item>
-        <item>demasiado neste dia</item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="invisible_app_groups">
         <item>Seleccionados</item>
