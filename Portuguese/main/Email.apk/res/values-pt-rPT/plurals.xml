@@ -61,8 +61,8 @@
         <item quantity="one">%1$d conversa removida da pasta Spam</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">%1$d</b> conversas reportadas como fraude</item>
-        <item quantity="one"><b>%1$d</b> conversa reportada como fraude</item>
+        <item quantity="other">%1$d conversas reportadas como fraude</item>
+        <item quantity="one">%1$d conversa reportada como fraude</item>
     </plurals>
     <plurals name="conversation_spammed">
         <item quantity="other">%1$d conversas reportadas como spam</item>
