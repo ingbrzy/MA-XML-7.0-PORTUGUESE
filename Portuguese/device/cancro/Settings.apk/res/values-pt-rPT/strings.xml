@@ -118,7 +118,7 @@ Nota: Toque três vezes para ampliar funciona em todo o sistema excepto na barra
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
   <string name="add_fingerprint_put_finger_msg">Coloque o seu dedo no sensor e retire após sentir uma vibração</string>
   <string name="add_fingerprint_put_finger_title">Adicionar impressão digital</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo levemente e coloque-o no sensor novamente para adicionar todas as diferentes partes da sua impressão digital</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mova o seu dedo levemente</string>
   <string name="add_fingerprint_text">Adicionar impressão digital</string>
   <string name="add_fingerprint_toast_text">Coloque o seu dedo no sensor</string>
   <string name="adding_profile_owner_warning">"Ao proceder, o seu Utilizador vai ser gerido pelo seu Administrador que também pode guardar dados associados, por adição aos seus dados pessoais.
@@ -1740,7 +1740,7 @@ Quando liga a cópia de segurança automática, os dados do dispositivo e das ap
   <string name="lock_screen_secure_after_timeout_title">Palavra-passe exigida</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show_summary">Ir directamente para o ecrã inicial</string>
-  <string name="lock_secure_after_timeout_click_me_to_change_text">Clique para alterar</string>
+  <string name="lock_secure_after_timeout_click_me_to_change_text">Toque para alterar</string>
   <string name="lock_settings">Ecrã de bloqueio e segurança</string>
   <string name="lock_settings_common_title">Definições de bloqueio</string>
   <string name="lock_settings_picker_fingerprint_message">Escolha o método de bloqueio de ecrã de segurança</string>

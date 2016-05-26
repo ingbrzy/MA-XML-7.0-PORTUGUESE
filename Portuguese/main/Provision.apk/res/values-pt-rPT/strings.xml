@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Concordar</string>
-  <string name="alert_dialog_btn_close">Desactivar</string>
-  <string name="alert_dialog_btn_open">Permitir</string>
-  <string name="alert_dialog_msg">Algumas funcionalidades chave MIUI não vão estar funcionar como pretendido sem estas permissões (p.e. o seu dispositivo não vai poder mostrar as informações do contacto durante uma chamada). Se desactivar estas permissões, as aplicações MIUI vão pedir permissões individualmente quando necessário</string>
-  <string name="alert_dialog_title">Alguns serviços podem não funcionar</string>
   <string name="congratulation_label"/>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -27,8 +23,6 @@
   <string name="other_settings">Definições adicionais</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
-  <string name="other_settings_permission">Serviço de permissões MIUI</string>
-  <string name="other_settings_permission_summary">Dar à Nuvem Mi, Telefone e outras funcionalidades e serviços as permissões necessárias para funcionarem correctamente</string>
   <string name="other_settings_user_experience">Experiência de utilização do Programa</string>
   <string name="other_settings_user_experience_summary">Ajudar a melhorar a MIUI enviando dados do utilizador anónimos (%s)</string>
   <string name="other_settings_user_experience_summary1">ver Política de Privacidade</string>

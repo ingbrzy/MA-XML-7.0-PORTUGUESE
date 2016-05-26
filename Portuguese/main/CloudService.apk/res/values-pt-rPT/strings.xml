@@ -117,7 +117,7 @@ Se trocar de cartão SIM, será enviada automaticamente outra mensagem para reac
   <string name="license_host_unreachable">Não é possível ligar à rede. Para ver estas informações agora, vá a %s</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_hint">A carregar…</string>
-  <string name="master_alert_notif_content">Não é possível sincronizar %d itens</string>
+  <string name="master_alert_notif_content">Não é possível sincronizar</string>
   <string name="master_alert_notif_dspt_add">%s itens à aguardar para sincronizar</string>
   <string name="master_alert_notif_dspt_no">Sincronizado</string>
   <string name="master_alert_notif_title">Ligar a sincronização com a Nuvem Mi</string>
