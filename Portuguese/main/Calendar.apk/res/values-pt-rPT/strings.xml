@@ -60,11 +60,11 @@
   <string name="birthday_event_description_day_after_tomorrow">O dia depois de amanhã</string>
   <string name="birthday_event_description_day_before_yesterday">O dia antes de ontem</string>
   <string name="birthday_event_description_days_ago">%1$s dias atrás</string>
-  <string name="birthday_event_description_days_later">%1$s dias depois</string>
+  <string name="birthday_event_description_days_later">Daqui a %1$s dias</string>
   <string name="birthday_event_description_default">%4$s de %2$s %3$s de %1$s</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
-  <string name="birthday_event_description_special">%1$s é o %5$s de %3$s %4$s de %2$s</string>
+  <string name="birthday_event_description_special">%1$s é o %5$s de %2$s</string>
   <string name="birthday_event_description_today">Hoje</string>
   <string name="birthday_event_description_tomorrow">Amanhã</string>
   <string name="birthday_event_description_yesterday">Ontem</string>
@@ -184,7 +184,7 @@
   <string name="event_edit">Editar evento</string>
   <string name="event_full_date_format">dd/MM/yyyy</string>
   <string name="event_hide_more">Ocultar</string>
-  <string name="event_info_descrip">Desc\u0009\u0009\u0009</string>
+  <string name="event_info_descrip">Descrição\u0009\u0009\u0009</string>
   <string name="event_info_end">Fim\u0009\u0009\u0009</string>
   <string name="event_info_from">De</string>
   <string name="event_info_jump_to_email">Ir para o Email</string>
