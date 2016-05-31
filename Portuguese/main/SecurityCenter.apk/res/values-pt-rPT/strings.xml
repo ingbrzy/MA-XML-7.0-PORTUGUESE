@@ -7,19 +7,19 @@
   <string name="Settings_title_garbage_cleanup">Definições da Limpeza</string>
   <string name="Settings_title_network_assistants">Definições da utilização de dados</string>
   <string name="Settings_title_power_center">Definições de bateria</string>
-  <string name="ac_enable_title">Ligar Bloqueio de Aplicações</string>
-  <string name="ac_enter_applock">Entrar no Bloqueio de Aplicações</string>
-  <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de Aplicações para proteger a sua privacidade</string>
+  <string name="ac_enable_title">Ligar Bloqueio de aplicações</string>
+  <string name="ac_enter_applock">Entrar no Bloqueio de aplicações</string>
+  <string name="ac_firstUseApplock_subTitle">Utilizar Bloqueio de aplicações para proteger a sua privacidade</string>
   <string name="ac_firstUseApplock_title">Exigir palavra-passe para abrir as aplicações seleccionadas</string>
   <string name="ac_summaryOff">Desligado. Não é necessário palavra-passe para abrir aplicações</string>
   <string name="ac_summaryOn">Desligado. É necessário palavra-passe para abrir aplicações</string>
   <string name="access_control_need_password">"%s adicionado com sucesso
 "</string>
   <string name="access_control_need_to_unlock">"Digitalizar impressão digital
-ou introduzir palavra-passe do Bloqueio de Aplicações"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe do Bloqueio de Aplicações</string>
-  <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de Aplicações</string>
-  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor a palavra-passe do Bloqueio de Aplicações</string>
+ou introduzir palavra-passe do Bloqueio de aplicações"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Introduzir palavra-passe do Bloqueio de aplicações</string>
+  <string name="access_control_recording_intro_header">Desenhar padrão para adicionar Bloqueio de aplicações</string>
+  <string name="access_control_reset_by_account">Iniciar sessão na sua Conta Mi para repor a palavra-passe do Bloqueio de aplicações</string>
   <string name="activity_title_antispam">Lista de bloqueio</string>
   <string name="activity_title_antivirus">Antivírus</string>
   <string name="activity_title_apps_manager">Aplicações</string>
@@ -59,7 +59,7 @@ ou introduzir palavra-passe do Bloqueio de Aplicações"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir utilização de dados</string>
-  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar isto nas definições do Bloqueio de Aplicações</string>
+  <string name="after_the_lock_screen">A aplicação está bloqueada juntamente com o ecrã. Pode alterar isto nas definições do Bloqueio de aplicações</string>
   <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Escolher definições</string>
   <string name="antivirus_choose_engine_disable_toast">Não é possível alterar as definições enquanto a verificação está em curso</string>
@@ -298,7 +298,7 @@ Para mais informações, verifique a mensagem que recebeu da sua operadora"</str
   <string name="examination_score_80_100_with_recommend">%d itens podem ser optimizados</string>
   <string name="examination_score_80_60">Alguns itens podem ser optimizados</string>
   <string name="examination_score_has_virus">Foram detectadas algumas aplicações suspeitas</string>
-  <string name="finger_remind_message">Também pode utilizar as impressões digitais com o Bloqueio de Aplicações</string>
+  <string name="finger_remind_message">Também pode utilizar as impressões digitais com o Bloqueio de aplicações</string>
   <string name="fingerprint_identify_msg">Digitalizar a sua impressão digital</string>
   <string name="fingerprint_not_identified_msg">Para desbloquear o dispositivo introduza a sua palavra-passe</string>
   <string name="fingerprint_not_remind">Não perguntar novamente</string>
@@ -597,7 +597,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="never">1 vez</string>
   <string name="none_mi_service_app_detail">Vazio</string>
   <string name="notification_button_text_of_low_memory">Limpar</string>
-  <string name="notification_item">Proteger as aplicações seleccionadas com o Bloqueio de Aplicações</string>
+  <string name="notification_item">Proteger as aplicações seleccionadas com o Bloqueio de aplicações</string>
   <string name="notification_subtitle">Toque para ligar</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
   <string name="notification_title_cmcc_app_check">%d dias desde a última verificação</string>
@@ -977,7 +977,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="scanning_bar_system_title">A verificar sistema…</string>
   <string name="score_pts">%</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="security_app_lock">Bloqueio de Aplicações</string>
+  <string name="security_app_lock">Bloqueio de aplicações</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
   <string name="select_pattern">Seleccionar padrão</string>
