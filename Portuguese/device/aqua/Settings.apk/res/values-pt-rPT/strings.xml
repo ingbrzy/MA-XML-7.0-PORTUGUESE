@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="aaid_info">"
-Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam-no para seleccionar anúncios que vão ser mais úteis para si.
+Identificador de anúncios é um ID único e permanente do seu dispositivo. Os fornecedores utilizam ele para selecionar anúncios que serão mais úteis para você.
 
-Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida mas os anúncios úteis para si vão ser reduzidos drásticamente."</string>
-  <string name="about_settings">Acerca do telefone</string>
-  <string name="about_settings_summary">Ver informações legais, estado, versão de software</string>
-  <string name="ac_enable_summary">Vai ser necessário palavra-passe para abrir a aplicação</string>
-  <string name="ac_enable_title">Bloqueio de aplicacões</string>
-  <string name="ac_privacy_mode_sum">Exigir uma palavra-passe para desligar o modo Convidado</string>
-  <string name="ac_privacy_mode_title">Bloqueio de ecrã</string>
-  <string name="ac_set_apps_title">Escolher aplicações a bloquear</string>
-  <string name="accelerometer_summary_off">Trocar orientação automaticamente ao rodar o telefone</string>
-  <string name="accelerometer_summary_on">Trocar orientação automaticamente ao rodar o telefone</string>
-  <string name="accelerometer_title">Rodar ecrã automaticamente</string>
+Se escolher não utilizar anúncios personalizados, a quantidade de anúncios não vai ser reduzida e os anúncios não serão mais selecionados conforme seus gostos."</string>
+  <string name="about_settings">Sobre o telefone</string>
+  <string name="about_settings_summary">Ver informações legais, estado e versão de software</string>
+  <string name="ac_enable_summary"> Será necessário uma senha para abrir o aplicativo</string>
+  <string name="ac_enable_title">Bloqueio de aplicativos</string>
+  <string name="ac_privacy_mode_sum">Exigir uma senha para desligar o modo Convidado</string>
+  <string name="ac_privacy_mode_title">Bloqueio de tela</string>
+  <string name="ac_set_apps_title">Escolher aplicativos para bloquear</string>
+  <string name="accelerometer_summary_off">Trocar orientação automaticamente ao girar o telefone</string>
+  <string name="accelerometer_summary_on">Trocar orientação automaticamente ao girar o telefone</string>
+  <string name="accelerometer_title">Girar tela automaticamente</string>
   <string name="access_control_app_entry_multiple">Abrir %s</string>
-  <string name="access_control_app_entry_single">Abrir aplicação</string>
+  <string name="access_control_app_entry_single">Abrir aplicativo</string>
   <string name="access_control_need_password">"Aplicação %s foi protegida
 "</string>
   <string name="access_control_need_to_unlock">Padrão de desbloqueio</string>
   <string name="access_control_no_back_footer">Toque [icon] para sair</string>
-  <string name="access_control_password_title">Bloqueio de ecrã</string>
+  <string name="access_control_password_title">Bloqueio de tela</string>
   <string name="access_control_recording_intro_header">Desenhar um padrão de desbloqueio</string>
-  <string name="access_control_reset_by_account">Iniciar a sessão na sua Conta Mi para redefinir palavra-passe</string>
+  <string name="access_control_reset_by_account">Inicie uma sessão na sua Conta Mi para redefinir sua senha</string>
   <string name="accessibility_captioning_title">Legendas</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho.</string>
-  <string name="accessibility_display_daltonizer_preference_title">Correcção de Cor</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afectar o desempenho</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Esta funcionalidade é experimental e pode afectar o desempenho do seu telefone.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Correção de Cor</string>
+  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Pode afetar o desempenho</string>
   <string name="accessibility_display_inversion_preference_title">Inversão de Cor</string>
   <string name="accessibility_display_title">Ecrã</string>
   <string name="accessibility_enable">Acessibilidade</string>
